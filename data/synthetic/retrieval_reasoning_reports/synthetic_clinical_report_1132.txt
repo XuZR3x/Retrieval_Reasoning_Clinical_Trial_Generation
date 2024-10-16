@@ -1,0 +1,127 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03586934"
+    },
+    "id_info": {
+      "org_study_id": "Ibrutinib DLBCL Trial",
+      "nct_id": "NCT03586934"
+    },
+    "brief_title": "Ibrutinib in Combination With R-CHOP for Patients With Diffuse Large B-Cell Lymphoma: A Phase III Study",
+    "official_title": "A Phase III, Randomized, Double-Blind Study to Evaluate the Efficacy of Ibrutinib in Combination With R-CHOP Compared to R-CHOP Alone in Patients With Newly Diagnosed Diffuse Large B-Cell Lymphoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "overview": {
+      "description": "This clinical trial aims to assess whether the addition of ibrutinib to the standard R-CHOP regimen can improve clinical outcomes in patients diagnosed with diffuse large B-cell lymphoma (DLBCL). Despite rigorous inclusion criteria, the trial was ultimately unsuccessful due to various factors affecting its validity."
+    },
+    "detailed_description": {
+      "textblock": "The trial enrolled a diverse cohort of participants exhibiting different subtypes of DLBCL, resulting in suboptimal patient selection. This heterogeneity diluted the apparent treatment efficacy of ibrutinib, which is known to be more effective in specific patient populations. Additionally, the primary endpoints of overall survival (OS) and event-free survival (EFS) were unable to demonstrate significant changes, suggesting these endpoints may not have been sufficiently sensitive to detect nuanced benefits of ibrutinib. Moreover, the study reported high rates of treatment discontinuation, likely due to adverse events or progressive disease, which introduced bias. Drug-drug interactions encountered in patients concurrently treated with R-CHOP also impeded drug efficacy. Finally, insufficient dosing optimization and a fixed dosing protocol failed to account for individual patient pharmacokinetics."
+    },
+    "overall_status": "Withdrawn",
+    "why_stopped": "Insufficient treatment efficacy and high treatment discontinuation rates",
+    "start_date": "January 9, 2019",
+    "completion_date": "August 30, 2023",
+    "primary_completion_date": "March 20, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Event-Free Survival (EFS)",
+      "time_frame": "Up to 5 years",
+      "description": "EFS was defined as the time from randomization until disease progression or death from any cause. The assessment was made using the Kaplan-Meier method."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 5 years",
+        "description": "OS was determined from randomization to the date of death from any cause."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the treatment period",
+        "description": "Adverse events were monitored and recorded to assess safety."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "450",
+    "condition": ["Diffuse Large B-Cell Lymphoma"],
+    "arm_group": [
+      {
+        "arm_group_label": "Treatment Arm A: Placebo + R-CHOP",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients received placebo in combination with standard R-CHOP regimen."
+      },
+      {
+        "arm_group_label": "Treatment Arm B: Ibrutinib + R-CHOP",
+        "arm_group_type": "Experimental",
+        "description": "Patients received ibrutinib administered orally once daily in conjunction with R-CHOP regimen."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ibrutinib",
+        "description": "Given orally at 560 mg daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "R-CHOP",
+        "description": "Combination of Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone administered."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo administered orally."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Newly diagnosed diffuse large B-cell lymphoma confirmed by histopathology.\r\n- Measurable disease based on imaging criteria.\r\n- ECOG performance status of 0-2.\r\n- Adequate organ function.\r\n\r\nExclusion Criteria:\r\n- Previous treatment for DLBCL.\r\n- Active infection or uncontrolled comorbidity.\r\n- Central nervous system involvement."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Thompson",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Cancer Institute",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "April 25, 2018",
+    "study_first_posted": "May 1, 2018",
+    "last_update_posted": "April 30, 2023"
+  }
+}
+```

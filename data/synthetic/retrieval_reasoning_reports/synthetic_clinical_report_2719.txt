@@ -1,0 +1,184 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT04142087"
+        },
+        "id_info": {
+            "org_study_id": "BEL-4024",
+            "nct_id": "NCT04142087"
+        },
+        "brief_title": "A Phase 3 Study of Belimumab in Patients With Active Systemic Lupus Erythematosus",
+        "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Belimumab in Adult Patients With Active Systemic Lupus Erythematosus",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "ABC Research Institute",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "Human Genome Sciences Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "ABC Research Institute",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to evaluate the efficacy and safety of belimumab administered as an adjunct therapy in adults with active systemic lupus erythematosus (SLE), compared to placebo over a 52-week treatment period."
+        },
+        "detailed_description": {
+            "textblock": "This multicenter, randomized, double-blind, placebo-controlled study is designed to evaluate the therapeutic efficacy of belimumab, a fully human monoclonal antibody targeting B lymphocyte stimulator (BLyS), in adult participants diagnosed with active SLE as defined by the American College of Rheumatology (ACR) criteria. \
+            \n\nThe primary objective of the study is to assess the percentage of participants achieving a response as per the SLE Responder Index (SRI) at 52 weeks. Secondary endpoints will include the evaluation of SELENA SLEDAI scores, health-related quality of life measurements, and safety assessments, including incidence of adverse events and serious adverse events. Each arm of the study will include rigorous safety monitoring to mitigate risks associated with treatment."
+        },
+        "overall_status": "Completed",
+        "start_date": "January 2020",
+        "completion_date": "February 2022",
+        "primary_completion_date": "December 2021",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "number_of_arms": "2",
+        "enrollment": "325",
+        "condition": "Systemic Lupus Erythematosus",
+        "arm_group": [
+            {
+                "arm_group_label": "1: Belimumab",
+                "arm_group_type": "Experimental",
+                "description": "Belimumab will be administered intravenously at 10 mg/kg on Days 0, 14, and 28, then every 4 weeks up to Week 48 in conjunction with standard of care."
+            },
+            {
+                "arm_group_label": "2: Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo will be administered intravenously on the same schedule as the active comparator."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Belimumab",
+            "description": "Belimumab (Benlysta) aimed at inhibiting BLyS to reduce B cell hyperactivity.",
+            "other_name": ["Benlysta"]
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria: \
+                \n- Adults aged 18-65 years with a confirmed diagnosis of SLE. \
+                \n- Active disease characterized by a SELENA SLEDAI score of >= 6. \
+                \n- Positive ANA and/or anti-dsDNA antibodies. \
+                \n- Stable dose of corticosteroids or immunosuppressants for at least 30 days prior to screening. \
+                \n\nExclusion Criteria: \
+                \n- Previous treatment with BLyS-targeted therapy. \
+                \n- Active severe lupus nephritis or central nervous system involvement. \
+                \n- Malignancy within the last 5 years (other than non-melanoma skin cancer)."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "65 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "John Doe, MD",
+            "role": "Principal Investigator",
+            "affiliation": "ABC Research Institute"
+        },
+        "location": {
+            "facility": {
+                "name": "ABC Research Institute",
+                "address": {
+                    "city": "New York",
+                    "state": "NY",
+                    "zip": "10001",
+                    "country": "United States"
+                }
+            }
+        },
+        "verification_date": "March 2022",
+        "study_first_submitted": "October 1, 2019",
+        "study_first_posted": "October 5, 2019",
+        "last_update_submitted": "January 30, 2022",
+        "last_update_posted": "February 15, 2022",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Belimumab",
+            "Systemic Lupus Erythematosus",
+            "SLE Responder Index"
+        ],
+        "condition_browse": {
+            "mesh_term": "Lupus Erythematosus, Systemic"
+        },
+        "intervention_browse": {
+            "mesh_term": "Belimumab"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Belimumab",
+                            "description": "Participants received belimumab as active treatment."
+                        },
+                        {
+                            "title": "Placebo",
+                            "description": "Participants received placebo as control."
+                        }
+                    ]
+                },
+                "pre_assignment_details": "A total of 350 participants were screened, with 325 successfully enrolled and randomized across both groups.",
+                "period_list": {
+                    "period": [
+                        {
+                            "title": "Treatment Phase (52 weeks)",
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "title": "Started"
+                                    },
+                                    {
+                                        "title": "Completed"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "SLE Responder Index (SRI) Response Rate",
+                        "description": "Percent of participants achieving SLE Responder Index (SRI) response at Week 52.",
+                        "time_frame": "Week 52",
+                        "measure": {
+                            "title": "SRI Response Rate",
+                            "description": "Composite score capturing clinical response to lupus treatment, wherein an SRI response is defined as a 4-point reduction in SELENA SLEDAI with no worsening in PGA."
+                        },
+                        "population": "Modified Intention-to-Treat (MITT)",
+                        "units": "Percentage"
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Change from Baseline in SELENA SLEDAI Score",
+                        "description": "Measuring the reduction in SELENA SLEDAI scores as a sign of disease activity at Week 52.",
+                        "time_frame": "Week 52",
+                        "population": "MITT",
+                        "measure": {
+                            "title": "SELENA SLEDAI Score Change",
+                            "description": "Change from baseline score in disease activity measurement."
+                        },
+                        "units": "Score Change"
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Incidence of Adverse Events",
+                        "description": "Comparative analysis of adverse effects reported in both treatment and placebo groups."
+                    }
+                ]
+            }
+        }
+    }
+}
+```

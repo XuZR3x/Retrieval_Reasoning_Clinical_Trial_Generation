@@ -1,0 +1,149 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02176448"
+    },
+    "id_info": {
+      "org_study_id": "IM007-TH-12",
+      "nct_id": "NCT02176448"
+    },
+    "brief_title": "Effect of Hydrocortisone on Acute Respiratory Distress Syndrome in COVID-19 Patients",
+    "official_title": "A Phase III Randomized, Double-Blind, Placebo-Controlled Trial of Hydrocortisone in the Management of Acute Respiratory Distress Syndrome Secondary to COVID-19",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Michigan",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of Michigan",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy of hydrocortisone as an adjunctive therapy for patients with COVID-19 diagnosed with acute respiratory distress syndrome (ARDS). Despite the promising theoretical underpinnings regarding the anti-inflammatory effects of hydrocortisone, the trial faced significant obstacles leading to its termination. The primary hypothesis postulated that hydrocortisone administration would lead to a significant reduction in the severity of ARDS among patients, thereby improving overall survival and respiratory function."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment coupled with variability in clinical presentations of COVID-19 precluded statistical significance.",
+    "start_date": "July 2020",
+    "completion_date": "January 2021",
+    "primary_completion_date": "November 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "All-cause mortality at 60 days",
+      "time_frame": "Up to 60 days post-randomization"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Improvement in ARDS severity as measured by the PaO2/FiO2 ratio",
+        "time_frame": "Day 1, 3, 7, and 14"
+      },
+      {
+        "measure": "Duration of mechanical ventilation",
+        "time_frame": "Up to 60 days post-randomization"
+      },
+      {
+        "measure": "Incidence of secondary infections",
+        "time_frame": "Up to 60 days post-randomization"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "240",
+    "condition": "Acute Respiratory Distress Syndrome due to COVID-19",
+    "arm_group": [
+      {
+        "arm_group_label": "Hydrocortisone",
+        "arm_group_type": "Experimental",
+        "description": "Hydrocortisone 200mg IV daily for 7 days."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Normal saline IV daily for 7 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Hydrocortisone",
+        "description": "Hydrocortisone 200mg intravenously every 24 hours for 7 days.",
+        "arm_group_label": "Hydrocortisone",
+        "other_name": "Cortisol"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Normal saline solution administered intravenously every 24 hours for 7 days.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Adults aged 18 years and older\r\n\r\n  -  Confirmed COVID-19 infection with ARDS diagnosis\r\n\r\n  -  Requiring mechanical ventilation or high-flow oxygen therapy\r\n\r\n  -  Signed informed consent from the patient or legal representative\r\n\r\nExclusion Criteria:\r\n\r\n  -  History of severe allergic reaction to corticosteroids\r\n\r\n  -  Active infections requiring treatment with corticosteroids\r\n\r\n  -  Pregnant or breastfeeding women\r\n\r\n  -  Patients with terminal illness expected to confound results",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Samuel T. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Michigan"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Michigan Hospital",
+        "address": {
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "keyword": [
+      "Acute Respiratory Distress Syndrome",
+      "COVID-19",
+      "Hydrocortisone",
+      "Corticosteroids",
+      "Mechanical Ventilation"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "COVID-19",
+        "Respiratory Distress Syndrome, Adult"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Hydrocortisone"
+      ]
+    },
+    "verification_date": "December 2021",
+    "study_first_submitted": "May 5, 2020",
+    "study_first_submitted_qc": "May 5, 2020",
+    "study_first_posted": "May 10, 2020",
+    "last_update_submitted": "January 15, 2021",
+    "last_update_submitted_qc": "January 15, 2021",
+    "last_update_posted": "January 20, 2021",
+    "responsible_party": {
+      "name_title": "Samuel T. Smith",
+      "organization": "University of Michigan"
+    }
+  }
+}
+```

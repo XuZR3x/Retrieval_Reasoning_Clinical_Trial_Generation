@@ -1,0 +1,296 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567213"
+    },
+    "id_info": {
+      "org_study_id": "2021-004376",
+      "nct_id": "NCT04567213"
+    },
+    "brief_title": "Evaluation of Pregabalin for Managing Chronic Pain in Post-Surgical Patients",
+    "official_title": "A Double-Blind, Randomized, Placebo-Controlled Trial of Pregabalin for Pain Management in Patients with Persistent Pain Following Surgical Interventions",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Medicine and Pharmacy",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Medicine and Pharmacy",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to assess the efficacy and safety of pregabalin in comparison to placebo for patients experiencing chronic pain after various surgical procedures. The trial sought to recruit a more comprehensive patient population with the potential for diverse neuropathic pain characteristics."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2021",
+    "completion_date": "January 2023",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+        "measure": "Change in Mean Pain Intensity Score",
+        "time_frame": "Baseline to Week 12",
+        "description": "Assessment of average pain levels using an 11-point NRS (Numeric Rating Scale) ranging from 0 (no pain) to 10 (worst possible pain)."
+      },
+      {
+        "measure": "Proportion of Participants Achieving 30% Reduction in Mean Pain Scores",
+        "time_frame": "Week 12",
+        "description": "Percentage of participants achieving at least a 30% reduction from baseline in weekly mean pain scores."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Patient-Reported Outcomes Measurement Information System (PROMIS) - Pain Interference",
+        "time_frame": "Baseline to Week 12",
+        "description": "Change in pain interference with daily activities as measured by the PROMIS Pain Interference Scale."
+      },
+      {
+        "measure": "Responder Rate Defined as 50% Reduction in Pain Score",
+        "time_frame": "Week 12",
+        "description": "Percentage of participants reporting a 50% decrease from baseline in pain intensity."
+      },
+      {
+        "measure": "Frequency and Severity of Adverse Events",
+        "time_frame": "Throughout Study Duration",
+        "description": "Documented incidence of adverse events related to pregabalin treatment during the trial."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "285",
+    "condition": "Chronic Pain, Neuropathic Pain",
+    "arm_group": [{
+        "arm_group_label": "Pregabalin",
+        "arm_group_type": "Experimental",
+        "description": "Pregabalin administered at a starting dose of 150 mg/day, with titration up to 600 mg/day."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Identical, matching inactive substance administered for 12 weeks."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Pregabalin",
+        "description": "Dosing titration from 150 mg up to maximum 600 mg/day based on tolerability and pain control.",
+        "arm_group_label": "Pregabalin",
+        "other_name": "Lyrica"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered in the same dosing schedule as pregabalin.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Adults aged 18 years and older who have undergone surgical procedures within the past 6 months and report persistent pain.\r\n\r\n2. Chronic pain should be assessed as moderate to severe (pain score >4 on an 11-point NRS).\r\n\r\n3. Participants must give informed consent and be able to adhere to study requirements.\r\n\r\nExclusion Criteria:\r\n\r\n1. History of significant neurological disorders or chronic pain conditions like fibromyalgia.\r\n\r\n2. Use of gabapentinoids or other specific analgesics in the past 30 days.\r\n\r\n3. Uncontrolled medical conditions including renal impairment.\r\n\r\n4. Any contraindications to the use of pregabalin."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Mary Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Medicine and Pharmacy"
+    },
+    "location": [{
+        "facility": {
+          "name": "University of Medicine and Pharmacy Research Center",
+          "address": {
+            "city": "Cluj-Napoca",
+            "state": "Cluj",
+            "zip": "400000",
+            "country": "Romania"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Regional Hospital for Research and Development",
+          "address": {
+            "city": "Timisoara",
+            "state": "Timis",
+            "zip": "300000",
+            "country": "Romania"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "Romania"
+    },
+    "verification_date": "February 2023",
+    "study_first_submitted": "May 10, 2021",
+    "study_first_submitted_qc": "June 5, 2021",
+    "study_first_posted": "June 15, 2021",
+    "results_first_submitted": "February 12, 2023",
+    "results_first_submitted_qc": "February 20, 2023",
+    "results_first_posted": "March 1, 2023",
+    "last_update_submitted": "February 28, 2023",
+    "last_update_submitted_qc": "February 28, 2023",
+    "last_update_posted": "March 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Medicine and Pharmacy",
+      "investigator_full_name": "Mary Thompson",
+      "investigator_title": "Lead Researcher"
+    },
+    "keyword": ["Pregabalin", "Chronic Pain", "Post-Surgical Pain Management", "Randomized Clinical Trial"],
+    "intervention_browse": {
+      "mesh_term": "Pregabalin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 60 clinical sites participated across Romania. Patients were screened for inclusion based on their surgical history and the chronicity of their pain.",
+        "pre_assignment_details": "Eligible participants underwent baseline assessments before being randomly assigned to either the pregabalin or placebo group in a 1:1 ratio."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+              "title": "Pregabalin",
+              "description": "Patients were enrolled to receive pregabalin with titrated dosing from 150 mg to a maximum of 600 mg daily."
+            },
+            {
+              "title": "Placebo",
+              "description": "Patients received placebo treatment."
+            }
+          ],
+          "total": {
+            "description": "Total reporting groups."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Change in Mean Pain Intensity Score",
+            "description": "Evaluation of changes in pain levels on the NRS across treatment duration.",
+            "time_frame": "Baseline to Week 12",
+            "population": "ITT (Intent to Treat) population: all randomized participants who received the intervention.",
+            "group_list": {
+              "group": [{
+                  "title": "Pregabalin",
+                  "description": "Participants receiving Pregabalin."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Participants receiving the placebo treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mean Pain Intensity Score",
+              "units": "NRS score",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Responder Rate as Defined by ≥ 30% Reduction in Mean Pain Scores",
+            "description": "Percentage of participants demonstrating at least a 30% reduction in pain scores from baseline.",
+            "time_frame": "Week 12",
+            "population": "ITT population: all randomized participants.",
+            "group_list": {
+              "group": [{
+                  "title": "Pregabalin",
+                  "description": "Participants receiving Pregabalin."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Participants receiving placebo treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Responder Rate",
+              "units": "Percentage of participants",
+              "param": "Count of Participants"
+            }
+          }
+        ],
+        "reported_events": {
+          "desc": "Outcome measures indicated significant difficulties with the primary objective of pain reduction.",
+          "serious_events": {
+            "category_list": [{
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Serious events related to stud medication",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Nervous System Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Severe Dizziness",
+                    "counts": [null, null]
+                  }
+                }
+              }
+            ]
+          },
+          "other_events": {
+            "frequency_threshold": "3",
+            "category_list": [{
+                "title": "Generalized Fatigue",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Patient reports of fatigue",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Nervous System Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Persistent Cognitive Impairment",
+                    "counts": [null, null]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "limitations_and_caveats": "The trial faced recruitment challenges and high dropout rates driven by adverse events and perceived lack of efficacy which resulted in insufficient statistical power to conclusively ascertain the effectiveness of pregabalin for chronic post-surgical pain.",
+        "certain_agreements": {
+          "pi_employee": "The principal investigator is not an employee of the sponsoring organization.",
+          "restrictive_agreement": "The principal investigator is not restricted in their ability to publish or discuss study findings without oversight from the sponsor."
+        },
+        "point_of_contact": {
+          "name_or_title": "Dr. Mary Thompson",
+          "organization": "University of Medicine and Pharmacy",
+          "phone": "+40 123 456 789",
+          "email": "m.thompson@umfcluj.ro"
+        }
+      }
+    }
+  }
+}
+```

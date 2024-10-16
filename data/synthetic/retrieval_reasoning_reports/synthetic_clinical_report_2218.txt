@@ -1,0 +1,151 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03678553"
+    },
+    "id_info": {
+      "org_study_id": "FEN-2019-03",
+      "nct_id": "NCT03678553"
+    },
+    "brief_title": "Assessment of Fentanyl for Postoperative Pain Management in Patients Undergoing Total Knee Arthroplasty: A Randomized Controlled Trial",
+    "official_title": "A Randomized Controlled Trial Assessing the Effectiveness and Safety of Fentanyl Versus Standard Care for Postoperative Analgesia Following Total Knee Arthroplasty",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Surgical Pain Management Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pain Relief Technologies Corp.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Surgical Pain Management Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the surgical analgesic efficacy and safety profile of fentanyl in comparison to standard pain management protocols in patients post-total knee arthroplasty (TKA). The hypothesis posits that fentanyl administration will yield equivalent or superior analgesia. However, heightened monitoring on adverse events, particularly respiratory depression, and the management of participant-reported pain scores will be critical to assessing the intervention's overall benefit-risk ratio."
+    },
+    "detailed_description": {
+      "textblock": "Despite advances in postoperative analgesia, the management of postoperative pain continues to be a significant clinical challenge, particularly in the context of total knee arthroplasty. This study will recruit adult patients scheduled for elective TKA and will assess the efficacy of fentanyl as part of an enhanced recovery protocol. Participants will be randomly assigned to receive either continuous fentanyl infusion (1 mcg/kg/hr) or traditional multimodal analgesia consisting of acetaminophen, non-steroidal anti-inflammatory drugs, and opioid-sparing medications.\n\nMonitoring will include assessment of pain scores using a numerical rating scale (NRS 0-10) and collection of safety data to track adverse events such as sedation levels and respiratory function. It is anticipated that a proportion of participants may experience suboptimal analgesia due to inadequate titration of fentanyl, leading to reliance on rescue medications, which has been a concern in previous trials involving opioid-naive populations. This study will also explicitly address the potential pharmacodynamic interactions between fentanyl and other analgesics used in multimodal regimens."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Increased incidence of respiratory depression and insufficient analgesic efficacy relative to historical controls",
+    "start_date": "June 2019",
+    "completion_date": "October 2020",
+    "primary_completion_date": "October 2020",
+    "phase": "N/A",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Single (Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Pain intensity as measured by Numerical Rating Scale (NRS)",
+      "time_frame": "At 24, 48, and 72 hours post-surgery",
+      "description": "Pain intensity will be evaluated at specified time points to determine the effectiveness of fentanyl relative to standard care."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Total opioid consumption",
+        "time_frame": "During first 72 hours post-surgery",
+        "description": "Assessment of total opioids utilized during the post-surgical recovery period as a measure of pain control effectiveness."
+      },
+      {
+        "measure": "Incidence of respiratory depression (defined as SpO2 < 92% and/or respiratory rate < 10 breaths/min)",
+        "time_frame": "Throughout hospital stay, monitored every 2 hours for the first 48 hours postoperatively",
+        "description": "Monitoring for occurrences of respiratory adverse events."
+      },
+      {
+        "measure": "Patient satisfaction regarding pain management",
+        "time_frame": "At 72 hours post-surgery using a validated satisfaction questionnaire",
+        "description": "Evaluation of patient experience and satisfaction with pain management protocols employed."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "110",
+    "condition": "Postoperative Pain in Total Knee Arthroplasty",
+    "arm_group": [
+      {
+        "arm_group_label": "Fentanyl Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive a continuous fentanyl infusion at a rate of 1 mcg/kg/hr postoperatively for the first 72 hours."
+      },
+      {
+        "arm_group_label": "Standard Care Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive multimodal analgesic therapy including acetaminophen, NSAIDs, and opioids as per the institutional pain management protocol."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fentanyl",
+        "description": "Continuous fentanyl infusion at a rate of 1 mcg/kg/hr administered during the first 72 hours postoperatively.",
+        "arm_group_label": "Fentanyl Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Analgesic Regimen",
+        "description": "Multimodal analgesic therapy including acetaminophen and NSAIDs.",
+        "arm_group_label": "Standard Care Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adults aged 18 to 80 years scheduled for elective total knee arthroplasty\n  - Capable of providing informed consent\n  - No prior history of chronic opioid use\n\nExclusion Criteria:\n\n  - Contraindications to fentanyl or other opioid medications\n  - Severe respiratory conditions or history of respiratory depression\n  - Significant renal or hepatic impairment\n  - Participation in other investigational studies within 30 days prior to enrollment"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Angela Simmons",
+      "role": "Principal Investigator",
+      "affiliation": "Surgical Pain Management Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Surgical Pain Management Institute",
+        "address": {
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75201",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2020",
+    "study_first_submitted": "March 21, 2019",
+    "study_first_submitted_qc": "March 25, 2019",
+    "study_first_posted": "March 27, 2019",
+    "last_update_submitted": "November 10, 2020",
+    "last_update_posted": "November 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Postoperative Pain",
+      "Total Knee Arthroplasty",
+      "Fentanyl",
+      "Respiratory Depression"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Postoperative Pain", "Knee Arthroplasty"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fentanyl", "Opioid Analgesics"]
+    }
+  }
+}
+```

@@ -1,0 +1,393 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "SAXA-C03",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Saxagliptin in Patients With Type 2 Diabetes Inadequately Controlled on Diet and Exercise Alone",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy and Safety of Saxagliptin in Combination With Diet and Exercise in Patients With Type 2 Diabetes Mellitus Who Are Inadequately Controlled on Diet and Exercise Alone",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AstraZeneca",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of saxagliptin in patients with Type 2 diabetes who have not achieved adequate glycemic control through diet and exercise alone."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, randomized, double-blind, placebo-controlled trial will enroll subjects aged 18-75 years diagnosed with Type 2 diabetes mellitus. All participants will undergo a 2-week run-in period of diet and exercise aimed at achieving glycemic stabilization before being randomized to receive saxagliptin 5 mg once daily or placebo for 24 weeks."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2011",
+    "completion_date": "June 2013",
+    "primary_completion_date": "May 2013",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Hemoglobin A1c (HbA1c) from Baseline to Week 24",
+      "time_frame": "Baseline, Week 24",
+      "description": "The primary endpoint is the change in HbA1c from baseline, evaluated using an ANCOVA model to adjust for baseline values and potential confounders."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Fasting Plasma Glucose (FPG) from Baseline to Week 24",
+        "time_frame": "Baseline, Week 24",
+        "description": "Secondary analysis to assess changes in fasting plasma glucose, adjusted for baseline values."
+      },
+      {
+        "measure": "Proportion of Participants Achieving HbA1c <7% at Week 24",
+        "time_frame": "Week 24",
+        "description": "Assessment of the percentage of participants achieving the ADA target of <7% HbA1c at endpoint."
+      },
+      {
+        "measure": "Change in Postprandial Glucose (PPG) Levels at Week 24",
+        "time_frame": "Baseline, Week 24",
+        "description": "Evaluation of the mean change in postprandial glucose from baseline to Week 24 as measured during an oral glucose tolerance test."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1200",
+    "condition": "Diabetes Mellitus, Type 2",
+    "arm_group": [
+      {
+        "arm_group_label": "Saxagliptin 5 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive saxagliptin 5 mg once daily in addition to diet and exercise."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive placebo once daily in addition to diet and exercise."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Saxagliptin",
+        "description": "Tablets, Oral, 5 mg once daily for 24 weeks",
+        "arm_group_label": "Saxagliptin 5 mg"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Tablets, Oral, 0 mg once daily for 24 weeks",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Diagnosed with Type 2 diabetes mellitus\n- Aged 18 to 75 years\n- HbA1c ≥ 7.0% to ≤ 10.5% at screening\n- Not currently treated with any anti-diabetic medication\n\nExclusion Criteria:\n\n- Pregnant or breastfeeding women\n- Significant hepatic or renal impairment\n- History of pancreatitis or gastrointestinal surgery affecting absorption\n- Concurrent use of systemic glucocorticoids"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elizabeth Walker",
+      "role": "Study Director",
+      "affiliation": "AstraZeneca"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University Medical Center",
+          "address": {
+            "city": "Denver",
+            "state": "Colorado",
+            "zip": "80230",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Midwest Diabetes Research Institute",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60614",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2015",
+    "study_first_submitted": "November 1, 2010",
+    "study_first_posted": "November 5, 2010",
+    "results_first_submitted": "June 15, 2013",
+    "results_first_posted": "July 20, 2013",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Diabetes Mellitus, Type 2"
+    },
+    "intervention_browse": {
+      "mesh_term": "Saxagliptin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "This study was conducted at 35 sites across the United States. First subject enrolled: January 15, 2011; Last subject last visit: June 30, 2013.",
+        "pre_assignment_details": "A total of 1200 patients were screened and 300 patients were excluded due to violation of inclusion and exclusion criteria.",
+        "group_list": {
+          "group": {
+            "title": "Saxagliptin + Placebo",
+            "description": "Patients were randomized to receive either saxagliptin or placebo in addition to standard care."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["1200 participants screened"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["83% completed treatment"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["17% withdrew for various reasons"]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": ["2% experienced adverse events"]
+                    }
+                  },
+                  {
+                    "title": "Withdrawal of Consent",
+                    "participants_list": {
+                      "participants": ["5% withdrew consent"]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "All randomized participants",
+        "group_list": {
+          "group": [
+            {
+              "title": "Saxagliptin"
+            },
+            {
+              "title": "Placebo"
+            },
+            {
+              "title": "Total"
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [600, 600, 1200]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [55, 56]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [300, 280]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [300, 320]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in HbA1c from Baseline to Week 24",
+            "description": "Mean change from baseline in HbA1c at Week 24, demonstrating significant glucose control.",
+            "time_frame": "Baseline, Week 24",
+            "population": "Randomized participants who completed treatment.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Saxagliptin Group",
+                  "description": "Demonstrated substantial reductions in HbA1c."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Minimal HbA1c changes observed."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change in HbA1c",
+              "description": "Mean percentage change from baseline: Saxagliptin -1.3% vs. Placebo -0.2% (p < 0.001)."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Proportion of Participants Achieving HbA1c <7%",
+            "time_frame": "Week 24",
+            "population": "All treated participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Saxagliptin Group",
+                  "description": "Achieved HbA1c <7% in 60% of subjects."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Only 20% achieved target HbA1c."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Percentage of Participants",
+              "description": "Saxagliptin showed a statistically significant higher proportion of participants with HbA1c <7%."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in Fasting Plasma Glucose",
+            "description": "Decline in fasting plasma glucose levels marked with saxagliptin treatment.",
+            "time_frame": "Baseline, Week 24",
+            "population": "Participants with available fasting glucose data.",
+            "measure": {
+              "title": "Fasting Plasma Glucose Levels",
+              "description": "Saxagliptin: Mean change -20 mg/dL; Placebo: Mean change -5 mg/dL."
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [{
+            "title": "Saxagliptin",
+            "description": "Managed within specified safety parameters."
+          }, {
+            "title": "Placebo",
+            "description": "Reported fewer adverse events."
+          }]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total serious adverse events",
+                  "counts": [5, 3]  // Counts of serious adverse events per group
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 11.1",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Nausea",
+                  "counts": [10, 5]
+                }
+              }
+            }, {
+              "title": "Nervous system disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Headache",
+                  "counts": [8, 4]
+                }
+              }
+            }]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The sponsor retains the right to review communications regarding trial results prior to public release for a period not exceeding 60 days."
+      },
+      "limitations_and_caveats": "A focus on a well-defined patient population enhances the validity of the results, although caution must be exercised in broader applications due to the inclusion criteria.",
+      "point_of_contact": {
+        "name_or_title": "Dr. John Adams",
+        "organization": "AstraZeneca",
+        "email": "john.adams@astrazeneca.com"
+      }
+    }
+  }
+}
+```

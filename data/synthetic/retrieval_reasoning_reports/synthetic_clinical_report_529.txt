@@ -1,0 +1,138 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00812345"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000801234",
+      "secondary_id": ["ABC123456", "XYZ987654"],
+      "nct_id": "NCT00812345"
+    },
+    "brief_title": "Filgrastim in Combination with Induction Chemotherapy for Patients with Poor Risk Acute Myeloid Leukemia",
+    "official_title": "Phase II Trial of Filgrastim in Combination with Induction Chemotherapy in Patients with Acute Myeloid Leukemia - A Focus on Poor Risk Groups",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Comprehensive Cancer Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Comprehensive Cancer Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: The use of colony-stimulating factors like filgrastim may facilitate hematologic recovery after chemotherapy by enhancing the mobilization of peripheral blood stem cells. The aim is to increase the rate of hematologic recovery and improve treatment outcomes in patients with acute myeloid leukemia (AML) defined as poor risk.",
+      "detailed_description": {
+        "textblock": "OBJECTIVES:\n\n - To evaluate the efficacy of adding filgrastim to standard induction chemotherapy regimens in improving the complete response rate among patients with poor risk AML.\n - To assess the safety profile of filgrastim in conjunction with chemotherapy.\n - To correlate the incidence of treatment-related complications, particularly infections related to neutropenia, with the use of filgrastim.\n\nOUTLINE:\n\nThis interventional study is designed as a single-arm, multi-center trial. Patients receive standard induction chemotherapy consisting of cytarabine and daunorubicin, with filgrastim administered subcutaneously commencing from day 6 of the chemotherapy cycle through neutrophil recovery.\n\nAfter achieving a complete response, patients will be followed for a minimum of 12 months or until the occurrence of relapse."
+      }
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and poor accrual.",
+    "start_date": "February 2009",
+    "completion_date": "December 2014",
+    "primary_completion_date": "June 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Complete Response Rate",
+      "time_frame": "1 year"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Duration of Neutropenia",
+        "time_frame": "1 year"
+      },
+      {
+        "measure": "Incidence of Infections",
+        "time_frame": "1 year"
+      },
+      {
+        "measure": "Overall Survival",
+        "time_frame": "Life"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": "Acute Myeloid Leukemia",
+    "arm_group": {
+      "arm_group_label": "Filgrastim with Induction Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Combination therapy with filgrastim and standard induction chemotherapy for the treatment of acute myeloid leukemia in poor risk patients."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "filgrastim",
+        "description": "5 mcg/kg/day subcutaneously starting on day 6 of chemotherapy until recovery of neutrophils."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "cytarabine",
+        "description": "Continuous IV infusion of cytarabine on days 1-7."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "daunorubicin",
+        "description": "IV administration of daunorubicin on days 1-3."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\nDISEASE CHARACTERISTICS:\n - Histologically confirmed diagnosis of acute myeloid leukemia (AML) with risk stratification classified as poor risk according to latest clinical guidelines.\n\nPARTICIPANT CHARACTERISTICS:\n - Patients aged 18 years and older.\n - ECOG performance status of 0-2.\n - Adequate organ function as evidenced by laboratory tests.\n\nExclusion Criteria:\n - Prior chemotherapy or stem cell transplant for AML.\n - Active or uncontrolled infections requiring systemic therapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "120 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Comprehensive Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Comprehensive Cancer Center",
+        "address": {
+          "city": "Cityville",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2015",
+    "study_first_submitted": "January 20, 2009",
+    "study_first_submitted_qc": "January 21, 2009",
+    "study_first_posted": "February 1, 2009",
+    "last_update_submitted": "May 6, 2015",
+    "last_update_posted": "May 10, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Comprehensive Cancer Center",
+      "investigator_full_name": "John Doe",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": ["acute myeloid leukemia", "filgrastim", "induction chemotherapy", "poor risk AML"],
+    "condition_browse": {
+      "mesh_term": "Leukemia, Myeloid, Acute"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Filgrastim", "Cytarabine", "Daunorubicin"]
+    }
+  }
+}
+```

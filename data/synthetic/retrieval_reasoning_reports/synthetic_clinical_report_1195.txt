@@ -1,0 +1,147 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+        },
+        "id_info": {
+            "org_study_id": "XYZ-2021-12",
+            "nct_id": "NCT04567890"
+        },
+        "brief_title": "Efficacy of Dasatinib in Patients With Newly Diagnosed Chronic Phase Chronic Myelogenous Leukemia",
+        "official_title": "A Phase II Study Assessing the Molecular and Hematologic Response to Dasatinib in Newly Diagnosed Chronic Phase Chronic Myelogenous Leukemia Patients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals Corporation",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Novartis Pharmaceuticals Corporation",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This is a multicenter, open-label Phase II trial aimed at evaluating the efficacy of dasatinib in newly diagnosed chronic phase chronic myelogenous leukemia patients. The study focuses on molecular response rates and safety assessments over a treatment period of 24 months."
+        },
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\r\n\r\n1. To determine the molecular response rates, as measured by the decrease in BCR-ABL transcript levels, at the 12-month mark for patients treated with dasatinib.\r\n\r\n2. To evaluate hematologic response rates at 6 months, 12 months, and 24 months post-treatment initiation.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\n1. To calculate the overall survival (OS) and relapse-free survival (RFS) over a follow-up period of 2 years.\r\n2. To characterize the safety profile of dasatinib, with a focus on the frequency and severity of treatment-related adverse events.\r\n\r\nMETHODOLOGY:\r\n\r\nEligible patients will receive dasatinib 100 mg PO once daily during 28-day treatment cycles, with assessments occurring at specified intervals including pretreatment, 6 months, 12 months, and 24 months to ascertain both molecular and hematologic responses. Patients will be stratified based on the Philadelphia chromosome status to optimize targeted treatment strategies. Patients will be monitored for adverse events according to the NCI CTCAE v5.0 standards."
+        },
+        "overall_status": "Completed",
+        "start_date": "September 15, 2021",
+        "completion_date": "October 15, 2024",
+        "primary_completion_date": "October 1, 2023",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [{
+                "measure": "Molecular Response Rate at 12 Months",
+                "time_frame": "Completed at 12 months post-treatment initiation",
+                "description": "Molecular response defined as a decrease in BCR-ABL transcripts, measured by quantitative RT-PCR, compared to baseline levels."
+            },
+            {
+                "measure": "Hematologic Response",
+                "time_frame": "Evaluated at 6 months and 12 months",
+                "description": "Hematologic response evaluated through complete blood count (CBC) to determine normalization of blood parameters."
+            }
+        ],
+        "secondary_outcome": [{
+                "measure": "Overall Survival Rate",
+                "time_frame": "Every six months for the first two years",
+                "description": "Evaluation of survival rates from the start of treatment until death from any cause."
+            },
+            {
+                "measure": "Relapse-free Survival",
+                "time_frame": "Annually for up to 2 years",
+                "description": "Measured from the date of complete hematologic remission until documented loss of remission or death."
+            },
+            {
+                "measure": "Adverse Events Assessment",
+                "time_frame": "Monthly assessments for the first year and biannually thereafter",
+                "description": "Frequency and severity of adverse events related to dasatinib classified per NCI CTCAE v5.0."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "150",
+        "condition": "Chronic Myeloid Leukemia, BCR-ABL1 Positive",
+        "arm_group": {
+            "arm_group_label": "Dasatinib treatment group",
+            "arm_group_type": "Experimental",
+            "description": "Patients receive dasatinib 100 mg orally once daily in 28-day cycles until disease progression or unacceptable toxicity."
+        },
+        "intervention": [{
+                "intervention_type": "Drug",
+                "intervention_name": "Dasatinib",
+                "description": "Administered orally once daily at a dose of 100 mg.",
+                "other_name": "Sprycel"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "INCLUSION CRITERIA:\r\n\r\n1. Patients aged 18 years or older with newly diagnosed chronic phase chronic myelogenous leukemia (CML) confirmed by cytogenetic analysis or molecular analysis showing the Philadelphia chromosome.\r\n\r\n2. Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n\r\n3. Adequate organ function, including no active cardiovascular issues (e.g., significant arrhythmias, congestive heart failure), renal impairment, or liver dysfunction (ALT/AST < 2.5 times ULN).\r\n\r\n4. Provision of informed consent prior to participating in the study.\r\n\r\nEXCLUSION CRITERIA:\r\n\r\n1. Patients with prior treatment for CML, other than hydroxyurea.\r\n\r\n2. History of significant bleeding disorders unrelated to cancer.\r\n\r\n3. Female patients who are pregnant, breastfeeding, or of childbearing potential without adequate contraception.\r\n\r\n4. Patients with known hypersensitivity to dasatinib or its excipients.\r\n\r\n5. Other malignancies within the past 5 years, except for skin cancers or in situ cervical cancer."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Dr. Emily Thompson",
+            "role": "Lead Investigator",
+            "affiliation": "Johns Hopkins University"
+        },
+        "location": [{
+                "facility": {
+                    "name": "Johns Hopkins Hospital",
+                    "address": {
+                        "city": "Baltimore",
+                        "state": "Maryland",
+                        "zip": "21205",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "University of Maryland Medical Center",
+                    "address": {
+                        "city": "Baltimore",
+                        "state": "Maryland",
+                        "zip": "21201",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "August 2024",
+        "study_first_submitted": "August 29, 2021",
+        "study_first_submitted_qc": "August 29, 2021",
+        "study_first_posted": "September 1, 2021",
+        "results_first_submitted": "December 1, 2023",
+        "results_first_submitted_qc": "January 15, 2024",
+        "results_first_posted": "February 20, 2024",
+        "last_update_submitted": "September 5, 2024",
+        "last_update_submitted_qc": "September 5, 2024",
+        "last_update_posted": "September 6, 2024",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+        },
+        "intervention_browse": {
+            "mesh_term": "Dasatinib"
+        }
+    }
+}
+```

@@ -1,0 +1,329 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 3, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02112345"
+    },
+    "id_info": {
+      "org_study_id": "IRB-22347",
+      "secondary_id": ["FDA-2021-5678", "AZA-MDS-006", "GRANT-2021"],
+      "nct_id": "NCT02112345"
+    },
+    "brief_title": "Azacitidine in Combination With Nivolumab for Elderly Patients With Relapsed Acute Myeloid Leukemia",
+    "official_title": "A Phase II Study of Azacitidine in Combination With Nivolumab in Elderly Patients With Relapsed Acute Myeloid Leukemia (AML) and High-Risk Myelodysplastic Syndromes (MDS)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of azacitidine combined with nivolumab in elderly patients with relapsed acute myeloid leukemia (AML) and high-risk myelodysplastic syndromes (MDS) who have failed prior therapies."
+    },
+    "detailed_description": {
+      "textblock": "This open-label, multicenter, Phase II clinical trial investigates the combined effects of azacitidine and nivolumab on elderly individuals diagnosed with relapsed AML or high-risk MDS. Recent literature suggests that the combination may enhance the immune response in chemically induced genotoxic conditions. Participants receive azacitidine on days 1 to 7 of each 28-day treatment cycle, alongside nivolumab administered intravenously on day 1.\n\nThe primary objectives include evaluating the overall response rate (ORR) based on completed response assessment through bone marrow examinations after 6 cycles of treatment. The secondary objectives encompass the evaluation of overall survival (OS), progression-free survival (PFS), and the profile of adverse events.\n\nParticipants were required to be aged 60 years or older, possessing a performance status of 0-2 in accordance with Eastern Cooperative Oncology Group (ECOG) criteria, and providing informed consent prior to enrollment. The trial amassed a total of 40 participants before closure due to unanticipated failure to meet the primary endpoint defined as an ORR of at least 30%."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate efficacy and high toxicity profile leading to poor tolerability and treatment discontinuation.",
+    "start_date": "January 2015",
+    "completion_date": "September 2018",
+    "primary_completion_date": "March 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 6 months",
+      "description": "The overall response rate is defined as the percentage of patients achieving complete response (CR) or partial response (PR)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 24 months",
+        "description": "The time from the first dose of azacitidine until death from any cause."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "The duration from the first dose until disease progression or death from any cause."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "40",
+    "condition": ["Acute Myeloid Leukemia (AML)", "High-Risk Myelodysplastic Syndromes (MDS)"],
+    "arm_group": {
+      "arm_group_label": "Azacitidine plus Nivolumab",
+      "arm_group_type": "Experimental",
+      "description": "Elderly patients will receive azacitidine 75 mg/m² subcutaneously on days 1-7 and nivolumab 3 mg/kg intravenously on day 1 of a 28-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Azacitidine",
+        "description": "A hypomethylating agent used in the control of myelodysplastic syndromes and acute myeloid leukemia.",
+        "arm_group_label": "Azacitidine plus Nivolumab",
+        "other_name": ["Vidaza"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab",
+        "description": "An immune checkpoint inhibitor targeting the programmed cell death protein 1 (PD-1) receptor.",
+        "arm_group_label": "Azacitidine plus Nivolumab",
+        "other_name": ["Opdivo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Diagnosis of relapsed AML or high-risk MDS.\n- Age 60 years or older.\n- ECOG performance status of 0-2.\n- Adequate organ function as assessed by laboratory parameters.\n\nExclusion Criteria:\n- Previous treatment with immune checkpoint inhibitors.\n- Concurrent serious infections or uncontrolled medical conditions.\n- History of allergic reactions to either azacitidine or nivolumab."
+      },
+      "gender": "All",
+      "minimum_age": "60 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Margaret H. Cole",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2023",
+    "study_first_submitted": "March 15, 2014",
+    "study_first_submitted_qc": "March 18, 2014",
+    "study_first_posted": "March 20, 2014",
+    "last_update_submitted": "September 15, 2023",
+    "last_update_posted": "September 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Johns Hopkins University",
+      "investigator_full_name": "Margaret H. Cole",
+      "investigator_title": "Associate Professor of Medicine"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia",
+        "Leukemia, Myeloid",
+        "Leukemia, Myeloid, Acute",
+        "Myelodysplastic Syndromes"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Azacitidine",
+        "Nivolumab"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrollment began in April 2015 and continued until March 2018.",
+        "group_list": {
+          "group": {
+            "title": "Azacitidine plus Nivolumab",
+            "description": "Combination therapy was administered to all enrolled participants."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "TREATED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": null}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Azacitidine plus Nivolumab",
+            "description": "Elderly patients receiving the combination therapy."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "The response rate measured by complete responses and partial responses among participants receiving treatment.",
+            "time_frame": "Assessed after 6 cycles.",
+            "group_list": {
+              "group": {
+                "title": "Azacitidine plus Nivolumab",
+                "description": "Total response rate observed in this group."
+              }
+            },
+            "measure": {
+              "title": "Overall Response Rate (ORR)",
+              "description": "Sum of complete response (CR) and partial response (PR) percentages.",
+              "units": "Percentage",
+              "param": "Count of Responders",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Assessed at each cycle and for 30 days post-treatment.",
+        "group_list": {
+          "group": {
+            "title": "Azacitidine plus Nivolumab",
+            "description": "Adverse events monitored during and after treatment."
+          }
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Non-systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {"event": {"sub_title": "Total, serious adverse events", "counts": null}}
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {"sub_title": "Febrile neutropenia", "counts": null},
+                    {"sub_title": "Severe thrombocytopenia", "counts": null}
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {"sub_title": "Diarrhea", "counts": null},
+                    {"sub_title": "Nausea", "counts": null},
+                    {"sub_title": "Vomiting", "counts": null}
+                  ]
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": [
+                    {"sub_title": "Asthenia", "counts": null},
+                    {"sub_title": "Fever", "counts": null}
+                  ]
+                }
+              },
+              {
+                "title": "Infections and infestations",
+                "event_list": {
+                  "event": [
+                    {"sub_title": "Pneumonia", "counts": null},
+                    {"sub_title": "Sepsis", "counts": null}
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Non-systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Anemia",
+                    "counts": null
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Margaret Cole",
+        "organization": "Johns Hopkins University",
+        "phone": "410-555-0199",
+        "email": "mcole@jhmi.edu"
+      }
+    }
+  }
+}
+```

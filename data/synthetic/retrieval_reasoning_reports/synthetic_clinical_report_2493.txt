@@ -1,0 +1,159 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03056876"
+    },
+    "id_info": {
+      "org_study_id": "AHRQ-2016-103",
+      "nct_id": "NCT03056876"
+    },
+    "brief_title": "Efficacy of Lidocaine Patches for Chronic Lower Back Pain Management",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial of Lidocaine Patch for Relief of Chronic Lower Back Pain",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "American Health Research and Quality (AHRQ)",
+        "agency_class": "Other"
+      }
+    },
+    "source": "American Health Research and Quality",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "Chronic lower back pain (CLBP) is a significant health issue affecting millions globally.\nThe lidocaine patch is hypothesized to provide relief through local anesthetic properties by blocking\nsodium channels in peripheral nerves. However, the effectiveness of this treatment in patients suffering\nfrom CLBP has not been thoroughly evaluated."
+    },
+    "detailed_description": {
+      "textblock": "Objectives:\n- Determine the efficacy of lidocaine patches compared to placebo in reducing pain intensity in patients with CLBP.\n- Evaluate secondary outcomes such as quality of life and functional status.\n\nDesign: A multicenter, randomized, double-blind, placebo-controlled trial.\nPatients were randomly assigned to receive either a lidocaine patch or a placebo patch applied daily\nfor six weeks. Pain levels were assessed using a numerical rating scale (NRS) and quality of life was measured\nvia the SF-36 questionnaire at baseline, three weeks, and at the conclusion of the study.\n\nRecruitment aimed for 200 participants, enrolled across five clinical sites.\n\nRequirements included: adults aged 18-70 with a diagnosis of chronic lower back pain persisting for more than 6 months.\nExclusion criteria involved any history of hypersensitivity to local anesthetics or co-morbid psychiatric conditions."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and futility in achieving primary endpoints.",
+    "start_date": "January 2017",
+    "completion_date": "August 2019",
+    "primary_completion_date": "July 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Pain Intensity (NRS 0-10 scale)",
+      "time_frame": "Baseline, 3 weeks, and 6 weeks after allocation",
+      "description": "Measurement of pain intensity using a numerical rating scale."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Quality of Life via SF-36",
+        "time_frame": "At baseline, 3 weeks, and 6 weeks post-treatment",
+        "description": "Assessment of quality of life changes associated with chronic lower back pain."
+      },
+      {
+        "measure": "Patient Satisfaction Survey",
+        "time_frame": "At study completion (6 weeks)",
+        "description": "Evaluation of patient-reported outcomes related to treatment satisfaction."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "40",
+    "condition": "Chronic Lower Back Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Lidocaine Patch",
+        "arm_group_type": "Experimental",
+        "description": "Participants received a lidocaine patch to wear for twelve hours daily."
+      },
+      {
+        "arm_group_label": "Placebo Patch",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received a placebo patch identical in appearance to the lidocaine patch."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lidocaine",
+        "arm_group_label": "Lidocaine Patch"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Sham",
+        "arm_group_label": "Placebo Patch"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Adults aged 18-70 years.\n  - History of chronic lower back pain for at least 6 months.\n\nExclusion Criteria:\n  - Hypersensitivity to local anesthetics.\n  - Presence of psychiatric disorders significantly affecting pain perception.\n  - Recent history of opioid use (within 4 weeks prior to enrollment).",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "70 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": [
+      {
+        "last_name": "Sandra Thompson, MD",
+        "role": "Principal Investigator",
+        "affiliation": "AHRQ"
+      },
+      {
+        "last_name": "Joseph Martinez, PhD",
+        "role": "Co-Investigator",
+        "affiliation": "University of Pain Management"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "AHRQ Clinical Research Center",
+          "address": {
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75201",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of Pain Management",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2021",
+    "study_first_submitted": "December 12, 2016",
+    "study_first_posted": "January 10, 2017",
+    "last_update_posted": "December 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "AHRQ",
+      "investigator_full_name": "Sandra Thompson, MD"
+    },
+    "keyword": ["chronic pain", "lidocaine", "back pain"],
+    "condition_browse": {
+      "mesh_term": "Chronic Pain"
+    },
+    "intervention_browse": {
+      "mesh_term": "Lidocaine"
+    },
+    "results_reference": {
+      "citation": "Thompson S, Martinez J. An exploration of the effects of lidocaine patches on pain relief in chronic back pain: a phase 3 study. Pain Manag Rev. 2024;16(2):100-108. doi:10.1007/s00865-024-00302-x.",
+      "PMID": "12345678"
+    }
+  }
+}
+```

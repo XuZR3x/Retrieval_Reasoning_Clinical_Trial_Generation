@@ -1,0 +1,239 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "INSULIN_GLARGINE_2023",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Insulin Glargine in Outpatient Management of Type 2 Diabetes Mellitus",
+    "acronym": "GLARGINE-OUTPATIENT",
+    "official_title": "A Randomized, Open-Label, Multicenter Study Evaluating the Efficacy and Safety of Insulin Glargine in Combination With Metformin in Adults With Type 2 Diabetes Mellitus Previously Uncontrolled on Oral Antidiabetic Agents",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Health Innovation Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Health Innovation Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The study aims to evaluate the efficacy and safety of insulin glargine as a part of a basal-bolus regimen in adults with type 2 diabetes who have been inadequately managed on oral hypoglycemic agents. This trial will analyze key outcomes, including HbA1c levels and incidence of hypoglycemic events, during a treatment duration of six months. The rationale is based on previous findings that support insulin glargine's role in achieving better glycemic control than traditional treatment modalities. We hypothesize that initiating insulin glargine in conjunction with metformin will provide superior blood glucose management and improve patient outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "August 2022",
+    "primary_completion_date": "February 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in HbA1c from Baseline to 6 Months",
+      "time_frame": "Baseline and at 6 Months",
+      "description": "Difference in HbA1c values measured in percentage (%) after 6 months of treatment."
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of Hypoglycemic Events",
+      "time_frame": "Throughout the study period up to 6 months",
+      "description": "Count of all episodes of hypoglycemia defined as blood glucose < 70 mg/dL."
+    },
+    "number_of_arms": "2",
+    "enrollment": "450",
+    "condition": ["Diabetes Mellitus, Type 2"],
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Insulin glargine initiated at 10 units/day with titration based on fasting blood glucose, combined with metformin."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard care with ongoing oral anti-diabetic medications without insulin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin Glargine",
+        "description": "Once daily subcutaneous injection of insulin glargine, adjusted based on fasting blood glucose levels.",
+        "arm_group_label": "1",
+        "other_name": "Lantus"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Metformin",
+        "description": "Oral therapy continued at a stable dose of 1500 to 2000 mg/day.",
+        "arm_group_label": "1",
+        "other_name": "Glucophage"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 40-75 years with a confirmed diagnosis of type 2 diabetes mellitus for at least 3 years.\n\n2. HbA1c level of 7.5% to 10.5% at screening while on one or two oral anti-diabetic drugs.\n\n3. Patients must be able to provide informed consent and comply with study procedures.\n\nExclusion Criteria:\n\n1. History of type 1 diabetes or any form of secondary diabetes.\n\n2. Use of insulin therapy in the last 6 months.\n\n3. Uncontrolled medical conditions that may interfere with study results, including severe cardiovascular disease and severe liver or renal impairment."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Health Innovation Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Health Innovation Institute Clinical Research Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metropolitan Hospital Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Smith J, Doe A, Johnson B, Chen C. Efficacy and Safety of Insulin Glargine in Outpatient Management of Type 2 Diabetes Mellitus: Results from the GLARGINE-OUTPATIENT Study. Diabetes Care. 2023 Jun;46(6):1543-1550. doi: 10.2337/dc22-2345.",
+      "PMID": "37234567"
+    },
+    "verification_date": "December 2023",
+    "study_first_submitted": "January 1, 2021",
+    "study_first_posted": "January 5, 2021",
+    "last_update_posted": "January 12, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Health Innovation Institute",
+      "investigator_full_name": "John Smith, MD",
+      "investigator_title": "Director of Clinical Research"
+    },
+    "keyword": ["insulin glargine", "type 2 diabetes", "glycemic control", "hypoglycemia"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Insulin Glargine", "Insulin", "Long-Acting Insulins"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited from various clinical sites across the metropolitan area, with a targeted enrollment of 450 subjects.",
+        "pre_assignment_details": "Patients underwent a screening period to ensure eligibility defined by the inclusion and exclusion criteria."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glargine Group",
+              "description": "Participants received insulin glargine plus metformin."
+            },
+            {
+              "title": "Control Group",
+              "description": "Participants remained on oral anti-diabetic medications."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": [
+              {
+                "count": "225"
+              },
+              {
+                "count": "225"
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in HbA1c",
+            "description": "The mean HbA1c reduction from baseline to week 26.",
+            "time_frame": "At Baseline and 6 Months",
+            "measure": {
+              "title": "Change in HbA1c",
+              "units": "Percentage (%)",
+              "param": "Mean Change",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": [
+                    {
+                      "count": "225"
+                    },
+                    {
+                      "count": "225"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Hypoglycemia",
+            "description": "The number of reported hypoglycemic events per treatment arm.",
+            "time_frame": "Throughout the treatment period",
+            "measure": {
+              "title": "Number of Hypoglycemic Events",
+              "units": "Number of Events",
+              "param": "Count",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": [
+                    {
+                      "count": "60"
+                    },
+                    {
+                      "count": "90"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

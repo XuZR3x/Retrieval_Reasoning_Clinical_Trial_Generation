@@ -1,0 +1,176 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "DLBCL-2020-003",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Ibrutinib in Combination with Standard Chemotherapy for Newly Diagnosed Non-Germinal Center B-Cell Subtype of Diffuse Large B-Cell Lymphoma",
+    "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Ibrutinib in Combination with Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, and Prednisone in Patients with Newly Diagnosed Non-Germinal Center B-Cell Subtype of Diffuse Large B-Cell Lymphoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Oncology Research Center",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Health Institute for Cancer Research",
+        "agency_class": "Non-Profit"
+      }
+    },
+    "source": "XYZ Oncology Research Center",
+    "overall_status": "Withdrawn",
+    "why_stopped": "Insufficient Enrollment and Inadequate Response Rates",
+    "start_date": "January 15, 2021",
+    "completion_date": "TBD",
+    "primary_completion_date": "January 30, 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Event-Free Survival (EFS)",
+      "time_frame": "Up to 4 years",
+      "description": "EFS defined as the time from randomization to disease progression, initiation of subsequent therapy, or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 4 years",
+        "description": "Median time from randomization to the date of death, assessed using Kaplan-Meier method."
+      },
+      {
+        "measure": "Frequency of Adverse Events",
+        "time_frame": "Up to 30 days after last dose",
+        "description": "Monitoring for all adverse events classified according to CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "46",
+    "condition": "Non-Germinal Center B-Cell Diffuse Large B-Cell Lymphoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Treatment Arm A: Placebo + R-CHOP",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive placebo orally once daily for 21 days plus standard R-CHOP therapy."
+      },
+      {
+        "arm_group_label": "Treatment Arm B: Ibrutinib + R-CHOP",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive ibrutinib 560 mg orally once daily for 21 days plus standard R-CHOP therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ibrutinib",
+        "description": "Administered orally once daily during the treatment cycles.",
+        "arm_group_label": "Treatment Arm B: Ibrutinib + R-CHOP"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered orally once daily during the treatment cycles.",
+        "arm_group_label": "Treatment Arm A: Placebo + R-CHOP"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rituximab",
+        "description": "Administered intravenously on Day 1 of each cycle.",
+        "arm_group_label": ["Treatment Arm A: Placebo + R-CHOP", "Treatment Arm B: Ibrutinib + R-CHOP"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Administered intravenously once on Day 1 of each cycle.",
+        "arm_group_label": ["Treatment Arm A: Placebo + R-CHOP", "Treatment Arm B: Ibrutinib + R-CHOP"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Doxorubicin",
+        "description": "Administered intravenously once on Day 1 of each cycle.",
+        "arm_group_label": ["Treatment Arm A: Placebo + R-CHOP", "Treatment Arm B: Ibrutinib + R-CHOP"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vincristine",
+        "description": "Administered intravenously once on Day 1 of each cycle.",
+        "arm_group_label": ["Treatment Arm A: Placebo + R-CHOP", "Treatment Arm B: Ibrutinib + R-CHOP"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prednisone",
+        "description": "Administered orally on Days 1-5 of each cycle.",
+        "arm_group_label": ["Treatment Arm A: Placebo + R-CHOP", "Treatment Arm B: Ibrutinib + R-CHOP"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed diagnosis of Non-Germinal Center B-Cell subtype of DLBCL. \r\n- Eligible if at least one measurable lesion is present.\r\n- ECOG performance status of 0-2.\r\n- No prior treatment for DLBCL.\r\n- Adequate hematological and organ function as defined by study protocol. \r\n\r\nExclusion Criteria:\r\n\r\n- History of prior malignancy (with exceptions for non-melanoma skin cancer).\r\n- Uncontrolled cardiovascular disease. \r\n- Active infections requiring hospitalization or IV antibiotics.\r\n- Concurrent treatment with other investigational drugs.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Mark Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Oncology Research Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Oncology Research Center",
+          "address": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "verification_date": "February 2024",
+    "study_first_submitted": "November 24, 2020",
+    "study_first_posted": "November 26, 2020",
+    "last_update_submitted": "April 20, 2023",
+    "last_update_posted": "April 22, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Diffuse Large B-Cell Lymphoma",
+      "Non-Germinal Center B-Cell Subtype",
+      "Ibrutinib",
+      "R-CHOP",
+      "Event-Free Survival"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Lymphoma",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Lymphoma, B-Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Ibrutinib",
+        "Rituximab",
+        "Cyclophosphamide",
+        "Doxorubicin",
+        "Vincristine",
+        "Prednisone"
+      ]
+    }
+  }
+}
+```

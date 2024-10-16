@@ -1,0 +1,133 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03457980"
+    },
+    "id_info": {
+      "org_study_id": "ATZ-045",
+      "nct_id": "NCT03457980"
+    },
+    "brief_title": "Evaluating Azithromycin for the Treatment of Acute Bacterial Skin Infections",
+    "official_title": "A Randomized Controlled Trial of Azithromycin Versus Standard Antibiotic Therapy for Acute Bacterial Skin and Skin Structure Infections (ABSSSI)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "University"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to investigate the efficacy and safety of azithromycin compared to standard antibiotic therapy in patients with acute bacterial skin and skin structure infections (ABSSSI). Despite azithromycin's broad-spectrum antimicrobial activity, the study was terminated due to substantial delays in patient enrollment, raising concerns about the minimization of statistical power to detect treatment differences."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Significant delays in recruitment",
+    "start_date": "February 2018",
+    "completion_date": "May 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in infection severity scores",
+      "time_frame": "Measured at baseline, Day 3, and Day 7"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Time to clinical improvement",
+        "time_frame": "Within 14 days post-treatment initiation"
+      },
+      {
+        "measure": "Adverse events rate",
+        "time_frame": "Throughout study duration, monitored continuously"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "85",
+    "condition": "Acute Bacterial Skin and Skin Structure Infection",
+    "arm_group": [
+      {
+        "arm_group_label": "Azithromycin Treatment",
+        "arm_group_type": "Experimental",
+        "description": "Participants received azithromycin 500 mg orally once daily for 5 days."
+      },
+      {
+        "arm_group_label": "Standard Antibiotic Treatment",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard antibiotic therapy based on local guidelines for ABSSSI."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Azithromycin",
+        "arm_group_label": "Azithromycin Treatment"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Antibiotic",
+        "arm_group_label": "Standard Antibiotic Treatment"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 years and older.\n- Clinically diagnosed with ABSSSI.\n- Signed informed consent.\n\nExclusion Criteria:\n- Pregnant or breastfeeding women.\n- Presence of systemic infections requiring hospitalization.\n- Previous antibiotic treatment for the current infection.\n- Allergies to azithromycin or related compounds.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": [
+      {
+        "last_name": "Samantha Liu, MD",
+        "role": "Principal Investigator",
+        "affiliation": "University of California, San Francisco"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "UCSF Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "January 10, 2018",
+    "study_first_submitted_qc": "January 10, 2018",
+    "study_first_posted": "February 5, 2018",
+    "last_update_submitted": "June 1, 2021",
+    "last_update_posted": "June 3, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of California, San Francisco",
+      "investigator_full_name": "Samantha Liu, MD",
+      "investigator_title": "MD"
+    },
+    "condition_browse": {
+      "mesh_term": "Skin and Connective Tissue Diseases"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Azithromycin", "Antibiotics"]
+    }
+  }
+}
+```

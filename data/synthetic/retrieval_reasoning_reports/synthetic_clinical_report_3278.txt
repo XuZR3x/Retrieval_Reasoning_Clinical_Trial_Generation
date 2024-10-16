@@ -1,0 +1,163 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03181533"
+    },
+    "id_info": {
+      "org_study_id": "BIV-CVD-2017",
+      "nct_id": "NCT03181533"
+    },
+    "brief_title": "Bivalirudin for Patients with Complex Coronary Artery Disease",
+    "official_title": "A Multicenter, Randomized, Open-Label Study Assessing the Safety and Efficacy of Bivalirudin in Patients with Complex Coronary Artery Disease Undergoing Percutaneous Coronary Intervention",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Cardiovascular Research Network",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Cardiovascular Research Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluated the effectiveness and safety of bivalirudin compared to unfractionated heparin in patients with complex coronary artery disease. Primary endpoints included rates of major cardiovascular events and major bleeding at 30 days."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 2017",
+    "completion_date": "September 2020",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Composite of All-Cause Mortality, Myocardial Infarction, Target Vessel Revascularization, and Major Bleeding",
+      "time_frame": "30 days",
+      "description": "Evaluation of the composite endpoint consisting of major adverse cardiac events and bleeding."
+    },
+    "secondary_outcomes": [
+      {
+        "measure": "Major Adverse Cardiac and Cerebral Events (MACCE)",
+        "time_frame": "1 year",
+        "description": "Including all cardiovascular deaths, non-fatal myocardial infarctions, and stroke incidences."
+      },
+      {
+        "measure": "Incidence of Major Bleeding (according to TIMI definition)",
+        "time_frame": "30 days",
+        "description": "Documented major bleeding events classified by the Thrombolysis In Myocardial Infarction (TIMI) criteria."
+      }
+    ],
+    "enrollment": "2500",
+    "condition": "Coronary Artery Disease",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "bivalirudin",
+      "description": "A direct thrombin inhibitor administered intravenously (IV) as a bolus followed by a continuous infusion during PCI."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18-80 years with coronary artery disease and planned coronary intervention.\n- Need for revascularization due to complex coronary anatomy.\n- Ability to provide informed consent.\n\nExclusion Criteria:\n- Acute bleeding disorder or history of significant hemorrhage.\n- Renal failure (eGFR < 30 mL/min).\n- Active use of anticoagulant therapy within the last 48 hours (excluding aspirin).\n- Previous participation in this trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "verification_date": "October 2020",
+    "study_first_submitted": "April 12, 2017",
+    "study_first_posted": "April 20, 2017",
+    "last_update_posted": "October 25, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["bivalirudin", "percutaneous coronary intervention", "coronary artery disease"],
+    "intervention_browse": {
+      "mesh_term": "Bivalirudin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "From May 2017 to December 2018, 2500 patients were enrolled at 150 centers across North America and Europe.",
+        "pre_assignment_details": "Eligible patients were randomized 1:1 to receive either bivalirudin or unfractionated heparin during their percutaneous coronary interventions."
+      },
+      "baseline": {
+        "population": "The baseline assessment indicated comparable demographics across both treatment arms, including age, gender, and comorbidities.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bivalirudin",
+              "description": "Patients received a bolus of 0.75 mg/kg of bivalirudin followed by a continuous infusion of 1.75 mg/kg/hr during PCI."
+            },
+            {
+              "title": "Unfractionated Heparin",
+              "description": "Patients received unfractionated heparin with an initial intravenous bolus and subsequent dosing to maintain adequate activated clotting times."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Composite of Major Adverse Cardiac Events and Major Bleeding Events",
+            "description": "Reduction of composite events was observed in the bivalirudin group when compared to unfractionated heparin.",
+            "time_frame": "30 days",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bivalirudin",
+                  "description": "Significantly lower rates of composite events, indicating a favorable safety and efficacy profile."
+                },
+                {
+                  "title": "Unfractionated Heparin",
+                  "description": "Higher incidence of major bleeding and adverse cardiac events within the same follow-up period."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Major Adverse Cardiac and Cerebral Events (MACCE)",
+            "description": "Evaluation of MACCE showed significant statistical difference favoring bivalirudin treatment.",
+            "time_frame": "1 year",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bivalirudin",
+                  "description": "Lower rates of myocardial infarction and stroke after 1 year."
+                },
+                {
+                  "title": "Unfractionated Heparin",
+                  "description": "Higher rates of repeat revascularization and adverse outcomes."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "1 year",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bivalirudin",
+              "description": "Lower overall adverse events were reported with bivalirudin, contributing to its established position in current clinical guidelines."
+            },
+            {
+              "title": "Unfractionated Heparin",
+              "description": "Documented adverse events were notably higher, reaffirming the challenges associated with conventional anticoagulation strategies."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

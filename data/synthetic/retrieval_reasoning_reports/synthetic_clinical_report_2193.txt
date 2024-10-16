@@ -1,0 +1,396 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01290078"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2012-00218",
+      "nct_id": "NCT01290078"
+    },
+    "brief_title": "Bevacizumab in Combination With FOLFIRI for Patients With Advanced Colorectal Cancer",
+    "official_title": "A Phase III Study of Bevacizumab in Combination With FOLFIRI in Patients With Locally Advanced or Metastatic Colorectal Cancer After Failure of Prior Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      },
+      "collaborator": {
+        "agency": "AACR Project GENIE",
+        "agency_class": "Non-profit"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "overall_status": "Terminated",
+    "why_stopped": "Termination due to insufficient efficacy and adverse event profile",
+    "start_date": "April 1, 2012",
+    "completion_date": "June 30, 2023",
+    "primary_completion_date": "March 15, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "1 to 2 years",
+      "description": "Overall survival was defined as the time from randomization to the date of death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "1 to 2 years",
+        "description": "Defined as the time from randomization to the date of documented disease progression."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "12 months",
+        "description": "Percentage of patients achieving a complete or partial response according to RECIST criteria."
+      },
+      {
+        "measure": "Toxicity Assessment",
+        "time_frame": "Throughout the treatment period",
+        "description": "Assessment of adverse events associated with bevacizumab and FOLFIRI, graded using CTCAE version 4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "58",
+    "condition": "Metastatic Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Bevacizumab + FOLFIRI",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive intravenous bevacizumab (15 mg/kg) plus FOLFIRI regimen (irinotecan, leucovorin, fluorouracil) every two weeks."
+      },
+      {
+        "arm_group_label": "Arm B: FOLFIRI Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive FOLFIRI regimen alone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "Administered as an intravenous infusion at a dose of 15 mg/kg on day 1 of each treatment cycle.",
+        "arm_group_label": ["Arm A: Bevacizumab + FOLFIRI"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Irinotecan",
+        "description": "Administered via intravenous infusion according to standard dosing.",
+        "arm_group_label": ["Arm A: Bevacizumab + FOLFIRI", "Arm B: FOLFIRI Alone"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil",
+        "description": "Administered via intravenous infusion according to standard dosing.",
+        "arm_group_label": ["Arm A: Bevacizumab + FOLFIRI", "Arm B: FOLFIRI Alone"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "Administered via intravenous infusion according to standard dosing.",
+        "arm_group_label": ["Arm A: Bevacizumab + FOLFIRI", "Arm B: FOLFIRI Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Histologically or cytologically confirmed colorectal cancer.\r\n  - Locally advanced or metastatic disease with documented progression after standard therapy.\r\n  - Age ≥ 18 years old.\r\n  - ECOG performance status of 0-2.\r\n\r\nExclusion Criteria:\r\n\r\n  - Prior treatment with bevacizumab.\r\n  - Squamous cell carcinoma histology.\r\n  - Serious uncontrolled medical conditions (e.g., cardiovascular disease).\r\n  - Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Joseph D. Fields, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "November 15, 2011",
+    "study_first_submitted_qc": "November 15, 2011",
+    "study_first_posted": "November 19, 2011",
+    "results_first_submitted": "April 10, 2022",
+    "results_first_submitted_qc": "April 18, 2022",
+    "results_first_posted": "April 20, 2022",
+    "last_update_submitted": "June 25, 2023",
+    "last_update_submitted_qc": "June 25, 2023",
+    "last_update_posted": "July 17, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Colorectal Cancer",
+      "Bevacizumab",
+      "FOLFIRI"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Colorectal Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Bevacizumab",
+        "Irinotecan",
+        "Fluorouracil",
+        "Leucovorin"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Bevacizumab + FOLFIRI",
+              "description": "58 patients were randomized."
+            },
+            {
+              "title": "FOLFIRI Alone",
+              "description": "58 patients were randomized."
+            }
+          ]
+        },
+        "milestone_list": {
+          "milestone": [
+            {
+              "title": "STARTED",
+              "participants_list": {
+                "participants": [
+                  null,
+                  null
+                ]
+              }
+            },
+            {
+              "title": "COMPLETED",
+              "participants_list": {
+                "participants": [
+                  null,
+                  null
+                ]
+              }
+            },
+            {
+              "title": "NOT COMPLETED",
+              "participants_list": {
+                "participants": [
+                  null,
+                  null
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Bevacizumab + FOLFIRI",
+              "description": "Patients were randomized to receive treatment."
+            },
+            {
+              "title": "FOLFIRI Alone",
+              "description": "Patients were randomized to receive treatment."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [
+                null,
+                null
+              ]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival",
+            "description": "Overall survival was defined as the time from randomization to death.",
+            "time_frame": "1 to 2 years",
+            "population": "Randomized patients",
+            "measure": {
+              "title": "Overall Survival",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival",
+            "description": "PFS defined as time to disease progression.",
+            "time_frame": "1 to 2 years",
+            "population": "Randomized patients",
+            "measure": {
+              "title": "Progression-Free Survival",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate",
+            "description": "Percentage of participants achieving a response.",
+            "time_frame": "During the treatment period",
+            "population": "Patients with measurable disease",
+            "measure": {
+              "title": "Objective Response Rate",
+              "units": "Percentage of patients",
+              "param": "Count"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Toxicity Assessment",
+            "description": "Assessment of adverse effects using CTCAE.",
+            "time_frame": "Throughout treatment",
+            "population": "Safety evaluable population",
+            "measure": {
+              "title": "Toxicity Assessment",
+              "description": "Number of participants reporting adverse events."
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From randomization to up to 2 years",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bevacizumab + FOLFIRI",
+              "description": "Received treatment as assigned."
+            },
+            {
+              "title": "FOLFIRI Alone",
+              "description": "Received treatment as assigned."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Hypertension",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Percentage of serious hypertension events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Bleeding Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Incidence of grade 3-4 bleeding events",
+                    "counts": null
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "CTCAE",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea and Vomiting",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Fatigue",
+                    "counts": null
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All principal investigators are employed by the studying site.",
+        "restrictive_agreement": "No restrictions apply regarding the communication of trial results."
+      },
+      "limitations_and_caveats": "The trial struggled with recruitment, leading to insufficient statistical power to demonstrate efficacy. Adverse effects raised compliance concerns and affected treatment adherence significantly."
+    }
+  }
+}
+```

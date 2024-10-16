@@ -1,0 +1,146 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04123456"
+    },
+    "id_info": {
+      "org_study_id": "987654321",
+      "nct_id": "NCT04123456"
+    },
+    "brief_title": "Evaluation of Dabigatran in Patients with Atrial Fibrillation Undergoing Dual Antithrombotic Therapy",
+    "official_title": "Dabigatran in Dual Antithrombotic Therapy: Assessing Safety and Efficacy in Atrial Fibrillation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Cardiovascular Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to investigate the efficacy and safety profile of dabigatran in patients with atrial fibrillation requiring dual antithrombotic therapy. The primary focus is on safety concerns related to bleeding complications."
+    },
+    "detailed_description": {
+      "textblock": "Atrial fibrillation (AF) is a common arrhythmia leading to increased risk of stroke and systemic embolism. Current treatment strategies often employ dual antithrombotic therapy with antiplatelet agents in conjunction with oral anticoagulants, notably among patients undergoing percutaneous coronary intervention. Dabigatran, a direct thrombin inhibitor, has demonstrated efficacy in preventing thromboembolic events in AF; however, its safety when combined with antiplatelet agents remains unclear.\n\nThis multicenter, open-label randomized controlled trial aimed to compare the outcomes of patients receiving dabigatran with those receiving rivaroxaban, along with clopidogrel. Concerns regarding an increased risk of bleeding necessitated thorough examination of the pharmacodynamic interactions and patient responses to dual therapy. \n\nDespite previous studies indicating promise, this trial was terminated early due to several factors: insufficient recruitment hampered the ability to gather adequate data, evoking futility as follows:\n1. Recruitment challenges left the trial underpowered, preventing definitive conclusions regarding efficacy and safety.\n2. Serious safety concerns emerged during interim analyses highlighting unacceptably high rates of bleeding incidents, which were exacerbated by the dual antithrombotic regimen intended for this vulnerable patient population.\n3. Methodological issues related to the open-label design potentially introduced bias in outcome assessments, compromising the reliability of findings."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Safety concerns and insufficient recruitment",
+    "start_date": "March 2019",
+    "completion_date": "July 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of major and minor bleeding events",
+      "time_frame": "Up to 12 months",
+      "description": "Assessment of safety through the occurrence of bleeding events categorized as major or minor according to standardized definitions."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in thrombotic event rates",
+        "time_frame": "Up to 12 months",
+        "description": "Incidence of thromboembolic events, including stroke and systemic embolism."
+      },
+      {
+        "measure": "Patient-reported outcome measures",
+        "time_frame": "Up to 12 months",
+        "description": "Evaluation of quality of life via standardized questionnaires assessing treatment satisfaction."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": ["Atrial Fibrillation", "Coronary Artery Disease"],
+    "arm_group": [
+      {
+        "arm_group_label": "Dabigatran Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving Dabigatran 150mg BID alongside Clopidogrel."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receiving Rivaroxaban 20mg QD alongside Clopidogrel."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dabigatran",
+        "description": "Dabigatran will be administered at a dosage of 150 mg twice daily.",
+        "arm_group_label": "Dabigatran Group",
+        "other_name": "Pradaxa"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rivaroxaban",
+        "description": "Rivaroxaban will be administered at a dosage of 20 mg once daily.",
+        "arm_group_label": "Control Group",
+        "other_name": "Xarelto"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria:\n- Adults aged 18 years or older with stable atrial fibrillation requiring anticoagulation therapy.\n- Indication for dual antithrombotic therapy post-percutaneous coronary intervention.\n- Ability to provide informed consent.\n\nKey Exclusion Criteria:\n- Active bleeding disorder or nearing significant anticoagulation.\n- Severe renal impairment (GFR <30 mL/min).\n- Known hypersensitivity to dabigatran or rivaroxaban."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Caroline Schmidt, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Institute",
+        "address": {
+          "city": "Berlin",
+          "zip": "10115",
+          "country": "Germany"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Germany"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "September 1, 2019",
+    "study_first_posted": "September 10, 2019",
+    "last_update_posted": "August 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Atrial Fibrillation",
+        "Coronary Artery Disease",
+        "Thrombosis"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Dabigatran",
+        "Rivaroxaban",
+        "Clopidogrel"
+      ]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

@@ -1,0 +1,125 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02836456"
+    },
+    "id_info": {
+      "org_study_id": "2016-1577",
+      "nct_id": "NCT02836456"
+    },
+    "brief_title": "Efficacy and Safety of Asenapine in the Treatment of Acute Mania in Bipolar I Disorder",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy and Safety of Asenapine Compared to Placebo for the Treatment of Acute Mania in Patients with Bipolar I Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Bipolar I disorder is characterized by manic and depressive episodes, causing significant impairment in daily functioning. Asenapine, a novel atypical antipsychotic, has been hypothesized to provide efficacy in managing mania through its modulatory effects on dopaminergic and serotonergic neurotransmission. This study aimed to evaluate its efficacy in reducing manic symptoms in comparison to placebo."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient symptom reduction and recruitment difficulties.",
+    "start_date": "March 15, 2017",
+    "completion_date": "November 20, 2019",
+    "primary_completion_date": "November 10, 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Mania Rating Scale (MRS) score at endpoint (6-week double-blind period) from baseline",
+      "time_frame": "Screen, baseline, Days 1, 14, 28, 42, endpoint",
+      "description": "The MRS is a clinician-rated instrument designed to evaluate the severity of manic episodes, assessing mood elevation, irritability, and increased activity among other symptoms."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Changes in Clinical Global Impression for Bipolar Disorder Scale (CGI-BP) scores",
+        "time_frame": "Baseline, Days 1, 14, 28, 42",
+        "description": "CGI-BP assesses change in illness severity and improvement, particularly within the context of current episode status."
+      },
+      {
+        "measure": "Incidence of adverse events (AEs) and serious adverse events (SAEs)",
+        "time_frame": "Screen, baseline, Days 1, 14, 28, 42 and continuously monitored post-treatment for safety assessments.",
+        "description": "Safety data collection included monitoring of AEs and SAEs throughout the study duration."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "48",
+    "condition": "Bipolar I Disorder, Acute Mania",
+    "arm_group": [
+      {
+        "arm_group_label": "Asenapine Group",
+        "arm_group_type": "Experimental",
+        "description": "Asenapine administered at a flexible dose of 5-10 mg BID."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo administered on the same regimen as asenapine."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Asenapine",
+        "description": "Administered at a flexible dose of 5-10 mg BID.",
+        "arm_group_label": "Asenapine Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching sublingual tablets administered BID.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Adults aged 18-65 years, diagnosed with Bipolar I Disorder, currently experiencing a manic episode as per DSM-5 criteria.\r\n  -  Baseline MRS score ≥20.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Significant medical condition or history of severe adverse reactions to antipsychotics.\r\n  -  History of substance use disorder (except nicotine) within the past year.\r\n  -  Pregnant or breastfeeding women.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "removed_countries": {
+      "country": ["United States", "Canada", "Mexico"]
+    },
+    "verification_date": "November 2022",
+    "study_first_submitted": "January 15, 2017",
+    "study_first_posted": "March 20, 2017",
+    "last_update_submitted": "November 20, 2019",
+    "last_update_posted": "November 25, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "XYZ Pharmaceuticals Inc.",
+      "investigator_full_name": "Dr. Jane Doe",
+      "investigator_title": "Senior Research Scientist"
+    },
+    "keyword": [
+      "Bipolar I Disorder",
+      "Mania",
+      "Asenapine",
+      "Antipsychotics"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Bipolar Disorder", "Mania"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Asenapine"]
+    }
+  }
+}
+```

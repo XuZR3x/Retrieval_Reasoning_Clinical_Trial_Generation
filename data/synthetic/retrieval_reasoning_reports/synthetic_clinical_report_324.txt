@@ -1,0 +1,366 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT04578901"
+        },
+        "id_info": {
+            "org_study_id": "DMT-2020-001",
+            "nct_id": "NCT04578901"
+        },
+        "brief_title": "Efficacy of Dexamethasone in Combination with Targeted Therapy in Advanced Colorectal Cancer",
+        "official_title": "A Randomized, Double-Blind, Phase III Trial of Dexamethasone plus Targeted Therapy versus Targeted Therapy Alone in Patients with Advanced Colorectal Cancer",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Global Oncology Research Alliance",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "National Cancer Institute (NCI)",
+                "agency_class": "NIH"
+            }
+        },
+        "source": "Global Oncology Research Alliance",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "RATIONALE: Dexamethasone may enhance the effectiveness of targeted therapies by reducing inflammatory responses that can limit therapeutic efficacy. Furthermore, preliminary findings suggest that dexamethasone could prolong progression-free survival in patients with advanced colorectal cancer."
+        },
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\r\n\r\n  -  Compare the progression-free survival in patients receiving dexamethasone combined with targeted therapy versus those receiving targeted therapy alone.\r\n\r\n  -  Assess changes in overall response rates, disease control rates, and duration of response.\r\n\r\n  -  Evaluate the safety and tolerability of the dexamethasone regimen in this patient population.\r\n\r\n  -  Monitor quality of life metrics and treatment satisfaction as secondary outcomes.\r\n\r\nOUTLINE: This multicenter, randomized, double-blind, placebo-controlled trial will involve stratification based on performance status and previous treatment history. Patients will be randomized into two treatment arms:\r\n\r\nArm I\r\n\r\n  -  Patients will receive intramuscular dexamethasone at a dosage of 10 mg weekly alongside standard targeted therapy (e.g., cetuximab or bevacizumab) as per current guidelines.\r\n\r\nArm II\r\n\r\n  -  Patients will receive a matching placebo intramuscularly alongside the same standard targeted therapy.\r\n\r\nPatients will undergo regular assessments at designated intervals with imaging studies to monitor treatment response and safety evaluations. The study duration is expected to last 24 months with follow-ups extending for two additional years."
+        },
+        "overall_status": "Completed",
+        "start_date": "March 2021",
+        "completion_date": "April 2023",
+        "primary_completion_date": "January 2023",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Progression-Free Survival",
+            "time_frame": "Measured from the date of randomization until disease progression or death, assessed up to 24 months",
+            "description": "Progression-free survival is defined as the time from randomization to the first documented progression of the disease or death from any cause."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Overall Response Rate (ORR)",
+                "time_frame": "Evaluated at 24 weeks after randomization",
+                "description": "The ORR will be calculated based on the proportion of patients achieving a complete or partial response as assessed by RECIST criteria."
+            },
+            {
+                "measure": "Quality of Life as Measured by EORTC QLQ-C30",
+                "time_frame": "Evaluated at baseline, week 12, and week 24",
+                "description": "The EORTC QLQ-C30 questionnaire will be used to assess various quality of life dimensions including physical, emotional, and social functioning."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "400",
+        "condition": ["Colorectal Cancer", "Carcinoma"],
+        "arm_group": [
+            {
+                "arm_group_label": "Dexamethasone plus Targeted Therapy",
+                "arm_group_type": "Experimental",
+                "description": "Patients receive intramuscular dexamethasone 10 mg weekly in conjunction with standard targeted therapy."
+            },
+            {
+                "arm_group_label": "Placebo plus Targeted Therapy",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Patients receive placebo injections weekly alongside standard targeted therapy."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "dexamethasone",
+                "description": "Intramuscular injection of dexamethasone 10 mg administered weekly.",
+                "arm_group_label": "Dexamethasone plus Targeted Therapy"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Targeted Therapy",
+                "description": "Administration of cetuximab or bevacizumab per protocol.",
+                "arm_group_label": ["Dexamethasone plus Targeted Therapy", "Placebo plus Targeted Therapy"]
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "Intramuscular placebo injection administered weekly.",
+                "arm_group_label": "Placebo plus Targeted Therapy"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n\r\n  -  Histologically confirmed advanced colorectal cancer (stage IV) that has progressed on or after standard therapy.\r\n  -  At least one measurable lesion per RECIST criteria.\r\n  -  Patients aged 18 years or older.\r\n  -  ECOG performance status of 0-2.\r\n  -  Adequate renal, hepatic, and hematological function.",
+                "gender": "All",
+                "minimum_age": "18 Years",
+                "maximum_age": "N/A",
+                "healthy_volunteers": "No"
+            }
+        },
+        "overall_official": {
+            "last_name": "James T. Morrison, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Global Oncology Research Alliance"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Johns Hopkins Hospital",
+                    "address": {
+                        "city": "Baltimore",
+                        "state": "Maryland",
+                        "zip": "21205",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Royal Marsden Hospital",
+                    "address": {
+                        "city": "London",
+                        "country": "United Kingdom"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": ["United States", "United Kingdom"]
+        },
+        "verification_date": "May 2023",
+        "study_first_submitted": "September 15, 2020",
+        "study_first_submitted_qc": "September 20, 2020",
+        "study_first_posted": "September 25, 2020",
+        "results_first_submitted": "July 1, 2023",
+        "results_first_posted": "July 15, 2023",
+        "last_update_submitted": "May 18, 2024",
+        "last_update_posted": "May 20, 2024",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": ["advanced colorectal cancer", "dexamethasone", "targeted therapy", "progression-free survival"],
+        "condition_browse": {
+            "mesh_term": ["Colorectal Neoplasms", "Cancer"]
+        },
+        "intervention_browse": {
+            "mesh_term": ["Dexamethasone", "Cetuximab", "Bevacizumab"]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Dexamethasone plus Targeted Therapy",
+                            "description": "Patients receiving dexamethasone with targeted therapeutic agents."
+                        },
+                        {
+                            "title": "Placebo plus Targeted Therapy",
+                            "description": "Patients receiving matching placebo with targeted therapeutic agents."
+                        }
+                    ]
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": [400, 400]
+                                    }
+                                },
+                                {
+                                    "title": "COMPLETED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "NOT COMPLETED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Dexamethasone plus Targeted Therapy",
+                            "description": "Patients receiving intramuscular dexamethasone with targeted therapy."
+                        },
+                        {
+                            "title": "Placebo plus Targeted Therapy",
+                            "description": "Patients receiving placebo injections with targeted therapy."
+                        }
+                    ]
+                },
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": {
+                            "count": [200, 200]
+                        }
+                    },
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "title": "Age",
+                                "units": "Years",
+                                "param": "Mean",
+                                "dispersion": "Standard Deviation",
+                                "class_list": {
+                                    "class": {
+                                        "category_list": {
+                                            "category": {
+                                                "measurement_list": {
+                                                    "measurement": [null, null]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Sex: Female, Male",
+                                "units": "Participants",
+                                "param": "Count of Participants",
+                                "class_list": {
+                                    "class": {
+                                        "category_list": {
+                                            "category": [
+                                                {
+                                                    "title": "Female",
+                                                    "measurement_list": {
+                                                        "measurement": [null, null]
+                                                    }
+                                                },
+                                                {
+                                                    "title": "Male",
+                                                    "measurement_list": {
+                                                        "measurement": [null, null]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "outcome_list": {
+                    "outcome": [
+                        {
+                            "type": "Primary",
+                            "title": "Progression-Free Survival",
+                            "description": "The duration from randomization to disease progression or death.",
+                            "time_frame": "Measured up to 24 months",
+                            "population": "All randomized patients.",
+                            "group_list": {
+                                "group": [
+                                    {
+                                        "title": "Dexamethasone plus Targeted Therapy",
+                                        "description": "Patients receiving dexamethasone with targeted therapy."
+                                    },
+                                    {
+                                        "title": "Placebo plus Targeted Therapy",
+                                        "description": "Patients receiving placebo with targeted therapy."
+                                    }
+                                ]
+                            },
+                            "measure": {
+                                "title": "Progression-Free Survival",
+                                "description": "Defined as the time from randomization to disease progression or death from any cause.",
+                                "units": "Months",
+                                "param": "Median",
+                                "dispersion": "Inter-Quartile Range",
+                                "analyzed_list": {
+                                    "analyzed": {
+                                        "units": "Participants",
+                                        "scope": "Measure",
+                                        "count_list": {
+                                            "count": [null, null]
+                                        }
+                                    },
+                                    "class_list": {
+                                        "class": {
+                                            "category_list": {
+                                                "category": {
+                                                    "measurement_list": {
+                                                        "measurement": [null, null]
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "type": "Secondary",
+                            "title": "Overall Response Rate (ORR)",
+                            "description": "The overall percentage of patients achieving partial or complete response as per RECIST criteria.",
+                            "time_frame": "Assessed at 24 weeks",
+                            "population": "All randomized patients",
+                            "group_list": {
+                                "group": [
+                                    {
+                                        "title": "Dexamethasone plus Targeted Therapy",
+                                        "description": "Patients receiving dexamethasone with targeted therapy."
+                                    },
+                                    {
+                                        "title": "Placebo plus Targeted Therapy",
+                                        "description": "Patients receiving placebo with targeted therapy."
+                                    }
+                                ]
+                            },
+                            "measure": {
+                                "title": "ORR",
+                                "description": "Calculated based on RECIST criteria outcomes.",
+                                "units": "Percentage",
+                                "param": "Count",
+                                "dispersion": "Confidence Interval",
+                                "analyzed_list": {
+                                    "analyzed": {
+                                        "units": "Patients",
+                                        "scope": "Population",
+                                        "count_list": {
+                                            "count": [null, null]
+                                        }
+                                    },
+                                    "class_list": {
+                                        "class": {
+                                            "category_list": {
+                                                "category": {
+                                                    "measurement_list": {
+                                                        "measurement": [null, null]
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
+```

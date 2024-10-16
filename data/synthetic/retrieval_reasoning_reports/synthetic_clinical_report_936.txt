@@ -1,0 +1,303 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03725688"
+    },
+    "id_info": {
+      "org_study_id": "BUP-502",
+      "nct_id": "NCT03725688"
+    },
+    "brief_title": "Comparison of Buprenorphine Versus Placebo in Patients With Major Depressive Disorder",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial Examining the Efficacy of Buprenorphine in Patients With Major Depressive Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaShow Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaShow Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of buprenorphine for treating patients with major depressive disorder (MDD) compared to placebo, focusing on response rates and side effect profiles."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to high dropout rates attributed to adverse events and insufficient evidence of efficacy in the primary endpoints.",
+    "start_date": "January 2019",
+    "completion_date": "June 2021",
+    "primary_completion_date": "December 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "enrollment": "50",
+    "condition": "Major Depressive Disorder",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "buprenorphine",
+        "description": "Low-dose buprenorphine (0.4 mg to 2.0 mg administered sublingually daily)"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "Matched placebo administered sublingually daily"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Adults aged 18 to 65 years with a confirmed diagnosis of Major Depressive Disorder (MDD). \n- Montgomery-Åsberg Depression Rating Scale (MADRS) score ≥ 18. \n- Capable of providing informed consent.\n\nExclusion Criteria: \n- History of substance abuse or dependence within the past year. \n- Current severe medical conditions or psychiatric disorders other than MDD. \n- Pregnancy or lactation.\n- Previous inadequate response to buprenorphine."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elisa T. Holberg, Ph.D.",
+      "role": "Director of Clinical Research",
+      "affiliation": "PharmaShow Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "PharmaShow Clinical Research Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "November 15, 2018",
+    "study_first_posted": "November 21, 2018",
+    "last_update_posted": "January 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "contact_info": {
+        "name": "Dr. Elisa T. Holberg",
+        "phone": "617-555-0134",
+        "email": "contact@pharmashowinc.com"
+      }
+    },
+    "keyword": [
+      "buprenorphine",
+      "depression",
+      "major depressive disorder",
+      "clinical trial"
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Of 50 subjects enrolled, only 30 completed the study protocol.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Buprenorphine",
+              "description": "Subjects received daily sublingual buprenorphine for 12 weeks."
+            },
+            {
+              "title": "Placebo",
+              "description": "Subjects received matched placebo for 12 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "Started",
+                  "participants_list": {
+                    "participants": ["50 participants enrolled"]
+                  }
+                },
+                {
+                  "title": "Completed",
+                  "participants_list": {
+                    "participants": ["30 participants completed the treatment phase"]
+                  }
+                },
+                {
+                  "title": "Not Completed",
+                  "participants_list": {
+                    "participants": ["20 participants dropped out"]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": ["Participants reported severe side effects"]
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": ["Participants opted out due to lack of efficacy"]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Buprenorphine",
+              "description": "Low-dose buprenorphine group."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo group."
+            },
+            {
+              "title": "Total",
+              "description": "Combined group."
+            }
+          ]
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in MADRS Score from Baseline to Week 12",
+            "description": "Mean change in MADRS score will be analyzed.",
+            "time_frame": "Weeks 0 and 12",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Buprenorphine",
+                  "description": "Expected to decrease MADRS score."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Expected to show no significant change."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events Reported",
+            "description": "Events will be recorded and analyzed.",
+            "time_frame": "Throughout the study duration",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Buprenorphine",
+                  "description": "Higher reports of adverse events."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Lower reports of adverse events."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Reports of adverse events were collected throughout the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Buprenorphine",
+              "description": "Participants reported various adverse effects."
+            },
+            {
+              "title": "Placebo",
+              "description": "Fewer adverse events recorded."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total serious adverse events",
+                    "counts": ["Reported occurrences of hospitalization or severe reactions"]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Severe nausea and abdominal pain",
+                    "counts": ["Reported by numerous participants in the buprenorphine group"]
+                  }
+                }
+              },
+              {
+                "title": "Cardiovascular Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Elevated blood pressure and heart rate incidents",
+                    "counts": ["Identified in 4 participants in the buprenorphine group"]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_assessment": "Non-systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Common Non-Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Mild headache, dry mouth, and dizziness",
+                    "counts": ["Commonly reported by buprenorphine group participants"]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

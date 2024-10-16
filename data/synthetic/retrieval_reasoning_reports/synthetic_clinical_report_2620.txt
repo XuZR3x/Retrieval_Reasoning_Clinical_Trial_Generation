@@ -1,0 +1,209 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03651102"
+    },
+    "id_info": {
+      "org_study_id": "OLZ-2018",
+      "secondary_id": "OLZ-P4BID-01",
+      "nct_id": "NCT03651102"
+    },
+    "brief_title": "Efficacy and Safety of Olanzapine in Treatment-Resistant Bipolar Disorder",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Active-Controlled Trial Assessing the Efficacy and Safety of Olanzapine in Patients With Treatment-Resistant Bipolar I Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "brief_summary": {
+      "textblock": "This clinical trial aims to evaluate the efficacy of olanzapine in reducing manic symptoms specifically in patients diagnosed with treatment-resistant bipolar I disorder. The secondary objectives include examining its safety profile, comparing its effects on various quality of life metrics and assessing overall patient functional outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "March 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change in Young Mania Rating Scale (YMRS) total score from baseline to week 12.",
+        "description": "Evaluation of the primary efficacy endpoint will demonstrate the effectiveness of olanzapine in ameliorating manic symptoms compared to placebo."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Change from baseline in the SF-36 Health Survey total score at week 12.",
+        "description": "Assessing improvements in quality of life, which will substantiate the comprehensive benefits of olanzapine beyond symptom management."
+      },
+      {
+        "measure": "Incidence of treatment-emergent adverse events during the study.",
+        "description": "A thorough evaluation of safety as it relates to olanzapine to validate its tolerability in long-term applications."
+      },
+      {
+        "measure": "Change from baseline in the Clinical Global Impression Scale (CGI-S) scores evaluated at weeks 6 and 12.",
+        "description": "To substantiate clinician-reported efficacy improvements during the intervention period."
+      }
+    ],
+    "enrollment": "600",
+    "condition": "Bipolar Disorder",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "olanzapine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients aged 18-65 years diagnosed with bipolar I disorder (current manic episode) who have shown an inadequate response to at least one prior treatment for mania.\n\n- Ability to provide informed consent and comply with study procedures.\n\nExclusion Criteria:\n\n- Current diagnosis of schizophrenia, schizoaffective disorder, or any unstable medical condition.\n\n- History of severe side effects from olanzapine or other similar medications.\n\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Johnson",
+      "role": "Clinical Investigator",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Eli Lilly and Company Research Facilities",
+          "address": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46285",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "United Kingdom", "Australia"]
+    },
+    "verification_date": "April 2022",
+    "study_first_submitted": "October 15, 2018",
+    "study_first_submitted_qc": "October 15, 2018",
+    "study_first_posted": "October 25, 2018",
+    "last_update_submitted": "April 10, 2022",
+    "last_update_submitted_qc": "April 10, 2022",
+    "last_update_posted": "April 18, 2022",
+    "condition_browse": {
+      "mesh_term": "Bipolar Disorder"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Olanzapine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olanzapine Group",
+              "description": "Patients received olanzapine 10 to 20 mg once daily for 12 weeks."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Patients received matched placebo once daily for 12 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [600, 300]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [600, 280]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, 20]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Olanzapine Group",
+                "description": "Patients receiving olanzapine."
+              },
+              {
+                "title": "Placebo Group",
+                "description": "Patients receiving placebo."
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in YMRS Total Score",
+            "time_frame": "Baseline to 12 weeks",
+            "population": "As-treated population",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Olanzapine",
+                  "description": "Mean reduction of 15 points."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean reduction of 5 points."
+                }
+              ]
+            },
+            "measure": {
+              "units": "Points",
+              "param": "Mean change from baseline",
+              "analyzed_list": {
+                "participants": [300, 280]
+              },
+              "analysis_list": {
+                "analytics": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Mann-Whitney U test",
+                  "p_value": "< 0.001"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

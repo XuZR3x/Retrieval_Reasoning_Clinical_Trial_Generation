@@ -1,0 +1,222 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03649645"
+    },
+    "id_info": {
+      "org_study_id": "HCRN LD18-101",
+      "nct_id": "NCT03649645"
+    },
+    "brief_title": "Study of Pembrolizumab in Combination with Targeted Therapy in Patients with Advanced Lung Cancer",
+    "official_title": "A Phase II, Open-label, Multi-center Study Evaluating Pembrolizumab in Combination with Targeted Therapy for Patients with Stage IV Non-Small Cell Lung Cancer: HCRN LD18-101",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Lung Cancer Research Network",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme LLC",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Lung Cancer Research Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This is a Phase II, open-label study intended to assess the efficacy and safety of pembrolizumab combined with targeted therapies in patients diagnosed with advanced non-small cell lung cancer (NSCLC). The investigation aims to provide insights on improvement in overall survival rates compared to existing standards."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center, open-label study involves administering pembrolizumab concurrently with targeted therapies to evaluate the potential enhancement in clinical outcomes among participants with advanced NSCLC. The primary endpoint was to assess overall survival (OS) at 24 months following treatment initiation. Further outcomes of interest include progression-free survival (PFS) and objective response rates (ORR). The trial design stipulated that only patients who previously progressed on chemotherapy could be enrolled, thereby creating a more challenging patient selectivity that might undermine treatment generalizability."
+    },
+    "overall_status": "Terminated",
+    "termination_reason": "Inadequate recruitment and inconclusive early safety data.",
+    "start_date": "June 15, 2018",
+    "completion_date": "December 10, 2022",
+    "primary_completion_date": "April 30, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "24 months from the start of treatment",
+      "description": "Determine the median overall survival of participants treated with the combination of pembrolizumab and targeted therapy compared to historical cohorts."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "24 months from the start of treatment",
+        "description": "Evaluate the median progression-free survival defined as the time from treatment to the first documentation of disease progression."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From baseline to 24 months post-treatment initiation",
+        "description": "Assess the percentage of participants achieving a complete or partial response according to RECIST v1.1."
+      },
+      {
+        "measure": "Safety Profile - Adverse Events (AEs)",
+        "time_frame": "Up to 24 months after treatment",
+        "description": "Evaluate the frequency and severity of treatment-related adverse events reported using the CTCAE criteria."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "45",
+    "condition": "Stage IV Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Pembrolizumab + Targeted Therapy",
+      "arm_group_type": "Experimental",
+      "description": "Combination therapy of pembrolizumab (200 mg IV infusion every three weeks) co-administered with the selected targeted agent (e.g., gefitinib, crizotinib) for a total of 24 months or until disease progression."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Pembrolizumab administered at a fixed dose of 200 mg IV infusion every three weeks.",
+        "arm_group_label": "Pembrolizumab + Targeted Therapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Targeted Therapy",
+        "description": "Administration based on the specific mutation profile of each patient (e.g., gefitinib or crizotinib).",
+        "arm_group_label": "Pembrolizumab + Targeted Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Confirmed diagnosis of stage IV non-small cell lung cancer (NSCLC).\n- Documented progression on at least one prior line of systemic chemotherapy.\n- Measurable disease as per RECIST v1.1 criteria.\n- Eastern Cooperative Oncology Group (ECOG) performance status between 0 and 1.\n- Adequate organ function as defined by specified laboratory values prior to enrollment.\n- Patients must provide written informed consent.\n\nExclusion Criteria:\n\n- Active autoimmune disease requiring systemic therapy within the past 2 years.\n- Known hypersensitivity to pembrolizumab or excipients.\n- Previous anti-PD-1/PD-L1 therapy.\n- Ongoing severe infections or persistent toxicities from prior therapies.\n- Female subjects who are pregnant or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Karen Thompson, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Lung Cancer Research Network"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Pennsylvania Abramson Cancer Center",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "May 22, 2018",
+    "study_first_posted": "June 1, 2018",
+    "results_first_submitted": "January 15, 2023",
+    "results_first_posted": "January 22, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Lung Cancer Research Network",
+      "investigator_full_name": "John Smith, MD",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": ["Pembrolizumab", "NSCLC", "Targeted Therapy", "Advanced Lung Cancer"],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Pembrolizumab"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "provided_document_section": {
+      "provided_document": {
+        "document_type": "Study Protocol and Statistical Analysis Plan",
+        "document_has_protocol": "Yes",
+        "document_has_icf": "No",
+        "document_has_sap": "Yes",
+        "document_date": "April 10, 2021",
+        "document_url": "https://example.com/study_protocol.pdf"
+      }
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Initial recruitment aimed to enroll 100 participants over the course of 12 months.",
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Targeted Therapy",
+            "description": "Eligible participants who meet all inclusion criteria will receive the combination therapy."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": ["Recruitment ceased due to inadequate patient enrollment."]}
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Pembrolizumab + Targeted Therapy",
+              "description": "Participants underwent a screening procedure before initiation of the study."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {"units": "Participants", "scope": "Overall", "count_list": {"count": null}}
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Survival (OS)",
+              "description": "Determine the efficacy of the pembrolizumab and targeted therapy combination against the standard cohort.",
+              "time_frame": "24 months from treatment initiation",
+              "population": "All enrolled participants"
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "Evaluate the demonstrated efficacy of the combination therapy on disease progression.",
+              "time_frame": "24 months post-treatment",
+              "population": "All enrolled participants"
+            },
+            {
+              "type": "Secondary",
+              "title": "Objective Response Rate (ORR)",
+              "description": "Quantify the percentage of patients achieving a CR or PR based on the RECIST criteria.",
+              "time_frame": "Throughout the treatment period",
+              "population": "All enrolled participants"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

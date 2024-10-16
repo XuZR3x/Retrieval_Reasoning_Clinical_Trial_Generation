@@ -1,0 +1,175 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "2020-HU-Advanced-MD",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Evaluation of Hydroxyurea in Patients with Advanced Malignant Melanoma",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Hydroxyurea in Combination with Pembrolizumab in Advanced Malignant Melanoma",
+    "sponsors": {
+      "lead_sponsor": { "agency": "Mount Sinai Health System", "agency_class": "Other" }
+    },
+    "source": "Mount Sinai Health System",
+    "oversight_info": { "has_dmc": "Yes" },
+    "brief_summary": {
+      "textblock": "Malignant melanoma is an aggressive skin cancer with known resistance to traditional therapies. Hydroxyurea, an antineoplastic agent, was hypothesized to enhance the effectiveness of immunotherapy with pembrolizumab in patients with advanced melanoma. This study aimed to determine the safety profile and therapeutic benefit of hydroxyurea combined with pembrolizumab by evaluating overall response rate and progression-free survival."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient efficacy and adverse side effects",
+    "start_date": "January 2021",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Best overall response rate (BORR)",
+      "time_frame": "6 months after treatment initiation"
+    },
+    "secondary_outcome": {
+      "measure": "Progression-free survival (PFS)",
+      "time_frame": "6 months post-treatment"
+    },
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": "Advanced Malignant Melanoma",
+    "arm_group": [
+      { "arm_group_label": "Hydroxyurea + Pembrolizumab", "arm_group_type": "Experimental" },
+      { "arm_group_label": "Pembrolizumab + Placebo", "arm_group_type": "Placebo Comparator" }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Hydroxyurea",
+        "description": "Initiate hydroxyurea at 15 mg/kg/day for the duration of the study."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Administered at a fixed dose of 200 mg IV every 3 weeks."
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Administered as a control for hydroxyurea."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n - Age 18-75 years with histologically confirmed advanced malignant melanoma.\n - Measurable disease as per RECIST 1.1 criteria.\n - Patients must have not received previous systemic therapy.\n\n Exclusion Criteria:\n - Known hypersensitivity to hydroxyurea or pembrolizumab.\n - History of autoimmune disease or severe adverse reactions to immunotherapy.\n - Uncontrolled concurrent infections or another malignancy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Mount Sinai Hospital",
+          "address": { "city": "New York", "state": "New York", "zip": "10029", "country": "United States" }
+        }
+      }
+    ],
+    "location_countries": { "country": "United States" },
+    "verification_date": "August 2023",
+    "study_first_submitted": "June 15, 2020",
+    "study_first_posted": "June 20, 2020",
+    "last_update_posted": "August 31, 2023",
+    "responsible_party": {
+      "name_title": "Dr. Emily Roberts",
+      "organization": "Mount Sinai Health System"
+    },
+    "condition_browse": { "mesh_term": ["Melanoma", "Skin Neoplasms"] },
+    "intervention_browse": { "mesh_term": "Hydroxyurea" },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Hydroxyurea + Pembrolizumab",
+            "description": "Evaluating the combined efficacy and safety of hydroxyurea and pembrolizumab in advanced melanoma patients."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                { "title": "Started", "participants_list": { "participants": 25 } },
+                { "title": "Completed", "participants_list": { "participants": 0 } },
+                { "title": "Not Completed", "participants_list": { "participants": 25 } }
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Best Overall Response Rate (BORR)",
+          "description": "Evaluation of response to treatment using RECIST criteria.",
+          "time_frame": "6 months after treatment initiation",
+          "population": "All enrolled participants",
+          "measure": {
+            "title": "BORR",
+            "analyzed_list": { "analyzed": { "units": "Participants", "scope": "Measure", "count_list": { "count": 0 } } }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Throughout the study duration",
+        "group_list": {
+          "group": {
+            "title": "Adverse Events",
+            "description": "Monitoring of safety parameters during treatment with hydroxyurea and pembrolizumab."
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total Serious Adverse Events",
+              "event_list": {
+                "event": [
+                  { "sub_title": "Total, serious adverse events", "counts": 8 }
+                ]
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "category_list": {
+            "category": {
+              "title": "Total Adverse Events",
+              "event_list": {
+                "event": { "sub_title": "Total, other adverse events", "counts": 12 }
+              }
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Emily Roberts",
+        "organization": "Mount Sinai Health System",
+        "phone": "212 241 6500",
+        "email": "emily.roberts@mountsinai.org"
+      }
+    }
+  }
+}
+```

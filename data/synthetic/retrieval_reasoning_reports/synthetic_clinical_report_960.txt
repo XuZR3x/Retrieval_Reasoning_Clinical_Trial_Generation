@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03012345"
+    },
+    "id_info": {
+      "org_study_id": "Fudan BR2014-20",
+      "nct_id": "NCT03012345"
+    },
+    "brief_title": "Fulvestrant Combined with Palbociclib Versus Fulvestrant Alone in Advanced Hormone Receptor-Positive Breast Cancer",
+    "official_title": "A Multicenter, Open-label, Randomized Phase II Trial of Fulvestrant Plus Palbociclib versus Fulvestrant Alone in Patients with Advanced Hormone Receptor-Positive Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Fudan University",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Fudan University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the efficacy and safety of fulvestrant combined with the CDK4/6 inhibitor palbociclib versus fulvestrant monotherapy in treating advanced hormone receptor-positive breast cancer."
+    },
+    "detailed_description": {
+      "textblock": "The study proposed that the combination of fulvestrant and palbociclib could improve progression-free survival (PFS) compared to fulvestrant alone in patients with advanced breast cancer who had previously progressed on standard endocrine therapy. Despite the promising in vitro data showcasing synergistic effects, the trial failed to meet enrollment targets, ultimately leading the sponsor to terminate the study."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated primarily due to insufficient enrollment, compounded by safety concerns and the modest efficacy demonstrated in preliminary studies.",
+    "start_date": "February 2017",
+    "completion_date": "January 2020",
+    "primary_completion_date": "July 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Up to 12 months",
+      "description": "Assessment of PFS using RECIST criteria to measure the time until the disease progresses relative to the starting point of treatment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 2 years",
+        "description": "Measurement of time from randomization until death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Up to 12 months",
+        "description": "Proportion of participants with complete or partial response to treatment based on RECIST."
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Up to 12 months",
+        "description": "Incidence of adverse events graded according to NCI CTCAE version 4.0"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "0",
+    "condition": "Hormone Receptor-Positive Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Fulvestrant and Palbociclib",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive fulvestrant 500 mg IM on days 1 and 15, plus palbociclib 125 mg orally daily on days 1-21 of 28-day cycles."
+      },
+      {
+        "arm_group_label": "Fulvestrant Only",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive fulvestrant 500 mg IM on days 1 and 15 of 28-day cycles."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fulvestrant",
+        "description": "Fulvestrant is administered intramuscularly as part of both study arms.",
+        "arm_group_label": ["Fulvestrant and Palbociclib", "Fulvestrant Only"],
+        "other_name": ["Faslodex"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Palbociclib",
+        "description": "Palbociclib is administered orally as part of the combination treatment.",
+        "arm_group_label": "Fulvestrant and Palbociclib",
+        "other_name": ["Ibrance"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Females aged 18 years or older\r\n2. Histologically or cytologically confirmed hormone receptor-positive breast cancer\r\n3. Advanced (inoperable locally advanced or metastatic) breast cancer\r\n4. At least one measurable lesion per RECIST criteria\r\n5. Progression on prior endocrine therapy\r\n6. Eastern Cooperative Oncology Group (ECOG) performance status 0-1\r\n\r\nExclusion Criteria:\r\n1. Previous treatment with a CDK4/6 inhibitor\r\n2. Known hypersensitivity to fulvestrant or palbociclib\r\n3. Active uncontrolled infections or serious comorbidities\r\n4. Cardiac arrhythmias or other significant cardiac conditions\r\n5. History of other malignancies except for adequately treated non-melanoma skin cancer."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Mei Zhang, MD.",
+      "role": "Principal Investigator",
+      "affiliation": "Fudan University"
+    },
+    "removed_countries": {
+      "country": "China"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "December 12, 2016",
+    "study_first_submitted_qc": "January 2, 2017",
+    "study_first_posted": "January 3, 2017",
+    "last_update_submitted": "July 10, 2019",
+    "last_update_submitted_qc": "July 10, 2019",
+    "last_update_posted": "July 15, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Fudan University",
+      "investigator_full_name": "Mei Zhang, MD"
+    },
+    "keyword": ["Fulvestrant", "Palbociclib", "Hormone Receptor Positive", "Advanced Breast Cancer"],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fulvestrant", "Palbociclib"]
+    }
+  }
+}
+```

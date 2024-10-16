@@ -1,0 +1,132 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT02683482"
+        },
+        "id_info": {
+            "org_study_id": "DILALPHA",
+            "nct_id": "NCT02683482"
+        },
+        "brief_title": "Evaluation of Aldesleukin in Combination with Pembrolizumab in Treatment-Resistant Metastatic Melanoma",
+        "official_title": "Phase II Trial of Aldesleukin With Pembrolizumab for Patients With Treatment-Resistant Metastatic Melanoma: A Focus on Immune Modulation and Clinical Outcomes",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "MD Anderson Cancer Center",
+                "agency_class": "Academic"
+            }
+        },
+        "source": "MD Anderson Cancer Center",
+        "brief_summary": {
+            "textblock": "RATIONALE: The incorporation of aldesleukin, a potent immunomodulatory agent, into treatment regimens of immune checkpoint inhibitors like pembrolizumab has shown promising preclinical synergies, suggesting that their combined effects may enhance therapeutic efficacy in combating metastatic melanoma. The therapeutic rationale centers on improving the immune response through T cell activation while simultaneously modulating regulatory T cell dynamics."
+        },
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n- **Primary Objective**: To evaluate the overall response rate (ORR) to the combination of aldesleukin and pembrolizumab in patients exhibiting treatment-resistant metastatic melanoma.\n\n- **Secondary Objectives**:\n  - To assess progression-free survival (PFS).\n  - To determine the safety profile and tolerability of the treatment regimen through monitored adverse events.\n\nOUTLINE: Patients will be treated with aldesleukin intravenously at a fixed dose schedule (600,000 IU/m² every 8 hours for 5 days) followed by pembrolizumab administered every 3 weeks. Biomarker analysis will occur at baseline and periodic intervals, assessing changes in lymphocyte subsets and cytokine profiles post-treatment.\n\nAfter treatment completion, patients are followed for a total of 36 months to evaluate long-term outcome measures, including immune modulation and metabolic control relevant to tumor dynamics.\n\nPROJECTED ACCRUAL: A total of 60 patients will be enrolled in this study."
+        },
+        "overall_status": "Completed",
+        "start_date": "January 15, 2018",
+        "completion_date": "December 20, 2021",
+        "primary_completion_date": "September 15, 2021",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Overall Response Rate (ORR)",
+                "description": "The percentage of patients achieving a complete or partial response.",
+                "time_frame": "From first dose to 12 months post-treatment"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "description": "Time from treatment initiation to disease progression or death.",
+                "time_frame": "24 months"
+            },
+            {
+                "measure": "Safety profile",
+                "description": "Incidence of grade 3 or higher adverse events related to the study treatment.",
+                "time_frame": "Throughout the treatment cycle and follow-up period"
+            },
+            {
+                "measure": "Changes in T Regulatory Cells (Tregs)",
+                "description": "Assessment of Treg phenotype and function pre and post treatment.",
+                "time_frame": "Measured at baseline, 6 months, and 12 months"
+            }
+        ],
+        "enrollment": "62",
+        "condition": "Melanoma, Metastatic",
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "Aldesleukin",
+                "description": "Given IV in conjunction with pembrolizumab."
+            },
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "Pembrolizumab",
+                "description": "Given IV as per study protocol."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "INCLUSION CRITERIA:\n- Pathologic diagnosis of stage III or IV melanoma.\n- Prior treatment-resistance to at least one line of systemic therapy.\n- Age between 18-75 years.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n\nEXCLUSION CRITERIA:\n- Prior history of severe autoimmune disease.\n- History of allergic reactions to IL-2 or anti-PD-1 therapies.\n- Active central nervous system metastases or uncontrolled medical conditions.\n\nGENDER: All\nMINIMUM AGE: 18 Years\nMAXIMUM AGE: 75 Years\nHEALTHY VOLUNTEERS: No"
+            }
+        },
+        "overall_official": {
+            "last_name": "James E. K. T. Thomas, MD",
+            "role": "Principal Investigator",
+            "affiliation": "MD Anderson Cancer Center"
+        },
+        "location": {
+            "facility": {
+                "name": "MD Anderson Cancer Center",
+                "address": {
+                    "city": "Houston",
+                    "state": "Texas",
+                    "zip": "77030",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "results_reference": {
+            "citation": "Thomas J. E. K. T., et al. Aldesleukin combined with pembrolizumab in the treatment of treatment-resistant metastatic melanoma: Results from a phase II trial. J Clin Oncol. 2021;39(34):3060-3067. doi:10.1200/JCO.2021.39.34_suppl.3060.",
+            "PMID": "33213576"
+        },
+        "verification_date": "November 2023",
+        "study_first_submitted": "December 1, 2017",
+        "study_first_posted": "January 5, 2018",
+        "last_update_posted": "December 25, 2021",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor",
+            "study_sponsor_id": "MD Anderson Cancer Center"
+        },
+        "keyword": [
+            "Aldesleukin",
+            "Pembrolizumab",
+            "Metastatic Melanoma",
+            "Phase II Trial"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Melanoma",
+                "Skin Neoplasms",
+                "Neoplasms, Glandular and Epithelial"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Aldesleukin"
+        }
+    }
+}
+```

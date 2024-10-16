@@ -1,0 +1,156 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024", 
+        "link_text": "Link to the current ClinicalTrials.gov record.", 
+        "url": "https://clinicaltrials.gov/ct2/show/NCT04561399"
+    }, 
+    "id_info": {
+        "org_study_id": "ABC123456", 
+        "nct_id": "NCT04561399"
+    }, 
+    "brief_title": "Randomized Controlled Trial of Chlorambucil Versus Combination Therapy in Previously Untreated Chronic Lymphocytic Leukemia (CLL)", 
+    "official_title": "A Multicenter Phase III Trial to Compare the Efficacy and Safety of Chlorambucil Monotherapy Versus Chlorambucil in Combination with Obinutuzumab in Patients with Previously Untreated Chronic Lymphocytic Leukemia: A Randomized, Open-label Study", 
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "Research Institute of Hematology", 
+            "agency_class": "Other"
+        }
+    }, 
+    "source": "National Institutes of Health (NIH)", 
+    "oversight_info": {
+        "has_dmc": "Yes", 
+        "is_fda_regulated_drug": "Yes", 
+        "is_fda_regulated_device": "No"
+    }, 
+    "brief_summary": {
+        "textblock": "This multicenter, open-label, randomized Phase III trial aims to evaluate the effectiveness and safety of chlorambucil alone compared to chlorambucil in combination with obinutuzumab in patients with previously untreated chronic lymphocytic leukemia (CLL). The anticipated duration of treatment for each participant is six months."
+    }, 
+    "overall_status": "Completed", 
+    "start_date": "January 15, 2020", 
+    "completion_date": "July 30, 2023", 
+    "primary_completion_date": "June 10, 2023", 
+    "phase": "Phase 3", 
+    "study_type": "Interventional", 
+    "has_expanded_access": "No", 
+    "study_design_info": {
+        "allocation": "Randomized", 
+        "intervention_model": "Parallel Assignment", 
+        "primary_purpose": "Treatment", 
+        "masking": "None (Open Label)"
+    }, 
+    "primary_outcome": [
+        {
+            "measure": "Overall Survival (OS)", 
+            "time_frame": "From the first dose of the study drug until death from any cause, assessed up to 3 years.", 
+            "description": "Overall survival as defined from the time of randomization until death from any cause."
+        }, 
+        {
+            "measure": "Progression-Free Survival (PFS)", 
+            "time_frame": "From the first dose until documented disease progression or death from any cause, assessed up to 3 years.", 
+            "description": "PFS is defined as the time until the first occurrence of either disease progression or death."
+        }
+    ], 
+    "secondary_outcome": [
+        {
+            "measure": "Complete Response Rate (CRR)", 
+            "time_frame": "At the completion of treatment, approximately 6 months after initiating therapy.", 
+            "description": "The percentage of patients achieving complete response defined by the disappearance of all signs of disease."
+        }, 
+        {
+            "measure": "Quality of Life Assessment", 
+            "time_frame": "Baseline to 6 months post-treatment follow-up.", 
+            "description": "QoL was measured using the European Organization for Research and Treatment of Cancer Quality of Life-30 questionnaire."
+        }
+    ], 
+    "enrollment": "300", 
+    "condition": "Chronic Lymphocytic Leukemia", 
+    "arm_group": [
+        {
+            "arm_group_label": "Chlorambucil Monotherapy", 
+            "arm_group_type": "Experimental", 
+            "description": "Participants received chlorambucil 10 mg/m² orally on Days 1-7 of each 28-day treatment cycle for up to 6 cycles."
+        }, 
+        {
+            "arm_group_label": "Chlorambucil + Obinutuzumab", 
+            "arm_group_type": "Active Comparator", 
+            "description": "Participants received chlorambucil 10 mg/m² orally on Days 1-7 in combination with obinutuzumab administered at 1000 mg IV on Days 1, 8, 15 of Cycle 1, followed by 1000 mg IV on Day 1 of subsequent cycles for 6 cycles."
+        }
+    ],
+    "intervention": [
+        {
+            "intervention_type": "Drug", 
+            "intervention_name": "Chlorambucil", 
+            "description": "Chlorambucil administered at 10 mg/m2 orally on Days 1-7 of each 28-day cycle."
+        }, 
+        {
+            "intervention_type": "Drug", 
+            "intervention_name": "Obinutuzumab", 
+            "description": "Obinutuzumab administered at 1000 mg IV on Days 1, 8, and 15 of Cycle 1, followed by 1000 mg on Day 1 of subsequent cycles."
+        }
+    ], 
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\r\n- Adult patients aged 18-75 with a diagnosis of CLL.\r\n- Previously untreated patients with indication for treatment according to IWCLL criteria.\r\n- Adequate organ function defined by laboratory tests.\r\n\r\nExclusion Criteria:\r\n- History of Richter's transformation.\r\n- Prior treatment for CLL or other malignancies.\r\n- Known hypersensitivity to chlorambucil or obinutuzumab."
+        },
+        "gender": "All", 
+        "minimum_age": "18 Years", 
+        "maximum_age": "75 Years", 
+        "healthy_volunteers": "No"
+    }, 
+    "overall_official": {
+        "last_name": "James A. Monroe, MD", 
+        "role": "Study Chair", 
+        "affiliation": "Research Institute of Hematology"
+    },
+    "location": [
+        {
+            "facility": {
+                "name": "Cancer Treatment Center of America", 
+                "address": {
+                    "city": "Newark", 
+                    "state": "New Jersey", 
+                    "zip": "07102", 
+                    "country": "United States"
+                }
+            }
+        }, 
+        {
+            "facility": {
+                "name": "University of California San Francisco", 
+                "address": {
+                    "city": "San Francisco", 
+                    "state": "California", 
+                    "zip": "94143", 
+                    "country": "United States"
+                }
+            }
+        },
+        {
+            "facility": {
+                "name": "Cleveland Clinic",
+                "address": {
+                    "city": "Cleveland",
+                    "state": "Ohio",
+                    "zip": "44195",
+                    "country": "United States"
+                }
+            }
+        }
+    ], 
+    "location_countries": {
+        "country": ["United States"]
+    }, 
+    "verification_date": "July 2023", 
+    "study_first_submitted": "November 25, 2019", 
+    "study_first_posted": "December 1, 2019", 
+    "last_update_posted": "August 15, 2023",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    }, 
+    "condition_browse": {
+        "mesh_term": ["Leukemia, Lymphocytic, Chronic, B-Cell"]
+    }, 
+    "intervention_browse": {
+        "mesh_term": ["Chlorambucil", "Obinutuzumab"]
+    }
+}}

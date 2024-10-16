@@ -1,0 +1,124 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03584057"
+    },
+    "id_info": {
+      "org_study_id": "Pediatric_Imatinib_Study_01",
+      "nct_id": "NCT03584057"
+    },
+    "brief_title": "Phase II Trial of Imatinib in Pediatric Patients with Severe Fibromatosis",
+    "official_title": "Evaluation of Imatinib Mesylate in Children with Severe Progressive Fibromatosis: A Phase II Open-label Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Children's Hospital of Philadelphia",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Children's Hospital of Philadelphia",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the safety and efficacy of imatinib in pediatric patients diagnosed with severe progressive fibromatosis (desmoid tumors). Despite imatinib's mechanism of action as a tyrosine kinase inhibitor, previous studies indicated a lack of robust evidence supporting its efficacy specifically for this condition."
+    },
+    "detailed_description": {
+      "textblock": "Severe fibromatosis represents a challenging clinical entity in pediatrics, characterized by aggressive and sometimes life-threatening tumor growth. The underlying hypothesis postulated that imatinib could inhibit tumor growth via PDGFR blockade. However, the open-label design introduced potential biases, potentially leading to over-optimistic reporting of clinical outcomes. Furthermore, trials required rigorous inclusion criteria that proved burdensome, resulting in inadequate accrual rates."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was halted due to low patient enrollment and significant adverse events.",
+    "start_date": "March 2018",
+    "completion_date": "August 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of Treatment Response (Complete and Partial Responses)",
+      "time_frame": "8 Weeks from initiation of treatment",
+      "description": "Efficacy will be assessed by the number of patients who achieved either a complete or partial response using RECIST criteria."
+    },
+    "secondary_outcome": [{
+        "measure": "Number of Participants with Treatment-related Adverse Events",
+        "time_frame": "Duration of treatment until 2 weeks post last dose",
+        "description": "Adverse events will be graded according to the CTCAE version 5.0 criteria."
+      },
+      {
+        "measure": "Change in Quality of Life as Assessed by PedsQL",
+        "time_frame": "Baseline and 8 weeks post-initiation of treatment",
+        "description": "Quality of life will be assessed to evaluate the impact of treatment on daily living."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "5",
+    "condition": "Progressive Fibromatosis",
+    "arm_group": {
+      "arm_group_label": "Imatinib Treatment",
+      "arm_group_type": "Experimental",
+      "description": "Pediatric patients with severe fibromatosis treated with imatinib 400 mg/m^2 orally once daily for 8 weeks."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Imatinib",
+      "description": "Imatinib will be administered at a dosage of 400 mg/m^2 daily for a duration of 8 weeks, followed by assessment of response."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Age 1-18 years with histologically confirmed progressive fibromatosis.\n2. Measurable disease requiring systemic treatment.\n3. Adequate organ function (renal, hepatic, hematologic). \n4. Patients must provide informed consent/assent.\n5. Not inclusive of patients with recent serious infections or major surgery.\n\nExclusion Criteria:\n1. Prior treatment with other kinase inhibitors.\n2. Patients with severe comorbidities affecting trial participation.\n3. Pregnant or breastfeeding females."
+      },
+      "gender": "All",
+      "minimum_age": "1 Year",
+      "maximum_age": "18 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Children's Hospital of Philadelphia"
+    },
+    "location": {
+      "facility": {
+        "name": "Children's Hospital of Philadelphia",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "February 5, 2018",
+    "study_first_posted": "February 10, 2018",
+    "results_first_submitted": "November 15, 2021",
+    "results_first_posted": "November 20, 2021",
+    "last_update_posted": "November 22, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Children's Hospital of Philadelphia",
+      "investigator_full_name": "John D. Smith",
+      "investigator_title": "M.D., Chief of Pediatric Oncology"
+    },
+    "keyword": "Pediatric Fibromatosis, Imatinib, Desmoid Tumors",
+    "condition_browse": {
+      "mesh_term": ["Desmoid Tumors", "Fibromatosis"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Imatinib Mesylate"
+    },
+    "limitations_and_caveats": "Study terminated due to insufficient patient recruitment and the emergence of serious adverse events, including severe gastrointestinal disturbances and electrolyte imbalances leading to the requirement for discontinuation in several participants."
+  }
+}
+```

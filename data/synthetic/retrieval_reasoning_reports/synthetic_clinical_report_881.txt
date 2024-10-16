@@ -1,0 +1,543 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT05174638"
+    },
+    "id_info": {
+      "org_study_id": "EXEN-2021",
+      "nct_id": "NCT05174638"
+    },
+    "brief_title": "Multi-center Study of Exenatide in Conjunction with Structured Lifestyle Modification for Weight Loss in Obese Individuals with Pre-diabetes",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy of Exenatide Combined with Structured Lifestyle Modification on Weight Loss and Glycemic Control in Obese Individuals with Prediabetes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Institute",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This randomized, double-blind, placebo-controlled, multi-center trial aims to evaluate the impact of exenatide when administered in conjunction with a structured lifestyle modification plan on weight loss and glycemic parameters in obese individuals with prediabetes."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2022",
+    "completion_date": "October 2023",
+    "primary_completion_date": "September 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Body Weight at 24 Weeks",
+      "time_frame": "24 weeks",
+      "description": "The primary endpoint measures the percentage reduction in body weight from baseline to 24 weeks."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in HbA1c Levels",
+        "time_frame": "24 weeks",
+        "description": "Change in HbA1c levels from baseline to 24 weeks."
+      },
+      {
+        "measure": "Change in BMI",
+        "time_frame": "24 weeks",
+        "description": "Change in Body Mass Index (BMI) from baseline to 24 weeks."
+      },
+      {
+        "measure": "Changes in Lipid Profile (Total Cholesterol, HDL, LDL, and Triglycerides)",
+        "time_frame": "24 weeks",
+        "description": "Evaluation of changes in lipid profiles at baseline and at the end of the 24-week treatment period."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "24 weeks",
+        "description": "Monitoring for any adverse events occurring during the study period."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Obesity and Prediabetes",
+    "arm_group": [
+      {
+        "arm_group_label": "Exenatide + Lifestyle Modification",
+        "arm_group_type": "Experimental",
+        "description": "Exenatide administered as a subcutaneous injection (5 mcg twice daily, titrated to 10 mcg as tolerated), combined with a structured lifestyle modification plan."
+      },
+      {
+        "arm_group_label": "Placebo + Lifestyle Modification",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered as a subcutaneous injection, combined with the structured lifestyle modification plan."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Exenatide",
+        "description": "Subcutaneous injection of exenatide, administered at an initial dose of 5 mcg, titrated to 10 mcg depending on the individual’s tolerance and response.",
+        "arm_group_label": "Exenatide + Lifestyle Modification",
+        "other_name": "Byetta"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Subcutaneous injection of placebo matching the volume of exenatide, administered twice daily.",
+        "arm_group_label": "Placebo + Lifestyle Modification"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adults aged 18-65 with a Body Mass Index (BMI) ≥ 30 kg/m^2.\r\n  - Diagnosed with prediabetes (HbA1c 5.7% to 6.4%).\r\n  - Not actively participating in any weight loss programs for at least 3 months prior to the study.\r\n\r\nExclusion Criteria:\r\n\r\n  - History of type 1 diabetes or other serious metabolic disorders.\r\n  - Uncontrolled hypertension or significant cardiovascular conditions.\r\n  - Recent surgery affecting the gastrointestinal tract.\r\n  - Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Avery Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Institute for Metabolic Health Research",
+          "address": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metabolic Diseases Clinic",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Obesity Research Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "October 2023",
+    "study_first_submitted": "February 10, 2021",
+    "study_first_submitted_qc": "February 12, 2021",
+    "study_first_posted": "February 15, 2021",
+    "last_update_submitted": "December 20, 2023",
+    "last_update_posted": "January 5, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Exenatide", "Obesity", "Prediabetes", "Weight Loss", "Lifestyle Modification"],
+    "condition_browse": {
+      "mesh_term": ["Obesity", "Prediabetes"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Exenatide"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited from multiple centers across the United States from January to March 2022.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Exenatide + Lifestyle Modification",
+              "description": "Subjects received exenatide and participated in the lifestyle modification program."
+            },
+            {
+              "title": "Placebo + Lifestyle Modification",
+              "description": "Subjects received placebo and participated in the lifestyle modification program."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [100, 100]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [85, 80]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [15, 20]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [5, 3]
+                  }
+                },
+                {
+                  "title": "Lost to Follow-up",
+                  "participants_list": {
+                    "participants": [5, 8]
+                  }
+                },
+                {
+                  "title": "Participant Decision",
+                  "participants_list": {
+                    "participants": [5, 5]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Exenatide + Lifestyle Modification",
+                "description": "Subjects treated with exenatide."
+              },
+              {
+                "title": "Placebo + Lifestyle Modification",
+                "description": "Subjects treated with placebo."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [100, 100]
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Age",
+                  "units": "years",
+                  "param": "Mean",
+                  "dispersion": "Standard Deviation",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [45.2, 46.0]
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex: Female, Male",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "Female",
+                            "measurement_list": {
+                              "measurement": [60, 58]
+                            }
+                          },
+                          {
+                            "title": "Male",
+                            "measurement_list": {
+                              "measurement": [40, 42]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "outcome_list": {
+            "outcome": [
+              {
+                "type": "Primary",
+                "title": "Change in Body Weight at 24 Weeks",
+                "description": "Change in body weight over the treatment period as measured by weight at baseline and endpoint.",
+                "time_frame": "24 weeks",
+                "population": "Intention to Treat",
+                "group_list": {
+                  "group": [
+                    {
+                      "title": "Exenatide + Lifestyle Modification",
+                      "description": "Reduction in body weight."
+                    },
+                    {
+                      "title": "Placebo + Lifestyle Modification",
+                      "description": "Change in body weight of placebo group."
+                    }
+                  ]
+                },
+                "measure": {
+                  "title": "Change in Body Weight",
+                  "description": "Weight change measured in kg.",
+                  "units": "kg",
+                  "param": "Least Squares Mean",
+                  "dispersion": "Standard Error",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [95, 85]
+                      }
+                    },
+                    "class_list": {
+                      "class": [
+                        {
+                          "title": "Baseline Weight",
+                          "category_list": {
+                            "category": {
+                              "measurement_list": {
+                                "measurement": [90.5, 89.2]
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "title": "Weight Change at 24 Weeks",
+                          "category_list": {
+                            "category": {
+                              "measurement_list": {
+                                "measurement": [-5.6, -1.5]
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "analysis_list": {
+                    "analysis": {
+                      "group_id_list": {
+                        "group_id": ["O1", "O2"]
+                      },
+                      "groups_desc": "Comparison of weight change at 24 weeks between treatments.",
+                      "non_inferiority_type": "Superiority or Other",
+                      "method": "ANCOVA",
+                      "p_value": "<0.0001"
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Secondary",
+                "title": "Change in HbA1c Levels",
+                "description": "Measurement of change in glycemic control through HbA1c levels from baseline to 24 weeks.",
+                "time_frame": "24 weeks",
+                "population": "Intention to Treat",
+                "group_list": {
+                  "group": [
+                    {
+                      "title": "Exenatide + Lifestyle Modification",
+                      "description": "Reduced HbA1c after treatment."
+                    },
+                    {
+                      "title": "Placebo + Lifestyle Modification",
+                      "description": "Change in HbA1c of placebo group."
+                    }
+                  ]
+                },
+                "measure": {
+                  "title": "Change in HbA1c",
+                  "description": "Change in HbA1c measured in percentage.",
+                  "units": "%",
+                  "param": "Least Squares Mean",
+                  "dispersion": "Standard Error",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [95, 85]
+                      }
+                    },
+                    "class_list": {
+                      "class": [
+                        {
+                          "title": "Baseline HbA1c",
+                          "category_list": {
+                            "category": {
+                              "measurement_list": {
+                                "measurement": [7.8, 8.0]
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "title": "HbA1c Change at 24 Weeks",
+                          "category_list": {
+                            "category": {
+                              "measurement_list": {
+                                "measurement": [-1.2, -0.2]
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "analysis_list": {
+                    "analysis": {
+                      "group_id_list": {
+                        "group_id": ["O1", "O2"]
+                      },
+                      "groups_desc": "Comparison of HbA1c change at 24 weeks between treatments.",
+                      "non_inferiority_type": "Superiority or Other",
+                      "method": "ANCOVA",
+                      "p_value": "<0.0001"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "reported_events": {
+      "group_list": {
+        "group": [
+          {
+            "title": "Exenatide + Lifestyle Modification",
+            "description": "Active treatment group."
+          },
+          {
+            "title": "Placebo + Lifestyle Modification",
+            "description": "Control treatment group."
+          }
+        ]
+      },
+      "serious_events": {
+        "category_list": {
+          "category": {
+            "title": "Total",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, serious adverse events",
+                "counts": [1, 3]
+              }
+            }
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 21.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [6, 4]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Nausea",
+                    "counts": [12, 6]
+                  },
+                  {
+                    "sub_title": "Diarrhea",
+                    "counts": [8, 2]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "General disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Fatigue",
+                    "counts": [7, 5]
+                  },
+                  {
+                    "sub_title": "Headache",
+                    "counts": [9, 3]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Nervous system disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Dizziness",
+                    "counts": [5, 4]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The sponsor can review results communications prior to public release with the right to embargo communications regarding trial results for a period of up to 180 days; however, the sponsor cannot require modifications to the publication."
+    },
+    "point_of_contact": {
+      "name_or_title": "Sarah McKenzie, Director of Clinical Trials",
+      "organization": "Global Health Institute",
+      "email": "sarah.mckenzie@ghi.org"
+    }
+  }
+}
+```

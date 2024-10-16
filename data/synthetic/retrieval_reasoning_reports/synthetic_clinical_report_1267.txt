@@ -1,0 +1,149 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04262499"
+    },
+    "id_info": {
+      "org_study_id": "KET-DRD-001",
+      "nct_id": "NCT04262499"
+    },
+    "brief_title": "Evaluation of Ketamine in Treating Resistant Major Depressive Disorder",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Intravenous Ketamine in Patients with Resistant Major Depressive Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This double-blind, placebo-controlled trial aims to assess the efficacy and safety of intravenous ketamine in adults with treatment-resistant major depressive disorder (TRD). The study tests the hypothesis that ketamine will induce a clinically significant reduction in depressive symptoms compared to placebo. Primary efficacy will be measured using the Hamilton Depression Rating Scale (HAM-D) at 24 hours post-infusion."
+    },
+    "detailed_description": {
+      "textblock": "The trial is designed to address the urgent need for effective interventions in patients with treatment-resistant major depressive disorder. Previous studies have demonstrated ketamine's unique pharmacological profile as a rapid NMDA receptor antagonist, leading to swift antidepressant effects. This study will focus on the primary outcome of changes in depression severity assessed by the HAM-D scale, alongside secondary evaluations of suicide risk using the Columbia-Suicide Severity Rating Scale (C-SSRS). \n\nParticipants will be randomly assigned in a 1:1 ratio to either receive a single intravenous infusion of ketamine at a dose of 0.5 mg/kg or an equivalent volume of placebo. Patients will be monitored for side effects and assessment for potential cognitive impairment pre- and post-treatment utilizing the Montreal Cognitive Assessment (MoCA). Enrollment is anticipated to be approximately 100 patients diagnosed with TRD, who must have failed at least two standard antidepressant treatments as per DSM-5 criteria.\n\nThe study's design includes both primary and secondary safety measures, emphasizing thorough monitoring of adverse effects and assessment of functional outcomes across various domains. Follow-up will occur at 1, 2, and 4 weeks post-infusion to determine the durability of therapeutic effects."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2020",
+    "completion_date": "April 2021",
+    "primary_completion_date": "February 2021",
+    "phase": "Phase 2b",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in HAM-D Scores",
+      "time_frame": "24 hours post-infusion",
+      "description": "Assessment of the efficacy of ketamine compared to placebo using the Hamilton Depression Rating Scale (HAM-D) to evaluate severity of depressive symptoms."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in C-SSRS Scores",
+        "time_frame": "24 hours post-infusion",
+        "description": "Measurement of suicide ideation and behavior assessed by the Columbia-Suicide Severity Rating Scale."
+      },
+      {
+        "measure": "MoCA Scores",
+        "time_frame": "Baseline and 24 hours post-infusion",
+        "description": "Cognitive assessment using the Montreal Cognitive Assessment prior to and following ketamine administration."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": "Major Depressive Disorder, Resistant",
+    "arm_group": [
+      {
+        "arm_group_label": "Ketamine Experimental Arm",
+        "arm_group_type": "Experimental",
+        "description": "A single intravenous infusion of ketamine (0.5 mg/kg) administered over 40 minutes."
+      },
+      {
+        "arm_group_label": "Placebo Control Arm",
+        "arm_group_type": "Placebo Comparator",
+        "description": "An equivalent volume of placebo saline administered over 40 minutes."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ketamine",
+        "description": "Intravenous ketamine infusion for the treatment of treatment-resistant depression."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo Saline",
+        "description": "Placebo control consisting of saline solution administered intravenously."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Adults aged 18-65 years.\n  - Meet DSM-5 criteria for Major Depressive Disorder that is treatment-resistant.\n  - Have failed at least two prior antidepressant treatments (SSRIs or SNRIs).\n\nExclusion Criteria:\n  - History of schizophrenia or other primary psychotic disorders.\n  - Active substance abuse that might interfere with treatment evaluation.\n  - Contraindications to ketamine infusion, including certain cardiovascular conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Jane Doe, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Johns Hopkins Medicine"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "January 20, 2020",
+    "study_first_posted": "February 05, 2020",
+    "last_update_posted": "April 30, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Johns Hopkins University",
+      "investigator_full_name": "Dr. Jane Doe, MD",
+      "investigator_title": "Associate Professor of Psychiatry"
+    },
+    "keyword": [
+      "major depressive disorder",
+      "ketamine",
+      "treatment-resistant depression",
+      "randomized controlled trial",
+      "suicidal ideation"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Depressive Disorder",
+        "Depressive Disorder, Major"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Ketamine",
+        "Saline"
+      ]
+    }
+  }
+}
+```

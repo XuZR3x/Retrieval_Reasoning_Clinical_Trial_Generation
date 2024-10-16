@@ -1,0 +1,224 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03028991"
+    },
+    "id_info": {
+      "org_study_id": "OCT70045",
+      "secondary_id": ["2017-11-256", "EUCTR2017-003905-14-NL"],
+      "nct_id": "NCT03028991"
+    },
+    "brief_title": "Evaluation of Olaparib in Patients with Advanced Stage Cancers with Confirmed BRCA Alterations",
+    "official_title": "A Phase II, Multicenter, Open-label Study to Evaluate the Efficacy and Safety of Olaparib in Patients with Advanced Stage Cancers Harboring Confirmed BRCA1 or BRCA2 Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "European Organization for Research and Treatment of Cancer",
+        "agency_class": "Other"
+      }
+    },
+    "source": "AstraZeneca",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study assesses the efficacy and safety of olaparib in patients with advanced cancers that have confirmed BRCA1 or BRCA2 mutations. The aim is to evaluate the clinical activity of olaparib through a defined dosing regimen and comprehensive patient monitoring."
+    },
+    "detailed_description": {
+      "textblock": "This is a Phase II, open-label, non-randomized, multicenter study designed to evaluate the efficacy and safety of olaparib in adult patients with advanced cancers, including ovarian, breast, and pancreatic cancers, characterized by a confirmed deleterious BRCA1 or BRCA2 mutation. Patients will receive olaparib at a dose of 300 mg orally, twice daily, to maintain sustained systemic exposure while minimizing any toxicity. Treatment will be continuous until disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 10, 2018",
+    "completion_date": "March 15, 2023",
+    "primary_completion_date": "November 30, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Confirmed Objective Response Rate (ORR)",
+      "time_frame": "Assessments at baseline and every 8 weeks until disease progression or end of study period (up to 24 months)",
+      "description": "ORR is defined as the proportion of patients experiencing a complete or partial response, evaluated according to RECIST v1.1 criteria."
+   },
+   "secondary_outcome": [
+      {
+         "measure": "Progression-Free Survival (PFS)",
+         "time_frame": "From first dose until documented progression or death (up to 24 months)",
+         "description": "PFS will be calculated starting from the first dose until the date of progression as defined by RECIST 1.1."
+      },
+      {
+         "measure": "Duration of Response (DoR)",
+         "time_frame": "From the first documented response until progression or death (up to 24 months)",
+         "description": "DoR will be defined as the time from the first response until disease progression or death from any cause."
+      },
+      {
+         "measure": "Safety and Tolerability as assessed by incidence of treatment-emergent adverse events (TEAEs)",
+         "time_frame": "From the first dose until 30 days post last dose (up to 24 months)",
+         "description": "All adverse events will be recorded and graded using CTCAE v5.0. The study will examine the proportion of patients experiencing TEAEs."
+      }
+   ],
+   "number_of_arms": "1",
+   "enrollment": "120",
+   "condition": ["Ovarian Cancer", "Breast Cancer", "Pancreatic Cancer", "Other Advanced Cancers"],
+   "arm_group": {
+      "arm_group_label": "Olaparib Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive olaparib 300 mg orally twice daily on continuous 28-day cycles until progression or unacceptable toxicity."
+   },
+   "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Olaparib",
+      "description": "Olaparib is administered orally at a dose of 300 mg twice daily.",
+      "arm_group_label": ["Olaparib Treatment Group"],
+      "other_name": ["AZD2281"]
+   },
+   "eligibility": {
+      "criteria": {
+         "textblock": "Inclusion Criteria:\n- Adults aged 18 years or older with advanced malignancies harboring BRCA1 or BRCA2 mutations.\n- Must have measurable disease per RECIST criteria.\n- Must have failed at least one prior chemotherapy regimen.\n- Patients must be able to provide written informed consent.\n- Sufficient organ function as defined by pre-defined laboratory parameters.\nExclusion Criteria:\n- Prior treatment with any PARP inhibitors.\n- Major surgery within 28 days prior to enrollment.\n- Known active brain metastases or symptomatic cord compression.\n- Current treatment with strong CYP3A4 inhibitors.",
+          "gender": "All",
+          "minimum_age": "18 Years",
+          "maximum_age": "130 Years",
+          "healthy_volunteers": "No"
+      }
+   },
+   "overall_official": [
+      {
+         "last_name": "Emily Thompson, MBBS, PhD",
+         "role": "Study Director",
+         "affiliation": "AstraZeneca"
+      },
+      {
+         "last_name": "Mark Johnson, MD",
+         "role": "Principal Investigator",
+         "affiliation": "Royal Marsden NHS Foundation Trust, London, UK"
+      }
+   ],
+   "location": [
+      {
+         "facility": {
+            "name": "Royal Marsden NHS Foundation Trust",
+            "address": {
+               "city": "London",
+               "zip": "SW3 6JJ",
+               "country": "United Kingdom"
+            }
+         }
+      },
+      {
+         "facility": {
+            "name": "The Institute of Cancer Research",
+            "address": {
+               "city": "Sutton",
+               "zip": "SM2 5PT",
+               "country": "United Kingdom"
+            }
+         }
+      }
+   ],
+   "location_countries": {
+      "country": ["United Kingdom"]
+   },
+   "verification_date": "July 2024",
+   "study_first_submitted": "February 10, 2018",
+   "study_first_submitted_qc": "February 11, 2018",
+   "study_first_posted": "February 12, 2018",
+   "last_update_submitted": "July 20, 2024",
+   "last_update_submitted_qc": "July 20, 2024",
+   "last_update_posted": "July 22, 2024",
+   "responsible_party": {
+      "responsible_party_type": "Sponsor"
+   },
+   "keyword": ["Olaparib", "BRCA mutation", "advanced cancer", "precision medicine", "PARP inhibitor"],
+   "condition_browse": {
+      "mesh_term": "Adenocarcinoma"
+   },
+   "intervention_browse": {
+      "mesh_term": "Olaparib"
+   },
+   "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca clinical trials via the request portal.",
+      "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)"],
+      "ipd_time_frame": "Data availability will follow the commitments made to the EFPIA Pharma Data Sharing Principles.",
+      "ipd_access_criteria": "Data Sharing Agreement must be in place prior to access.",
+      "ipd_url": "https://astrazenecagroup-dt.pharmacm.com/DT/Home"
+   },
+   "clinical_results": {
+      "participant_flow": {
+         "recruitment_details": "The study recruited participants from 15 centers situated across the UK.",
+         "pre_assignment_details": "A total of 120 patients were enrolled, meeting all inclusion criteria.",
+         "drop_withdraw_reason_list": {
+            "drop_withdraw_reason": [
+               { "title": "Withdrawal by Subject", "participants_list": { "participants": [null, null] } },
+               { "title": "Disease progression", "participants_list": { "participants": [null, null] } },
+               { "title": "Adverse Events", "participants_list": { "participants": [null, null] } }
+            ]
+         }
+      },
+      "baseline": {
+         "population": "The full analysis population consisted of all enrolled participants with confirmed BRCA1/2 mutations who received at least one dose of the study drug.",
+         "measure_list": {
+            "measure": [
+               {
+                  "title": "Age",
+                  "units": "Years",
+                  "param": "Median",
+                  "dispersion": "Inter-Quartile Range"
+               },
+               {
+                  "title": "Gender Distribution",
+                  "units": "Participants",
+                  "param": "Count"
+               },
+               {
+                  "title": "Prior Treatment Regimens",
+                  "units": "Participants",
+                  "param": "Count"
+               }
+            ]
+         }
+      },
+      "outcome_list": {
+         "outcome": [
+            {
+               "type": "Primary",
+               "title": "Confirmed Objective Response Rate (ORR)",
+               "description": "The ORR is evaluated based on overall response rates categorized as complete or partial responses per RECIST 1.1. This outcome aims to measure the drug's primary efficacy.",
+               "time_frame": "Evaluated at 8-week intervals until disease progression or study conclusion."
+            },
+            {
+               "type": "Secondary",
+               "title": "Progression-Free Survival (PFS)",
+               "description": "PFS evaluation gauges the length of time from treatment initiation until disease progression, presenting a key metric for therapeutic durability.",
+               "time_frame": "Monitored and analyzed every 8 weeks, extending through the study."
+            },
+            {
+               "type": "Secondary",
+               "title": "Safety Profile Assessment",
+               "description": "Records the incidence of TEAEs, categorized by severity, using the Common Terminology Criteria for Adverse Events (CTCAE). This safety data will shape further studies.",
+               "time_frame": "Followed-up until 30 days post last dose."
+            }
+         ]
+      },
+      "reported_events": {
+         "time_frame": "Throughout the study duration",
+         "description": "A comprehensive review of all adverse events will enable meticulous evaluation of the drug's safety and tolerability profile."
+      },
+      "certain_agreements": {
+         "restrictive_agreement": "The sponsor will retain the right to review communications regarding study results for compliance and to ensure accuracy before public release."
+      },
+      "limitations_and_caveats": "Potential confounding factors such as pre-existing conditions or ongoing treatments may impact the observed efficacy and required precautions will be taken to mitigate these risks."
+   }
+}
+```

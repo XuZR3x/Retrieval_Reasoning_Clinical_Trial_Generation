@@ -1,0 +1,149 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02575403"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000693023",
+      "nct_id": "NCT02575403"
+    },
+    "brief_title": "Cetuximab in Combination with Innovative Chemotherapy for Patients with Advanced Head and Neck Cancer",
+    "official_title": "Phase II Study of Cetuximab with Innovative Chemotherapy for Patients with Advanced Head and Neck Squamous Cell Carcinoma: Evaluating Efficacy and Quality of Life",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Oncology Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "OncoPharma INC",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Oncology Research Institute",
+    "brief_summary": {
+      "textblock": "This non-randomized, open-label phase II trial investigates cetuximab's efficacy when combined with innovative chemotherapy regimens in patients with unresectable advanced head and neck squamous cell carcinoma (HNSCC). The purpose is to determine improvement in response rates and quality of life."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\nPrimary\n- To evaluate the overall response rate (ORR) including complete responses (CR) and partial responses (PR) of cetuximab in conjunction with an innovative chemotherapy regimen in patients suffering from advanced HNSCC.\n\nSecondary\n- To assess progression-free survival (PFS) and overall survival (OS).\n- To evaluate the safety profile of the combination therapy through incidence of adverse events.\n- To utilize pharmacogenomic analysis to identify biomarkers predictive of treatment response.\n- To analyze patient-reported quality of life via standardized instruments throughout treatment and follow-up.\n\nOUTLINE: This is a multicenter study.\n\nPatients receive cetuximab IV over 1 hour weekly for 6 weeks, followed by an innovative chemotherapy regimen consisting of novel agents. Treatments are administered in cycles of 28 days, repeating until disease progression or unacceptable toxicity is noted.\n\nPatient assessment occurs every cycle, with imaging studies (CT or MRI) employed for response evaluation according to RECIST criteria."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2016",
+    "completion_date": "December 2021",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate on Treatment",
+      "time_frame": "Assessment at 6 weeks",
+      "description": "The percentage of patients with a CR or PR as determined by imaging studies."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Up to 12 months after treatment initiation",
+        "description": "Time from treatment initiation to disease progression."
+      },
+      {
+        "measure": "Quality of Life Scores",
+        "time_frame": "Baseline, 6 weeks, and at 1 year post-treatment",
+        "description": "Measured using the FACT-HN tool assessing function across multiple domains."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout treatment and follow-up periods",
+        "description": "Documented according to NCI CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": "Head and Neck Squamous Cell Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Treatment Group with Cetuximab",
+      "arm_group_type": "Experimental",
+      "description": "Cetuximab given in combination with an innovative chemotherapy regimen."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cetuximab",
+        "description": "Administered weekly via IV infusion, following a loading dose in the first week."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Innovative Chemotherapy Agents",
+        "description": "Administered in conjunction with cetuximab following established safety protocols."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed advanced head and neck squamous cell carcinoma with unresectable disease.\n- ECOG performance status of 0-2.\n- Measurable disease by imaging standards.\n- Adequate organ function as defined by laboratory tests.\n\nExclusion Criteria:\n\n- Prior treatment with any EGFR inhibitors.\n- Active or uncontrolled cardiovascular disease.\n- History of hypersensitivity reactions to study medications.\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Richard Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Oncology Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Oncology Research Center",
+          "address": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62768",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Secondary Treatment Site",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "September 15, 2015",
+    "study_first_posted": "October 1, 2015",
+    "results_first_submitted": "February 28, 2022",
+    "results_first_posted": "March 15, 2022",
+    "last_update_posted": "August 25, 2023",
+    "keyword": [
+      "Cetuximab",
+      "Head and Neck Cancer",
+      "Advanced Disease",
+      "Innovative Chemotherapy",
+      "Phase II Trial"
+    ],
+    "condition_browse": {
+      "mesh_term": "Head and Neck Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Cetuximab"
+    }
+  }
+}
+```

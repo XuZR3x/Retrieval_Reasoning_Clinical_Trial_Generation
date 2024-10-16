@@ -1,0 +1,164 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03259822"
+    },
+    "id_info": {
+      "org_study_id": "ABC-12345",
+      "nct_id": "NCT03259822"
+    },
+    "brief_title": "Investigation of Idelalisib in Combination with Standard Chemotherapy for Previously Treated Advanced Follicular Lymphoma",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Idelalisib in Combination with Standard Chemotherapy in Patients with Previously Treated Advanced-Stage Follicular Lymphoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Oncology Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Oncology Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety profile of idelalisib when combined with standard chemotherapy regimens in adults diagnosed with previously treated advanced-stage follicular lymphoma. The decision to discontinue the trial was based upon evidence of suboptimal efficacy coupled with a concerning rise in adverse events, particularly severe hepatotoxicity and opportunistic infections."
+    },
+    "detailed_description": {
+      "textblock": "This is an open-label, multicenter Phase II clinical trial. Participants received standard chemotherapy comprising rituximab and cyclophosphamide along with idelalisib. The primary objective was to assess progression-free survival (PFS), while secondary objectives included evaluation of overall response rate (ORR) and safety profile.\n\nInitial assessments indicated that the introduction of idelalisib did not yield statistically significant enhancements in PFS when juxtaposed with historical controls utilizing standard chemotherapy alone.\n\nAdverse event reporting demonstrated an elevated incidence of grade 3 and 4 toxicities, particularly liver dysfunction and severe infections, with direct recommendations from the Data Monitoring Committee for early termination due to safety concerns."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 15, 2018",
+    "completion_date": "June 30, 2021",
+    "primary_completion_date": "December 29, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Up to 36 months",
+      "description": "PFS defined as the time from treatment initiation until disease progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 36 months",
+        "description": "ORR is defined as the proportion of patients achieving a complete or partial response."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study until completion (up to 36 months)",
+        "description": "Adverse events were monitored and graded according to the NCI CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "120",
+    "condition": "Advanced Follicular Lymphoma",
+    "arm_group": {
+      "arm_group_label": "Idelalisib with Standard Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive idelalisib orally at a dose of 150 mg twice daily alongside a standard chemotherapy regimen, including rituximab and cyclophosphamide, administered intravenously."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Idelalisib",
+        "description": "Oral administration of idelalisib, 150 mg twice daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rituximab",
+        "description": "Administered at a dose of 375 mg/m2 on Day 1 of each cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Administered at 750 mg/m2 on Days 1 and 8 of each cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed diagnosis of follicular lymphoma (FL) Stage III or IV.\n- Previously treated with at least one line of therapy, demonstrating response but subsequent progression.\n- An ECOG performance status of 0-2.\n\nExclusion Criteria:\n- Prior treatment with idelalisib or other PI3K inhibitors.\n- Evidence of significant concurrent illnesses, such as cardiovascular disease or active infections requiring systemic therapy.\n- Presence of active hepatitis or serious liver dysfunction."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Lead",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Oncology Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Cancer Center",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "ABC Medical Institution",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "December 14, 2017",
+    "study_first_submitted_qc": "January 2, 2018",
+    "study_first_posted": "January 15, 2018",
+    "last_update_submitted": "July 15, 2021",
+    "last_update_submitted_qc": "July 15, 2021",
+    "last_update_posted": "July 17, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_contact": {
+        "name": "Clinical Research Team",
+        "organization": "XYZ Oncology Institute",
+        "email": "clinicaltrials@xyzoncology.org"
+      }
+    },
+    "keyword": [
+      "Idelalisib",
+      "follicular lymphoma",
+      "advanced-stage FL",
+      "chemotherapy resistance",
+      "adverse events"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Lymphoma",
+        "Lymphoma, Follicular"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Idelalisib",
+        "Rituximab",
+        "Cyclophosphamide"
+      ]
+    }
+  }
+}
+```

@@ -1,0 +1,271 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "PRG-2023-01",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Effect of Pregabalin on Postoperative Pain and Functional Recovery in Abdominal Surgery",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of Pregabalin for Managing Postoperative Pain and Enhancing Functional Recovery Following Elective Abdominal Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Health Network",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University Health Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aims to evaluate the efficacy of pregabalin in reducing postoperative pain and improving functional outcomes in patients undergoing elective abdominal surgery."
+    },
+    "detailed_description": {
+      "textblock": "Pregabalin has shown promise in the management of neuropathic and postoperative pain. This study assesses the analgesic properties of pregabalin administered preoperatively and postoperatively in patients scheduled for elective abdominal procedures. Given the significant postoperative pain and potential postoperative recovery complications, administering pregabalin may provide an effective strategy to improve patient outcomes.\n\nThis research examines the effect of a structured pregabalin regimen on pain-related outcomes and functional recovery post-surgery. \n\n**Design:** 80 patients scheduled for elective abdominal surgery were randomly assigned to receive pregabalin or placebo, with a follow-up duration of 30 days. \n\n**Primary Endpoints:** The primary outcome is the Area Under the Curve (AUC) for pain scores measured using the Numeric Rating Scale (NRS) during the initial 48 hours post-surgery. \n\n**Secondary Endpoints:** Secondary outcomes include functional assessments of mobility and daily activities evaluated by the Patient-Reported Outcomes Measurement Information System (PROMIS), as well as rates of opioid consumption over the study period.\n\n**Methodology:** Following ethical committee approval, eligible participants were randomized. The pregabalin group received 150 mg orally 1 hour before surgery, followed by 75 mg twice daily for two days. The control group received placebo matching the investigational drug regimen."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2023",
+    "completion_date": "September 2023",
+    "primary_completion_date": "August 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "NRS Pain Score AUC (NRS*hr) for the first 48 hours",
+      "time_frame": "48 hours post-surgery",
+      "description": "Pain scores will be collected every 4 hours using a Numeric Rating Scale (0-10) and analyzed using AUC calculations to evaluate overall pain management."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Patient-Reported Outcomes Measurement Information System (PROMIS)",
+        "time_frame": "Day 7 and Day 30 post-surgery",
+        "description": "Assessment of functional recovery with focus on physical function, satisfaction with social roles, and overall health status."
+      },
+      {
+        "measure": "Total opioid consumption",
+        "time_frame": "72 hours post-surgery",
+        "description": "Total morphine milligram equivalents consumed by each participant in the first 72 hours post-surgery will be quantified and compared."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "80",
+    "condition": "Postoperative Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Pregabalin Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive pregabalin 150 mg orally 1 hour prior to surgery and 75 mg twice daily postoperatively for 2 days."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive matching placebo at the same dosing schedule as the pregabalin group."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pregabalin",
+        "description": "Pregabalin will be administered orally at a dosage of 150 mg before surgery and continued with a regimen of 75 mg BID for 2 days post-surgery.",
+        "other_name": "Lyrica"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered orally at the same schedule as the pregabalin group."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Scheduled for elective abdominal surgery.\n  - Age between 18 to 75 years.\n  - Ability to understand and provide informed consent.\n\nExclusion Criteria:\n  - Previous use of pregabalin or gabapentin.\n  - Significant comorbidities affecting pain assessment (e.g., central nervous system disorders, malignancies).\n  - Participation in another clinical trial within the last 30 days."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Asokumar Buvanendran, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University Health Network"
+    },
+    "location": {
+      "facility": {
+        "name": "Toronto General Hospital",
+        "address": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 1X5",
+          "country": "Canada"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Canada"
+    },
+    "verification_date": "September 2023",
+    "study_first_submitted": "October 1, 2022",
+    "study_first_submitted_qc": "October 1, 2022",
+    "study_first_posted": "October 5, 2022",
+    "last_update_submitted": "August 15, 2023",
+    "last_update_posted": "August 16, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "University Health Network",
+      "investigator_full_name": "Asokumar Buvanendran",
+      "investigator_title": "Attending Physician"
+    },
+    "keyword": ["Pregabalin", "Postoperative Pain", "Abdominal Surgery"],
+    "intervention_browse": {
+      "mesh_term": "Pregabalin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Eighty patients were screened, and following randomization procedures, 40 were allocated to the pregabalin group and 40 to the placebo group.",
+        "group_list": {
+          "group": {
+            "title": "Pregabalin Group vs. Placebo Group",
+            "description": "The study is designed to compare the outcomes in terms of pain management (AUC) and functional recovery between the two groups over 30 days."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": {
+                  "title": "Withdrawal or Non-compliance",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Pregabalin vs. Placebo",
+            "description": "The demographic and baseline characteristics were similar between the pregabalin and placebo groups, ensuring comparability of treatment effects."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "NRS Pain Score AUC (NRS*hr) - 1st 48 Hours",
+            "description": "Pain scores were monitored every four hours post-surgery to determine the AUC.",
+            "time_frame": "48 hours post-surgery",
+            "population": "All patients were analyzed.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Pregabalin Group",
+                  "description": "Patients experienced significantly lower AUC values indicating effective pain management."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Pain scores remained comparably high compared to the pregabalin group."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Pregabalin Group",
+              "description": "Incidence of adverse events was monitored but within acceptable limits."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Reported events included expected postoperative adverse effects."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "category_list": {
+          "category": {
+            "title": "Adverse Events Summary",
+            "event_list": {
+              "event": {
+                "sub_title": "Total serious adverse events",
+                "counts": null
+              }
+            }
+          }
+        }
+      }
+    },
+    "results_reference": {
+      "citation": "Buvanendran A, et al. Efficacy of Pregabalin in Managing Postoperative Pain: A Randomized Controlled Trial. Pain Medicine. 2024. DOI: 10.1093/pm/pnaa123.",
+      "PMID": "12345678"
+    }
+  }
+}
+```

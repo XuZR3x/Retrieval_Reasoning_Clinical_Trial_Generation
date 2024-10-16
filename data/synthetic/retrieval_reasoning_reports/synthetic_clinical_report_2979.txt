@@ -1,0 +1,144 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT05001689"
+    },
+    "id_info": {
+      "org_study_id": "VismoCombi-2",
+      "nct_id": "NCT05001689"
+    },
+    "brief_title": "Combination of Vismodegib and Photodynamic Therapy for Locally Advanced Basal Cell Carcinoma",
+    "official_title": "A Randomized Control Trial of Vismodegib with Photodynamic Therapy for Patients with Locally Advanced Basal Cell Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Pittsburgh Medical Center",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Roche Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Pittsburgh",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II, multicenter, randomized, controlled trial evaluates the efficacy and safety of vismodegib in combination with photodynamic therapy (PDT) in patients with locally advanced basal cell carcinoma (BCC). Participants will be assigned to receive either vismodegib 150 mg orally daily combined with PDT using 20% aminolevulinic acid or vismodegib alone for 24 weeks. The primary aim is to compare the overall response rate (ORR) between the two treatment groups."
+    },
+    "detailed_description": {
+      "textblock": "Basal cell carcinoma (BCC) represents a significant burden on healthcare systems due to its prevalence and the need for effective management strategies. Vismodegib, a specific inhibitor of the Hedgehog signaling pathway, has shown remarkable activity in BCC treatment. This trial hypothesizes that the addition of photodynamic therapy, known for its ability to enhance localized tumor clearance, will improve the therapeutic outcomes in patients with multiple or advanced lesions. Previous studies demonstrated that PDT, in conjunction with systemic agents, can potentially mitigate tumor recurrence rates and significantly enhance patients' quality of life through better cosmetic outcomes. Adverse events will be monitored rigorously as per CTCAE v4.0 guidelines to guarantee patient safety and adherence throughout the trial."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 15, 2021",
+    "completion_date": "December 31, 2022",
+    "primary_completion_date": "September 30, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Week 24",
+      "description": "The ORR is defined as the proportion of patients achieving a complete response (CR) or partial response (PR) per RECIST version 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "Up to 12 months post-treatment",
+        "description": "DoR is measured from the first documentation of CR or PR until disease progression."
+      },
+      {
+        "measure": "Quality of Life Scores",
+        "time_frame": "Baseline and at 24 weeks",
+        "description": "Assessed using the Skindex-16 questionnaire to gauge impacts on symptoms, emotions, and functions."
+      },
+      {
+        "measure": "Incidence of Treatment-Related Adverse Events",
+        "time_frame": "Throughout the study (up to 24 weeks)",
+        "description": "Adverse events are classified using NCI CTCAE version 4.0."
+      },
+      {
+        "measure": "Rate of New Lesion Formation",
+        "time_frame": "Week 24",
+        "description": "Percentage of participants developing new basal cell carcinoma lesions during the study."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Locally Advanced Basal Cell Carcinoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Vismodegib + PDT",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive vismodegib 150 mg orally daily in combination with PDT using 20% aminolevulinic acid."
+      },
+      {
+        "arm_group_label": "Vismodegib Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive vismodegib 150 mg orally daily without any adjunct therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vismodegib",
+        "description": "150 mg once daily"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Photodynamic Therapy (PDT)",
+        "description": "Topical application of 20% aminolevulinic acid followed by light activation as per specified protocol."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion criteria include: Adult patients aged 18 years or older with pathologically confirmed locally advanced BCC; At least five clinically evident BCC lesions with a minimum of two target lesions (≥5 mm); No prior systemic therapy for BCC; Adequate organ function; No active infection or malignancy other than BCC. Exclusion criteria involve prior exposure to vismodegib, significant cardiovascular disease, pregnancy or lactation, and other concurrent malignancies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "University of Pittsburgh Medical Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "UPMC Hillman Cancer Center",
+          "address": {
+            "city": "Pittsburgh",
+            "state": "Pennsylvania",
+            "zip": "15232",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "October 5, 2020",
+    "study_first_posted": "October 12, 2020",
+    "last_update_posted": "July 22, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keywords": "basal cell carcinoma, vismodegib, photodynamic therapy, clinical trial"
+  }
+}
+``` 
+
+This report outlines a successful clinical trial exploring the combination of vismodegib with photodynamic therapy (PDT) for treating locally advanced basal cell carcinoma, drawing on diverse factors that contribute to the efficacy and safety in these patient populations.

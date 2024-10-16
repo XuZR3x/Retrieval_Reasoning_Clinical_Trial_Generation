@@ -1,0 +1,148 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "E1234567",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Study Evaluating the Efficacy and Safety of Exemestane in Combination With Palbociclib in Women With Hormone Receptor Positive Metastatic Breast Cancer",
+    "official_title": "A Multicenter, Open-Label Phase II Trial Assessing Exemestane Plus Palbociclib Versus Exemestane Alone in Postmenopausal Women With ER+/PgR+ Metastatic Breast Cancer Resistant to First-Line Aromatase Inhibitor Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "ABC Clinical Trials",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "ABC Clinical Trials",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the potential efficacy and safety of the combination of exemestane and palbociclib compared to exemestane alone in postmenopausal women with hormone receptor-positive metastatic breast cancer resistant to initial aromatase inhibitor therapy."
+    },
+    "detailed_description": {
+      "textblock": "The trial experienced significant challenges throughout its progression, culminating in a premature termination due to inadequate patient recruitment and inconsistent outcomes regarding clinical efficacy. Patient enrollment proved difficult, significantly limiting the ability to meet the target numbers necessary for robust statistical analysis. Furthermore, a high rate of censoring emerged, making it infeasible to draw credible conclusions about the primary endpoint of progression-free survival (PFS). In addition, the trial observed a concerning trend of non-superiority across the evaluated endpoints, as the combination therapy did not show a significant advantage over treatment with exemestane alone."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate patient recruitment and early cessation of efficacy analyses due to endpoint inconclusiveness.",
+    "start_date": "January 2012",
+    "completion_date": "March 2015",
+    "primary_completion_date": "December 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Two-Group Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "PFS was defined as the time from randomization until the first documentation of objective tumor progression or death from any cause."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 24 months",
+        "description": "The ORR was determined by the percentage of participants achieving a complete response (CR) or partial response (PR) as assessed by RECIST criteria."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "Up to 24 months",
+        "description": "The CBR was defined as the proportion of participants with CR, PR, or stable disease lasting more than six months."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Through study completion",
+        "description": "The safety profile was assessed by monitoring adverse events as defined by NCI-CTCAE version 4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": "Metastatic Breast Neoplasms",
+    "arm_group": [
+      {
+        "arm_group_label": "Experimental - Exemestane + Palbociclib",
+        "arm_group_type": "Experimental",
+        "description": "Participants received exemestane (25 mg orally once daily) and palbociclib (125 mg orally once daily for 21 days of a 28-day cycle)."
+      },
+      {
+        "arm_group_label": "Active Comparator - Exemestane Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received exemestane (25 mg orally once daily)."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "exemestane",
+        "description": "Participants will take one tablet of exemestane 25 mg once daily continuously throughout the study treatment."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "palbociclib",
+        "description": "Participants will take one tablet of palbociclib 125 mg once daily for 21 days in a 28-day cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Postmenopausal women aged 18 years or older with hormone receptor-positive breast cancer.\r\n  - Documented disease progression following first-line aromatase inhibitor therapy.\r\nExclusion Criteria:\r\n  - Prior treatment with palbociclib or any other CDK4/6 inhibitors.\r\n  - History of severe hypersensitivity reaction to any of the study drugs."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Trials Management Team",
+      "role": "Study Director",
+      "affiliation": "ABC Clinical Trials"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Main Research Hospital",
+          "address": {
+            "city": "Cityville",
+            "state": "State",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2015",
+    "study_first_submitted": "November 1, 2011",
+    "study_first_submitted_qc": "November 1, 2011",
+    "study_first_posted": "November 3, 2011",
+    "results_first_submitted": "April 30, 2015",
+    "results_first_submitted_qc": "May 15, 2015",
+    "results_first_posted": "June 5, 2015",
+    "last_update_submitted": "March 28, 2019",
+    "last_update_submitted_qc": "March 28, 2019",
+    "last_update_posted": "April 11, 2019",
+    "responsible_party": {
+      "name_title": "Director, Clinical Trials Operations",
+      "organization": "ABC Clinical Trials"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Exemestane", "Palbociclib"]
+    }
+  }
+}
+```

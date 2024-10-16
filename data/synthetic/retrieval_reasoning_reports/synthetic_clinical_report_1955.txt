@@ -1,0 +1,122 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345789"
+    },
+    "id_info": {
+      "org_study_id": "PLERIX-305",
+      "nct_id": "NCT02345789"
+    },
+    "brief_title": "A Phase III Study to Evaluate the Efficacy and Safety of Plerixafor in Mobilizing Peripheral Blood Stem Cells in Patients With Hematological Malignancies",
+    "official_title": "A Phase III, Randomized, Controlled Study Evaluating the Efficacy of Plerixafor Plus G-CSF Versus G-CSF Alone in the Mobilization of Peripheral Blood Stem Cells for Patients With Hematological Malignancies Undergoing Autologous Stem Cell Transplantation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Genzyme, a Sanofi Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate whether the administration of plerixafor in combination with G-CSF leads to superior mobilization of peripheral blood stem cells in patients with hematological malignancies compared to G-CSF alone."
+    },
+    "detailed_description": {
+      "textblock": "This Phase III, multicenter, randomized, controlled trial will assess the mobilization efficacy of plerixafor when administered in conjunction with G-CSF. Following initial screening and obtaining informed consent, eligible subjects will be randomized into two arms: one receiving plerixafor plus G-CSF and the other allocated to G-CSF alone. Plerixafor will be administered subcutaneously at a dose of 240 mcg/kg on the evening before the first apheresis session, while G-CSF will be administered according to standard protocols.\n\nThe trial will prioritize patient safety and data integrity through vigilant monitoring of adverse events and comprehensive evaluations of the PBSC yield post-mobilization. Key performance measures include CD34+ cell counts and the number of apheresis sessions required to achieve the target stem cell dose. A total of 200 participants will be recruited from various leading clinical centers."
+    },
+    "overall_status": "Active, not recruiting",
+    "study_type": "Interventional",
+    "condition": ["Hemochromatosis", "Multiple Myeloma", "Non-Hodgkin Lymphoma"],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Plerixafor",
+      "description": "Subcutaneous injection of 240 mcg/kg on the evening prior to apheresis, in combination with G-CSF.",
+      "other_name": "Mozobil"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Patients aged 18-60 years with a confirmed diagnosis of multiple myeloma, non-Hodgkin lymphoma, or other hematological malignancies.\n2. Candidates for autologous stem cell transplantation.\n3. Adequate organ function as evidenced by creatinine levels <1.5 mg/dL, bilirubin <1.5 mg/dL, and AST/ALT <2.5xULN.\n4. ECOG performance status of 0-1.\n5. Written informed consent prior to protocol enrollment.\n\nExclusion Criteria:\n\n1. History of allergic reactions to plerixafor.\n2. Pregnant or breastfeeding females.\n3. Patients with active infections or COVID-19 infection within the past 30 days.\n4. Known history of cardiac or pulmonary dysfunction.\n5. Prior allogeneic stem cell transplantation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "60 Years"
+    },
+    "overall_official": {
+      "last_name": "Thomas L. Fischer",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "January 15, 2015",
+    "study_first_submitted_qc": "January 18, 2015",
+    "study_first_posted": "January 20, 2015",
+    "last_update_submitted": "March 1, 2023",
+    "last_update_submitted_qc": "March 1, 2023",
+    "last_update_posted": "March 3, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Autologous Stem Cell Transplant", "Plerixafor", "G-CSF", "Peripheral Blood Stem Cell Mobilization"],
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Lymphoma, Non-Hodgkin"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Plerixafor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "200 patients meeting the inclusion criteria were recruited from multiple clinical trial sites across the United States over a period from February 2015 to December 2020. Monitoring was done via regular safety assessment protocols and data analysis.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Plerixafor + G-CSF",
+              "description": "Participants receiving plerixafor (240 mcg/kg subcutaneously) in conjunction with G-CSF."
+            },
+            {
+              "title": "G-CSF Alone",
+              "description": "Participants receiving G-CSF alone at standard dosing."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Plerixafor + G-CSF",
+              "description": "Study group receiving combination therapy."
+            },
+            {
+              "title": "G-CSF Alone",
+              "description": "Control group receiving G-CSF."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Mobilization Success Rate",
+            "description": "Percentage of patients achieving the target CD34+ cell dose of ≥ 2.0 x 10^6 cells/kg.",
+            "time_frame": "Upon completion of apheresis sessions.",
+            "population": "All randomized patients."
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "Incidence and severity of adverse events related to plerixafor administration.",
+            "time_frame": "Throughout the study period.",
+            "population": "All randomized patients."
+          }
+        ]
+      }
+    }
+  }
+}
+```

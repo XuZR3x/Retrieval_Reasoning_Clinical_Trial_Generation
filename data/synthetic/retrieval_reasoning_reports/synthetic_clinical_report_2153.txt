@@ -1,0 +1,151 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000678901",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Cetuximab in Combination with Chemotherapy and Immune Checkpoint Inhibitors in Treating Patients with Advanced Solid Tumors",
+    "official_title": "A Phase 2 Study Evaluating the Efficacy and Safety of Cetuximab in Combination with Chemotherapy and Immune Checkpoint Inhibitors in Patients with Advanced Solid Tumors: Focus on Biomarker Identification",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute of Cancer Research",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Celgene Corporation",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Institute of Cancer Research",
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "primary_completion_date": "February 2021",
+    "completion_date": "June 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "brief_summary": {
+      "textblock": "Purpose: This study aims to evaluate the safety and efficacy of cetuximab when administered in combination with conventional chemotherapy and immune checkpoint inhibitors, targeting advanced solid tumors expressed the epidermal growth factor receptor (EGFR)."
+    },
+    "detailed_description": {
+      "textblock": "This non-randomized, open-label Phase 2 trial enrolled 60 patients diagnosed with advanced solid tumors (including non-small cell lung cancer, head and neck squamous cell carcinoma, and colorectal cancer). Participants received cetuximab weekly, in conjunction with checkpoint inhibitors (pembrolizumab or nivolumab) and a standard regimen of carboplatin and paclitaxel every three weeks. The trial aimed to elucidate potential biomarkers for treatment response through comprehensive pharmacogenetic profiling, and to assess clinical outcomes based on key efficacy endpoints."
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "description": "Proportion of patients achieving a complete response (CR) or partial response (PR) per RECIST v1.1 criteria, assessed by imaging at 12 weeks.",
+      "time_frame": "12 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "description": "Duration from treatment initiation to progression of disease or death.",
+        "time_frame": "6 months"
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "description": "Duration from treatment initiation to death from any cause.",
+        "time_frame": "1 year"
+      },
+      {
+        "measure": "Biomarker Analyses",
+        "description": "Correlation between response and pre-defined genomic and proteomic profiles obtained through tumor tissue analysis.",
+        "time_frame": "Throughout the study"
+      },
+      {
+        "measure": "Toxicity Profile",
+        "description": "Incidence of treatment-related adverse events graded by CTCAE v5.0.",
+        "time_frame": "Throughout the treatment phase"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": {
+      "arm_group_label": "Cetuximab + Chemotherapy + Immune Checkpoint Inhibitors",
+      "arm_group_type": "Experimental",
+      "description": "Treatment involves the administration of cetuximab combined with carboplatin, paclitaxel, and immune checkpoint inhibitors (either pembrolizumab or nivolumab)."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cetuximab",
+        "description": "Cetuximab administered intravenously at a dose of 400 mg/m² at week 1, followed by 250 mg/m² weekly for a total of six cycles."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Administered at an AUC of 5 mg/mL/min intravenously every 3 weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Administered at 175 mg/m² intravenously every 3 weeks."
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Pembrolizumab or Nivolumab",
+        "description": "Checkpoint inhibitor therapy initiated alongside cetuximab, with the selected agent administered every 3 weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion criteria:\n- Histologically confirmed advanced solid tumors with metastatic disease or unresectable local disease.\n- ECOG performance status of 0-1.\n- Measurable disease according to RECIST v1.1.\n- Adequate organ function demonstrated by laboratory parameters.\n\nExclusion criteria:\n- Prior treatment with EGFR inhibitors.\n- History of severe hypersensitivity to cetuximab or other components of treatment.\n- Active autoimmune disease requiring systemic therapy.\n- Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Megan Hartman, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Institute of Cancer Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Institute of Cancer Research",
+        "address": {
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      }
+    },
+    "results_reference": {
+      "citation": "Hartman M, et al. Efficacy of cetuximab in combination therapy for advanced solid tumors: Insights from a Phase 2 clinical trial. J Clin Oncol. 2022;40(12):1230-1237.",
+      "PMID": "35467234"
+    },
+    "verification_date": "June 2022",
+    "study_first_submitted": "February 16, 2018",
+    "study_first_posted": "February 20, 2018",
+    "last_update_posted": "July 3, 2022",
+    "keyword": [
+      "cetuximab",
+      "EGFR",
+      "immune checkpoint inhibitors",
+      "advanced tumors",
+      "Phase II"
+    ],
+    "condition_browse": {
+      "mesh_term": "Solid Tumors"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Cetuximab",
+        "Paclitaxel",
+        "Carboplatin"
+      ]
+    }
+  }
+}
+```

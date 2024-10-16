@@ -1,0 +1,120 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03012345"
+    },
+    "id_info": {
+      "org_study_id": "ET-2016-ALL",
+      "nct_id": "NCT03012345"
+    },
+    "brief_title": "Etoposide Combined with Pembrolizumab as First-Line Treatment in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "Phase Ib Study Assessing the Efficacy and Safety of Etoposide Combined with Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer (NSCLC)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "brief_summary": {
+      "textblock": "RATIONALE: Etoposide is a topoisomerase II inhibitor that induces double-strand breaks in DNA, which is particularly effective in rapidly dividing tumor cells. Pembrolizumab, an immune checkpoint inhibitor, enhances T-cell activity against cancer cells. The combination may yield synergistic effects, improving overall response rates in NSCLC.\n\nPURPOSE: This phase Ib clinical trial aims to evaluate the safety, tolerability, and efficacy of combining etoposide with pembrolizumab in patients diagnosed with advanced non-small cell lung cancer that has progressed following prior standard therapies."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\nPrimary\n- To determine the objective response rate (ORR) of etoposide combined with pembrolizumab in patients with advanced NSCLC.\n\nSecondary\n- To assess progression-free survival (PFS) and overall survival (OS).\n- To evaluate the safety profile of the combination regimen.\n- To explore the correlation between tumor biomarker expression and therapeutic outcomes.\n\nOUTLINE: This is a multicenter, open-label study. Eligible patients receive etoposide intravenously (IV) on days 1-3 of a 21-day cycle alongside pembrolizumab IV on day 1 of each cycle. Treatment will continue for up to 12 cycles or until disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2017",
+    "primary_completion_date": "January 2020",
+    "phase": "Phase 1b",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective response rate (ORR)",
+      "time_frame": "Approximately 6 months"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "Up to 2 years"
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "Up to 2 years"
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "Up to 30 days post-treatment"
+      },
+      {
+        "measure": "Correlation of biomarker expression with ORR",
+        "time_frame": "At baseline and end of treatment"
+      }
+    ],
+    "enrollment": "120",
+    "condition": "Non-Small Cell Lung Cancer",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etoposide"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n\n- Histologically confirmed advanced (stage IIIB or IV) non-small cell lung cancer (NSCLC) that has progressed after at least one prior therapy.\n- Measurable disease per RECIST 1.1 criteria.\n- ECOG performance status of 0-1.\n- Adequate organ function as determined by laboratory tests.\n- Consent to provide tumor biopsies for biomarker analysis.\n\nEXCLUSION CRITERIA:\n\n- Active central nervous system metastases requiring treatment.\n- History of immunotherapy-related adverse events requiring steroids.\n- Prior chemotherapy or radiation therapy within 4 weeks of enrollment.\n- Concurrent malignancies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Smith, MD",
+      "role": "Study Chair",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins School of Medicine",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2021",
+    "study_first_submitted": "April 1, 2016",
+    "study_first_posted": "April 5, 2016",
+    "last_update_posted": "January 25, 2020",
+    "keyword": [
+      "etoposide",
+      "non-small cell lung cancer",
+      "pembrolizumab",
+      "chemotherapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Etoposide", "Pembrolizumab"]
+    }
+  }
+}
+```

@@ -1,0 +1,225 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03478291"
+    },
+    "id_info": {
+      "org_study_id": "CABO-2020",
+      "nct_id": "NCT03478291"
+    },
+    "brief_title": "Cabozantinib in Patients With Advanced Renal Cell Carcinoma",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Cabozantinib in Patients With Advanced Renal Cell Carcinoma: A Multi-Center Open-Label Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "Cabozantinib, a potent tyrosine kinase inhibitor, exhibits a dual mechanism of action by inhibiting both angiogenesis and crucial signaling pathways associated with tumor cell survival and resistance. This study aims to evaluate its therapeutic effectiveness and safety in a cohort of patients suffering from advanced renal cell carcinoma (RCC), particularly those who have failed previous standard therapies."
+    },
+    "detailed_description": {
+      "textblock": "Patients will receive cabozantinib orally at a dosage of 60 mg daily in cycles of 28 days. Follow-up includes periodic physical examinations, laboratory analyses, and imaging scans to assess treatment response. Adverse events will be monitored and graded according to the Common Terminology Criteria for Adverse Events (CTCAE). Biomarker evaluations will be conducted to understand the correlation between molecular profiles and treatment outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2019",
+    "completion_date": "April 2023",
+    "primary_completion_date": "January 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Evaluated every 8 weeks through imaging assessments using RECIST v1.1, until progression or withdrawal.",
+      "description": "The ORR was defined as the proportion of patients achieving a complete response (CR) or partial response (PR) out of the total population assessed at each evaluation point."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from the start of therapy until progression or death, assessed at 3 months intervals.",
+        "description": "PFS was defined as the duration of time from start of treatment to the first documented progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Monitored until study completion or patient death, with a median follow-up of 24 months.",
+        "description": "OS was estimated from the date of treatment initiation to the date of death or last follow-up."
+      },
+      {
+        "measure": "Safety Profile (Adverse Events)",
+        "time_frame": "Throughout the course of the study, reported by severity according to CTCAE.",
+        "description": "Adverse events were recorded continuously, with special emphasis on serious adverse events and dose-limiting toxicities."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "100",
+    "condition": "Advanced Renal Cell Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Cabozantinib Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients with advanced renal cell carcinoma receiving cabozantinib at a dose of 60 mg daily."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Cabozantinib",
+      "description": "Administered orally at a dosage of 60 mg once daily."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n - Histologically confirmed advanced renal cell carcinoma.\r\n - Progression on or intolerance to at least one prior systemic therapy.\r\n - Measurable disease according to RECIST v1.1.\r\n - ECOG performance status 0-2.\r\n - Adequate organ function as defined by specific laboratory parameters.\r\n - Male or female patients aged ≥ 18 years.\r\n - Informed consent must be obtained prior to study-related procedures.\r\n\r\nExclusion Criteria:\r\n\r\n - History of other malignancies within the last 5 years.\r\n - Any prior therapy with cabozantinib.\r\n - Serious concurrent medical conditions or uncontrolled hypertension.\r\n - Pregnancy or breastfeeding.\r\n - Evidence of significant cardiovascular disease."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "National Cancer Institute",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "January 10, 2019",
+    "study_first_posted": "February 1, 2019",
+    "last_update_posted": "April 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Cancer Institute",
+      "investigator_full_name": "John Doe, MD",
+      "investigator_title": "Chief of Oncology"
+    },
+    "keyword": ["Renal Cell Carcinoma", "Cabozantinib", "Tyrosine Kinase Inhibitor"],
+    "condition_browse": {
+      "mesh_term": "Renal Cell Carcinoma"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+            "title": "Cabozantinib Treatment Group",
+            "description": "Patients receiving cabozantinib treatment."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [100]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [80]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [20]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "The proportion of patients achieving a complete response or partial response.",
+            "time_frame": "Evaluated at every 8 weeks post-treatment initiation",
+            "measure": {
+              "title": "Proportion of Patients Responding",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Population",
+                  "count_list": {
+                    "count": [31] // ORR was found in 31 participants
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Duration from treatment initiation to progression or death.",
+            "time_frame": "Measured at 3-month intervals until disease progression",
+            "measure": {
+              "title": "Median PFS",
+              "units": "Months",
+              "param": "Median Duration",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Population",
+                  "count_list": {
+                    "count": [14.2] // Median PFS was found to be 14.2 months
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "Time from initiation of treatment to death.",
+            "time_frame": "Until study completion or date of last follow-up",
+            "measure": {
+              "title": "Median OS",
+              "units": "Months",
+              "param": "Median Duration",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Population",
+                  "count_list": {
+                    "count": [24.1] // Median OS was found to be 24.1 months
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

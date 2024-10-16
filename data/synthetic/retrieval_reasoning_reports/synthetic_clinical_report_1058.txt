@@ -1,0 +1,157 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03224578"
+    },
+    "id_info": {
+      "org_study_id": "PRD-2022-CRS",
+      "nct_id": "NCT03224578"
+    },
+    "brief_title": "Efficacy of Prednisone in Patients with Chronic Rhinosinusitis Without Nasal Polyps",
+    "official_title": "A Multicenter, Randomized, Placebo-Controlled Trial Assessing the Efficacy of Prednisone in Chronic Rhinosinusitis Without Nasal Polyps (CRSsNP)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Pennsylvania",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of Pennsylvania",
+    "overall_status": "Terminated",
+    "why_stopped": "Poor patient enrollment and excessive clinical variability",
+    "start_date": "April 2018",
+    "completion_date": "March 2021",
+    "primary_completion_date": "January 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Single (Participant)"
+    },
+    "primary_outcome": {
+      "measure": "Sino-Nasal Outcome Test (SNOT-22)",
+      "time_frame": "8 weeks",
+      "description": "A validated questionnaire measuring sinonasal symptoms and quality of life."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Endoscopic Findings",
+        "time_frame": "8 weeks",
+        "description": "Assessment of sinonasal mucosal health via nasal endoscopy."
+      },
+      {
+        "measure": "Prednisone-Related Adverse Events",
+        "time_frame": "8 weeks",
+        "description": "Monitoring of side effects associated with prednisone usage as reported by patients."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": "Chronic Rhinosinusitis Without Nasal Polyps",
+    "arm_group": [
+      {
+        "arm_group_label": "Prednisone",
+        "arm_group_type": "Experimental",
+        "description": "Patients received oral prednisone (40 mg/day for 7 days) followed by taper."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients received oral placebo identical in appearance to prednisone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prednisone",
+        "description": "Administered orally at a dosage of 40 mg daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered orally, identical in appearance to prednisone."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18-75 with a diagnosis of chronic rhinosinusitis without nasal polyps (CRSsNP).\n\n2. Must have failed conventional medical management with at least 3 months of persistent symptoms.\n\n3. Must provide informed consent and be willing to complete all study assessments.\n\nExclusion Criteria:\n\n1. Evidence of associated allergy or asthma.\n\n2. Recent systemic corticosteroid therapy (within 8 weeks prior to enrollment).\n\n3. Pregnant or breastfeeding women.\n\n4. Patients with a history of significant adverse reactions to corticosteroids."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas M. Connelly, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Pennsylvania"
+    },
+    "location": {
+      "facility": {
+        "name": "Penn Medicine",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_posted": "February 5, 2018",
+    "last_update_posted": "April 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Pennsylvania",
+      "investigator_full_name": "Thomas M. Connelly, MD"
+    },
+    "keyword": [
+      "CRSsNP",
+      "Corticosteroids",
+      "Prednisone",
+      "Chronic Sinusitis",
+      "Nasal Health"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Chronic Rhinosinusitis",
+        "Sinusitis",
+        "Nasal Polyps"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Prednisone"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study faced significant challenges in recruiting the targeted number of participants. Only 35 patients were enrolled over three years, primarily due to stringent eligibility criteria and the heterogeneous nature of CRSsNP, which led to difficulties in patient recruitment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Prednisone",
+              "description": "Received oral prednisone for 7 days."
+            },
+            {
+              "title": "Placebo",
+              "description": "Received placebo treatment for 7 days."
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Over the course of the treatment period.",
+        "desc": "A total of 12 participants reported prednisone-related adverse events, which included gastrointestinal disturbances and insomnia; however, no severe adverse events occurred."
+      },
+      "limitations_and_caveats": "The study's outcomes were likely affected by inadequate patient enrollment, leading to insufficient power to detect meaningful treatment effects. Additionally, the inherent clinical variability in the CRSsNP population obscured the therapeutic potential of prednisone, necessitating reconsideration of the intervention's timing and duration."
+    }
+  }
+}
+```

@@ -1,0 +1,148 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT04165725"
+        },
+        "id_info": {
+            "org_study_id": "HU-2030",
+            "nct_id": "NCT04165725"
+        },
+        "brief_title": "Efficacy of Hydroxyurea in Patients with Relapsing Remitting Multiple Sclerosis",
+        "official_title": "A Phase 2 Study of Hydroxyurea in Patients with Relapsing Remitting Multiple Sclerosis",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Innovative Health Research Institute",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Innovative Health Research Institute",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to evaluate the efficacy and safety of hydroxyurea in patients with relapsing remitting multiple sclerosis (RRMS) given its immunomodulatory properties, which have been observed in other chronic inflammatory conditions. Previous studies indicated that hydroxyurea diminished lymphocyte counts, yet failed to demonstrate significant reductions in relapse rates in RRMS. This could be attributed to inadequate pharmacodynamic profiling to target specific pathophysiological mechanisms of RRMS."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Lack of efficacy and insufficient enrollment",
+        "start_date": "March 2020",
+        "completion_date": "January 2022",
+        "primary_completion_date": "November 2021",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Change in relapse rate from baseline",
+            "time_frame": "12 months"
+        },
+        "secondary_outcome": {
+            "measure": "Evaluation of safety profiles through side effect reporting",
+            "time_frame": "12 months"
+        },
+        "number_of_arms": "2",
+        "enrollment": "40",
+        "condition": "Relapsing Remitting Multiple Sclerosis",
+        "arm_group": [
+            {
+                "arm_group_label": "Hydroxyurea",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Hydroxyurea",
+                "description": "Starting at 15 mg/kg daily, titrated to a maximum of 30 mg/kg based on tolerance over the first 6 months."
+            },
+            {
+                "intervention_type": "Other",
+                "intervention_name": "Placebo",
+                "description": "Administered an identical regimen to the experimental group."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n\r\n  -  Aged 18-65 years, \r\n  -  Diagnosed with relapsing remitting multiple sclerosis based on McDonald criteria, \r\n  -  EDSS score less than 6.5.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Prior treatment with any disease-modifying therapies within the last 12 months,\r\n  -  Known hypersensitivity to hydroxyurea,\r\n  -  Significant comorbidities adversely affecting study participation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "65 Years",
+            "healthy_volunteers": "No"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Health Sciences Complex, University of Innovative Health",
+                    "address": {
+                        "city": "Los Angeles",
+                        "zip": "90089",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "February 2022",
+        "study_first_submitted": "October 15, 2019",
+        "study_first_posted": "October 20, 2019",
+        "last_update_posted": "April 15, 2022",
+        "responsible_party": {
+            "name_title": "Dr. Emily Sanderson",
+            "organization": "Innovative Health Research Institute"
+        },
+        "condition_browse": {
+            "mesh_term": ["Multiple Sclerosis", "Relapsing Remitting Multiple Sclerosis"]
+        },
+        "intervention_browse": {
+            "mesh_term": "Hydroxyurea"
+        },
+        "clinical_results": {
+            "outcome_list": {
+                "outcome": {
+                    "type": "Primary",
+                    "title": "Relapse Rate Assessment",
+                    "description": "Comparison of relapse rates between hydroxyurea and placebo groups.",
+                    "population": "Participants with completed data",
+                    "measure": {
+                        "title": "Relapse Events",
+                        "description": "Number of relapses reported during the study period."
+                    }
+                }
+            },
+            "reported_events": {
+                "time_frame": "Throughout the study duration.",
+                "group_list": {
+                    "group": {
+                        "title": "Hydroxyurea Group",
+                        "description": "Participants experienced a higher incidence of adverse events including neutropenia and gastrointestinal disturbances."
+                    }
+                }
+            },
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+                "restrictive_agreement": "No agreement limits the PI's rights to publish results."
+            },
+            "point_of_contact": {
+                "name_or_title": "Dr. Emily Sanderson",
+                "organization": "Innovative Health Research Institute",
+                "phone": "310 555 0123",
+                "email": "emily.sanderson@ihri.edu"
+            }
+        }
+    }
+}
+```

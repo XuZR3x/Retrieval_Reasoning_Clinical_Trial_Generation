@@ -1,0 +1,155 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "FENT-2021",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Evaluation of Fentanyl Comparison to Morphine for Analgesia in Postoperative Patients Post-Cholecystectomy",
+    "official_title": "A Multi-Center, Randomized, Double-Blind Study of Fentanyl vs. Morphine for Pain Management Following Cholecystectomy: A Focus on Efficacy and Safety Outcomes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "General Hospital Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "General Hospital Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to compare the analgesic efficacy and safety profile of fentanyl to morphine in patients undergoing laparoscopic cholecystectomy. The primary goal was to evaluate pain control, while secondary objectives included assessing respiratory depression and patient satisfaction."
+    },
+    "detailed_description": {
+      "textblock": "Despite the use of fentanyl for postoperative analgesia after cholecystectomy, several adverse outcomes were noted. Increased incidences of respiratory depression were observed, particularly in patients receiving fentanyl, prompting reconsideration of its safety profile. The rapid pharmacodynamic action of fentanyl may not sufficiently address the prolonged analgesic requirements post-surgery, potentially leading to reliance on additional analgesics. Furthermore, fentanyl failed to effectively alleviate shoulder and abdominal pain in the immediate postoperative recovery period, as evidenced by comparable Visual Analog Scale (VAS) scores across both fentanyl and morphine groups. This raises concerns regarding its clinical benefit over morphine given the established effectiveness of the latter in similar contexts. Ultimately, the modest elevation in VAS scores indicated that neither agent met the anticipated analgesic criteria, limiting the applicability of fentanyl in acute postoperative pain management scenarios."
+    
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Increased incidence of respiratory depression in patients administered fentanyl compared to morphine.",
+    "start_date": "March 2021",
+    "completion_date": "December 2021",
+    "primary_completion_date": "December 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Pain Intensity Measured by Visual Analog Scale (VAS)",
+      "time_frame": "From postoperative recovery until discharge or 48 hours post-surgery, whichever occurs first."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Respiratory Depression",
+        "time_frame": "Within the first 24 hours post-surgery."
+      },
+      {
+        "measure": "Patient Satisfaction Rating",
+        "time_frame": "At discharge using a standard satisfaction questionnaire."
+      },
+      {
+        "measure": "Need for Supplemental Analgesics",
+        "time_frame": "Throughout the inpatient stay."
+      },
+      {
+        "measure": "Efficacy in Alleviating Shoulder and Abdominal Pain",
+        "time_frame": "Measured daily for 48 hours post-surgery."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": "Postoperative Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Fentanyl Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive fentanyl 50 mcg intravenous bolus dose followed by a continuous infusion of fentanyl at 25 mcg/hr for 48 hours."
+      },
+      {
+        "arm_group_label": "Morphine Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive morphine 4 mg intravenous bolus dose followed by a continuous infusion of morphine at 2 mg/hr for 48 hours."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fentanyl",
+        "description": "Fentanyl administered intravenously with a bolus followed by continuous infusion as needed.",
+        "arm_group_label": "Fentanyl Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Morphine",
+        "description": "Morphine administered intravenously with a bolus followed by continuous infusion as needed.",
+        "arm_group_label": "Morphine Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 18 to 80 years undergoing elective laparoscopic cholecystectomy.\r\n- Patients requiring analgesia for postoperative pain.\r\n\r\nExclusion Criteria:\r\n- History of severe respiratory illness or sleep apnea.\r\n- Known allergy to fentanyl or morphine.\r\n- Pregnant or breastfeeding women.\r\n- Chronic pain patients on long-term opioid therapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emma Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "General Hospital Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "General Hospital Medical Center",
+        "address": {
+          "city": "Metropolis",
+          "state": "State",
+          "zip": "12345",
+          "country": "USA"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "USA"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "January 5, 2021",
+    "study_first_submitted_qc": "January 10, 2021",
+    "study_first_posted": "January 15, 2021",
+    "last_update_submitted": "December 10, 2021",
+    "last_update_posted": "December 12, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Postoperative Pain",
+      "Fentanyl",
+      "Morphine",
+      "Cholecystectomy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Postoperative Pain",
+        "Pain Management",
+        "Cholecystectomy"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Fentanyl",
+        "Morphine"
+      ]
+    }
+  }
+}
+```

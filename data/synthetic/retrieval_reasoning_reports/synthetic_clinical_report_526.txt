@@ -1,0 +1,195 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345720"
+    },
+    "id_info": {
+      "org_study_id": "VA-120-14-123",
+      "nct_id": "NCT02345720"
+    },
+    "brief_title": "Vemurafenib in Patients With Poorly Controlled Advanced Melanoma",
+    "official_title": "A Phase II Study of Vemurafenib in Patients With Poorly Controlled V600-Mutant Advanced Melanoma and High ECOG Performance Status",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Veterans Affairs Medical Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Roche Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Veterans Affairs Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of vemurafenib in patients with advanced melanoma harboring the V600 mutation, specifically those suffering from a high disease burden and presenting with poor performance status (ECOG scores of 3 or 4). Given the historical challenges in achieving meaningful clinical outcomes with vemurafenib in this patient population, the trial seeks to obtain further insights into both the pharmacodynamics and patient tolerance of the treatment."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter trial comprised a single-arm design involving patients with measurable, unresectable melanoma. Participants were to receive vemurafenib at a dose of 960 mg orally twice daily. The primary endpoints included overall response rate as defined by RECIST v1.1 criteria, as well as the assessment of adverse events through standard toxicity grading scales. The secondary outcomes involved pharmacodynamic profiling to elucidate mechanisms of resistance and further evaluation of quality-of-life metrics over the treatment duration. Despite the rigorous design and the usage of an established agent, the trial was plagued by recruitment challenges, and enrollment ceased before required numbers were met."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of recruitment and high rates of adverse events.",
+    "start_date": "January 2015",
+    "completion_date": "September 2016",
+    "primary_completion_date": "June 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "12 months",
+      "description": "To determine the overall response rate per RECIST v1.1 in patients treated with vemurafenib."
+    },
+    "number_of_arms": "1",
+    "enrollment": "5",
+    "condition": "Melanoma",
+    "arm_group": {
+      "arm_group_label": "Vemurafenib Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive vemurafenib 960 mg po BID until progression of disease or unacceptable toxicity."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Vemurafenib",
+      "description": "Vemurafenib administered orally at 960 mg twice daily."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Histologically or cytologically confirmed advanced melanoma with documented V600 mutation\n  - ECOG performance status of 3 or 4\n  - Measurable disease as defined by RECIST v1.1\n  - Age > 18 years\n  - Adequate organ function as stipulated in the trial protocol\n\nExclusion Criteria:\n\n  - Prior treatment with BRAF inhibitors\n  - Symptomatic CNS metastases\n  - Concurrent chemotherapy or immunotherapy\n  - Pregnant or breastfeeding women"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah J. Cole, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Veterans Affairs Medical Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Veterans Affairs Medical Center",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90073",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2022",
+    "study_first_submitted": "December 1, 2014",
+    "study_first_submitted_qc": "December 5, 2014",
+    "study_first_posted": "December 10, 2014",
+    "last_update_submitted": "June 1, 2023",
+    "last_update_submitted_qc": "June 1, 2023",
+    "last_update_posted": "June 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["vemurafenib", "melanoma", "advanced", "V600 mutation"],
+    "condition_browse": {
+      "mesh_term": "Melanoma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Vemurafenib"
+    }, 
+    "clinical_results": {
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Vemurafenib Treatment Group",
+            "description": "Administered vemurafenib to assess safety and efficacy."
+          }
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": 5
+                  }
+                }
+              },
+              {
+                "title": "General Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Death related to treatment",
+                    "counts": 1
+                  }
+                }
+              },
+              {
+                "title": "Metabolism and Nutrition Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Hyperglycemia",
+                    "counts": 3
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": 10
+                  }
+                }
+              },
+              {
+                "title": "Nervous System Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Headaches",
+                    "counts": 2
+                  }
+                }
+              },
+              {
+                "title": "Skin and Subcutaneous Tissue Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Rash - Maculopapular",
+                    "counts": 4
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

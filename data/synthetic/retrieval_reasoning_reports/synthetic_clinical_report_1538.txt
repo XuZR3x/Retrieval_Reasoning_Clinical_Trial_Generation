@@ -1,0 +1,165 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00672486"
+    },
+    "id_info": {
+      "org_study_id": "INSULIN_GLU_001",
+      "nct_id": "NCT00672486"
+    },
+    "brief_title": "Efficacy and Safety of Insulin Glulisine in Patients With Type 1 Diabetes Under Controlled Conditions",
+    "official_title": "A Multicenter, Randomized, Open-label Study to Evaluate the Efficacy and Safety of Insulin Glulisine Compared to Regular Human Insulin in Achieving Glycemic Control in Subjects With Type 1 Diabetes Mellitus Over 24 Weeks",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Sanofi",
+    "overall_status": "Completed",
+    "start_date": "March 2008",
+    "primary_completion_date": "August 2009",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change in HbA1c",
+        "time_frame": "Baseline to Week 24"
+      },
+      {
+        "measure": "Occurrence of hypoglycemic events",
+        "time_frame": "Through study completion, on average 24 weeks"
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Patient-reported diabetes management satisfaction",
+        "time_frame": "Week 24"
+      },
+      {
+        "measure": "Insulin dosing requirements",
+        "time_frame": "From baseline to Week 24"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "450",
+    "condition": "Diabetes Mellitus, Type 1",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Administration of Insulin Glulisine"
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Administration of Regular Human Insulin"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin Glulisine",
+        "description": "Subcutaneous administration immediately before meals"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Regular Human Insulin",
+        "description": "Subcutaneous administration immediately before meals"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Diagnosis of Type 1 diabetes mellitus for at least 1 year\r\n  -  Aged 18 to 65 years at the time of enrollment\r\n  -  HbA1c levels between 7.0% and 10.0%\r\n  -  Stability of insulin regimen for at least 3 months prior to study entry\r\n\r\nExclusion Criteria:\r\n\r\n  -  History of severe hypoglycemic episodes or hypoglycemia unawareness\r\n  -  Any concurrent serious medical condition\r\n  - Pregnant or breastfeeding women\r\n  -  Active participation in another investigational drug study for the past 30 days"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Zhao",
+      "role": "Study Director",
+      "affiliation": "Sanofi"
+    },
+    "location": {
+      "facility": {
+        "name": "Multiple Clinical Sites",
+        "address": {
+          "city": "Various",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2010",
+    "study_first_submitted": "March 20, 2008",
+    "study_first_posted": "March 25, 2008",
+    "last_update_submitted": "October 10, 2010",
+    "last_update_posted": "October 15, 2010",
+    "responsible_party": {
+      "name_title": "Clinical Development Lead",
+      "organization": "sanofi-aventis"
+    },
+    "condition_browse": {
+      "mesh_term": "Diabetes Mellitus, Type 1"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Insulin",
+        "Insulin glulisine",
+        "Human Insulin"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 45 clinical sites were engaged, with 450 patients enrolled and randomized. In total, 400 patients completed the study.",
+        "pre_assignment_details": "Participants were considered enrolled upon signing the informed consent followed by random assignment based on pre-entry screening criteria."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glulisine",
+              "description": "Subcutaneous insulin glulisine administration prior to meals."
+            },
+            {
+              "title": "Regular Human Insulin",
+              "description": "Subcutaneous regular human insulin administration prior to meals."
+            },
+            {
+              "title": "Total",
+              "description": "Total population across both treatment arms."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [200, 200, 400]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Adverse Events (AE) were recorded from the date of informed consent through the last visit and analyzed for severity and relationship to study drug.",
+        "desc": "Primary safety analysis was performed on all reported AEs among both groups."
+      }
+    }
+  }
+}
+```

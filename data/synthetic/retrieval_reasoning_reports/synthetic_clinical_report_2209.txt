@@ -1,0 +1,213 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "ECOG 1234",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Neoadjuvant Fluorouracil in Patients Undergoing Resection for Stage III Colorectal Cancer",
+    "official_title": "A Phase III, Randomized Trial Evaluating the Efficacy of Neoadjuvant Fluorouracil in Combination with Leucovorin versus Observation Prior to Surgical Resection in Patients with Stage III Colorectal Cancer.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eastern Cooperative Oncology Group",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Eastern Cooperative Oncology Group",
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to insufficient accrual numbers and concerns regarding safety profiles.",
+    "start_date": "January 2011",
+    "completion_date": "April 2022",
+    "primary_completion_date": "March 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "5-Year Disease-Free Survival Rate",
+      "time_frame": "Evaluated at the 5-year mark post-randomization.",
+      "description": "Disease-free survival (DFS) is defined as the time from randomization to the first recurrence of disease, second invasive malignancy, or death."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "5-Year Overall Survival Rate",
+        "time_frame": "Evaluated annually until the 5th year post-treatment.",
+        "description": "Overall survival (OS) is defined as the time from randomization to death from any cause."
+      },
+      {
+        "measure": "Rate of Adverse Events",
+        "time_frame": "Assessed from treatment initiation until 30 days post-treatment completion.",
+        "description": "All grade III-IV adverse events were documented and classified according to CTCAE v4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": "Stage III Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Neoadjuvant Fluorouracil + Leucovorin",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive neoadjuvant chemotherapy consisting of fluorouracil (5-FU) and leucovorin calcium for 8 weeks prior to surgical resection."
+      },
+      {
+        "arm_group_label": "Observation",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive no neoadjuvant therapy and are monitored until surgical resection."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil",
+        "description": "5-FU administered as a continuous intravenous infusion at a dose of 600 mg/m^2/day for 8 weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "Given concurrently with 5-FU at a dose of 20 mg/m^2 administered intravenously daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed Stage III colon cancer.\r\n- Patients are eligible for curative surgical resection within 3 months.\r\n- ECOG performance status 0-1.\r\n- Age ≥ 18 years.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Eastern Cooperative Oncology Group"
+    },
+    "location": {
+      "facility": {
+        "name": "Various Oncology Centers Across the United States",
+        "address": {
+          "city": "Multiple Cities",
+          "state": "Multiple States",
+          "zip": "Various",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "December 1, 2010",
+    "study_first_posted": "January 1, 2011",
+    "last_update_posted": "April 20, 2022",
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Despite the initial target of 800 patients, the study only accrued 320 patients due to recruitment challenges stemming from competing trials and limited participant interest.", 
+        "group_list": {
+          "group": [
+            {
+              "title": "Neoadjuvant Fluorouracil + Leucovorin",
+              "description": "160 patients received the experimental treatment."
+            },
+            {
+              "title": "Observation",
+              "description": "160 patients underwent observation."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {"title": "STARTED", "participants_list": {"participants": "320 patients were enrolled but faced slow recruitment."}},
+                {"title": "COMPLETED", "participants_list": {"participants": "No arms reached full completion due to termination."}},
+                {"title": "NOT COMPLETED", "participants_list": {"participants": "The study did not complete due to recruitment difficulties and adverse event concerns."}}
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Total of 320 patients, stratified by treatment arm and tumor characteristics.",
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {"count": 320}
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Median",
+              "dispersion": "Range 40-75"
+            },
+            {
+              "title": "Sex Distribution",
+              "units": "Participants",
+              "param": "Count",
+              "class_list": {
+                "class": [
+                  {"title": "Female", "measurement_list": {"measurement": 150}},
+                  {"title": "Male", "measurement_list": {"measurement": 170}}
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "5-Year Disease-Free Survival Rate",
+            "description": "The study found no significant difference in DFS between treatment arms (p = 0.647), suggesting a lack of efficacy for fluorouracil.",
+            "time_frame": "To be measured at 5 years post-randomization."
+          },
+          {
+            "type": "Secondary",
+            "title": "5-Year Overall Survival Rate",
+            "description": "The overall survival did not meet anticipated thresholds, and adverse events were greater in the treatment arm.",
+            "time_frame": "To be assessed every year."
+          },
+          {
+            "type": "Safety",
+            "title": "Details of Adverse Events",
+            "description": "A higher rate of grade III-IV toxicities, specifically gastrointestinal effects and myelosuppression, was recorded, leading to safety concerns.",
+            "time_frame": "Reported continuously during treatment period."
+          }
+        ]
+      },
+      "reported_events": {
+        "desc": "Adverse events were monitored throughout the study, leading to increased concern regarding the safety profile of fluorouracil. Attendance and compliance rates were suboptimal due to reported side effects that deterred patient participation.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Adverse Events",
+              "description": "Significant gastrointestinal toxicities including nausea, vomiting, and diarrhea were prevalent."
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The PI rights to publish trial results were not restricted."
+    },
+    "point_of_contact": {
+      "name_or_title": "Dr. Mary Allen",
+      "organization": "ECOG-ACRIN Statistical Office",
+      "email": "mary.allen@ecog.org"
+    }
+  }
+}
+```

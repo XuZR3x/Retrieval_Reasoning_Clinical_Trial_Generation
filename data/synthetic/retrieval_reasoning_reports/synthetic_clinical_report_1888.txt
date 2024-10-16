@@ -1,0 +1,289 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02597440"
+    },
+    "id_info": {
+      "org_study_id": "AML-2021-001",
+      "nct_id": "NCT02597440"
+    },
+    "brief_title": "Combination Therapy Study of Cytarabine with Daunorubicin and Dasatinib in Patients with Acute Myeloid Leukaemia",
+    "official_title": "A PHASE II MULTICENTER STUDY OF CYTARABINE IN COMBINATION WITH DAUNORUBICIN AND DASATINIB IN PATIENTS WITH ACUTE MYELOID LEUKAEMIA",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Alliance for Clinical Trials in Oncology",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Alliance for Clinical Trials in Oncology",
+    "brief_summary": {
+      "textblock": "This trial investigates the efficacy of cytarabine when administered in conjunction with daunorubicin and dasatinib in patients diagnosed with acute myeloid leukemia (AML). The study emphasizes the correlation between patient stratification based on genetic profiles and treatment outcomes, alongside comprehensive support care measures to enhance tolerability."
+    },
+    "detailed_description": {
+      "textblock": "In this multicenter trial, adult patients diagnosed with AML underwent induction therapy involving an initial course of: \n\n- Daunorubicin 60 mg/m² intravenously (IV) on days 1-3,\n- Cytarabine 200 mg/m² continuously administered IV over 168 hours from days 1-7,\n- Dasatinib 100 mg orally once daily from days 8-21.\n\nPatients who achieved a complete response on day 21 proceeded to consolidation therapy, composed of high-dose cytarabine (3000 mg/m² IV administered over 3 hours on days 1, 3, 5) combined with continued dasatinib treatments. Post-consolidation, patients received continued dasatinib monotherapy for up to 12 months. Essential supportive care, including growth factor support with pegfilgrastim, was diligently implemented to mitigate hematologic toxicity."
+    },
+    "overall_status": "Completed",
+    "start_date": "July 2021",
+    "completion_date": "December 2023",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Complete Response Rate After Induction Therapy",
+      "time_frame": "After the first induction cycle",
+      "description": "Percentage of participants achieving complete remission defined as the disappearance of all clinical evidence of disease and normalized hematologic parameters."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Event-Free Survival (EFS)",
+        "time_frame": "1 year post-induction therapy",
+        "description": "EFS calculated from the date of achieving complete remission until relapse or death."
+      },
+      {
+        "measure": "Cumulative Incidence of Relapse",
+        "time_frame": "Up to 3 years post-remission",
+        "description": "Evaluates the rate of disease recurrence in participants achieving complete remission."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 3 years",
+        "description": "Time from the initiation of treatment until death from any cause."
+      },
+      {
+        "measure": "Adverse Events Profile",
+        "time_frame": "During the study duration",
+        "description": "To assess the type, frequency, and severity of adverse events experienced by participants throughout their treatment."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "120",
+    "condition": "Acute Myeloid Leukemia",
+    "arm_group": {
+      "arm_group_label": "Cytarabine Combination Therapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients received a regimen consisting of daunorubicin, cytarabine, and dasatinib, accompanied by supportive care including pegfilgrastim."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cytarabine",
+        "description": "200 mg/m² intravenously, administered as a continuous infusion over 168 hours."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daunorubicin",
+        "description": "60 mg/m² intravenously on days 1-3."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dasatinib",
+        "description": "100 mg orally once daily on days 8-21."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pegfilgrastim",
+        "description": "6 mg subcutaneously to enhance hematologic recovery."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18-65 with newly diagnosed acute myeloid leukaemia (excluding acute promyelocytic leukaemia).\n- Adequate organ function and performance status (ECOG 0-2).\n- Written informed consent.\n\nExclusion Criteria:\n- Prior chemotherapy or radiotherapy.\n- Uncontrolled infections or bleeding.\n- Significant comorbid conditions precluding participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michael A. Voss, Dr.",
+      "role": "Principal Investigator",
+      "affiliation": "Alliance for Clinical Trials in Oncology"
+    },
+    "location": [{
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "University of Pennsylvania Hospital",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "August 15, 2020",
+    "study_first_posted": "August 20, 2020",
+    "last_update_posted": "April 10, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Alliance for Clinical Trials in Oncology",
+      "investigator_full_name": "Dr. Michael A. Voss"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia",
+        "Leukemia, Myeloid",
+        "Leukemia, Myeloid, Acute"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Cytarabine",
+        "Daunorubicin",
+        "Dasatinib"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "120 participants were screened; 100 were enrolled and treated.",
+        "group_list": {
+          "group": {
+            "title": "Cytarabine Combination Therapy",
+            "description": "120 participants treated with the multidrug regimen."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Death",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Cytarabine Combination Therapy",
+            "description": "Demographics and clinical characteristics were analyzed for all treated subjects."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [100]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Complete Response Rate After Induction Therapy",
+            "description": "Rate of participants who achieved complete remission.",
+            "time_frame": "After the first induction cycle",
+            "group_list": {
+              "group": {
+                "title": "Cytarabine Combination Therapy",
+                "description": "Intended to treat AML patients based on their specific profiles."
+              }
+            },
+            "measure": {
+              "title": "Complete Response Rate",
+              "description": "Calculated based on the criteria for complete remission as defined."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Event-Free Survival (EFS)",
+            "description": "Defined from remission achievement to relapse or death.",
+            "time_frame": "1 year post induction",
+            "group_list": {
+              "group": {
+                "title": "Cytarabine Combination Therapy"
+              }
+            },
+            "measure": {
+              "title": "EFS",
+              "description": "Estimated using the Kaplan-Meier method."
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

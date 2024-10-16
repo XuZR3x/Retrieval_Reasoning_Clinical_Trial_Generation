@@ -1,0 +1,157 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456342"
+    },
+    "id_info": {
+      "org_study_id": "PB-006-CLL",
+      "secondary_id": ["PCI-32765-CLL", "BRUTUS-CLL"],
+      "nct_id": "NCT03456342"
+    },
+    "brief_title": "Evaluation of Ibrutinib in Combination With Venetoclax in Patients With Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase 2, Single-Arm Study to Evaluate the Safety and Efficacy of Ibrutinib and Venetoclax in Patients With Relapsed/Refractory Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Pharmacyclics LLC.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Pharmacyclics LLC.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to determine the safety and preliminary efficacy of the combination of ibrutinib and venetoclax in subjects with relapsed or refractory chronic lymphocytic leukemia (CLL)."
+    },
+    "detailed_description": {
+      "textblock": "This open-label, single-arm, Phase 2 study enrolled patients with relapsed or refractory CLL. Patients received ibrutinib at 420 mg orally once daily in combination with venetoclax 400 mg orally once daily for a duration of 24 months or until disease progression. Key endpoints included overall response rate (ORR) according to the iwCLL criteria, safety profile, and pharmacokinetics of the combination therapy."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2018",
+    "completion_date": "February 2023",
+    "primary_completion_date": "April 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Overall response rate (ORR) as assessed by iwCLL criteria",
+        "time_frame": "Evaluated at 6 months and every 3 months thereafter",
+        "description": "The ORR is defined as the percentage of participants who achieve a complete response (CR), CR with incomplete recovery (CRi), or partial response (PR)."
+      },
+      {
+        "measure": "Number of participants with treatment-emergent adverse events (TEAEs)",
+        "time_frame": "Assessed continuously from the first dose to the end of treatment (up to 24 months)",
+        "description": "All adverse events will be recorded and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Duration of response (DoR)",
+        "time_frame": "Up to 6 years",
+        "description": "Measured from the time of achieving the best overall response until the first occurrence of disease progression."
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "Up to 6 years",
+        "description": "Defined as the time from the start of treatment to the date of death from any cause."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "144",
+    "condition": "Chronic lymphocytic leukemia",
+    "arm_group": [{
+        "arm_group_label": "Ibrutinib and Venetoclax Combination Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ibrutinib (420 mg orally once daily) and venetoclax (400 mg orally once daily) according to the predefined regimen for the duration of the study."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Ibrutinib",
+        "description": "An orally available Bruton's tyrosine kinase (BTK) inhibitor used in combination therapy.",
+        "arm_group_label": ["Ibrutinib and Venetoclax Combination Therapy"],
+        "other_name": "PCI-32765"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Venetoclax",
+        "description": "An oral BCL-2 inhibitor provided as part of combination therapy.",
+        "arm_group_label": ["Ibrutinib and Venetoclax Combination Therapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adults aged 18 years or older with a documented diagnosis of relapsed or refractory CLL.\r\n  - At least one prior line of therapy with at least a minimal response.\r\n  - Presence of measurable disease defined as lymphadenopathy of at least 1.5 cm in the longest diameter.\r\n  - Adequate renal and hepatic function as defined by specified laboratory parameters.\r\n\r\nExclusion Criteria:\r\n\r\n  - Previous treatment with a BTK inhibitor or BCL-2 inhibitor.\r\n  - Evidence of active uncontrolled infections.\r\n  - Allogeneic stem cell transplant within the last 12 months.\r\n  - Significant cardiovascular disease, including myocardial infarction or unstable angina within 6 months prior to study entry."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas Hanlon",
+      "role": "Study Director",
+      "affiliation": "Pharmacyclics LLC."
+    },
+    "location": [{
+        "facility": {
+          "name": "Duke University Medical Center",
+          "address": {
+            "city": "Durham",
+            "state": "North Carolina",
+            "zip": "27710",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of California, San Francisco",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic, Rochester",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_submitted_qc": "April 20, 2018",
+    "study_first_posted": "June 1, 2018",
+    "results_first_submitted": "February 15, 2023",
+    "results_first_submitted_qc": "March 1, 2023",
+    "results_first_posted": "March 15, 2023",
+    "last_update_submitted": "April 12, 2023",
+    "last_update_submitted_qc": "April 12, 2023",
+    "last_update_posted": "April 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Ibrutinib", "Venetoclax", "Chronic Lymphocytic Leukemia", "B-cell malignancies", "BTK Inhibition", "BCL-2"]
+  }
+}
+```

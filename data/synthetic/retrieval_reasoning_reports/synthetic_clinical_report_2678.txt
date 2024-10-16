@@ -1,0 +1,314 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04530021"
+    },
+    "id_info": {
+      "org_study_id": "ERL-2023-01",
+      "secondary_id": "2022-005678-45",
+      "nct_id": "NCT04530021"
+    },
+    "brief_title": "Efficacy of Erlotinib in Patients with EGFR Mutant Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Randomized Multicenter Study Evaluating the Efficacy and Safety of Erlotinib in Combination with Bevacizumab in Patients with Advanced Non-Small Cell Lung Cancer Exhibiting Activating EGFR Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Global Oncology Cooperative",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to investigate the efficacy of erlotinib combined with bevacizumab in patients diagnosed with advanced non-small cell lung cancer (NSCLC) carrying specific EGFR mutations, particularly del19 and L858R. Based on previous studies, erlotinib's efficacy is expected to be significantly enhanced by the addition of bevacizumab, targeting both the tumor cells and their supportive vascular structures."
+    },
+    "detailed_description": {
+      "textblock": "Background: The strategic targeting of patients with specific activating mutations provides an opportunity for tailored therapeutic approaches. This study focuses on deriving maximum benefit from erlotinib through a combination with bevacizumab, hypothesizing that dual targeting will mitigate tumor angiogenesis and enhance patient outcomes, particularly in terms of progression-free survival (PFS).\r\n\r\nObjectives: The primary objective of this study is to determine the PFS of patients treated with a combination of erlotinib and bevacizumab versus erlotinib monotherapy in a population of advanced NSCLC patients with confirmed EGFR mutations. Secondary objectives include assessment of overall survival (OS), safety and tolerability profiles, as well as the impact of biomarker expression (BRCA1 mRNA and T790M) on treatment response.\r\n\r\nDesign: This is a phase II, randomized, open-label, multicenter study projected to involve approximately 150 patients. Participants will be stratified based on mutation type (del19 or L858R) and allocated to receive either erlotinib plus bevacizumab or erlotinib alone. The anticipated enrollment will include diverse demographics across multiple centers to improve generalizability of the findings.\r\n\r\nMethods: Patients will receive erlotinib at a dosage of 150 mg orally, once daily, with bevacizumab administered at 15 mg/kg via intravenous infusion every three weeks. Safety assessments will be conducted at each cycle, and PFS will be evaluated through radiological assessments using RECIST v1.1 criteria."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "June 2023",
+    "primary_completion_date": "January 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival",
+      "time_frame": "From randomization to progression or death, assessed every 12 weeks, up to 24 months.",
+      "description": "Time from randomization until progression of disease or death as assessed by RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival",
+        "time_frame": "From randomization to death, assessed every 6 months, up to 48 months.",
+        "description": "Time from randomization until death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "Assessed as the best overall response from randomization until disease progression or start of subsequent therapy.",
+        "description": "Defined as the proportion of patients with a complete (CR) or partial response (PR) based on RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "From the start of treatment until 30 days after the last dose, assessed continuously during the study.",
+        "description": "Adverse events recorded and classified per NCI CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Erlotinib monotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive erlotinib 150 mg p.o., daily."
+      },
+      {
+        "arm_group_label": "Erlotinib plus Bevacizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive erlotinib 150 mg p.o., daily plus bevacizumab 15 mg/kg i.v. every three weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Erlotinib",
+        "description": "Administered at a dosage of 150 mg orally per day.",
+        "arm_group_label": ["Erlotinib monotherapy", "Erlotinib plus Bevacizumab"],
+        "other_name": "Tarceva"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bevacizumab",
+        "description": "Administered at a dosage of 15 mg/kg via intravenous infusion every three weeks.",
+        "arm_group_label": ["Erlotinib plus Bevacizumab"],
+        "other_name": "Avastin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Confirmed diagnosis of advanced non-small cell lung cancer with activating EGFR mutations (del19 or L858R).\r\n  - Treatment-naive.\r\n  - Age ≥ 18 years with ECOG performance status 0-2.\r\n  - Adequate organ function.\r\n\r\nExclusion Criteria:\r\n  - Previous treatment with EGFR inhibitors.\r\n  - Significant bleeding disorders or contraindications to anti-VEGF therapy.\r\n  - Active infection requiring systemic treatment.\r\n  - Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Elena Marquez, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Research Center",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "City Hospital Cancer Unit",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90012",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of Chicago Medical Center",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60637",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "October 5, 2020",
+    "study_first_submitted_qc": "October 5, 2020",
+    "study_first_posted": "October 6, 2020",
+    "results_first_submitted": "March 15, 2023",
+    "results_first_submitted_qc": "March 28, 2023",
+    "results_first_posted": "April 5, 2023",
+    "last_update_submitted": "July 20, 2023",
+    "last_update_submitted_qc": "July 20, 2023",
+    "last_update_posted": "July 24, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "EGFR mutations",
+      "Erlotinib",
+      "Bevacizumab",
+      "Advanced NSCLC",
+      "Combination Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Erlotinib Hydrochloride", "Bevacizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 150 patients were enrolled and randomized into two arms. All patients received allocated treatments as per randomization protocols, enhancing the reliability of this investigation.",
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Baseline characteristics were evaluated across all participants to ensure randomization integrity and balanced demographics across treatment arms.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Erlotinib plus Bevacizumab",
+              "description": "Patients administered erlotinib and bevacizumab."
+            },
+            {
+              "title": "Erlotinib monotherapy",
+              "description": "Patients administered erlotinib only."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Inter-Quartile Range"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "EGFR Mutation Type",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival",
+            "description": "Time from randomization until progression or death as assessed by RECIST v1.1.",
+            "time_frame": "From randomization to progression or death, assessed every 12 weeks, up to 24 months."
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival",
+            "description": "Time from randomization until death from any cause.",
+            "time_frame": "From randomization to death, assessed up to 48 months."
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "Adverse events captured and classified according to NCI CTCAE version 5.0.",
+            "time_frame": "From treatment initiation to 30 days post last dose."
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From initiation of treatment until 30 days after last dose.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Erlotinib plus Bevacizumab",
+              "description": "Adverse events assessed and documented during the treatment phase."
+            },
+            {
+              "title": "Erlotinib monotherapy",
+              "description": "Adverse events documented during the study."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "NCI CTCAE Version 5.0",
+          "default_assessment": "Systematic Assessment"
+        },
+        "other_events": {
+          "frequency_threshold": "4",
+          "default_vocab": "NCI CTCAE Version 5.0",
+          "default_assessment": "Non-systematic Assessment"
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "Investigators may publish and present findings with the caveat of protecting Sponsor’s intellectual property rights."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trials Office",
+        "organization": "Oncology Research Institute",
+        "phone": "+1 (555) 123-4567",
+        "email": "clinicaltrials@ori.org"
+      }
+    }
+  }
+}
+```

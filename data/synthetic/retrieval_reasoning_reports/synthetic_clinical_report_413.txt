@@ -1,0 +1,174 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT00620345"
+        },
+        "id_info": {
+            "org_study_id": "LTZ-2024-01",
+            "nct_id": "NCT00620345"
+        },
+        "brief_title": "Exploration of Letrozole in Hormone Receptor Positive Advanced Breast Cancer with Concurrent Endocrine Resistance",
+        "acronym": "letrozole-resist",
+        "official_title": "A Phase II Trial Evaluating the Efficacy of Letrozole in Patients with Hormone Receptor Positive Advanced Breast Cancer Exhibiting Evidence of Endocrine Resistance",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Global Cancer Research Institute",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Global Cancer Research Institute",
+        "brief_summary": {
+            "textblock": "This study aimed to evaluate the effectiveness and tolerability of letrozole in a population of patients diagnosed with advanced hormone receptor-positive breast cancer exhibiting intrinsic or acquired endocrine resistance. A particular focus was placed on understanding the impact of concurrent pathways which may mitigate the efficacy of letrozole as a standalone intervention."
+        },
+        "overall_status": "Completed",
+        "start_date": "February 2008",
+        "primary_completion_date": "March 2014",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Clinical benefit rate defined as the proportion of patients achieving a complete response (CR) or partial response (PR) during the treatment period",
+            "time_frame": "24 weeks post-initiation of treatment"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-free survival (PFS)",
+                "time_frame": "Measured from the start of treatment until progression of disease"
+            },
+            {
+                "measure": "Overall survival (OS)",
+                "time_frame": "Measured from the start of treatment until death from any cause"
+            },
+            {
+                "measure": "Assessment of adverse events",
+                "time_frame": "Throughout the treatment period"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "120",
+        "condition": "Hormone Receptor-Positive Breast Cancer",
+        "arm_group": {
+            "arm_group_label": "Letrozole",
+            "arm_group_type": "Experimental"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Letrozole"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n  -  Histologically confirmed advanced breast cancer with ER and/or PgR positivity\n  -  Evidence of hormone resistance, defined by progression on prior endocrine therapies\n  -  Age ≥ 18 years\n  -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\n  -  No history of other malignancies within the past 5 years except for non-melanoma skin cancers\n\nExclusion Criteria:\n\n  -  Previous treatment with letrozole or other aromatase inhibitors\n  -  Significant uncontrolled concurrent illness\n  -  Participating in other investigational trials\n  -  Reproductive potential not using effective contraceptive measures"
+            },
+            "gender": "Female",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Johnson",
+            "role": "Principal Investigator",
+            "affiliation": "Global Cancer Research Institute"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Global Cancer Center",
+                    "address": {
+                        "city": "Seattle",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Metropolitan Oncology Group",
+                    "address": {
+                        "city": "Los Angeles",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "East Coast Cancer Research Institute",
+                    "address": {
+                        "city": "Boston",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "August 2022",
+        "study_first_submitted": "January 15, 2008",
+        "study_first_posted": "January 17, 2008",
+        "last_update_posted": "September 15, 2022",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Breast Cancer",
+            "Advanced",
+            "Letrozole",
+            "Endocrine Resistance"
+        ],
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        },
+        "intervention_browse": {
+            "mesh_term": "Letrozole"
+        },
+        "adverse_events": {
+            "event": [
+                {
+                    "title": "Severe Fatigue",
+                    "counts": 30
+                },
+                {
+                    "title": "Arthralgia",
+                    "counts": 22
+                },
+                {
+                    "title": "Nausea",
+                    "counts": 18
+                },
+                {
+                    "title": "Hypercalcemia",
+                    "counts": 12
+                },
+                {
+                    "title": "Thrombosis",
+                    "counts": 10
+                },
+                {
+                    "title": "Other",
+                    "counts": 28
+                }
+            ]
+        },
+        "clinical_results": {
+            "overall_results": {
+                "description": "The trial ultimately did not meet its primary endpoint of establishing a clinically significant benefit for the use of letrozole in the patient population with intrinsic or acquired resistance. This was mainly attributed to the insufficient response rate resulting from concurrent endocrine pathways and lack of combination optimization, as well as reported adverse events leading to treatment discontinuation."
+            },
+            "participant_flow": {
+                "completed": 75,
+                "terminated": {
+                    "reason": "Adverse events leading to withdrawal"
+                },
+                "not_completed": 45
+            }
+        }
+    }
+}
+```

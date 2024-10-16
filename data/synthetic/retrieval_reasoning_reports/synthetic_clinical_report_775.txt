@@ -1,0 +1,281 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03779269"
+        },
+        "id_info": {
+            "org_study_id": "17284",
+            "secondary_id": "I4Y-JE-FFQR",
+            "nct_id": "NCT03779269"
+        },
+        "brief_title": "Evaluation of Ramucirumab in Patients with Advanced Hepatocellular Carcinoma",
+        "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Study of Ramucirumab in Combination with Standard of Care Versus Placebo in Patients with Advanced Hepatocellular Carcinoma",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Eli Lilly and Company",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Eli Lilly and Company",
+        "oversight_info": {
+            "has_dmc": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to ascertain the efficacy and safety of ramucirumab administered alongside standard treatment compared to placebo in patients with advanced hepatocellular carcinoma (HCC)."
+        },
+        "overall_status": "Completed",
+        "start_date": "February 2018",
+        "completion_date": "January 2021",
+        "primary_completion_date": "April 2020",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Progression-Free Survival (PFS)",
+            "time_frame": "Randomization to the date of radiographically confirmed PD or death (up to 24 months)",
+            "description": "PFS was defined as the time from randomization until the first observation of progressive disease or death from any cause, evaluated using RECIST v1.1 criteria. Participants without PD or death were censored at their last adequate follow-up."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Overall Survival (OS)",
+                "time_frame": "Randomization to date of death from any cause (up to 24 months)",
+                "description": "OS was defined as the time from randomization to the date of death from any cause. OS was censored at the last patient visit if not deceased."
+            },
+            {
+                "measure": "Incidence of Serious Adverse Events (SAEs)",
+                "time_frame": "Baseline up to 24 months",
+                "description": "SAEs will be assessed to evaluate the safety profile of ramucirumab. Participants will be monitored for any adverse reactions attributable to the treatment."
+            },
+            {
+                "measure": "Immunogenicity: Number of Participants with Anti-Ramucirumab Antibodies",
+                "time_frame": "Baseline to 6 months",
+                "description": "Participants with a 4-fold or higher increase in antibodies targeting ramucirumab from baseline will be recorded to assess the immunogenic response."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "250",
+        "condition": ["Hepatocellular Carcinoma"],
+        "arm_group": [
+            {
+                "arm_group_label": "Ramucirumab + Standard of Care",
+                "arm_group_type": "Experimental",
+                "description": "Participants receive ramucirumab 8 mg/kg IV every 2 weeks in combination with standard of care therapy for advanced HCC."
+            },
+            {
+                "arm_group_label": "Placebo + Standard of Care",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Participants receive placebo IV every 2 weeks in combination with standard of care therapy for advanced HCC."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Biological",
+                "intervention_name": "Ramucirumab",
+                "description": "8 mg/kg administered intravenously every 14 days in combination with standard of care therapy.",
+                "arm_group_label": "Ramucirumab + Standard of Care",
+                "other_name": ["IMC-1121B", "Cyramza"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Placebo administered intravenously every 14 days.",
+                "arm_group_label": "Placebo + Standard of Care"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Standard of Care Therapy",
+                "description": "Standard IV therapies for hepatocellular carcinoma as dictated by protocol."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n- Histologically confirmed HCC with advanced stages unresectable or metastatic.\n- No prior systemic treatment for HCC.\n- ECOG performance status of 0-1.\n- Adequate organ function and life expectancy of 12 weeks or longer.\n- Informed consent provided.\n\nExclusion Criteria:\n- History of severe allergic reactions to monoclonal antibodies.\n- Concurrent participation in other investigational trials.\n- Significant comorbidities that may jeopardize trial participation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+            "role": "Study Director",
+            "affiliation": "Eli Lilly and Company"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Johns Hopkins Hospital",
+                    "address": {
+                        "city": "Baltimore",
+                        "state": "Maryland",
+                        "zip": "21205",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Kaiser Permanente Hospital",
+                    "address": {
+                        "city": "Los Angeles",
+                        "state": "California",
+                        "zip": "90001",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "March 2021",
+        "study_first_submitted": "November 7, 2017",
+        "study_first_submitted_qc": "December 5, 2017",
+        "study_first_posted": "December 6, 2017",
+        "results_first_submitted": "April 15, 2021",
+        "results_first_submitted_qc": "April 20, 2021",
+        "results_first_posted": "April 30, 2021",
+        "last_update_submitted": "April 15, 2021",
+        "last_update_submitted_qc": "April 20, 2021",
+        "last_update_posted": "April 30, 2021",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": ["hepatocellular carcinoma", "ramucirumab", "immunogenicity", "safety"],
+        "condition_browse": {
+            "mesh_term": "Liver Neoplasms"
+        },
+        "intervention_browse": {
+            "mesh_term": "Ramucirumab"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "Participants were randomized into two groups with a follow-up for efficacy and safety outcomes.",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Ramucirumab + Standard of Care",
+                            "description": "Received ramucirumab in conjunction with standard of care, monitored for PFS and SAEs."
+                        },
+                        {
+                            "title": "Placebo + Standard of Care",
+                            "description": "Received placebo in conjunction with standard of care, similarly monitored for PFS and SAEs."
+                        }
+                    ]
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "COMPLETED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "NOT COMPLETED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                }
+                            ],
+                            "drop_withdraw_reason_list": {
+                                "drop_withdraw_reason": [
+                                    {
+                                        "title": "Lost to Follow-up",
+                                        "participants_list": {
+                                            "participants": [null, null]
+                                        }
+                                    },
+                                    {
+                                        "title": "Withdrawal of Consent",
+                                        "participants_list": {
+                                            "participants": [null, null]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "baseline": {
+                    "population": "All randomized participants who received at least one dose of study drug.",
+                    "group_list": {
+                        "group": [
+                            {
+                                "title": "Ramucirumab + Standard of Care",
+                                "description": "Received ramucirumab, observed for efficacy and safety."
+                            },
+                            {
+                                "title": "Placebo + Standard of Care",
+                                "description": "Received placebo, similarly observed for yield."
+                            }
+                        ]
+                    }
+                },
+                "outcome_list": {
+                    "outcome": [
+                        {
+                            "type": "Primary",
+                            "title": "Progression-Free Survival (PFS)",
+                            "description": "Insufficient efficacy was noted as PFS did not significantly differ from placebo control. Median PFS was 4.2 months in the treatment group and 4.5 months in placebo.",
+                            "time_frame": "Randomization to the date of radiographically confirmed PD or death (up to 24 months)",
+                            "population": "All randomized participants.",
+                            "group_list": {
+                                "group": [
+                                    {
+                                        "title": "Ramucirumab + Standard of Care",
+                                        "description": "Median PFS: 4.2 months."
+                                    },
+                                    {
+                                        "title": "Placebo + Standard of Care",
+                                        "description": "Median PFS: 4.5 months."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "Secondary",
+                            "title": "Overall Survival (OS)",
+                            "description": "There was no advantage in OS for the ramucirumab arm versus placebo. Median OS was recorded at 10.1 months for ramucirumab and 10.5 months for placebo.",
+                            "time_frame": "Randomization to date of death from any cause (up to 24 months)",
+                            "population": "All randomized participants."
+                        },
+                        {
+                            "type": "Secondary",
+                            "title": "Incidence of Serious Adverse Events (SAEs)",
+                            "description": "A higher incidence of SAEs were reported in the ramucirumab cohort, raising concerns over safety, with a total of 34 SAEs compared to 15 in placebo arm.",
+                            "time_frame": "Baseline up to 24 months",
+                            "population": "Participants monitored for AEs."
+                        },
+                        {
+                            "type": "Secondary",
+                            "title": "Immunogenicity Assessment",
+                            "description": "The presence of anti-ramucirumab antibodies was noted in 15% of participants upon analysis, suggesting potential detriment to efficacy.",
+                            "time_frame": "Baseline to 6 months",
+                            "population": "Participants who received ramucirumab."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
+```

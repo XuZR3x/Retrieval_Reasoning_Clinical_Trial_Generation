@@ -1,0 +1,192 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03345036"
+    },
+    "id_info": {
+      "org_study_id": "LUB-2025",
+      "nct_id": "NCT03345036"
+    },
+    "brief_title": "Evaluating Lubiprostone in Patients with Refractory Chronic Constipation",
+    "official_title": "A Multi-Center, Randomized, Placebo-Controlled Trial of Lubiprostone for the Treatment of Patients with Refractory Chronic Constipation Not Responding to Standard Therapies",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Amitiza Therapeutics, LLC",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Institutes of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "Amitiza Therapeutics, LLC",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of lubiprostone in patients diagnosed with refractory chronic constipation, characterized by inadequate response to laxatives and other standard therapeutic interventions."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Recruitment and Safety Concerns",
+    "start_date": "January 2018",
+    "completion_date": "July 2020",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change from Baseline in Mean Weekly Spontaneous Bowel Movements (SBM)",
+      "time_frame": "Baseline and Week 8",
+      "description": "The primary endpoint focused on the change in spontaneously reported bowel movements from baseline to 8 weeks."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Average Bristol Stool Form Scale (BSFS) Score",
+        "time_frame": "Baseline, Week 4, and Week 8",
+        "description": "Rating change on the 7-point Bristol Stool Form Scale reflecting stool consistency."
+      },
+      {
+        "measure": "Responder Rate defined as having >=3 SBMs per week",
+        "time_frame": "Up to 8 weeks",
+        "description": "Assessment of the number of participants who achieve >=3 SBMs per week for at least 50% of the assessment weeks."
+      },
+      {
+        "measure": "Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "From first dose to 7 days post-treatment",
+        "description": "Document respiratory, gastrointestinal, and other potentially related adverse events."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "Refractory Chronic Constipation",
+    "arm_group": [
+      {
+        "arm_group_label": "Lubiprostone",
+        "arm_group_type": "Experimental",
+        "description": "Lubiprostone 24 mcg orally twice daily for 8 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo administered orally twice daily for 8 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lubiprostone",
+        "description": "24 mcg capsules administered orally twice daily (BID)",
+        "arm_group_label": "Lubiprostone",
+        "other_name": "Amitiza"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo capsules administered orally twice daily (BID)",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18-80 years.\n- Diagnosed with refractory chronic constipation, defined as <3 SBMs per week despite standard laxative use.\n- Written informed consent prior to trial entry.\n\nExclusion Criteria:\n\n- Significant gastrointestinal disorders, including inflammatory bowel disease or prior bowel surgery.\n- History of hypersensitivity to lubiprostone or any of its components.\n- Current use of methadone or other opioid medications."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Tran, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Amitiza Therapeutics, LLC"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Clinical Research Center of Colorado",
+          "address": {
+            "city": "Denver",
+            "state": "Colorado",
+            "zip": "80202",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of North Carolina",
+          "address": {
+            "city": "Chapel Hill",
+            "state": "North Carolina",
+            "zip": "27599",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2020",
+    "study_first_submitted": "November 15, 2017",
+    "study_first_posted": "December 5, 2017",
+    "results_first_submitted": "April 10, 2021",
+    "results_first_posted": "April 15, 2021",
+    "last_update_posted": "August 1, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "outcome_list": {
+      "outcome": [
+        {
+          "type": "Primary",
+          "title": "Mean Weekly SBM Count",
+          "description": "Evaluation of mean spontaneous bowel movements per week between treatment groups.",
+          "time_frame": "Baseline to Week 8",
+          "population": "Intent-to-treat population",
+          "measure": {
+            "units": "SBMs/week",
+            "param": "Mean",
+            "dispersion": "Standard Deviation"
+          }
+        },
+        {
+          "type": "Secondary",
+          "title": "Treatment-Emergent Adverse Events",
+          "description": "Assessment of safety through the measurement of adverse events experienced by subjects.",
+          "time_frame": "From baseline to 7 days post-treatment",
+          "population": "Safety population",
+          "measure": {
+            "units": "Participants",
+            "param": "Count of Participants",
+            "description": "Documented occurrences of adverse events."
+          }
+        }
+      ]
+    },
+    "reported_events": {
+      "time_frame": "From first dose of study medication up to 1 week post-treatment follow-up",
+      "desc": "High incidence of treatment-emergent adverse events, including significant gastrointestinal events like nausea, abdominal pain, and diarrhea in nearly 40% of subjects receiving lubiprostone."
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The Principal Investigators retain the right to publish results following the conclusion of the study, subject to a 180-day embargo."
+    },
+    "limitations_and_caveats": "The study faced substantial recruitment challenges, leading to early termination. Moreover, notable adverse event profiles raised concerns regarding treatment tolerability across the sampled population, suggesting that lubiprostone may not offer benefit in refractory cases of chronic constipation.",
+    "point_of_contact": {
+      "name_or_title": "Clinical Development Manager",
+      "organization": "Amitiza Therapeutics, LLC",
+      "phone": "555-0123",
+      "email": "clinicaltrials@amitiza.com"
+    }
+  }
+}
+```

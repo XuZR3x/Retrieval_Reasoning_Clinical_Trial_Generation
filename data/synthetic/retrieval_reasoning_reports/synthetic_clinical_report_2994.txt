@@ -1,0 +1,191 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03752578"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-2018-03",
+      "nct_id": "NCT03752578"
+    },
+    "brief_title": "Evaluation of Aprepitant for Nausea and Vomiting Control in Patients Undergoing Chemotherapy",
+    "official_title": "A Multicenter, Open-Label, Randomized Clinical Trial to Assess the Efficacy of Aprepitant in Managing Nausea and Vomiting Following Moderately Emetogenic Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Medical Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Medical Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the effectiveness of aprepitant in controlling nausea and vomiting in patients receiving moderately emetogenic chemotherapy compared to standard antiemetic regimens."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter trial focuses on patients diagnosed with a range of malignancies who are about to receive moderate emetogenic chemotherapy. The study aims to determine if aprepitant can significantly reduce the incidence of acute and delayed nausea and vomiting post-chemotherapy. The trial's modifications were necessitated by earlier studies failing to account for important pharmacokinetic interactions and diverse patient responses."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2019",
+    "completion_date": "December 2021",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "The incidence of nausea and vomiting (Zofran test) measured by Visual Analog Scale.",
+      "time_frame": "Days 1 to 5 post-chemotherapy"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Pharmacokinetic analysis of aprepitant in conjunction with etoposide treatment.",
+        "time_frame": "Days 1, 2, and 3 of chemotherapy cycles"
+      },
+      {
+        "measure": "Number of participants experiencing acute and delayed emetic episodes.",
+        "time_frame": "Days 1 to 5 post-chemotherapy"
+      },
+      {
+        "measure": "Adverse events reported in relation to aprepitant administration.",
+        "time_frame": "Throughout the study duration"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Chemotherapy-Induced Nausea and Vomiting",
+    "arm_group": [
+      {
+        "arm_group_label": "Aprepitant Experimental Group",
+        "arm_group_type": "Experimental",
+        "description": "Aprepitant 125 mg orally on Day 1 prior to chemotherapy followed by 80 mg for Day 2 and 3."
+      },
+      {
+        "arm_group_label": "Control Active Comparator",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard antiemetic regimen including ondansetron and dexamethasone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Aprepitant",
+        "description": "125 mg administered on Day 1, followed by 80 mg on Day 2-3.",
+        "arm_group_label": "Aprepitant Experimental Group",
+        "other_name": "EMEND"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Anti-emetic",
+        "description": "Ondansetron and dexamethasone given as per standard protocols.",
+        "arm_group_label": "Control Active Comparator"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients aged 18-75.\n- Diagnosed with solid tumors requiring moderately emetogenic chemotherapy.\n- ECOG performance status of 0-2.\n- Sufficient hematology and renal function as evaluated by laboratory tests.\n\nExclusion Criteria:\n- Previous chemotherapy within the last 3 months.\n- Known hypersensitivity to aprepitant or any of the components.\n- Severe comorbidities affecting the study's outcomes."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Medical Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Global Cancer Center",
+        "address": {
+          "city": "Metropolis",
+          "zip": "12345",
+          "country": "CountryName"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "CountryName"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "December 15, 2018",
+    "study_first_posted": "January 10, 2019",
+    "last_update_posted": "April 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Medical Institute",
+      "investigator_full_name": "John Doe"
+    },
+    "keywords": ["aprepitant", "nausea", "vomiting", "chemotherapy", "pharmacokinetics"],
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Aprepitant Experimental Group",
+              "description": "Treated with aprepitant as per protocol."
+            },
+            {
+              "title": "Control Active Comparator",
+              "description": "Treated with standard antiemetic therapy."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "Started",
+                  "participants_list": {
+                    "participants": [75, 75]
+                  }
+                },
+                {
+                  "title": "Treated",
+                  "participants_list": {
+                    "participants": [60, 50]
+                  }
+                },
+                {
+                  "title": "Completed",
+                  "participants_list": {
+                    "participants": [54, 48]
+                  }
+                },
+                {
+                  "title": "Not Completed",
+                  "participants_list": {
+                    "participants": [6, 2]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "28 days after first dose",
+        "desc": "Adverse events reported during the trial duration immensely indicated intolerable nausea and vomiting episodes in the aprepitant group, leading to significant dropout rates. The pharmacokinetics were not sufficiently optimized."
+      }
+    },
+    "reasons_for_failure": [
+      "Insufficient pharmacokinetic assessment of aprepitant with other chemotherapeutics, resulting in unpredictable drug efficacy.",
+      "Suboptimal patient selection criteria resulted in a disproportionately narrow cohort insufficient for extrapolating results.",
+      "Inadequate sample size led to distinct variances in treatment effectiveness, hindering the ability to ascertain substantive outcomes.",
+      "Lack of standardization in the classification of emetic risks contributed to inconsistencies in reported data on efficacy.",
+      "Potential confounding variables, including individualized patient contexts and treatment adherence variations, were inadequately accounted for."
+    ]
+  }
+}
+```

@@ -1,0 +1,302 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04045234"
+    },
+    "id_info": {
+      "org_study_id": "AZA-AML-021",
+      "nct_id": "NCT04045234"
+    },
+    "brief_title": "Efficacy and Safety of Azacitidine Combined with Venetoclax in Adult Patients with Acute Myeloid Leukemia",
+    "official_title": "A Phase II, Open-Label Study Evaluating the Efficacy, Safety, and Pharmacokinetics of Azacitidine in Combination with Venetoclax for the Treatment of Acute Myeloid Leukemia in Adult Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Celgene Corporation",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Celgene",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II trial aims to evaluate the effectiveness and safety of azacitidine in combination with venetoclax in adult patients diagnosed with acute myeloid leukemia (AML). The combination leverages the synergistic efficacy of both agents, allowing for a more robust therapeutic intervention against the malignancy."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\r\n\r\nPrimary\r\n1. To determine the overall response rate (ORR) defined as the sum of complete response (CR) and partial response (PR) in patients treated with azacitidine plus venetoclax after the first cycle.\r\n\r\n2. To assess the safety and tolerability of the combined therapy as measured by the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE version 5.0).\r\n\r\nSecondary\r\n1. To analyze progression-free survival (PFS) and overall survival (OS) in the study cohort.\r\n\r\n2. To conduct pharmacokinetic profiling of azacitidine in the context of this combination therapy, informed through plasma concentration measurements at specified intervals.\r\n\r\nOUTLINE: This is a multicenter, open-label study where participants will receive azacitidine (75 mg/m² subcutaneously) for 7 days of a 28-day cycle alongside venetoclax (daily dosing starting at 100 mg, escalated to a maximum of 400 mg daily) simultaneously for a total of up to 12 cycles, in the absence of progression or prohibitive toxicity. \r\n\r\nParticipants will undergo routine assessments including physical examinations, laboratory tests, and imaging studies to monitor response and adverse events."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2021",
+    "completion_date": "May 14, 2023",
+    "primary_completion_date": "January 15, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Assessed after 1 cycle (28 days)",
+        "description": "ORR defined as the percentage of patients achieving CR or PR based on the IWG criteria for AML."
+      },
+      {
+        "measure": "Percentage of Participants with Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "Assessed throughout the treatment period, up to 12 cycles",
+        "description": "Determination of TEAEs based on the CTCAE criteria, focusing particularly on grade 3 and 4 events."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from the date of first treatment until disease progression or death, up to 5 years",
+        "description": "PFS calculated from the start of treatment to the first documented disease progression or death, evaluated through imaging and clinical assessments."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Until the last patient completed the study or until death from any cause, at least 5 years",
+        "description": "Survival measured from the date of first treatment to the date of death from any cause."
+      },
+      {
+        "measure": "Pharmacokinetic Parameters of Azacitidine",
+        "time_frame": "Blood samples collected at defined intervals on day 7 of cycle 1",
+        "description": "AUC, Cmax, Tmax, and terminal half-life (T1/2) of azacitidine to ascertain the pharmacokinetic profile in combination with venetoclax."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "85",
+    "condition": [
+      "Acute Myeloid Leukemia"
+    ],
+    "arm_group": {
+      "arm_group_label": "Azacitidine and Venetoclax",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive azacitidine 75 mg/m² subcutaneously on days 1 to 7 plus venetoclax starting at 100 mg daily, titrated to a maximum of 400 mg, throughout the cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Azacitidine",
+        "description": "Administered subcutaneously at a dosage of 75 mg/m² once daily for 7 consecutive days in each 28-day treatment cycle.",
+        "arm_group_label": "Azacitidine and Venetoclax",
+        "other_name": "Vidaza"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Venetoclax",
+        "description": "Administered orally starting at 100 mg daily, with doses increased as tolerated to a maximum of 400 mg daily.",
+        "arm_group_label": "Azacitidine and Venetoclax",
+        "other_name": "ABT-199"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 18 years or older with newly diagnosed acute myeloid leukemia (AML) not previously treated.\r\n- Diagnosis consistent with the World Health Organization (WHO) criteria for AML.\r\n- Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\r\n- Adequate organ function as per pre-specified criteria.\r\n- Signed informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with several chemotherapeutic agents for AML.\r\n- Significant cardiovascular disease.\r\n- Known hypersensitivity to azacitidine or venetoclax.\r\n- Concurrent malignancies requiring treatment.\r\n- Active central nervous system involvement.\r\n- Pregnancy or unwillingness to use effective contraception."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Muhammad Ali",
+      "role": "Study Chair",
+      "affiliation": "Celgene Corporation"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cleveland Clinic", 
+          "address": {"city": "Cleveland", "state": "Ohio", "zip": "44195", "country": "United States"}
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {"city": "Baltimore", "state": "Maryland", "zip": "21205", "country": "United States"}
+        }
+      },
+      {
+        "facility": {
+          "name": "Northwestern Memorial Hospital",
+          "address": {"city": "Chicago", "state": "Illinois", "zip": "60611", "country": "United States"}
+        }
+      },
+      {
+        "facility": {
+          "name": "University of California San Francisco",
+          "address": {"city": "San Francisco", "state": "California", "zip": "94143", "country": "United States"}
+        }
+      }
+    ],
+    "location_countries": {"country": "United States"},
+    "verification_date": "April 2024",
+    "study_first_submitted": "January 15, 2021",
+    "study_first_posted": "January 20, 2021",
+    "last_update_posted": "June 12, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "Celgene Corporation"
+    },
+    "keyword": [
+      "Acute Myeloid Leukemia",
+      "Azacitidine",
+      "Venetoclax"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Leukemia, Myeloid", "Leukemia, Myeloid, Acute"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Azacitidine", "Venetoclax"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Azacitidine and Venetoclax",
+            "description": "Patients received azacitidine and venetoclax as specified in the treatment protocol."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Treatment Phase",
+            "milestone_list": {
+              "milestone": [
+                {"title": "STARTED", "participants_list": {"participants": "Patient enrollment began."}},
+                {"title": "FIRST DOSE", "participants_list": {"participants": "First dose of the intervention was administered."}},
+                {"title": "COMPLETED", "participants_list": {"participants": "Completed all treatment cycles."}},
+                {"title": "FOLLOW-UP", "participants_list": {"participants": "Patients were followed for outcomes."}}
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Azacitidine and Venetoclax",
+            "description": "Patients received azacitidine and venetoclax treatment."
+          }
+        },
+        "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Overall", "count_list": {"count": 85}}},
+        "measure_list": {
+          "measure": [
+            {"title": "Age Distribution", "units": "years", "param": "Mean", "dispersion": "Standard Deviation"},
+            {"title": "Gender Distribution", "units": "Participants", "param": "Count"},
+            {"title": "Performance Status Distribution", "units": "Participants", "param": "Count"}
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "Percentage of patients achieving CR and PR.",
+            "time_frame": "Assessed after 1 cycle (28 days)",
+            "population": "All enrolled participants",
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Duration from treatment initiation to disease progression.",
+            "time_frame": "Measured over the duration of the study until the end of follow-up",
+            "population": "All enrolled participants",
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Study duration from March 2021 to May 2023",
+        "group_list": {
+          "group": {
+            "title": "Adverse Events",
+            "description": "Reported adverse events classified by severity and type."
+          }
+        }
+      },
+      "serious_events": {
+        "default_vocab": "CTCAE version 5.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Serious Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total serious adverse events",
+                  "counts": [null, null]
+                }
+              }
+            },
+            {
+              "title": "Blood Disorders",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Neutropenia", "counts": [null, null]},
+                  {"sub_title": "Thrombocytopenia", "counts": [null, null]}
+                ]
+              }
+            },
+            {
+              "title": "Nervous System Disorders",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Headache", "counts": [null, null]},
+                  {"sub_title": "Dizziness", "counts": [null, null]}
+                ]
+              }
+            },
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total adverse events",
+                  "counts": [null, null]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal Disorders",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Nausea", "counts": [null, null]},
+                  {"sub_title": "Vomiting", "counts": [null, null]}
+                ]
+              }
+            },
+            {
+              "title": "Infections",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Pneumonia", "counts": [null, null]},
+                  {"sub_title": "Upper respiratory tract infection", "counts": [null, null]}
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,174 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567834"
+    },
+    "id_info": {
+      "org_study_id": "CARBOPLUS-01",
+      "nct_id": "NCT04567834"
+    },
+    "brief_title": "Evaluation of Carboplatin and Pembrolizumab in Patients With Advanced Recurrent Ovarian Cancer",
+    "official_title": "A Multicenter Phase II Study of Carboplatin Combined With Pembrolizumab in Patients With Advanced Platinum-Sensitive Recurrent Ovarian Cancer: Efficacy, Safety, and Biomarker Correlation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Therapeutics Initiative",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Oncology Therapeutics Initiative",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the clinical efficacy of carboplatin combined with pembrolizumab in patients diagnosed with advanced platinum-sensitive recurrent ovarian cancer. The trial aims to elucidate the safety profile, clinical response rates, and correlate treatment outcomes with specific biomarkers of efficacy."
+    },
+    "detailed_description": {
+      "textblock": "Background: Advanced platinum-sensitive recurrent ovarian cancer presents significant treatment challenges. Carboplatin has established efficacy in this population, particularly when synergistically combined with immune checkpoint inhibitors such as pembrolizumab. This study investigates the therapeutic impact of this combination, aiming to improve overall survival and progression-free survival rates.\n\nObjectives: \n- Primary: To determine the overall response rate (ORR) as assessed by RECIST v1.1 criteria with a primary endpoint at 6 months. \n- Secondary: To evaluate progression-free survival (PFS), overall survival (OS), and the safety profile by documenting adverse events corresponding to the NCI CTCAE v5.0.\n- Exploratory: To identify potential predictive biomarkers including PD-L1 expression and tumor mutational burden (TMB).",
+      "outcome_measures": "Patients will be monitored for clinical response via imaging studies at baseline, 12 weeks, and every 3 months thereafter. Safety evaluations will occur throughout the treatment course, focusing on hematologic and non-hematologic toxicities."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2020",
+    "completion_date": "February 2023",
+    "primary_completion_date": "February 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "6 months from initiation of treatment"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months"
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 24 months"
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "During the treatment phase"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "200",
+    "condition": "Recurrent Ovarian Cancer",
+    "arm_group": {
+      "arm_group_label": "Experimental Arm",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive carboplatin (AUC 5) IV on day 1 and pembrolizumab (200 mg) IV on day 1. Treatment cycles repeat every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Follow-up includes ongoing pembrolizumab every 3 weeks until disease progression."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Carboplatin administered IV at AUC 5 on day 1 of each cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Pembrolizumab administered IV at 200 mg on day 1 of each cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed ovarian, fallopian tube, or primary peritoneal carcinoma.\n- Platinum-sensitive recurrence (defined as recurrence after >6 months from last platinum-based chemotherapy).\n- Measurable disease by RECIST v1.1 criteria.\n- ECOG performance status of 0-2.\n\nExclusion Criteria:\n- Prior treatment with anti-PD-1/PD-L1 therapies.\n- Known hypersensitivity to carboplatin or pembrolizumab.\n- Uncontrolled intercurrent illness including active infection.\n- Pregnant or lactating women."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Stacy J. Levin, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Therapeutics Initiative"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Carnegie Melanoma Institute",
+          "address": {
+            "city": "Melbourne",
+            "state": "Victoria",
+            "country": "Australia"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Sydney Cancer Centre",
+          "address": {
+            "city": "Sydney",
+            "state": "New South Wales",
+            "country": "Australia"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Westmead Hospital",
+          "address": {
+            "city": "Westmead",
+            "state": "New South Wales",
+            "country": "Australia"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "Australia"
+    },
+    "link": {
+      "url": "https://www.otinitiative.org/",
+      "description": "Homepage of Oncology Therapeutics Initiative"
+    },
+    "results_reference": {
+      "citation": "Levin SJ, Tan C, Chan D, et al. Efficacy of Carboplatin and Pembrolizumab in Advanced Ovarian Cancer: A Phase II Study. J Clin Oncol. 2023 Feb 22;41(6):993-1000.",
+      "PMID": "35474789"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "July 1, 2020",
+    "study_first_posted": "July 5, 2020",
+    "last_update_submitted": "March 1, 2023",
+    "last_update_posted": "March 3, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_full_name": "Stacy J. Levin, MD"
+    },
+    "keyword": [
+      "Carboplatin",
+      "Pembrolizumab",
+      "Ovarian Cancer",
+      "Platinum-sensitive",
+      "Clinical trial"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Ovarian Neoplasms",
+        "Carcinoma, Ovarian Epithelial"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Carboplatin",
+        "Pembrolizumab"
+      ]
+    }
+  }
+}
+```

@@ -1,0 +1,445 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "STUDY-001",
+      "secondary_id": ["NCI-2021-00186", "STUDY-001"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Plerixafor in Combination With Etoposide for Stem Cell Mobilization in Relapsed Multiple Myeloma",
+    "official_title": "A Randomized Phase II Trial to Evaluate Plerixafor and Etoposide for Stem Cell Mobilization in Patients With Relapsed Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Cancer Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "XYZ Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study sought to assess the ability of plerixafor, in conjunction with etoposide, to enhance stem cell mobilization in patients with relapsed multiple myeloma. Participants were randomized to receive either the combination of plerixafor and etoposide or etoposide alone. Challenges faced included slow patient recruitment and unfavorable results relative to historical controls."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\nI. To compare the effectiveness of plerixafor in conjunction with etoposide versus etoposide alone in achieving a target mobilization of at least 5 x 10^6 CD34+ cells/kg.\r\n\r\nSECONDARY OBJECTIVES:\r\nI. To assess the proportion of patients achieving the target cell dose within a specified timeframe compared to pre-established benchmarks.\r\nII. To evaluate the adverse event profile associated with each mobilization regimen.\r\nIII. To analyze the duration and success of the leukapheresis process, including the need for any remobilization efforts.\r\n\r\nSTUDY DESIGN:\r\nPatients were randomized to receive either:\r\n- ARM I: Etoposide alone, administered intravenously over 4 hours, daily for days 1-5.\r\n- ARM II: Plerixafor given subcutaneously daily before the administration of etoposide on the same schedule.\r\n\r\nAll participants received standard pre-treatment assessments followed by leukapheresis for stem cell collection."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Slow Accrual and Inadequate Efficacy",
+    "start_date": "January 2012",
+    "primary_completion_date": "June 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of Achieving Target Collection of 5 x 10^6 CD34+ Cells/kg",
+      "time_frame": "Within 2 days of leukapheresis",
+      "description": "Determination of the percentage of participants achieving collection of required stem cells after treatment with plerixafor compared to historical control groups."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Percentage of Patients Reaching Target Cell Count",
+        "time_frame": "Within 5 days of leukapheresis",
+        "description": "Evaluation of the number of participants who achieve the target goal of CD34+ cells."
+      },
+      {
+        "measure": "Hospitalization Rates for Mobilization",
+        "time_frame": "Throughout the mobilization phase",
+        "description": "Monitoring the need for hospitalization during the mobilization process, with specific focus on complications."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Up to 30 days post-mobilization",
+        "description": "Collection of data regarding serious adverse events attributed to either treatment arm of the study."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "10",
+    "condition": "Relapsed Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I: Etoposide Only",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receive etoposide IV on days 1-5."
+      },
+      {
+        "arm_group_label": "Arm II: Plerixafor and Etoposide",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive plerixafor subcutaneously on days 1-4 followed by etoposide on days 1-5."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Plerixafor",
+        "description": "Administered subcutaneously prior to etoposide infusion.",
+        "arm_group_label": "Arm II",
+        "other_name": ["AMD 3100", "Mozobil"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etoposide",
+        "description": "Given intravenously over 4 hours.",
+        "arm_group_label": ["Arm I", "Arm II"],
+        "other_name": ["VP-16", "EPEG"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Diagnosis of relapsed multiple myeloma per established criteria.\r\n- Patient must have received at least 2 cycles of lenalidomide prior to trial enrollment.\r\n- Age 18 years or older with adequate organ function (ANC ≥ 1.5 x 10^9/L, platelets ≥ 100 x 10^9/L).\r\n\r\nExclusion Criteria:\r\n- Previous autologous or allogeneic transplant.\r\n- Prior mobilization failure or exposure to investigational agents within 30 days pre-enrollment."
+      }
+    },
+    "overall_official": {
+      "last_name": "Anna Morrison, MD",
+      "role": "Study Chair",
+      "affiliation": "XYZ Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Cancer Institute",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44106",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2021",
+    "study_first_submitted": "December 5, 2011",
+    "study_first_submitted_qc": "December 5, 2011",
+    "study_first_posted": "December 10, 2011",
+    "results_first_submitted": "August 15, 2016",
+    "results_first_submitted_qc": "August 15, 2016",
+    "results_first_posted": "September 10, 2016",
+    "last_update_submitted": "September 10, 2016",
+    "last_update_submitted_qc": "September 10, 2016",
+    "last_update_posted": "September 10, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keywords": [
+      "Plerixafor",
+      "Etoposide",
+      "Stem Cell Mobilization",
+      "Multiple Myeloma",
+      "Anthracycline"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Plerixafor", "Etoposide"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrolled from January 2012 to June 2015, but only ten participants completed the study due to slow accrual, leading to termination.",
+        "pre_assignment_details": "Significant issues with patient recruitment meant study halted before reaching the target.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I: Etoposide Only",
+              "description": "Participants received etoposide only."
+            },
+            {
+              "title": "Arm II: Plerixafor and Etoposide",
+              "description": "Participants received the combination of plerixafor and etoposide."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [10]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All participants who were screened and randomized.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Arm I: Etoposide Only",
+                "description": "Participants received etoposide administered IV."
+              },
+              {
+                "title": "Arm II: Plerixafor and Etoposide",
+                "description": "Participants received both plerixafor and etoposide."
+              },
+              {
+                "title": "Total",
+                "description": "Total of all enrolled participants."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [0, 0, 10]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+                {
+                    "title": "Age",
+                    "units": "years",
+                    "param": "Mean",
+                    "dispersion": "Standard Deviation",
+                    "class_list": {
+                        "class": {
+                            "category_list": {
+                                "category": {
+                                    "measurement_list": {
+                                        "measurement": [null]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "title": "Sex: Female, Male",
+                    "units": "Participants",
+                    "param": "Count of Participants",
+                    "class_list": {
+                        "class": {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "title": "Female",
+                                        "measurement_list": {
+                                            "measurement": [null]
+                                        }
+                                    },
+                                    {
+                                        "title": "Male",
+                                        "measurement_list": {
+                                            "measurement": [null]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                {
+                    "title": "Ethnicity (NIH/OMB)",
+                    "units": "Participants",
+                    "param": "Count of Participants",
+                    "class_list": {
+                        "class": {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "title": "Hispanic or Latino",
+                                        "measurement_list": {
+                                            "measurement": [null]
+                                        }
+                                    },
+                                    {
+                                        "title": "Not Hispanic or Latino",
+                                        "measurement_list": {
+                                            "measurement": [null]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                {
+                    "title": "Race (NIH/OMB)",
+                    "units": "Participants",
+                    "param": "Count of Participants",
+                    "class_list": {
+                        "class": {
+                            "category_list": {
+                                "category": [
+                                    {
+                                        "title": "White",
+                                        "measurement_list": {
+                                            "measurement": [null]
+                                        }
+                                    },
+                                    {
+                                        "title": "Black or African American",
+                                        "measurement_list": {
+                                            "measurement": [null]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+            {
+                "type": "Primary",
+                "title": "Ability to Reach Target Collection of 5 x 10^6 CD34+ Cells/kg",
+                "time_frame": "In =< 2 days of leukaphereses",
+                "population": "Due to low enrollment (10% of anticipated participants), no analysis is being done on data collected in this study",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Arm I: Etoposide Only",
+                            "description": "Data analysis not performed due to insufficient patient numbers."
+                        },
+                        {
+                            "title": "Arm II: Plerixafor and Etoposide",
+                            "description": "Data collected for potential analysis."
+                        }
+                    ]
+                },
+                "measure": {
+                    "title": "Ability to Reach Target Collection of 5 x 10^6 CD34+ Cells/kg",
+                    "population": "Due to low enrollment, data collection did not yield sufficient numbers for analysis",
+                    "analyzed_list": {
+                        "analyzed": {
+                            "units": "Participants",
+                            "scope": "Measure",
+                            "count_list": {
+                                "count": [0]
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "type": "Secondary",
+                "title": "Percentage of Patients Achieving Target Goal CD34+ Cells Dose",
+                "time_frame": "In =< 5 days of leukaphereses",
+                "population": "Due to low enrollment, no data collected.",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Arm I: Etoposide Only",
+                            "description": "Data analysis not performed."
+                        },
+                        {
+                            "title": "Arm II: Plerixafor and Etoposide",
+                            "description": "No data collected."
+                        }
+                    ]
+                },
+                "measure": {
+                    "title": "Percentage of Patients Achieving Target Goal CD34+ Cells Dose",
+                    "population": "Due to low enrollment, data analysis not performed.",
+                    "analyzed_list": {
+                        "analyzed": {
+                            "units": "Participants",
+                            "scope": "Measure",
+                            "count_list": {
+                                "count": [0]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Up to 30 days after last treatment",
+        "group_list": {
+            "group": [
+                {
+                    "title": "Arm I: Etoposide Only",
+                    "description": "High incidence of adverse effects were reported, limiting further participation."
+                },
+                {
+                    "title": "Arm II: Plerixafor and Etoposide",
+                    "description": "High adverse event incidence necessitated study reevaluation."
+                }
+            ]
+        },
+        "serious_events": {
+            "category_list": {
+                "category": {
+                    "title": "Total",
+                    "event_list": {
+                        "event": {
+                            "sub_title": "Total, serious adverse events",
+                            "counts": {
+                                "participants": [null]
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "other_events": {
+            "frequency_threshold": "5",
+            "category_list": {
+                "category": {
+                    "title": "Total",
+                    "event_list": {
+                        "event": {
+                            "sub_title": "Total, other adverse events",
+                            "counts": {
+                                "participants": [null]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employees of the sponsoring organization.",
+        "restrictive_agreement": "There is NO agreement that restricts the Principal Investigator's rights to publish essential findings."
+      },
+      "limitations_and_caveats": "Limited accrual and adverse effects led to insufficient statistical power to evaluate the primary endpoint.",
+      "point_of_contact": {
+        "name_or_title": "Dr. Anna Morrison",
+        "organization": "XYZ Cancer Institute",
+        "phone": "555-0140",
+        "email": "contact@xyzcancerinstitute.org"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,352 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04755090"
+    },
+    "id_info": {
+      "org_study_id": "TXA2Impact",
+      "nct_id": "NCT04755090"
+    },
+    "brief_title": "Effectiveness of Tranexamic Acid in Reducing Blood Loss During Elective Hip Replacement Surgery",
+    "official_title": "A Randomized Controlled Trial Assessing the Efficacy of Tranexamic Acid on Blood Loss and Transfusion Requirements in Patients Undergoing Elective Total Hip Arthroplasty",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of California",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the impact of intravenous tranexamic acid (TXA) versus placebo on blood loss and blood transfusion rates in patients undergoing elective total hip arthroplasty. Primary outcomes will include total postoperative blood loss and the necessity for blood transfusion."
+    },
+    "detailed_description": {
+      "textblock": "Total hip arthroplasty (THA) is commonly associated with substantial intraoperative and postoperative blood loss, often necessitating blood transfusions. Tranexamic acid (TXA) is an antifibrinolytic agent that has shown promise in reducing blood loss across various surgical fields. This trial aims to provide high-quality evidence regarding the use of TXA in THA specifically. Enrolled participants will be randomly assigned to receive either TXA or placebo prior to incision, with outcomes measured in terms of blood loss (calculated via hemoglobin changes) and transfusion needs. Additionally, secondary outcomes will include evaluation of postoperative complications, including thromboembolic events."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2021",
+    "completion_date": "August 2022",
+    "primary_completion_date": "July 2022",
+    "phase": "Phase 2/3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Total Postoperative Blood Loss",
+      "time_frame": "Measured from preoperative hemoglobin levels to the lowest postoperative levels over 48 hours",
+      "description": "Quantification of accumulated blood loss postoperatively based on hemoglobin decline."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Number of Units Transfused",
+        "time_frame": "Within the first 48 hours postoperatively",
+        "description": "Total units of red blood cells transfused to each patient."
+      },
+      {
+        "measure": "Incidence of Deep Vein Thrombosis (DVT)",
+        "time_frame": "Up to 30 days postoperatively",
+        "description": "Diagnosis via ultrasound imaging."
+      },
+      {
+        "measure": "Incidence of Pulmonary Embolism (PE)",
+        "time_frame": "Up to 30 days postoperatively",
+        "description": "Diagnosis confirmed through CT imaging."
+      },
+      {
+        "measure": "Length of Hospital Stay",
+        "time_frame": "Recorded from the day of surgery to discharge",
+        "description": "Total number of days spent in hospital following surgery."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": ["Blood Loss", "Total Hip Arthroplasty", "Tranexamic Acid", "Transfusion"],
+    "arm_group": [
+      {
+        "arm_group_label": "TXA Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive a single intravenous bolus of 1 gram of tranexamic acid 30 minutes prior to surgical incision."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive a single intravenous bolus of 0.9% sodium chloride (normal saline) 30 minutes prior to surgical incision."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tranexamic Acid",
+        "description": "1 gram IV bolus administered 30 minutes prior to incision"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "0.9% Sodium Chloride IV bolus administered 30 minutes prior to incision"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 40 years or older scheduled for elective total hip arthroplasty.\n- Ability to provide informed consent.\n\nExclusion Criteria:\n- History of adverse reactions to TXA.\n- Acute thromboembolic disorders or significant renal impairment.\n- Active pregnancy or breastfeeding.\n- Emergency surgical procedures."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California"
+    },
+    "location": {
+      "facility": {
+        "name": "University Medical Center",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90012",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "references": [
+      {
+        "citation": "Wong J, O'Neill M, Becker D, et al. Tranexamic Acid in Total Hip Arthroplasty: A Meta-Analysis. J Arthroplasty. 2020;35(8):2183-2189. doi:10.1016/j.arth.2020.04.003.",
+        "PMID": "32389487"
+      },
+      {
+        "citation": "Raja A, Cummings M, Dhoshani N, et al. Efficacy of Tranexamic Acid in Reducing Blood Loss in Total Hip Replacement: A Systematic Review and Meta-Analysis. Orthop J Sports Med. 2019;7(11):2325967119884673. doi:10.1177/2325967119884673.",
+        "PMID": "32650038"
+      }
+    ],
+    "verification_date": "September 2023",
+    "study_first_submitted": "January 10, 2021",
+    "study_first_submitted_qc": "January 12, 2021",
+    "study_first_posted": "January 15, 2021",
+    "results_first_submitted": "August 10, 2022",
+    "results_first_submitted_qc": "August 12, 2022",
+    "results_first_posted": "August 15, 2022",
+    "last_update_submitted": "August 20, 2023",
+    "last_update_submitted_qc": "August 20, 2023",
+    "last_update_posted": "August 22, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Tranexamic Acid", "Blood Loss", "Hip Replacement", "Transfusion"],
+    "condition_browse": {
+      "mesh_term": ["Hemorrhage", "Blood Loss, Surgical"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Tranexamic Acid"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "provided_document_section": {
+      "provided_document": {
+        "document_type": "Study Protocol and Statistical Analysis Plan",
+        "document_has_protocol": "Yes",
+        "document_has_icf": "No",
+        "document_has_sap": "Yes",
+        "document_date": "January 5, 2021",
+        "document_url": "https://cdn.clinicaltrials.gov/large-docs/90/NCT04755090/Prot_SAP_000.pdf"
+      }
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Between February 2021 and July 2022, a total of 200 patients were enrolled in the trial, with 100 allocated to each intervention group.",
+        "group_list": {
+          "group": [
+            {
+              "title": "TXA Group",
+              "description": "Participants received 1 gram of tranexamic acid intravenously prior to surgery."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants received 0.9% sodium chloride intravenously prior to surgery."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [200, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [200, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "TXA Group",
+                "description": "No significant baseline demographic differences were reported between groups."
+              },
+              {
+                "title": "Placebo Group",
+                "description": "Similar demographic and clinical characteristics noted across both groups."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [100, 100]
+              }
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Total Postoperative Blood Loss",
+              "description": "Measured from preoperative hemoglobin levels to lowest postoperative levels recorded within 48 hours post-surgery.",
+              "time_frame": "Measured within 48 hours postoperatively.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "TXA Group",
+                    "description": "Total blood loss reported as 350 mL (mean)."
+                  },
+                  {
+                    "title": "Placebo Group",
+                    "description": "Total blood loss reported as 550 mL (mean)."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Total Blood Loss",
+                "description": "Mean volume of blood loss recorded in mL.",
+                "units": "mL",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [100, 100]
+                    }
+                  }
+                }, "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [350, 550]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Number of Units Transfused",
+              "description": "The number of red blood cell units transfused postoperatively.",
+              "time_frame": "Within 48 hours postoperatively.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "TXA Group",
+                    "description": "Average of 0.5 units transfused."
+                  },
+                  {
+                    "title": "Placebo Group",
+                    "description": "Average of 2.5 units transfused."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Units Transfused",
+                "description": "Documented units of red blood cells.",
+                "units": "Units",
+                "param": "Mean",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [100, 100]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Incidence of DVT",
+              "description": "Patients diagnosed with Deep Vein Thrombosis through postoperative imaging.",
+              "time_frame": "30 days postoperatively.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "TXA Group",
+                    "description": "Recorded incidence of 1%."
+                  },
+                  {
+                    "title": "Placebo Group",
+                    "description": "Recorded incidence of 4%."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "DVT Incidence",
+                "description": "Percentage of participants diagnosed with DVT.",
+                "units": "Percentage",
+                "param": "Count of Participants",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [100, 100]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,236 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "PTS-2024-001",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Efficacy and Safety of Pregabalin in Patients with Diabetic Peripheral Neuropathic Pain: A Randomized, Placebo-Controlled Trial",
+    "official_title": "A Phase 3, Double-Blind, Placebo-Controlled, Randomized, Multicenter Study to Evaluate the Efficacy and Safety of Pregabalin in the Treatment of Patients with Diabetic Peripheral Neuropathic Pain",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Viatris Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Viatris Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the safety and efficacy of pregabalin in patients suffering from diabetic peripheral neuropathic pain. The primary outcome is to evaluate the change in pain intensity from baseline to the endpoint. The study hypothesizes that pregabalin will provide significant pain relief compared to placebo."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2021",
+    "completion_date": "January 2024",
+    "primary_completion_date": "January 2024",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "Yes",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+      "measure": "Change in Pain Intensity from Baseline to Week 12",
+      "time_frame": "Baseline to Week 12",
+      "description": "Pain intensity measured by the Numeric Rating Scale (NRS) will be compared across treatment and placebo groups."
+    }],
+    "secondary_outcome": [{
+        "measure": "Proportion of Patients Achieving a 30% Reduction in Pain Intensity",
+        "time_frame": "Week 12",
+        "description": "The percentage of participants who achieve at least a 30% reduction in NRS score from baseline at Week 12."
+      },
+      {
+        "measure": "Change in Quality of Life as Measured by EQ-5D Score",
+        "time_frame": "Baseline to Week 12",
+        "description": "Changes in health-related quality of life assessed by the EQ-5D questionnaire will be monitored."
+      },
+      {
+        "measure": "Withdrawal Rates Due to Adverse Events",
+        "time_frame": "Throughout Study Duration",
+        "description": "The number of participants who withdraw from the study due to adverse events will be documented."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "420",
+    "condition": "Diabetic Peripheral Neuropathic Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Pregabalin",
+        "arm_group_type": "Experimental",
+        "description": "Administered at doses ranging from 150 mg to 600 mg daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Identical in appearance to pregabalin, administered daily."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Pregabalin",
+        "description": "Capsules administered in divided doses (150-600 mg/day).",
+        "arm_group_label": "Pregabalin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Inactive capsules matched to the pregabalin formulation.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n - Patients aged 18 years or older with a diagnosis of diabetic peripheral neuropathic pain for at least 6 months.\r\n - Pain intensity must be ≥4 on an 11-point Numeric Rating Scale (NRS).\r\n - Ability to provide informed consent and comply with study requirements.\r\n\r\nExclusion Criteria:\r\n\r\n - Patients with a history of hypersensitivity to pregabalin.\r\n - Current use of other neuropathic pain medications such as gabapentin or strong opioids.\r\n - Pregnant or breastfeeding females.\r\n - Presence of other pain conditions that may confound the evaluation of diabetic neuropathy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Principal Investigator",
+      "affiliation": "Viatris Inc."
+    },
+    "location": [{
+        "facility": {
+          "name": "Pain Management Center, Main Campus",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60616",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Clinical Research Unit, East Campus",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "February 2024",
+    "study_first_submitted": "April 15, 2021",
+    "study_first_posted": "April 20, 2021",
+    "results_first_submitted": "February 1, 2024",
+    "results_first_posted": "February 5, 2024",
+    "last_update_submitted": "February 10, 2024",
+    "last_update_posted": "February 11, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Viatris Inc."
+    },
+    "keyword": ["diabetic peripheral neuropathic pain", "pregabalin", "pain management"],
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+              "title": "Pregabalin Group",
+              "description": "Received daily doses of pregabalin over 12 weeks."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Received placebo for 12 weeks."
+            }
+          ]
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [{
+              "title": "Lack of Efficacy",
+              "participants_list": {
+                "participants": [null, null]
+              }
+            },
+            {
+              "title": "Adverse Events",
+              "participants_list": {
+                "participants": [null, null]
+              }
+            },
+            {
+              "title": "Withdrawal of Consent",
+              "participants_list": {
+                "participants": [null, null]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+              "title": "Pregabalin",
+              "description": "Pregabalin treatment group detail."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo treatment group detail."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Change in Pain Intensity from Baseline",
+            "unit": "Pain scale (0-10)",
+            "description": "Mean change in pain intensity measured by NRS from baseline up to Week 12.",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Overall",
+                "count_list": {
+                  "count": [null, null]
+                }
+              }
+            },
+            "p_value": "0.45" // Hypothetical result for illustration
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events Reported",
+            "unit": "Number of participants",
+            "description": "Total number of participants reporting adverse events during the trial.",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Overall",
+                "count_list": {
+                  "count": [null, null]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "limitations_and_caveats": {
+        "textblock": "This study faced challenges including an insufficient sample size due to participant withdrawal rates attributed to adverse events and lack of significant efficacy over placebo. Suboptimal dosing regimens potentially limited the therapeutic outcomes observed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trials Support, Viatris Inc.",
+        "organization": "Viatris Inc.",
+        "phone": "1-800-123-4567",
+        "email": "clinicaltrials@viatris.com"
+      }
+    }
+  }
+}
+```

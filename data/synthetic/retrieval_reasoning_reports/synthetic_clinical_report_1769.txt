@@ -1,0 +1,176 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04254673"
+    },
+    "id_info": {
+      "org_study_id": "VNR-2022-NSCLC",
+      "nct_id": "NCT04254673"
+    },
+    "brief_title": "Vinorelbine and Pembrolizumab in Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Vinorelbine in Combination with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer After Platinum-Based Therapy: A Randomized Controlled Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Research Network",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Cancer Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Research Network",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of vinorelbine in combination with pembrolizumab in patients with advanced non-small cell lung cancer (NSCLC) who previously received platinum-based chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "The study was designed as a Phase II randomized controlled trial comprising two arms: Arm A receiving vinorelbine in combination with pembrolizumab, and Arm B receiving standard supportive care. The intention was to compare progression-free survival (PFS) rates at 6 months. However, the trial faced significant challenges due to insufficient patient enrollment and significant toxicity reports. Only 28 patients were enrolled out of the targeted 100, unable to meet statistical power requirements. Additionally, adverse events associated with vinorelbine use were pronounced, with 60% of participants experiencing grade 3 or higher toxicities, primarily related to hematologic and gastrointestinal complications. As a result, the study was prematurely terminated, based on the recommendations from the Data Monitoring Committee."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to insufficient enrollment and elevated toxicity profiles.",
+    "start_date": "March 1, 2020",
+    "completion_date": "May 15, 2023",
+    "primary_completion_date": "March 1, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "6 months",
+        "description": "The proportion of patients without disease progression at 6 months as assessed by imaging and clinical criteria."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Throughout treatment period (up to 24 weeks)",
+        "description": "The number of adverse events reported in both arms, with particular focus on grade 3 and 4 toxicities per NCI CTCAE v5.0."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 2 years",
+        "description": "The time from randomization to death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "At 12 weeks",
+        "description": "The proportion of patients achieving complete or partial responses according to RECIST 1.1 criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "28",
+    "condition": [
+      "Non-Small Cell Lung Cancer",
+      "Stage IV NSCLC"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Vinorelbine + Pembrolizumab",
+        "arm_group_type": "Experimental",
+        "description": "Vinorelbine administered intravenously at a dose of 25 mg/m2 on days 1 and 8 of a 21-day cycle, in combination with pembrolizumab (200 mg IV every 21 days)."
+      },
+      {
+        "arm_group_label": "Arm B: Best Supportive Care",
+        "arm_group_type": "Control",
+        "description": "Patients receive only best supportive care without experimental treatment."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vinorelbine",
+        "description": "Administered intravenously at a dosing of 25 mg/m2 on days 1 and 8 of a 21-day cycle.",
+        "arm_group_label": [
+          "Arm A: Vinorelbine + Pembrolizumab"
+        ],
+        "other_name": [
+          "Navelbine"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Administered intravenously at a dose of 200 mg every 21 days.",
+        "arm_group_label": [
+          "Arm A: Vinorelbine + Pembrolizumab"
+        ],
+        "other_name": [
+          "Keytruda"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Histologically confirmed diagnosis of non-small cell lung cancer (NSCLC) stage IV.\n2. Patients must have previously received platinum-based chemotherapy and have stable disease or better after treatment.\n3. Age >= 18 years.\n4. ECOG performance status of 0-1.\n5. Adequate organ function (bone marrow, renal, and hepatic).\n\nExclusion Criteria:\n1. Prior treatment with vinorelbine.\n2. Any contraindication to pembrolizumab or vinorelbine.\n3. Active infection or other serious medical conditions.\n4. Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Laura Evans, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Research Network"
+    },
+    "location": {
+      "facility": {
+        "name": "Cancer Treatment Center, Seattle",
+        "address": {
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98105",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "March 10, 2020",
+    "study_first_submitted_qc": "March 12, 2020",
+    "study_first_posted": "March 15, 2020",
+    "last_update_submitted": "August 1, 2023",
+    "last_update_submitted_qc": "August 1, 2023",
+    "last_update_posted": "August 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Research Network",
+      "investigator_full_name": "Laura Evans",
+      "investigator_title": "Oncologist"
+    },
+    "keyword": [
+      "Vinorelbine",
+      "Advanced NSCLC",
+      "Pembrolizumab"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Vinorelbine",
+        "Pembrolizumab"
+      ]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "limitations_and_caveats": "The trial was terminated early due to challenges in achieving sufficient patient enrollment and notable safety concerns regarding significant toxicity profiles observed during the treatment. Despite the promising rationale for combination therapy, the results did not support the hypothesis of improved outcomes."
+  }
+}
+```

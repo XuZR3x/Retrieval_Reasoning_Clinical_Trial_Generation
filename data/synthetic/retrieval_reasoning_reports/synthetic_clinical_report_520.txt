@@ -1,0 +1,231 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03556789"
+        },
+        "id_info": {
+            "org_study_id": "P-2108",
+            "nct_id": "NCT03556789"
+        },
+        "brief_title": "Efficacy and Safety of Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer (NSCLC) After First-Line Chemotherapy",
+        "official_title": "A Multicenter, Phase II Trial Evaluating the Safety and Efficacy of Pembrolizumab (MK-3475) in Patients With Advanced Non-Small Cell Lung Cancer Who Have Progressed on First-Line Chemotherapy",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Global Oncology Research Associates",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Global Oncology Research Associates",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This trial evaluates pembrolizumab, an anti-PD-1 monoclonal antibody, as a potential treatment for patients with advanced NSCLC following progression on platinum-based chemotherapy. The study includes multiple sites across North America and Europe, enrolling subjects with confirmed advanced NSCLC, who have demonstrated actionable PD-L1 expression. The primary endpoint is overall response rate (ORR), while secondary endpoints encompass progression-free survival (PFS) and overall survival (OS)."
+        },
+        "overall_status": "Completed",
+        "start_date": "October 15, 2018",
+        "completion_date": "August 29, 2023",
+        "primary_completion_date": "June 30, 2023",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Overall Response Rate (ORR) according to RECIST 1.1",
+                "time_frame": "Up to 24 months"
+            },
+            {
+                "measure": "Percentage of Participants with Treatment-Related Adverse Events (TRAE)",
+                "time_frame": "Up to 24 months"
+            },
+            {
+                "measure": "Discontinuation Rate Due to AEs",
+                "time_frame": "Up to 24 months"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "Up to 24 months"
+            },
+            {
+                "measure": "Overall Survival (OS)",
+                "time_frame": "Up to 24 months"
+            },
+            {
+                "measure": "Duration of Overall Response (DOR)",
+                "time_frame": "Up to 24 months"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "250",
+        "condition": "Non-Small Cell Lung Cancer",
+        "arm_group": {
+            "arm_group_label": "Pembrolizumab Treatment Group",
+            "arm_group_type": "Experimental",
+            "description": "Participants with advanced NSCLC who have progressed on first-line chemotherapy received pembrolizumab 200 mg intravenously (IV) every 3 weeks until progression or unacceptable toxicity for a maximum of 24 months."
+        },
+        "intervention": {
+            "intervention_type": "Biological",
+            "intervention_name": "Pembrolizumab",
+            "description": "IV infusion",
+            "arm_group_label": ["Pembrolizumab Treatment Group"]
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n- Patients must have a confirmed diagnosis of advanced (Stage IIIB or IV) non-small cell lung cancer (NSCLC) with documented progression after at least one line of platinum-based chemotherapy.\n- PD-L1 expression must be evaluable and greater than or equal to 1%.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1.\n- Must provide informed consent.\n\nExclusion Criteria:\n- History of hypersensitivity to pembrolizumab or any excipient.\n- Presence of active, uncontrolled autoimmune disease.\n- Prior treatment with anti-PD-1, anti-PD-L1, or anti-PD-L2 agents.\n- Known history of interstitial lung disease or pneumonitis.\n- Active infections requiring systemic therapy."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Jane Doe, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Global Oncology Research Associates"
+        },
+        "location": {
+            "facility": {
+                "name": "Global Oncology Research Network",
+                "address": {
+                    "city": "Toronto",
+                    "state": "Ontario",
+                    "zip": "M5B 2H1",
+                    "country": "Canada"
+                }
+            }
+        },
+        "location_countries": {
+            "country": ["United States", "Canada", "United Kingdom"]
+        },
+        "verification_date": "September 2023",
+        "study_first_submitted": "October 10, 2018",
+        "study_first_posted": "October 11, 2018",
+        "results_first_submitted": "September 1, 2023",
+        "results_first_posted": "September 2, 2023",
+        "last_update_submitted": "September 10, 2023",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": ["PD-1", "NSCLC", "Pembrolizumab", "Lung Cancer"],
+        "condition_browse": {
+            "mesh_term": ["Lung Neoplasms", "Adenocarcinoma", "Carcinoma, Non-Small-Cell Lung"]
+        },
+        "intervention_browse": {
+            "mesh_term": "Pembrolizumab"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "title": "Pembrolizumab Treatment Group",
+                        "description": "Received pembrolizumab 200 mg IV every 3 weeks"
+                    }
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": "250"
+                                    }
+                                },
+                                {
+                                    "title": "COMPLETED",
+                                    "participants_list": {
+                                        "participants": "250"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "title": "Pembrolizumab Treatment Group",
+                        "description": "Received pembrolizumab 200 mg IV every 3 weeks"
+                    }
+                },
+                "measure_list": {
+                    "measure": [
+                        {
+                            "title": "Age",
+                            "units": "Years",
+                            "param": "Mean",
+                            "dispersion": "Standard Deviation"
+                        },
+                        {
+                            "title": "Sex Distribution",
+                            "units": "Participants",
+                            "param": "Count of Participants",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "title": "Female",
+                                                "measurement_list": {}
+                                            },
+                                            {
+                                                "title": "Male",
+                                                "measurement_list": {}
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "outcome_list": {
+                    "outcome": [
+                        {
+                            "type": "Primary",
+                            "title": "Overall Response Rate (ORR)",
+                            "description": "The percentage of participants achieving a complete or partial response according to RECIST 1.1",
+                            "time_frame": "Measured up to 24 months",
+                            "units": "Percentage of Participants"
+                        },
+                        {
+                            "type": "Secondary",
+                            "title": "Progression-Free Survival (PFS)",
+                            "description": "Time from treatment start to disease progression or death",
+                            "time_frame": "Up to 24 months",
+                            "units": "Months"
+                        }   
+                    ]
+                }
+            },
+            "reported_events": {
+                "time_frame": "Up to 24 months",
+                "desc": "Adverse events were collected through structured interviews and assessments. Serious adverse events (SAEs) associated with pembrolizumab were rigorously evaluated and reported."
+            },
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+                "restrictive_agreement": "The Sponsor must have the opportunity to review all proposed abstracts regarding this trial."
+            },
+            "point_of_contact": {
+                "name_or_title": "Clinical Trials Coordinator",
+                "organization": "Global Oncology Research Associates",
+                "phone": "1-888-555-1234",
+                "email": "contact@globaloncology.com"
+            }
+        }
+    }
+}
+```

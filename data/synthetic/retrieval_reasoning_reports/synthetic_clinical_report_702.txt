@@ -1,0 +1,137 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024", 
+      "link_text": "Link to the current ClinicalTrials.gov record.", 
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    }, 
+    "id_info": {
+      "org_study_id": "DEC-AML-2021", 
+      "secondary_id": ["NCT-2021-0001", "EORTC-DECITREAT", "FDA-DECIDEMDS"], 
+      "nct_id": "NCT02345678"
+    }, 
+    "brief_title": "Decitabine with Standard Supportive Care in Elderly Patients with Newly Diagnosed Acute Myeloid Leukemia", 
+    "official_title": "A Phase III Trial of Low-Dose Decitabine Compared to Standard Supportive Care for Older Patients with Newly Diagnosed Acute Myeloid Leukemia (AML)", 
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Health Sciences", 
+        "agency_class": "Academic"
+      }
+    }, 
+    "source": "National Institute of Health", 
+    "oversight_info": {
+      "has_dmc": "Yes"
+    }, 
+    "brief_summary": {
+      "textblock": "This phase III trial investigates the efficacy of low-dose decitabine compared to supportive care in older adults diagnosed with acute myeloid leukemia (AML). The hypothesis is that decitabine can effectively improve overall survival and response rates in this patient population."
+    }, 
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To determine the overall survival rate at 6 months post-treatment with decitabine versus standard supportive care in elderly AML patients.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the complete response rate (CR) and overall progression-free survival (PFS).\nII. To evaluate the adverse event profile associated with decitabine, including hematologic and non-hematologic toxicities.\nIII. To analyze the quality of life using validated questionnaires at baseline and during treatment."
+    }, 
+    "overall_status": "Terminated", 
+    "why_stopped": "Insufficient patient enrollment and competing mortality risks", 
+    "start_date": "April 10, 2021", 
+    "completion_date": "January 20, 2023", 
+    "primary_completion_date": "November 30, 2022", 
+    "phase": "Phase 3", 
+    "study_type": "Interventional", 
+    "has_expanded_access": "No", 
+    "study_design_info": {
+      "allocation": "Randomized", 
+      "intervention_model": "Parallel Assignment", 
+      "primary_purpose": "Treatment", 
+      "masking": "None (Open Label)"
+    }, 
+    "primary_outcome": {
+      "measure": "Overall Survival Rate (OSR)", 
+      "time_frame": "6 Months", 
+      "description": "Survival rates will be calculated using Kaplan-Meier methodology."
+    }, 
+    "secondary_outcome": [
+      {
+        "measure": "Complete Response Rate (CRR)", 
+        "time_frame": "12 Months", 
+        "description": "CRR defined by a complete remission as per the International Working Group criteria for AML."
+      }, 
+      {
+        "measure": "Progression-Free Survival (PFS)", 
+        "time_frame": "12 Months", 
+        "description": "PFS is defined as the time from treatment initiation until disease progression or death."
+      }, 
+      {
+        "measure": "Quality of Life (QoL) Scores", 
+        "time_frame": "Up to 1 year", 
+        "description": "QoL will be assessed using the European Organization for Research and Treatment of Cancer (EORTC) QLQ-C30 questionnaire."
+      }, 
+      {
+        "measure": "Adverse Event Incidence", 
+        "time_frame": "Up to 12 months", 
+        "description": "Adverse events will be documented and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0."
+      }
+    ], 
+    "number_of_arms": "2", 
+    "enrollment": "35", 
+    "condition": [
+      "Acute Myeloid Leukemia (AML)", 
+      "Myelodysplastic Syndromes (MDS)"
+    ], 
+    "arm_group": [
+      {
+        "arm_group_label": "Decitabine Administration", 
+        "arm_group_type": "Experimental", 
+        "description": "Patients receive decitabine intravenously (IV) over 1 hour daily for 3 days every 6 weeks for up to 8 courses."
+      }, 
+      {
+        "arm_group_label": "Supportive Care", 
+        "arm_group_type": "Control", 
+        "description": "Patients receive standard supportive care without any active treatment."
+      }
+    ], 
+    "intervention": [
+      {
+        "intervention_type": "Drug", 
+        "intervention_name": "Decitabine", 
+        "description": "Administered IV as per protocol guidelines.", 
+        "other_name": ["5-aza-2’-deoxycytidine", "DAC"]
+      }, 
+      {
+        "intervention_type": "Other", 
+        "intervention_name": "Standard Supportive Care", 
+        "description": "Includes palliative treatment, management of symptoms, and regular monitoring."
+      }
+    ], 
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n\n- Documented diagnosis of newly diagnosed acute myeloid leukemia (AML)\n- Age ≥ 65 years\n- Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2\n- Comorbidities must be stable, with no history of concurrent malignancies (except for non-melanoma skin cancer).\n\nEXCLUSION CRITERIA:\n\n- Presence of active central nervous system leukemia\n- Known hypersensitivity to decitabine or related compounds\n- Prior treatment with any chemotherapy within 4 weeks of study entry."
+      }, 
+      "gender": "All", 
+      "minimum_age": "65 Years", 
+      "maximum_age": "N/A", 
+      "healthy_volunteers": "No"
+    }, 
+    "overall_official": {
+      "last_name": "Jonathan R. Smith", 
+      "role": "Principal Investigator", 
+      "affiliation": "University of Health Sciences"
+    }, 
+    "location_countries": {
+      "country": "United States"
+    }, 
+    "results_reference": {
+      "citation": "Smith JR, et al: Decitabine in elderly patients with acute myeloid leukemia: A trial report. J Clin Oncol. 2023; 41(26):3080-3087."
+    }, 
+    "verification_date": "January 10, 2023", 
+    "study_first_submitted": "February 1, 2021", 
+    "study_first_posted": "March 2, 2021", 
+    "last_update_submitted": "January 5, 2023", 
+    "last_update_posted": "January 10, 2023", 
+    "keyword": [
+      "Decitabine", 
+      "Acute Myeloid Leukemia", 
+      "Elderly Patients", 
+      "Supportive Care"
+    ]
+  }
+}
+```

@@ -1,0 +1,374 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "Omalizumab-Treatment-2023",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Omalizumab for Patients with Chronic Asthma: A Study on Efficacy and Safety",
+    "official_title": "A Phase III, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Omalizumab in Patients with Chronic Moderate to Severe Allergic Asthma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Initiatives",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Initiatives",
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "March 2023",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Reduction in asthma exacerbation rates over 24 weeks",
+      "time_frame": "24 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Forced Expiratory Volume in 1 second (FEV1)",
+        "time_frame": "Baseline, Week 12, Week 24"
+      },
+      {
+        "measure": "Change in Asthma Control Questionnaire (ACQ) score",
+        "time_frame": "Baseline, Week 12, Week 24"
+      },
+      {
+        "measure": "Assessment of quality of life using the Asthma Quality of Life Questionnaire (AQLQ)",
+        "time_frame": "Baseline, Week 24"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "750",
+    "condition": "Chronic Allergic Asthma",
+    "arm_group": [
+      {
+        "arm_group_label": "Omalizumab Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received subcutaneous omalizumab every 2 or 4 weeks according to IgE levels and body weight."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received matching placebo injections every 2 or 4 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Omalizumab",
+        "description": "Administered subcutaneously, tailored to weight and serum IgE levels, starting at a dose of 75 mg to 600 mg every 2 or 4 weeks.",
+        "arm_group_label": "Omalizumab Group",
+        "other_name": ["Xolair", "anti-IgE monoclonal antibody"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched to the omalizumab treatment group in terms of administration route and timing.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Males or females aged 12-65 years\n- Documented diagnosis of moderate to severe allergic asthma for at least 1 year\n- Total serum IgE between 30 and 700 IU/mL\n- Inadequate asthma control while on a stable dose of inhaled corticosteroids\n- Ability to provide informed consent\n\nExclusion Criteria:\n\n- History of hypersensitivity to omalizumab or its components\n- Recent history of respiratory infection or exacerbation\n- Ongoing treatment with oral corticosteroids for more than 2 weeks prior to screening\n- Clinically significant comorbidities affecting lung health\n- Pregnant or breastfeeding women",
+        "gender": "All",
+        "minimum_age": "12 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Smith",
+      "role": "Lead Investigator",
+      "affiliation": "University Health Network"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ University Hospital",
+          "address": {
+            "city": "Austin",
+            "state": "Texas",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "ABC Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "January 30, 2021",
+    "study_first_posted": "February 5, 2021",
+    "last_update_posted": "March 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Omalizumab",
+      "IgE",
+      "Allergic Asthma"
+    ],
+    "condition_browse": {
+      "mesh_term": "Asthma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Omalizumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "All participants completed a 4-week run-in period during which they were stabilized on inhaled corticosteroids.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Omalizumab Group",
+              "description": "Participants receiving omalizumab treatment."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving placebo injections."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["750"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["650 participants completed the study."]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["100 participants withdrew, reasons varied."]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Omalizumab Group",
+              "description": "Demographics and baseline characteristics recorded."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Demographics and baseline characteristics recorded."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": ["750"]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age at Baseline",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": {
+                        "count": ["750"]
+                      }
+                    }
+                  },
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": ["Mean Age: 38.5 ± 12.3 years in the Omalizumab group, 39.2 ± 12.5 years in the placebo group."]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex Distribution",
+              "units": "Participants",
+              "param": "Count",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": {
+                        "count": ["Male: 350, Female: 400 in both groups."]
+                      }
+                    }
+                  },
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": ["Males: 185 in the Omalizumab group, 185 in the placebo group."]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Reduction in Asthma Exacerbation Rates",
+            "description": "A statistically significant reduction in the number of asthma exacerbations was observed in participants treated with omalizumab compared to the placebo group.",
+            "time_frame": "24 weeks",
+            "population": "Full Analysis Set",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Omalizumab Group",
+                  "description": "63% reduction in asthma exacerbation rates."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "38% reduction in asthma exacerbation rates."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Exacerbation Rate Reduction",
+              "population": "Comprehensive group analysis indicated a significant difference with p < 0.001.",
+              "units": "Percentage"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in FEV1",
+            "description": "Significant improvement in FEV1 (Forced Expiratory Volume in 1 second) was recorded in the omalizumab group.",
+            "time_frame": "24 weeks",
+            "population": "Full Analysis Set",
+            "measure": {
+              "title": "Mean Change in FEV1",
+              "population": "Omalizumab mean change: 200 mL vs. Placebo mean change: 50 mL (p < 0.01)",
+              "units": "mL"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Asthma Control Questionnaire (ACQ) Score Improvement",
+            "description": "Reduction in ACQ scores indicated improved asthma control in participants administered omalizumab.",
+            "time_frame": "Baseline, Week 24",
+            "population": "Full Analysis Set",
+            "measure": {
+              "title": "Mean Change in ACQ",
+              "population": "Omalizumab mean change: -1.5 vs. Placebo mean change: -0.5 (p < 0.001)",
+              "units": "ACQ Score"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From Baseline through Week 28",
+        "desc": "All safety data monitored throughout the trial.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Omalizumab Group",
+              "description": "Adverse event incidence: 30% overall, with common mild and moderate events reported."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Adverse event incidence: 25%, primarily mild events."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA version 25.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Severe Injection Site Reaction",
+                      "counts": [
+                        3,
+                        5
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA version 25.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total Mild Adverse Events Counted",
+                    "counts": [
+                      50,
+                      40
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

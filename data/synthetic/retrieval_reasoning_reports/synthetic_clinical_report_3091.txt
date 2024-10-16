@@ -1,0 +1,147 @@
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03648293"
+    },
+    "id_info": {
+      "org_study_id": "OSLT-2021",
+      "nct_id": "NCT03648293"
+    },
+    "brief_title": "Efficacy and Safety of Oseltamivir in Adults with Severe Influenza",
+    "acronym": "OSLT",
+    "official_title": "A Multi-center, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Oseltamivir in Adults with Severe Influenza",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Health Research Institute",
+    "overall_status": "Completed",
+    "start_date": "October 2021",
+    "completion_date": "April 2023",
+    "primary_completion_date": "January 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of clinical improvement defined by a 2-point decrease in a 7-point ordinal scale at Day 5 post-treatment",
+      "time_frame": "5 days post initiation of treatment"
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of adverse events and serious adverse events within 30 days post-treatment",
+      "time_frame": "Up to 30 days post-treatment"
+    },
+    "number_of_arms": "2",
+    "enrollment": "600",
+    "condition": "Severe Influenza",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Active Comparator",
+        "description": "Oseltamivir 75 mg orally twice daily for 5 days."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matched placebo administered orally twice daily for 5 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oseltamivir",
+        "description": "Administered at a dose of 75 mg orally twice daily for 5 days.",
+        "arm_group_label": "1",
+        "other_name": "Tamiflu"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Identical in appearance to oseltamivir but with no active ingredients.",
+        "arm_group_label": "2"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Age 18-65 years\n\n  - Laboratory-confirmed influenza with severe symptoms requiring hospitalization\n\n  - Initiation of treatment within 24 hours of symptom onset\n\nExclusion Criteria:\n\n  - History of severe allergic reactions to oseltamivir\n\n  - Receipt of antiviral therapy prior to enrollment\n\n  - Pregnant or lactating women",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Alice Carter",
+      "role": "Principal Investigator",
+      "affiliation": "University Hospital Research Center"
+    },
+    "location": {
+      "facility": {
+        "name": "University Hospital Research Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Initially screened 800 participants, 600 were randomized after meeting eligibility criteria.",
+        "pre_assignment_details": "Randomization was split evenly between the two arms."
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Rate of Clinical Improvement",
+            "measure": {
+              "title": "Proportion of Participants Achieving 2-Point Improvement on Day 5",
+              "description": "Evaluated based on a 7-point ordinal clinical scale measuring overall health status.",
+              "population": "Intention-to-treat population."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Safety Assessment",
+            "measure": {
+              "title": "Incidence of Adverse Events",
+              "description": "Counting all reported adverse events occurred within 30 days of initiating treatment.",
+              "population": "Safety population including all participants."
+            }
+          }
+        ]
+      }
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "August 15, 2021",
+    "study_first_posted": "August 20, 2021",
+    "last_update_posted": "April 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Oseltamivir",
+      "Severe Influenza",
+      "Antiviral Therapy",
+      "Clinical Trial"
+    ],
+    "condition_browse": {
+      "mesh_term": "Influenza, Human"
+    },
+    "intervention_browse": {
+      "mesh_term": "Oseltamivir"
+    }
+  }
+}

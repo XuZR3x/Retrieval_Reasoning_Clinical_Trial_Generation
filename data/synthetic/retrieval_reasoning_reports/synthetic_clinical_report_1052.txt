@@ -1,0 +1,308 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "14983",
+      "secondary_id": "F1K-JE-LMXY",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Efficacy of Duloxetine in Adult Patients with Chronic Pain and Depression: A Randomized Controlled Trial",
+    "official_title": "A Multicenter, Double-Masked, Randomized Control Trial to Assess the Efficacy and Safety of Duloxetine in Adults with Chronic Pain and Major Depressive Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca Pharmaceuticals",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AstraZeneca Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial aims to evaluate the efficacy and safety of duloxetine in reducing depressive symptoms and managing chronic pain in adult patients diagnosed with concurrent chronic pain conditions and major depressive disorder."
+    },
+    "detailed_description": {
+      "textblock": "This study is a 24-week multicenter, double-masked, randomized, placebo-controlled trial involving adult patients aged 18-65 years. Participants will be screened for chronic pain conditions and moderate to severe major depressive disorder. All eligible participants will be randomized to receive either duloxetine or placebo in a 2:1 ratio. The primary endpoint is the change from baseline in well-validated scales measuring chronic pain and depressive symptoms including the Brief Pain Inventory (BPI) and Montgomery-Asberg Depression Rating Scale (MADRS) over the treatment period."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2022",
+    "completion_date": "March 2023",
+    "primary_completion_date": "March 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change from Baseline on the Brief Pain Inventory (BPI) Average Pain Score",
+        "time_frame": "Baseline, Week 12",
+        "description": "The Brief Pain Inventory utilizes a self-reported scale to assess the severity of pain and interference with daily activities over the prior 24 hours, with scores ranging from 0 (no pain) to 10 (worst pain imaginable)."
+      },
+      {
+        "measure": "Change from Baseline on the Montgomery-Asberg Depression Rating Scale (MADRS)",
+        "time_frame": "Baseline, Week 12",
+        "description": "The MADRS is a clinician-administered scale utilized for measuring depression severity, where scores range from 0 to 60, with higher scores indicating greater severity of depressive symptoms."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Gastrointestinal Symptoms Rating Scale (GSRS)",
+        "time_frame": "Baseline, Week 12",
+        "description": "An assessment of gastrointestinal symptoms using a clinician-administered scale with a total score indicating symptom severity."
+      },
+      {
+        "measure": "Clinical Global Impressions-Improvement Scale (CGI-I)",
+        "time_frame": "Baseline, Week 12",
+        "description": "This clinician-rated scale measures the improvement in the participant’s overall condition, with scores ranging from 1 (very much improved) to 7 (very much worse)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": ["Chronic Pain", "Major Depressive Disorder"],
+    "arm_group": [
+      {
+        "arm_group_label": "Duloxetine Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive duloxetine at a starting dose of 30mg, titrated up to 120mg daily based on clinical response and tolerability."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants in the placebo group will receive a matching placebo tablet once daily for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Duloxetine",
+        "description": "Administered once daily orally, titrating from a starting dose of 30 mg to a maximum of 120 mg based on patient tolerance and clinical response.",
+        "arm_group_label": "Duloxetine Group",
+        "other_name": "Cymbalta"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered orally once daily.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Adults aged 18-65 with a diagnosis of Major Depressive Disorder and chronic pain condition.\r\n  - Must score > 14 on the MADRS at screening.\r\n  - Informed consent must be provided.\r\n\r\nExclusion Criteria:\r\n  - History of significant cardiovascular disease, psychosis, or mania.\r\n  - Active suicidal thoughts or behaviors.\r\n  - Currently receiving any form of antidepressant treatment or non-steroidal anti-inflammatory drugs specifically for pain.\r\n  - Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jonathan Smith",
+      "role": "Principal Investigator",
+      "affiliation": "AstraZeneca Pharmaceuticals"
+    },
+    "location": {
+      "facility": {
+        "name": "ABC Medical Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02108",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "February 5, 2022",
+    "study_first_submitted_qc": "February 10, 2022",
+    "study_first_posted": "February 15, 2022",
+    "results_first_submitted": "March 30, 2023",
+    "results_first_submitted_qc": "April 5, 2023",
+    "results_first_posted": "April 15, 2023",
+    "last_update_submitted": "May 1, 2023",
+    "last_update_submitted_qc": "May 1, 2023",
+    "last_update_posted": "May 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Chronic Pain", "Major Depressive Disorder"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Duloxetine Hydrochloride"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "All enrolled participants were randomized into the duloxetine or placebo group, with initial screenings ensuring participant eligibility according to study criteria.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Duloxetine",
+              "description": "Participants received duloxetine as per the dosage regimen outlined."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants received placebo matching the duloxetine."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Study completion",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "150"
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "135"
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "15"
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": "7"
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": "2"
+                  }
+                },
+                {
+                  "title": "Lost to Follow-up",
+                  "participants_list": {
+                    "participants": "6"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Overall randomized participants who received at least one dosage.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Duloxetine",
+              "description": "Enrolled in the duloxetine intervention."
+            },
+            {
+              "title": "Placebo",
+              "description": "Enrolled in the placebo intervention."
+            }
+          ]
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change from Baseline on BPI",
+            "description": "Measured pain severity over the study duration.",
+            "time_frame": "Baseline, Week 12",
+            "population": "Total participants",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Duloxetine"
+                },
+                {
+                  "title": "Placebo"
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change from Baseline on BPI",
+              "units": "units on a scale",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [120, 15]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Mixed Models Analysis",
+                  "p_value": "<0.001"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout the study",
+        "desc": "Serious and non-serious adverse events were monitored. No serious adverse events were determined to be related to the intervention.",
+        "group_list": {
+          "group": {
+            "title": "Duloxetine",
+            "description": "Duloxetine was well tolerated among participants with documented adverse events monitored."
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "The principal investigator is not employed by the sponsoring company.",
+        "restrictive_agreement": "There are no restrictions in place that inhibit results dissemination or publication after the trial."
+      },
+      "limitations_and_caveats": "The trial's limitations include a limited sample size as well as the absence of a placebo-controlled group, which may affect the generalizability of the results."
+    }
+  }
+}
+```

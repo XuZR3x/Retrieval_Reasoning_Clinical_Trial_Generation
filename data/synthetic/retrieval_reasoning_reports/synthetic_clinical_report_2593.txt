@@ -1,0 +1,136 @@
+```json
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+        "org_study_id": "Study-0013",
+        "nct_id": "NCT01234567"
+    },
+    "brief_title": "Mifepristone in Treatment-Resistant Major Depressive Disorder: A Randomized Clinical Trial",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial Assessing the Efficacy and Safety of Mifepristone in Patients With Treatment-Resistant Major Depressive Disorder",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "Phoenix Research Group",
+            "agency_class": "Industry"
+        }
+    },
+    "source": "Phoenix Research Group",
+    "oversight_info": {
+        "has_dmc": "No"
+    },
+    "brief_summary": {
+        "textblock": "This study aimed to evaluate the efficacy and safety of mifepristone in patients diagnosed with treatment-resistant major depressive disorder (TRMD) characterized by significant psychotic features. Mifepristone's proposed mechanism of action relates to its anti-glucocorticoid properties, hypothesizing that reducing cortisol-mediated stress responses could ameliorate depressive symptoms."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate subject enrollment and high dropout rates leading to insufficient statistical power",
+    "start_date": "January 2011",
+    "completion_date": "December 2015",
+    "primary_completion_date": "April 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+        "measure": "Change in Hamilton Depression Rating Scale (HDRS) scores from baseline to week 8",
+        "time_frame": "Weeks 0, 2, 4, 8"
+    },
+    "secondary_outcome": {
+        "measure": "Rates of treatment-emergent adverse effects",
+        "time_frame": "Throughout study duration"
+    },
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": ["Major Depressive Disorder", "Psychotic Disorders"],
+    "arm_group": [
+        {
+            "arm_group_label": "Mifepristone 600 mg",
+            "arm_group_type": "Experimental"
+        },
+        {
+            "arm_group_label": "Placebo",
+            "arm_group_type": "Placebo Comparator"
+        }
+    ],
+    "intervention": [
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Mifepristone",
+            "description": "Mifepristone 600 mg orally once daily for 8 weeks",
+            "arm_group_label": "Mifepristone 600 mg"
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Placebo",
+            "description": "Matched placebo orally once daily for 8 weeks",
+            "arm_group_label": "Placebo"
+        }
+    ],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\n- Males and females aged 18 to 65 years\n- Diagnosis of TRMD with psychotic features per DSM-5 criteria\n- Must have failed at least two previous adequate treatments\n- Ability to provide informed consent\n\nExclusion Criteria:\n- Serious medical illnesses that could affect participation\n- Current use of corticosteroids or hormonal therapies\n- Pregnant or nursing females\n- History of hypersensitivity to mifepristone"
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Samuel Johnson, PhD",
+        "role": "Principal Investigator",
+        "affiliation": "Phoenix Research Group"
+    },
+    "location": {
+        "facility": {
+            "name": "Northview Psychiatric Institute",
+            "address": {
+                "city": "Chicago",
+                "state": "Illinois",
+                "zip": "60614",
+                "country": "United States"
+            }
+        }
+    },
+    "location_countries": {
+        "country": "United States"
+    },
+    "link": {
+        "url": "http://www.phoenixresearch.com",
+        "description": "Phoenix Research Group"
+    },
+    "reference": [
+        {
+            "citation": "Smith J, Brown L, Wilson C. Role of Cortisol Modulation in Depressive Disorders: Evidence from Recent Trials. J Clin Psychiatry. 2013;74(8):e734-e740. doi:10.1176/appi.psychiatry.13060156.",
+            "PMID": "25052343"
+        },
+        {
+            "citation": "Katz R, Lee A, Toma S, et al. Hormonal Influence on Major Depressive Disorder: A Review. Horm Behav. 2012;62(1):59-67. doi:10.1016/j.yhbeh.2012.02.004.",
+            "PMID": "22402015"
+        }
+    ],
+    "verification_date": "May 2016",
+    "study_first_submitted": "October 5, 2010",
+    "study_first_submitted_qc": "October 5, 2010",
+    "study_first_posted": "October 10, 2010",
+    "last_update_submitted": "February 14, 2016",
+    "last_update_submitted_qc": "February 14, 2016",
+    "last_update_posted": "February 16, 2016",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Mifepristone", "Treatment-Resistant Depression", "Psychotic Depression", "Cortisol Modulation"],
+    "condition_browse": {
+        "mesh_term": ["Major Depressive Disorder", "Psychotic Disorders"]
+    },
+    "intervention_browse": {
+        "mesh_term": "Mifepristone"
+    }
+}}
+```

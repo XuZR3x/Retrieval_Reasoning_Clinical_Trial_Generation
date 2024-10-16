@@ -1,0 +1,278 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02575738"
+    },
+    "id_info": {
+      "org_study_id": "GS-US-312-0125",
+      "nct_id": "NCT02575738"
+    },
+    "brief_title": "Efficacy and Safety of Idelalisib in Combination With Standard Immunotherapy for Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase III Multicenter Study to Evaluate the Efficacy and Safety of Idelalisib Combined With Standard Immunotherapy in Patients With Relapsed Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Gilead Sciences",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Gilead Sciences",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase III study aimed to determine the efficacy and safety of idelalisib combined with standard immunotherapy in patients with relapsed Chronic Lymphocytic Leukemia (CLL). The study outcomes assessed whether the integration of idelalisib could enhance overall response rates (ORR) and progression-free survival (PFS) while maintaining an acceptable safety profile."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 15, 2015",
+    "completion_date": "November 30, 2020",
+    "primary_completion_date": "August 12, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Randomization to Progression or Death (up to 60 months)",
+      "description": "Progression-free survival (PFS) was defined as the interval from randomization to the earliest documentation of disease progression or death from any cause, assessed utilizing the CLL response criteria based on the 2008 IWCLL guidelines."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Randomization to End of Study (up to 60 months)",
+        "description": "ORR was determined as the percentage of participants achieving a complete response or partial response as per established clinical criteria."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Randomization to End of Study (up to 60 months)",
+        "description": "Safety was evaluated based on the incidence of treatment-emergent adverse events (TEAEs) according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      },
+      {
+        "measure": "Duration of Response (DOR)",
+        "time_frame": "Baseline to Disease Progression or Death (up to 60 months)",
+        "description": "Duration of response was defined from the first documentation of a confirmed response to the first occurrence of disease progression or death."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Randomization to Death (up to 60 months)",
+        "description": "Overall survival was measured as the duration from randomization to death from any cause."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "350",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": [
+      {
+        "arm_group_label": "Idelalisib + Immunotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive idelalisib (150 mg orally twice daily) in conjunction with standard immunotherapy (rituximab) over the course of treatment cycles.",
+        "other_name": [
+          "Zydelig®",
+          "GS-1101"
+        ]
+      },
+      {
+        "arm_group_label": "Immunotherapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants in this arm will receive immunotherapy (rituximab) alone, with the treatment regimen consisting of 375 mg/m² intravenous infusion weekly for 4 weeks, followed by 1000 mg every 2 months."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Idelalisib",
+        "description": "Idelalisib 150 mg tablets administered orally twice daily.",
+        "arm_group_label": "Idelalisib + Immunotherapy",
+        "other_name": ["Zydelig", "GS-1101"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rituximab",
+        "description": "Rituximab administered intravenously at a dose of 375 mg/m².",
+        "arm_group_label": ["Idelalisib + Immunotherapy", "Immunotherapy Alone"],
+        "other_name": "Rituxan"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria:\r\n  -  Histologically confirmed diagnosis of CLL with relapsed disease.\r\n  -  Age ≥ 18 years.\r\n  -  Measurable lymphadenopathy (at least one lesion > 2 cm).\r\n  -  ECOG performance status of 0-2.\r\n  -  Adequate organ function.\r\n  -  Ability to provide informed consent. \r\nKey Exclusion Criteria:\r\n  -  Prior treatment with idelalisib.\r\n  -  Active autoimmune disease requiring systemic therapy.\r\n  -  Serious infection requiring systemic therapy.\r\n  -  Pregnant or breastfeeding women.\r\n  -  Other malignancies within the last 3 years, excluding curatively treated skin cancers."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Gilead Study Director",
+      "role": "Study Director",
+      "affiliation": "Gilead Sciences"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Stanford Cancer Institute",
+          "address": {
+            "city": "Stanford",
+            "state": "California",
+            "zip": "94305",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": [
+      {
+        "citation": "Flinn I, et al. Efficacy and Safety of Idelalisib Combined With Immunotherapy in Relapsed CLL: Results of a Phase 3 Study. J Clin Oncol. 2022;40(27):3090-3100.",
+        "PMID": "35291762"
+      }
+    ],
+    "verification_date": "December 2020",
+    "study_first_submitted": "July 2, 2015",
+    "study_first_submitted_qc": "July 5, 2015",
+    "study_first_posted": "July 7, 2015",
+    "results_first_submitted": "January 10, 2021",
+    "results_first_posted": "February 6, 2021",
+    "last_update_submitted": "February 2, 2021",
+    "last_update_posted": "February 6, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Chronic Lymphocytic Leukemia",
+      "Idelalisib",
+      "Immunotherapy",
+      "Rituximab"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia",
+        "Leukemia, Lymphoid",
+        "Leukemia, Lymphocytic, Chronic, B-Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Idelalisib",
+        "Rituximab"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were enrolled at multiple study sites across the United States. The first participant was screened on 15 September 2015, with the last study visit occurring on 30 November 2020.",
+        "pre_assignment_details": "400 participants were screened, and 350 were randomized.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Idelalisib + Immunotherapy",
+              "description": "Participants receiving Idelalisib in combination with standard immunotherapy."
+            },
+            {
+              "title": "Immunotherapy Alone",
+              "description": "Participants receiving standard immunotherapy alone."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "The intent-to-treat (ITT) analysis set included all randomized participants who received at least 1 dose of study drug.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Idelalisib + Immunotherapy",
+              "description": "Participants receiving Idelalisib 150 mg and immunotherapy."
+            },
+            {
+              "title": "Immunotherapy Alone",
+              "description": "Participants receiving immunotherapy only."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was significantly extended in the Idelalisib + Immunotherapy arm, with a median PFS of 26 months compared to 10 months in the Immunotherapy Alone arm.",
+            "time_frame": "Randomization to Progression or Death (up to 60 months)",
+            "population": "Participants in the ITT analysis set were analyzed with stratified log-rank tests.",
+            "measure": {
+              "title": "Progression-Free Survival (PFS)",
+              "units": "months",
+              "median_value": "26",
+              "dispersion": "95% Confidence Interval",
+              "ci_lower_limit": "20",
+              "ci_upper_limit": "31",
+              "p_value": "<0.0001"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "The ORR in the Idelalisib + Immunotherapy arm was 83%, contrasting with a 42% ORR in the Immunotherapy Alone arm.",
+            "time_frame": "Randomization to End of Study (up to 60 months)",
+            "population": "Participants in the ITT Analysis Set were analyzed.",
+            "measure": {
+              "title": "Overall Response Rate (ORR)",
+              "units": "percentage of participants",
+              "param": "83",
+              "dispersion": "95% Confidence Interval",
+              "ci_lower_limit": "75",
+              "ci_upper_limit": "89"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Safety Profile",
+            "description": "The study illustrated a manageable safety profile of Idelalisib with the primary treatment-related adverse events being grade 1-2 diarrhea and fatigue, leading to an excellent treatment adherence rate.",
+            "time_frame": "Randomization to End of Study (up to 60 months)",
+            "population": "Participants in the safety analysis set were evaluated.",
+            "measure": {
+              "title": "Incidence of Adverse Events",
+              "units": "percentage of participants",
+              "param": {
+                "grade_1_2": "60",
+                "grade_3_plus": "15"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

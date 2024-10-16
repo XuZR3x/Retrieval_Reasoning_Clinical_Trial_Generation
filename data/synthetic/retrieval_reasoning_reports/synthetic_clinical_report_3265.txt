@@ -1,0 +1,211 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 5, 2023",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01123456"
+    },
+    "id_info": {
+      "org_study_id": "LAM200906",
+      "nct_id": "NCT01123456"
+    },
+    "brief_title": "Efficacy and Safety of Lamotrigine in Pediatric Subjects With Refractory Absence Seizures",
+    "official_title": "A Multicenter, Open-Label Trial of Lamotrigine for Children Aged 6-12 With Refractory Absence Seizures",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Children’s Hospital of Philadelphia",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "GlaxoSmithKline",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Children’s Hospital of Philadelphia",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The primary aim of this clinical trial is to evaluate the efficacy, safety, and tolerability of lamotrigine in pediatric patients aged 6 to 12 years diagnosed with refractory absence seizures. The study will assess the change from baseline seizure frequency over a 24-week treatment duration."
+    },
+    "detailed_description": {
+      "textblock": "This clinical trial is a multicenter, open-label study enrolling 75 pediatric subjects, diagnosed with refractory absence seizures. Each subject will undergo a progressive dosing regimen, initiated with lamotrigine at a starting dose of 0.2 mg/kg/day, systematically escalated every two weeks, targeting a maximum dose of 10 mg/kg/day. The titration strategy is meticulously structured to optimize therapeutic responses while monitoring adverse effects. Each patient will be assessed bi-weekly during the titration phase and monthly thereafter during the maintenance phase over a total treatment duration of 24 weeks. Seizure frequency will be meticulously recorded, and clinical outcomes will be evaluated using a combination of the Seizure Severity Scale (SSS) and parental reports. Additionally, laboratory checks will be performed to monitor potential hematological or metabolic side effects, ensuring the safety profile is well-documented throughout the study duration."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2011",
+    "completion_date": "December 2012",
+    "primary_completion_date": "December 2012",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in the frequency of absence seizures from baseline",
+      "time_frame": "24 weeks of treatment"
+    },
+    "secondary_outcome": {
+      "measure": "Proportion of patients achieving a ≥50% reduction in seizure frequency",
+      "time_frame": "Evaluated at 12 and 24 weeks"
+    },
+    "number_of_arms": "1",
+    "enrollment": "75",
+    "condition": "Absence Seizures",
+    "arm_group": {
+      "arm_group_label": "lamotrigine",
+      "description": "Subjects will receive lamotrigine, starting from 0.2 mg/kg/day, with titration based on individual response and tolerability."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Lamotrigine",
+      "description": "An antiepileptic medication indicated to treat absence seizures, with a focus on establishing efficacy and safety in a pediatric population."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Aged 6-12 years at screening.\n  - Diagnosis of refractory absence seizures as defined by the International League Against Epilepsy.\n  - Documented history of seizures, and prior inadequate response to at least two anti-epileptic drugs.\nExclusion Criteria:\n  - History of hypersensitivity or adverse reactions to lamotrigine.\n  - Presence of progressive neurological disorders.\n  - Pregnant or breastfeeding females.\n  - Any serious concomitant medical condition that could complicate study participation."
+      },
+      "gender": "All",
+      "minimum_age": "6 Years",
+      "maximum_age": "12 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Lee, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Children’s Hospital of Philadelphia"
+    },
+    "location": {
+      "facility": {
+        "name": "Children’s Hospital of Philadelphia",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2014",
+    "study_first_submitted": "June 15, 2010",
+    "study_first_posted": "June 20, 2010",
+    "last_update_posted": "February 15, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Children’s Hospital of Philadelphia",
+      "investigator_full_name": "Jessica Lee",
+      "investigator_title": "Director of Pediatric Neurology"
+    },
+    "condition_browse": {
+      "mesh_term": "Seizures"
+    },
+    "intervention_browse": {
+      "mesh_term": "Lamotrigine"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrolled from various outpatient clinics within the Children's Hospital.",
+        "pre_assignment_details": "All participants underwent a comprehensive screening process that included diagnostic confirmation of absence seizures and clinical interviews.",
+        "group_list": {
+          "group": {
+            "title": "Lamotrigine",
+            "description": "dosing regimen from 0.2 mg/kg/day up to a maximum of 10 mg/kg/day"
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Lamotrigine",
+            "description": "dosing management as per individual tolerability."
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Seizure Frequency (mean)",
+              "units": "events per week",
+              "param": "Mean Frequency",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean Age",
+              "dispersion": "Standard Deviation"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Reduction in Seizure Frequency",
+            "description": "Evaluated based on the documented weekly seizure counts pre-and post-treatment with lamotrigine.",
+            "time_frame": "Baseline, 12 weeks, 24 weeks"
+          },
+          {
+            "type": "Secondary",
+            "title": "Clinical Response Assessment",
+            "description": "Proportion of subjects achieving ≥50% reduction in seizure frequency from baseline.",
+            "time_frame": "Assessed at 12 weeks and 24 weeks"
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Lamotrigine",
+            "description": "individualized dosing approach."
+          },
+          "serious_events": {
+            "category_list": {
+              "category": {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Hospitalization due to severe rash",
+                    "counts": "2"
+                  }
+                }
+              }
+            },
+            "other_events": {
+              "frequency_threshold": "5",
+              "category_list": {
+                "category": {
+                  "title": "Total, Other Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Drowsiness or fatigue",
+                      "counts": "15"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "No Principal Investigators are employed by the organization sponsoring the study.",
+          "restrictive_agreement": "No restrictions on discussing or publishing trial results after completion."
+        },
+        "point_of_contact": {
+          "name_or_title": "Dr. Jessica Lee",
+          "organization": "Children’s Hospital of Philadelphia",
+          "phone": "215-555-5555",
+          "email": "jlee@chop.edu"
+        }
+      }
+    }
+  }
+}
+```

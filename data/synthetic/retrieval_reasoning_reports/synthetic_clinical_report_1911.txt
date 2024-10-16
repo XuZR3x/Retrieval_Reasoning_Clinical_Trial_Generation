@@ -1,0 +1,343 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2020-0567",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Clofarabine Plus Fludarabine and Low-Dose Cytarabine in Patients With Refractory Acute Myeloid Leukemia.",
+    "official_title": "Phase II Randomized Study of Clofarabine Combined with Fludarabine and Low-Dose Cytarabine in Patients With Refractory Acute Myeloid Leukemia: A Multicenter Clinical Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "The Cancer Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pharmaceutical Innovations Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "The Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical research study aims to evaluate the efficacy and safety of clofarabine in combination with fludarabine and low-dose cytarabine in patients who have refractory acute myeloid leukemia (AML). The comprehensive approach seeks to enhance therapeutic response rates through a synergistic mechanism of action."
+    },
+    "detailed_description": {
+      "textblock": "Clofarabine is an established chemotherapy agent that disrupts DNA synthesis in cancer cells. This study builds upon previous findings indicating improved outcomes when clofarabine is combined with other agents. Fludarabine enhances the efficacy of clofarabine, while low-dose cytarabine contributes to overall cytotoxicity without exacerbating toxicity profiles.\n\nPatients will be recruited based on specific inclusion criteria, focusing on individuals aged 50 years or older with well-documented refractory AML. Participants will undergo thorough screening, including a comprehensive assessment of prior treatment regimens and disease progression. A total of 120 participants will be enrolled across multiple sites, enhancing the generalizability of the trial findings.\n\nThe intervention includes clofarabine administered intravenously at 30 mg/m² for 5 consecutive days, fludarabine at 30 mg/m² for 5 days, and low-dose cytarabine at 20 mg/m² for 7 days. Treatment cycles will be conducted every 4 weeks, with close monitoring of adverse events and dose-limiting toxicities.\n\nOutcomes will be meticulously assessed every cycle, utilizing established criteria for complete remission (CR), partial remission (PR), and overall response rate (ORR). Safety will be continuously monitored, with specific attention to hematological parameters and the incidence of serious adverse events. A robust follow-up protocol is integrated post-treatment to evaluate the long-term effects of the combined therapies."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2011",
+    "completion_date": "October 2016",
+    "primary_completion_date": "September 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (Complete and Partial Remission)",
+      "time_frame": "Primary response evaluated after 2 treatment cycles (approximately 8 weeks)",
+      "description": "The overall response rate is defined as the proportion of participants achieving either complete remission (CR) or partial remission (PR) as per International Working Group criteria."
+    },
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": ["Acute Myeloid Leukemia"],
+    "arm_group": [
+      {
+        "arm_group_label": "Clofarabine + Fludarabine + Low-Dose Ara-C",
+        "arm_group_type": "Experimental",
+        "description": "Clofarabine 30 mg/m² IV daily for 5 days + Fludarabine 30 mg/m² IV daily for 5 days + Low-Dose Ara-C 20 mg/m² IV daily for 7 days."
+      },
+      {
+        "arm_group_label": "Clofarabine Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Clofarabine 30 mg/m² IV daily for 5 days without additional agents."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clofarabine",
+        "description": "Administered intravenously at 30 mg/m² daily for 5 days.",
+        "arm_group_label": ["Clofarabine + Fludarabine + Low-Dose Ara-C", "Clofarabine Alone"],
+        "other_name": ["Clofarex", "Clolar"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fludarabine",
+        "description": "Administered intravenously at 30 mg/m² daily for 5 days.",
+        "arm_group_label": "Clofarabine + Fludarabine + Low-Dose Ara-C",
+        "other_name": ["Fludara", "Fludarabine Phosphate"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Low-Dose Cytarabine",
+        "description": "Administered intravenously at 20 mg/m² daily for 7 days.",
+        "arm_group_label": "Clofarabine + Fludarabine + Low-Dose Ara-C",
+        "other_name": ["Cytosar", "Cytarabine"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Confirmed diagnosis of refractory acute myeloid leukemia (AML).\n\n2. Patients aged 50 years or older.\n\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n\n4. Adequate organ function: liver enzymes (AST/ALT) ≤ 2.5 × upper limit of normal (ULN), total bilirubin ≤ 1.5 × ULN; creatinine clearance ≥ 30 mL/min.\n\n5. Written informed consent obtained from the participants. \n\nExclusion Criteria:\n\n1. Previous treatment with clofarabine.\n\n2. Central nervous system leukemia.\n\n3. History of severe allergic reactions to any study drugs.\n\n4. Prior solid organ transplant or stem cell transplantation.\n\n5. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "50 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Carter, MD",
+      "role": "Study Chair",
+      "affiliation": "The Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "The Cancer Institute",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62701",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2023",
+    "study_first_submitted": "October 12, 2010",
+    "study_first_submitted_qc": "October 12, 2010",
+    "study_first_posted": "October 15, 2010",
+    "results_first_submitted": "November 10, 2016",
+    "results_first_submitted_qc": "November 15, 2016",
+    "results_first_posted": "November 20, 2016",
+    "last_update_submitted": "December 22, 2023",
+    "last_update_submitted_qc": "December 22, 2023",
+    "last_update_posted": "January 5, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "The Cancer Institute",
+      "investigator_full_name": "Dr. Anna Mitchell",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": ["Clofarabine", "Fludarabine", "Low-Dose Cytarabine", "Refractory Acute Myeloid Leukemia", "AML", "Chemotherapy Regimen"],
+    "condition_browse": {
+      "mesh_term": ["Leukemia", "Leukemia, Myeloid", "Leukemia, Myeloid, Acute", "Leukemia, Refractory, Acute"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Clofarabine", "Fludarabine", "Low-Dose Cytarabine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Clofarabine + Fludarabine + Low-Dose Ara-C",
+              "description": "Clofarabine, fludarabine, and low-dose cytarabine as described."
+            },
+            {
+              "title": "Clofarabine Alone",
+              "description": "Clofarabine administered alone."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["Clofarabine + Fludarabine + Low-Dose Ara-C: 60", "Clofarabine Alone: 60"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["Clofarabine + Fludarabine + Low-Dose Ara-C: 50", "Clofarabine Alone: 54"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Clofarabine + Fludarabine + Low-Dose Ara-C: 10", "Clofarabine Alone: 6"]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Clofarabine + Fludarabine + Low-Dose Ara-C",
+              "description": "Combination regimen."
+            },
+            {
+              "title": "Clofarabine Alone",
+              "description": "Monotherapy regimen."
+            },
+            {
+              "title": "Total",
+              "description": "Total participants."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [60, 60, 120]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Response Rates",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Complete Remission",
+                        "measurement_list": {
+                          "measurement": [30, 15]
+                        }
+                      },
+                      {
+                        "title": "Partial Remission",
+                        "measurement_list": {
+                          "measurement": [20, 24]
+                        }
+                      },
+                      {
+                        "title": "Non-Responders",
+                        "measurement_list": {
+                          "measurement": [10, 21]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Overall Response Rate",
+          "description": "Measured as complete and partial responses according to predefined criteria.",
+          "time_frame": "Evaluated after every two cycles of treatment",
+          "group_list": {
+            "group": [
+              {
+                "title": "Clofarabine + Fludarabine + Low-Dose Ara-C",
+                "description": "Cumulative response rates calculated."
+              },
+              {
+                "title": "Clofarabine Alone",
+                "description": "Cumulative response rates calculated."
+              }
+            ]
+          },
+          "measure": {
+            "title": "Overall Response Rate",
+            "description": "Evaluated response rates between treatment arms.",
+            "units": "Participants",
+            "param": "Count of Participants",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [50, 39] // Example data
+                }
+              }
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Throughout the entire study period",
+        "group_list": {
+          "group": [
+            {
+              "title": "Clofarabine + Fludarabine + Low-Dose Ara-C",
+              "description": "Adverse events reported."
+            },
+            {
+              "title": "Clofarabine Alone",
+              "description": "Adverse events reported."
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "CTCAE (4.0)",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total, Serious Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, events reported",
+                  "counts": [5, 8]
+                }
+              }
+            },
+            {
+              "title": "Hematologic Disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Neutropenia",
+                    "counts": [10, 12]
+                  },
+                  {
+                    "sub_title": "Thrombocytopenia",
+                    "counts": [5, 7]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Infections",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Febrile Neutropenia",
+                    "counts": [6, 4]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

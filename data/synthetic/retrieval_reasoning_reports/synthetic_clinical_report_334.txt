@@ -1,0 +1,160 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04565234"
+    },
+    "id_info": {
+      "org_study_id": "OMZ123",
+      "nct_id": "NCT04565234"
+    },
+    "brief_title": "Long-Term Efficacy and Safety of Omalizumab in Patients With Chronic Allergic Asthma",
+    "acronym": "OMZ-ABA",
+    "official_title": "A Phase III, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Long-Term Efficacy and Safety of Omalizumab in Adult Patients With Chronic Allergic Asthma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Biopharma Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Biopharma Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the long-term efficacy and safety of omalizumab therapy in patients with chronic allergic asthma who are inadequately controlled with standard therapy."
+    },
+    "detailed_description": {
+      "textblock": "The trial investigates the impact of omalizumab on asthma-related clinical outcomes, including the rate of exacerbations, pulmonary function improvement, and quality of life enhancements. Patients meeting pre-defined criteria, including elevated serum IgE levels and prior inadequate response to high-dose inhaled corticosteroids, will receive subcutaneous omalizumab every two weeks over a period of 52 weeks."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "June 2022",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of asthma exacerbations per patient per year",
+      "time_frame": "52 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change from baseline in FEV1",
+        "time_frame": "52 weeks"
+      },
+      {
+        "measure": "Change from baseline in Asthma Control Questionnaire (ACQ) scores",
+        "time_frame": "52 weeks"
+      },
+      {
+        "measure": "Change from baseline in Allergy Quality of Life Questionnaire (AQLQ) scores",
+        "time_frame": "52 weeks"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "750",
+    "condition": "Chronic Allergic Asthma",
+    "arm_group": [
+      {
+        "arm_group_label": "Omalizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive subcutaneous injections of omalizumab every 2 weeks, adjusted based on weight and baseline IgE levels."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive matching placebo injections every 2 weeks, concurrently using optimized inhaled corticosteroids."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Omalizumab",
+        "description": "The dosage of omalizumab will be based on initial serum IgE concentrations and body weight, administered subcutaneously every two weeks.",
+        "arm_group_label": "Omalizumab",
+        "other_name": ["Xolair", "Anti-IgE Monoclonal Antibody"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n1. Adults aged 18-65 years. \n2. Documented history of chronic allergic asthma for at least 12 months. \n3. Serum IgE levels of 30-700 IU/mL at screening. \n4. Inadequate asthma control as defined by ACQ scores > 1.5 despite optimal treatment with inhaled corticosteroids.\n\nExclusion Criteria: \n1. History of hypereosinophilia or anaphylaxis to omalizumab. \n2. Active malignancy or uncontrolled comorbid conditions. \n3. Recent respiratory infections 6 weeks prior to enrollment.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Emily H. Carter, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Department of Pulmonary Medicine, Springfield Medical Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Springfield Medical Center",
+          "address": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Downtown Allergy & Asthma Clinic",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metro Health Medical Center",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2022",
+    "study_first_submitted": "January 15, 2021",
+    "study_first_submitted_qc": "January 18, 2021",
+    "study_first_posted": "January 20, 2021",
+    "last_update_submitted": "August 5, 2022",
+    "last_update_submitted_qc": "August 6, 2022",
+    "last_update_posted": "August 10, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Omalizumab", "Chronic Allergic Asthma", "IgE"],
+    "condition_browse": {
+      "mesh_term": "Asthma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Omalizumab"
+    }
+  }
+}
+```

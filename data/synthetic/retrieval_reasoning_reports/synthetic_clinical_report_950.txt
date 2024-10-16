@@ -1,0 +1,228 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03245678"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2021-00345",
+      "nct_id": "NCT03245678"
+    },
+    "brief_title": "Phase II Trial of Intrathecal Pertuzumab Combined with Systemic Chemotherapy in Patients with HER2-Positive Recurrent Breast Cancer",
+    "official_title": "A Phase II, Open-Label Study of Intrathecal Pertuzumab in Combination with Chemotherapy for Patients with HER2-Positive Breast Cancer and Symptoms from CNS Metastases",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II trial aims to evaluate the safety and efficacy of intrathecal administration of pertuzumab in combination with systemic chemotherapy in patients with HER2-positive recurrent breast cancer who exhibit central nervous system (CNS) metastases."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the safety profile and tolerability of intrathecal pertuzumab when administered in conjunction with systemic chemotherapy.\n\nII. To evaluate the overall response rate (ORR) defined by RECIST criteria in participants experiencing CNS involvement.\n\nThe study will employ a 3+3 dose escalation design, wherein patients will receive intravenous chemotherapy alongside varying doses of intrathecal pertuzumab. The efficacy will be evaluated through imaging assessments every six weeks.\n\nThe primary outcome measure will be the occurrence of adverse events, assessed weekly, with a focus on neurological and systemic adverse reactions. Secondary outcomes include progression-free survival (PFS) and overall survival (OS)."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate patient enrollment due to stringent eligibility criteria and significant treatment-related toxicities",
+    "start_date": "June 1, 2021",
+    "completion_date": "December 15, 2022",
+    "primary_completion_date": "August 15, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Safety as assessed by the frequency and severity of treatment-related adverse events",
+      "time_frame": "From baseline up to 24 weeks",
+      "description": "Adverse events were monitored for severity and relationship to treatment utilizing CTCAE criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR) as defined by RECIST criteria",
+        "time_frame": "Every 6 weeks until documented disease progression",
+        "description": "Response rates measured by imaging evaluations (MRI and CT scans) to quantify tumor reduction or stability."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "The duration from treatment initiation to disease progression or death",
+        "description": "Progression-free survival assessed at 3-month intervals through imaging assessments."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From the date of treatment initiation until death from any cause",
+        "description": "Overall survival duration will be monitored throughout the study period."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "2",
+    "condition": ["HER2 Positive Recurrent Breast Cancer", "CNS Metastases"],
+    "arm_group": {
+      "arm_group_label": "Intrathecal Pertuzumab with Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive escalating doses of intrathecal pertuzumab alongside systemic chemotherapy administered intravenously."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pertuzumab",
+        "description": "Administered intrathecally in escalating doses via lumbar puncture with systemic chemotherapy.",
+        "arm_group_label": "Intrathecal Pertuzumab with Chemotherapy",
+        "other_name": ["Perjeta"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Systemic Chemotherapy",
+        "description": "Chemotherapy regimen will be administered in conjunction with intrathecal pertuzumab.",
+        "arm_group_label": "Intrathecal Pertuzumab with Chemotherapy",
+        "other_name": ["Chemotherapeutic agents"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients must have a confirmed diagnosis of HER2-positive recurrent breast cancer with CNS metastasis.\n- Must have received at least one prior systemic chemotherapy treatment.\n- Performance status of ECOG 0-2.\n- Adequate hematologic and organ function parameters.\n\nExclusion Criteria:\n\n- Uncontrolled systemic diseases or active infections.\n- History of significant non-hematologic toxicity related to prior therapies.\n- Patients with previous severe adverse effects to HER2-targeted therapies.\n- Patients who have undergone recent CNS-directed therapies (radiotherapy or surgery) fewer than 6 weeks prior to screening."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2023",
+    "study_first_submitted": "April 2, 2021",
+    "study_first_posted": "April 5, 2021",
+    "last_update_posted": "March 2, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Intrathecal Pertuzumab with Chemotherapy",
+            "description": "The study was designed to monitor the safety and efficacy following intrathecal pertuzumab delivery and concurrent chemotherapy."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "Inadequate patient enrollment led to trial termination."
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Intrathecal Pertuzumab with Chemotherapy",
+            "description": "Included patients with documented HER2-positive metastatic breast cancer."
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Safety Profile Assessment",
+            "time_frame": "From baseline up to 24 weeks",
+            "group_list": {
+              "group": {
+                "title": "Intrathecal Pertuzumab with Chemotherapy",
+                "description": "The combination observed significant adverse events, including severe gastrointestinal and neurological symptoms."
+              }
+            },
+            "measure": {
+              "title": "Frequency of Treatment-Related Adverse Events",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Response Rate (ORR)",
+            "time_frame": "Every 6 weeks until documented disease progression",
+            "group_list": {
+              "group": {
+                "title": "Intrathecal Pertuzumab with Chemotherapy",
+                "description": "The mixed cohort exhibited a variety of response rates hindered by treatment-related toxicities."
+              }
+            },
+            "measure": {
+              "title": "Overall Response Rates",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

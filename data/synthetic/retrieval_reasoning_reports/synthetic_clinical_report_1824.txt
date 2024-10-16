@@ -1,0 +1,169 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "BIV-2023",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Bivalirudin in High-Risk Percutaneous Coronary Interventions",
+    "official_title": "A Multicenter Randomized Controlled Trial Evaluating the Efficacy and Safety of Bivalirudin as an Anticoagulant in High-Risk Patients Undergoing Percutaneous Coronary Intervention",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Cardiology Research Foundation",
+        "agency_class": "Other"
+      }
+    },
+    "source": "International Cardiology Research Foundation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study explores the pharmacokinetics and safety profile of bivalirudin administered to high-risk patients undergoing percutaneous coronary interventions (PCI). The study aims to gauge its effectiveness compared to unfractionated heparin (UFH) in this particular patient group."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "December 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Composite of Major Adverse Cardiac Events (MACE)",
+      "time_frame": "30 days",
+      "description": "The composite outcome included all-cause death, myocardial infarction, urgent revascularization, and stroke."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of bleeding events",
+        "time_frame": "30 days",
+        "description": "Comparison of major and minor bleeding events as defined by the BARC bleeding classification."
+      },
+      {
+        "measure": "Quality of life (QoL) assessment",
+        "time_frame": "6 months",
+        "description": "QoL measurement using the EQ-5D scale."
+      }
+    ],
+    "enrollment": "1500",
+    "condition": "Acute Coronary Syndrome, High-Risk PCI",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "bivalirudin",
+      "description": "Administered as a bolus of 0.75 mg/kg IV followed by a continuous infusion of 1.75 mg/kg/h during the procedure and an extended infusion of 0.2 mg/kg/h for 4 hours post-procedure.",
+      "other_name": "Angiomax"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18–80 years with acute coronary syndrome who are deemed high-risk for complications during PCI.\n- Provide written informed consent.\n\nExclusion Criteria:\n- History of major bleeding events within 30 days.\n- Estimated glomerular filtration rate < 30 mL/min.\n- Known hypersensitivity to bivalirudin or its components.\n- Significant coagulopathy or active malignancy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "December 12, 2020",
+    "study_first_submitted_qc": "December 15, 2020",
+    "study_first_posted": "January 2, 2021",
+    "last_update_submitted": "January 30, 2024",
+    "last_update_posted": "February 1, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["bivalirudin", "percutaneous coronary intervention", "acute coronary syndrome", "anticoagulation"],
+    "intervention_browse": {
+      "mesh_term": "Bivalirudin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients were enrolled from January 2021 to December 2023 at 20 centers across various countries, ensuring diverse representation.",
+        "pre_assignment_details": "A total of 1500 participants were randomized in a 1:1 ratio to receive either bivalirudin or UFH."
+      },
+      "baseline": {
+        "population": "Baseline characteristics were well balanced between both groups with respect to age, sex, and prevalence of comorbid conditions.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bivalirudin Group",
+              "description": "Participants receiving bivalirudin as per the study's protocol."
+            },
+            {
+              "title": "UFH Group",
+              "description": "Participants receiving standard unfractionated heparin according to hospital protocols."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Composite of Major Adverse Cardiac Events (MACE)",
+            "description": "The number of participants who experienced MACE within 30 days.",
+            "time_frame": "30 days",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bivalirudin Group",
+                  "description": "Lower incidence of MACE observed compared to UFH."
+                },
+                {
+                  "title": "UFH Group",
+                  "description": "Higher incidence of MACE, supporting the efficacy of bivalirudin."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Bleeding Events",
+            "description": "Comparison of bleeding events between groups.",
+            "time_frame": "30 days",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bivalirudin Group",
+                  "description": "Significantly fewer major bleeding events compared to UFH."
+                },
+                {
+                  "title": "UFH Group",
+                  "description": "Higher rates of major bleeding events recorded."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Quality of Life Assessment",
+            "description": "Improvement in QoL scores at 6 months confirmed the clinical benefit of bivalirudin.",
+            "time_frame": "6 months",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bivalirudin Group",
+                  "description": "Demonstrated improved QoL compared to UFH, suggesting better recovery."
+                },
+                {
+                  "title": "UFH Group",
+                  "description": "No significant improvement observed."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

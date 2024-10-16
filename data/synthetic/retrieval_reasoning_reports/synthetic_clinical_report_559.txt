@@ -1,0 +1,135 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "NIN-2021-00634",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Efficacy and Safety of Nintedanib With Standard Therapy in Advanced Idiopathic Pulmonary Fibrosis",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Phase III Study of Nintedanib in Combination With Standard Treatment for Patients With Advanced Idiopathic Pulmonary Fibrosis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Boehringer Ingelheim",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Boehringer Ingelheim",
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and safety of nintedanib combined with standard therapies for the treatment of patients with advanced Idiopathic Pulmonary Fibrosis (IPF)."
+    },
+    "overall_status": "Terminated",
+    "start_date": "August 2020",
+    "completion_date": "November 2023",
+    "primary_completion_date": "August 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in Progression-Free Survival (PFS) at Week 24",
+      "time_frame": "At week 24",
+      "description": "PFS was defined as the time from randomization until disease progression or death from any cause. A minimal clinically important difference was set at three months."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in SGRQ Total Score at Week 24",
+        "time_frame": "Baseline and week 24",
+        "description": "The SGRQ is a validated measure of health status related to impaired lung function. A change of 4 units was deemed clinically meaningful."
+      },
+      {
+        "measure": "Incidence of Serious Adverse Events (SAEs)",
+        "time_frame": "From baseline to week 24",
+        "description": "The occurrence of SAEs related to treatment will be recorded."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "310",
+    "condition": "Idiopathic Pulmonary Fibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Nintedanib + Placebo",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive nintedanib 150 mg twice daily in addition to standard therapy."
+      },
+      {
+        "arm_group_label": "Nintedanib + Standard Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive nintedanib 150 mg twice daily with standard therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nintedanib",
+        "description": "Taken orally, twice daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": "Nintedanib + Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed idiopathic pulmonary fibrosis.\n- Advanced lung function impairment defined as a Forced Vital Capacity (FVC) < 70% predicted.\n- Written informed consent provided.\nExclusion Criteria:\n- Prior systemic therapy for IPF.\n- Known hypersensitivity to nintedanib or other components of the formulation.\n- Significant cardiovascular disease."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Sarah Hughes",
+      "role": "Principal Investigator",
+      "affiliation": "Boehringer Ingelheim"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "UCLA Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90095",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21224",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2023",
+    "study_first_submitted": "July 15, 2020",
+    "study_first_posted": "July 20, 2020",
+    "results_first_submitted": "September 15, 2023",
+    "results_first_posted": "September 20, 2023",
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "Boehringer Ingelheim acknowledges the right of investigators to publish the results."
+    },
+    "limitations_and_caveats": "The trial was discontinued due to the failure of nintedanib to demonstrate sufficient efficacy in improving progression-free survival, highlighted by the inability to meet prespecified clinical significance criteria. The complexity introduced by polypharmacy and high incidence of adverse events further contributed to recruitment challenges and the overall adverse risk-benefit assessment."
+  }
+}
+```

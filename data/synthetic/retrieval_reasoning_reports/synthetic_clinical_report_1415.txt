@@ -1,0 +1,165 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03765431"
+    },
+    "id_info": {
+      "org_study_id": "CLN000123",
+      "nct_id": "NCT03765431"
+    },
+    "brief_title": "A Multicenter, Randomized, Placebo-Controlled Trial of Exenatide in Patients With Type 2 Diabetes and Cardiovascular Risk Factors",
+    "official_title": "A Multicenter, Randomized, Placebo-Controlled Trial to Assess the Efficacy of Exenatide on Cardiovascular Biomarkers and Metabolic Profile in Patients With Type 2 Diabetes and Elevated Cardiovascular Risk",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute, University Hospital",
+        "agency_class": "Other"
+      },
+      "collaborator": [
+        {
+          "agency": "Pharmaceutical Inc.",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "Cardiovascular Research Institute, University Hospital",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The objective of this study is to evaluate the impact of exenatide treatment on cardiovascular markers and metabolic health in a cohort of patients with type 2 diabetes and increased cardiovascular risk. However, achieving adequate recruitment and controlling confounding factors were major challenges faced during the trial."
+    },
+    "detailed_description": {
+      "textblock": "Patients with type 2 diabetes and existing cardiovascular risk factors were recruited across multiple centers. This randomized, placebo-controlled trial aimed to monitor the efficacy of exenatide over a period of 24 weeks in improving metabolic parameters, including HbA1c, blood pressure, and lipid profiles. Despite initial data supporting exenatide's cardiovascular benefits, the trial faced considerable challenges:\r\n\r\n1. **Insufficient Patient Recruitment**: Planning for a cohort of 200 participants, the trial struggled to enroll even half of that number due to competing studies and reluctance from prospective participants. The insufficient patient pool led to early termination and inability to conduct robust statistical analyses.\r\n\r\n2. **Incomplete Control for Confounding Variables**: The concurrent medication use and other comorbidities among enrolled participants complicated the data interpretation. Particularly, variations in the types and duration of previous antidiabetic therapies created a heterogeneous group that blunted the measured impacts of exenatide.\r\n\r\n3. **Adverse Effects Compromising Tolerance**: Notably high incidences of nausea, vomiting, and gastrointestinal discomfort were reported amongst participants receiving exenatide, leading to premature discontinuation of treatment for some. These adverse effects not only influenced tolerance but led to difficulties in compliance, thus compromising the trial's validity.\r\n\r\n4. **Lack of Dose Optimization**: Fixed dosing protocols were employed (5 mcg for the initial 4 weeks, followed by 10 mcg for the remaining period). The lack of flexibility in dose adjustment depending on the patient response to therapy further affected outcomes, particularly among patients with varying sensitivity to the drug.\r\n\r\n5. **Short Study Duration**: Finally, the 24-week duration for assessing cardiovascular outcomes may not have captured the delayed effects of exenatide treatment, as cardiovascular adaptations or metabolic responses often require prolonged observation.\r\n\r\nIn conclusion, while exenatide has potential benefits for patients with type 2 diabetes and cardiovascular risk, this study underscores that logistical challenges, uncontrolled variables, dose rigidity, and the necessity for two longer-duration assessments must be addressed in future trials."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and failure to control confounding variables.",
+    "start_date": "January 2018",
+    "completion_date": "September 2020",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Cardiovascular Biomarkers Compared to Baseline at 24 Weeks",
+      "time_frame": "24 weeks",
+      "description": "Evaluate the change in LDL cholesterol and triglycerides."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Changes in HbA1c Levels",
+        "time_frame": "24 weeks",
+        "description": "Evaluate changes in HbA1c levels from baseline."
+      },
+      {
+        "measure": "Changes in Blood Pressure",
+        "time_frame": "24 weeks",
+        "description": "Evaluate changes in systolic and diastolic blood pressure."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout study duration",
+        "description": "Monitor and report any adverse events throughout the trial."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "76",
+    "condition": "Type 2 Diabetes Mellitus, Cardiovascular Risk",
+    "arm_group": [
+      {
+        "arm_group_label": "Exenatide Arm",
+        "arm_group_type": "Experimental",
+        "description": "This arm will receive 5 mcg exenatide for 4 weeks, and then 10 mcg exenatide for the remaining 20 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Arm",
+        "arm_group_type": "Placebo Comparator",
+        "description": "This arm will receive placebo injection (volume equivalent to the exenatide injection in the experimental arm)."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "exenatide",
+        "description": "Subcutaneous injection, 5 mcg or 10 mcg, twice daily",
+        "arm_group_label": "Exenatide Arm",
+        "other_name": ["Byetta", "AC2993"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "Subcutaneous injection, volume equivalent to active, twice daily",
+        "arm_group_label": "Placebo Arm"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Type 2 diabetes diagnosed at least 6 months prior.\r\n- Aged between 30 to 75 years.\r\n- BMI of 25 to 35 kg/m2 and stable weight in the last 3 months.\r\n- HbA1c from 6.5% to 9.0%.\r\n\r\nExclusion Criteria:\r\n- Patients with a history of pancreatitis.\r\n- Patients who have undergone bariatric surgery.\r\n- Current treatment with insulin or GLP-1 receptor agonists.\r\n- Uncontrolled cardiovascular disease or severe renal impairment."
+      },
+      "gender": "All",
+      "minimum_age": "30 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Jennifer S. Miller, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Cardiovascular Research Institute, University Hospital"
+      }
+    ],
+    "location": {
+      "facility": [
+        {
+          "name": "Cardiovascular Research Institute, University Hospital",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        },
+        {
+          "name": "Washington Cardiovascular Research Center",
+          "address": {
+            "city": "Seattle",
+            "state": "Washington",
+            "zip": "98101",
+            "country": "United States"
+          }
+        }
+      ]
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "January 10, 2017",
+    "study_first_submitted_qc": "January 10, 2017",
+    "study_first_posted": "January 15, 2017",
+    "results_first_submitted": "April 20, 2020",
+    "results_first_submitted_qc": "April 20, 2020",
+    "results_first_posted": "May 15, 2020",
+    "last_update_submitted": "August 18, 2020",
+    "last_update_posted": "September 01, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["exenatide", "type 2 diabetes", "cardiovascular risk", "metabolism", "biomarkers"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Type 2 Diabetes Mellitus", "Cardiovascular Diseases"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Exenatide"
+    }
+  }
+}
+```

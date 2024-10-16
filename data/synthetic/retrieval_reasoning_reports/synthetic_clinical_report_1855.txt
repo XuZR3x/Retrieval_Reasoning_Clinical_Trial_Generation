@@ -1,0 +1,306 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on November 2, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03018737"
+    },
+    "id_info": {
+      "org_study_id": "CMB-2225",
+      "nct_id": "NCT03018737"
+    },
+    "brief_title": "Evaluating Palbociclib in Combination with Letrozole in HR+ HER2-Negative Metastatic Breast Cancer",
+    "official_title": "A Phase 3, Randomized, Double-Blind Study of Palbociclib in Combination with Letrozole for Patients with Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiff Oncology Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Cardiff Oncology Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aims to validate the efficacy and safety of palbociclib administered alongside letrozole in a specific patient demographic with hormone receptor-positive, HER2-negative metastatic breast cancer. The study will enhance understanding of the combined therapeutic impact on controlling disease progression in this well-defined patient cohort."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, randomized, double-blind, placebo-controlled trial encompasses rigorous methodologies aiming to evaluate the safety and therapeutic efficacy of palbociclib, coupled with the standard endocrine treatment for patients who have previously shown progression on traditional therapies. The study explicitly targets individuals presenting with hormone receptor-positive, HER2-negative metastatic breast cancer, an area that has demonstrated a clear unmet need for effective therapeutic strategies."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 5, 2016",
+    "completion_date": "August 18, 2023",
+    "primary_completion_date": "June 20, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization to date of first documentation of disease progression or death (up to 36 months)",
+      "description": "The primary outcome metric to determine efficacy where PFS is defined as the duration from randomization until the first recorded instance of clinical or radiological progression of the disease."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization until death (up to 5 years)",
+        "description": "Assessment of the time from randomization until the date of death for any reason."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "From the initiation of treatment through the end of the treatment period (up to 2 years)",
+        "description": "Monitoring and recording any treatment-related adverse events (AEs) to establish the safety profile of palbociclib when administered with letrozole."
+      },
+      {
+        "measure": "Quality of Life Metrics",
+        "time_frame": "Baseline, 3 months, 6 months, and every 6 months thereafter (up to 2 years)",
+        "description": "Evaluation of patient-reported quality of life through validated instruments to ensure comprehensive assessment of well-being throughout the treatment process."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "672",
+    "condition": "Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A",
+        "arm_group_type": "Experimental",
+        "description": "Palbociclib administered at 125 mg orally on days 1-21 of 28-day cycles, in combination with letrozole 2.5 mg daily."
+      },
+      {
+        "arm_group_label": "Arm B",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo combined with letrozole 2.5 mg daily, administered similarly."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Palbociclib",
+        "description": "Dosage of 125 mg orally daily during the first 21 days of each 28-day cycle.",
+        "arm_group_label": "Arm A"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Letrozole",
+        "description": "Continuous administration of 2.5 mg orally once daily.",
+        "arm_group_label": ["Arm A", "Arm B"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo to be administered orally daily for the first 21 days of each 28-day cycle.",
+        "arm_group_label": "Arm B"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adult females aged 18 years and older with histologically confirmed hormone receptor-positive, HER2-negative metastatic breast cancer.\r\n\r\n  - Must have experienced progression on previous endocrine therapy with or without chemotherapy.\r\n\r\n  - Patients must have measurable disease as per RECIST 1.1 criteria.\r\n\r\n  - Adequate organ function and performance status (ECOG PS 0-1).\r\n\r\nExclusion Criteria:\r\n\r\n  - Previous treatment with a CDK inhibitor or currently receiving investigational therapies.\r\n\r\n  - Significant cardiovascular diseases or other serious underlying conditions.\r\n\r\n  - Pregnant or breastfeeding women.\r\n\r\n  - Any major surgery or radiation therapy within 4 weeks prior to randomization."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sophia Chen",
+      "role": "Lead Investigator",
+      "affiliation": "Cardiff Oncology Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "UCLA Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90095",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "Australia"]
+    },
+    "verification_date": "October 2024",
+    "study_first_submitted": "January 10, 2016",
+    "study_first_submitted_qc": "January 15, 2016",
+    "study_first_posted": "January 18, 2016",
+    "results_first_submitted": "July 10, 2023",
+    "results_first_submitted_qc": "July 12, 2023",
+    "results_first_posted": "July 15, 2023",
+    "last_update_submitted": "October 20, 2024",
+    "last_update_posted": "October 22, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": [
+      "Palbociclib",
+      "Hormone Receptor Positive Breast Cancer",
+      "Endocrine Resistance",
+      "CDK4/6 Inhibitor"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Palbociclib",
+        "Letrozole"
+      ]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes"
+    },
+    "provided_document_section": {
+      "provided_document": {
+        "document_type": "Study Protocol and Statistical Analysis Plan",
+        "document_has_protocol": "Yes",
+        "document_has_icf": "No",
+        "document_has_sap": "Yes",
+        "document_date": "April 2022",
+        "document_url": "https://cdn.clinicaltrials.gov/large-docs/123/NCT03018737/Protocol_SAP.pdf"
+      }
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Palbociclib + Letrozole",
+            "description": "Combined arm receiving palbociclib and letrozole."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "Completed Treatment",
+                  "participants_list": {
+                    "participants": "Evaluable participants completed treatment according to protocol guidelines."
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Physician Decision",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "population": "This analysis includes all enrolled participants randomized to treatment.",
+          "group_list": {
+            "group": {
+              "title": "Palbociclib + Letrozole",
+              "description": "Study cohort receiving palbociclib with concurrent endocrine therapy."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "PFS assessed based on the interval from randomization until disease progression or death.",
+              "time_frame": "Up to 36 months",
+              "population": "Intention-to-treat (ITT) population."
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival (OS)",
+              "description": "Time from randomization until the occurrence of death from any cause.",
+              "time_frame": "Up to 5 years",
+              "population": "ITT population."
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "From treatment initiation until 30 days post-treatment completion.",
+          "desc": "The frequency of treatment-emergent adverse events, with expected data management routines in place to derive clear safety profiles.",
+          "group_list": {
+            "group": {
+              "title": "Palbociclib + Letrozole",
+              "description": "Evaluating the impact of both drugs in unison."
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,145 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03485691"
+    },
+    "id_info": {
+      "org_study_id": "HU-001",
+      "nct_id": "NCT03485691"
+    },
+    "brief_title": "Efficacy of Hydroxyurea in Patients with Rheumatoid Arthritis",
+    "official_title": "A Phase 2 Study to Evaluate the Efficacy and Safety of Hydroxyurea in the Treatment of Patients with Active Rheumatoid Arthritis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Rheumatoid arthritis (RA) is a chronic inflammatory disorder characterized by the synovial inflammation and joint damage. Previous studies suggest that hydroxyurea, due to its immunomodulatory properties, could provide symptomatic relief in RA patients. This study aimed to assess the safety and efficacy of hydroxyurea in a population diagnosed with active RA."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of clinical benefit (interim analysis)",
+    "start_date": "March 2018",
+    "primary_completion_date": "July 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in DAS28 score after 12 weeks of treatment",
+      "time_frame": "12 weeks"
+    },
+    "secondary_outcome": {
+      "measure": "Assessment of safety through laboratory values and side effects",
+      "time_frame": "12 weeks"
+    },
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": "Rheumatoid Arthritis",
+    "arm_group": [
+      {
+        "arm_group_label": "Hydroxyurea",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Hydroxyurea",
+        "description": "Starting dose at 500 mg/day, with potential escalation to 1000 mg/day based on tolerance",
+        "arm_group_label": "Hydroxyurea"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo doses mimicking the hydroxyurea regimen",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Diagnosis of active Rheumatoid Arthritis (RA) as per ACR criteria\r\n  -  Age 18-75 years\r\n  -  Signed informed consent\r\n\r\nExclusion Criteria:\r\n\r\n  -  Known hypersensitivity to hydroxyurea\r\n  -  Previous treatment with biologic disease-modifying anti-rheumatic drugs (DMARDs) within 3 months\r\n  -  Presence of severe comorbidities that may confound efficacy assessment\r\n  -  Pregnancy or lactation\r\n  -  Known history of malignancy",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University of California, San Francisco Medical Center",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_posted": "February 20, 2018",
+    "last_update_submitted": "August 27, 2021",
+    "last_update_posted": "September 1, 2021",
+    "responsible_party": {
+      "name_title": "Dr. Robert Greene",
+      "organization": "UCSF Department of Rheumatology"
+    },
+    "condition_browse": {
+      "mesh_term": ["Rheumatoid Arthritis", "Arthritis"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Hydroxyurea"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Hydroxyurea",
+            "description": "Patients treated with hydroxyurea, assessed for changes in disease activity score."
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "12 weeks",
+        "group_list": {
+          "group": {
+            "title": "Hydroxyurea",
+            "description": "Assessing adverse events including cytopenias and gastrointestinal symptoms."
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "DAS28 Score Reduction",
+          "description": "Evaluation of the primary measure of efficacy via DAS28 score changes.",
+          "time_frame": "Measured at baseline and after 12 weeks"
+        }
+      }
+    }
+  }
+}
+```

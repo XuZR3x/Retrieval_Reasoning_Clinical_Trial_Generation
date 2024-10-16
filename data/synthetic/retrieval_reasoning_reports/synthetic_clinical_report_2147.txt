@@ -1,0 +1,261 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "TRIAL-2021-045",
+      "secondary_id": ["STUDY-22", "TRIAL-C-7"]
+    },
+    "brief_title": "Combination Chemotherapy and Filgrastim in Elderly Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study Evaluating the Safety and Efficacy of Combined Chemotherapy and Filgrastim in Elderly Patients with Stage IIIB or IV Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "overall_status": "Terminated",
+    "why_stopped": "Low enrollment numbers, high toxicity rates",
+    "start_date": "January 2021",
+    "completion_date": "June 2023",
+    "primary_completion_date": "March 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "12 weeks post-treatment initiation"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Throughout the study duration"
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "Measured at baseline, 6 weeks, and 12 weeks"
+      }
+    ],
+    "enrollment": "15",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Chemotherapy with Filgrastim",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive carboplatin and paclitaxel chemotherapy combined with filgrastim support."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "filgrastim",
+        "description": "5 mcg/kg subcutaneously starting 24 hours after chemotherapy administration, continued daily until blood counts recover"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "carboplatin",
+        "description": "Area under the curve (AUC) of 5-6 IV on day 1"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "paclitaxel",
+        "description": "175 mg/m2 IV on day 1"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Histologically confirmed stage IIIB or IV non-small cell lung cancer.\r\n  - Patients 65 years of age or older.\r\n  - ECOG performance status 0-2.\r\n  - Adequate renal function defined as creatinine clearance of >= 40 mL/min.\r\n\r\nExclusion Criteria:\r\n\r\n  - Known hypersensitivity to paclitaxel or carboplatin.\r\n  - History of other malignancies within the last 5 years.\r\n  - Active infections requiring treatment.\r\n  - Patients with significant cardiac comorbidities."
+      },
+      "gender": "All",
+      "minimum_age": "65 Years",
+      "maximum_age": "Not Applicable",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas H. Toulemonde, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "October 10, 2020",
+    "study_first_submitted_qc": "October 10, 2020",
+    "study_first_posted": "October 20, 2020",
+    "last_update_submitted": "April 1, 2023",
+    "last_update_posted": "April 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Cancer Institute",
+      "investigator_full_name": "Thomas H. Toulemonde"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients were enrolled from the National Cancer Institute and surrounding clinics.",
+        "pre_assignment_details": "Out of 40 patients assessed for eligibility, 15 were enrolled. 25 were excluded due to comorbid conditions or failure to meet inclusion criteria."
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Chemotherapy with Filgrastim",
+            "description": "Patients receive carboplatin and paclitaxel chemotherapy combined with filgrastim support."
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "<=65 years", "measurement_list": {"measurement": null}},
+                      {"title": "Between 66 and 75 years", "measurement_list": {"measurement": null}},
+                      {"title": ">=76 years", "measurement_list": {"measurement": null}}
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "Female", "measurement_list": {"measurement": null}},
+                      {"title": "Male", "measurement_list": {"measurement": null}}
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate",
+            "time_frame": "12 weeks post-treatment initiation",
+            "population": "No data were collected or analyzed due to premature termination",
+            "group_list": {
+              "group": {
+                "title": "Chemotherapy with Filgrastim",
+                "description": "Patients receive carboplatin and paclitaxel chemotherapy combined with filgrastim support."
+              }
+            },
+            "measure": {
+              "title": "Overall Response Rate",
+              "population": "Response not assessed due to patient withdrawal from the study",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {"count": null}
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Toxicity Profile",
+            "time_frame": "Throughout the study duration",
+            "population": "Evaluated in all enrolled participants",
+            "group_list": {
+              "group": {
+                "title": "Chemotherapy with Filgrastim",
+                "description": "Patients receive carboplatin and paclitaxel chemotherapy combined with filgrastim support."
+              }
+            },
+            "measure": {
+              "title": "Toxicity Profile",
+              "population": "Significant adverse events recorded led to discontinuation.",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {"count": null}
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout the study duration",
+        "group_list": {
+          "group": {
+            "title": "Chemotherapy with Filgrastim",
+            "description": "Patients receive carboplatin and paclitaxel chemotherapy combined with filgrastim support."
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE (4.0)",
+            "default_assessment": "Non-systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {"event": [{"sub_title": "Total, all-cause mortality", "counts": "2"}, {"sub_title": "Total, serious adverse events", "counts": "8"}]}
+                },
+                {
+                  "title": "Hematological disorders",
+                  "event_list": {
+                    "event": [
+                      {"sub_title": "Febrile neutropenia", "counts": "4"},
+                      {"sub_title": "Thrombocytopenia", "counts": "3"}
+                    ]
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": [{"sub_title": "Nausea", "counts": "5"}, {"sub_title": "Vomiting", "counts": "4"}]
+                  }
+                },
+                {
+                  "title": "Infections and infestations",
+                  "event_list": {
+                    "event": [{"sub_title": "Sepsis", "counts": "2"}]
+                  }
+                },
+                {
+                  "title": "Cardiac disorders",
+                  "event_list": {
+                    "event": [{"sub_title": "Arrhythmia", "counts": "1"}]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

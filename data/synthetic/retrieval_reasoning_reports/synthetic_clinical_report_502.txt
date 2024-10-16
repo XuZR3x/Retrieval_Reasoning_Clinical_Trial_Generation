@@ -1,0 +1,169 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03634567"
+    },
+    "id_info": {
+      "org_study_id": "DARE-ONC-2020",
+      "nct_id": "NCT03634567"
+    },
+    "brief_title": "Doxorubicin in Combination With Targeted Therapy for Patients With Metastatic Triple-Negative Breast Cancer",
+    "official_title": "A Phase II Randomized Controlled Study Evaluating the Efficacy of Doxorubicin in Combination With Pembrolizumab or Azacitidine in Patients with Metastatic Triple-Negative Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Genentech, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Genentech, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II trial will assess the efficacy and safety of doxorubicin combined with pembrolizumab or azacitidine in patients diagnosed with metastatic triple-negative breast cancer (TNBC). A total of 200 participants will be randomized to receive either doxorubicin plus pembrolizumab or doxorubicin plus azacitidine. The study is designed to examine overall survival (OS), progression-free survival (PFS), and response rates as per RECIST criteria, alongside comprehensive safety assessments throughout the treatment regimen."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 10, 2018",
+    "completion_date": "September 15, 2023",
+    "primary_completion_date": "March 1, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From randomization until death from any cause, up to 3 years.",
+      "description": "The primary endpoint will evaluate overall survival rates, measured as the time from randomization to any cause of death."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization until disease progression or death, assessed up to 3 years.",
+        "description": "Defined as the time from randomization to first documentation of disease progression or death from any cause."
+      },
+      {
+        "measure": "Response Rate (RR)",
+        "time_frame": "Approximately every 8 weeks until disease progression, assessed up to 3 years.",
+        "description": "Measured using the Response Evaluation Criteria in Solid Tumors (RECIST) criteria."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Up to 3 years post-randomization.",
+        "description": "Adverse events will be recorded and categorized according to the NCI Common Terminology Criteria for Adverse Events (CTCAE), version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Breast Cancer, Triple-Negative",
+    "arm_group": [
+      {
+        "arm_group_label": "Doxorubicin + Pembrolizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive intravenous doxorubicin (60 mg/m²) on Day 1 combined with pembrolizumab (200 mg) on Day 1 of each 3-week cycle for up to 6 cycles."
+      },
+      {
+        "arm_group_label": "Doxorubicin + Azacitidine",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive intravenous doxorubicin (60 mg/m²) on Day 1 combined with azacitidine (75 mg/m²) subcutaneously on Days 1 to 5 of each 4-week cycle for up to 6 cycles."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Doxorubicin",
+        "description": "Administered at 60 mg/m² as an intravenous infusion on Day 1 of each treatment cycle.",
+        "arm_group_label": ["Doxorubicin + Pembrolizumab", "Doxorubicin + Azacitidine"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Administered at 200 mg as an intravenous infusion on Day 1 of each 3-week cycle.",
+        "arm_group_label": "Doxorubicin + Pembrolizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Azacitidine",
+        "description": "Administered at 75 mg/m² subcutaneously on Days 1 to 5 of each 4-week cycle.",
+        "arm_group_label": "Doxorubicin + Azacitidine"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Histologically confirmed metastatic triple-negative breast cancer (TNBC).\r\n  -  No prior chemotherapy for metastatic disease and at least one measurable lesion.\r\n  -  ECOG performance status 0-1.\r\n  -  Adequate organ function as determined by standard laboratory tests.\r\n  -  Age ≥ 18 years.\r\n  -  Informed consent signed.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Prior treatment with doxorubicin or other anthracyclines.\r\n  -  Ongoing immunotherapy or radiation therapy within 28 days before study initiation.\r\n  -  Active central nervous system metastases.\r\n  -  History of other malignancies within 5 years (excluding non-melanoma skin cancers).\r\n  -  Major cardiac disease, significantly impaired left ventricular ejection fraction (LVEF <50%)."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Rebecca Parker, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Genentech, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Genentech Clinical Site A",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94107",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Genentech Clinical Site B",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "February 13, 2018",
+    "study_first_submitted_qc": "February 14, 2018",
+    "study_first_posted": "February 16, 2018",
+    "last_update_submitted": "August 2, 2023",
+    "last_update_submitted_qc": "August 2, 2023",
+    "last_update_posted": "August 3, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Doxorubicin",
+      "Breast Cancer",
+      "Triple-Negative",
+      "Pembrolizumab",
+      "Azacitidine",
+      "Combination Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Doxorubicin",
+        "Pembrolizumab",
+        "Azacitidine"
+      ]
+    }
+  }
+}
+```

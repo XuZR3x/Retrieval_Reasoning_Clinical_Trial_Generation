@@ -1,0 +1,131 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03045678"
+    },
+    "id_info": {
+      "org_study_id": "ECL-201",
+      "nct_id": "NCT03045678"
+    },
+    "brief_title": "Efficacy of Eculizumab in Prevention of Acute Antibody-Mediated Rejection in Kidney Transplants",
+    "official_title": "A Phase 2, Randomized, Open-label Study Evaluating the Efficacy and Safety of Eculizumab in Preventing Acute Antibody-Mediated Rejection in Highly Sensitized Kidney Transplant Recipients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Clinical Trials, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Clinical Trials, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to determine the efficacy and safety of eculizumab for the prevention of acute antibody-mediated rejection in highly sensitized patients undergoing kidney transplantation."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective of this trial was to assess the efficacy of eculizumab in reducing the incidence of acute antibody-mediated rejection in kidney transplant recipients with a high level of pre-existing donor-specific antibodies. The dosing regimen followed an investigational protocol with an initial bolus of 1200 mg of eculizumab prior to transplant and 900 mg at 24 hours post-transplant.\n\nThis single-center study utilized a control group receiving standard desensitization therapy, including plasmapheresis and IVIg. A total of 100 patients were enrolled after screening for eligibility criteria. Despite the scientific rationale, no statistically significant difference in the primary endpoint of acute rejection rates was observed at the 12-week follow-up.\n\nNotably, many participants in the control arm received concurrent therapies which likely influenced the outcomes. Furthermore, variability in individual responses to eculizumab was observed, exacerbating interpretative challenges in efficacy assessment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Did not achieve statistical significance for primary outcome; confounding factors contributed to trial failure.",
+    "start_date": "July 1, 2015",
+    "completion_date": "March 15, 2018",
+    "primary_completion_date": "January 30, 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Acute Antibody-Mediated Rejection",
+      "time_frame": "12 weeks post-transplantation",
+      "description": "The primary endpoint measured the occurrence of biopsy-proven acute antibody-mediated rejection within 12 weeks following transplantation."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Graft Function as Measured by Serum Creatinine Levels",
+        "time_frame": "up to 12 weeks",
+        "description": "Assessment of renal function was conducted through serum creatinine levels, with evaluation of eGFR as a secondary endpoint."
+      },
+      {
+        "measure": "Need for Additional Desensitization Procedures",
+        "time_frame": "up to 12 weeks",
+        "description": "Determination of whether additional desensitization interventions were required in eculizumab recipients compared to the control group."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": "Kidney Transplantation",
+    "arm_group": [
+      {
+        "arm_group_label": "Eculizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients received 1200 mg of eculizumab intravenously prior to transplantation and 900 mg at 24 hours post-operatively."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "No Intervention",
+        "description": "Patients received standard care therapies for desensitization including plasmapheresis and intravenous immunoglobulin."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Eculizumab",
+      "description": "Administered via IV infusion to prevent acute antibody-mediated rejection."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 years or older.\n2. Highly sensitized kidney transplant candidates (positive crossmatch).\n3. Donor-specific antibodies present.\n4. Consent to participate in the study.\n\nExclusion Criteria:\n\n1. Prior kidney transplant.\n2. Significant pre-existing comorbidities that affect study outcomes.\n3. Participation in other clinical trials within the past 30 days."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Clinical Trials, Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Medical Center",
+        "address": {
+          "city": "Anytown",
+          "state": "California",
+          "zip": "90210",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "March 2020",
+    "study_first_submitted": "May 1, 2015",
+    "study_first_submitted_qc": "May 2, 2015",
+    "study_first_posted": "May 5, 2015",
+    "last_update_submitted": "March 10, 2020",
+    "last_update_posted": "April 1, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "XYZ Clinical Trials, Inc."
+    },
+    "keyword": ["Eculizumab", "Kidney Transplant", "Antibody-Mediated Rejection", "Desensitization"],
+    "limitations_and_caveats": "The lack of blinding and observer bias raised concerns about the validity of the outcome assessments. High interindividual variability further diminished the study's power to detect a significant treatment effect, emphasizing the need for a robust and well-controlled trial design.",
+    "point_of_contact": {
+      "name_or_title": "Clinical Trial Coordinator",
+      "organization": "XYZ Clinical Trials, Inc.",
+      "email": "info@xyzclinicaltrials.com"
+    }
+  }
+}
+```

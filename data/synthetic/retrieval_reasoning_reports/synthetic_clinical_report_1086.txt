@@ -1,0 +1,417 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02012345"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2014-00730",
+      "secondary_id": ["CDR0000654321", "N01CA200003", "U10CA026253"],
+      "nct_id": "NCT02012345"
+    },
+    "brief_title": "Vorinostat in Combination With Gemcitabine for Patients With Advanced Pancreatic Adenocarcinoma",
+    "official_title": "A Phase II Study of Vorinostat Administered in Combination With Gemcitabine in Patients With Advanced Pancreatic Adenocarcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial investigates the efficacy of vorinostat in combination with gemcitabine for treating patients with advanced pancreatic adenocarcinoma. Vorinostat is a histone deacetylase inhibitor that may enhance the antitumor effects of gemcitabine."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVE:\r\n\r\nI. Determine the objective response rate (ORR) in patients with advanced pancreatic adenocarcinoma treated with vorinostat in combination with gemcitabine.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. Evaluate progression-free survival (PFS) and overall survival (OS) in this cohort. II. Assess the safety profile and adverse event rate associated with the combination therapy. III. Explore the relationship between treatment response and potential biomarkers of efficacy, including tumor expression of HDACs. IV. Determine the pharmacokinetic properties of this combination therapy.\r\n\r\nOUTLINE: This is a multicenter, single-arm study.\r\n\r\nPatients receive vorinostat orally once daily on days 1-14 in conjunction with gemcitabine administered intravenously on days 1, 8, and 15 of a 28-day cycle. Treatment continues until disease progression or unacceptable toxicity occurs."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate response rate and safety concerns",
+    "start_date": "April 2014",
+    "completion_date": "October 2016",
+    "primary_completion_date": "April 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate Assessed by Response Evaluation Criteria in Solid Tumors (RECIST 1.1)",
+      "time_frame": "Up to 6 months",
+      "description": "The ORR will be calculated by the number of complete (CR) and partial responses (PR) observed among the total number of evaluable patients."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the start of treatment until disease progression or death (up to 5 years)"
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From the start of treatment until death due to any cause (up to 5 years)"
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study"
+      },
+      {
+        "measure": "Tumor Expression of HDACs",
+        "time_frame": "At baseline and post-treatment"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "35",
+    "condition": [
+      "Advanced Pancreatic Adenocarcinoma",
+      "Stage IV Pancreatic Cancer"
+    ],
+    "arm_group": {
+      "arm_group_label": "Arm I",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive vorinostat orally once daily in combination with gemcitabine intravenously."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vorinostat",
+        "description": "Patients will receive vorinostat orally once daily on days 1-14 of each 28-day cycle. Treatment may repeat every 28 days for as long as benefit is shown.",
+        "other_name": ["SAHA", "Zolinza"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "description": "Patients will receive gemcitabine intravenously on days 1, 8, and 15 of each 28-day cycle.",
+        "other_name": ["Gemzar"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed pancreatic adenocarcinoma with locally advanced or metastatic disease.\r\n- No prior systemic therapy for advanced disease.\r\n- Age >= 18 years; ECOG performance status of 0-2.\r\n- Clinically active disease with measurable lesions.\r\n- Adequate hematological, hepatic, and renal function.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with HDAC inhibitors including vorinostat.\r\n- History of severe allergic reactions to gemcitabine or vorinostat.\r\n- Active infection or other serious concurrent medical conditions.\r\n- Pregnant or nursing women; unwillingness to utilize contraception."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emma Fielding",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of Maryland Greenebaum Comprehensive Cancer Center",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21201",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "February 10, 2014",
+    "study_first_posted": "February 12, 2014",
+    "results_first_submitted": "October 1, 2016",
+    "results_first_posted": "October 15, 2016",
+    "last_update_posted": "January 29, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Pancreatic Neoplasms", "Adenocarcinoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Vorinostat", "Gemcitabine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Arm I",
+            "description": "Patients received vorinostat and gemcitabine treatment."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Arm I",
+              "description": "Patients received vorinostat and gemcitabine treatment."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Full Range",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Objective Response Rate",
+            "description": "Objective response rate was defined as CR + PR according to RECIST criteria.",
+            "time_frame": "6 months",
+            "group_list": {
+              "group": {
+                "title": "Arm I",
+                "description": "Combined treatment group of vorinostat and gemcitabine."
+              }
+            },
+            "measure": {
+              "title": "Objective Response Rate",
+              "description": "Measured by RECIST, where CR = complete response, PR = partial response.",
+              "units": "percentage of patients",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              },
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events Profile",
+            "description": "Examined incidence of adverse events leading to treatment cessation.",
+            "time_frame": "Throughout the study",
+            "group_list": {
+              "group": {
+                "title": "Arm I",
+                "description": "Combined treatment group of vorinostat and gemcitabine."
+              }
+            },
+            "measure": {
+              "title": "Adverse Events Profile",
+              "description": "Categorizes the frequency of adverse events reported during treatment.",
+              "units": "Count of events",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Arm I",
+            "description": "Patients received combination treatment of vorinostat and gemcitabine."
+          }
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Hematologic Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Thrombocytopenia",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Infections",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Fever and neutropenia",
+                    "counts": null
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Fatigue",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Fatigue",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Dermatologic Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Rash",
+                    "counts": null
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The sponsor can review results communications prior to public release and may embargo communications regarding trial results for a period of less than or equal to 60 days."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Lane Peterson",
+        "organization": "Johns Hopkins University",
+        "phone": "(410) 555-1234",
+        "email": "lane.peterson@jhmi.edu"
+      }
+    }
+  }
+}
+```

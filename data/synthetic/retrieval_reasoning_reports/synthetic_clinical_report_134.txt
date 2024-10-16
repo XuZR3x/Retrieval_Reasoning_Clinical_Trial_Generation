@@ -1,0 +1,142 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03942546"
+    },
+    "id_info": {
+      "org_study_id": "FT-301",
+      "nct_id": "NCT03942546"
+    },
+    "brief_title": "Randomized Phase III Study of Fulvestrant with Targeted Therapy in Hormone Receptor Positive Metastatic Breast Cancer",
+    "acronym": "TARGET",
+    "official_title": "A Phase III Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Fulvestrant in Combination with a PI3K Inhibitor Versus Fulvestrant with Placebo in Postmenopausal Women with Hormone-Receptor Positive Metastatic Breast Cancer Following Aromatase Inhibitor Resistance",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Institute",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the efficacy of fulvestrant in combination with a PI3K inhibitor versus fulvestrant with placebo in postmenopausal women diagnosed with hormone receptor-positive metastatic breast cancer displaying resistance to prior aromatase inhibitor therapy."
+    },
+    "detailed_description": {
+      "textblock": "Hormone receptor-positive metastatic breast cancer is a prevalent form of malignancy impacting postmenopausal women, and the manifestation of resistance following aromatase inhibitor therapy compromises treatment success. The innovative design of this phase III clinical trial systematically addresses this treatment gap by incorporating a dual-agent regimen combining fulvestrant, a potent selective estrogen receptor down-regulator (SERD), with a targeted PI3K inhibitor, thus broadening the therapeutic targeting of mechanistic resistance pathways.\n\nLeveraging a randomized, double-blind methodology, this trial engaged 1,200 participants across multiple centers. The participants were stratified based on baseline characteristics, particularly focusing on PI3K mutation status to identify populations benefiting the most from the combined treatment. This enhances the reliability of efficacy assessments, which will yield substantial insights into patient demographics affected by resistant breast cancer. \n\nThe fulvestrant mechanism of action presents a notable advancement over traditional hormonal therapies, as it exhibits enhanced affinity towards estrogen receptors, effectively inhibiting ER-mediated cell growth and tumor proliferation in resistant populations. The anticipated synergistic effects of pairing fulvestrant with a PI3K pathway inhibitor are poised to enable significant clinical benefits such as improved progression-free survival (PFS) rates.\n\nFurthermore, the defined endpoints of the trial included a comprehensive evaluation of clinical benefit rates, objective response rates, and overall survival analysis, utilizing robust longitudinal follow-up mechanisms to track disease response and assess adverse effects. This systematic approach is paramount in establishing the long-term efficacy and safety profile of this dual therapeutic regimen in established metastatic breast cancer treatment pathways."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 1, 2019",
+    "completion_date": "October 30, 2023",
+    "primary_completion_date": "June 15, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization until documented disease progression or death from any cause, assessed up to 36 months",
+      "description": "Progression-free survival was defined as the time from randomization until the first documented progression based on RECIST criteria 1.1 or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Every 3 months during the treatment period, assessed for approximately 5 years",
+        "description": "Overall survival was determined based on survival analysis from the date of randomization to the date of death from any cause."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "Every 12 weeks for the duration of the treatment, up to 36 months",
+        "description": "Clinical benefit rate was measured as the percentage of patients achieving complete response (CR), partial response (PR), or stable disease (SD) lasting at least 6 months."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Every 12 weeks during the treatment period, assessed for approximately 5 years",
+        "description": "Objective response rate is defined as the percentage of patients achieving a best overall response of CR or PR."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1200",
+    "condition": "Hormone Receptor Positive Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Fulvestrant + PI3K Inhibitor",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive Fulvestrant (500 mg intramuscular injection once monthly) plus a daily PI3K inhibitor."
+      },
+      {
+        "arm_group_label": "Fulvestrant + Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive Fulvestrant (500 mg intramuscular injection once monthly) plus matching placebo."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fulvestrant",
+        "description": "Fulvestrant 500 mg administered intramuscularly on Day 1 of each cycle, followed by a dose on Day 15 of Cycle 1 and Day 1 of subsequent cycles.",
+        "arm_group_label": ["Fulvestrant + PI3K Inhibitor", "Fulvestrant + Placebo"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "PI3K Inhibitor",
+        "description": "An investigational oral PI3K inhibitor administered daily for the duration of the treatment protocol.",
+        "arm_group_label": "Fulvestrant + PI3K Inhibitor"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo to the investigational PI3K inhibitor, administered daily for the duration of the treatment protocol.",
+        "arm_group_label": "Fulvestrant + Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  1. Histologically confirmed hormone receptor-positive breast cancer.\n\n  2. Postmenopausal women aged 18 years or older.\n\n  3. Progression of disease during or following prior aromatase inhibitor therapy.\n\n  4. Measurable disease per RECIST v1.1 criteria.\n\nExclusion Criteria:\n\n  1. Prior treatment with fulvestrant or any PI3K inhibitor.\n\n  2. Concurrent malignancies or other serious medical conditions that may interfere with trial participation.\n\n  3. Active infections or serious coagulopathy.\n\n  4. Prior major surgery or treatment with investigational agents within 4 weeks prior to enrollment.",
+        "gender": "Female",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Sarah Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Research Institute",
+          "address": {
+            "city": "Columbus",
+            "state": "Ohio",
+            "zip": "43210",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "contact_info": {
+      "name_or_title": "Dr. Sarah Johnson",
+      "organization": "Oncology Research Institute",
+      "phone": "614-555-0145",
+      "email": "sjohnson@oncolresinst.org"
+    }
+  }
+}
+```

@@ -1,0 +1,394 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03952867"
+    },
+    "id_info": {
+      "org_study_id": "CINC424B2015",
+      "nct_id": "NCT03952867"
+    },
+    "brief_title": "An Open-Label, Randomized Study of Ruxolitinib in Patients With Refractory and Intolerant Myeloproliferative Neoplasms",
+    "official_title": "A Multicenter, Open-Label, Randomized Study to Evaluate the Efficacy and Safety of Ruxolitinib in Subjects With Myelofibrosis (MF) or Other JAK2 Mutated Myeloproliferative Neoplasms Following Hydroxyurea Failure or Intolerance",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Incyte Corporation",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Incyte Corporation",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of ruxolitinib in individuals with myeloproliferative neoplasms (MPNs) resistant or intolerant to hydroxyurea. It utilized an open-label design to facilitate real-world data collection and reflect a diverse patient population's responses."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 15, 2019",
+    "completion_date": "March 22, 2021",
+    "primary_completion_date": "February 5, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Spleen Volume from Baseline to 24 Weeks",
+      "time_frame": "Baseline, 24 weeks",
+      "description": "Measurement of spleen volume reduction in patients receiving ruxolitinib therapy."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Improvement in Symptom Score as Measured by Myelofibrosis Symptom Assessment Form (MFSAF) v2.0",
+        "time_frame": "24 weeks",
+        "description": "Evaluation of symptom changes in patients using the MFSAF during treatment."
+      },
+      {
+        "measure": "Proportion of Patients Achieving a Hematocrit Level Below 45%",
+        "time_frame": "Baseline, 24 weeks",
+        "description": "Assessment of the rate of patients achieving optimal hematocrit levels post-treatment."
+      },
+      {
+        "measure": "Patient-Reported Quality of Life as per EORTC QLQ-C30",
+        "time_frame": "Baseline, 24 weeks",
+        "description": "Assessment of changes in the overall quality of life and health status of patients."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Myeloproliferative Neoplasms",
+    "arm_group": [
+      {
+        "arm_group_label": "Ruxolitinib Treatment",
+        "arm_group_type": "Experimental",
+        "description": "Patients randomized to receive ruxolitinib initiated at a dose of 10 mg twice daily, adjusted based on response and tolerability."
+      },
+      {
+        "arm_group_label": "Control Group (Standard Care)",
+        "arm_group_type": "Control",
+        "description": "Patients receiving standard supportive care without the use of investigational drugs."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Ruxolitinib",
+      "description": "Orally administered drug targeting JAK1/JAK2 pathways."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n - Age ≥ 18 years with a confirmed diagnosis of MF or other JAK2 mutated MPN.\r\n - Patients must have demonstrated resistance or intolerance to hydroxyurea therapy.\r\n - ECOG performance status of 0-2.\r\n\r\nExclusion Criteria:\r\n\r\n - Previous treatment with ruxolitinib.\r\n - Major uncontrolled medical condition or infection.\r\n - Significant hepatic or renal dysfunction."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Medical Director",
+      "affiliation": "Incyte Corporation"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Incyte Investigative Site",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Incyte Investigative Site",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60612",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "April 4, 2019",
+    "study_first_submitted_qc": "April 5, 2019",
+    "study_first_posted": "April 8, 2019",
+    "results_first_submitted": "March 3, 2021",
+    "results_first_submitted_qc": "March 10, 2021",
+    "results_first_posted": "March 15, 2021",
+    "last_update_submitted": "March 10, 2021",
+    "last_update_submitted_qc": "March 10, 2021",
+    "last_update_posted": "April 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Myelofibrosis",
+      "Hydroxyurea Resistance",
+      "Ruxolitinib",
+      "JAK Inhibitor"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Myeloproliferative Neoplasms",
+        "Myelofibrosis"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "250 patients were screened, with 240 participants included in the study post-enrollment criteria evaluation.",
+        "group_list": {
+          "group": {
+            "title": "All Participants",
+            "description": "Participants were randomized equally into two groups: treatment with ruxolitinib or control."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Disease Progression",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Participant",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Ruxolitinib",
+              "description": "Patients receiving ruxolitinib were started on 10 mg BID."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Demographic Information",
+                "units": "participants",
+                "param": "Count",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Change in Spleen Volume from Baseline to 24 Weeks",
+              "description": "Measurement of spleen volume reduction in patients treated with ruxolitinib.",
+              "time_frame": "Baseline, 24 weeks",
+              "group_list": {
+                "group": {
+                  "title": "Ruxolitinib Treatment",
+                  "description": "Ruxolitinib was administered 10 mg BID."
+                }
+              },
+              "measure": {
+                "title": "Change in Spleen Volume",
+                "units": "cm^3",
+                "param": "Mean change",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Patient-Reported Quality of Life as per EORTC QLQ-C30",
+              "description": "Assessment of quality of life improvements over 24 weeks.",
+              "time_frame": "Baseline, 24 weeks",
+              "group_list": {
+                "group": {
+                  "title": "Ruxolitinib Treatment",
+                  "description": "Ruxolitinib was administered 10 mg BID."
+                }
+              },
+              "measure": {
+                "title": "Quality of Life Score",
+                "units": "Score",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Safety assessments were collected throughout the study period.",
+          "group_list": {
+            "group": {
+              "title": "Ruxolitinib Group",
+              "description": "Ruxolitinib was administered at a starting dose of 10 mg BID."
+            }
+          },
+          "serious_events": {
+            "default_vocab": "MedDRA",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Total, serious adverse events",
+                        "counts": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Infections and infestations",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Pneumonia",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Diarrhea",
+                        "counts": null
+                      },
+                      {
+                        "sub_title": "Nausea",
+                        "counts": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_vocab": "MedDRA",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": null
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "Novartis does not prohibit any investigator from publishing."
+        },
+        "point_of_contact": {
+          "name_or_title": "Clinical Trials Office",
+          "organization": "Incyte Corporation",
+          "phone": "1-855-463-3463",
+          "email": "clinicaltrials@incyte.com"
+        }
+      }
+    }
+  }
+}
+```

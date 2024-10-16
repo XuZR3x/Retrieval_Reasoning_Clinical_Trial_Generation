@@ -1,0 +1,251 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "210-999",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Evaluation of the Efficacy and Safety of Eszopiclone in Adults With Comorbid Insomnia and Depression",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy and Safety of Eszopiclone in Adults With Comorbid Insomnia and Major Depression",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "NeuroSleep Research Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "NeuroSleep Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of eszopiclone in improving sleep quality and reducing depressive symptoms in adults diagnosed with both insomnia and major depressive disorder."
+    },
+    "detailed_description": {
+      "textblock": "The study is a well-structured, randomized, double-blind, placebo-controlled trial involving approximately 600 participants diagnosed with comorbid insomnia and major depression. After an initial screening phase, eligible individuals will be randomized to receive either eszopiclone 3 mg or a matching placebo nightly for a duration of 12 weeks. The primary hypothesis posits that eszopiclone, compared to placebo, will significantly improve both subjective sleep measures and depressive symptoms by the trial's conclusion.\n\nOutcomes will be assessed using validated tools, including the Insomnia Severity Index (ISI) and the Hamilton Depression Rating Scale (HDRS), allowing for a comprehensive understanding of treatment efficacy. Additionally, actigraphy will be employed to gather objective data on sleep patterns, thus addressing biases often associated with self-reported measures. Through the integration of various demographic profiles, the study aims to ensure robust data collection that can be generalized to a broader population afflicted with these conditions.\n\nThis trial particularly emphasizes the significance of closely monitored dosing regimens and patient adherence, facilitated by follow-up assessments at weeks 4, 8, and 12. Review of participant safety data will be undertaken to identify any adverse events related to treatment, ensuring a thorough risk-benefit analysis throughout the study."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "June 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": [{
+      "measure": "Change in Insomnia Severity Index (ISI) Scores",
+      "time_frame": "12 weeks",
+      "description": "The ISI is a brief subjective instrument for assessing insomnia severity, with total scores ranging from 0 (no insomnia) to 28 (severe insomnia)."
+    }],
+    "secondary_outcome": [{
+      "measure": "Change in Hamilton Depression Rating Scale (HDRS) Scores",
+      "time_frame": "12 weeks",
+      "description": "The HDRS is a well-validated measure used to assess depressive symptoms, where lower scores indicate less severe depression."
+    }, {
+      "measure": "Change in Objective Sleep Parameters Measured by Actigraphy",
+      "time_frame": "12 weeks",
+      "description": "Total sleep time, sleep latency, and wake after sleep onset will be collected using actigraphy."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "600",
+    "condition": ["Depression", "Insomnia"],
+    "arm_group": [{
+      "arm_group_label": "A",
+      "arm_group_type": "Experimental",
+      "description": "Participants receive eszopiclone 3 mg nightly for 12 weeks."
+    }, {
+      "arm_group_label": "B",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants receive a matching placebo nightly for 12 weeks."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Eszopiclone",
+      "description": "Eszopiclone 3 mg tablet once a night.",
+      "arm_group_label": "A"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "description": "Matching placebo tablet once a night.",
+      "arm_group_label": "B"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18-65 years with a diagnosis of major depressive disorder and comorbid insomnia (reported insomnia for at least 3 months prior to screening).\n- A score of 15 or higher on the Hamilton Depression Rating Scale (HDRS).\n- Insomnia Severity Index score of 15 or greater.\n\nExclusion Criteria:\n- Current diagnosis of bipolar disorder, schizophrenia, or other significant psychiatric disorder.\n- Recent history of substance abuse or dependence.\n- Significant medical conditions that may interfere with sleep or study evaluation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica L. Morgan, PhD",
+      "role": "Principal Investigator",
+      "affiliation": "NeuroSleep Research Group"
+    },
+    "location": [{
+      "facility": {
+        "name": "NeuroSleep Research Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94107",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "September 1, 2020",
+    "study_first_submitted_qc": "September 2, 2020",
+    "study_first_posted": "October 10, 2020",
+    "results_first_submitted": "August 15, 2023",
+    "results_first_submitted_qc": "August 16, 2023",
+    "results_first_posted": "August 30, 2023",
+    "last_update_submitted": "July 1, 2024",
+    "last_update_submitted_qc": "July 2, 2024",
+    "last_update_posted": "August 1, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Insomnia", "Depression", "Eszopiclone", "Clinical Trial", "Efficacy"],
+    "condition_browse": {
+      "mesh_term": ["Sleep Initiation and Maintenance Disorders", "Depression"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Eszopiclone"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+            "title": "Eszopiclone 3 mg",
+            "description": "Participants receiving eszopiclone."
+          }, {
+            "title": "Placebo",
+            "description": "Participants receiving placebo."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+            "title": "Eszopiclone 3 mg",
+            "description": "Participants receiving eszopiclone."
+          }, {
+            "title": "Placebo",
+            "description": "Participants receiving placebo."
+          }]
+        },
+        "measure_list": {
+          "measure": [{
+            "title": "Insomnia Severity Index (ISI)",
+            "units": "Total Score (0-28)",
+            "param": "Mean",
+            "dispersion": "Standard Deviation"
+          }, {
+            "title": "Hamilton Depression Rating Scale (HDRS)",
+            "units": "Total Score (0-68)",
+            "param": "Mean",
+            "dispersion": "Standard Deviation"
+          }]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Change in ISI Scores",
+          "description": "The change in ISI scores from baseline to week 12, assessing severity of insomnia.",
+          "time_frame": "12 weeks"
+        }, {
+          "type": "Secondary",
+          "title": "Change in HDRS Scores",
+          "description": "The change in HDRS scores from baseline to week 12, evaluating depressive symptoms.",
+          "time_frame": "12 weeks"
+        }]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [{
+            "title": "Eszopiclone 3 mg",
+            "description": "Participants receiving eszopiclone."
+          }, {
+            "title": "Placebo",
+            "description": "Participants receiving placebo."
+          }],
+          "total_events": {
+            "serious_events": {
+              "category_list": {
+                "category": {
+                  "title": "Total Serious Adverse Events",
+                  "event_list": {
+                    "event": [{
+                      "sub_title": "Total Adverse Events",
+                      "counts": [null, null]
+                    }]
+                  }
+                }
+              },
+              "other_events": {
+                "frequency_threshold": "2",
+                "category_list": {
+                  "category": {
+                    "title": "Total Other Adverse Events",
+                    "event_list": {
+                      "event": [{
+                        "sub_title": "Headache",
+                        "counts": [null, null]
+                      }, {
+                        "sub_title": "Dizziness",
+                        "counts": [null, null]
+                      }]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+          "restrictive_agreement": "No restrictive agreements exist that limit the publication of results."
+        }
+      }
+    }
+  }
+}
+```

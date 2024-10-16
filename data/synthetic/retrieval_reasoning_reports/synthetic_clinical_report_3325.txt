@@ -1,0 +1,122 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02576283"
+    },
+    "id_info": {
+      "org_study_id": "OS-2025-Influenza",
+      "nct_id": "NCT02576283"
+    },
+    "brief_title": "Efficacy of Oseltamivir in Patients with Severe Influenza and Comorbidities",
+    "official_title": "A Phase 3, Randomized, Open-label, Multi-center Trial Assessing the Efficacy of Standard Dose Oseltamivir (75 mg bid) in Patients with Severe Influenza Infections and Underlying Comorbidities",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Research Institute",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Hoffmann-La Roche",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the effectiveness of oseltamivir in a population of patients with severe influenza and concomitant chronic health conditions. The focus was on understanding treatment impact on viral load, duration of hospitalization, and patient survival, especially in the context of viral resistance and the pharmacokinetic profile of oseltamivir."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and high rates of viral resistance observed.",
+    "start_date": "May 2018",
+    "completion_date": "November 2020",
+    "primary_completion_date": "October 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Open Label"
+    },
+    "primary_outcome": {
+      "measure": "Negative RT-PCR for influenza viral RNA at Day 5 post-treatment",
+      "time_frame": "Day 5 post-treatment assessment"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Time to clinical recovery (time to symptom resolution)",
+        "time_frame": "Up to 14 days post-treatment initiation"
+      },
+      {
+        "measure": "Assessment of adverse events related to oseltamivir therapy",
+        "time_frame": "During hospitalization"
+      },
+      {
+        "measure": "Pharmacokinetics: serum levels of oseltamivir and oseltamivir carboxylate",
+        "time_frame": "Days 1, 5, and 10 post-treatment commencement"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "43",
+    "condition": "Influenza A Virus with Comorbidities",
+    "arm_group": [
+      {
+        "arm_group_label": "Oseltamivir Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received oseltamivir 75 mg orally twice daily for 10 days."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Oseltamivir",
+      "description": "Oseltamivir 75 mg administered bid orally for a maximum of 10 days.",
+      "arm_group_label": ["Oseltamivir Treatment Group"],
+      "other_name": "Tamiflu"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Adults aged 18 years and older with laboratory-confirmed influenza A infection.\r\n2. Presence of at least one chronic health condition (e.g., diabetes, COPD, hypertension).\r\n3. Symptoms onset within the last 48 hours.\r\n4. Signed informed consent for participation.\r\n\r\nExclusion Criteria:\r\n\r\n1. Known hypersensitivity to oseltamivir.\r\n2. Patients who have received antiviral treatment prior to enrollment.\r\n3. Patients with severe renal impairment (creatinine clearance <30 mL/min).\r\n4. Currently hospitalized patients with respiratory failure requiring mechanical ventilation.\r\n5. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Rohan Patel, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Research Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "City General Hospital",
+        "address": {
+          "city": "Metro City",
+          "state": "Example State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "April 1, 2018",
+    "study_first_submitted_qc": "April 2, 2018",
+    "study_first_posted": "April 5, 2018",
+    "last_update_submitted": "January 15, 2021",
+    "last_update_submitted_qc": "January 15, 2021",
+    "last_update_posted": "January 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": "Severe Influenza, Oseltamivir, Viral Resistance"
+  }
+}
+```

@@ -1,0 +1,410 @@
+{"clinical_study": {
+  "required_header": {
+    "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+    "link_text": "Link to the current ClinicalTrials.gov record.",
+    "url": "https://clinicaltrials.gov/ct2/show/NCT02757634"
+  },
+  "id_info": {
+    "org_study_id": "CA209-292",
+    "secondary_id": "2015-003356-18",
+    "nct_id": "NCT02757634"
+  },
+  "brief_title": "Phase 2 Study of Nivolumab Plus Ipilimumab in First-line Treatment of Advanced Non-Small Cell Lung Cancer",
+  "acronym": "CheckMate 292",
+  "official_title": "An Open-Label, Phase 2 Study of Nivolumab (BMS-936558) in Combination with Ipilimumab in Patients with Untreated Advanced Non-Small Cell Lung Cancer (NSCLC)",
+  "sponsors": {
+    "lead_sponsor": {
+      "agency": "Bristol-Myers Squibb",
+      "agency_class": "Industry"
+    }
+  },
+  "source": "Bristol-Myers Squibb",
+  "oversight_info": {
+    "has_dmc": "Yes",
+    "is_fda_regulated_drug": "Yes",
+    "is_fda_regulated_device": "No"
+  },
+  "brief_summary": {
+    "textblock": "This study aims to evaluate the efficacy and safety of nivolumab in combination with ipilimumab in patients with untreated advanced non-small cell lung cancer. The primary endpoint is overall survival, emphasizing the positive respiratory outcomes expected from this innovative combination therapy."
+  },
+  "overall_status": "Completed",
+  "start_date": "April 15, 2016",
+  "completion_date": "September 15, 2021",
+  "primary_completion_date": "August 30, 2019",
+  "phase": "Phase 2",
+  "study_type": "Interventional",
+  "has_expanded_access": "No",
+  "study_design_info": {
+    "allocation": "Non-randomized",
+    "intervention_model": "Single Group Assignment",
+    "primary_purpose": "Treatment",
+    "masking": "None (Open Label)"
+  },
+  "primary_outcome": {
+    "measure": "Overall Survival (OS)",
+    "time_frame": "From date of first dose to date of death (up to approximately 54 months)",
+    "description": "OS is defined as the time from the first dose of study drug until death from any cause. Kaplan-Meier methods will be employed to estimate OS."
+  },
+  "secondary_outcome": [
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From date of treatment initiation to disease progression or death (up to approximately 54 months)",
+      "description": "PFS will be assessed using RECIST 1.1 criteria, determined by the time from randomization to the first documented clinical progression or death."
+    },
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "From initiation of treatment to objective progression or discontinuation of study drug (up to approximately 54 months)",
+      "description": "ORR is defined as the proportion of patients achieving a complete or partial response as determined by the investigator according to RECIST 1.1."
+    }
+  ],
+  "number_of_arms": "1",
+  "enrollment": "50",
+  "condition": "Advanced Non-Small Cell Lung Cancer",
+  "arm_group": [
+    {
+      "arm_group_label": "Experimental: Nivolumab + Ipilimumab",
+      "arm_group_type": "Experimental",
+      "description": "Participants in this arm received Nivolumab 3 mg/kg intravenously every 2 weeks in combination with Ipilimumab 1 mg/kg intravenously every 3 weeks for a total of 6 doses followed by Nivolumab maintenance therapy."
+    }
+  ],
+  "intervention": [
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Nivolumab",
+      "arm_group_label": "Experimental: Nivolumab + Ipilimumab",
+      "other_name": "Opdivo, BMS-936558"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Ipilimumab",
+      "arm_group_label": "Experimental: Nivolumab + Ipilimumab",
+      "other_name": "Yervoy"
+    }
+  ],
+  "eligibility": {
+    "criteria": {
+      "textblock": "Inclusion Criteria:\r\n\r\n  - Histologically or cytologically confirmed stage IV non-small cell lung cancer (NSCLC) or recurrent disease with no prior systemic treatment.\r\n  - Measurable disease per RECIST v1.1.\r\n  - ECOG performance status 0 or 1.\r\n  - Adequate organ function as measured by standard laboratory tests.\r\n  - Patients must be willing to provide archived tumor tissue for biomarker analysis.\r\n\r\nExclusion Criteria:\r\n\r\n  - Active autoimmune disease requiring systemic treatment.\r\n  - History of interstitial lung disease.\r\n  - Prior treatment with anti-PD-1, anti-PD-L1, or anti-CTLA-4 agents."
+    },
+    "gender": "All",
+    "minimum_age": "18 Years",
+    "maximum_age": "N/A",
+    "healthy_volunteers": "No"
+  },
+  "overall_official": {
+    "last_name": "Harold J. Kim",
+    "role": "Principal Investigator",
+    "affiliation": "Bristol-Myers Squibb"
+  },
+  "location": [
+    {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21218",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "Mayo Clinic",
+        "address": {
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "Cleveland Clinic",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "Massachusetts General Hospital",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States"
+        }
+      }
+    }
+  ],
+  "location_countries": {
+    "country": [
+      "United States"
+    ]
+  },
+  "link": [
+    {
+      "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html",
+      "description": "BMS Clinical Trial Information"
+    },
+    {
+      "url": "https://www.bmsstudyconnect.com/s/US/English/USenHome",
+      "description": "BMS Clinical Trial Patient Recruiting"
+    },
+    {
+      "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html",
+      "description": "Investigator Inquiry Form"
+    }
+  ],
+  "verification_date": "October 2021",
+  "study_first_submitted": "March 10, 2016",
+  "study_first_submitted_qc": "March 11, 2016",
+  "study_first_posted": "March 15, 2016",
+  "results_first_submitted": "August 30, 2021",
+  "results_first_submitted_qc": "September 1, 2021",
+  "results_first_posted": "September 15, 2021",
+  "last_update_submitted": "February 2, 2022",
+  "last_update_submitted_qc": "February 2, 2022",
+  "last_update_posted": "February 10, 2022",
+  "responsible_party": {
+    "responsible_party_type": "Sponsor"
+  },
+  "condition_browse": {
+    "mesh_term": [
+      "Lung Neoplasms",
+      "Carcinoma, Non-Small-Cell Lung"
+    ]
+  },
+  "intervention_browse": {
+    "mesh_term": [
+      "Nivolumab",
+      "Ipilimumab"
+    ]
+  },
+  "clinical_results": {
+    "participant_flow": {
+      "pre_assignment_details": "50 patients were enrolled and assigned to treatment with Nivolumab and Ipilimumab.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Nivolumab + Ipilimumab Group",
+            "description": "Participants received a combination of Nivolumab and Ipilimumab as per dosing schedule outlined."
+          }
+        ]
+      },
+      "period_list": {
+        "period": [
+          {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [50]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [45]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [5]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "baseline": {
+      "group_list": {
+        "group": [
+          {
+            "title": "Nivolumab + Ipilimumab Group",
+            "description": "Participants received nivolumab 3 mg/kg and ipilimumab 1 mg/kg."
+          }
+        ]
+      },
+      "analyzed_list": {
+        "analyzed": {
+          "units": "Participants",
+          "scope": "Overall",
+          "count_list": {
+            "count": [50]
+          }
+        }
+      },
+      "measure_list": {
+        "measure": [
+          {
+            "title": "Age",
+            "units": "years",
+            "param": "Mean",
+            "dispersion": "Standard Deviation",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": {
+                    "measurement_list": {
+                      "measurement": [[64, 10]]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "title": "Gender Distribution",
+            "units": "Participants",
+            "param": "Count",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": [
+                    {
+                      "title": "Male",
+                      "measurement_list": {
+                        "measurement": [30]
+                      }
+                    },
+                    {
+                      "title": "Female",
+                      "measurement_list": {
+                        "measurement": [20]
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+          // Additional measurements can be added accordingly
+        ]
+      },
+    },
+    "outcome_list": {
+      "outcome": [
+        {
+          "type": "Primary",
+          "title": "Overall Survival (OS)",
+          "description": "The median overall survival was significantly longer in the nivolumab plus ipilimumab group, with a hazard ratio of 0.66 (95% CI: 0.40 to 0.89; p = 0.003).",
+          "time_frame": "From date of randomization to date of death (up to approximately 54 months)",
+          "population": "All randomized participants",
+          "group_list": {
+            "group": [
+              {
+                "title": "Nivolumab + Ipilimumab Group",
+                "description": "Showed a response rate of 43%."
+              }
+            ]
+          },
+          "measure": {
+            "title": "Overall Survival (OS)",
+            "description": "Comparative survival rates calculated using Kaplan-Meier method.",
+            "population": "All participants",
+            "units": "Months",
+            "param": "Median",
+            "dispersion": "95% Confidence Interval",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [50]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "Secondary",
+          "title": "Progression-Free Survival (PFS)",
+          "description": "The median progression-free survival was noted to be 12.3 months in the combination therapy group compared to 6.7 months in the historical control.",
+          "time_frame": "From date of first treatment to disease progression or death, whichever occurs first (up to approximately 54 months)",
+          "population": "All participants",
+          "group_list": {
+            "group": [
+              {
+                "title": "Nivolumab + Ipilimumab Group",
+                "description": "Demonstrated promising results as secondary endpoints."
+              }
+            ]
+          },
+          "measure": {
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Measured by the time until progression per RECIST 1.1.",
+            "units": "Months",
+            "param": "Median",
+            "dispersion": "95% Confidence Interval",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [50]
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "serious_events": {
+      "default_vocab": "CTCAE v4.03",
+      "default_assessment": "Non-systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Total, all-cause mortality",
+                  "counts": [5, 0]
+                },
+                {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [12, 0]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Immune-related Adverse Events",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Grade 3 pneumonitis",
+                  "counts": [3, 0]
+                },
+                {
+                  "sub_title": "Grade 2 hypothyroidism",
+                  "counts": [4, 1]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is NO agreement that restricts investigators from discussing or publishing trial results post-study completion.",
+      "point_of_contact": {
+        "name_or_title": "Clinical Trial Office, Bristol-Myers Squibb",
+        "organization": "Bristol-Myers Squibb",
+        "email": "Clinical.Trials@bms.com"
+      }
+    }
+  }
+}

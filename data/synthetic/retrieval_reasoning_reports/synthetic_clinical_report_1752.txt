@@ -1,0 +1,243 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03035450"
+    },
+    "id_info": {
+      "org_study_id": "RT-2020-EM",
+      "nct_id": "NCT03035450"
+    },
+    "brief_title": "Evaluation of Ruxolitinib in Patients With Advanced Solid Tumors",
+    "official_title": "A Phase 2, Open-Label Study of Ruxolitinib Alone or in Combination With Immune Checkpoint Inhibitors in Patients With Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "PharmaCo, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "No",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and safety of ruxolitinib as a monotherapy and in combination with immune checkpoint inhibitors for patients with advanced solid tumors. The primary focus was to determine if ruxolitinib could enhance the therapeutic responses in previously treated malignancies."
+    },
+    "detailed_description": {
+      "textblock": "This interventional study enrolled adult participants with advanced solid tumors who had received prior therapy. The subjects received ruxolitinib orally twice daily for 28-day cycles. Cohort 1 received ruxolitinib alone while Cohort 2 received ruxolitinib in combination with an immune checkpoint inhibitor (e.g., pembrolizumab). Treating physicians monitored patients biweekly for safety evaluations and clinical outcomes, including adverse events and tumor response assessments per RECIST v1.1 criteria. The study's design incorporated a primary endpoint of objective response rate (ORR) and safety evaluations based on Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to poor efficacy and a high incidence of severe adverse events, highlighting safety concerns related to ruxolitinib administration, especially in polypathological patients.",
+    "start_date": "February 2, 2017",
+    "completion_date": "December 20, 2019",
+    "primary_completion_date": "March 15, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Up to 12 months",
+      "description": "ORR is defined as the percentage of participants exhibiting a complete response (CR) or partial response (PR) as assessed by RECIST v1.1, relative to the total number of participants."
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of Adverse Events",
+      "time_frame": "Up to 12 months",
+      "description": "Adverse events will be evaluated for any grade, including grade 3-4 toxicities as classified by CTCAE version 5.0, to determine the safety profile of ruxolitinib alone and in combination with immune checkpoint inhibitors."
+    },
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": [
+      {
+        "arm_group_label": "Ruxolitinib Monotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive ruxolitinib 15 mg orally twice daily in 28-day cycles."
+      },
+      {
+        "arm_group_label": "Ruxolitinib with Immune Checkpoint Inhibitor",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive ruxolitinib 15 mg orally twice daily in combination with an immune checkpoint inhibitor for optimal therapeutic outcomes."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ruxolitinib",
+        "description": "Ruxolitinib is administered orally at a dosage of 15 mg twice daily in 28-day cycles.",
+        "arm_group_label": ["Ruxolitinib Monotherapy", "Ruxolitinib with Immune Checkpoint Inhibitor"],
+        "other_name": ["Jakafi", "INCB018424"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Immune checkpoint inhibitor administered based on established protocol during combination therapy.",
+        "arm_group_label": "Ruxolitinib with Immune Checkpoint Inhibitor"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Histologically confirmed advanced solid tumors not amenable to surgical intervention.\r\n2. Prior systemic therapy, including chemotherapy and/or targeted therapy, confirmed as suboptimal.\r\n3. Age ≥ 18 years old.\r\n4. ECOG performance status of 0-2.\r\n5. Adequate organ function indicated by laboratory tests.\r\n6. Signed informed consent.\r\n\r\nExclusion Criteria:\r\n1. Prior treatment with another JAK inhibitor.\r\n2. Known hypersensitivity to ruxolitinib or pembrolizumab.\r\n3. Active gastrointestinal disease that may interfere with drug absorption.\r\n4. Presence of untreated comorbid conditions, including severe cardiovascular illness.\r\n5. Concurrent participation in another clinical trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Oncology Research Institute",
+        "address": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60614",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "January 15, 2017",
+    "study_first_submitted_qc": "January 15, 2017",
+    "study_first_posted": "February 1, 2017",
+    "results_first_submitted": "March 20, 2019",
+    "results_first_submitted_qc": "March 20, 2019",
+    "results_first_posted": "April 25, 2019",
+    "last_update_submitted": "January 5, 2020",
+    "last_update_posted": "January 7, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Ruxolitinib",
+      "Advanced Solid Tumors",
+      "Cancer Immunotherapy",
+      "Combination Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Neoplasms"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrollment began in February 2017, targeting a total of sixty patients.",
+        "pre_assignment_details": "While 60 participants were enrolled, 10 were ineligible post-screening due to protocol violations.",
+        "group_list": {
+          "group": {
+            "title": "Ruxolitinib Monotherapy",
+            "description": "Ruxolitinib administered to participants for treatment."
+          }
+        }
+      },
+      "baseline": {
+        "population": "The intent-to-treat (ITT) population included participants who received at least one dose of the investigational product.",
+        "group_list": {
+          "group": {
+            "title": "Combined Treatment Group",
+            "description": "Participants receiving both ruxolitinib and immune checkpoint inhibitors."
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Objective Response Rate (ORR)",
+          "description": "Measured as the number of patients achieving CR and PR as per RECIST v1.1.",
+          "time_frame": "Evaluated by 3 months of treatment.",
+          "group_list": {
+            "group": {
+              "title": "Ruxolitinib + Immune Checkpoint Inhibitor",
+              "description": "Objective response confirmed by imaging."
+            }
+          }
+        },
+        "reported_events": {
+          "time_frame": "Up to the study closure date.",
+          "group_list": {
+            "group": {
+              "title": "Safety Assessment",
+              "description": "Adverse events and serious adverse events were tracked per participant."
+            }
+          }
+        }
+      },
+      "serious_events": {
+        "total_events": {
+          "total": "A significant proportion experienced grade 3-4 adverse events, mainly hematologic toxicities.",
+          "critical_events": {
+            "title": "Serious Adverse Events",
+            "description": "Observed events led to several treatment withdrawals and raised safety concerns."
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "For reporting purposes.",
+        "category_list": {
+          "category": [
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Nausea",
+                    "counts": null
+                  },
+                  {
+                    "sub_title": "Diarrhea",
+                    "counts": null
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Hematologic Disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Thrombocytopenia",
+                    "counts": null
+                  },
+                  {
+                    "sub_title": "Anemia",
+                    "counts": null
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "limitations_and_caveats": "The study faced challenges related to patient heterogeneity and higher-than-expected rates of severe adverse events.",
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement restricting PI's rights to publish."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Edward Miller",
+        "organization": "Oncology Research Institute",
+        "phone": "555-0192",
+        "email": "edward.miller@orioninstitute.org"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,149 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02041234"
+    },
+    "id_info": {
+      "org_study_id": "AUPCDX-2014-002",
+      "nct_id": "NCT02041234"
+    },
+    "brief_title": "Docetaxel in Combination With Targeted Therapy in Advanced Colorectal Cancer",
+    "official_title": "A Phase II Study to Evaluate the Efficacy and Safety of Docetaxel Combined With Targeted Therapy for Patients With Advanced Colorectal Cancer: A Multicenter, Open-Label Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Research Network",
+        "agency_class": "Non-Profit"
+      }
+    },
+    "source": "Global Oncology Research Network",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The combination of docetaxel with novel targeted therapies was hypothesized to improve treatment outcomes in patients with advanced colorectal cancer. This study aimed to assess progression-free survival (PFS) compared to historical control. However, multiple challenges emerged during the trial."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inability to recruit sufficient patient numbers and high incidence of treatment-related toxicities.",
+    "start_date": "February 2014",
+    "completion_date": "January 2016",
+    "primary_completion_date": "October 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-free survival at 6 months",
+      "description": "To ascertain the effectiveness of docetaxel combined with targeted therapy by measuring the proportion of patients without disease progression at 6 months."
+    },
+    "secondary_outcome": {
+      "measure": "Overall response rate",
+      "time_frame": "6 months",
+      "description": "Evaluate the overall response rate using RECIST criteria within the study period."
+    },
+    "number_of_arms": "2",
+    "enrollment": "38",
+    "condition": "Advanced Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Docetaxel and Targeted Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients received docetaxel every 21 days in combination with targeted agents."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received standard treatment protocols consisting of either monotherapy or current standard of care."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Administered at the standard dosing schedule of 75 mg/m² on Day 1 of each 21-day cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Targeted Therapy",
+        "description": "Administered in conjunction with docetaxel; the specific agents varied per patient based on genetic profiling."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n1. Adults aged 18 years or older with histologically confirmed advanced colorectal cancer.\n2. At least one measurable lesion as per RECIST.\n3. No prior treatment with docetaxel.\n4. ECOG performance status of 0 or 1.\n5. Adequate hematologic and organ function.\n\nEXCLUSION CRITERIA:\n1. History of significant cardiovascular disease.\n2. Liver enzymes > 2.5 times the upper limit of normal.\n3. Known hypersensitivity to docetaxel or polysorbate 80.\n4. Clinically significant infectious diseases.\n5. Concurrent participation in another clinical trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Brian H. Caldwell, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Hospital of the University of Pennsylvania",
+          "address": {
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19104",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "why_stopped_details": {
+      "toxicities": {
+        "description": "An unexpectedly high rate of severe neutropenia and febrile neutropenia was observed, particularly in patients over 65 years, leading to treatment delays."
+      },
+      "recruitment_issues": {
+        "description": "Failed to meet enrollment targets, primarily attributed to stringent eligibility criteria and competing studies."
+      },
+      "endpoint_failure": {
+        "description": "The primary endpoint of progression-free survival was not adequately defined and failed to provide necessary clarity regarding the implications of the results."
+      },
+      "design_flaws": {
+        "description": "Inadequate stratification for prior treatment histories led to skewed results, calling into question the integrity of the associations drawn."
+      },
+      "variability": {
+        "description": "Inconsistent treatment administration arose from diverse clinical protocols at various sites, impacting data reliability."
+      }
+    }
+  }
+}
+```

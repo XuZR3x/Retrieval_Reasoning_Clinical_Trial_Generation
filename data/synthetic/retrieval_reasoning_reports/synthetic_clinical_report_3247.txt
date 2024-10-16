@@ -1,0 +1,156 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT05012345"
+    },
+    "id_info": {
+      "org_study_id": "OMZ-203",
+      "nct_id": "NCT05012345"
+    },
+    "brief_title": "Evaluation of Omalizumab for Patients With Severe Asthma and Chronic Rhinosinusitis",
+    "official_title": "A Phase 3, Multicenter, Randomized, Double-blind, Placebo-controlled Trial to Investigate the Efficacy and Safety of Omalizumab in Subjects With Severe Allergic Asthma and Comorbid Chronic Rhinosinusitis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Biopharma Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Biopharma Inc.",
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of omalizumab compared to placebo in patients with severe allergic asthma and concurrent chronic rhinosinusitis with nasal polyps. It will specifically evaluate the impact of treatment on asthma exacerbation rates and overall symptom burden."
+    },
+    "detailed_description": {
+      "textblock": "Omalizumab is administered as an adjunct to standard treatment for asthma during a 6-month period. Patients are previously treated with high-dose inhaled corticosteroids and have demonstrated inadequate control of their asthma symptoms. Primary efficacy will be evaluated through the frequency of asthma exacerbations and through assessments of nasal polyp scores. The specific action of omalizumab effectively inhibits IgE, leading to decreased allergic responses, thereby positively influencing both respiratory and sinus symptoms."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2021",
+    "completion_date": "December 2022",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of asthma exacerbations over 6 months",
+      "time_frame": "6 months"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Nasal Polyp Score (NPS) change from baseline",
+        "time_frame": "6 months"
+      },
+      {
+        "measure": "Quality of life as assessed by the Asthma Quality of Life Questionnaire (AQLQ)",
+        "time_frame": "6 months"
+      },
+      {
+        "measure": "Pulmonary function (FEV1)",
+        "time_frame": "6 months"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "720",
+    "condition": [
+      "Severe Allergic Asthma",
+      "Chronic Rhinosinusitis with Nasal Polyps"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Omalizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive subcutaneous injections of omalizumab every 2 or 4 weeks, with dosage determined based on body weight and serum IgE levels, in conjunction with ongoing therapy with inhaled corticosteroids."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive matching placebo injections administered every 2 or 4 weeks, while continuing their prescribed inhaled corticosteroid regimen."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Omalizumab",
+        "description": "Omalizumab will be administered via subcutaneous injection based on the patient's body weight and baseline serum IgE levels, aiming to achieve optimal therapeutic concentrations.",
+        "arm_group_label": "Omalizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "A matching placebo will be administered in the same manner as omalizumab injections to ensure blinding.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Males and females aged 18-75 years\n- Diagnosis of severe allergic asthma with a history of at least two exacerbations requiring systemic corticosteroids in the last year.\n- Total serum IgE levels of 30 to 700 IU/mL\n- Chronic rhinosinusitis with nasal polyps as per accepted diagnostic criteria\n\nExclusion Criteria:\n\n- Previous treatment with omalizumab\n- Significant co-morbid respiratory diseases (COPD)\n- Pregnancy or lactation during the study period\n- History of malignancy within the last 5 years",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Smith, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Global Biopharma Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University Medical Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Springfield Medical Practice",
+          "address": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "verification_date": "June 2023",
+    "study_first_submitted": "January 15, 2021",
+    "study_first_posted": "January 22, 2021",
+    "last_update_posted": "December 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Omalizumab",
+      "IgE",
+      "Severe Asthma",
+      "Chronic Rhinosinusitis"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Asthma",
+        "Rhinosinusitis"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Omalizumab"
+    }
+  }
+}
+```

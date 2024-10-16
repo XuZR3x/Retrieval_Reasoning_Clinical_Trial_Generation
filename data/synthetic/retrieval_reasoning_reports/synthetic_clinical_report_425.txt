@@ -1,0 +1,256 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234456"
+    },
+    "id_info": {
+      "org_study_id": "CFEM987DC005",
+      "nct_id": "NCT01234456"
+    },
+    "brief_title": "Efficacy of Letrozole in Patients with Advanced Hormone Receptor-Positive Luminal A Breast Cancer",
+    "acronym": "LACE",
+    "official_title": "Phase II Trial Evaluating the Efficacy of Letrozole in Patients with Advanced Hormone Receptor-Positive Luminal A Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaCorp",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaCorp",
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to assess the efficacy and safety of letrozole in postmenopausal women diagnosed with advanced hormone receptor-positive Luminal A breast cancer. Despite the biochemical rationale supporting the use of aromatase inhibitors, previous studies indicated variable efficacy in heterogeneous patient populations."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2010",
+    "primary_completion_date": "December 2013",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical response rate evaluated at the end of treatment, quantified by RECIST criteria.",
+      "time_frame": "24 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Time to progression (TTP)",
+        "time_frame": "From first dose to disease progression or death"
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "From randomization until death"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": "Advanced Hormone Receptor-Positive Luminal A Breast Cancer",
+    "arm_group": {
+      "arm_group_label": "Letrozole Administration Group",
+      "arm_group_type": "Experimental"
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Letrozole",
+      "description": "Letrozole 2.5 mg orally once daily until disease progression or unacceptable toxicity"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Postmenopausal women, aged 50 years and above\n- Histologically confirmed Luminal A breast cancer\n- Advanced disease defined as locally advanced or metastatic breast cancer\n- Documented hormone receptor positivity (ER+ and/or PR+)\n\nExclusion Criteria:\n\n- Prior treatment with letrozole or other aromatase inhibitors\n- Presence of significant chronic illness that may interfere with study outcomes\n- History of cardiovascular events within the past six months\n- Concurrent use of hormonal therapies excluding letrozole"
+      },
+      "gender": "Female",
+      "minimum_age": "50 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Smith",
+      "role": "Principal Investigator",
+      "affiliation": "PharmaCorp"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Treatment Center",
+          "address": {
+            "city": "Newark",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "September 18, 2009",
+    "study_first_posted": "October 5, 2009",
+    "last_update_submitted": "February 10, 2024",
+    "last_update_posted": "February 12, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Breast Cancer",
+      "Letrozole",
+      "Hormone Receptor Positive"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Letrozole"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Letrozole Group",
+              "description": "Patients receiving letrozole treatment"
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [
+                      60
+                    ]
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": [
+                      60
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Letrozole Group",
+              "description": "Patients receiving letrozole"
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [
+                60
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": [
+        {
+          "type": "Primary",
+          "title": "Clinical Response Rate",
+          "description": "Percentage of participants achieving a partial or complete response during treatment.",
+          "time_frame": "24 weeks",
+          "measure": {
+            "title": "Clinical Response Rate",
+            "description": "Measured by RECIST criteria, evaluated by clinical assessment.",
+            "units": "Percentage of Responses",
+            "param": "Number",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [
+                    60
+                  ]
+                }
+              }
+            }
+          },
+          "reported_events": {
+            "desc": "Adverse events were reported throughout the study duration.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Letrozole Group",
+                  "description": "Participants receiving letrozole treatment"
+                }
+              ]
+            },
+            "serious_events": {
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total Serious Adverse Events",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total serious adverse events",
+                        "counts": [40]
+                      }
+                    }
+                  },
+                  {
+                    "title": "Endocrine Disorders",
+                    "event_list": {
+                      "event": {"sub_title": "Severe hot flashes", "counts": [15]}
+                    }
+                  },
+                  {
+                    "title": "Gastrointestinal Events",
+                    "event_list": {
+                      "event": {"sub_title": "Nausea and vomiting", "counts": [10]}
+                    }
+                  },
+                  {
+                    "title": "Cardiovascular Events",
+                    "event_list": {
+                      "event": {"sub_title": "Palpitations", "counts": [8]}
+                    }
+                  }
+                ]
+              }
+            },
+            "other_events": {
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total Other Adverse Events",
+                    "event_list": {
+                      "event": {"sub_title": "Total other adverse events", "counts": [30]}
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    "termination_reason": {
+      "textblock": "The trial faced an insufficient clinical response rate (reported at 20%), failure of patients to meet clinical response expectations, and premature discontinuation of treatments due to adverse events. The stringent patient selection criteria significantly limited enrollment numbers. Resistance mechanisms to aromatase inhibitors were observed, leading to concerns about the efficacy of letrozole in this pre-treated cohort.",
+      "date": "March 15, 2024"
+    }
+  }
+}
+```

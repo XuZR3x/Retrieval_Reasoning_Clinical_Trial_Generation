@@ -1,0 +1,206 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02572024"
+    },
+    "id_info": {
+      "org_study_id": "FULVESTANT-2023",
+      "nct_id": "NCT02572024"
+    },
+    "brief_title": "A Phase III Study of Fulvestrant and Combination Therapy in Postmenopausal Women With Hormone Receptor Positive Metastatic Breast Cancer Resistant to Aromatase Inhibitor Therapy",
+    "acronym": "FLEX-MBC",
+    "official_title": "Randomized, Double-Blind, Phase III Trial of Fulvestrant (Faslodex) Versus Fulvestrant Plus Clinical Combination Treatment in Postmenopausal Women With Hormone Receptor Positive Metastatic Breast Cancer Resistant to Prior Aromatase Inhibitor Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Breast Cancer Research Group",
+        "agency_class": "Not-for-Profit"
+      },
+      "collaborator": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "IBCRG",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial evaluates the efficacy and safety of Fulvestrant in combination with emerging novel agents in postmenopausal women diagnosed with hormone receptor-positive metastatic breast cancer that is resistant to aromatase inhibitor treatments. The study aims to determine whether the inclusion of an additional therapy improves clinical outcomes as measured by progression-free survival and overall survival."
+    },
+    "detailed_description": {
+      "textblock": "This phase III randomized trial involved postmenopausal women with histologically or cytologically confirmed hormone receptor-positive metastatic breast cancer, exhibiting disease progression following prior treatment with aromatase inhibitors. The primary hypothesis posited that combining Fulvestrant with novel inhibitors targeting the mTOR pathway would significantly enhance clinical efficacy over Fulvestrant monotherapy. Patients were randomized (1:1) to receive either Fulvestrant (500 mg intramuscularly on Days 1 and 15 of Cycle 1, followed by 500 mg on Day 1 of subsequent cycles) or Fulvestrant in combination with an mTOR inhibitor administered orally daily throughout the treatment cycle. The study protocol mandated meticulous monitoring of adverse events and ensured a stratified randomization based on performance status, prior lines of therapy, and disease control status.",
+      "inclusion_criteria": [
+        "Postmenopausal status",
+        "Histological confirmation of hormone receptor-positive breast cancer",
+        "Measurable disease or nodes per RECIST v1.1",
+        "Radiographic evidence of disease progression post-aromatase inhibitor therapy"
+      ],
+      "exclusion_criteria": [
+        "Prior treatment with Fulvestrant or mTOR inhibitors",
+        "Uncontrolled significant systemic disease",
+        "Pregnancy or lactation"
+      ]
+    },
+    "overall_status": "Completed",
+    "start_date": "September 15, 2015",
+    "completion_date": "December 14, 2022",
+    "primary_completion_date": "November 20, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization until documented disease progression or death, assessed up to 36 months",
+      "description": "Progression-Free Survival is measured from the time of randomization until the first documented progression of disease or death from any cause. Progression is defined by RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival",
+        "time_frame": "Every 3 months until progression or up to 3 years",
+        "description": "Overall survival is defined as the time from randomization to death from any cause. Patients were monitored throughout the study period."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "After 580 progression events accrued.",
+        "description": "Objective response rate assessed by complete response (CR) and partial response (PR) as classified by RECIST v1.1."
+      },
+      {
+        "measure": "Clinical Benefit Rate",
+        "time_frame": "Assessed every 3 months up to 3 years",
+        "description": "Defined as the proportion of patients with ORR or stable disease lasting at least 24 weeks."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "From start of treatment until 30 days post last treatment",
+        "description": "Adverse events were recorded and graded according to CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "512",
+    "condition": "Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Fulvestrant Monotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received 500 mg Fulvestrant intramuscularly on designated dosing schedule."
+      },
+      {
+        "arm_group_label": "Fulvestrant Plus mTOR Inhibitor",
+        "arm_group_type": "Experimental",
+        "description": "Patients received Fulvestrant in combination with an mTOR inhibitor, administered orally daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fulvestrant",
+        "description": "Fulvestrant administered intramuscularly at a dose of 500 mg according to the specified regimen.",
+        "arm_group_label": ["Fulvestrant Monotherapy", "Fulvestrant Plus mTOR Inhibitor"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "mTOR Inhibitor",
+        "description": "An investigational mTOR inhibitor administered orally at 10 mg daily.",
+        "arm_group_label": "Fulvestrant Plus mTOR Inhibitor"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Postmenopausal status.\r\n  - Histologically or cytologically confirmed adenocarcinoma of the breast with hormone receptor positivity.\r\n  - Disease progression after aromatase inhibitor therapy.\r\n  - Measurable or evaluable disease.\r\n\r\nExclusion Criteria:\r\n  - Previous systemic treatment with Fulvestrant or mTOR inhibitors.\r\n  - Uncontrolled intercurrent illnesses or significant systemic diseases."
+      },
+      "gender": "Female",
+      "minimum_age": "45 Years",
+      "maximum_age": "85 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Chang",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins Cancer Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44106",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "August 15, 2015",
+    "study_first_submitted_qc": "August 20, 2015",
+    "study_first_posted": "August 25, 2015",
+    "last_update_submitted": "April 5, 2023",
+    "last_update_submitted_qc": "April 10, 2023",
+    "last_update_posted": "April 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Fulvestrant",
+      "Hormone receptor-positive breast cancer",
+      "Aromatase inhibitor resistance",
+      "mTOR inhibitors",
+      "Postmenopausal women"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fulvestrant", "mTOR Inhibitors"]
+    }
+  }
+}
+```

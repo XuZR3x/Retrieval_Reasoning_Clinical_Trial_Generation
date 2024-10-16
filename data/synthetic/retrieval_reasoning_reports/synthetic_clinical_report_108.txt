@@ -1,0 +1,235 @@
+```json
+{
+   "clinical_study": {
+      "required_header": {
+         "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+         "link_text": "Link to the current ClinicalTrials.gov record.",
+         "url": "https://clinicaltrials.gov/ct2/show/NCT05267890"
+      },
+      "id_info": {
+         "org_study_id": "CLL-Study123",
+         "nct_id": "NCT05267890"
+      },
+      "brief_title": "Chlorambucil for First-Line Treatment in Patients With Chronic Lymphocytic Leukemia",
+      "official_title": "A Multi-Center, Randomized, Open-Label, Phase III Trial Evaluating Chlorambucil Versus A Standard Chemo-Immunotherapy in Previously Untreated Patients With Chronic Lymphocytic Leukemia",
+      "sponsors": {
+         "lead_sponsor": {
+            "agency": "Hematology Research Institute",
+            "agency_class": "Non-Profit"
+         }
+      },
+      "source": "Hematology Research Institute",
+      "brief_summary": {
+         "textblock": "This study aims to assess the efficacy and safety of chlorambucil as a first-line therapy compared to standard chemo-immunotherapy in patients with chronic lymphocytic leukemia (CLL). The trial focuses on patients aged 65 years and older with previously untreated CLL, a group known for having specific challenges in treatment adherence and responses."
+      },
+      "overall_status": "Completed",
+      "start_date": "February 20, 2020",
+      "completion_date": "March 30, 2023",
+      "primary_completion_date": "February 15, 2023",
+      "phase": "Phase 3",
+      "study_type": "Interventional",
+      "has_expanded_access": "No",
+      "study_design_info": {
+         "allocation": "Randomized",
+         "intervention_model": "Parallel Assignment",
+         "primary_purpose": "Treatment",
+         "masking": "None (Open Label)"
+      },
+      "primary_outcome": [
+         {
+            "measure": "Overall response rate (ORR)",
+            "time_frame": "Up to 24 months",
+            "description": "The ORR is defined as the sum of complete and partial responses, evaluated according to the International Workshop on Chronic Lymphocytic Leukemia (IWCLL) criteria."
+         },
+         {
+            "measure": "Progression-free survival (PFS)",
+            "time_frame": "From randomization until disease progression or death, up to 36 months",
+            "description": "PFS was measured as the time from randomization until the first occurrence of disease progression or death from any cause."
+         }
+      ],
+      "secondary_outcome": [
+         {
+            "measure": "Quality of life (QoL) assessment",
+            "time_frame": "At baseline and at 3, 6, 12, 18, and 24 months",
+            "description": "QoL was evaluated using the European Organization for Research and Treatment of Cancer Quality of Life (EORTC QLQ-C30) questionnaire."
+         },
+         {
+            "measure": "Incidence of adverse events (AEs)",
+            "time_frame": "From the start of treatment until 30 days after the last dose",
+            "description": "All graded AEs were documented and analyzed for severity and relatedness to treatment."
+         }
+      ],
+      "number_of_arms": "2",
+      "enrollment": "350",
+      "condition": "Lymphocytic Leukemia, Chronic",
+      "arm_group": [
+         {
+            "arm_group_label": "Chlorambucil Treatment",
+            "arm_group_type": "Experimental",
+            "description": "Participants will receive chlorambucil (10 mg/m² orally on days 1-7 of each 28-day cycle for 6 cycles)."
+         },
+         {
+            "arm_group_label": "Standard Chemo-Immunotherapy",
+            "arm_group_type": "Active Comparator",
+            "description": "Participants will receive a standard regimen of Rituximab (375 mg/m² IV on Cycle 1 Day 1, then 500 mg/m² IV on Day 1 for subsequent cycles) combined with Fludarabine (20 mg/m² IV on days 1-3) and Cyclophosphamide (150 mg/m² IV on days 1-3)."
+         }
+      ],
+      "intervention": [
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "chlorambucil",
+            "description": "10 mg/m² orally on Days 1-7 of each 28-day cycle for up to 6 cycles.",
+            "arm_group_label": "Chlorambucil Treatment"
+         },
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "Fludarabine",
+            "description": "20 mg/m² IV, Days 1-3 for 6 cycles.",
+            "arm_group_label": "Standard Chemo-Immunotherapy"
+         },
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "Cyclophosphamide",
+            "description": "150 mg/m² IV, Days 1-3 for 6 cycles.",
+            "arm_group_label": "Standard Chemo-Immunotherapy"
+         },
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "Rituximab",
+            "description": "375 mg/m² IV on Day 1 of Cycle 1; 500 mg/m² IV Day 1 for subsequent cycles.",
+            "arm_group_label": "Standard Chemo-Immunotherapy"
+         }
+      ],
+      "eligibility": {
+         "criteria": {
+            "textblock": "Inclusion Criteria:  - Adult patients (>65 years) with previously untreated B-cell CLL; - ECOG performance status of 0-2; - Cumulative Illness Rating Scale (CIRS) score > 6. Exclusion Criteria:  - History of Richter's transformation; - Concomitant malignancies except basal cell carcinoma; - Severe active infection requiring systemic treatment."
+         },
+         "gender": "All",
+         "minimum_age": "65 Years",
+         "maximum_age": "N/A",
+         "healthy_volunteers": "No"
+      },
+      "overall_official": {
+         "last_name": "Dr. Alina Petrova",
+         "role": "Principal Investigator",
+         "affiliation": "Hematology Research Institute"
+      },
+      "location": [
+         {
+            "facility": {
+               "name": "Hematology Research Institute",
+               "address": {
+                  "city": "Moscow",
+                  "zip": "115201",
+                  "country": "Russian Federation"
+               }
+            }
+         },
+         {
+            "facility": {
+               "name": "Saint Petersburg Clinical Hospital",
+               "address": {
+                  "city": "Saint Petersburg",
+                  "zip": "190000",
+                  "country": "Russian Federation"
+               }
+            }
+         },
+         {
+            "facility": {
+               "name": "Krasnodar Regional Clinical Hospital",
+               "address": {
+                  "city": "Krasnodar",
+                  "zip": "350000",
+                  "country": "Russian Federation"
+               }
+            }
+         }
+      ],
+      "location_countries": {
+         "country": "Russian Federation"
+      },
+      "verification_date": "March 2023",
+      "study_first_submitted": "January 10, 2020",
+      "study_first_posted": "January 15, 2020",
+      "last_update_posted": "April 05, 2023",
+      "results_first_submitted": "April 30, 2023",
+      "results_first_posted": "June 15, 2023",
+      "responsible_party": {
+         "responsible_party_type": "Sponsor"
+      },
+      "condition_browse": {
+         "mesh_term": ["Leukemia, Lymphocytic, Chronic"]
+      },
+      "intervention_browse": {
+         "mesh_term": ["Chlorambucil", "Fludarabine", "Rituximab", "Cyclophosphamide"]
+      },
+      "clinical_results": {
+         "participant_flow": {
+            "group_list": {
+               "group": [
+                  {
+                     "title": "Chlorambucil Treatment",
+                     "description": "Participants received chlorambucil for 6 cycles."
+                  },
+                  {
+                     "title": "Standard Chemo-Immunotherapy",
+                     "description": "Participants received a standard regimen of Rituximab plus Fludarabine and Cyclophosphamide."
+                  }
+               ]
+            },
+            "period_list": {
+               "period": {
+                  "title": "Overall Study",
+                  "milestone_list": {
+                     "milestone": [
+                        {
+                           "title": "STARTED",
+                           "participants_list": {
+                              "participants": [166, 184]
+                           }
+                        },
+                        {
+                           "title": "COMPLETED",
+                           "participants_list": {
+                              "participants": [120, 150]
+                           }
+                        },
+                        {
+                           "title": "NOT COMPLETED",
+                           "participants_list": {
+                              "participants": [46, 34]
+                           }
+                        }
+                     ]
+                  }
+               }
+            }
+         },
+         "baseline": {
+            "group_list": {
+               "group": [
+                  {
+                     "title": "Chlorambucil Treatment",
+                     "description": "10 mg/m² chlorambucil as administered across 6 cycles."
+                  },
+                  {
+                     "title": "Standard Chemo-Immunotherapy",
+                     "description": "Treatment regimen included Rituximab, Fludarabine, and Cyclophosphamide."
+                  }
+               ]
+            },
+            "analyzed_list": {
+               "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                     "count": [166, 184, 350]
+                  }
+               }
+            }
+         }
+      }
+   }
+}
+```

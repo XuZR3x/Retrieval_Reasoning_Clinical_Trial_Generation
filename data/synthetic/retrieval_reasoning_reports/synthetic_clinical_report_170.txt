@@ -1,0 +1,152 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02342356"
+    },
+    "id_info": {
+      "org_study_id": "EGFR-PFS-002",
+      "secondary_id": ["2014-002341-35", "EGFR-PFS"],
+      "nct_id": "NCT02342356"
+    },
+    "brief_title": "Erlotinib in Combination with Bevacizumab for EGFR Mutation-Positive NSCLC",
+    "official_title": "A Phase II Study of the Efficacy and Safety of Erlotinib in Combination with Bevacizumab in Patients with Advanced Non-Small Cell Lung Cancer harboring Activating EGFR Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Research Institute for Cancer",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "International Research Institute for Cancer",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial evaluates the effectiveness of erlotinib and bevacizumab in patients diagnosed with advanced non-small cell lung cancer (NSCLC) possessing specific EGFR mutations, notably exon 19 deletions and L858R mutations. The study aims to elucidate the combination's impact on progression-free survival rates compared to historical standards."
+    },
+    "detailed_description": {
+      "textblock": "Background: Advanced non-small cell lung cancer (NSCLC) often implicates alterations in the epidermal growth factor receptor (EGFR), which has emerged as a target for therapies aimed at improving patient outcomes. This study posits that the combination of erlotinib, which selectively inhibits aberrant EGFR signaling, along with bevacizumab, which disrupts tumor angiogenesis, may enhance therapeutic efficacy.\n\nObjectives: The primary objective of this trial is to assess progression-free survival (PFS) in patients receiving a regimen comprising erlotinib and bevacizumab, followed by a secondary objective to strategically analyze the safety and tolerability of this combination therapy across the patient population.\n\nDesign: This is a multicenter, open-label, Phase II interventional study with an enrollment target of 120 patients. Patient eligibility was determined based on the presence of activating EGFR mutations confirmed by central testing. The treatment regimen consists of erlotinib administered at a daily oral dose of 150 mg in conjunction with bevacizumab administered intravenously at a dose of 15 mg/kg every 21 days.\n\nStratification Methodology: Participants were stratified based on the presence of EGFR T790M mutations and BRCA1 mRNA levels to evaluate their contributions to the treatment response and disease progression, ensuring that the analyses are aligned with personalized medicine principles."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2014",
+    "completion_date": "January 2020",
+    "primary_completion_date": "November 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Assessed from the date of enrollment until disease progression or death, whichever occurs first, up to 24 months.",
+      "description": "The primary endpoint is defined as the time from treatment initiation to progression of disease or death, evaluated according to RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From enrollment until death from any cause, assessed up to 24 months.",
+        "description": "Overall survival will be calculated from the initiation of treatment to the date of death, irrespective of cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Assessed at 8-week intervals during treatment until progression or withdrawal.",
+        "description": "ORR will be determined as the proportion of patients achieving a complete or partial response, assessed through radiographic imaging."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Continuous monitoring throughout the study duration.",
+        "description": "Adverse events will be recorded and graded according to the NCI CTCAE v4.03."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "120",
+    "condition": "Non-Small-Cell Lung Carcinoma with EGFR Mutation",
+    "arm_group": {
+      "arm_group_label": "Erlotinib and Bevacizumab Treatment",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive a combination therapy: erlotinib daily orally and bevacizumab intravenously every 21 days."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Erlotinib",
+        "description": "Erlotinib 150 mg administered orally once daily.",
+        "arm_group_label": "Erlotinib and Bevacizumab Treatment",
+        "other_name": "Tarceva"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bevacizumab",
+        "description": "Bevacizumab 15 mg/kg administered intravenously on day 1 of each 21-day cycle.",
+        "arm_group_label": "Erlotinib and Bevacizumab Treatment",
+        "other_name": "Avastin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18 years or older\n- Histologically or cytologically confirmed non-squamous NSCLC with activating EGFR mutations (e.g., del19 or L858R)\n- Measurable disease as per RECIST v1.1\n- Eastern Cooperative Oncology Group (ECOG) performance status 0-2\n\nExclusion Criteria:\n\n- Previous treatment with EGFR inhibitors\n- History of significant bleeding or thrombotic events\n- Presence of CNS metastases without stable neurological status\n- Known hypersensitivity to erlotinib or bevacizumab\n\nPatients must give written informed consent and be able to adhere to the protocol."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jonathan Green, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "International Research Institute for Cancer"
+    },
+    "location": [{
+      "facility": {
+        "name": "Comprehensive Cancer Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "January 15, 2014",
+    "study_first_submitted_qc": "January 15, 2014",
+    "study_first_posted": "January 20, 2014",
+    "results_first_submitted": "March 15, 2020",
+    "results_first_submitted_qc": "March 20, 2020",
+    "results_first_posted": "March 25, 2020",
+    "last_update_submitted": "February 10, 2021",
+    "last_update_submitted_qc": "February 10, 2021",
+    "last_update_posted": "February 11, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "EGFR Mutations",
+      "Non-Small Cell Lung Cancer",
+      "Combination Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Carcinoma, Non-Small-Cell Lung"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Erlotinib Hydrochloride",
+        "Bevacizumab"
+      ]
+    }
+  }
+}
+```

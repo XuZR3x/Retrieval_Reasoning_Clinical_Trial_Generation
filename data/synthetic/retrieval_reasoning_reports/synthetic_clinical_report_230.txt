@@ -1,0 +1,316 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "LAQ-HD-402",
+      "secondary_id": "2017-001234-24",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "LAQUINIMOD for Patients With Huntington's Disease: A Placebo-Controlled Study",
+    "acronym": "REHABILITATED",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Laquinimod in Subjects With Huntington’s Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Teva Branded Pharmaceutical Products R&D, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Teva Branded Pharmaceutical Products R&D, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the safety and efficacy of laquinimod in treated patients with symptomatic Huntington's disease over a 52-week period. Emphasis is placed on motor function improvement as determined via the Unified Huntington's Disease Rating Scale Total Motor Score (UHDRS-TMS)."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2018",
+    "completion_date": "April 15, 2021",
+    "primary_completion_date": "April 15, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in UHDRS-TMS at Week 52",
+      "time_frame": "Baseline, Week 52",
+      "description": "The UHDRS TMS is designed to delineate motor features in Huntington's disease, capturing multiple facets of motor performance. Problematic results arose due to lack of significant improvement in participants receiving laquinimod against placebo."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Patient-Reported Outcomes via the Huntington's Disease Quality of Life Assessment",
+        "time_frame": "Baseline, Week 52",
+        "description": "This assessment aimed to gauge quality of life changes, yet did not yield sufficient evidence to validate laquinimod's impact in real-world settings."
+      },
+      {
+        "measure": "Incidence of treatment-emergent adverse events over 52 weeks",
+        "time_frame": "Baseline to Week 52",
+        "description": "An extensive recording of adverse events was performed, revealing a high incidence which necessitated cessation of treatment in numerous participants due to safety concerns."
+      }
+    ],
+    "other_outcome": [
+      {
+        "measure": "Evaluation of Caudate Nucleus Volume through MRI",
+        "time_frame": "Baseline, Week 52",
+        "description": "MRI assessments intended to ascertain brain atrophy showed no beneficial effects associated with laquinimod treatment."
+      }
+    ],
+    "number_of_arms": "4",
+    "enrollment": "352",
+    "condition": "Huntington's Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo capsules, orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 0.5 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received laquinimod 0.5 mg, orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 1.0 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received laquinimod 1.0 mg, orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 1.5 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received laquinimod 1.5 mg, orally once daily for 52 weeks, but this dose was prematurely terminated due to safety concerns."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Laquinimod",
+        "description": "Laquinimod capsules administered per dosage outlined in respective arm descriptions.",
+        "arm_group_label": [
+          "Laquinimod 0.5 mg",
+          "Laquinimod 1.0 mg",
+          "Laquinimod 1.5 mg"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo capsules administered as specified in arm descriptions.",
+        "arm_group_label": [
+          "Placebo"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Documented diagnosis of Huntington's Disease based on CAG repeat testing.\r\n2. Age 21-55 years.\r\n3. Ability to provide informed consent.\r\n4. At least one progressive symptom present for 6 months prior to screening.\r\n5. Female subjects of childbearing potential must agree to contraceptive use.\r\n\r\nExclusion Criteria:\r\n1. Significant comorbid neurological disorders or contraindications for MRI.\r\n2. Prior exposure to laquinimod or investigational compounds within 30 days.\r\n3. Pregnancy or breastfeeding.\r\n4. Known hypersensitivity to study medications."
+      },
+      "gender": "All",
+      "minimum_age": "21 Years",
+      "maximum_age": "55 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Teva Clinical Expert, MD",
+      "role": "Study Director",
+      "affiliation": "Teva Branded Pharmaceutical Products R&D, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12566",
+          "address": {
+            "city": "La Jolla",
+            "state": "California",
+            "zip": "92037",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12565",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90095",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12567",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12575",
+          "address": {
+            "city": "Englewood",
+            "state": "Colorado",
+            "zip": "80113",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States",
+        "Canada",
+        "Czechia",
+        "Germany",
+        "Italy"
+      ]
+    },
+    "removed_countries": {
+      "country": [
+        "Czech Republic",
+        "France",
+        "India",
+        "Israel"
+      ]
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "January 10, 2018",
+    "study_first_submitted_qc": "January 15, 2018",
+    "study_first_posted": "February 1, 2018",
+    "results_first_submitted": "May 22, 2021",
+    "results_first_submitted_qc": "May 22, 2021",
+    "results_first_posted": "June 25, 2021",
+    "last_update_submitted": "August 5, 2021",
+    "last_update_submitted_qc": "August 5, 2021",
+    "last_update_posted": "August 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Huntington Disease",
+        "Neurodegenerative Disorders",
+        "Sclerosis"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Out of 468 screened participants, 352 were randomized, resulting in 123 receiving laquinimod treatment. The high incidence of adverse effects led to discontinuation in the 1.5 mg treatment arm.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Placebo",
+              "description": "Participants received placebo capsules, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 0.5 mg",
+              "description": "Participants received laquinimod 0.5 mg, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 1.0 mg",
+              "description": "Participants received laquinimod 1.0 mg, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 1.5 mg",
+              "description": "Participants received laquinimod 1.5 mg, orally once daily for 52 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [352, 123, 122, 127] 
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [123, 121, 116, 125]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [229, 2, 6, 7]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Safety Concerns",
+                  "participants_list": {
+                    "participants": [35, 21, 33, 19]
+                  }
+                },
+                {
+                  "title": "Lack of Efficacy",
+                  "participants_list": {
+                    "participants": [22, 18, 15, 12]
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": [27, 19, 11, 14]
+                  }
+                },
+                {
+                  "title": "Other Reasons",
+                  "participants_list": {
+                    "participants": [11, 4, 9, 8]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Intent-to-treat (ITT) population included all randomized participants who received at least one dose of treatment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Placebo",
+              "description": "Participants received placebo capsules, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 0.5 mg",
+              "description": "Participants received laquinimod 0.5 mg, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 1.0 mg",
+              "description": "Participants received laquinimod 1.0 mg, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 1.5 mg",
+              "description": "Participants received laquinimod 1.5 mg, orally once daily for 52 weeks."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

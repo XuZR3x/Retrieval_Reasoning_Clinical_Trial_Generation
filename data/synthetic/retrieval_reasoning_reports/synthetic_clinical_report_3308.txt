@@ -1,0 +1,133 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "Prasugrel_CAD_2023",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Prasugrel in Acute Coronary Syndrome Patients Undergoing Percutaneous Coronary Intervention",
+    "official_title": "A Randomized, Open-Label Study of Prasugrel vs. Clopidogrel on Platelet Function in Acute Coronary Syndrome Patients Undergoing PCI",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiology Institute of Medicine",
+        "agency_class": "Research Institution"
+      }
+    },
+    "source": "Cardiology Institute of Medicine",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of prasugrel, compared to clopidogrel, on platelet inhibition in patients with acute coronary syndrome (ACS) undergoing percutaneous coronary intervention (PCI) after the cessation of bivalirudin infusion. The primary objective is to determine whether prasugrel provides a more robust antiplatelet effect in critical early post-intervention phases."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2023",
+    "completion_date": "August 2023",
+    "primary_completion_date": "August 2023",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Crossover Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Inhibition of Platelet Aggregation (IPA) by Light Transmission Aggregometry Post-Bivalirudin",
+      "time_frame": "Baseline, 60, 120, 240 minutes following bivalirudin termination",
+      "description": "The primary outcome assesses the percentage inhibition of platelet aggregation in response to ADP, measured through light transmission aggregometry within specified time intervals post-bivalirudin administration."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "P2Y12 Reaction Units (PRU) Evaluation in Study Groups",
+        "time_frame": "At 2-hour and 4-hour after intervention",
+        "description": "Assessment of PRU utilizing the VerifyNow P2Y12 assay to compare the antiplatelet effects between prasugrel and clopidogrel groups."
+      },
+      {
+        "measure": "Incidence of Acute Stent Thrombosis",
+        "time_frame": "Up to 30 days post-PCI",
+        "description": "Recording and comparing the incidence of acute stent thrombosis between the intervention groups over a 30-day period."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": "Acute Coronary Syndrome",
+    "arm_group": [
+      {
+        "arm_group_label": "Prasugrel",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received a loading dose of 60 mg prasugrel orally immediately prior to PCI, followed by a maintenance dose of 10 mg/day."
+      },
+      {
+        "arm_group_label": "Clopidogrel",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receiving a loading dose of 600 mg clopidogrel orally immediately before PCI, followed by a maintenance dose of 75 mg/day."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prasugrel",
+        "description": "Oral loading dose of 60 mg prior to PCI, followed by daily maintenance of 10 mg.",
+        "arm_group_label": ["Prasugrel"],
+        "other_name": ["Effient"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Oral loading dose of 600 mg before PCI, followed by daily maintenance of 75 mg.",
+        "arm_group_label": ["Clopidogrel"],
+        "other_name": ["Plavix"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 to 75 years with a diagnosis of acute coronary syndrome requiring PCI.\n2. Patients on a stable regimen of aspirin (81-325 mg) prior to enrollment.\n3. Body weight ≥ 60 kg.\n\nExclusion Criteria:\n\n1. History of reaction to prasugrel, clopidogrel, or bivalirudin.\n2. Any contraindications to anticoagulation therapy.\n3. Significant active bleeding or conditions associated with bleeding risk."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alice Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiology Institute of Medicine"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiology Institute of Medicine",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {"country": "United States"},
+    "verification_date": "September 2023",
+    "study_first_submitted": "January 5, 2023",
+    "study_first_submitted_qc": "January 7, 2023",
+    "study_first_posted": "January 12, 2023",
+    "results_first_submitted": "September 10, 2023",
+    "results_first_submitted_qc": "September 12, 2023",
+    "results_first_posted": "September 15, 2023",
+    "last_update_submitted": "September 14, 2023",
+    "last_update_submitted_qc": "September 14, 2023",
+    "last_update_posted": "September 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Acute Coronary Syndrome", "Prasugrel", "Clopidogrel", "Platelet Function", "Percutaneous Coronary Intervention"],
+    "condition_browse": {"mesh_term": "Coronary Artery Disease"},
+    "intervention_browse": {"mesh_term": ["Clopidogrel", "Prasugrel Hydrochloride"]}
+  }
+}
+```

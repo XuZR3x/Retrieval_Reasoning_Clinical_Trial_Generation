@@ -1,0 +1,340 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02234567"
+    },
+    "id_info": {
+      "org_study_id": "Asthma Trial Group 101",
+      "nct_id": "NCT02234567"
+    },
+    "brief_title": "Effects of Montelukast in Newly Diagnosed Asthma Patients: A Pilot Study",
+    "official_title": "A Phase II Pilot Study Evaluating the Efficacy of Montelukast in Newly Diagnosed Asthma Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Asthma Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Asthma Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "Asthma is a heterogeneous chronic respiratory condition characterized by airway inflammation and hyperreactivity. Montelukast, a leukotriene receptor antagonist, is commonly prescribed for asthma management. This study aimed to investigate the efficacy of montelukast in reducing asthma symptoms and airway inflammation in patients newly diagnosed with asthma compared to placebo."
+    },
+    "detailed_description": {
+      "textblock": "The primary aim of this pilot study was to evaluate the effect of montelukast on asthma control as assessed by the Asthma Control Questionnaire (ACQ) score and spirometric parameters in a cohort of newly diagnosed asthma patients. Secondary objectives included measuring inflammatory markers in induced sputum and assessing quality of life using the Asthma Quality of Life Questionnaire (AQLQ). The hypotheses postulated that montelukast would reduce airway inflammation and improve asthma control compared to placebo. Despite initial interest, the study faced significant challenges in subject recruitment, adherence to protocol, and variability in physiological responses that ultimately led to its termination."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Failure to meet recruitment targets and challenges with patient adherence to discontinuance of prior asthma medications.",
+    "start_date": "March 2016",
+    "completion_date": "November 2018",
+    "primary_completion_date": "November 2018",
+    "phase": "N/A",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Asthma Control Questionnaire score",
+      "time_frame": "12 weeks",
+      "description": "The change in the Asthma Control Questionnaire score from baseline to week 12 will be assessed."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Eosinophil Count in Sputum",
+        "time_frame": "12 weeks",
+        "description": "Eosinophil count will be measured from induced sputum at baseline and after 12 weeks of treatment."
+      },
+      {
+        "measure": "Asthma Quality of Life Questionnaire score",
+        "time_frame": "12 weeks",
+        "description": "Change in the score from the Asthma Quality of Life Questionnaire will be evaluated at baseline and 12 weeks."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Asthma",
+    "arm_group": [
+      {
+        "arm_group_label": "Montelukast 10 mg/day",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants in this arm receive montelukast 10 mg daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants in this arm receive a placebo tablet daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Montelukast",
+        "description": "Montelukast, 10 mg taken once daily.",
+        "arm_group_label": "Montelukast 10 mg/day",
+        "other_name": "Singulair"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo matching montelukast taken once daily.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Males and females aged 18-65 years.\n- Newly diagnosed asthma based on standard clinical criteria.\n- Able to provide written informed consent.\n\nExclusion Criteria:\n- Prior treatment with montelukast or other leukotriene inhibitors.\n- Significant comorbidities affecting lung function.\n- Current smokers or those with a smoking history over 10 pack years."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Tran, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Asthma Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Asthma Research Institute Clinical Unit",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94105",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2023",
+    "study_first_submitted": "January 15, 2016",
+    "study_first_submitted_qc": "January 20, 2016",
+    "study_first_posted": "February 1, 2016",
+    "last_update_submitted": "February 10, 2023",
+    "last_update_posted": "March 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["asthma", "montelukast", "leukotriene antagonist"],
+    "condition_browse": {
+      "mesh_term": ["Asthma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Montelukast"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The initial recruitment phase aimed to enroll 60 participants by December 2016, but only 15 completed the study.",
+        "pre_assignment_details": "Participants were screened based on exclusion criteria, but many were found to be ineligible primarily due to prior use of montelukast.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Montelukast 10 mg/day",
+              "description": "Participants randomized to receive montelukast."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants randomized to receive placebo."
+            }
+          ]
+        }
+      },
+      "period_list": {
+        "period": {
+          "title": "Overall Study",
+          "milestone_list": {
+            "milestone": [
+              {
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [15, 0]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [15, 0]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [0, 0]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "baseline": {
+        "population": "15 participants enrolled, with no significant differences in baseline characteristics between treatment groups.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Montelukast 10 mg/day",
+              "description": "Subjects received montelukast for the duration of the study."
+            },
+            {
+              "title": "Placebo",
+              "description": "Subjects received placebo for the duration of the study."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [15, 0]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "SD",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [31.4, 8.7]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [5, null]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [10, null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Asthma Control Questionnaire Score",
+            "description": "The ACQ score was assessed at baseline and at 12 weeks post-treatment.",
+            "time_frame": "12 weeks",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Montelukast 10 mg/day",
+                  "description": "ACQ score for participants receiving montelukast."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "ACQ score for participants receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mean ACQ Score",
+              "description": "Calculated mean change in the ACQ score."
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout the study duration.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Montelukast 10 mg/day",
+              "description": "Including reported adverse events."
+            },
+            {
+              "title": "Placebo",
+              "description": "Including reported adverse events."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total, serious adverse events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Hospitalization due to asthma exacerbation",
+                    "counts": [0, 0]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Mild headache",
+                    "counts": [2, 1]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "limitations_and_caveats": "The results from this pilot study should be interpreted cautiously due to the limited sample size and recruitment challenges that prevented achieving the planned target population.",
+      "point_of_contact": {
+        "name_or_title": "Emily Tran",
+        "organization": "Asthma Research Institute",
+        "phone": "415-555-0137",
+        "email": "etran@asthmaresearch.org"
+      }
+    }
+  }
+}
+```

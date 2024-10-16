@@ -1,0 +1,430 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567218"
+    },
+    "id_info": {
+      "org_study_id": "P1778-024",
+      "nct_id": "NCT04567218"
+    },
+    "brief_title": "Efficacy and Safety of Apixaban in Patients With Atrial Fibrillation: A Multicenter Study",
+    "acronym": "APIFA",
+    "official_title": "A Multicenter Study Evaluating Efficacy and Safety of Apixaban Versus Usual Care in Patients With Atrial Fibrillation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Fictional University Clinical Trials",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Fictional University Clinical Trials",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to compare the efficacy and safety of Apixaban with usual care in patients with atrial fibrillation. Participants were randomized to receive either Apixaban or Vitamin K antagonists, with the primary focus on the rate of stroke and bleeding events over a 6-month period."
+    },
+    "detailed_description": {
+      "textblock": "Patients diagnosed with non-valvular atrial fibrillation were recruited from multiple sites. The trial sought to determine adherence to the treatment schedule and evaluate the impact of Apixaban on clinical outcomes compared to traditional therapies. Given that Apixaban requires twice-daily dosing, robust strategies for improving adherence were implemented. Despite these measures, the trial faced challenges including variations in patient characteristics, recruitment strategies, and compliance rates."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 20, 2020",
+    "completion_date": "March 30, 2023",
+    "primary_completion_date": "March 30, 2023",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Incidence of Stroke Events",
+        "time_frame": "Up to 6 months after randomization",
+        "description": "The primary outcome measured was the number of strokes occurring in participants receiving Apixaban compared to those receiving Vitamin K antagonists."
+      },
+      {
+        "measure": "Incidence of Major Bleeding Events",
+        "time_frame": "Up to 6 months after randomization",
+        "description": "The secondary outcome was assessed by counting the number of major bleeding incidents in both treatment groups."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Patient Adherence Rate Determined by Pill Count",
+        "time_frame": "At 3 months and 6 months",
+        "description": "Patient adherence was monitored through self-reported pill counts and electronic monitoring where available."
+      },
+      {
+        "measure": "Quality of Life Assessment Using EQ-5D-5L",
+        "time_frame": "Baseline to 6 months",
+        "description": "Quality of life was assessed to determine any differences between treatment groups."
+      },
+      {
+        "measure": "Incidence of Other Adverse Events",
+        "time_frame": "Up to 6 months after randomization",
+        "description": "All adverse events were recorded to compare safety profiles."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "800",
+    "condition": "Atrial Fibrillation",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm 1: Apixaban",
+        "arm_group_type": "Experimental",
+        "description": "Participants received Apixaban, dosed at 5 mg twice daily, for 6 months."
+      },
+      {
+        "arm_group_label": "Arm 2: Vitamin K Antagonists (Usual Care)",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received usual care with Vitamin K antagonists as per standard protocol for anticoagulation in atrial fibrillation."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "arm_group_label": "Arm 1: Apixaban"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vitamin K Antagonists",
+        "arm_group_label": "Arm 2: Vitamin K Antagonists (Usual Care)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Patients aged 18 years or older with a diagnosis of non-valvular atrial fibrillation.\n2. Candidates for anticoagulation therapy based on standard clinical guidelines.\n3. Ability to provide informed consent.\n\nExclusion Criteria:\n1. Prior stroke or transient ischemic attack in the past 6 months.\n2. Active bleeding disorder or recent major surgical intervention.\n3. Pregnant or breastfeeding women.\n4. Concurrent use of other direct oral anticoagulants."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jamie Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Fictional University Clinical Trials"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Fictional Hospital",
+          "address": {
+            "city": "Fictional City",
+            "state": "Fictional State",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "April 2024",
+    "study_first_submitted": "April 15, 2020",
+    "study_first_posted": "April 25, 2020",
+    "results_first_submitted": "June 14, 2023",
+    "results_first_posted": "July 10, 2023",
+    "last_update_posted": "July 12, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Atrial Fibrillation"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Apixaban", "Vitamin K Antagonists"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "800 participants were screened, of which 750 were eligible and randomized (375 Apixaban, 375 Usual Care).",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm 1: Apixaban",
+              "description": "Participants received Apixaban 5 mg twice daily for 6 months."
+            },
+            {
+              "title": "Arm 2: Vitamin K Antagonists",
+              "description": "Participants received usual care with Vitamin K antagonists."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "Overall Study Duration",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": ["375 participants treated with Apixaban", "375 participants treated with Usual Care"]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": ["350 participants completed Apixaban", "340 participants completed Usual Care"]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": ["25 withdrew", "35 lost to follow-up"]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Participants included in the Full Analysis Set.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Apixaban",
+              "description": "Participants receiving Apixaban."
+            },
+            {
+              "title": "Vitamin K Antagonists",
+              "description": "Participants receiving usual care."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null]
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null, null]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex Distribution",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [null, null, null]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [null, null, null]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Incidence of Stroke Events",
+              "description": "Number of participants experiencing stroke events.",
+              "time_frame": "Up to 6 months after randomization",
+              "population": "Full analysis set.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Apixaban",
+                    "description": "Monitoring incidence of stroke in participants treated with Apixaban."
+                  },
+                  {
+                    "title": "Usual Care",
+                    "description": "Monitoring incidence of stroke in participants treated with Vitamin K antagonists."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Incidence of Stroke Events",
+                "units": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [null, null]
+                    }
+                  },
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [null, null]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Primary",
+              "title": "Incidence of Major Bleeding Events",
+              "description": "Number of participants experiencing major bleeding events.",
+              "time_frame": "Up to 6 months after randomization",
+              "population": "Full analysis set.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Apixaban",
+                    "description": "Monitoring incidence of major bleeding in participants treated with Apixaban."
+                  },
+                  {
+                    "title": "Usual Care",
+                    "description": "Monitoring incidence of major bleeding in participants treated with Vitamin K antagonists."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Incidence of Major Bleeding Events",
+                "units": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [null, null]
+                    }
+                  },
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [null, null]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Ongoing monitoring post-randomization until 6 months.",
+        "desc": "All reported adverse events were closely observed and documented throughout the study duration.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Apixaban",
+              "description": "Documentation of adverse events in subjects treated with Apixaban."
+            },
+            {
+              "title": "Vitamin K Antagonists",
+              "description": "Documentation of adverse events in subjects treated with usual care."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 24.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total serious adverse events",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Cardiac disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Acute Myocardial Infarction",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Heart Failure",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "3",
+          "default_vocab": "MedDRA 24.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total reported adverse events",
+                    "counts": [null, null]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The study sponsors reserve the right to review and comment on study results prior to publication.",
+        "point_of_contact": {
+          "name_or_title": "Fictional University CT Contact",
+          "organization": "Fictional University Clinical Trials",
+          "phone": "+1-800-555-0199",
+          "email": "contact@fictionaluniversity.org"
+        }
+      }
+    }
+  }
+}
+```

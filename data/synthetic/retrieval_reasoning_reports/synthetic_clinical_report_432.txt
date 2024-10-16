@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04512247"
+    },
+    "id_info": {
+      "org_study_id": "IBR-CLL-102",
+      "secondary_id": ["IBR-2021", "CBL-5498", "GR-302"],
+      "nct_id": "NCT04512247"
+    },
+    "brief_title": "Ibrutinib in Patients With Refractory Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Ibrutinib in Patients With Refractory Chronic Lymphocytic Leukemia Previously Treated With Multiple Therapeutic Regimens",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Blood and Marrow Transplant Research Consortium",
+        "agency_class": "Other"
+      }
+    },
+    "source": "International Blood and Marrow Transplant Research Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study investigates the therapeutic impact of ibrutinib in patients diagnosed with refractory chronic lymphocytic leukemia (CLL) who have undergone multiple previous treatment regimens. The study aims to evaluate the overall response rate and safety profile associated with this treatment."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the overall response rate (complete response [CR] + partial response [PR]) of ibrutinib in patients with refractory CLL after inadequate response to at least two previous therapies.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To assess progression-free survival (PFS) among treated patients.\r\nII. To characterize the safety profile through the evaluation of adverse events using the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) v5.0.\r\nIII. To identify biomarkers associated with response to ibrutinib treatment among participants.\r\nIV. To investigate the correlation between clinical outcomes and variations in dosing regimens of ibrutinib.\r\n\r\nOUTLINE:\r\n\r\nPatients will receive oral ibrutinib at 420 mg once daily in 28-day cycles. The treatment will continue until disease progression, unmanageable toxicity, or until the participant withdraws consent.\r\n\r\nPatients will be monitored for adverse events and response evaluations will occur every 3 months."
+    },
+    "overall_status": "Completed",
+    "start_date": "October 15, 2020",
+    "completion_date": "March 30, 2023",
+    "primary_completion_date": "December 12, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 1 year",
+      "description": "ORR will be evaluated according to the International Workshop on CLL criteria, comprising CR and PR rates."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years",
+        "description": "PFS is defined as the time from the start of treatment until disease progression or death from any cause."
+      },
+      {
+        "measure": "Incidence of Grade III-IV Adverse Events",
+        "time_frame": "Up to 30 days post-treatment",
+        "description": "Adverse events will be evaluated following CTCAE v5.0 criteria."
+      },
+      {
+        "measure": "Biomarker Analysis",
+        "time_frame": "Correlation evaluations performed with each treatment cycle.",
+        "description": "Genetic and molecular analyses will inform the potential for biomarker-driven therapy stratifications."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "35",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": {
+      "arm_group_label": "Treatment (Ibrutinib)",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive ibrutinib orally once daily until disease progression or unacceptable toxicity occurs."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ibrutinib",
+        "description": "Given orally once daily (420 mg)",
+        "arm_group_label": "Treatment (Ibrutinib)",
+        "other_name": ["Imbruvica", "PCI-32765"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Patients aged 18 years or older with a diagnosis of CLL confirmed by histology.\r\n- Refractory disease following at least two lines of previous therapy, including but not limited to fludarabine, bendamustine, or other standard therapies.\r\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n- Adequate organ function as defined by standard serum chemistry lab values.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with ibrutinib or any Bruton's tyrosine kinase inhibitors.\r\n- Significant concurrent illness, such as active infections or uncontrolled diabetes.\r\n- Recent (within 28 days) major surgery.\r\n- Known allergies to any component of the study drug."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Ernest H. Sargent",
+      "role": "Principal Investigator",
+      "affiliation": "International Blood and Marrow Transplant Research Consortium"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2023",
+    "study_first_submitted": "September 12, 2020",
+    "study_first_posted": "September 14, 2020",
+    "last_update_posted": "April 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Chronic Lymphocytic Leukemia",
+      "Ibrutinib",
+      "B-cell malignancies",
+      "Pharmacodynamics",
+      "Biomarkers"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Lymphoma", "Leukemia", "Leukemia, Lymphocytic, Chronic, B-Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ibrutinib"]
+    },
+    "limitations_and_caveats": "The study faced significant challenges, notably limited patient enrollment which compromised statistical power. The heterogeneity of CLL subtypes hindered effective assessments of Ibrutinib, which was designed primarily with specific molecular targets in mind. Additionally, severe adverse events reported during the trial led to frequent treatment discontinuations, thus confounding the evaluation of the drug's efficacy."
+  }
+}
+```

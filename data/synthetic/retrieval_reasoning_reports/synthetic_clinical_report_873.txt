@@ -1,0 +1,153 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03086453"
+    },
+    "id_info": {
+      "org_study_id": "RAL-2020",
+      "nct_id": "NCT03086453"
+    },
+    "brief_title": "Evaluation of Raltegravir in HIV-Infected Patients with Persistent Immune Activation",
+    "official_title": "A Phase III Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy and Safety of Raltegravir in HIV-Infected Adults With Persistent Immune Activation Despite Antiretroviral Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Gilead Sciences, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This is a Phase III, randomized, double-blind, placebo-controlled trial aimed at evaluating the efficacy and safety of raltegravir in HIV-infected adults experiencing persistent immune activation despite receiving stable antiretroviral therapy (ART). The study hypothesized that adding raltegravir would enhance immune reconstitution and decrease markers of immune activation."
+    },
+    "detailed_description": {
+      "textblock": "The trial enrolled 320 HIV-infected adults aged 18-65 who had achieved viral suppression (<50 copies/mL) for at least 12 months but demonstrated persistent CD4 counts below 350 cells/mm³ and significant immune activation as evidenced by elevated CD38 expression on CD8+ T-cells. Participants were randomly assigned to receive either raltegravir or a matching placebo alongside their ongoing ART regimen for a duration of 48 weeks. The primary outcome measure was the change in CD4 count from baseline to week 48."
+    },
+    "overall_status": "Terminated",
+    "start_date": "April 2017",
+    "completion_date": "December 2020",
+    "primary_completion_date": "December 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Care Provider)"
+    },
+    "primary_outcome": {
+      "measure": "Change in CD4 Count from Baseline to Week 48",
+      "time_frame": "Week 48"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in CD38 Expression on CD8+ T-cells",
+        "time_frame": "Week 48"
+      },
+      {
+        "measure": "Adverse Events Reported",
+        "time_frame": "Week 0-48"
+      },
+      {
+        "measure": "Viral Load Suppression Maintenance",
+        "time_frame": "Week 48"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": "Human Immunodeficiency Virus",
+    "arm_group": [
+      {
+        "arm_group_label": "Raltegravir",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving 400 mg of raltegravir twice daily in addition to their stable ART regimen."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receiving placebo twice daily in addition to their stable ART regimen."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Raltegravir",
+        "description": "400 mg twice daily for 48 weeks.",
+        "arm_group_label": "Raltegravir"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered twice daily for 48 weeks.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Documented HIV-1 infection with persistent immune activation despite ART.\r\n- Adult males and females aged 18 to 65 years.\r\n- CD4 count <350 cells/mm³ with documented HIV RNA <50 copies/mL for at least 12 months.\r\n- Signed informed consent. \r\n\r\nExclusion Criteria:\r\n\r\n- Current participation in another clinical study.\r\n- Serious hepatic or renal impairment.\r\n- Life expectancy <1 year due to non-HIV-related causes.\r\n- History of hypersensitivity to integrase inhibitors."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James T. Dennis, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Health"
+    },
+    "location": {
+      "facility": {
+        "name": "NIH Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "March 15, 2017",
+    "study_first_submitted_qc": "March 20, 2017",
+    "study_first_posted": "March 25, 2017",
+    "last_update_submitted": "January 5, 2021",
+    "last_update_submitted_qc": "January 6, 2021",
+    "last_update_posted": "January 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "keyword": [
+      "HIV",
+      "Raltegravir",
+      "Immune Activation",
+      "Antiretroviral Therapy",
+      "CD4 Counts"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Acquired Immunodeficiency Syndrome",
+        "HIV Infections"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Raltegravir"
+      ]
+    }
+  }
+}
+```

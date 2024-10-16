@@ -1,0 +1,191 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "98765",
+      "secondary_id": "H6Q-MC-KL10",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Study to Evaluate Enzastaurin in Combination with Pemetrexed for Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase 2 Randomized Clinical Trial of Enzastaurin in Combination with Pemetrexed Versus Pemetrexed Alone in Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to assess the efficacy and safety of enzastaurin combined with pemetrexed, compared with pemetrexed alone, in treating individuals with advanced non-small cell lung cancer (NSCLC) who have failed previous therapies."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate efficacy and high censoring rates.",
+    "start_date": "January 2011",
+    "completion_date": "September 2013",
+    "primary_completion_date": "November 2012",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Baseline to measured progressive disease up to 12 months",
+      "description": "PFS was defined as the time from randomization to the first documented evidence of disease progression or death from any cause. This was assessed using the Response Evaluation Criteria in Solid Tumors (RECIST, version 1.1)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Randomization to death or last contact up to 18 months",
+        "description": "OS was defined as the duration from randomization to death from any cause for all randomized participants."
+      },
+      {
+        "measure": "Duration of Response (DOR)",
+        "time_frame": "Randomization to first evidence of progression",
+        "description": "DOR was calculated from the first documented objective response to progression or death."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Pemetrexed + Enzastaurin",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "Pemetrexed + Placebo",
+        "arm_group_type": "Placebo Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "enzastaurin",
+        "description": "500 mg oral daily up to disease progression in conjunction with Pemetrexed.",
+        "arm_group_label": "Pemetrexed + Enzastaurin",
+        "other_name": "LY317615"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "pemetrexed",
+        "description": "500 mg/m² IV on Day 1 of each 21-day cycle until disease progression.",
+        "arm_group_label": ["Pemetrexed + Enzastaurin", "Pemetrexed + Placebo"],
+        "other_name": "Alimta"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "Oral placebo taken daily during the trial treatment period.",
+        "arm_group_label": "Pemetrexed + Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed advanced non-small cell lung cancer (NSCLC).\r\n- Documented progression following at least one prior systemic therapy.\r\n- Age ≥ 18 years and an ECOG performance status of 0-2.\r\n\r\nExclusion Criteria:\r\n\r\n- Active infection requiring systemic therapy.\r\n- Unresolved toxicities from prior chemotherapy.\r\n- Other malignant disease within the past 5 years, except for non-melanoma skin cancer or localized prostate cancer.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon-Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": {
+      "facility": {
+        "name": "For additional information regarding investigative sites for this trial, contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon-Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST), or speak with your personal physician.",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "France"]
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "December 15, 2010",
+    "study_first_submitted_qc": "December 15, 2010",
+    "study_first_posted": "December 20, 2010",
+    "results_first_submitted": "September 5, 2023",
+    "results_first_posted": "September 12, 2023",
+    "disposition_first_submitted": "October 30, 2013",
+    "last_update_posted": "September 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Recruitment challenges due to strict eligibility criteria limited participant enrollment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Pemetrexed + Enzastaurin",
+              "description": "Enzastaurin showed no significant improvement in PFS compared with pemetrexed alone."
+            },
+            {
+              "title": "Pemetrexed + Placebo",
+              "description": "Standard treatment group demonstrating expected outcomes without any notable enhancements from the investigational drug."
+            }
+          ]
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Adverse Event",
+              "participants_list": {"participants": [null, null]}
+            },
+            {
+              "title": "Physician Decision",
+              "participants_list": {"participants": [null, null]}
+            },
+            {
+              "title": "Progressive Disease",
+              "participants_list": {"participants": [null, null]}
+            },
+            {
+              "title": "Death",
+              "participants_list": {"participants": [null, null]}
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "desc": "No observed superiority of enzastaurin over placebo in improving clinical outcomes; high censoring rates were noted during analysis.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Pemetrexed + Enzastaurin",
+              "description": "Limited responses led to premature discontinuations."
+            },
+            {
+              "title": "Pemetrexed + Placebo",
+              "description": "Observed outcomes aligned with historical control data."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

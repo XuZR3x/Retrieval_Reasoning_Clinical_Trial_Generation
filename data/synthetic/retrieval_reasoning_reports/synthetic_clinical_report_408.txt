@@ -1,0 +1,407 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03589872"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-PD-01",
+      "nct_id": "NCT03589872"
+    },
+    "brief_title": "Evaluation of Pembrolizumab in Combination with Targeted Therapy for Patients with Recurrent Non-small Cell Lung Cancer (NSCLC)",
+    "official_title": "A Multi-Center, Open-Label, Phase II Study of Pembrolizumab in Combination with Targeted Therapy for Patients with Recurrent Non-small Cell Lung Cancer Who Have Failed Prior Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme LLC",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluated the safety and efficacy of pembrolizumab in combination with a targeted therapy in patients with recurrent NSCLC who have progressed after previous treatment modalities."
+    },
+    "detailed_description": {
+      "textblock": "This is an open-label, single-arm, Phase II trial designed to evaluate pembrolizumab combined with a selected targeted therapy.\n\n**OUTLINE:** The trial consists of a treatment period followed by monitoring for efficacy and safety.\n\n**Intervention Details:** \n- **Pembrolizumab:** Administered at a fixed dose of 200 mg via intravenous infusion every 3 weeks.\n- **Targeted Therapy:** Patients will receive either crizotinib or osimertinib, depending on the specific mutation identified. \n\n**Study Schedule:** Assessments will involve tumor evaluations every 8 weeks during the treatment phase, along with regular safety monitoring. All screening labs must be performed within 14 days prior to enrollment."
+    },
+    "overall_status": "Withdrawn",
+    "why_stopped": "Insufficient patient enrollment and challenges in patient stratification based on PD-L1 expression levels.",
+    "start_date": "June 14, 2018",
+    "completion_date": "February 5, 2020",
+    "primary_completion_date": "February 5, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Up to 24 months",
+      "description": "Objective Response Rate defined as the proportion of participants achieving complete or partial response as assessed by RECIST v1.1."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the start of treatment until disease progression or death (up to 24 months)",
+        "description": "PFS will be evaluated according to RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Side effects will be monitored from treatment initiation to the date of death or last follow-up (up to 24 months)",
+        "description": "OS will be calculated from the initiation of treatment until death from any cause."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "From first treatment to 30 days after last dose",
+        "description": "Adverse events will be recorded and categorized according to CTCAE v5.0 grading."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Pembrolizumab + Targeted Therapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive pembrolizumab combined with either crizotinib or osimertinib."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Pembrolizumab",
+        "description": "200 mg IV infusion every 3 weeks",
+        "arm_group_label": "Pembrolizumab + Targeted Therapy",
+        "other_name": "MK-3475"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Targeted Therapy",
+        "description": "Either crizotinib or osimertinib as determined by mutation status",
+        "arm_group_label": "Pembrolizumab + Targeted Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients must be 18 years or older.\n- Histologically confirmed recurrent NSCLC with measurable disease by RECIST v1.1. \n- Must have failed at least one prior systemic treatment.\n- Adequate organ function, defined by specific laboratory ranges.\n\nExclusion Criteria:\n- Active autoimmune disease requiring systemic therapy.\n- Prior treatment with any anti-PD-1/PD-L1 therapy, or other investigational agents within 4 weeks.\n- History of severe hypersensitivity to pembrolizumab or other monoclonal antibodies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Tran, M.D.",
+      "role": "Study Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "January 10, 2018",
+    "study_first_posted": "January 15, 2018",
+    "last_update_submitted": "March 5, 2020",
+    "last_update_posted": "March 10, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Cancer Institute",
+      "investigator_full_name": "Brian M. Hargis, MD, PhD",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Pembrolizumab",
+      "Non-Small Cell Lung Cancer",
+      "Targeted Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Pembrolizumab"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "provided_document_section": {
+      "provided_document": {
+        "document_type": "Study Protocol and Statistical Analysis Plan",
+        "document_has_protocol": "Yes",
+        "document_has_icf": "No",
+        "document_has_sap": "Yes",
+        "document_date": "April 18, 2019",
+        "document_url": "https://cdn.clinicaltrials.gov/large-docs/72/NCT03589872/Prot_SAP_001.pdf"
+      }
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "15 participants were screened and enrolled; however, only 10 were able to receive treatment protocol due to rapid disease progression.",
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Targeted Therapy",
+            "description": "Participants were administered pembrolizumab with the corresponding targeted therapy for a maximum treatment duration of 24 months or until progression."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": {
+                "title": "Patient Withdrawal or Rapid Disease Progression",
+                "participants_list": {
+                  "participants": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Targeted Therapy",
+            "description": "Participants receiving the combined treatment."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "Evaluation of the ORR based on complete and partial responses per RECIST v1.1 after the treatment phase.",
+            "time_frame": "Up to 24 months",
+            "group_list": {
+              "group": {
+                "title": "Pembrolizumab + Targeted Therapy",
+                "description": "Combined treatment efficacy will be assessed."
+              }
+            },
+            "measure": {
+              "title": "Objective Response Rate (ORR)",
+              "description": "Percentage of participants achieving complete or partial response per RECIST criteria.",
+              "units": "Percentage",
+              "param": "Number",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              },
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS duration will be measured from treatment initiation until disease progression or death.",
+            "time_frame": "Up to 24 months",
+            "group_list": {
+              "group": {
+                "title": "Pembrolizumab + Targeted Therapy",
+                "description": "Combined treatment impact on PFS will be assessed."
+              }
+            },
+            "measure": {
+              "title": "Progression-Free Survival (PFS)",
+              "description": "Time from start of treatment to the first documented disease progression per RECIST 1.1.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              },
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events monitored from first dose until 30 days after last dose.",
+        "desc": "The frequency of adverse events was recorded and graded according to the NCI CTCAE v5.0 criteria.",
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Targeted Therapy",
+            "description": "Monitoring of treatment-related adverse events."
+          }
+        }
+      },
+      "serious_events": {
+        "default_vocab": "CTCAEv5.0",
+        "default_assessment": "Non-systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total Serious Adverse Events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total Serious Adverse Events",
+                    "counts": null
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "CTCAEv5.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Efficacy Related Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "No Objective Responses Observed",
+                  "counts": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "No restrictions exist on the Principal Investigators' rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Rachel Moore, M.D.",
+        "organization": "National Cancer Institute",
+        "phone": "(202) 555-0150",
+        "email": "rmoore@nih.gov"
+      }
+    }
+  }
+}
+```

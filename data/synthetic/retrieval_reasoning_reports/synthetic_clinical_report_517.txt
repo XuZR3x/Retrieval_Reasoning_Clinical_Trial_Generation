@@ -1,0 +1,165 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03214569"
+    },
+    "id_info": {
+      "org_study_id": "PROTOCOL-2468",
+      "nct_id": "NCT03214569"
+    },
+    "brief_title": "Efficacy of Anastrozole in Combination with Palbociclib in Hormone Receptor-Positive, HER2-Negative Breast Cancer",
+    "official_title": "A Randomized Phase II Study Evaluating the Efficacy and Safety of Anastrozole Combined with Palbociclib Versus Anastrozole Alone in Postmenopausal Women with Hormone Receptor-Positive, HER2-Negative Advanced Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California San Francisco",
+        "agency_class": "Academic"
+      },
+      "collaborator": [{
+        "agency": "Pfizer, Inc.",
+        "agency_class": "Industry"
+      }]
+    },
+    "source": "University of California San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Anastrozole is an aromatase inhibitor that effectively lowers estrogen levels in postmenopausal women, while palbociclib has demonstrated efficacy in cell cycle inhibition. Combining these agents is hypothesized to enhance outcomes in patients with hormone receptor-positive breast cancer.\n\nPURPOSE: This phase II trial aims to evaluate whether the combination of anastrozole and palbociclib improves tumor response rates and progression-free survival compared to anastrozole alone in women with advanced breast cancer."
+    },
+    "detailed_description": {
+      "textblock": "STUDY OBJECTIVES:\n\n- To compare the efficacy of the anastrozole and palbociclib combination versus anastrozole monotherapy in terms of overall response rate and disease control.\n\n- To assess the safety profile of the combined treatment regimen, specifically evaluating incidence and severity of adverse events.\n\n- To evaluate additional clinical outcomes including progression-free survival (PFS) and overall survival (OS).\n\n- To measure health-related quality of life using validated questionnaires, allowing for a comprehensive assessment of treatment impact.\n\nOUTLINE: This is a multicenter, randomized, open-label, phase II trial. Enrollment will occur at multiple sites, and participants will be stratified by prior treatments received (none versus one or more). Patients will be randomized to receive:\n\n- Arm I: Anastrozole 1 mg orally once a day plus Palbociclib 125 mg once daily for 21 days of a 28-day cycle.\n- Arm II: Anastrozole 1 mg orally once a day alone.\n\nFollow-up evaluations will occur every 3 months for the first year, then every 6 months thereafter."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2017",
+    "completion_date": "July 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Measured at 24 weeks",
+      "description": "The overall response rate defined as the proportion of patients achieving a complete or partial response to the treatment."
+    },
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Through study completion, an average of 2 years",
+      "description": "Duration from randomization until progression of disease or death due to any cause."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Through study completion, an average of 2 years",
+      "description": "Duration from randomization until death due to any cause."
+    },
+    {
+      "measure": "Incidence of Adverse Events (AEs)",
+      "time_frame": "Throughout the trial",
+      "description": "Assessment of all adverse events experienced by participants, graded per CTCAE v4.0 criteria."
+    },
+    {
+      "measure": "Health-Related Quality of Life (HRQoL)",
+      "time_frame": "Baseline, 6 months, and 12 months",
+      "description": "Change in quality of life evaluated using the EORTC QLQ-C30 and QLQ-BR23 questionnaires."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "468",
+    "condition": "Breast Cancer",
+    "arm_group": [{
+      "arm_group_label": "Arm I",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive oral anastrozole once daily in combination with oral palbociclib once daily during the specified treatment cycles."
+    },
+    {
+      "arm_group_label": "Arm II",
+      "arm_group_type": "Active Comparator",
+      "description": "Patients receive oral anastrozole once daily."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Anastrozole",
+      "description": "1 mg administered orally once daily.",
+      "arm_group_label": ["Arm I", "Arm II"]
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Palbociclib",
+      "description": "125 mg administered orally once daily for 21 days of a 28-day cycle.",
+      "arm_group_label": "Arm I"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "DISEASE CHARACTERISTICS:\n\n- Histologically confirmed hormone receptor-positive (ER+ and/or PR+) advanced breast cancer.\n- At least one measurable lesion according to RECIST v1.1 criteria.\n- Postmenopausal status defined by absence of menses for at least 12 months or a previous bilateral oophorectomy.\n\nPATIENT CHARACTERISTICS:\n\n- Female, aged 18 years or older.\n- Performance status (ECOG) 0-2.\n\nEXCLUSION CRITERIA:\n\n- Evidence of metastatic disease to the central nervous system.\n- Prior treatment with anastrozole or palbociclib.\n- Significant hepatic or renal impairment. "
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [{
+      "last_name": "Emily Wong, MD",
+      "role": "Study Chair",
+      "affiliation": "University of California San Francisco"
+    }],
+    "location": [{
+      "facility": {
+        "name": "University of California San Francisco",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "UCLA David Geffen School of Medicine",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2022",
+    "study_first_submitted": "May 12, 2017",
+    "study_first_submitted_qc": "May 12, 2017",
+    "study_first_posted": "May 15, 2017",
+    "results_first_submitted": "August 10, 2021",
+    "results_first_submitted_qc": "August 10, 2021",
+    "results_first_posted": "August 12, 2021",
+    "last_update_submitted": "September 1, 2022",
+    "last_update_submitted_qc": "September 1, 2022",
+    "last_update_posted": "September 3, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["hormone receptor-positive breast cancer", "anastrozole", "palbociclib", "combination therapy"],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Anastrozole", "Palbociclib"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients were enrolled from multiple centers across the United States, including prominent academic institutions and community hospitals. A total of 468 participants were enrolled and randomized.",
+        "pre_assignment_details": "Following baseline assessments and eligibility confirmations, 468 patients were randomized into treatment arms: 234 in Arm I and 234 in Arm II."
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,228 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01510192"
+        },
+        "id_info": {
+            "org_study_id": "NEB-MD-09",
+            "nct_id": "NCT01510192"
+        },
+        "brief_title": "Assessing the Efficacy and Safety of Nebivolol in Patients With Stage 2 Hypertension and Comorbid Metabolic Syndrome",
+        "official_title": "A Multi-Center Trial to Evaluate the Efficacy and Safety of Nebivolol in Patients With Stage 2 Hypertension and Metabolic Syndrome",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novartis Pharmaceuticals",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Novartis Pharmaceuticals",
+        "oversight_info": {
+            "has_dmc": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study aimed to evaluate the antihypertensive efficacy and safety of nebivolol in patients diagnosed with stage 2 hypertension who also met diagnostic criteria for metabolic syndrome. The primary endpoint was the change in systolic blood pressure from baseline to week 12. Secondary endpoints included quality of life measures and metabolic parameters."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Due to slow enrollment and lack of statistical power to achieve study objectives.",
+        "start_date": "March 2012",
+        "primary_completion_date": "March 2015",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Change from Baseline in Systolic Blood Pressure",
+            "time_frame": "Week 12",
+            "description": "The primary outcome measure was defined as the change in systolic blood pressure (SBP) from baseline to the end of the treatment period (Week 12), assessed with standardized sphygmomanometric techniques."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Change in Diastolic Blood Pressure",
+                "time_frame": "Week 12",
+                "description": "Assess the change in diastolic blood pressure (DBP) from baseline to Week 12."
+            },
+            {
+                "measure": "Change in Metabolic Parameters",
+                "time_frame": "Week 12",
+                "description": "Evaluate changes in fasting blood glucose, lipid profiles, and waist circumference at Week 12."
+            },
+            {
+                "measure": "Quality of Life Assessment",
+                "time_frame": "Week 12",
+                "description": "Evaluate quality of life measures using the EQ-5D scale at baseline and Week 12."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "20",
+        "condition": ["Hypertension", "Metabolic Syndrome"],
+        "arm_group": [
+            {
+                "arm_group_label": "1",
+                "arm_group_type": "Active Comparator",
+                "description": "Nebivolol administered at a fixed dose of 5 mg/day, escalating to 10 mg/day as necessary."
+            },
+            {
+                "arm_group_label": "2",
+                "arm_group_type": "Active Comparator",
+                "description": "Placebo, matched to nebivolol in appearance and administration."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Nebivolol",
+                "description": "Oral administration of nebivolol starting at 5 mg/day for 6 weeks, followed by an increase to 10 mg/day if necessary.",
+                "arm_group_label": "1",
+                "other_name": "Bystolic"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Matching placebo administered orally with the same dosing regimen as nebivolol.",
+                "arm_group_label": "2"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n - Male or female, aged 30 to 65 years\n - Diagnosis of Stage 2 hypertension (defined as SBP ≥ 160 mmHg)\n - Diagnosis of metabolic syndrome per National Cholesterol Education Program criteria\n - Capable of providing informed consent\n\n Exclusion Criteria:\n\n - Secondary hypertension\n - History of hypersensitivity to nebivolol or similar agents\n - Significant gastrointestinal, renal or liver impairment\n - Pregnant or nursing women\n - Participation in another clinical trial within 30 days"
+            },
+            "gender": "All",
+            "minimum_age": "30 Years",
+            "maximum_age": "65 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Michael Thompson, MD",
+            "role": "Study Director",
+            "affiliation": "Novartis Pharmaceuticals"
+        },
+        "location": {
+            "facility": [{
+                "name": "Novartis Investigative Site",
+                "address": {
+                    "city": "Atlanta",
+                    "state": "Georgia",
+                    "zip": "30306",
+                    "country": "United States"
+                }
+            }]
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "September 2019",
+        "study_first_submitted": "November 10, 2011",
+        "study_first_posted": "November 15, 2011",
+        "results_first_submitted": "April 2, 2015",
+        "results_first_posted": "May 15, 2015",
+        "last_update_posted": "June 3, 2015",
+        "responsible_party": {
+            "name_title": "Michael Thompson, MD",
+            "organization": "Novartis Pharmaceuticals"
+        },
+        "keyword": ["Nebivolol", "Hypertension", "Metabolic Syndrome", "Systolic Blood Pressure"],
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "The recruitment period lasted from March 2012 to October 2014 across one US location.",
+                "pre_assignment_details": "All participants underwent a washout phase of 4 weeks prior to randomization to eliminate any confounding effects from previous antihypertensive treatment.",
+                "group_list": {
+                    "group": [{
+                        "title": "Nebivolol",
+                        "description": "Patients received nebivolol starting at 5 mg/day for a total of 12 weeks."
+                    }, {
+                        "title": "Placebo",
+                        "description": "Patients received placebo following the same regimen."
+                    }]
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [{
+                                "title": "STARTED",
+                                "participants_list": {
+                                    "participants": [null, null]
+                                }
+                            }, {
+                                "title": "COMPLETED",
+                                "participants_list": {
+                                    "participants": [null, null]
+                                }
+                            }, {
+                                "title": "NOT COMPLETED",
+                                "participants_list": {
+                                    "participants": [null, null]
+                                }
+                            }]
+                        }
+                    }
+                }
+            },
+            "reported_events": {
+                "time_frame": "17 months",
+                "group_list": {
+                    "group": [{
+                        "title": "Nebivolol",
+                        "description": "Patients receiving nebivolol reported an increased incidence of gastrointestinal events."
+                    }, {
+                        "title": "Placebo",
+                        "description": "Placebo group showed similar adverse event profiles compared to nebivolol."
+                    }]
+                },
+                "serious_events": {
+                    "category_list": {
+                        "category": {
+                            "title": "Total",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Total serious adverse events",
+                                    "counts": [0, 0]
+                                }
+                            }
+                        }
+                    }
+                },
+                "other_events": {
+                    "frequency_threshold": "5",
+                    "category_list": {
+                        "category": [{
+                            "title": "Total",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Total other adverse events",
+                                    "counts": [5, 5]
+                                }
+                            }
+                        }, {
+                            "title": "Musculoskeletal disorders",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Joint pain",
+                                    "counts": [5, 2]
+                                }
+                            }
+                        }, {
+                            "title": "Gastrointestinal disorders",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Diarrhea",
+                                    "counts": [3, 1]
+                                }
+                            }
+                        }]
+                    }
+                }
+            },
+            "limitations_and_caveats": "The study was terminated early due to insufficient enrollment, with only 20 participants out of a targeted 120 randomized. The failure to meet the required sample size compromised the statistical power necessary for reliable efficacy conclusions regarding nebivolol, as well as raised concerns regarding its generalizability to the broader hypertension population."
+        }
+    }
+}
+```

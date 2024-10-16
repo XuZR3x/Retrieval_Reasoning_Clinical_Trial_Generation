@@ -1,0 +1,299 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT04152759"
+        },
+        "id_info": {
+            "org_study_id": "CLN-2020-045",
+            "nct_id": "NCT04152759"
+        },
+        "brief_title": "Carfilzomib in Combination with Standard Therapy for Advanced Multiple Myeloma",
+        "official_title": "A Phase II Study of Carfilzomib in Combination with Standard Therapy in Patients with Advanced Multiple Myeloma: A Randomized Trial Versus Standard Therapy Alone",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Global Cancer Consortium",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Global Cancer Consortium",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This Phase II clinical trial evaluates the efficacy and safety of carfilzomib administered in combination with standard therapy in patients diagnosed with advanced multiple myeloma. The trial aims to ascertain whether carfilzomib enhances overall response rates and improves progression-free survival compared to standard therapy alone."
+        },
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVE:\n\nI. Evaluate the overall response rate (ORR) of carfilzomib in combination with standard therapy compared to standard therapy alone.\n\nSECONDARY OBJECTIVES:\n\nI. Assess progression-free survival (PFS) in both treatment arms.\nII. Evaluate overall survival (OS) in relation to the inclusion of carfilzomib.\nIII. Analyze the incidence of adverse events (AEs) categorized by severity and the impact on patient tolerability.\nIV. Investigate the pharmacogenomics of participants to explore variability in treatment response based on genetic background.\n\nOUTLINE:\n\nParticipants will be randomized into two groups: one receiving carfilzomib in conjunction with standard therapy and the other receiving standard therapy alone. Carfilzomib will be administered at a dose of 20 mg/m² IV on days 1 and 2 of each 28-day cycle, with potential dose escalation based on tolerability and response.\n\nFollow-up assessments will occur every 4 weeks for clinical response evaluation and adverse event monitoring."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Terminated due to insufficient clinical efficacy and high treatment-related toxicities leading to patient withdrawal.",
+        "start_date": "January 15, 2020",
+        "completion_date": "August 30, 2023",
+        "primary_completion_date": "April 10, 2023",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Overall Response Rate (ORR)",
+            "time_frame": "Evaluated at the end of cycle 4 (approximately 4 months)",
+            "description": "ORR as defined by the International Myeloma Working Group (IMWG) criteria."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "From randomization until progression or death, assessed every 4 months.",
+                "description": "PFS will be assessed via Kaplan-Meier survival analysis."
+            },
+            {
+                "measure": "Overall Survival (OS)",
+                "time_frame": "From randomization until death from any cause.",
+                "description": "OS will be estimated through Kaplan-Meier method."
+            },
+            {
+                "measure": "Incidence of Adverse Events (AEs)",
+                "time_frame": "Throughout the trial up to 30 days post-treatment completion.",
+                "description": "AEs will be evaluated according to CTCAE version 5.0."
+            },
+            {
+                "measure": "Pharmacogenomics Analysis",
+                "time_frame": "Sample analysis at baseline and cycle 4.",
+                "description": "Variability in drug metabolism based on genetic profiling will be evaluated."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "45",
+        "condition": "Multiple Myeloma",
+        "arm_group": [
+            {
+                "arm_group_label": "Carfilzomib plus Standard Treatment",
+                "arm_group_type": "Experimental",
+                "description": "Participants receive carfilzomib in combination with standard therapy for multiple myeloma."
+            },
+            {
+                "arm_group_label": "Standard Treatment Alone",
+                "arm_group_type": "Active Comparator",
+                "description": "Participants receive only the standard treatment for multiple myeloma."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Carfilzomib",
+                "description": "Intravenous administration, starting dose of 20 mg/m² on days 1 and 2 of each cycle.",
+                "arm_group_label": "Carfilzomib plus Standard Treatment"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Standard Therapy",
+                "description": "Conventional multiple myeloma treatment regimens as per clinical guidelines.",
+                "arm_group_label": "Carfilzomib plus Standard Treatment"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n1. Diagnosed with advanced multiple myeloma based on standard diagnostic criteria.\n2. Previously treated with at least 2 lines of therapy, including a proteasome inhibitor and an immunomodulatory agent.\n3. Age ≥ 18 years at the time of consent.\n4. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n5. Adequate renal function (creatinine clearance > 30 mL/min).\n\nExclusion Criteria:\n\n1. Active central nervous system involvement by multiple myeloma.\n2. Significant cardiac disease, including NYHA Class III or IV heart failure.\n3. History of severe allergic reactions to any component of the study drugs.\n4. Concurrent malignancy or treatment with other investigational agents."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Jessica R. Thompson",
+            "role": "Principal Investigator",
+            "affiliation": "Global Cancer Consortium"
+        },
+        "location": [{
+                "facility": {
+                    "name": "Global Cancer Research Facility",
+                    "address": {
+                        "city": "Research City",
+                        "state": "Science State",
+                        "zip": "12345",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Comprehensive Cancer Center",
+                    "address": {
+                        "city": "Health Town",
+                        "state": "Wellness State",
+                        "zip": "67890",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "August 2023",
+        "study_first_submitted": "December 01, 2019",
+        "study_first_submitted_qc": "December 10, 2019",
+        "study_first_posted": "December 15, 2019",
+        "results_first_submitted": "January 12, 2024",
+        "results_first_submitted_qc": "January 15, 2024",
+        "results_first_posted": "February 01, 2024",
+        "last_update_submitted": "April 30, 2024",
+        "last_update_posted": "May 05, 2024",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "title": "Carfilzomib plus Standard Treatment",
+                        "description": "Participants receive carfilzomib in combination with standard therapy."
+                    }
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                },
+                                {
+                                    "title": "COMPLETED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                },
+                                {
+                                    "title": "NOT COMPLETED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "baseline": {
+                    "group_list": {
+                        "group": {
+                            "title": "Carfilzomib plus Standard Treatment",
+                            "description": "Participants receive carfilzomib in combination with standard therapy."
+                        }
+                    }
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Overall Response Rate (ORR)",
+                        "description": "Failure to achieve expected ORR leading to cessation of study.",
+                        "time_frame": "4 months",
+                        "population": "Aim was to evaluate efficacy in treating advanced multiple myeloma.",
+                        "group_list": {
+                            "group": {
+                                "title": "Experimental Arm",
+                                "description": "Carfilzomib plus standard therapy."
+                            }
+                        },
+                        "measure": {
+                            "title": "Overall Response Rate (ORR)",
+                            "description": "Percentage of patients achieving a complete or partial response.",
+                            "units": "Percent",
+                            "param": "Number"
+                        }
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Progression-Free Survival (PFS)",
+                        "description": "Analysis indicated insufficient survival benefit.",
+                        "time_frame": "Until progression",
+                        "population": "Estimated via Kaplan-Meier method.",
+                        "group_list": {
+                            "group": {
+                                "title": "Experimental Arm",
+                                "description": "Carfilzomib plus standard therapy."
+                            }
+                        },
+                        "measure": {
+                            "title": "Progression-Free Survival (PFS)",
+                            "description": "Duration of time patients remain progression-free.",
+                            "units": "Months",
+                            "param": "Median"
+                        }
+                    }
+                ]
+            },
+            "reported_events": {
+                "time_frame": "Throughout treatment duration.",
+                "group_list": {
+                    "group": {
+                        "title": "Carfilzomib plus Standard Treatment",
+                        "description": "Participants receive carfilzomib in combination with standard therapy."
+                    }
+                },
+                "serious_events": {
+                    "default_vocab": "CTCAE (Version 5.0)",
+                    "default_assessment": "Systematic Assessment",
+                    "category_list": {
+                        "category": [
+                            {
+                                "title": "Total",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Serious adverse events",
+                                            "counts": null
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "other_events": {
+                    "frequency_threshold": "5",
+                    "default_vocab": "CTCAE (Version 5.0)",
+                    "default_assessment": "Systematic Assessment",
+                    "category_list": [
+                        {
+                            "title": "Total",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Other adverse events",
+                                    "counts": null
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after completion."
+            },
+            "point_of_contact": {
+                "name_or_title": "Dr. Jessica R. Thompson",
+                "organization": "Global Cancer Consortium",
+                "phone": "555-123-4567",
+                "email": "jessica.thompson@gcc.org"
+            }
+        }
+    }
+}
+```

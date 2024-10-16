@@ -1,0 +1,229 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03000000"
+    },
+    "id_info": {
+      "org_study_id": "17000",
+      "secondary_id": ["I4T-JX-JGQX"],
+      "nct_id": "NCT03000000"
+    },
+    "brief_title": "Ramucirumab in Combination With Chemotherapy for Advanced Gastric Cancer",
+    "official_title": "A Phase 2 Study of Ramucirumab Administered in Combination With Modified FOLFOX6 as First-Line Treatment for Patients With Advanced Gastric or Gastroesophageal Junction Adenocarcinoma: A Randomized, Double-Blind Placebo-Controlled Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial was designed to evaluate the efficacy of ramucirumab when combined with modified FOLFOX6 chemotherapy in patients with advanced gastric or gastroesophageal junction adenocarcinoma."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2017",
+    "completion_date": "October 2020",
+    "primary_completion_date": "June 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization to radiographic documentation of progression or death due to any cause (Up to 25 Months)",
+      "description": "PFS was defined as the time from randomization until the first document of progressive disease (PD) or death from any cause. PD was characterized by a >= 20% increase in the target lesion size or the appearance of new lesions according to RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization to death due to any cause (Up to 31 Months)",
+        "description": "OS was determined as the time from randomization to death from any cause. Follow-up for OS was censored at the last contact date for participants alive or lost to follow-up."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From randomization to disease progression (Up to 25 Months)",
+        "description": "ORR was evaluated as the percentage of participants with a best overall response of either Complete Response (CR) or Partial Response (PR) as defined by RECIST v1.1."
+      },
+      {
+        "measure": "Pharmacokinetics (PK): Maximum Concentration (Cmax) of Ramucirumab",
+        "time_frame": "Cycle 1 Day 1, Cycle 2 Day 1",
+        "description": "Pharmacokinetics measurements captured the peak concentration of ramucirumab after administration."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": ["Gastric Cancer", "Gastroesophageal Junction Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + Modified FOLFOX6",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ramucirumab (8 mg/kg IV) along with modified FOLFOX6 (oxaliplatin, leucovorin, and 5-FU) every two weeks."
+      },
+      {
+        "arm_group_label": "Placebo + Modified FOLFOX6",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo along with modified FOLFOX6 (oxaliplatin, leucovorin, and 5-FU) every two weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "8 mg/kg IV bi-weekly",
+        "arm_group_label": "Ramucirumab + Modified FOLFOX6",
+        "other_name": ["Cyramza", "LY3009806"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered IV",
+        "arm_group_label": "Placebo + Modified FOLFOX6"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "85 mg/m² IV every 2 weeks",
+        "arm_group_label": ["Ramucirumab + Modified FOLFOX6", "Placebo + Modified FOLFOX6"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "400 mg/m² IV every 2 weeks",
+        "arm_group_label": ["Ramucirumab + Modified FOLFOX6", "Placebo + Modified FOLFOX6"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "5-Fluorouracil (5-FU)",
+        "description": "Bolus and continuous IV infusion every 2 weeks",
+        "arm_group_label": ["Ramucirumab + Modified FOLFOX6", "Placebo + Modified FOLFOX6"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histological confirmation of metastatic gastric or gastroesophageal junction adenocarcinoma.\r\n- No previous chemotherapy for advanced disease.\r\n- Measurable disease per RECIST v1.1.\r\n- Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0-1.\r\n- Adequate organ function.\r\n- Informed consent provided.\r\n- Life expectancy of 12 weeks or more.\r\n\r\nExclusion Criteria:\r\n- Prior lines of systemic therapy for advanced disease.\r\n- Known HER2-positive cancer.\r\n- History of severe hypersensitivity reactions to monoclonal antibodies.\r\n- Pregnant or lactating women.\r\n- Active infections not requiring hospitalization.\r\n- Relevant co-morbid conditions affecting treatment efficacy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Various Investigative Sites",
+          "address": {
+            "city": "Various",
+            "state": "",
+            "zip": "",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "February 10, 2017",
+    "study_first_posted": "March 2, 2017",
+    "results_first_submitted": "November 25, 2020",
+    "results_first_posted": "December 1, 2020",
+    "last_update_submitted": "April 12, 2021",
+    "last_update_posted": "April 14, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Gastric Cancer", "Ramucirumab", "Chemotherapy"],
+    "clinical_results": {
+      "participant_flow": {
+        "milestone_list": [
+          {
+            "title": "ENROLLED",
+            "participants_list": {
+              "participants": "[200 participants]"
+            }
+          },
+          {
+            "title": "RAISED",
+            "participants_list": {
+              "participants": "[80 participants]"
+            }
+          },
+          {
+            "title": "COMPLETED",
+            "participants_list": {
+              "participants": "[150 participants]"
+            }
+          },
+          {
+            "title": "LOST TO FOLLOW UP",
+            "participants_list": {
+              "participants": "[50 participants]"
+            }
+          }
+        ]
+      },
+      "outcomes": {
+        "outcome": [
+          {
+            "title": "Primary Outcome: Progression-Free Survival (PFS)",
+            "result": "Analysis found no significant difference between ramucirumab and placebo (p=0.0704), leading to the consideration that ramucirumab did not enhance PFS compared to placebo.",
+            "participants": {
+              "ramucirumab": {
+                "count": "[99 participants]",
+                "outcome": "10.3 months median PFS"
+              },
+              "placebo": {
+                "count": "[96 participants]",
+                "outcome": "8.6 months median PFS"
+              }
+            }
+          },
+          {
+            "title": "Secondary Outcome: Overall Survival (OS)",
+            "result": "The data did not show a statistically significant increase in survival for those receiving ramucirumab compared to placebo (p=0.5124).",
+            "participants": {
+              "ramucirumab": {
+                "count": "[99 participants]",
+                "outcome": "14.5 months median OS"
+              },
+              "placebo": {
+                "count": "[96 participants]",
+                "outcome": "13.7 months median OS"
+              }
+            }
+          },
+          {
+            "title": "Adverse Events (AE)",
+            "result": "The rate of severe adverse events in the ramucirumab cohort was higher than in placebo (45% vs 25%), leading to early treatment discontinuation in 22 participants on ramucirumab.",
+            "participants": {
+              "ramucirumab": {
+                "events": "[45 severe adverse events]"
+              },
+              "placebo": {
+                "events": "[24 severe adverse events]"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

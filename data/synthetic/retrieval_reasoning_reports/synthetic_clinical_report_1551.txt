@@ -1,0 +1,386 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02538480"
+    },
+    "id_info": {
+      "org_study_id": "SAR-RA-006",
+      "secondary_id": "2015-004567-34",
+      "nct_id": "NCT02538480"
+    },
+    "brief_title": "Efficacy and Safety of Sarilumab in Patients With Rheumatoid Arthritis Not Previously Treated With Biologics",
+    "acronym": "SAR-RA",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Sarilumab in Patients With Moderate to Severe Rheumatoid Arthritis Who Have Not Received Prior Biologic Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Regeneron Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Sanofi",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Primary Objective: \r\n\r\nTo evaluate the efficacy of sarilumab versus placebo in improving the Disease Activity Score for 28 joints (DAS28) at Week 24.\r\n\r\nSecondary Objectives:\r\n - To assess the percentage of participants achieving American College of Rheumatology (ACR) 20/50/70 response rates at Week 24.\r\n - To evaluate the long-term safety and tolerability of sarilumab in participants receiving ongoing methotrexate."
+    },
+    "detailed_description": {
+      "textblock": "The study duration for each participant was approximately 56 weeks, including a screening period of up to 4 weeks, a 24-week double-blind treatment phase, and a 6-week follow-up period. Participants were required to fill out questionnaires and undergo clinical evaluations at predefined intervals."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Discontinued due to inadequate efficacy outcomes and high incidence of treatment-emergent adverse events (TEAEs).",
+    "start_date": "October 2015",
+    "completion_date": "February 2017",
+    "primary_completion_date": "February 2017",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in Disease Activity Score for 28 Joints - C-Reactive Protein (DAS28-CRP) at Week 24",
+      "time_frame": "Baseline to Week 24",
+      "description": "DAS28-CRP was calculated using 28 swollen and tender joints and the high-sensitivity C-reactive protein (hs-CRP) levels."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Percentage of Participants Achieving ACR20, ACR50, and ACR70 at Week 24",
+        "time_frame": "Week 24",
+        "description": "Assessment of improvement in disease signs and symptoms based on the ACR criteria."
+      },
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "Baseline to 6 weeks post-treatment",
+        "description": "Reporting of all adverse events post-administration to evaluate safety profile."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "342",
+    "condition": "Rheumatoid Arthritis",
+    "arm_group": [
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo subcutaneous injection administered every two weeks for 24 weeks, alongside stable dose of Methotrexate."
+      },
+      {
+        "arm_group_label": "Sarilumab 150 mg",
+        "arm_group_type": "Experimental",
+        "description": "Sarilumab 150 mg subcutaneous injection administered every two weeks for 24 weeks, alongside stable dose of Methotrexate."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Sarilumab",
+        "description": "Pharmaceutical form: Solution for injection; Route of administration: Subcutaneous",
+        "arm_group_label": ["Sarilumab 150 mg"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Pharmaceutical form: Solution for injection; Route of administration: Subcutaneous",
+        "arm_group_label": ["Placebo"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Methotrexate",
+        "description": "Dispensed according to local practice; Route of administration: Oral or subcutaneous"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion criteria:\r\n - Participants must be 18 years or older with a diagnosis of moderate to severe rheumatoid arthritis for at least 3 months prior.\r\n - Participants must have been receiving methotrexate at a stable dose for at least 12 weeks prior to enrollment.\r\n - Participants with high disease activity as defined by DAS28 score of greater than 5.1.\r\n\r\nExclusion criteria:\r\n - Previous treatment with other biologic medications, including TNF inhibitors.\r\n - History of serious infection within the last 6 months.\r\n - Known hypersensitivity to any components of sarilumab."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Sciences & Operations",
+      "role": "Study Director",
+      "affiliation": "Sanofi"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Investigational Site Number 840001",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Investigational Site Number 840002",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Investigational Site Number 840003",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "United Kingdom", "Germany", "France"]
+    },
+    "removal_countries": {
+      "country": "Czech Republic"
+    },
+    "verification_date": "June 2017",
+    "study_first_submitted": "August 1, 2015",
+    "study_first_submitted_qc": "August 1, 2015",
+    "study_first_posted": "August 2, 2015",
+    "results_first_submitted": "August 30, 2019",
+    "results_first_submitted_qc": "September 15, 2019",
+    "results_first_posted": "September 30, 2019",
+    "disposition_first_submitted": "January 15, 2018",
+    "disposition_first_submitted_qc": "January 15, 2018",
+    "disposition_first_posted": "January 20, 2018",
+    "last_update_submitted": "September 15, 2019",
+    "last_update_submitted_qc": "September 15, 2019",
+    "last_update_posted": "October 1, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Arthritis", "Arthritis, Rheumatoid"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Sarilumab", "Methotrexate", "Placebo"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study was conducted at multiple centers across the United States, Canada, and Europe. A total of 1,004 participants were screened, of which 342 were randomized after screening for eligibility.",
+        "pre_assignment_details": "In the randomization phase, 178 participants were allocated to the sarilumab group and 164 participants were allocated to the placebo group. However, upon review of efficacy and safety profiles, the study was terminated prematurely.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Placebo",
+              "description": "Placebo subcutaneous injection alongside stable dose of Methotrexate."
+            },
+            {
+              "title": "Sarilumab 150 mg",
+              "description": "Sarilumab 150 mg subcutaneous injection alongside stable dose of Methotrexate."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [342, 178, 164]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0, 0, 0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [342, 178, 164]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": [0, 0, 0]
+                    }
+                  },
+                  {
+                    "title": "Lack of Efficacy",
+                    "participants_list": {
+                      "participants": [0, 0, 0]
+                    }
+                  },
+                  {
+                    "title": "Low recruitment numbers",
+                    "participants_list": {
+                      "participants": [342, 178, 164]
+                    }
+                  },
+                  {
+                    "title": "Other than specified above",
+                    "participants_list": {
+                      "participants": [0, 0, 0]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "population": "All enrolled participants who received at least one dose of the study treatment after signature of the informed consent.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Placebo",
+                "description": "Placebo alongside Methotrexate."
+              },
+              {
+                "title": "Sarilumab 150 mg",
+                "description": "Sarilumab 150 mg alongside Methotrexate."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [342]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "Years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation"
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants"
+              }
+            ]
+          }
+        },
+
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Change From Baseline in DAS28-CRP Score at Week 24",
+              "time_frame": "Baseline, Week 24",
+              "population": "As the recruitment failed to achieve sufficient numbers for randomization, the trial conclusion was deemed unresolved with no dataset created for publication.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Placebo",
+                    "description": "Placebo group efficacy analysis was not completed."
+                  },
+                  {
+                    "title": "Sarilumab",
+                    "description": "Sarilumab group efficacy analysis was not completed."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "DAS28-CRP",
+                "description": "Systematic collection of data was not achieved due to early termination."
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Percentage of Participants Achieving ACR20, ACR50, ACR70",
+              "time_frame": "At Week 12 and 24",
+              "population": "Assessment of response rates was not feasible due to insufficient participant numbers.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Placebo",
+                    "description": "No significant outcomes were assessed."
+                  },
+                  {
+                    "title": "Sarilumab",
+                    "description": "No significant outcomes were assessed."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "ACR Response Rates",
+                "description": "Analysis of ACR response rates failed to yield sufficient data."
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "All adverse events were collected from the first dose to the final visit.",
+          "desc": "Sarilumab exhibited a high incidence of TEAEs resulting in early termination.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Placebo",
+                "description": "Adverse events occurred but lacked a significant safety signal for reporting."
+              },
+              {
+                "title": "Sarilumab",
+                "description": "Significant TEAEs were noted in randomized participants leading to concerns about safety and tolerability."
+              }
+            ]
+          },
+          "serious_events": {
+            "default_vocab": "MedDra 22.0",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [15, 10]
+                    }
+                  }
+                }
+                // Additional categories can be included with counts as available.
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators were not employed by the organization sponsoring the study.",
+          "restrictive_agreement": "If no publication has occurred within 12 months of the completion of the study, the Investigator shall have the right to publish/present independently the results of the study."
+        },
+        "limitations_and_caveats": "The study was prematurely terminated due to insufficient efficacy outcomes and high incidence of TEAEs.",
+        "point_of_contact": {
+          "name_or_title": "Trial Transparency Team",
+          "organization": "Sanofi",
+          "email": "Contact-US@sanofi.com"
+        }
+      }
+    }
+  }
+}
+```

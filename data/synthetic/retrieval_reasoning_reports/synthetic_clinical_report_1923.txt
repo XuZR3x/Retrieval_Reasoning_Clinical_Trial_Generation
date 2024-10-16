@@ -1,0 +1,202 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04254321"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2020-01554",
+      "secondary_id": [],
+      "nct_id": "NCT04254321"
+    },
+    "brief_title": "Entinostat in Combination With Pembrolizumab for Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase 2 Study of Entinostat and Pembrolizumab in Patients With Advanced or Metastatic Non-Small Cell Lung Cancer Who Have Failed Previous Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health (NIH)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Institute of Health (NIH)",
+    "brief_summary": {
+      "textblock": "This phase II trial is evaluating the safety and efficacy of the HDAC inhibitor entinostat in combination with the PD-1 inhibitor pembrolizumab in patients with advanced non-small cell lung cancer (NSCLC). The aim is to assess treatment response and progression-free survival (PFS). However, the study faced considerable challenges affecting patient enrollment and retention."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the preliminary efficacy of entinostat combined with pembrolizumab based on the overall response rate (ORR) and progression-free survival (PFS) in patients with advanced NSCLC who have experienced progression after standard therapy.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To assess the safety profile, including frequency and severity of adverse events associated with the combination therapy.\r\nII. To explore biomarkers of response, including changes in gene expression and immune cell activity post-treatment.\r\n\r\nOUTLINE: This study is designed as a single-arm, open-label, phase II trial.\r\n\r\nPatients will receive entinostat orally once a week on days 1, 8, and 15 in conjunction with pembrolizumab administered intravenously every 21 days. Treatment will continue until disease progression or intolerable toxicity occurs. Following treatment, patients will be monitored for long-term survival outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was halted prematurely due to insufficient patient accrual, high rates of treatment-related adverse events, and lack of significant efficacy signals observed during interim analyses.",
+    "start_date": "March 2020",
+    "completion_date": "August 2023",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR) of Entinostat and Pembrolizumab Combination",
+      "time_frame": "Measured at 6 months post-treatment initiation",
+      "description": "ORR will be evaluated via Modified RECIST criteria to classify patients as complete responders (CR) or partial responders (PR)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From date of enrollment to date of progression or death, evaluated up to 2 years",
+        "description": "PFS will be calculated using the Kaplan-Meier method to estimate survival functions."
+      },
+      {
+        "measure": "Adverse Events Reporting",
+        "time_frame": "Up to 30 days post-last treatment cycle",
+        "description": "Documented adverse events will be categorized according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": ["Non-Small Cell Lung Cancer", "Stage IV Lung Cancer"],
+    "arm_group": {
+      "arm_group_label": "Treatment (Entinostat and Pembrolizumab)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive entinostat PO on days 1, 8, and 15 and pembrolizumab IV every 21 days until disease progression or unacceptable toxicity."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "entinostat",
+        "description": "Administered orally on specified days",
+        "arm_group_label": "Treatment (Entinostat and Pembrolizumab)",
+        "other_name": ["SNDX-275", "Histone Deacetylase Inhibitor"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "pembrolizumab",
+        "description": "Administered intravenously every 21 days",
+        "arm_group_label": "Treatment (Entinostat and Pembrolizumab)",
+        "other_name": ["Keytruda"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Confirmed diagnosis of advanced NSCLC with measurable disease according to RECIST 1.1.\r\n  - Patients must have failed at least one line of systemic therapy for advanced disease.\r\n  - ECOG performance status of 0-2.\r\n  - Adequate organ function and laboratory parameters must be met prior to therapy initiation.\r\n  - No prior exposure to histone deacetylase inhibitors or PD-1/PD-L1 blocking agents.\r\n\r\nExclusion Criteria:\r\n\r\n  - Patients with autoimmune diseases or chronic infections are excluded.\r\n  - Pregnant or breastfeeding women.\r\n  - Patients with a known hypersensitivity to pembrolizumab or entinostat and their components are not eligible."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Karen M. Traynor",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins University",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_posted": "February 1, 2020",
+    "last_update_submitted": "August 1, 2023",
+    "last_update_posted": "August 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Entinostat", "Pembrolizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study planned for 47 participants but recruitment was significantly lower than anticipated, with only 12 enrolled before the trial ended.",
+        "pre_assignment_details": "Participants were recruited into a single arm and followed up for efficacy and safety assessments throughout the study.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (Entinostat and Pembrolizumab)",
+            "description": "Eligible patients received entinostat and pembrolizumab under the outlined treatment regimen until disease progression or unacceptable toxicity."
+          }
+        }
+      },
+      "reported_events": {
+        "desc": "The trial observed a high frequency of treatment-related adverse events, including significant gastrointestinal and hematological toxicities, leading to treatment discontinuation in several cases.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (Entinostat and Pembrolizumab)",
+            "description": "Participants received entinostat and pembrolizumab, but the regimen was associated with substantial toxicity."
+          }
+        }
+      },
+      "serious_events": {
+        "category_list": {
+          "category": {
+            "title": "Total",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Total, all-cause mortality",
+                  "counts": null
+                },
+                {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": null
+                }
+              ]
+            }
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Diarrhea",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Hematological disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Anemia",
+                  "counts": null
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

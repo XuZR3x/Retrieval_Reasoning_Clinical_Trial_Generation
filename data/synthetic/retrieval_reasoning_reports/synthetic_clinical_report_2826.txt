@@ -1,0 +1,177 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04221245"
+    },
+    "id_info": {
+      "org_study_id": "NCT-2022-045",
+      "secondary_id": ["NCI-2022-02450"],
+      "nct_id": "NCT04221245"
+    },
+    "brief_title": "Efficacy and Safety of Alisertib in Patients With Relapsed or Refractory Acute Myeloid Leukemia",
+    "official_title": "A Phase II Study of MLN8237 (Alisertib) in Patients With Relapsed or Refractory Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Southern California",
+        "agency_class": "Academic"
+      },
+      "collaborator": [
+        {
+          "agency": "National Cancer Institute (NCI)",
+          "agency_class": "NIH"
+        },
+        {
+          "agency": "Molecular Partners AG",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "University of Southern California",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II clinical trial aims to evaluate the efficacy of alisertib in adults diagnosed with acute myeloid leukemia (AML) who have experienced relapse or are refractory to standard treatments. Alisertib's mechanism of action involves potent inhibition of Aurora A kinase, disrupting the proliferation of neoplastic cells characteristically found in hematologic malignancies."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the overall response rate (ORR) in patients treated with alisertib, defined as the proportion of patients achieving a complete response (CR) or partial response (PR).\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the safety and tolerability of alisertib using NCI CTCAE version 5.0 criteria.\nII. To characterize the pharmacokinetic profile of alisertib in patients with relapsed or refractory AML.\nIII. To perform biomarker analyses, correlating clinical outcomes with genetic mutations in AML-associated genes.\n\nOUTLINE:\nThis is a multicenter, open-label, single-group study. Patients receive alisertib orally (PO) twice daily (BID) on days 1-7 of a 21-day cycle. Dose modifications are permitted based on tolerability assessments. Treatment continues for a maximum of 12 cycles, in the absence of disease progression or unacceptable toxicity.\n\nAdverse events and treatment responses are closely monitored, with additional follow-ups scheduled at 30 days post-treatment discontinuation."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 5, 2020",
+    "completion_date": "August 15, 2022",
+    "primary_completion_date": "June 30, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "From baseline up to 30 days after the last dose of alisertib",
+      "description": "The overall response rate will be evaluated based on complete and partial response rates defined by the 2016 European LeukemiaNet recommendations."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Safety Profile",
+        "time_frame": "From cycle 1 until 30 days after the last dose",
+        "description": "All adverse events reported will be classified according to NCI CTCAE version 5.0."
+      },
+      {
+        "measure": "Pharmacokinetic Parameters (PK)",
+        "time_frame": "At designated time points during treatment cycles",
+        "description": "PK assessments will include Cmax, Tmax, AUC, and terminal half-life of alisertib."
+      },
+      {
+        "measure": "Associated Biomarker Expression",
+        "time_frame": "Pre-treatment and during the study",
+        "description": "Correlation of molecular alterations in target genes (FLT3, NPM1, etc.) with treatment response will be analyzed."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": ["Acute Myeloid Leukemia", "Relapsed Acute Myeloid Leukemia", "Refractory Acute Myeloid Leukemia"],
+    "arm_group": {
+      "arm_group_label": "Treatment (alisertib)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive alisertib PO BID on days 1-7 of each 21-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Alisertib",
+        "description": "Given PO",
+        "arm_group_label": "Treatment (alisertib)",
+        "other_name": ["Aurora A kinase inhibitor MLN8237", "MLN-8237"]
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Laboratory Biomarker Analysis",
+        "description": "Correlative studies to assess treatment response biomarkers",
+        "arm_group_label": "Treatment (alisertib)"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Pharmacokinetic Study",
+        "description": "Determination of drug pharmacokinetics",
+        "arm_group_label": "Treatment (alisertib)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Patients with a confirmed diagnosis of relapsed or refractory acute myeloid leukemia (AML) based on WHO classification.\n2. Patients aged 18 years or older with an ECOG performance status of 0-2.\n3. Adequate organ function as defined by laboratory criteria (e.g., bilirubin, AST/ALT, creatinine).\n4. Patients must provide informed consent and have an expected survival greater than 3 months.\n\nExclusion Criteria:\n\n1. History of significant cardiovascular events within the last 6 months.\n2. Patients receiving any investigational drugs within 30 days prior to enrollment.\n3. Known hypersensitivity to alisertib or its components.\n4. Active CNS involvement (e.g., CNS leukemia).\n5. Pregnant or lactating women are not eligible."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Robert J. Arceci, MD, PhD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Southern California"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Keck School of Medicine, University of Southern California",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90089",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "City of Hope National Medical Center",
+          "address": {
+            "city": "Duarte",
+            "state": "California",
+            "zip": "91010",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "November 6, 2020",
+    "study_first_submitted_qc": "November 7, 2020",
+    "study_first_posted": "November 10, 2020",
+    "last_update_submitted": "May 4, 2021",
+    "last_update_submitted_qc": "May 4, 2021",
+    "last_update_posted": "May 26, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "University of Southern California"
+    },
+    "condition_browse": {
+      "mesh_term": ["Leukemia, Myeloid", "Leukemia, Acute Myeloid"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Alisertib", "Kinase Inhibitors", "Antineoplastic Agents"]
+    }
+  }
+}
+```

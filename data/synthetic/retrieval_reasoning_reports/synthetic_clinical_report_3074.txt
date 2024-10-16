@@ -1,0 +1,195 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01809236"
+    },
+    "id_info": {
+      "org_study_id": "PZ-1487",
+      "nct_id": "NCT01809236"
+    },
+    "brief_title": "A Phase II Study Evaluating Pazopanib in Combination with Gemcitabine in Patients with Unresectable Pancreatic Cancer",
+    "official_title": "A Phase II, Open-Label, Multicenter Study of Pazopanib in Combination with Gemcitabine for Patients with Unresectable Pancreatic Cancer: An Evaluation of Safety and Efficacy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Oncology Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the therapeutic benefits and safety of pazopanib when administered in conjunction with gemcitabine in individuals diagnosed with unresectable pancreatic cancer. The primary objective was to determine the objective response rate (ORR) and progression-free survival (PFS) of the treatment regimen."
+    },
+    "detailed_description": {
+      "textblock": "This investigation was designed to explore the efficacy of pazopanib in enhancing tumor response when combined with gemcitabine for patients not candidates for surgical intervention. Following a recruitment period, patients received a combination treatment for a period of six months. Key assessments focused on the changes in ORR, PFS, overall survival (OS), and safety profile, particularly regarding adverse events that could limit tolerability. A total of **100 participants** were expected to be enrolled."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate primary endpoint achievement and adverse event profile",
+    "start_date": "April 2012",
+    "completion_date": "June 2015",
+    "primary_completion_date": "June 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Every 8 weeks from the first dose until disease progression or unacceptable toxicity",
+      "description": "The ORR will be defined as the proportion of patients with a confirmed complete response (CR) or partial response (PR) according to the RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "1 year",
+        "description": "PFS will be calculated from the date of the first treatment until the date of first documented progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "1 year",
+        "description": "OS will be assessed from the start date of the treatment regimen to the date of death from any cause."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Throughout the study duration (up to Study Week 52)",
+        "description": "Characterization of adverse events will be conducted to assess the tolerability of the combination treatment."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": "Pancreatic Cancer",
+    "arm_group": {
+      "arm_group_label": "Combination Treatment Arm",
+      "arm_group_type": "Experimental",
+      "description": "Patients received pazopanib 800 mg orally once daily in combination with gemcitabine 1000 mg/m2 administered intravenously on days 1, 8 and 15 of a 28-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pazopanib",
+        "description": "Orally administered at a dosage of 800 mg daily.",
+        "arm_group_label": "Combination Treatment Arm"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "description": "Administered intravenously at a dosage of 1000 mg/m2 on days 1, 8, and 15 of each 28-day treatment cycle.",
+        "arm_group_label": "Combination Treatment Arm"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:  \n- Histologically confirmed diagnosis of unresectable pancreatic adenocarcinoma.\n- Age 18 years or older.\n- ECOG performance status of 0 or 1.  \n- Adequate organ function including liver and renal parameters.  \n- No prior cytotoxic chemotherapy.\n\nExclusion Criteria:  \n- Evidence of uncontrolled hypertension or cardiovascular disorders.\n- Concurrent significant medical conditions that may interfere with study participation.\n- Previous history of adverse reactions to pazopanib or gemcitabine.\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Oncology Research Institute Hospital",
+          "address": {
+            "city": "San Francisco",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2016",
+    "study_first_submitted": "January 8, 2012",
+    "study_first_posted": "February 15, 2012",
+    "results_first_posted": "July 1, 2016",
+    "last_update_posted": "August 5, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Pazopanib", "Gemcitabine", "Pancreatic Cancer"],
+    "condition_browse": {
+      "mesh_term": ["Pancreatic Neoplasms"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrolment was planned for 100 participants based on anticipated recruitment rates; however, only 30 were recruited before the trial's termination due to insufficient primary endpoint achievement.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Combination Treatment Arm: Pazopanib & Gemcitabine",
+              "description": "Participants received pazopanib and gemcitabine as per treatment protocol."
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "From the first dose of study treatment until study completion.",
+        "desc": "Serious adverse events (SAEs) and non-serious adverse events (AEs) were recorded throughout the study. Key issues identified included a significant incidence of hypertension, gastrointestinal toxicity, and fatigue."
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [8]
+                }
+              }
+            },
+            {
+              "title": "Cardiovascular disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Hypertension, requiring hospitalization",
+                  "counts": [5]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Severe diarrhea",
+                  "counts": [3]
+                }
+              }
+            },
+            {
+              "title": "General disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Severe fatigue",
+                  "counts": [4]
+                }
+              }
+            },
+            {
+              "title": "Nervous system disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Cerebral edema",
+                  "counts": [1]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

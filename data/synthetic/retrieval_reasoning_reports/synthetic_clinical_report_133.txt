@@ -1,0 +1,134 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01347629"
+    },
+    "id_info": {
+      "org_study_id": "BRCA-2017",
+      "nct_id": "NCT01347629"
+    },
+    "brief_title": "Evaluation of Mifepristone in Patients with Triple-Negative Breast Cancer",
+    "official_title": "A Phase 2, Multicenter, Open-Label, Single Arm Study of Mifepristone in Patients with Triple-Negative Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial evaluates the effects of mifepristone on tumor growth in patients diagnosed with Triple-Negative Breast Cancer (TNBC), a subtype known for its aggressive nature and resistance to conventional hormonal therapies. The study aims to establish the potential role of mifepristone as a therapeutic option in TNBC patients with high progesterone receptor expression."
+    },
+    "detailed_description": {
+      "textblock": "In recent investigations, mifepristone displayed preclinical efficacy in modulating cellular pathways associated with tumor growth in breast cancer spheres. However, despite initial affirmation of mifepristone's action against aggressive TNBC subtypes, the current study faced multiple challenges, including inadequate subject accrual, leading to premature termination. The enrollment strategy was underpowered due to stringent eligibility criteria which limited the participant pool, consequently failing to meet the requisite participant number to yield statistically significant outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate subject accrual",
+    "start_date": "September 2011",
+    "completion_date": "March 2016",
+    "primary_completion_date": "November 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in tumor volume as assessed by MRI",
+      "time_frame": "baseline to 4 weeks after treatment initiation"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Assessment of biomarker expression in tumor tissue",
+        "time_frame": "pre-treatment and post-treatment surgical samples"
+      },
+      {
+        "measure": "Evaluation of progression-free survival rate",
+        "time_frame": "assessed at 6 months post-treatment"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": ["Triple-Negative Breast Cancer"],
+    "arm_group": {
+      "arm_group_label": "Mifepristone",
+      "arm_group_type": "Experimental"
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Mifepristone",
+      "description": "Mifepristone 200 mg orally daily for 28 days"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Female patients aged 18-75 years with histologically confirmed triple-negative breast cancer (TNBC).\n- Patients must have measurable disease per RECIST criteria.\n- Karnofsky performance status of 70 or higher.\n- Must have received no more than one line of systemic chemotherapy for advanced disease.\n- Must provide written informed consent.\n\nExclusion Criteria:\n- Prior treatment with mifepristone or other anti-progesterone therapies.\n- Significant cardiac or liver disease.\n- Concurrent use of medications that induce CYP3A4 or CYP2C19.\n- Pregnancy or breastfeeding.\n- Active uncontrolled infections."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elizabeth H. Schmitt, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Duke University Medical Center",
+        "address": {
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "link": {
+      "url": "https://www.cancer.gov",
+      "description": "National Cancer Institute"
+    },
+    "reference": [{
+      "citation": "Schmidt R, et al. Mifepristone treatment in breast cancer: a critical review of preclinical and clinical data. Breast Cancer Res. 2016;18(1):1-9. doi:10.1186/s13058-016-0747-0.",
+      "PMID": "26810822"
+    }],
+    "verification_date": "June 2018",
+    "study_first_submitted": "April 15, 2011",
+    "study_first_posted": "September 22, 2011",
+    "last_update_submitted": "January 10, 2018",
+    "last_update_posted": "January 11, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Triple-Negative Breast Cancer", "Mifepristone", "Antiprogesterone Therapy"],
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms", "Carcinoma, Ductal", "Neoplasms, Hormone-Dependent"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Mifepristone"
+    }
+  }
+}
+```

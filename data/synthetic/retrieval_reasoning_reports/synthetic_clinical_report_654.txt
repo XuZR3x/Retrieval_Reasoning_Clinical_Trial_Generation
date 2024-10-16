@@ -1,0 +1,159 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02831810"
+    },
+    "id_info": {
+      "org_study_id": "IL-CLL-032016",
+      "nct_id": "NCT02831810"
+    },
+    "brief_title": "Evaluating Safety and Efficacy of Idelalisib in Combination With Venetoclax in Patients With Relapsed Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase 2 Study Assessing the Safety and Efficacy of Idelalisib (GS-1101) in Combination With Venetoclax for Patients With Relapsed Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Therapeutics Network",
+        "agency_class": "Other"
+      },
+      "collaborator": [{
+        "agency": "Gilead Sciences",
+        "agency_class": "Industry"
+      }]
+    },
+    "source": "Oncology Therapeutics Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the safety and efficacy of idelalisib in combination with venetoclax in patients with relapsed chronic lymphocytic leukemia (CLL). Despite initial expectations regarding efficacy, this cohort observed unfavorable outcomes, particularly concerning safety and tolerability."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 15, 2017",
+    "completion_date": "March 5, 2020",
+    "primary_completion_date": "January 15, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "3 Years",
+      "description": "To determine the ORR of idelalisib and venetoclax combined in participants with relapsed CLL, assessed via imaging studies and clinical evaluations."
+    },
+    "secondary_outcome": [{
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "3 Years",
+        "description": "To assess PFS in CLL patients treated with the combination therapy of idelalisib and venetoclax."
+      },
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events",
+        "time_frame": "3 Years",
+        "description": "To record and analyze the incidence of treatment-emergent adverse events to evaluate safety, focusing on specific organ toxicities, particularly hepatotoxicity."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": {
+      "arm_group_label": "Idelalisib and Venetoclax Combination Therapy",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive idelalisib orally at 150 mg BID along with venetoclax administered at a maximum dose escalated to 400 mg once daily over the treatment period."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Idelalisib",
+        "description": "150 mg orally twice daily.",
+        "arm_group_label": "Idelalisib and Venetoclax Combination Therapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Venetoclax",
+        "description": "Dosage escalated to 400 mg orally once daily, depending upon individual patient tolerability.",
+        "arm_group_label": "Idelalisib and Venetoclax Combination Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Patients must be diagnosed with CLL and classified as relapsed after at least one prior therapy.\r\n- Participants must demonstrate measurable disease with a peripheral blood lymphocyte count of ≥5000 cells/mm³.\r\n- ECOG performance status of 0 to 2.\r\n\r\nExclusion Criteria:\r\n\r\n- Known hypersensitivity reaction to idelalisib or any components of the Venetian formulation.\r\n- Presence of significant active infection requiring systemic therapy.\r\n- Prior history of deep vein thrombosis or pulmonary embolism within the last 6 months.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Study Director",
+      "affiliation": "Oncology Therapeutics Network"
+    },
+    "location": [{
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Oncology Therapeutics Network",
+      "investigator_full_name": "John Smith, MD"
+    },
+    "keyword": ["Chronic Lymphocytic Leukemia", "Idelalisib", "Venetoclax", "Combination Therapy"],
+    "condition_browse": {
+      "mesh_term": ["Leukemia, Lymphocytic, Chronic", "Leukemia"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Idelalisib", "Venetoclax"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "60 participants were screened for eligibility. The first participant was enrolled on January 15, 2017, and the study was terminated due to safety concerns on March 5, 2020.",
+        "pre_assignment_details": "Participants underwent screening and baseline assessments prior to enrollment."
+      },
+      "baseline": {
+        "population": "All enrolled participants were included in the safety analysis set.",
+        "group_list": {
+          "group": [{
+            "title": "Combination Therapy",
+            "description": "Idelalisib + Venetoclax administered following the outlined treatment protocol."
+          }]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Up to 36 months",
+        "desc": "Adverse events were collected and classified based on severity using CTCAE criteria.",
+        "group_list": {
+          "group": [{
+            "title": "Idelalisib + Venetoclax",
+            "description": "Combination treatment resulted in a higher incidence of serious adverse events, including hepatotoxicity and fatal infections."
+          }]
+        }
+      }
+    },
+    "limitations_and_caveats": "The study was prematurely terminated due to increased incidence of serious adverse events, including significant liver toxicity and opportunistic infections, leading to safety concerns that prompted regulatory scrutiny.",
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are not employees of the organization sponsoring the study."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trial Coordination Office",
+      "organization": "Oncology Therapeutics Network",
+      "email": "contact@oncologytrials.org"
+    }
+  }
+}
+```

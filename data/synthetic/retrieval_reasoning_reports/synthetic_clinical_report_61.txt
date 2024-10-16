@@ -1,0 +1,231 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on November 10, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "NEB-2021-01",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Nebivolol Versus Amlodipine in Stage 1 Hypertension",
+    "official_title": "Comparative Efficacy and Safety of Nebivolol Versus Amlodipine in Stage 1 Hypertension: A Randomized, Multi-Center Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The study aimed to investigate the comparative efficacy of nebivolol against amlodipine in lowering blood pressure and improving quality of life in patients with Stage 1 hypertension. Participants were randomized to receive either nebivolol (5 mg to 40 mg daily) or amlodipine (2.5 mg to 10 mg daily)."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and early termination due to slow recruitment.",
+    "start_date": "June 2021",
+    "completion_date": "March 2023",
+    "primary_completion_date": "March 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Systolic Blood Pressure (SBP) from Baseline to Week 12",
+      "time_frame": "12 weeks",
+      "description": "The primary endpoint was the change in systolic blood pressure (SBP), measured in mmHg, from baseline to 12 weeks after initiation of treatment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Diastolic Blood Pressure (DBP)",
+        "time_frame": "12 weeks",
+        "description": "Secondary endpoint measuring changes in diastolic blood pressure (DBP) in mmHg."
+      },
+      {
+        "measure": "Patient-reported Quality of Life using EQ-5D",
+        "time_frame": "12 weeks",
+        "description": "Assessment of quality of life using the EQ-5D questionnaire before and after treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "10",
+    "condition": ["Hypertension", "Stage 1 Hypertension"],
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Active Comparator",
+        "description": "Nebivolol: Doses ranging from 5 mg to 40 mg orally once daily."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Amlodipine: Doses ranging from 2.5 mg to 10 mg orally once daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nebivolol",
+        "description": "Nebivolol administered at 5 mg, 10 mg, 20 mg, and 40 mg daily dosage, oral administration.",
+        "arm_group_label": "1",
+        "other_name": "Bystolic"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Amlodipine",
+        "description": "Amlodipine administered at 2.5 mg, 5 mg, and 10 mg daily dosage, oral administration.",
+        "arm_group_label": "2",
+        "other_name": "Norvasc"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Adult males and females aged 30-75 years.\r\n  - Diagnosis of Stage 1 hypertension (SBP 140-159 mmHg and/or DBP 90-99 mmHg).\r\n  - Signed informed consent.\r\nExclusion Criteria:\r\n  - History of secondary hypertension.\r\n  - Known hypersensitivity to beta-blockers or calcium channel blockers.\r\n  - Significant cardiovascular, hepatic or renal impairment."
+      },
+      "gender": "All",
+      "minimum_age": "30 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alice Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Investigative Site",
+          "address": {
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75201",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "March 1, 2021",
+    "study_first_submitted_qc": "March 1, 2021",
+    "study_first_posted": "March 5, 2021",
+    "results_first_submitted": "April 10, 2023",
+    "results_first_submitted_qc": "April 10, 2023",
+    "results_first_posted": "May 15, 2023",
+    "last_update_submitted": "April 10, 2023",
+    "last_update_submitted_qc": "April 10, 2023",
+    "last_update_posted": "May 15, 2023",
+    "responsible_party": {
+      "name_title": "Philip Smith, MD, Executive Director of Cardiology",
+      "organization": "XYZ Pharmaceuticals"
+    },
+    "keyword": ["Hypertension", "Blood pressure", "Nebivolol", "Amlodipine", "Bystolic", "Norvasc"],
+    "condition_browse": {
+      "mesh_term": ["Hypertension"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Amlodipine", "Nebivolol"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The recruitment period lasted from June 2021 to December 2022 at one US location. Despite targeting an enrollment of 50 participants, only 10 were recruited.",
+        "pre_assignment_details": "All participants were evaluated for eligibility criteria through a screening visit prior to randomization.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Nebivolol",
+              "description": "Participants received nebivolol and underwent 12 weeks of monitoring."
+            },
+            {
+              "title": "Amlodipine",
+              "description": "Participants received amlodipine and underwent 12 weeks of monitoring."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "limitations_and_caveats": "Due to the slow recruitment, the study was terminated early. Furthermore, the stringent eligibility criteria limited the pool of potential participants, resulting in insufficient sample size to adequately assess the efficacy and safety of nebivolol compared to amlodipine. The lack of defined outcome improvements and comparable efficacy with the control medication led to a lack of interest from both participants and investigators in continuing with the study protocol."
+      },
+      "reported_events": {
+        "time_frame": "12 weeks",
+        "group_list": {
+          "group": [
+            {
+              "title": "Nebivolol",
+              "description": "Adverse events related to the use of Nebivolol were monitored."
+            },
+            {
+              "title": "Amlodipine",
+              "description": "Adverse events related to the use of Amlodipine were monitored."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [0, 0]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "category_list": {
+            "category": {
+              "title": "Total, other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [0, 0]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

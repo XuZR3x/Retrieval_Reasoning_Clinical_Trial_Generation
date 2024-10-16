@@ -1,0 +1,292 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03712345"
+    },
+    "id_info": {
+      "org_study_id": "GS-US-451-0201",
+      "nct_id": "NCT03712345"
+    },
+    "brief_title": "Phase 3 Trial of Idelalisib in Combination with Ofatumumab for Previously Treated CLL: A Comprehensive Study",
+    "official_title": "A Phase 3, Multicenter, Randomized, Open-Label Study of Idelalisib Combined with Ofatumumab Versus Ofatumumab Alone in Patients with Relapsed or Refractory Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Gilead Sciences",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Gilead Sciences",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase 3 study aimed to elucidate the efficacy and safety of idelalisib when used in tandem with ofatumumab in patients diagnosed with relapsed or refractory chronic lymphocytic leukemia (CLL). The study underscored the potential of idelalisib as an innovative treatment approach, capitalizing on its synergistic effects with established therapies, thus enhancing patient outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 15, 2019",
+    "completion_date": "November 30, 2021",
+    "primary_completion_date": "September 30, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Randomization to Event (up to 24 months)",
+      "description": "PFS was defined as the duration from randomization to the first documentation of disease progression or death from any cause, assessed using the updated IWCLL criteria. It serves as the primary efficacy endpoint, reflecting the clinical benefit of the therapeutic intervention."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 24 months",
+        "description": "ORR was defined as the percentage of participants who achieved a complete response (CR) or partial response (PR) as evaluated by the treating physician according to IWCLL criteria."
+      },
+      {
+        "measure": "Complete Response Rate",
+        "time_frame": "Up to 24 months",
+        "description": "Measured as the percentage of patients achieving CR, which indicated an absence of disease signs."
+      },
+      {
+        "measure": "Duration of Response (DOR)",
+        "time_frame": "Up to 24 months",
+        "description": "DOR was the duration from the first documentation of CR or PR to disease progression."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Up to 24 months",
+        "description": "Safety was determined by assessing the frequency, severity, and types of treatment-emergent adverse events (AEs) experienced during the trial."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "360",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": [
+      {
+        "arm_group_label": "Idelalisib + Ofatumumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants administered Idelalisib (150 mg orally twice daily) in combination with Ofatumumab (300 mg on Day 1, followed by 1000 mg weekly for 7 weeks, and then 1000 mg every 4 weeks for 4 doses)."
+      },
+      {
+        "arm_group_label": "Ofatumumab Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received Ofatumumab following an identical dosing protocol without the addition of Idelalisib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Idelalisib",
+        "description": "Idelalisib 150 mg tablets administered orally twice daily.",
+        "arm_group_label": "Idelalisib + Ofatumumab",
+        "other_name": ["Zydelig", "GS-1101", "CAL-101"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ofatumumab",
+        "description": "Ofatumumab administered intravenously.",
+        "arm_group_label": ["Idelalisib + Ofatumumab", "Ofatumumab Alone"],
+        "other_name": ["Arzerra"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria:\r\n\r\n- Diagnosis of relapsed or refractory CLL.\r\n- Patients must have measurable disease.\r\n- Aged 18 years or older; signed informed consent required.\r\n- Adequate hematological and organ function as determined by clinical tests.\r\n- Patients must not have received prior treatment with Idelalisib or Ofatumumab.\r\n\r\nKey Exclusion Criteria:\r\n\r\n- Active uncontrolled infection.\r\n- History of Richter's transformation.\r\n- Major surgery within 4 weeks of baseline.\r\n- Any serious medical condition that would contraindicate participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Gilead Study Director",
+      "role": "Study Director",
+      "affiliation": "Gilead Sciences"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cancer Treatment Centers of America",
+          "address": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85054",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": [
+      {
+        "citation": "Flinn I, Jones JA, Paredes-Mohedano M, et al. Efficacy and safety of Idelalisib in combination with Ofatumumab for previously treated chronic lymphocytic leukaemia (CLL): results from a Phase 3 trial. J Clin Oncol. 2022;40(9):963-973. doi:10.1200/JCO.2102141."
+      }
+    ],
+    "verification_date": "December 2021",
+    "study_first_submitted": "January 10, 2018",
+    "study_first_submitted_qc": "January 15, 2018",
+    "study_first_posted": "January 20, 2018",
+    "results_first_submitted": "November 10, 2021",
+    "results_first_submitted_qc": "November 15, 2021",
+    "results_first_posted": "December 1, 2021",
+    "last_update_submitted": "December 1, 2021",
+    "last_update_submitted_qc": "December 1, 2021",
+    "last_update_posted": "December 2, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Idelalisib",
+      "Ofatumumab",
+      "Chronic Lymphocytic Leukemia",
+      "Progression-Free Survival",
+      "Clinical Efficacy"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Leukemia", "Leukemia, Lymphocytic, Chronic, B-Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Idelalisib", "Ofatumumab"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Qualified external researchers may request IPD for this study after study completion. For more information, please visit our website.",
+      "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan"],
+      "ipd_time_frame": "18 months after study completion",
+      "ipd_access_criteria": "External environment with access permissions required.",
+      "ipd_url": "http://www.gilead.com/research/disclosure-and-transparency"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were enrolled across multiple sites in the United States. The first patient was screened on February 15, 2019, and the last study visit occurred on November 30, 2021.",
+        "pre_assignment_details": "400 participants were screened, and 360 participants were enrolled and randomized in the study."
+      },
+      "baseline": {
+        "population": "The intent-to-treat (ITT) analysis set included all randomized participants.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Idelalisib + Ofatumumab",
+              "description": "Participants received up to 12 cycles of Idelalisib and 12 infusions of Ofatumumab."
+            },
+            {
+              "title": "Ofatumumab Alone",
+              "description": "Participants received up to 12 infusions of Ofatumumab only."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was evaluated through standard response criteria, ensuring an accurate evaluation of the therapeutic impact of tyrosine inhibitors.",
+            "time_frame": "Randomization to event occurrence (up to 24 months)",
+            "population": "ITT analysis set with Kaplan-Meier estimation.",
+            "measure": {
+              "title": "Progression-Free Survival (PFS)",
+              "population": "Participants in the ITT analysis were analyzed to ensure rigorous statistical credibility, enhancing the robustness of PFS evaluation.",
+              "units": "months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "ORR defined as the percentage achieving CR or PR per IWCLL guidelines.",
+            "time_frame": "End of study up to 24 months",
+            "population": "ITT Analysis Set including all randomized participants.",
+            "measure": {
+              "title": "Overall Response Rate (ORR)",
+              "population": "Response was analyzed per IWCLL criteria.",
+              "units": "percentage",
+              "param": "Number",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Safety Profile",
+            "description": "Evaluation of treatment-emergent AEs served to delineate safety across cohorts.",
+            "time_frame": "During treatment and long-term follow up (up to 24 months)",
+            "population": "Participants were continually monitored for AEs to facilitate timely intervention.",
+            "measure": {
+              "title": "Safety Profile",
+              "population": "Safety assessments identified AEs and their management strategies.",
+              "units": "percentage of participants",
+              "param": "Number",
+              "dispersion": "Observed rates",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

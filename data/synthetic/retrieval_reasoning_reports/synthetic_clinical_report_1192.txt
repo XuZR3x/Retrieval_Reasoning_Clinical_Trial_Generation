@@ -1,0 +1,240 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT05098034"
+    },
+    "id_info": {
+      "org_study_id": "2022451",
+      "nct_id": "NCT05098034"
+    },
+    "brief_title": "Efficacy and Safety of Exenatide in Reducing Postprandial Hyperglycemia in Patients With Type 2 Diabetes",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy and Safety of Exenatide in Reducing Postprandial Hyperglycemia in Patients With Type 2 Diabetes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Zyglotech Pharmaceuticals",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Diabetes Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Zyglotech Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial was designed to evaluate the efficacy and safety of exenatide in managing elevated postprandial blood glucose levels in patients with Type 2 diabetes. Given the complexities associated with the current diabetes management methods, we aimed to assess whether exenatide could provide additional benefits over placebo."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment and high dropout rates leading to inadequate data analysis.",
+    "start_date": "March 2021",
+    "completion_date": "August 2022",
+    "primary_completion_date": "April 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Postprandial Blood Glucose Levels After 12 Weeks of Treatment",
+      "time_frame": "12 weeks",
+      "description": "Change in mean postprandial blood glucose levels from baseline to endpoint assessed using standard glucose tolerance tests."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Assessment of Adverse Events",
+        "time_frame": "12 weeks",
+        "description": "Monitoring of adverse events associated with the treatment using patient-reported measures."
+      },
+      {
+        "measure": "Change in Weight Over Treatment Period",
+        "time_frame": "12 weeks",
+        "description": "Change in body weight measured as a secondary endpoint to evaluate metabolic impact."
+      },
+      {
+        "measure": "Assessment of Glycated Hemoglobin (HbA1c) Change",
+        "time_frame": "12 weeks",
+        "description": "Evaluation of the change in HbA1c as an indicator of diabetes control during treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": "Type 2 Diabetes Mellitus",
+    "arm_group": [
+      {
+        "arm_group_label": "Exenatide Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive subcutaneous injections of 10 mcg of exenatide twice daily for 12 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Control Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive subcutaneous injections of placebo matching exenatide."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Exenatide",
+        "description": "Subcutaneous injection of 10 mcg administered twice daily for 12 weeks.",
+        "arm_group_label": "Exenatide Treatment Group",
+        "other_name": ["Byetta", "GLP-1 receptor agonist"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Subcutaneous injection of saline solution matching the volume of exenatide.",
+        "arm_group_label": "Placebo Control Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients diagnosed with Type 2 Diabetes for at least 1 year.\n- HbA1c between 7.0% and 10.0%.\n- Age between 18 and 75 years, both inclusive.\n\nExclusion Criteria:\n- Prior use of glucagon-like peptide-1 (GLP-1) receptor agonists.\n- Severe gastrointestinal disorders.\n- Ongoing treatment with insulin or other glucose-lowering medications not mentioned in inclusion criteria."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [{
+      "last_name": "Jonathan H. Clark, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Zyglotech Pharmaceuticals"
+    }],
+    "location": [{
+      "facility": {
+        "name": "Zyglotech Research Headquarters",
+        "address": {
+          "city": "San Antonio",
+          "state": "Texas",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "January 12, 2021",
+    "study_first_posted": "January 14, 2021",
+    "last_update_posted": "September 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Exenatide", "Type 2 Diabetes", "Postprandial Blood Glucose", "Therapeutic Efficacy"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Exenatide"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+            "title": "Exenatide Treatment Group",
+            "description": "Subcutaneous administration of 10 mcg of exenatide twice daily."
+          },
+          {
+            "title": "Placebo Control Group",
+            "description": "Subcutaneous administration of placebo injection."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": ["10", "25"]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": ["5", "15"]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": ["3", "10"]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [{
+            "title": "Exenatide Treatment Group",
+            "description": "Adverse events related to treatment were reported."
+          },
+          {
+            "title": "Placebo Control Group",
+            "description": "Adverse events reported entailed non-treatment effects."
+          }]
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": ["10", "12"]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [{
+                  "sub_title": "Nausea",
+                  "counts": ["5", "4"]
+                },
+                {
+                  "sub_title": "Vomiting",
+                  "counts": ["3", "2"]
+                }]
+              }
+            },
+            {
+              "title": "Psychiatric disorders",
+              "event_list": {
+                "event": [{
+                  "sub_title": "Anxiety",
+                  "counts": ["3", "1"]
+                }]
+              }
+            }]
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The sponsor has the right to review results communications prior to public release and can embargo communications regarding trial results."
+        },
+        "point_of_contact": {
+          "name_or_title": "Anna Thompson, Clinical Operations",
+          "organization": "Zyglotech Pharmaceuticals",
+          "phone": "210-555-6392",
+          "email": "info@zyglotechpharma.com"
+        }
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,156 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03256487"
+    },
+    "id_info": {
+      "org_study_id": "BIVA-16-04",
+      "nct_id": "NCT03256487"
+    },
+    "brief_title": "Bivalirudin vs Unfractionated Heparin in High-Risk Patients Undergoing Percutaneous Coronary Intervention",
+    "official_title": "A Multicenter, Randomized, Open-Label Trial Evaluating the Efficacy and Safety of Bivalirudin versus Unfractionated Heparin in High-Risk Patients Undergoing Percutaneous Coronary Intervention (PCI)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cardiovascular Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess whether bivalirudin provides superior outcomes compared to unfractionated heparin in a cohort of high-risk patients undergoing PCI."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective of the present investigation was to compare the safety and efficacy of bivalirudin against unfractionated heparin in a population of high-risk patients, specifically those presenting with severe coronary artery disease who were pre-treated with contemporary dual antiplatelet therapy (ticagrelor or prasugrel) inconsistently. Previous research suggested that bivalirudin may confer benefits over heparin; however, the study was halted due to observed inefficacy. Key aspects for consideration included potential selection bias resulting from inclusion criteria that emphasized those with less severe coronary artery presentations, thus reducing the prognostic capacity observed under standard acute coronary syndromes. The study was designed to evaluate major bleeding events and composite data involving mortality and myocardial infarction; however, the primary endpoints did not demonstrate a significant advantage for bivalirudin. The protocol employed in this investigation failed to adequately optimize bivalirudin dosing tailored to individual patient variability, conversely demonstrating a more favorable outcome profile for the established safety profile of unfractionated heparin. The data ultimately indicated a lack of clinically meaningful differentiation in composite outcomes, leading to the study's termination for perceived futility."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was suspended due to an absence of statistically significant differences in the primary endpoints between bivalirudin and unfractionated heparin, as evaluated against a background of contemporary antiplatelet therapy.",
+    "start_date": "January 2016",
+    "completion_date": "July 2019",
+    "primary_completion_date": "February 2019",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Composite incidence of death, myocardial infarction, and major bleeding within 30 days post-PCI",
+      "time_frame": "30 days"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Individual event rates for death, myocardial infarction, and major bleeding",
+        "time_frame": "30 days"
+      },
+      {
+        "measure": "Length of hospital stay post-PCI",
+        "time_frame": "In-hospital"
+      },
+      {
+        "measure": "Cost-effectiveness analysis comparing total hospitalization costs",
+        "time_frame": "30 days"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": [
+      "Coronary Artery Disease",
+      "Angina Pectoris",
+      "Acute Coronary Syndrome"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Bivalirudin",
+        "arm_group_type": "Experimental",
+        "description": "Bivalirudin administered as an intravenous bolus of 0.75 mg/kg followed by a continuous infusion of 1.75 mg/kg/hr during the PCI."
+      },
+      {
+        "arm_group_label": "Unfractionated Heparin",
+        "arm_group_type": "Active Comparator",
+        "description": "Unfractionated Heparin delivered as a bolus of 70-100 units/kg, followed by a continuous infusion during the procedure per standard protocols."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bivalirudin",
+        "description": "Administered as an intravenous bolus of 0.75 mg/kg followed by an infusion of 1.75 mg/kg/hr.",
+        "arm_group_label": "Bivalirudin",
+        "other_name": "Angiox"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Unfractionated Heparin",
+        "description": "Administered as a bolus of 70-100 units/kg and maintained by intravenous infusion.",
+        "arm_group_label": "Unfractionated Heparin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Male or female patients aged 18 years or older.\r\n2. Scheduled for PCI due to high-risk stable angina or acute coronary syndrome.\r\n3. Ability to provide informed consent.\r\n4. Must have underwent appropriate dual antiplatelet therapy (aspirin and ticagrelor/prasugrel) pre-PCI.\r\n\r\nExclusion Criteria:\r\n1. Patients in cardiogenic shock.\r\n2. Significant renal impairment (eGFR <30 mL/min).\r\n3. History of heparin-induced thrombocytopenia, known coagulopathy, or bleeding diathesis.\r\n4. Patients receiving GpIIb/IIIa inhibitors within 48 hours prior to PCI.\r\n5. Prior enrollment in this trial or related studies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Michael Smith, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Cardiovascular Research Institute"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Institute",
+        "address": {
+          "city": "Anytown",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2019",
+    "study_first_submitted": "September 15, 2016",
+    "study_first_submitted_qc": "September 15, 2016",
+    "study_first_posted": "September 16, 2016",
+    "last_update_submitted": "April 1, 2019",
+    "last_update_posted": "April 2, 2019",
+    "responsible_party": {
+      "name_title": "Dr. Michael Smith",
+      "organization": "Cardiovascular Research Institute"
+    },
+    "keyword": [
+      "Coronary Artery Disease",
+      "Bivalirudin",
+      "Percutaneous Coronary Intervention"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Coronary Artery Disease",
+        "Myocardial Infarction",
+        "Angina Pectoris"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Heparin",
+        "Bivalirudin"
+      ]
+    }
+  }
+}
+```

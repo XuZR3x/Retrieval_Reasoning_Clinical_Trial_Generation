@@ -1,0 +1,148 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "Doxo-Sarcoma-Study",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Doxorubicin vs. Doxorubicin and Pazopanib in Advanced Soft Tissue Sarcomas",
+    "official_title": "A Phase II Randomized Study Comparing Doxorubicin Alone Versus Doxorubicin and Pazopanib in Previously Untreated Patients With Advanced Soft Tissue Sarcomas",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "European Organization for Research and Treatment of Cancer",
+        "agency_class": "Other"
+      }
+    },
+    "source": "European Organization for Research and Treatment of Cancer",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to compare the efficacy and safety of doxorubicin alone with the combination of doxorubicin and pazopanib in previously untreated patients with advanced soft tissue sarcomas (STS)."
+    },
+    "detailed_description": {
+      "textblock": "Soft tissue sarcoma (STS) represents a group of diverse mesenchymal tumors, characterized by varying responsiveness to chemotherapy regimens. Previous studies evaluating doxorubicin monotherapy have shown limited overall survival and progression-free survival rates, necessitating alternative therapeutic strategies. This trial's objective is to delineate the efficacy of doxorubicin in isolation versus its combination with pazopanib, an angiogenesis inhibitor, in enhancing anti-tumor activity in advanced STS. The hypothesis posits that the dual mechanism of action could yield superior clinical outcomes. However, interim analyses raised concerns regarding the study's feasibility stemming from participation issues and unfavorable safety profiles."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was halted due to insufficient patient recruitment, with significant adverse events leading to high dropout rates and inability to achieve meaningful statistical power.",
+    "start_date": "March 2011",
+    "completion_date": "December 2014",
+    "primary_completion_date": "August 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "Every 8 weeks for 2 years"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Every 8 weeks for 2 years"
+      },
+      {
+        "measure": "Response Rate According to RECIST",
+        "time_frame": "Every 8 weeks for 2 years"
+      },
+      {
+        "measure": "Adverse Events as Graded by CTCAE",
+        "time_frame": "Throughout the treatment period"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "37",
+    "condition": "Soft Tissue Sarcoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Experimental Group: Doxorubicin and Pazopanib",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive doxorubicin at a dose of 75 mg/m² IV every 3 weeks alongside oral pazopanib at a dose of 800 mg/day."
+      },
+      {
+        "arm_group_label": "Active Comparator Group: Doxorubicin Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive doxorubicin at a dose of 75 mg/m² IV every 3 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Doxorubicin",
+        "description": "Doxorubicin administered at 75 mg/m² IV every 3 weeks.",
+        "arm_group_label": ["Experimental Group: Doxorubicin and Pazopanib", "Active Comparator Group: Doxorubicin Alone"],
+        "other_name": "Adriamycin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pazopanib",
+        "description": "Oral pazopanib 800 mg administered daily.",
+        "arm_group_label": "Experimental Group: Doxorubicin and Pazopanib"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Patients aged 18 years or older with a histological diagnosis of advanced STS not amenable to curative resection.\n\n  - Measurable disease as defined by RECIST criteria.\n\n  - ECOG performance status of 0 to 2.\n\n  - Adequate organ function as evidenced by laboratory tests.\n\nExclusion Criteria:\n\n  - Previous treatment with any chemotherapy or targeted therapy for advanced disease.\n\n  - Significant cardiovascular disease, including uncontrolled hypertension, myocardial infarction, or congestive heart failure within the past year.\n\n  - Concurrent participation in another clinical trial or receipt of any investigational agent."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "No limit",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Patricia Silva, M.D.",
+        "role": "Principal Investigator",
+        "affiliation": "European Organization for Research and Treatment of Cancer"
+      }
+    ],
+    "location": {
+      "facility": [
+        {
+          "name": "Hospital Universitario de Madrid",
+          "address": {
+            "city": "Madrid",
+            "country": "Spain"
+          }
+        }
+      ]
+    },
+    "location_countries": {
+      "country": "Spain"
+    },
+    "verification_date": "March 2015",
+    "study_first_submitted": "February 12, 2011",
+    "study_first_submitted_qc": "February 15, 2011",
+    "study_first_posted": "February 19, 2011",
+    "last_update_submitted": "March 10, 2015",
+    "last_update_posted": "March 15, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Patricia Silva",
+      "responsible_party_title": "Lead Investigator"
+    },
+    "keyword": [
+      "Doxorubicin",
+      "Pazopanib",
+      "Soft Tissue Sarcoma",
+      "Advanced Cancer"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Sarcoma", "Soft Tissue Sarcoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Doxorubicin", "Pazopanib"]
+    }
+  }
+}
+```

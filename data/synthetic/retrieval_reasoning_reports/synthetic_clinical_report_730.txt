@@ -1,0 +1,430 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02112045"
+    },
+    "id_info": {
+      "org_study_id": "DAP-FAST",
+      "nct_id": "NCT02112045"
+    },
+    "brief_title": "Efficacy of Daptomycin in Patients with Methicillin-Resistant Staphylococcus aureus (MRSA) Infections",
+    "official_title": "A Multicenter, Double-Blind, Randomized Study to Evaluate the Efficacy and Safety of Daptomycin Versus Standard Care in Adult Patients with Documented Methicillin-Resistant Staphylococcus aureus Infections.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Cubist Pharmaceuticals LLC, a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to compare the efficacy of daptomycin with standard antibiotic therapy in patients diagnosed with MRSA infections. The focus was on assessing clinical outcomes and adverse events over the course of treatment."
+    },
+    "detailed_description": {
+      "textblock": "This randomized, double-blind study was designed to determine if daptomycin could provide superior clinical outcomes compared to traditional therapies such as vancomycin and linezolid in adults diagnosed with MRSA infections. The primary outcome measure was the rate of clinical cure at the end of treatment, defined as resolution of infection. Secondary outcomes included assessment of adverse events and microbiological eradication of MRSA at key time points during and after treatment. Enrollment was planned across five academic centers, with data collection spanning from treatment initiation to 30 days post-therapy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was halted after failing to achieve a sufficient sample size with only 56 participants recruited. The trial exhibited futility, as the comparator therapies demonstrated a significantly higher clinical success rate, limiting the ability to detect any potential benefits of daptomycin treatment.",
+    "start_date": "June 2014",
+    "completion_date": "February 2016",
+    "primary_completion_date": "December 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical Cure Rate at End of Treatment",
+      "time_frame": "28 days after initiation of therapy",
+      "description": "The primary outcome was the rate of clinical cure defined by resolution of infection signs and symptoms in MRSA-infected patients."
+    },
+    "secondary_outcome": {
+      "measure": "Microbiological Eradication at Test of Cure Visit",
+      "time_frame": "28 days after end of treatment",
+      "description": "Microbiological success was defined as no isolation of MRSA from cultures taken at the test-of-cure visit."
+    },
+    "number_of_arms": "2",
+    "enrollment": "56",
+    "condition": [
+      "Methicillin Resistant Staphylococcus aureus Infection",
+      "Skin and Soft Tissue Infections",
+      "Bone and Joint Infections"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Daptomycin",
+        "arm_group_type": "Experimental",
+        "description": "Daptomycin intravenous 6 mg/kg once daily for 7-14 days."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Vancomycin 1 g intravenously every 12 hours or Linezolid 600 mg intravenously every 12 hours."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daptomycin",
+        "description": "6 mg/kg IV daily",
+        "arm_group_label": "Daptomycin",
+        "other_name": "Cubicin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vancomycin",
+        "description": "1 g IV every 12 hours",
+        "arm_group_label": "Standard Care",
+        "other_name": "Vancocin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Linezolid",
+        "description": "600 mg IV every 12 hours",
+        "arm_group_label": "Standard Care",
+        "other_name": "Zyvox"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adults aged 18 years or older with a documented MRSA infection.\r\n2. Patients requiring hospitalization due to the severity of their infection.\r\n3. Written informed consent provided.\r\n\r\nExclusion Criteria:\r\n1. Previous treatment with daptomycin for the current infection.\r\n2. Known severe allergy to daptomycin or similar agents.\r\n3. Presence of significant renal impairment (eGFR <30 mL/min).\r\n4. Patients with infections requiring surgical intervention alone."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas J. Frankel, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "UCSF Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2016",
+    "study_first_submitted": "February 18, 2014",
+    "study_first_submitted_qc": "February 20, 2014",
+    "study_first_posted": "February 21, 2014",
+    "results_first_submitted": "November 25, 2015",
+    "results_first_submitted_qc": "December 5, 2015",
+    "results_first_posted": "January 15, 2016",
+    "last_update_submitted": "July 12, 2016",
+    "last_update_submitted_qc": "July 12, 2016",
+    "last_update_posted": "July 14, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of California, San Francisco",
+      "investigator_full_name": "Thomas Frankel"
+    },
+    "keyword": [
+      "Daptomycin",
+      "MRSA",
+      "Skin Infections",
+      "Soft Tissue Infections"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Infections", "Methicillin Resistant Staphylococcus aureus", "Skin Diseases", "Soft Tissue Infections"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Daptomycin", "Vancomycin", "Linezolid"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Among the 56 participants screened, only 2 were randomized to the daptomycin group while 54 were randomized to standard care. The imbalance in participant allocation prompted an early study termination due to futility.",
+        "pre_assignment_details": "Patients meeting initial criteria were categorized based on consent and randomization process, where those failing to meet eligibility criteria were excluded.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Daptomycin intravenous 6 mg/kg once daily."
+            },
+            {
+              "title": "Standard Care",
+              "description": "Vancomycin or Linezolid as per hospital protocol."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["8 patients were screened in the initial enrollment ramp-up; 4 were found ineligible due to prior antibiotic exposure", "38 patients signed consent forms; 10 were unable to participate due to pre-existing conditions."]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["Only 2 subjects received daptomycin before termination; both unexpectedly continued their prior antibiotics", "54 subjects completed their treatment with standard care."]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Lack of patient enrollment ultimately dictated study cessation.", "Investigative site constraints highlighted difficulties with patient recruitment."]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Daptomycin intravenous 6 mg/kg once daily."
+            },
+            {
+              "title": "Standard Care",
+              "description": "Vancomycin or Linezolid regimen."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [2, 54]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "<=50 years",
+                        "measurement_list": {
+                          "measurement": [1, 22]
+                        }
+                      },
+                      {
+                        "title": ">50 years",
+                        "measurement_list": {
+                          "measurement": [1, 32]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [0, 26]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [2, 28]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Clinical Cure Rate at End of Treatment",
+            "description": "Rate of clinical cure defined by resolution of infection signs and symptoms.",
+            "time_frame": "28 days post-therapy",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Daptomycin",
+                  "description": "Data insufficient to evaluate clinical success due to limited enrollment."
+                },
+                {
+                  "title": "Standard Care",
+                  "description": "Clinical success achieved in 45 of 54 participants (83.3%)."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Clinical Cure Rate",
+              "description": "Determination of the percentage of participants that achieved resolution of infection signs and symptoms.",
+              "units": "percent",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [0, 45]
+                  }
+                }
+              },
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [0, 83.3]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Microbiological Eradication at Test of Cure Visit",
+            "description": "Percentage of patients achieving eradication of MRSA at the test of cure visit.",
+            "time_frame": "28 days after completion of treatment",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Daptomycin",
+                  "description": "Microbiological data unobtainable due to insufficient participant enrollment."
+                },
+                {
+                  "title": "Standard Care",
+                  "description": "Microbiological eradication noted in 38 of 54 participants (70.4%)."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Microbiological Eradication Rate",
+              "description": "Evaluation of the microorganism eradication from participant samples.",
+              "units": "percent",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [0, 38]
+                  }
+                }
+              },
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [0, 70.4]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "reported_events": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Daptomycin",
+                "description": "Daptomycin intravenous 6 mg/kg once daily."
+              },
+              {
+                "title": "Standard Care",
+                "description": "Vancomycin or Linezolid regimen."
+              }
+            ]
+          },
+          "serious_events": {
+            "default_assessment": "Clinical Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Serious Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [0, 4]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Other Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": [0, 10]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+        },
+        "limitations_and_caveats": "The inability to recruit a necessary sample size significantly limited the statistical power of the study, ultimately impacting the efficacy conclusions drawn regarding daptomycin in the treatment of MRSA infections.",
+        "point_of_contact": {
+          "name_or_title": "Dr. Thomas J. Frankel",
+          "organization": "University of California, San Francisco",
+          "phone": "415-476-9000",
+          "email": "thomas.frankel@ucsf.edu"
+        }
+      }
+    }
+  }
+}
+```

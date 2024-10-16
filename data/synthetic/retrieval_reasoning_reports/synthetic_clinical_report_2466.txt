@@ -1,0 +1,223 @@
+{"clinical_study": 
+  {"required_header": 
+    {"download_date": "ClinicalTrials.gov processed this data on August 29, 2024", 
+    "link_text": "Link to the current ClinicalTrials.gov record.", 
+    "url": "https://clinicaltrials.gov/ct2/show/NCT04276425"},
+  
+  "id_info": 
+    {"org_study_id": "TXA-HEMOR-CARDIO", 
+    "nct_id": "NCT04276425"},
+  
+  "brief_title": "Efficacy of Tranexamic Acid in Reducing Cardiac Surgical Blood Loss",
+  
+  "official_title": "A Multicenter, Double-Blind, Randomized Controlled Trial Evaluating the Efficacy of Tranexamic Acid on Reducing Postoperative Blood Loss in Patients Undergoing Cardiac Surgery",
+  
+  "sponsors": 
+    {"lead_sponsor": 
+      {"agency": "Cleveland Clinic Foundation", 
+      "agency_class": "Other"}},
+      
+  "source": "Cleveland Clinic Foundation",
+  
+  "oversight_info": 
+    {"has_dmc": "Yes"},
+  
+  "brief_summary": 
+    {"textblock": "This multicenter, double-blind, randomized controlled trial aims to assess the efficacy of tranexamic acid in reducing postoperative blood loss in patients undergoing elective cardiac surgery. The study compares tranexamic acid to a placebo to determine its impact on blood loss, transfusion requirements, and potential thromboembolic events."},
+  
+  "detailed_description": 
+    {"textblock": "Cardiac surgery is associated with substantial blood loss, which often necessitates the use of blood transfusions and can increase the risk of postoperative complications. Tranexamic acid (TXA) is a synthetic antifibrinolytic agent that has shown promise in reducing blood loss across various surgical settings. Prior studies suggest TXA can significantly decrease transfusion rates and minimize hemorrhagic complications without increasing thromboembolic events.\n\nThe primary objective of this study is to evaluate whether TXA, administered prior to surgery, effectively decreases postoperative blood loss in patients undergoing elective cardiac procedures. Secondary outcomes include the assessment of transfusion requirements, the incidence of postoperative complications such as myocardial infarction and stroke, and evaluation of TXA’s safety profile."},
+  
+  "overall_status": "Completed",
+  
+  "start_date": "February 2021",
+  
+  "completion_date": "September 2022",
+  
+  "primary_completion_date": "June 2022",
+  
+  "phase": "Phase 3",
+  
+  "study_type": "Interventional",
+  
+  "has_expanded_access": "No",
+  
+  "study_design_info": 
+    {"allocation": "Randomized", 
+    "intervention_model": "Parallel Assignment", 
+    "primary_purpose": "Prevention", 
+    "masking": "Double (Participant, Investigator)"},
+  
+  "primary_outcome": 
+    {"measure": "Cumulative Postoperative Blood Loss", 
+    "time_frame": "Measured over the first 48 hours post surgery", 
+    "description": "Total volume of blood collected from surgical drains up to 48 hours postoperatively"},
+  
+  "secondary_outcome": 
+    [{"measure": "Transfusion Requirement", 
+    "time_frame": "Measured within the first 48 hours post surgery", 
+    "description": "The number of packed red blood cell units transfused to the participant"},
+    
+    {"measure": "Incidence of Thromboembolic Events", 
+    "time_frame": "30 days post-operative", 
+    "description": "Number of participants experiencing post-surgical thromboembolic events, assessed via ultrasound and imaging studies"},
+    
+    {"measure": "Postoperative Complications Rate", 
+    "time_frame": "30 days post-operative", 
+    "description": "Composite outcome of major complications including myocardial infarction, stroke and death"}],
+  
+  "number_of_arms": "2",
+  
+  "enrollment": "500",
+  
+  "condition": ["Blood Loss", "Postoperative Complications", "Cardiac Surgery", "Tranexamic Acid"],
+  
+  "arm_group": 
+    [{"arm_group_label": "TXA Group", 
+    "arm_group_type": "Experimental", 
+    "description": "Participants received a 1 gram intravenous bolus of tranexamic acid immediately prior to induction of anesthesia."},
+    
+    {"arm_group_label": "Placebo Group", 
+    "arm_group_type": "Placebo Comparator", 
+    "description": "Participants received a matching placebo (normal saline) intravenously before induction of anesthesia."}],
+  
+  "intervention": 
+    [{"intervention_type": "Drug", 
+    "intervention_name": "Tranexamic Acid", 
+    "description": "An antifibrinolytic agent administered to reduce blood loss during cardiac surgery.", 
+    "arm_group_label": "TXA Group"},
+    
+    {"intervention_type": "Drug", 
+    "intervention_name": "Placebo", 
+    "description": "Normal saline serving as a control for the active drug.", 
+    "arm_group_label": "Placebo Group"}],
+  
+  "eligibility": 
+    {"criteria": 
+      {"textblock": "Inclusion Criteria:\n\n- Adults aged 18 years and older\n- Scheduled for elective cardiac surgery requiring sternotomy\n- Able to provide informed consent\n\nExclusion Criteria:\n\n- Known allergy to tranexamic acid\n- Active thromboembolic disease\n- Significant liver impairment\n- Coagulation disorders\n- Patients receiving anticoagulation therapy within 48 hours prior to surgery"},
+      
+      "gender": "All", 
+      "minimum_age": "18 Years", 
+      "maximum_age": "N/A", 
+      "healthy_volunteers": "No"},
+  
+  "overall_official": 
+    {"last_name": "John Doe, MD", 
+    "role": "Principal Investigator", 
+    "affiliation": "Cleveland Clinic Foundation"},
+  
+  "location": 
+    {"facility": 
+      {"name": "Cleveland Clinic", 
+      "address": 
+        {"city": "Cleveland", 
+        "state": "Ohio", 
+        "zip": "44195", 
+        "country": "United States"}}},
+  
+  "location_countries": 
+    {"country": "United States"}, 
+  
+  "clinical_results": 
+    {"participant_flow": 
+      {"group_list": 
+        {"group": 
+          [{"title": "TXA Group", 
+            "description": "1 gram intravenous tranexamic acid."},
+            
+            {"title": "Placebo Group", 
+            "description": "Matching placebo solution."}]},
+          
+          "period_list": 
+            {"period": 
+              {"title": "Overall Study", 
+              "milestone_list": 
+                {"milestone": 
+                  [{"title": "STARTED", "participants_list": {"participants": [null, null]}}, 
+                   {"title": "COMPLETED", "participants_list": {"participants": [null, null]}}, 
+                   {"title": "NOT COMPLETED", "participants_list": {"participants": [null, null]}}]}}}},
+  
+  "baseline": 
+    {"group_list": 
+      {"group": 
+        [{"title": "TXA Group", 
+        "description": "1 gram intravenous tranexamic acid."}, 
+        
+        {"title": "Placebo Group", 
+        "description": "Matching placebo solution."}]},
+      
+      "analyzed_list": 
+        {"analyzed": 
+          {"units": "Participants", 
+          "scope": "Overall", 
+          "count_list": {"count": [250, 250]}}},
+      
+      "measure_list": 
+        {"measure": 
+          [{"title": "Age", 
+          "units": "years", 
+          "param": "Mean", 
+          "dispersion": "Standard Deviation"},
+          
+          {"title": "Sex: Female, Male", 
+          "units": "Participants", 
+          "param": "Count of Participants"}]}},
+  
+  "outcome_list": 
+    {"outcome": 
+      [{"type": "Primary", 
+      "title": "Cumulative Postoperative Blood Loss", 
+      "description": "Total volume of blood collected from surgical drains up to 48 hours postoperatively", 
+      "time_frame": "Measured over first 48 hours", 
+      "group_list": 
+        {"group": 
+          [{"title": "TXA Group", 
+          "description": "Participants who received tranexamic acid."}, 
+          
+          {"title": "Placebo Group", 
+          "description": "Participants who received placebo."}]},
+      
+      "measure": 
+        {"title": "Cumulative Blood Loss (mL)", 
+        "units": "mL", 
+        "param": "Mean", 
+        "dispersion": "Standard Deviation"}},
+       
+      {"type": "Secondary", 
+      "title": "Transfusion Requirement", 
+      "description": "Number of packed red blood cell units transfused within 48 hours post surgery", 
+      "time_frame": "Measured within first 48 hours", 
+      "group_list": 
+        {"group": 
+          [{"title": "TXA Group", 
+          "description": "Participants who received tranexamic acid."},
+          
+          {"title": "Placebo Group", 
+          "description": "Participants who received placebo."}]},
+      
+      "measure": 
+        {"title": "Units Transfused", 
+        "units": "Units", 
+        "param": "Count of Participants"}},
+       
+      {"type": "Secondary", 
+      "title": "Incidence of Thromboembolic Events", 
+      "description": "Number of participants experiencing post-surgical thromboembolic events assessed via ultrasound and imaging studies.", 
+      "time_frame": "30 days post-operative", 
+      "group_list": 
+        {"group": 
+          [{"title": "TXA Group", 
+          "description": "Participants who received tranexamic acid."},
+          
+          {"title": "Placebo Group", 
+          "description": "Participants who received placebo."}]},
+      
+      "measure": 
+        {"title": "Thromboembolic Events", 
+        "units": "Count", 
+        "param": "Number", 
+        "analyzed_list": 
+          {"analyzed": 
+          {"units": "Participants", 
+            "scope": "Measure", 
+            "count_list": {"count": [null, null]}}}}}]}}}}}

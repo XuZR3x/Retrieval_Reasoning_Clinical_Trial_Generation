@@ -1,0 +1,307 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04230290"
+    },
+    "id_info": {
+      "org_study_id": "H8O-MC-XO6B",
+      "nct_id": "NCT04230290"
+    },
+    "brief_title": "Evaluation of Exenatide on Glycemic Control and Heart Rate Variability in Patients with Type 2 Diabetes Mellitus",
+    "official_title": "A Randomized, Placebo-Controlled, Double-Blind Study to Evaluate the Efficacy of Exenatide on Glycemic Control and Heart Rate Variability in Patients with Type 2 Diabetes Mellitus",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "ABC Medical Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pharma Global Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "ABC Medical Center",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to investigate the effects of exenatide on glycemic control and heart rate variability in patients diagnosed with type 2 diabetes mellitus. The study hypothesized that exenatide would lead to significant improvements in glycemic levels and heart rate metrics compared to placebo."
+    },
+    "detailed_description": {
+      "textblock": "The trial was structured as a multi-center, randomized, placebo-controlled study with the intent to enroll 100 participants who met the eligibility criteria. Each participant was assigned to receive either exenatide or a matching placebo for a duration of 16 weeks. Expected outcomes included changes in HbA1c levels, daily glucose measurements, and assessments of heart rate variability.\n\nHowever, the trial faced considerable challenges, primarily due to recruitment difficulties, leading to an overall enrollment of only 35 participants. The limited sample size severely compromised the statistical power needed to validate the observed effects, thereby raising concerns regarding the reliability and applicability of the findings.\n\nFurthermore, a significant number of participants exited the study prematurely due to adverse reactions associated with the treatment, including gastrointestinal disturbances and hypoglycemia. This high dropout rate alluded to potential safety concerns regarding exenatide, which obfuscated the assessment of its efficacy as several primary and secondary outcome measures were left inadequately evaluated due to missing data.\n\nIn addition, the heterogeneity in patient eligibility further complicated the trial. Stringent inclusion criteria resulted in a substantial filtering of potential candidates, contributing to selection bias where a less diverse population was recruited than originally intended, which might have distorted the effects attributed to exenatide.\n\nDespite some preliminary analyses suggesting minimal improvements in glycemic indices, the changes were statistically insignificant and did not differentiate effectively between the treatment and placebo arms, leading to questions on whether exenatide offers meaningful therapeutic advantages in this patient population."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient enrollment and high dropout rates.",
+    "start_date": "February 2020",
+    "completion_date": "July 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in HbA1c from Baseline to Week 16",
+      "time_frame": "16 weeks",
+      "description": "Change from baseline in HbA1c measured at the end of treatment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Heart Rate Variability from Baseline to Week 16",
+        "time_frame": "16 weeks",
+        "description": "Assessment of heart rate variability using Holter monitoring and reported by standard deviation of the NN intervals (SDNN)."
+      },
+      {
+        "measure": "Change in Daily Glucose Levels from Baseline to Week 16",
+        "time_frame": "16 weeks",
+        "description": "Daily mean glucose levels measured from continuous glucose monitoring data."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": "Type 2 Diabetes Mellitus",
+    "arm_group": [
+      {
+        "arm_group_label": "Exenatide Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received exenatide 5 mcg subcutaneously twice daily for the first 4 weeks, then uptitrated to 10 mcg for the next 12 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received a placebo injection matching the volume of the exenatide regimen for the same duration."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Exenatide",
+        "description": "Subcutaneous injection, 5 mcg or 10 mcg, twice daily.",
+        "arm_group_label": "Exenatide Group",
+        "other_name": ["Byetta"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Subcutaneous injection, volume equivalent to active treatment, twice daily.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18-75 with a diagnosis of type 2 diabetes mellitus.\n- HbA1c levels between 6.5% and 9.5% at screening.\n- Body Mass Index (BMI) between 25 and 40.\n\nExclusion Criteria:\n\n- History of pancreatitis or radioiodine therapy for hyperthyroidism.\n- Use of insulin or GLP-1 receptor agonists within the past 3 months.\n- Active gastrointestinal disorders that could interfere with study assessments."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Study Director",
+      "affiliation": "ABC Medical Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "ABC Medical Center",
+          "address": {
+            "city": "Anytown",
+            "state": "Anystate",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_submitted_qc": "February 1, 2020",
+    "study_first_posted": "February 20, 2020",
+    "results_first_submitted": "August 12, 2021",
+    "results_first_submitted_qc": "August 15, 2021",
+    "results_first_posted": "September 5, 2021",
+    "last_update_submitted": "March 10, 2022",
+    "last_update_submitted_qc": "March 15, 2022",
+    "last_update_posted": "April 1, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["exenatide", "heart rate variability", "type 2 diabetes", "glycemic control", "placebo"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Exenatide"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Exenatide Group",
+              "description": "Participants received exenatide treatment as defined above."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants received placebo treatment as defined above."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [35]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [35]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [65]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Exenatide Group",
+                "description": "Participants in this group received exenatide."
+              },
+              {
+                "title": "Placebo Group",
+                "description": "Participants in this group received placebo."
+              },
+              {
+                "title": "Total",
+                "description": "Total of all reporting groups."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [35]
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Age",
+                  "units": "Years",
+                  "param": "Mean",
+                  "dispersion": "Standard Deviation",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": [45, 12]
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex: Female, Male",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "Female",
+                            "measurement_list": [15]
+                          },
+                          {
+                            "title": "Male",
+                            "measurement_list": [20]
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "outcome_list": {
+            "outcome": [
+              {
+                "type": "Primary",
+                "title": "Change in HbA1c from Baseline to Week 16",
+                "description": "Change from baseline in HbA1c.",
+                "time_frame": "16 weeks",
+                "population": "Analyzed cohort",
+                "measure": {
+                  "title": "Change in HbA1c",
+                  "description": "Mean change from baseline.",
+                  "units": "Percent",
+                  "param": "Least Squares Mean",
+                  "dispersion": "Standard Error",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [35]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Secondary",
+                "title": "Change in Heart Rate Variability from Baseline to Week 16",
+                "description": "Assessment of heart rate variability.",
+                "time_frame": "16 weeks",
+                "population": "Analyzed cohort",
+                "measure": {
+                  "title": "Heart Rate Variability",
+                  "description": "Change in heart rate variability.",
+                  "units": "ms",
+                  "param": "Standard Deviation of NN intervals",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [35]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

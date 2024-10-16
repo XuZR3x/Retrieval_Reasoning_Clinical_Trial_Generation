@@ -1,0 +1,139 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "MONT-2023-001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Montelukast in Asthma: A Randomized Controlled Trial",
+    "official_title": "Evaluation of Montelukast Efficacy and Safety in Patients with Persistent Asthma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Institute of Asthma Research",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Institute of Asthma Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of montelukast in patients with moderate persistent asthma. Despite its established use as a leukotriene receptor antagonist, the study faced significant challenges during enrollment due to prior exposure to montelukast in potential subjects. Insufficient recruitment led to compromised study integrity and validity of outcomes."
+    },
+    "detailed_description": {
+      "textblock": "Montelukast has been prescribed widely for asthma management, but its efficacy in a diverse population of asthma phenotypes remains unclear. This trial scrutinized patients aged 18-65 years with moderate persistent asthma using a randomized, double-blind, placebo-controlled design. Primary outcomes included asthma symptom scores, eosinophil counts, and serum levels of inflammatory cytokines. \n\nThe heterogeneity in asthma phenotypes (Th1, Th2, and Th17) across enrolled participants may have further diluted the expected treatment effect of montelukast. This variability highlighted the complexities of individual responses to leukotriene antagonists, which influenced the data reliability and interpretative clarity of treatment effects.\n\nThe trial outlined problems in the pharmacological design, which lacked robust dose-response evaluations. Different dosing regimens, coupled with variable adherence rates, potentially undermined the therapeutic potential of montelukast. Furthermore, the primary outcomes chosen—while clinically relevant—demonstrated variations in their sensitivity and specificity, thus impairing the assessment of montelukast’s impact on inflammation during viral colds or exacerbations.\n\nAnalyzing data for its efficacy was significantly constrained due to the failure to establish a standardized reference point for asthma exacerbation evaluation. This undermined the trial’s capability to accurately measure montelukast effectiveness vis-à-vis placebo and alternative management treatments."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial experienced major recruitment difficulties due to many subjects being previously treated with montelukast, hindering adequate enrollment for reliable data analysis.",
+    "start_date": "January 2021",
+    "completion_date": "June 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "N/A",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Asthma Symptom Score",
+      "time_frame": "8 weeks",
+      "description": "Asthma symptom scores were recorded twice daily using a validated diary system. The total score reflects the frequency and severity of symptoms."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Eosinophil Count",
+        "time_frame": "8 weeks",
+        "description": "Eosinophil counts were assessed in induced sputum samples collected prior to and post-treatment to evaluate airway inflammation."
+      },
+      {
+        "measure": "Serum Inflammatory Cytokines",
+        "time_frame": "8 weeks",
+        "description": "Serum levels of key inflammatory mediators were quantified to understand montelukast’s impact on systemic inflammation."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "10",
+    "condition": "Moderate Persistent Asthma",
+    "arm_group": [
+      {
+        "arm_group_label": "Montelukast 10 mg/day",
+        "arm_group_type": "Active Comparator",
+        "description": "Subjects will receive 10 mg of montelukast daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Subjects will receive placebo tablets matching montelukast formulation."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Montelukast",
+        "description": "Montelukast, administered at a dose of 10 mg once daily.",
+        "arm_group_label": "Montelukast 10 mg/day"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Identical placebo given to control group.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adults aged 18-65 years with a diagnosis of moderate persistent asthma.\n\n  - Documented history of asthma for at least six months prior to screening.\n\n  - Ability to provide informed consent and comply with study procedures.\n\nExclusion Criteria:\n\n  - History of severe asthma exacerbations requiring hospitalization in the past year.\n\n  - Recent viral infections or current respiratory illness.\n\n  - Current treatment with montelukast or intense immunotherapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alexandra Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Institute of Asthma Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Global Institute of Asthma Research",
+        "address": {
+          "city": "Anytown",
+          "state": "Anystate",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "November 10, 2020",
+    "study_first_posted": "November 15, 2020",
+    "results_first_submitted": "July 25, 2023",
+    "results_first_posted": "July 29, 2023",
+    "last_update_submitted": "August 3, 2023",
+    "last_update_posted": "August 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Montelukast", "Asthma", "Leukotriene Antagonist"],
+    "condition_browse": {
+      "mesh_term": "Asthma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Montelukast"
+    },
+    "limitations_and_caveats": "The study faced significant limitations, notably low enrollment due to previous montelukast treatment among potential participants. Variability in asthma phenotypes and the lack of a standardized evaluation for exacerbation outcomes further complicated the analysis of montelukast's efficacy."
+  }
+}
+```

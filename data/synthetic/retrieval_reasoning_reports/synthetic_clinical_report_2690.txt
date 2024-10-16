@@ -1,0 +1,135 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-987654321",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluating the Efficacy of Warfarin in the Management of Patients with Deep Vein Thrombosis and Comorbidities",
+    "official_title": "A Multi-Center Randomized Controlled Trial of Warfarin Versus Standard Care in Patients with Deep Vein Thrombosis and Comorbid Conditions",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Healthcare Research Foundation",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Global Thrombosis Consortium",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Healthcare Research Foundation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to assess the efficacy of warfarin in a population of patients diagnosed with deep vein thrombosis (DVT) while simultaneously affected by various comorbidities. Despite previous evidence supporting warfarin’s anticoagulant capabilities, the expected outcomes were not achieved."
+    },
+    "detailed_description": {
+      "textblock": "The study sought to enroll patients diagnosed with DVT who also presented with complications such as malignancy, renal failure, or metabolic disorders. Patients were allocated to receive either warfarin or standard management protocols for a period of six months. The primary endpoint was the recurrence of thromboembolic events, while secondary endpoints included rates of major bleeding and overall mortality. Recruitment commenced in February 2015 and was halted in December 2017 due to insufficient enrollment and the emergent preference for direct oral anticoagulants (DOACs). Challenges were noted in managing warfarin’s complex dosing and therapeutic monitoring, contributing to significant attrition rates. The small sample size ultimately hindered the statistical power required to establish definitive conclusions on warfarin efficacy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and emerging treatment alternatives.",
+    "start_date": "February 2015",
+    "completion_date": "December 2017",
+    "primary_completion_date": "December 2017",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Recurrent Thromboembolic Events",
+      "time_frame": "Measured from randomization to 6 months",
+      "description": "The primary efficacy endpoint was defined as the occurrence of symptomatic DVT, pulmonary embolism (PE), or death due to thromboembolic causes."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Major Bleeding Complications",
+        "time_frame": "Measured from randomization to 6 months",
+        "description": "Documented major bleeding events classified according to the International Society on Thrombosis and Haemostasis criteria."
+      },
+      {
+        "measure": "Overall Mortality",
+        "time_frame": "Measured from randomization to 6 months",
+        "description": "All-cause mortality assessed over the study duration."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "56",
+    "condition": "Deep Vein Thrombosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Warfarin",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants assigned to the warfarin arm received personalized dosing to maintain an INR of 2-3 throughout the study."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard care for DVT, which included direct oral anticoagulants and symptomatic treatment based on clinical guidelines."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Warfarin",
+        "description": "Oral anticoagulant administered daily with dose adjustments made based on INR monitoring to achieve target levels."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Care",
+        "description": "Patients received treatment with alternative anticoagulants or conservative care methods based on clinical necessity."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Diagnosed with symptomatic DVT confirmed by imaging.\n- Age ≥ 18 years.\n- Comorbidities such as malignancy or renal dysfunction must be documented.\n- Capacity to provide informed consent.\n\nExclusion Criteria:\n- Life expectancy < 6 months.\n- Prior anticoagulation therapy lasting more than 72 hours.\n- Contraindications to anticoagulation.\n- Participation in another interventional trial concurrently."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michael S. Cranford, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Healthcare Research Foundation"
+    },
+    "location": {
+      "facility": {
+        "name": "Various Clinical Sites Across the United States",
+        "address": {"city": "Various", "state": "N/A", "zip": "N/A", "country": "United States"}
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2018",
+    "study_first_submitted": "December 20, 2014",
+    "study_first_submitted_qc": "December 20, 2014",
+    "study_first_posted": "January 5, 2015",
+    "last_update_submitted": "February 5, 2018",
+    "last_update_submitted_qc": "February 5, 2018",
+    "last_update_posted": "February 10, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Thromboembolism", "Venous Thromboembolism"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Warfarin"]
+    },
+    "limitations_and_caveats": "The trial faced significant barriers, primarily due to insufficient patient enrollment, which further emphasized the contemporary shift towards direct oral anticoagulants among clinicians and patients seeking more manageable treatment options."
+  }
+}
+```

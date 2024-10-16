@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT12345678"
+    },
+    "id_info": {
+      "org_study_id": "18742",
+      "secondary_id": ["2020-001234-89", "I4T-MC-JVDE", "ZZ12345"],
+      "nct_id": "NCT12345678"
+    },
+    "brief_title": "Phase 3 Study of Ramucirumab in Patients With Advanced Solid Tumors",
+    "official_title": "A Randomized, Multi-Center, Phase 3 Trial to Evaluate the Efficacy and Safety of Ramucirumab in Combination With Standard Chemotherapy in Patients With Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to evaluate the effectiveness, safety, and pharmacokinetics of ramucirumab in combination with standard chemotherapy agents in participants with advanced solid tumors, particularly focusing on those with elevated alpha-fetoprotein. This multi-center trial aims to foster an adaptive approach based on individual response patterns to optimize treatment outcomes."
+    },
+    "completion_date": "February 2024",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From randomization to death from any cause (up to 48 months)",
+      "description": "Overall survival is defined as the time from randomization until the date of death due to any cause, with statistical analysis focused on comparison between the ramucirumab combination and standard chemotherapy alone."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization to disease progression or death (up to 48 months)",
+        "description": "Progression-free survival is calculated as the duration of time during and after treatment when the patient lives with the disease but it does not worsen."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From treatment initiation to confirmed CR or PR (up to 48 months)",
+        "description": "The ORR is defined as the percentage of participants achieving a complete response (CR) or partial response (PR) as assessed by RECIST criteria."
+      },
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "From date of first response to disease progression (up to 48 months)",
+        "description": "Duration of response is defined as the length of time that a tumor continues to respond to treatment without growing."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "240",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ramucirumab at a dose of 8 mg/kg intravenously every two weeks plus standard chemotherapy.",
+        "intervention": [
+          {
+            "intervention_type": "Drug",
+            "intervention_name": "Ramucirumab",
+            "description": "Administered intravenously at 8 mg/kg biweekly."
+          }
+        ]
+      },
+      {
+        "arm_group_label": "Standard Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard chemotherapy agent(s) without ramucirumab."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Participants must be adults aged 18 years or older, with confirmed histopathological diagnosis of any advanced solid tumor with measurable disease.\n- Patients should have elevated baseline alpha-fetoprotein (≥400 ng/mL) and prior treatment with one or more lines of systemic therapy.\n- Adequate organ function as determined by routine laboratory assessments.\n- An Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\nExclusion Criteria:\n- Participants with prior exposure to ramucirumab or those who have received investigational therapies within 4 weeks prior to randomization.\n- Patients with known CNS metastases or those requiring other antitumor therapies.\n- Significant uncontrolled comorbidities or contraindication to receiving standard chemotherapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Smith",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {"city": "Baltimore", "state": "Maryland", "zip": "21231", "country": "United States"}
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {"city": "Rochester", "state": "Minnesota", "zip": "55902", "country": "United States"}
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {"city": "Cleveland", "state": "Ohio", "zip": "44195", "country": "United States"}
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "February 2024",
+    "study_first_submitted": "December 1, 2020",
+    "study_first_posted": "December 5, 2020",
+    "last_update_posted": "February 25, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["advanced solid tumors", "VEGF inhibition", "ramucirumab", "oncology", "chemotherapy"],
+    "condition_browse": {
+      "mesh_term": ["Carcinoma", "Solid Tumors", "Advanced Cancer"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ramucirumab", "Anti-VEGFR Therapy"]
+    }
+  }
+}
+```

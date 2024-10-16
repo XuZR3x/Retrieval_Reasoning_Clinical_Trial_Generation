@@ -1,0 +1,108 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01390123"
+    },
+    "id_info": {
+      "org_study_id": "ATZ-Phase4-2022",
+      "nct_id": "NCT01390123"
+    },
+    "brief_title": "Efficacy and Safety of Atazanavir in Virologically Suppressed HIV-Infected Patients with Pre-existing Treatment Regimens",
+    "acronym": "ATZ Study",
+    "official_title": "A Phase IV, Open-label, Multicenter Trial to Evaluate the Efficacy and Safety of Atazanavir in HIV-Infected Patients Subjected to Prior Antiretroviral Therapy Regimens with Sustained Virologic Suppression",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Bristol-Myers Squibb",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to assess the efficacy and safety of atazanavir in HIV patients who have shown sustained virologic suppression after being on different antiretroviral therapies. Participants who were switched to atazanavir/ritonavir were evaluated for maintenance of HIV-1 RNA levels and potential adverse effects over a 48-week period."
+    },
+    "detailed_description": {
+      "textblock": "The study enrolled HIV-positive adults on stable antiretroviral therapy for a minimum of six months with undetectable viral load (<50 copies/mL). Participants were guided through a transition to a regimen that included atazanavir/ritonavir (300/100 mg daily). Key assessments involved virologic outcomes, adverse events related to the intervention, and the effect on metabolic parameters.",
+      "study_design_info": {
+        "allocation": "Non-Randomized",
+        "intervention_model": "Single Group Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "None (Open Label)"
+      }
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient enrollment and high rates of virologic rebound during the trial period.",
+    "start_date": "February 2011",
+    "completion_date": "March 2014",
+    "primary_completion_date": "March 2014",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "number_of_arms": "1",
+    "enrollment": "50",
+    "condition": "HIV Infection",
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Atazanavir/ritonavir",
+      "description": "Atazanavir 300 mg + Ritonavir 100 mg orally once daily for 48 weeks.",
+      "other_name": "Reyataz/Norvir"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Documented HIV infection and virologically suppressed (<50 copies/mL) for at least 3 months.\r\n  - Adults aged 18 years or older.\r\n  - Participants must be willing to switch from their existing antiretroviral therapy to a regimen containing atazanavir/ritonavir.\r\n\r\nExclusion Criteria:\r\n\r\n  - History of virologic rebound with prior treatment regimens.\r\n  - Previous exposure to atazanavir or ritonavir.\r\n  - Serious pre-existing medical conditions that may interfere with study outcomes."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah Johnson, MD",
+      "role": "Study Director",
+      "affiliation": "Bristol-Myers Squibb"
+    },
+    "location": [{
+      "facility": {
+        "name": "The Research Clinic",
+        "address": {
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33101",
+          "country": "United States"
+        }
+      }
+    }],
+    "verification_date": "April 2016",
+    "results_reference": {
+      "citation": "Johnson S., et al. The Efficacy of Atazanavir in Virologically Suppressed HIV-Infected Patients: A Phase IV Study. Journal of HIV Therapy. 2016; 21(5): 12-17.",
+      "PMID": "27292012"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of participants maintaining HIV-1 RNA levels below 40 copies/mL at Week 24.",
+      "time_frame": "From baseline to Week 24",
+      "description": "Analysis of viral load suppression in subjects transitioned to the atazanavir/ritonavir treatment regimen."
+    },
+    "secondary_outcome": [{
+      "measure": "Incidence of adverse events post-switch.",
+      "time_frame": "From baseline to Week 48",
+      "description": "Documented occurrences of gastrointestinal disturbances, metabolic abnormalities, and other adverse events."
+    }, {
+      "measure": "Changes in lipid profiles at Weeks 24 and 48.",
+      "time_frame": "From baseline to Weeks 24 and 48",
+      "description": "Monitoring of LDL, HDL, total cholesterol, and triglyceride levels before and after intervention."
+    }],
+    "reported_events": {
+      "group_list": {
+        "group": [{
+          "title": "Adverse Events",
+          "description": "Participants experienced gastrointestinal issues and increased liver enzymes, leading to early termination of the trial."
+        }]
+      }
+    }
+  }
+}
+```

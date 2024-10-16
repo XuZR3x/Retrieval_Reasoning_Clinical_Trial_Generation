@@ -1,0 +1,329 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04839217"
+    },
+    "id_info": {
+      "org_study_id": "GEN-2023-00123",
+      "nct_id": "NCT04839217"
+    },
+    "brief_title": "Efficacy and Safety of Belinostat in Advanced Solid Tumors",
+    "official_title": "Phase II Open-Label Study to Evaluate the Efficacy and Safety of Belinostat in Patients with Advanced Solid Tumors Previously Treated with Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Genesis Oncology",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Genesis Oncology",
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate efficacy and safety profile with significant adverse events.",
+    "start_date": "March 2021",
+    "completion_date": "September 2022",
+    "primary_completion_date": "September 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR) as Defined by RECIST v1.1",
+      "time_frame": "12 weeks",
+      "description": "The primary outcome measure will reflect the percentage of patients with a confirmed complete response (CR) or partial response (PR) according to the RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 3 years",
+        "description": "Overall survival will be assessed from the date of enrollment until the date of death or last follow-up."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "During treatment and 30 days post-treatment",
+        "description": "Adverse events will be graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      },
+      {
+        "measure": "Duration of Response (DOR)",
+        "time_frame": "From time of first documented response to disease progression or death.",
+        "description": "Duration of response will be calculated for patients who achieve CR or PR."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "25",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": {
+      "arm_group_label": "Belinostat Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive belinostat intravenously at a dose of 1,000 mg/m² on days 1-5 of a 21-day cycle for a maximum of 6 cycles."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "belinostat",
+      "description": "Belinostat administered intravenously."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Histologically confirmed advanced solid tumors that are refractory to or have progressed after standard chemotherapy.\r\n2. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n3. Adequate hematologic and organ function.\r\n4. Life expectancy of at least 12 weeks.\r\n\r\nExclusion Criteria:\r\n1. History of severe allergic reactions to histone deacetylase inhibitors.\r\n2. Concurrent participation in another clinical trial.\r\n3. Significant active infections.\r\n4. Renal impairment defined as creatinine clearance < 30 mL/min."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Samuel Thornton",
+      "role": "Principal Investigator",
+      "affiliation": "Genesis Oncology"
+    },
+    "location": {
+      "facility": {
+        "name": "Genesis Cancer Center",
+        "address": {
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2023",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_posted": "February 17, 2021",
+    "last_update_posted": "November 28, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma, Non-Small-Cell Lung",
+        "Breast Neoplasms",
+        "Gastric Neoplasms",
+        "Colonic Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Belinostat"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 25 patients were planned for enrollment; however, only 15 patients were enrolled due to recruitment challenges.",
+        "group_list": {
+          "group": {
+            "title": "Belinostat Treatment Group",
+            "description": "Patients received belinostat IV at 1,000 mg/m² on days 1-5 of each 21-day cycle."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {"participants": null}
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Belinostat Treatment Group",
+              "description": "Patients received belinostat IV at 1,000 mg/m² on days 1-5 of each 21-day cycle."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {"count": 15}
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Range: 30-78"
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {"title": "Female", "measurement_list": {"measurement": 6}},
+                        {"title": "Male", "measurement_list": {"measurement": 9}}
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Objective Response Rate (ORR)",
+              "description": "The percentage of patients achieving a confirmed CR or PR.",
+              "time_frame": "12 weeks",
+              "group_list": {
+                "group": {
+                  "title": "Belinostat Treatment Group",
+                  "description": "Patients received belinostat IV at 1,000 mg/m² on days 1-5."
+                }
+              },
+              "measure": {
+                "title": "Objective Response Rate",
+                "units": "Percentage",
+                "param": "Number of Participants",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {"count": 0}
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Adverse Events",
+              "description": "Number and percentage of patients experiencing treatment-emergent adverse events (TEAEs).",
+              "time_frame": "During treatment and 30 days post-treatment",
+              "group_list": {
+                "group": {
+                  "title": "Belinostat Treatment Group",
+                  "description": "Patients received belinostat IV."
+                }
+              },
+              "measure": {
+                "title": "Treatment-Emergent Adverse Events",
+                "units": "Count of Participants",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {"count": 12}
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Adverse events collected over the study duration.",
+          "desc": "The study had a high rate of adverse events, including hematologic toxicities (e.g., thrombocytopenia and anemia), which led to significant treatment modifications and early withdrawal.",
+          "group_list": {
+            "group": {
+              "title": "Belinostat Treatment Group",
+              "description": "Patients received belinostat IV."
+            },
+            "serious_events": {
+              "default_vocab": "MedDRA 22",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total Serious Adverse Events",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total, serious adverse events",
+                        "counts": 4
+                      }
+                    }
+                  },
+                  {
+                    "title": "Blood and lymphatic system disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Anemia",
+                        "counts": 3
+                      }
+                    }
+                  },
+                  {
+                    "title": "Infections and infestations",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Pneumonia",
+                        "counts": 2
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "other_events": {
+              "frequency_threshold": "0",
+              "default_vocab": "MedDRA 22",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total Other Adverse Events",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total, other adverse events",
+                        "counts": 8
+                      }
+                    }
+                  },
+                  {
+                    "title": "Gastrointestinal disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Nausea",
+                        "counts": 4
+                      }
+                    }
+                  },
+                  {
+                    "title": "General disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Fatigue",
+                        "counts": 5
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The sponsor may review results communications prior to public release."
+        },
+        "point_of_contact": {
+          "name_or_title": "Dr. Emily Grant",
+          "organization": "Genesis Oncology",
+          "email": "emily.grant@genesisoncology.org"
+        }
+      }
+    }
+  }
+}
+```

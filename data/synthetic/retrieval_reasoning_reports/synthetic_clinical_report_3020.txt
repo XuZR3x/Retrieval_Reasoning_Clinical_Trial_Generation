@@ -1,0 +1,161 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02123456"
+    },
+    "id_info": {
+      "org_study_id": "HCRN-Bendamustine-2020",
+      "nct_id": "NCT02123456"
+    },
+    "brief_title": "Bendamustine Combined with Bortezomib and Dexamethasone for Relapsed Multiple Myeloma",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Bendamustine in Combination with Bortezomib and Dexamethasone in Patients with Relapsed Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Hoosier Cancer Research Network",
+        "agency_class": "Other"
+      },
+      "collaborator": [{
+        "agency": "Celgene Corporation",
+        "agency_class": "Industry"
+      }]
+    },
+    "source": "Hoosier Cancer Research Network",
+    "oversight_info": {
+      "has_dmc": "No",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This open-label Phase II study aims to determine the efficacy and safety of the combination of bendamustine, bortezomib, and dexamethasone in patients with relapsed multiple myeloma. The study specifically focuses on evaluating the overall response rate and the adverse event profile associated with this regimen."
+    },
+    "detailed_description": {
+      "textblock": "Multiple myeloma remains a critical hematological malignancy, characterized by the proliferation of malignant plasma cells. While current treatment options like bortezomib have shown efficacy, there exists a significant demand for innovative combinatorial strategies to enhance therapeutic responses in relapsed cases. Bendamustine, an alkylating agent known for its unique molecular mechanism, has exhibited potential when incorporated into combination regimens. This study was designed to explore whether the addition of bendamustine to bortezomib and dexamethasone could improve treatment outcomes.\n\nDespite the initial rationale, the trial witnessed several pivotal challenges indicative of broader systemic issues. Insufficient patient accrual was noted as a primary factor, with enrollment not meeting the anticipated targets due to underwhelming participant interest. Furthermore, the combination therapy was associated with an alarming rate of severe adverse events. Myelosuppression was prevalent, leading to notable incidences of febrile neutropenia, which raised safety concerns for continuing the trial. Although granulocyte colony-stimulating factors were utilized to buffer the effects of myelosuppression, the toxicity associated with the drug combination rendered the therapeutic approach less favorable.\n\nAdditionally, the study faced significant challenges in determining the maximum tolerated dose (MTD) for the bendamustine regimen, which ultimately thwarted the trial’s efficacy assessments. The dose-response relationship remained elusive, impairing subsequent phases of the study aimed at defining clinical efficacy metrics.\n\nThe evolving landscape of treatment options for multiple myeloma, with new agents emerging as the new standard of care during the trial's progression, further decreased the relevancy of the current approach. Consequently, the combination of bendamustine, bortezomib, and dexamethasone failed to capture the attention of potential participants eager to explore newer therapeutic alternatives."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient accrual and unacceptable toxicity profile",
+    "start_date": "January 12, 2015",
+    "completion_date": "September 5, 2020",
+    "primary_completion_date": "May 15, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 54 months",
+      "description": "The primary endpoint is the overall response rate, defined as the proportion of patients achieving a complete response or partial response based on the International Myeloma Working Group defined criteria."
+    }],
+    "secondary_outcome": [{
+      "measure": "Time to Progression (TTP)",
+      "time_frame": "Up to 54 months",
+      "description": "Time from first treatment to disease progression, defined by an increase in serum or urine M-protein or development of new lesions."
+    },
+    {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From treatment initiation until disease progression or death from any cause, up to 54 months",
+      "description": "Durability of response until progression or any cause of death."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From first treatment until death due to any cause, up to 54 months",
+      "description": "Time from study drug administration to death from any cause."
+    },
+    {
+      "measure": "Incidence of Adverse Events",
+      "time_frame": "From treatment initiation to 30 days post last dose",
+      "description": "Assessment of treatment-related adverse events and their severity as defined by CTCAE."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "23",
+    "condition": "Multiple Myeloma",
+    "arm_group": {
+      "arm_group_label": "Experimental (Bendamustine, Bortezomib, Dexamethasone)",
+      "arm_group_type": "Experimental",
+      "description": "Participants received bendamustine IV on days 1 and 4, bortezomib IV on days 1, 4, 8, and 11, and dexamethasone orally on days 1-4 and 8-11 of the 28-day treatment cycle for up to 8 cycles."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Bendamustine",
+      "description": "Bendamustine administered at 90 mg/m² IV on Days 1 and 4 of each treatment cycle"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Bortezomib",
+      "description": "Bortezomib administered at 1.3 mg/m² IV bolus on Days 1, 4, 8, and 11 of each treatment cycle"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Dexamethasone",
+      "description": "Dexamethasone administered orally at 20 mg for Days 1 to 4 and Days 8 to 11 during each treatment cycle"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of multiple myeloma.\n2. Patients must have measurable disease based on serum or urine M-protein level.\n3. Must be relapsed or refractory after at least one line of therapy that included either lenalidomide or thalidomide.\n4. Age ≥18 years with ECOG performance status of 0-2.\n5. Adequate organ function as defined by specified laboratory parameters.\n6. Signed informed consent obtained prior to participation.\n\nExclusion Criteria:\n\n1. Known CNS involvement by myeloma.\n2. Significant active comorbidities that could interfere with treatment.\n3. History of hypersensitivity to any of the study drugs.\n4. Prior treatment with bendamustine or severe peripheral neuropathy.\n5. Major surgery within 30 days prior to registration.\n6. Active infection requiring antibiotics.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Hoosier Cancer Research Network"
+    },
+    "location": [{
+      "facility": {
+        "name": "Hoosier Cancer Research Network Headquarters",
+        "address": {
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "December 15, 2014",
+    "study_first_submitted_qc": "December 16, 2014",
+    "study_first_posted": "December 20, 2014",
+    "results_first_submitted": "October 12, 2020",
+    "results_first_submitted_qc": "October 13, 2020",
+    "results_first_posted": "October 15, 2020",
+    "last_update_submitted": "September 10, 2023",
+    "last_update_posted": "September 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Hoosier Cancer Research Network"
+    },
+    "keyword": [
+      "Bendamustine",
+      "Bortezomib",
+      "Dexamethasone",
+      "Multiple Myeloma"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Multiple Myeloma",
+        "Neoplasms, Plasma Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Bendamustine Hydrochloride",
+        "Bortezomib",
+        "Dexamethasone"
+      ]
+    }
+  }
+}
+``` 

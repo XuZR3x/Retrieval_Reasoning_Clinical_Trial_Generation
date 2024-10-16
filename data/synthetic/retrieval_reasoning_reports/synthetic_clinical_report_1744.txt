@@ -1,0 +1,155 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02123456"
+    },
+    "id_info": {
+      "org_study_id": "INCB 39110-300",
+      "nct_id": "NCT02123456"
+    },
+    "brief_title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Study of Itacitinib for Patients With Atopic Dermatitis",
+    "official_title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Itacitinib in Patients With Moderate to Severe Atopic Dermatitis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Incyte Corporation",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Incyte Corporation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to assess the efficacy and safety of itacitinib in patients diagnosed with moderate to severe atopic dermatitis. The study encompasses a 12-week treatment period with subsequent 12-week follow-up to monitor for long-term safety and efficacy outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2020",
+    "completion_date": "October 2022",
+    "primary_completion_date": "August 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+      "measure": "Percentage of participants achieving at least a 75% reduction in Eczema Area and Severity Index (EASI-75) from baseline to week 12.",
+      "time_frame": "12 weeks"
+    }],
+    "secondary_outcome": [{
+      "measure": "Change from baseline in the Patient-Oriented Eczema Measure (POEM) at weeks 12 and 24.",
+      "time_frame": "At weeks 12 and 24"
+    }, {
+      "measure": "Safety and tolerability as assessed by incidence of adverse events over the study duration.",
+      "time_frame": "Throughout the study (24 weeks)"
+    }],
+    "number_of_arms": "4",
+    "enrollment": "120",
+    "condition": "Atopic Dermatitis",
+    "arm_group": [{
+      "arm_group_label": "Itacitinib 100 mg once daily",
+      "arm_group_type": "Experimental",
+      "description": "Participants received itacitinib 100 mg once daily."
+    }, {
+      "arm_group_label": "Itacitinib 200 mg once daily",
+      "arm_group_type": "Experimental",
+      "description": "Participants received itacitinib 200 mg once daily."
+    }, {
+      "arm_group_label": "Placebo",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants received a matching placebo."
+    }, {
+      "arm_group_label": "Active Comparator - Dupilumab",
+      "arm_group_type": "Active Comparator",
+      "description": "Participants received dupilumab as a standard treatment."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Itacitinib",
+      "description": "Oral administration of itacitinib",
+      "arm_group_label": ["Itacitinib 100 mg once daily", "Itacitinib 200 mg once daily"],
+      "other_name": "INCB039110"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "description": "Matching oral placebo administered to control groups",
+      "arm_group_label": ["Placebo"]
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Dupilumab",
+      "description": "An active comparator treatment for atopic dermatitis.",
+      "arm_group_label": ["Active Comparator - Dupilumab"]
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adults aged 18 to 75 with a physician diagnosis of moderate to severe atopic dermatitis.\r\n  - Documented history of inadequate response to topical therapies such as corticosteroids.\r\n  - EASI score of at least 16 at baseline.\r\n\r\nExclusion Criteria:\r\n\r\n  - Pregnant or breastfeeding women.\r\n  - Prior treatment with biologic agents or JAK inhibitors within 16 weeks before screening.\r\n  - Serious concurrent illness or uncontrolled medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah Johnson, MD",
+      "role": "Study Director",
+      "affiliation": "Incyte Corporation"
+    },
+    "location": [{
+      "facility": {
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "address": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "address": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["United States", "Canada"]
+    },
+    "verification_date": "September 2022",
+    "study_first_submitted": "March 15, 2020",
+    "study_first_submitted_qc": "May 15, 2020",
+    "study_first_posted": "May 20, 2020",
+    "disposition_first_submitted": "October 15, 2022",
+    "disposition_first_submitted_qc": "October 15, 2022",
+    "disposition_first_posted": "October 20, 2022",
+    "last_update_submitted": "September 28, 2022",
+    "last_update_submitted_qc": "September 28, 2022",
+    "last_update_posted": "October 1, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Atopic Dermatitis", "Itacitinib", "Moderate to Severe"]
+  }
+}
+```

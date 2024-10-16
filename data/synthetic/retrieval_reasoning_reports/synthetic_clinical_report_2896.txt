@@ -1,0 +1,220 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04598579"
+    },
+    "id_info": {
+      "org_study_id": "ACADEMIC-2021-039",
+      "nct_id": "NCT04598579"
+    },
+    "brief_title": "Efficacy and Safety of Apixaban in Patients With Active Cancer and Venous Thromboembolism",
+    "official_title": "A Phase III, Randomized, Open-Label Study of Apixaban Versus Standard Care With Low Molecular Weight Heparin in Patients With Active Cancer and Venous Thromboembolism: The CAnCer VTE Study (CAVET)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Southern California",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "American Society of Clinical Oncology",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of Southern California",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This randomized phase III trial investigates the efficacy and safety of apixaban in reducing episodes of venous thromboembolism (VTE) compared to standard care using low molecular weight heparin (LMWH) in patients with active cancer. The study aims to establish a new standard in the management of VTE in this high-risk population."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To evaluate the composite rate of major bleeding and clinically relevant non-major bleeding in patients receiving apixaban compared to those receiving LMWH.\n\nSECONDARY OBJECTIVES:\n\nI. To determine the rate of VTE recurrence in both treatment groups.\n\nII. To analyze the quality of life metrics associated with each treatment regimen.\n\nOUTLINE: Participants are randomized to one of two arms.\n\n- ARM I: Patients receive apixaban 10 mg orally (PO) twice daily (BID) for the first week, followed by a maintenance dose of 5 mg BID for the duration of the study (up to 6 months).\n\n- ARM II: Patients receive LMWH, administered subcutaneously (SC) at a dose of 200 IU/kg daily for the first month, transitioning to a maintenance dose of 150 IU/kg daily SC for an additional 5 months.\n\nFollow-up assessments will occur every two weeks during the treatment period to monitor for thromboembolic events and assess safety profiles."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2021",
+    "completion_date": "March 20, 2023",
+    "primary_completion_date": "January 30, 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Major and Clinically Relevant Non-Major Bleeding Events",
+      "time_frame": "6 months from treatment initiation",
+      "description": "Measured the rates of major bleeding and clinically relevant non-major bleeding events in both arms, employing the International Society on Thrombosis and Hemostasis (ISTH) criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "VTE Recurrence Rate",
+        "time_frame": "Up to 6 months",
+        "description": "The event rate for recurrence of VTE (DVT and PE) defined as the occurrence of a new proximal DVT or non-fatal PE."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "At baseline, 3 months, and 6 months",
+        "description": "Evaluated using the EORTC QLQ-C30 questionnaire to assess the impact of treatment on patients’ quality of life."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": [
+      "Active Cancer",
+      "Venous Thromboembolism"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I (apixaban)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive 10 mg of apixaban PO BID on days 1-7 followed by 5 mg PO BID on days 8-180."
+      },
+      {
+        "arm_group_label": "Arm II (LMWH)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive LMWH 200 IU/kg/day SC on days 1-30 followed by 150 IU/kg/day SC on days 31-180."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "description": "Administration PO, with an initial high dosage followed by a lower maintenance dosage.",
+        "arm_group_label": "Arm I (apixaban)",
+        "other_name": "Eliquis"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Low Molecular Weight Heparin",
+        "description": "Administered SC as per treatment arm II protocol.",
+        "arm_group_label": "Arm II (LMWH)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Confirmed diagnosis of active malignancy within the past six months.\n- Documented symptomatic VTE within 14 days of screening; either DVT or PE.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n\nExclusion Criteria:\n- Pregnancy or breastfeeding.\n- Known hypersensitivity to apixaban or LMWH.\n- Active bleeding or clinically significant bleeding disorder.\n- Major surgical procedure within 30 days prior to randomization."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Jane Doe, MD",
+        "role": "Principal Investigator",
+        "affiliation": "University of Southern California"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Keck School of Medicine at USC",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90089",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "January 12, 2021",
+    "study_first_posted": "January 17, 2021",
+    "results_first_submitted": "April 1, 2023",
+    "results_first_posted": "April 5, 2023",
+    "last_update_posted": "August 25, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Venous Thromboembolism", "Malignant Neoplasm"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Apixaban", "Low Molecular Weight Heparin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "500 enrolled; 490 randomized. Non-randomization reasons include consent withdrawal (5), non-compliance (3), and failure to meet inclusion criteria (2). Arm assignment was balanced with preliminary outcomes favoring apixaban in terms of both efficacy and safety.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (Apixaban)",
+              "description": "N=245 patients allocated to apixaban with a favorable outcome in major bleeding events."
+            },
+            {
+              "title": "Arm II (LMWH)",
+              "description": "N=245 patients allocated to LMWH, with observed higher incidences of major bleeding."
+            }
+          ]
+        },
+        "follow_up_period": {
+          "title": "Follow-up Period",
+          "description": "Patients were monitored for over a six-month duration post-treatment."
+        }
+      },
+      "reported_events": {
+        "time_frame": "Up to 6 months after treatment initiation.",
+        "desc": "The incidence of bleeding events, alongside VTE recurrences, were recorded through regular follow-ups, with a focus on capturing all adverse events and treatment efficacy outcomes."
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 23.0",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total Serious Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total adverse events",
+                  "counts": [20, 15]
+                }
+              }
+            },
+            {
+              "title": "Cardiovascular Events",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Major Bleeding", "counts": [10, 5]},
+                  {"sub_title": "Minor Bleeding", "counts": [5, 3]}
+                ]
+              }
+            },
+            {
+              "title": "VTE Recurrence",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Recurrent DVT", "counts": [3, 8]},
+                  {"sub_title": "Recurrent PE", "counts": [2, 6]}
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

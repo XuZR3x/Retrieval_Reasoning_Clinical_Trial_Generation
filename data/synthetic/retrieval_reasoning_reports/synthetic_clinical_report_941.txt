@@ -1,0 +1,123 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03778633"
+    },
+    "id_info": {
+      "org_study_id": "TBD-CT-019",
+      "nct_id": "NCT03778633"
+    },
+    "brief_title": "Evaluation of Telbivudine in Patients with Chronic Hepatitis B and Coexisting Conditions",
+    "official_title": "A Multicenter, Open-Label, Randomized Study of Telbivudine in Patients with Chronic Hepatitis B Virus Infection and Chronic Comorbidities",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Initiatives",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Initiatives",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of telbivudine in patients diagnosed with chronic hepatitis B and exhibiting chronic comorbid conditions. The primary objective is to assess the impact of telbivudine on hepatic function and HBV viral replication in this complex patient population."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to insufficient participant enrollment and challenges inherent in managing a cohort with multiple comorbidities, which complicated data interpretation.",
+    "start_date": "January 2019",
+    "primary_completion_date": "December 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in HBV DNA Levels",
+      "time_frame": "24 Weeks",
+      "description": "Assessment of HBV DNA levels from baseline to study completion, measured using quantitative PCR."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Hepatic Function Tests",
+        "time_frame": "Baseline and every 12 weeks thereafter",
+        "description": "Analysis of liver function through ALT and AST levels to monitor any potential hepatotoxicity associated with telbivudine therapy."
+      },
+      {
+        "measure": "Quality of Life (QOL) Assessment",
+        "time_frame": "At Baseline, 12, and 24 weeks",
+        "description": "Evaluated using the Short Form Health Survey 36 (SF-36) to assess the impact of hepatitis B on patients' overall health."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Chronic Hepatitis B, Comorbid Conditions",
+    "arm_group": [
+      {
+        "arm_group_label": "Telbivudine Treatment",
+        "arm_group_type": "Experimental",
+        "description": "Patients received telbivudine at a dose of 600 mg orally once daily for 24 weeks."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received standard of care, which did not include the investigational drug."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "telbivudine",
+        "description": "600 mg/day oral tablet for 24 weeks",
+        "arm_group_label": "Telbivudine Treatment"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Adults aged 18-80 with confirmed HBsAg-positive chronic hepatitis B.\r\n  -  Presence of at least one comorbid condition (e.g., diabetes, chronic kidney disease).\r\n  -  Documented evidence of elevated ALT levels or HBV DNA.",
+        "exclusion_criteria": {
+          "textblock": "Exclusion Criteria:\r\n\r\n  -  Severe hepatic dysfunction indicative of cirrhosis.\r\n  -  History of any malignancy within the last 5 years.\r\n  -  Current use of other antiviral therapy for HBV."
+        }
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Global Health Research Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Chronic Disease Specialists Clinic",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "verification_date": "March 2022",
+    "study_first_submitted": "April 30, 2018",
+    "study_first_posted": "May 1, 2018",
+    "last_update_posted": "April 1, 2022",
+    "responsible_party": {
+      "name_title": "Study Director",
+      "organization": "Global Health Initiatives"
+    },
+    "keyword": ["chronic hepatitis B", "telbivudine", "comorbidities"],
+    "limitations_and_caveats": "The trial faced significant hurdles related to the diverse health status of participants, affecting recruitment and leading to premature termination without adequate data to support the efficacy of telbivudine in the targeted demographic."
+  }
+}
+```

@@ -1,0 +1,220 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 6, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02906234"
+    },
+    "id_info": {
+      "org_study_id": "CA-160701",
+      "nct_id": "NCT02906234"
+    },
+    "brief_title": "A Multicenter Study of Nilotinib in Patients With Chronic Myeloid Leukemia in Ph+ Chronic Phase Refractory to Imatinib Therapy",
+    "acronym": "RECHARGE",
+    "official_title": "A Multicenter, Open-label Study to Evaluate the Efficacy and Safety of Nilotinib Administered to Patients With Philadelphia Chromosome Positive Chronic Myeloid Leukemia in Chronic Phase Refractory to Imatinib Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johnson & Johnson",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Johnson & Johnson",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The primary goal of this study was to assess the molecular response to nilotinib in adults with Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML) who had failed to achieve an adequate response to imatinib therapy. This study aimed to confirm the efficacy of nilotinib and evaluate its safety profile in a real-world setting."
+    },
+    "detailed_description": {
+      "textblock": "Despite expectations for patient recruitment, the trial faced significant enrollment challenges, ultimately concluding without sufficient participant numbers, as only 12 out of the 100 required patients were included. Restricted eligibility criteria mandated that patients had to have documented resistance to imatinib, as well as having undergone extensive prior therapies, which severely limited potential recruits. The variability in prior treatment responses among participants also raised concerns about the generalizability of results. Furthermore, safety issues emerged related to cardiovascular risks, including QTc prolongation, leading to decreased interest from both clinicians and patients regarding trial participation. The absence of a control group in the study design further complicated the interpretation of nilotinib’s efficacy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment due to stringent eligibility criteria, safety concerns regarding cardiovascular risks, and lack of comparative control groups.",
+    "start_date": "January 15, 2017",
+    "completion_date": "June 30, 2019",
+    "primary_completion_date": "April 1, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Molecular Response Rate: Percentage of Patients Achieving Major Molecular Response (MMR)",
+      "time_frame": "Up to 12 months",
+      "description": "MMR defined as a reduction of BCR-ABL transcripts to less than 0.1% on the International Scale (IS), measured by quantitative real-time polymerase chain reaction (RQ-PCR)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 36 months",
+        "description": "Time from randomization until death from any cause."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 36 months",
+        "description": "Time from enrollment to the first event of disease progression."
+      },
+      {
+        "measure": "Adverse Events (AEs)",
+        "time_frame": "Throughout the study",
+        "description": "Collection of all adverse events experienced by participants during the study."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": "Chronic Myeloid Leukemia – Chronic Phase",
+    "arm_group": {
+      "arm_group_label": "Nilotinib",
+      "arm_group_type": "Experimental",
+      "description": "Patients received nilotinib 300 mg orally twice daily for an anticipated duration of 12 months, adhering to strict dietary guidelines."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Nilotinib",
+      "description": "Nilotinib is administered at a dose of 300 mg, taken orally twice daily, with strict adherence to dietary restrictions."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n1. Adult patients (≥ 18 years) with a confirmed diagnosis of Ph+ CML in chronic phase, with failure to achieve major molecular response on imatinib therapy. \n2. Must have experienced disease progression or intolerance to prior therapies. \n3. Adequate organ function and performance status (ECOG 0-2). \n\nExclusion Criteria: \n1. Previous treatment with nilotinib or any TKI except imatinib. \n2. Active disease or secondary malignancy. \n3. History of significant cardiac disease, including QT prolongation. \n4. Current participation in other clinical trials."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Rachel Stein, MD",
+      "role": "Study Director",
+      "affiliation": "Johnson & Johnson"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "New York City Comprehensive Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10029",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Lenox Hill Hospital Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10075",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "November 2, 2016",
+    "study_first_posted": "November 4, 2016",
+    "last_update_posted": "April 5, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Chronic Myeloid Leukemia",
+      "Ph+ CML",
+      "Nilotinib",
+      "BCR-ABL"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia, Myloid",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Nilotinib"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "This study was conducted across 12 centers in the United States but faced challenges in participant recruitment.",
+        "pre_assignment_details": "A total of 12 participants consented to and were enrolled in the study before termination.",
+        "group_list": {
+          "group": {
+            "title": "Nilotinib",
+            "description": "Patients received nilotinib via oral administration for the intended treatment period."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Lack of Sufficient Enrollment",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Serious Adverse Events",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Withdrawal of Informed Consent",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "demographics": {
+            "mean_age": {
+              "population": "Participants",
+              "unit": "years",
+              "value": null
+            },
+            "sex": {
+              "female": null,
+              "male": null
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

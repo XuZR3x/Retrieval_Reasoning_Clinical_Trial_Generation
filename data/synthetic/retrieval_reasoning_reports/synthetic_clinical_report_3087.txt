@@ -1,0 +1,156 @@
+{"clinical_study": {
+  "required_header": {
+    "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+    "link_text": "Link to the current ClinicalTrials.gov record.",
+    "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+  },
+  "id_info": {
+    "org_study_id": "NCCTG-PGTA-456",
+    "secondary_id": ["NCI-2015-03900", "CDR0000456789"],
+    "nct_id": "NCT01234567"
+  },
+  "brief_title": "Pegfilgrastim in Combating Neutropenia in Patients Undergoing Adjuvant Chemotherapy for Stage II/III Colorectal Cancer",
+  "official_title": "A Phase III Study Evaluating the Role of Pegfilgrastim in Reducing Chemotherapy-Induced Neutropenia in Patients with Stage II/III Colorectal Cancer",
+  "sponsors": {
+    "lead_sponsor": {
+      "agency": "National Cancer Institute (NCI)",
+      "agency_class": "NIH"
+    },
+    "collaborator": {
+      "agency": "Colorectal Cancer Collaborative Group",
+      "agency_class": "Other"
+    }
+  },
+  "source": "National Cancer Institute (NCI)",
+  "oversight_info": {
+    "has_dmc": "Yes"
+  },
+  "brief_summary": {
+    "textblock": "RATIONALE: Adjuvant chemotherapy for colorectal cancer frequently leads to significant neutropenia, compromising the ability to maintain therapy schedules. Pegfilgrastim, a long-acting granulocyte colony-stimulating factor, has been shown to facilitate rapid recovery of neutrophil levels post-chemotherapy, which may improve treatment adherence and efficacy.\n\nPURPOSE: This phase III trial aims to evaluate the efficacy of pegfilgrastim in reducing the incidence and duration of chemotherapy-induced neutropenia in patients with stage II and III colorectal cancer receiving FOLFOX regimen."
+  },
+  "detailed_description": {
+    "textblock": "OBJECTIVES:\n\nPrimary\n- Assess the incidence of chemotherapy-induced neutropenia in patients receiving pegfilgrastim versus those receiving no intervention.\n\nSecondary\n- Evaluate the overall treatment tolerability and adherence throughout the chemotherapy cycles.\n- Determine the impact of pegfilgrastim on the immune parameters such as lymphocyte subsets and macrophage activation.\n\nOUTLINE: This is a multicenter, randomized controlled trial.\n\n- Patients receive FOLFOX chemotherapy on day 1 alongside pegfilgrastim subcutaneously on day 2.\n- Treatment continues every 14 days for up to 6 cycles in the absence of adverse effects.\n- After completion, patients are monitored for an overall follow-up period of 2 years.\n\nThe study will also assess the overall survival and disease-free survival of participants, correlating these outcomes with neutrophil recovery rates."
+  },
+  "overall_status": "Completed",
+  "start_date": "January 15, 2011",
+  "primary_completion_date": "April 30, 2013",
+  "phase": "Phase 3",
+  "study_type": "Interventional",
+  "has_expanded_access": "No",
+  "study_design_info": {
+    "allocation": "Randomized",
+    "intervention_model": "Parallel Assignment",
+    "primary_purpose": "Treatment",
+    "masking": "None (Open Label)"
+  },
+  "primary_outcome": {
+    "measure": "Incidence of chemotherapy-induced neutropenia as measured by absolute neutrophil count",
+    "time_frame": "Up to 6 months post-treatment"
+  },
+  "secondary_outcome": [
+    {
+      "measure": "Overall treatment tolerability and adherence to chemotherapy",
+      "time_frame": "Throughout the treatment period"
+    },
+    {
+      "measure": "Changes in lymphocyte subtypes and macrophage activity as assessed through immunophenotyping",
+      "time_frame": "At baseline and after each cycle"
+    }
+  ],
+  "number_of_arms": "2",
+  "enrollment": "300",
+  "condition": "Colorectal Cancer",
+  "arm_group": [
+    {
+      "arm_group_label": "FOLFOX + pegfilgrastim",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive the FOLFOX chemotherapy regimen along with pegfilgrastim to assess its effect on neutropenia and overall treatment tolerability."
+    },
+    {
+      "arm_group_label": "FOLFOX alone",
+      "arm_group_type": "Active Comparator",
+      "description": "Patients receive the FOLFOX chemotherapy regimen without any intervention for comparative analysis."
+    }
+  ],
+  "intervention": [
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "pegfilgrastim",
+      "arm_group_label": "FOLFOX + pegfilgrastim"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "FOLFOX",
+      "arm_group_label": ["FOLFOX + pegfilgrastim", "FOLFOX alone"]
+    }
+  ],
+  "eligibility": {
+    "criteria": {
+      "textblock": "DISEASE CHARACTERISTICS:\n- Histopathologically confirmed stage II or III colorectal cancer\n- No evidence of metastatic disease\n\nPATIENT CHARACTERISTICS:\n- Age 18 years and older\n- ECOG performance status 0-2\n- Adequate hematological function (ANC ≥ 1,500/mm³ at baseline)\n- No previous chemotherapy for colorectal cancer\n- Not pregnant or nursing\n\nPRIOR CONCURRENT THERAPY:\n- No prior treatment with granulocyte colony-stimulating factors within the last 30 days\n- No concurrent active malignancy except for skin cancer"
+    },
+    "gender": "All",
+    "minimum_age": "18 Years",
+    "maximum_age": "N/A",
+    "healthy_volunteers": "No"
+  },
+  "overall_official": {
+    "last_name": "Laura Thompson, MD",
+    "role": "Study Chair",
+    "affiliation": "National Cancer Institute"
+  },
+  "location": [
+    {
+      "facility": {
+        "name": "NCI Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "Mayo Clinic",
+        "address": {
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States"
+        }
+      }
+    }
+  ],
+  "location_countries": {
+    "country": "United States"
+  },
+  "verification_date": "July 2023",
+  "study_first_submitted": "October 20, 2010",
+  "study_first_submitted_qc": "October 20, 2010",
+  "study_first_posted": "November 1, 2010",
+  "last_update_submitted": "July 15, 2024",
+  "last_update_submitted_qc": "July 15, 2024",
+  "last_update_posted": "July 18, 2024",
+  "responsible_party": {
+    "responsible_party_type": "Sponsor"
+  },
+  "keyword": ["stage II colorectal cancer", "stage III colorectal cancer", "chemotherapy-induced neutropenia"],
+  "condition_browse": {
+    "mesh_term": "Colorectal Neoplasms"
+  },
+  "intervention_browse": {
+    "mesh_term": ["Carboplatin", "Oxaliplatin", "Fluorouracil", "Leucovorin"]
+  }
+}}

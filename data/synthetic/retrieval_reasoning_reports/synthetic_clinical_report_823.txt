@@ -1,0 +1,144 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03698425"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2018-04563",
+      "nct_id": "NCT03698425"
+    },
+    "brief_title": "Trial of Fulvestrant in Combination With Palbociclib in Advanced Hormone Receptor-Positive Breast Cancer",
+    "official_title": "A Phase II Randomized Trial Evaluating the Efficacy and Safety of Fulvestrant (Faslodex) Combined With Palbociclib in Women With Advanced Hormone Receptor-Positive Breast Cancer Who Have Progressed on Prior Endocrine Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study aimed to evaluate the efficacy of fulvestrant in combination with palbociclib versus fulvestrant alone in postmenopausal women with advanced hormone receptor-positive breast cancer that has progressed after at least one line of prior endocrine therapy."
+    },
+    "detailed_description": {
+      "textblock": "This trial is designed to investigate if the combination of fulvestrant and palbociclib can improve clinical outcomes compared to fulvestrant alone in patients with advanced hormone receptor-positive breast cancer. The hypothesis is that palbociclib would augment the antitumor activity of fulvestrant by inhibiting cyclin-dependent kinases, potentially leading to enhanced progression-free survival (PFS). The primary endpoint was to assess the clinical benefit rate (CBR) at 24 weeks. Secondary endpoints included overall survival (OS), duration of response, and the toxicity profile of the combination."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to slow patient enrollment and a lack of significant efficacy observed in preliminary data, which raised doubts about the therapeutic viability of the combination.",
+    "start_date": "March 2019",
+    "completion_date": "December 2022",
+    "primary_completion_date": "July 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical Benefit Rate (CBR) at 24 weeks",
+      "time_frame": "Up to 24 weeks",
+      "description": "Assessment of clinical benefit rate, defined as the proportion of participants exhibiting a complete response (CR), partial response (PR), or stable disease (SD) lasting 24 weeks or longer per RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization until death or censored at the last follow-up, assessed up to 4 years",
+        "description": "Evaluated the median overall survival time across treatment arms."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization until disease progression or death, assessed up to 4 years",
+        "description": "The duration of time from randomization until disease progression measured via imaging."
+      },
+      {
+        "measure": "Adverse Events as Assessed by NCI CTCAE v5.0",
+        "time_frame": "From first dose until 30 days after the last dose",
+        "description": "Recorded the incidence of serious adverse events (SAEs) and toxicity ratings during the treatment period."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": [
+      "Hormone Receptor-positive Breast Cancer",
+      "Stage IV Breast Cancer",
+      "Locally Advanced Breast Cancer"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Fulvestrant and Palbociclib",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive fulvestrant 500 mg IM on day 1 and then palbociclib 125 mg orally on days 1-21 of each 28-day cycle."
+      },
+      {
+        "arm_group_label": "Fulvestrant Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive fulvestrant 500 mg IM on day 1 only."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fulvestrant",
+        "description": "Fulvestrant 500 mg administered intramuscularly.",
+        "arm_group_label": ["Fulvestrant and Palbociclib", "Fulvestrant Alone"],
+        "other_name": ["Faslodex"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Palbociclib",
+        "description": "Palbociclib 125 mg administered orally on days 1-21 of a 28-day cycle.",
+        "arm_group_label": "Fulvestrant and Palbociclib"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Women aged 18 years or older, postmenopausal status confirmed.\r\n2. Histologically confirmed stage IV or locally advanced hormone receptor-positive breast cancer.\r\n3. Documented progression on at least one line of prior endocrine therapy.\r\n4. Measurable disease per RECIST v1.1.\r\n\r\nExclusion Criteria:\r\n\r\n1. Active brain or leptomeningeal metastases.\r\n2. History of hypersensitivity reactions to compounds similar to study drugs.\r\n3. Recent chemotherapy (less than 3 weeks prior to study treatment).\r\n4. Significant cardiovascular disease.\r\n5. Other uncontrolled significant concurrent medical conditions."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah Kim, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21231",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "February 18, 2019",
+    "study_first_submitted_qc": "February 21, 2019",
+    "study_first_posted": "February 25, 2019",
+    "last_update_submitted": "January 5, 2023",
+    "last_update_submitted_qc": "January 10, 2023",
+    "last_update_posted": "January 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fulvestrant", "Palbociclib"]
+    }
+  }
+}
+``` 

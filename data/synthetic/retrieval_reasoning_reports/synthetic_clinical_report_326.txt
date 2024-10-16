@@ -1,0 +1,325 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03182420"
+    },
+    "id_info": {
+      "org_study_id": "SEL-001",
+      "nct_id": "NCT03182420"
+    },
+    "brief_title": "Phase 2 Study of Selinexor in Advanced Metastatic Colorectal Cancer",
+    "official_title": "A Phase 2 Open-Label, Single-Arm Study of Selinexor in Patients With Advanced Metastatic Colorectal Cancer Previously Treated With Standard Therapies",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Oncology Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase 2 study aimed to evaluate the efficacy and safety of selinexor in patients diagnosed with advanced metastatic colorectal cancer who had experienced disease progression following standard therapies. The study sought to assess progression-free survival and overall response rates while closely monitoring adverse events."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of efficacy and unacceptable toxicity profile",
+    "start_date": "May 15, 2018",
+    "completion_date": "October 30, 2021",
+    "primary_completion_date": "January 10, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Radiographic Progression-Free Survival (rPFS)",
+      "time_frame": "From the start of treatment up to 12 months",
+      "description": "Defined as the duration from treatment initiation until the first occurrence of disease progression or death from any cause, based on RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Assessed at every 8-week interval until the end of treatment",
+        "description": "The percentage of participants achieving either a complete response (CR) or partial response (PR) as determined by RECIST criteria."
+      },
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "From the first documented response until disease progression or death",
+        "description": "Measured from the initial response until the date of disease progression, patient withdrawal, or death."
+      },
+      {
+        "measure": "Incidence of Treatment-Related Adverse Events",
+        "time_frame": "Up to 30 days post-treatment",
+        "description": "Assessment of adverse events graded by NCI CTCAE version 5.0, focusing on severe hematological toxicities such as thrombocytopenia and neutropenia."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": "Colorectal Cancer",
+    "arm_group": {
+      "arm_group_label": "Selinexor Treatment",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive selinexor orally at a dose of 60 mg twice weekly for 3 weeks per cycle, followed by a one-week treatment break. Cycles repeat every 28 days in the absence of progression or unacceptable toxicity."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Selinexor",
+      "description": "Selinexor is administered orally at 60 mg twice per week.",
+      "arm_group_label": "Selinexor Treatment",
+      "other_name": ["KPT-330", "Selective Inhibitor of Nuclear Export (SINE)"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Histologically confirmed colorectal cancer with evidence of metastasis.\r\n\r\n  -  Patients must have progressed after at least two lines of standard chemotherapy.\r\n\r\n  -  ECOG performance status of 0 or 1.\r\n\r\n  -  Adequate organ function as defined by laboratory tests prior to screening.\r\n\r\n  -  Written informed consent in accordance with institutional and regulatory standards.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Active central nervous system metastases requiring treatment.\r\n\r\n  -  Previous treatment with selinexor.\r\n\r\n  -  Any severe concurrent medical condition.\r\n\r\n  -  Known hypersensitivity to any component of selinexor.\r\n\r\n  -  Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Oncology Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Oncology Research Institute",
+        "address": {
+          "city": "Metropolis",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2021",
+    "study_first_submitted": "March 1, 2018",
+    "study_first_submitted_qc": "March 2, 2018",
+    "study_first_posted": "March 5, 2018",
+    "results_first_submitted": "January 15, 2021",
+    "results_first_submitted_qc": "January 20, 2021",
+    "results_first_posted": "February 25, 2021",
+    "last_update_submitted": "May 5, 2022",
+    "last_update_posted": "May 6, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Metastatic Colorectal Cancer", "Selinexor", "KPT-330", "Radiographic Progression-Free Survival", "Overall Response Rate"],
+    "patient_data": {
+      "sharing_ipd": "Yes"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were enrolled from multiple sites between May 2018 and December 2019.",
+        "group_list": {
+          "group": {
+            "title": "Selinexor Treatment",
+            "description": "60 mg of selinexor orally twice a week for 3 weeks followed by a one-week break, with repeat cycles every 28 days."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All enrolled participants who received at least one dose of the study drug.",
+          "group_list": {
+            "group": {
+              "title": "Selinexor Treatment",
+              "description": "Participants treated with selinexor."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Radiographic Progression-Free Survival (rPFS)",
+              "description": "Defined as the time from study start until one of the following events occurs: >=2 new bone lesions on bone scan, RECIST-defined progression, clinical deterioration, or death.",
+              "time_frame": "From study start up to 12 months",
+              "population": "All participants treated with selinexor",
+              "group_list": {
+                "group": {
+                  "title": "Selinexor Treatment",
+                  "description": "Participants treated with selinexor."
+                }
+              },
+              "measure": {
+                "title": "Radiographic Progression-Free Survival (rPFS)",
+                "description": "The primary outcome measure."
+              }
+            },
+            {
+              "type": "Primary",
+              "title": "Overall Response Rate (ORR)",
+              "description": "The percentage of patients achieving CR or PR.",
+              "time_frame": "Assessed every 8 weeks until the end of treatment",
+              "population": "Participants with complete response or partial response to treatment",
+              "group_list": {
+                "group": {
+                  "title": "Selinexor Treatment",
+                  "description": "Percentage of participants achieving a response."
+                }
+              },
+              "measure": {
+                "title": "Overall Response Rate (ORR)",
+                "description": "Percentage of participants achieving either a complete response or partial response."
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Incidence of Treatment-Related Adverse Events",
+              "description": "Assessment of adverse events according to NCI CTCAE version 5.0.",
+              "time_frame": "Up to 30 days post-treatment completion",
+              "population": "All participants",
+              "group_list": {
+                "group": {
+                  "title": "Selinexor Treatment",
+                  "description": "Analysis of the adverse events associated with selinexor."
+                }
+              },
+              "measure": {
+                "title": "Incidence of Treatment-Related Adverse Events",
+                "description": "Incidence of adverse events graded by NCI CTCAE criteria."
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Throughout the treatment duration",
+          "group_list": {
+            "group": {
+              "title": "Selinexor Treatment",
+              "description": "Monitoring of adverse events."
+            },
+            "serious_events": {
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total, serious adverse events",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "Blood and Lymphatic System Disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Thrombocytopenia",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "Metabolism and Nutrition Disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Hypophosphatemia",
+                        "counts": null
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "other_events": {
+              "frequency_threshold": "5",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total, other adverse events",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "General Disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Fatigue",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "Nervous System Disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Dizziness",
+                        "counts": null
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+        },
+        "limitations_and_caveats": "The trial was terminated due to a poor efficacy signal and concerning safety profile, particularly noting high rates of adverse events that hindered the risk-to-benefit ratio, leading to participant treatment discontinuation.",
+        "point_of_contact": {
+          "name_or_title": "Dr. Jane Doe",
+          "organization": "XYZ Oncology Research Institute",
+          "phone": "123-456-7890",
+          "email": "contact@xyzoncology.org"
+        }
+      }
+    }
+  }
+}
+```

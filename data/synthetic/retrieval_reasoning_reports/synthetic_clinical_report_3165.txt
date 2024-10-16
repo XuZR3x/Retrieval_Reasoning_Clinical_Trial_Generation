@@ -1,0 +1,415 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02876339"
+    },
+    "id_info": {
+      "org_study_id": "VX16-770-108",
+      "nct_id": "NCT02876339"
+    },
+    "brief_title": "A Phase 3 Study Evaluating Ivacaftor in Children Aged 3 to 5 Years With Cystic Fibrosis and Specific CFTR Gating Mutations",
+    "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Crossover Study to Evaluate the Efficacy and Safety of Ivacaftor in Children Aged 3 to 5 Years With Cystic Fibrosis Who Have Specific CFTR Gating Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Vertex Pharmaceuticals Incorporated",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Vertex Pharmaceuticals Incorporated",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of ivacaftor in young children with cystic fibrosis (CF) possessing specific CFTR gating mutations. Despite prior successes in adult populations, anticipated outcomes were not met."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Low patient enrollment and insufficient evidence of treatment efficacy.",
+    "start_date": "February 2017",
+    "completion_date": "April 2019",
+    "primary_completion_date": "April 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Crossover Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change from Baseline in Lung Clearance Index (LCI) at Week 8",
+      "time_frame": "Baseline, Week 8",
+      "description": "LCI measures the effectiveness of lung function in terms of how well the lungs clear inhaled gases."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in Immunoreactive Trypsinogen Levels at Week 8",
+        "time_frame": "Baseline, Week 8",
+        "description": "Assessment of serum immunoreactive trypsinogen levels to evaluate pancreatic function."
+      },
+      {
+        "measure": "Change From Baseline in Body Mass Index (BMI) at Week 8",
+        "time_frame": "Baseline, Week 8",
+        "description": "BMI was calculated as weight in kilograms divided by height in square meters."
+      },
+      {
+        "measure": "Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "time_frame": "Baseline up to Month 15",
+        "description": "Tracking of participant safety and adverse event profile."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "29",
+    "condition": "Cystic Fibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Ivacaftor Treatment",
+        "arm_group_type": "Experimental",
+        "description": "Ivacaftor administered as 50 mg oral solution every 12 hours for 8 weeks, followed by a washout period."
+      },
+      {
+        "arm_group_label": "Placebo Treatment",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered every 12 hours for 8 weeks, followed by a washout period."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ivacaftor",
+        "arm_group_label": ["Ivacaftor Treatment"],
+        "other_name": "Kalydeco"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": ["Placebo Treatment"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n - Confirmed diagnosis of cystic fibrosis with at least one CFTR gating mutation\r\n - Aged 3 to 5 years at screening\r\n - FEV1 ≥ 40% predicted\r\n - No clinical significant respiratory infections within 4 weeks prior to screening.\r\n\r\nExclusion Criteria:\r\n - Recent changes in therapies for pulmonary disease\r\n - Significant laboratory abnormalities at screening that may interfere with study assessments."
+      },
+      "gender": "All",
+      "minimum_age": "3 Years",
+      "maximum_age": "5 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "address": {
+            "city": "Melbourne",
+            "state": "Victoria",
+            "country": "Australia"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "London",
+            "country": "United Kingdom"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Australia", "Canada", "United Kingdom"]
+    },
+    "verification_date": "April 2020",
+    "study_first_submitted": "January 17, 2017",
+    "study_first_posted": "January 19, 2017",
+    "results_first_submitted": "May 30, 2020",
+    "results_first_posted": "June 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Cystic Fibrosis", "Fibrosis"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Ivacaftor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 29 subjects were screened for inclusion, of which 25 were randomized. However, during the study, the need for stringent eligibility criteria contributed to a high exclusion rate, and the final enrollment fell short of the target.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor Treatment",
+              "description": "Ivacaftor administered as 50 mg oral solution every 12 hours for 8 weeks."
+            },
+            {
+              "title": "Placebo Treatment",
+              "description": "Placebo administered every 12 hours for 8 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [29, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [15, 10]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [14, 10]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "The baseline analysis population included all randomized participants who received at least 1 dose of study drug.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor Treatment",
+              "description": "Ivacaftor administered every 12 hours."
+            },
+            {
+              "title": "Placebo Treatment",
+              "description": "Placebo administered every 12 hours."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [20, 15, 35]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change from Baseline in Lung Clearance Index (LCI) at Week 8",
+            "description": "The mean change in LCI from baseline was analyzed to assess lung function.",
+            "time_frame": "Baseline, Week 8",
+            "population": "Full Analysis Set (FAS) was defined as all randomized participants who received at least 1 dose of study drug.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ivacaftor Treatment",
+                  "description": "Change in LCI for subjects receiving Ivacaftor."
+                },
+                {
+                  "title": "Placebo Treatment",
+                  "description": "Change in LCI for subjects receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mean Change from Baseline in Lung Clearance Index (LCI)",
+              "units": "Lung Clearance Index",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [15, 10]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "t-test paired",
+                  "p_value": "0.5026"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change From Baseline in Immunoreactive Trypsinogen Levels at Week 8",
+            "description": "Assessing immunoreactive trypsinogen levels as a secondary outcome.",
+            "time_frame": "Baseline, Week 8",
+            "population": "FAS included all randomized participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ivacaftor Treatment",
+                  "description": "Change in trypsinogen levels for subjects receiving Ivacaftor."
+                },
+                {
+                  "title": "Placebo Treatment",
+                  "description": "Change in trypsinogen levels for subjects receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mean Change from Baseline in Immunoreactive Trypsinogen Levels",
+              "units": "ng/mL",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [15, 10]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "t-test",
+                  "p_value": "0.6789"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Baseline up to Month 15",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor Treatment",
+              "description": "Adverse events reported during the treatment phase."
+            },
+            {
+              "title": "Placebo Treatment",
+              "description": "Adverse events reported during placebo treatment."
+            }
+          ]
+        },
+        "serious_events": {
+          "category": {
+            "title": "Total",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [3, 2]
+                }
+              ]
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Adverse events reported",
+                    "counts": [6, 4]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Diarrhoea",
+                      "counts": [2, 1]
+                    },
+                    {
+                      "sub_title": "Vomiting",
+                      "counts": [2, 1]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Infections and infestations",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Upper respiratory infection",
+                      "counts": [3, 2]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Nervous system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Headache",
+                      "counts": [4, 2]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators were not employed by the organization sponsoring the study.",
+        "restrictive_agreement": "Investigators were free to publish results following the termination, with review protocols established for protection of intellectual property."
+      },
+      "limitations_and_caveats": "The study was ultimately terminated due to low participant enrollment and insufficient evidence of efficacy in the target young age group, combined with high variability in response rates and safety concerns."
+    }
+  }
+}
+```

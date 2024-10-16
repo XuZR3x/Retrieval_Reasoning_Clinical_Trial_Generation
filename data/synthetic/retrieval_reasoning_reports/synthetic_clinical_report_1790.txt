@@ -1,0 +1,195 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04510001"
+    },
+    "id_info": {
+      "org_study_id": "NCT04510001",
+      "nct_id": "NCT04510001"
+    },
+    "brief_title": "Bicalutamide in Combination with Chemotherapy for Advanced Prostate Cancer",
+    "official_title": "A Phase II Study Evaluating the Clinical Effectiveness of Bicalutamide in Combination with Standard Chemotherapy in Patients with Hormone-Sensitive Metastatic Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Research Group",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Innovative Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the overall survival and progression-free survival in patients with hormone-sensitive metastatic prostate cancer treated with bicalutamide in conjunction with standard chemotherapy regimens. The objective was to determine if there was a significant therapeutic advantage provided by the addition of bicalutamide."
+    },
+    "detailed_description": {
+      "textblock": "Co-administration of bicalutamide with standard therapeutic agents such as docetaxel and estramustine was performed. However, recruitment challenges revealed that a considerable number of selected patients presented with late-stage disease manifestations outside of the predefined eligibility criteria. Moreover, observed toxicities associated with this adjuvant therapy contributed to a high rate of adverse events, leading to diminished patient adherence to the intervention. Notably, the primary endpoint reflected an inadequate rate of undetectable prostate-specific antigen (PSA) levels post-treatment."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "June 2023",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate",
+      "time_frame": "12 months",
+      "description": "This measure is defined as the time from the date of randomization to the date of death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "PSA Reduction Rate",
+        "time_frame": "6 months",
+        "description": "The percentage of patients achieving PSA levels <0.2 ng/mL after 6 months of treatment."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "6 months",
+        "description": "Duration from randomization to documented progression or death from any cause."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Throughout the study duration up to 2 years",
+        "description": "The number of patients experiencing grade 3 or higher adverse events related to the study drug as per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "90",
+    "condition": ["Metastatic Prostate Cancer", "Hormone-Sensitive Prostate Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Bicalutamide + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive bicalutamide orally (50 mg once daily) in conjunction with standard chemotherapy agents (docetaxel and estramustine) for 6 cycles."
+      },
+      {
+        "arm_group_label": "Control: Chemotherapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive standard chemotherapy agents (docetaxel and estramustine) alone for 6 cycles, without bicalutamide."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bicalutamide",
+        "description": "50 mg orally once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "75 mg/m² intravenously every 21 days."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Estramustine",
+        "description": "280 mg orally three times daily on days 1-5 of each cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed diagnosis of prostate adenocarcinoma.\r\n- Metastatic disease with evidence of hormone-sensitive nature.\r\n- Life expectancy of >= 6 months.\r\n- ECOG performance status of 0-2.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior treatment with bicalutamide or docetaxel.\r\n- Evidence of visceral metastases.\r\n- Uncontrolled medical conditions.\r\n- Patients presently on anticoagulant therapy."
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Research Group"
+    },
+    "overall_contact": {
+      "last_name": "John D. Smith, MD",
+      "phone": "+1-555-0101",
+      "email": "john.smith@innovative-research.org"
+    },
+    "location": {
+      "facility": {
+        "name": "Innovative Research Center",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States"
+        }
+      },
+      "status": "Completed",
+      "contact": {
+        "last_name": "John D. Smith, MD",
+        "phone": "+1-555-0101",
+        "email": "john.smith@innovative-research.org"
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "April 15, 2020",
+    "study_first_posted": "May 10, 2020",
+    "last_update_posted": "July 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "Innovative Research Group"
+    },
+    "keyword": ["bicalutamide", "prostate cancer", "chemotherapy", "metastatic", "PSA"],
+    "condition_browse": {
+      "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bicalutamide", "Docetaxel", "Estramustine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Bicalutamide + Chemotherapy",
+            "description": "Total enrolled: 45, Completed: 20, Not completed due to adverse effects: 15, Progressed: 10."
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Bicalutamide + Chemotherapy",
+            "description": "Patients demonstrated a variety of metastatic patterns, with considerable rates of elevated baseline PSA."
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival Rate",
+            "description": "The expected outcome was not met; only 15% demonstrated favorable survival outcomes."
+          },
+          {
+            "type": "Secondary",
+            "title": "PSA Reduction Rate",
+            "description": "Only 25% of patients achieved PSA levels <0.2 ng/mL, significantly lower than projected efficacy outcomes."
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "A total of 60% experienced grade 3 or higher adverse events, impacting treatment adherence."
+          }
+        ]
+      }
+    }
+  }
+}
+```

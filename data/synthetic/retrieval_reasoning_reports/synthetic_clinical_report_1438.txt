@@ -1,0 +1,288 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02040387"
+    },
+    "id_info": {
+      "org_study_id": "CTKI258A3001",
+      "secondary_id": "2013-030802-22",
+      "nct_id": "NCT02040387"
+    },
+    "brief_title": "Evaluation of Dovitinib in Combination With Chemotherapy in Patients With Metastatic Colorectal Cancer",
+    "official_title": "A Phase II Multi-Center, Randomized, Double-Blind Trial of Dovitinib in Combination With Standard Chemotherapy Versus Placebo in Patients With Metastatic Colorectal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Novartis Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of dovitinib combined with standard chemotherapy in patients with metastatic colorectal cancer. The primary endpoint analyzed was progression-free survival (PFS), and secondary endpoints included safety profiles and overall response rates."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Efficacy and Adverse Events.",
+    "start_date": "January 2014",
+    "completion_date": "November 2017",
+    "primary_completion_date": "September 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression Free Survival (PFS)",
+      "time_frame": "From randomization until disease progression assessed every 8 weeks up to 24 months.",
+      "description": "PFS was defined as the time from the date of randomization to the date of the first documented disease progression or death due to any cause, assessed according to RECIST v1.1."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Time from randomization to death from any cause, assessed until 24 months.",
+        "description": "OS was defined as the time from randomization until death from any cause; censored at last known contact if the patient was alive."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "Throughout the study, assessed at each visit.",
+        "description": "Adverse events were analyzed according to the Common Terminology Criteria for Adverse Events, with particular focus on grade 3 and 4 events."
+      },
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Assessed every 8 weeks up to 24 months.",
+        "description": "ORR was defined as the percentage of subjects with a best overall response of complete response (CR) or partial response (PR) per RECIST v1.1 criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Metastatic Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Dovitinib + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients received 500 mg of dovitinib orally on a 5 days on/2 days off schedule along with standard chemotherapy."
+      },
+      {
+        "arm_group_label": "Placebo + Chemotherapy",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients received placebo on a similar dosing schedule as the dovitinib group in combination with standard chemotherapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dovitinib",
+        "description": "administered as an oral tablet at a dose of 500 mg daily for 5 days, followed by 2 days off.",
+        "arm_group_label": "Dovitinib + Chemotherapy",
+        "other_name": "TKI258"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Chemotherapy",
+        "description": "Standard chemotherapy regimens utilized including 5-fluorouracil, leucovorin, and oxaliplatin administered according to local practice.",
+        "arm_group_label": ["Dovitinib + Chemotherapy", "Placebo + Chemotherapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Identical placebo tablets administered orally on the same schedule as dovitinib.",
+        "arm_group_label": "Placebo + Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \r\n- Adults aged ≥18 years with histologically confirmed metastatic colorectal cancer. \r\n- Patients must have received at least one prior line of systemic therapy. \r\n- Measurable disease as per RECIST v1.1 criteria. \r\n- Adequate organ function and ECOG performance status of 0-2.\r\n \r\nExclusion Criteria: \r\n- Patients with known brain metastases or other uncontrolled malignancies. \r\n- Prior treatment with dovitinib or other FGFR inhibitors. \r\n- Unresolved side effects greater than Grade 1 from previous therapies. \r\n- Serious concurrent medical conditions leading to a high risk of complications."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Anna Smith",
+      "role": "Study Director",
+      "affiliation": "XYZ Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Research Institute - Cancer Facility",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2018",
+    "study_first_submitted": "November 15, 2013",
+    "study_first_submitted_qc": "November 20, 2013",
+    "study_first_posted": "November 22, 2013",
+    "results_first_submitted": "February 25, 2018",
+    "results_first_submitted_qc": "March 5, 2018",
+    "results_first_posted": "March 20, 2018",
+    "last_update_submitted": "June 6, 2018",
+    "last_update_submitted_qc": "June 6, 2018",
+    "last_update_posted": "June 29, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Dovitinib",
+      "Colorectal Cancer",
+      "Chemotherapy",
+      "PFS"
+    ],
+    "condition_browse": {
+      "mesh_term": "Colorectal Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Dovitinib"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Dovitinib + Chemotherapy",
+              "description": "Patients received 500 mg of dovitinib in combination with standard chemotherapy."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "Patients received placebo with standard chemotherapy."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "120"
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": "Study terminated early due to adverse events and insufficient efficacy."
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All randomized patients.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Dovitinib + Chemotherapy",
+                "description": "Received dovitinib alongside standard chemotherapy."
+              },
+              {
+                "title": "Placebo + Chemotherapy",
+                "description": "Received placebo with standard chemotherapy."
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Progression Free Survival (PFS)",
+              "description": "PFS was defined as the time from randomization to disease progression or death.",
+              "time_frame": "Assessed every 8 weeks up to 24 months.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Dovitinib + Chemotherapy",
+                    "description": "Median PFS not significantly different from placebo."
+                  },
+                  {
+                    "title": "Placebo + Chemotherapy",
+                    "description": "Median PFS reported similarly."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Dovitinib + Chemotherapy",
+                "description": "Patients experienced higher incidence of adverse events."
+              },
+              {
+                "title": "Placebo + Chemotherapy",
+                "description": "Reported fewer adverse events, highlighting concerns with dovitinib."
+              }
+            ]
+          },
+          "serious_events": {
+            "category_list": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Higher rates of gastrointestinal and vascular complications observed.",
+                    "counts": "18"
+                  }
+                }
+              },
+              {
+                "title": "Specific Adverse Events",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Diarrhea",
+                      "counts": "12"
+                    },
+                    {
+                      "sub_title": "Hypertension",
+                      "counts": "8"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "All Principal Investigators are employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results."
+        },
+        "point_of_contact": {
+          "name_or_title": "Dr. Anna Smith",
+          "organization": "XYZ Research Institute",
+          "phone": "202-555-0178",
+          "email": "asmith@xyzresearch.org"
+        }
+      }
+    }
+  }
+}
+```

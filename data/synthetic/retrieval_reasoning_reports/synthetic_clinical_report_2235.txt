@@ -1,0 +1,135 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "ENOX_PRI-2021",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Enoxaparin Efficacy in Preventing Postoperative Venous Thromboembolism",
+    "acronym": "EPOVET",
+    "official_title": "Multicenter, Randomized, Placebo-Controlled Trial to Assess the Efficacy of Enoxaparin in Reducing the Incidence of Postoperative Venous Thromboembolism in High-Risk Surgical Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institutes of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institutes of Health",
+    "brief_summary": {
+      "textblock": "The primary objective of this study was to evaluate the superiority of enoxaparin over placebo in preventing postoperative venous thromboembolism (VTE) in patients undergoing major orthopedic and abdominal surgeries.\n\nThe secondary objective was to assess safety outcomes such as major and minor bleeding complications associated with enoxaparin therapy."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2022",
+    "completion_date": "December 2025",
+    "primary_completion_date": "June 2025",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+      "measure": "Incidence of postoperative VTE",
+      "time_frame": "Up to 30 days post-surgery"
+    }],
+    "secondary_outcome": [{
+      "measure": "Incidence of major bleeding events",
+      "time_frame": "During hospitalization, up to 14 days"
+    },{
+      "measure": "Incidence of minor bleeding events",
+      "time_frame": "During hospitalization, up to 14 days"
+    }],
+    "number_of_arms": "2",
+    "enrollment": "1200",
+    "condition": "Postoperative Venous Thromboembolism",
+    "arm_group": [{
+      "arm_group_label": "A",
+      "arm_group_type": "Experimental",
+      "description": "Enoxaparin 40 mg subcutaneously once daily for 10 days following surgery."
+    },{
+      "arm_group_label": "B",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Placebo administered subcutaneously once daily for 10 days following surgery."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Enoxaparin",
+      "description": "40 mg subcutaneously once daily for 10 days following surgery.",
+      "arm_group_label": "A"
+    },{
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "description": "Placebo administered subcutaneously once daily for 10 days following surgery.",
+      "arm_group_label": "B"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 years or older undergoing major orthopedic or abdominal surgery.\n2. High risk for VTE as defined by current guidelines (e.g., history of previous VTE, active malignancy).\n3. Ability to provide informed consent.\n\nExclusion Criteria:\n\n1. Known hypersensitivity to enoxaparin or any heparin derivatives.\n2. Active bleeding or high risk for bleeding complications.\n3. Current use of contraindicated anticoagulants or antiplatelet agents.\n4. Severe renal impairment (creatinine clearance <30 mL/min).\n5. Participation in another clinical study within 30 days prior."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Study Director",
+      "affiliation": "National Institutes of Health"
+    },
+    "location": [{
+      "facility": {
+        "name": "National Institutes of Health Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "August 2025",
+    "study_first_submitted": "June 15, 2021",
+    "study_first_submitted_qc": "June 16, 2021",
+    "study_first_posted": "June 18, 2021",
+    "last_update_submitted": "August 15, 2025",
+    "last_update_submitted_qc": "August 15, 2025",
+    "last_update_posted": "August 16, 2025",
+    "responsible_party": {
+      "name_title": "Clinical Trials Management Team",
+      "organization": "National Institutes of Health"
+    },
+    "keyword": ["Enoxaparin", "Venous Thromboembolism", "Postoperative Care"],
+    "intervention_browse": {
+      "mesh_term": "Enoxaparin"
+    },
+    "reason_for_failure": {
+      "discussed_details": [
+        "The trial faced significant challenges concerning optimal dosing protocols for enoxaparin, particularly with respect to patient demographics, including age, body weight, and renal function, leading to inadequate anticoagulation in high-risk populations.", 
+        "Patient recruitment was markedly hindered due to stringent eligibility criteria. This resulted in a lower than anticipated enrollment rate, limiting statistical power and the ability to generalize findings to a broader surgical population.", 
+        "Several confounding variables, including variability in standard postoperative care across participating sites and differing protocols for managing anticoagulation therapy, obscured the comparative effectiveness of enoxaparin relative to placebo.",
+        "Primary and secondary endpoints selected for this study failed to adequately reflect clinically meaningful outcomes, particularly in measuring the incidence of VTE in the intended high-risk cohort.", 
+        "Large physiological variations among the study population, including diverse underlying conditions and differing histories related to thromboembolic events, significantly diluted the perceived efficacy of the intervention."
+      ]
+    }
+  }
+}
+```

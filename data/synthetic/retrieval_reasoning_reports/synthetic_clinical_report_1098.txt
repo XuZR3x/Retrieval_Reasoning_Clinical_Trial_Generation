@@ -1,0 +1,345 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on October 20, 2023",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT02826114"
+        },
+        "id_info": {
+            "org_study_id": "SEL-2023-001",
+            "nct_id": "NCT02826114"
+        },
+        "brief_title": "Phase II Study of Selinexor in Patients With Metastatic Melanoma Refractory to Previous Therapies",
+        "official_title": "A Phase II Open-Label Study of Selinexor (KPT-330) in Patients With Melanoma that is Refractory to Prior Systemic Therapy",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute (NCI)",
+                "agency_class": "NIH"
+            },
+            "collaborator": {
+                "agency": "Karyopharm Therapeutics Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "National Cancer Institute (NCI)",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to evaluate the effectiveness and safety of selinexor in patients diagnosed with metastatic melanoma that has shown resistance to established therapies. The study seeks to identify any potential anti-tumor activity and monitor safety profiles."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Suboptimal efficacy and safety concerns due to high rates of adverse events.",
+        "start_date": "November 14, 2016",
+        "completion_date": "January 10, 2021",
+        "primary_completion_date": "July 5, 2018",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Overall Response Rate (ORR)",
+            "time_frame": "Up to 24 months",
+            "description": "Overall Response Rate is defined as the proportion of patients who achieve complete response (CR) or partial response (PR) according to RECIST criteria."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "Up to 24 months",
+                "description": "Duration of time from the start of treatment until disease progression or death from any cause."
+            },
+            {
+                "measure": "Duration of Response",
+                "time_frame": "From the first response for up to 24 months post-treatment",
+                "description": "The duration of response is calculated from the time the response criteria are first met until disease progression or death."
+            },
+            {
+                "measure": "Safety Profile",
+                "time_frame": "Throughout the study duration",
+                "description": "Assessment based on the number and severity of treatment-emergent adverse events (TEAEs) graded using CTCAE version 4.0."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "20",
+        "condition": "Advanced Melanoma",
+        "arm_group": {
+            "arm_group_label": "Selinexor Treatment",
+            "arm_group_type": "Experimental",
+            "description": "Patients received selinexor at a dose of 60 mg orally twice weekly for a 28-day cycle until disease progression or unacceptable toxicity."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Selinexor",
+            "description": "Selinexor is administered orally at a starting dose of 60 mg on days 1 and 3 of each week for three weeks, followed by one week off. Treatment cycles are repeated until disease progression or unacceptable toxicity."
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n- Histologically confirmed metastatic melanoma.\r\n- Prior systemic therapies such as immune checkpoint inhibitors or targeted agents must show evidence of disease progression.\r\n- Measurable disease according to RECIST criteria.\r\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\r\n\r\nExclusion Criteria:\r\n- Active central nervous system metastases.\r\n- Concurrent use of other investigational agents or therapies.\r\n- History of severe hypersensitivity to selinexor or its components."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Margaret L. Chen, M.D.",
+            "role": "Principal Investigator",
+            "affiliation": "National Cancer Institute (NCI)"
+        },
+        "location": {
+            "facility": {
+                "name": "National Cancer Institute",
+                "address": {
+                    "city": "Bethesda",
+                    "state": "Maryland",
+                    "zip": "20892",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "June 2021",
+        "study_first_submitted": "August 25, 2016",
+        "study_first_submitted_qc": "August 25, 2016",
+        "study_first_posted": "August 29, 2016",
+        "results_first_submitted": "December 15, 2020",
+        "results_first_posted": "January 5, 2021",
+        "last_update_posted": "April 20, 2021",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Metastatic Melanoma",
+            "Selinexor",
+            "KPT-330",
+            "Refractory Cancer",
+            "Anti-tumor Activity"
+        ],
+        "patient_data": {
+            "sharing_ipd": "Yes"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "This multi-center study aimed to enroll 40 participants; however, only 20 were successfully recruited due to strict eligibility criteria and rapid disease progression.",
+                "group_list": {
+                    "group": {
+                        "title": "Selinexor Treatment",
+                        "description": "20 patients were treated with oral selinexor at a dose of 60 mg twice weekly."
+                    }
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                },
+                                {
+                                    "title": "COMPLETED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                },
+                                {
+                                    "title": "NOT COMPLETED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "baseline": {
+                "population": "Participants receiving selinexor.",
+                "group_list": {
+                    "group": {
+                        "title": "Selinexor Treatment",
+                        "description": "20 enrolled participants received oral selinexor at 60 mg twice weekly."
+                    }
+                },
+                "measure_list": {
+                    "measure": [
+                        {
+                            "title": "Age",
+                            "units": "Participants",
+                            "param": "Count of Participants",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "title": "50 - 59",
+                                                "measurement_list": {
+                                                    "measurement": null
+                                                }
+                                            },
+                                            {
+                                                "title": "60 - 69",
+                                                "measurement_list": {
+                                                    "measurement": null
+                                                }
+                                            },
+                                            {
+                                                "title": "70 - 79",
+                                                "measurement_list": {
+                                                    "measurement": null
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "title": "Sex: Female, Male",
+                            "units": "Participants",
+                            "param": "Count of Participants",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "title": "Female",
+                                                "measurement_list": {
+                                                    "measurement": null
+                                                }
+                                            },
+                                            {
+                                                "title": "Male",
+                                                "measurement_list": {
+                                                    "measurement": null
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "reported_events": {
+            "time_frame": "Continuous monitoring throughout treatment until 30 days post-treatment.",
+            "group_list": {
+                "group": {
+                    "title": "Treatment (Selinexor)",
+                    "description": "Monitoring for adverse events throughout the study."
+                }
+            },
+            "serious_events": {
+                "default_vocab": "CTCAE (4.0)",
+                "default_assessment": "Non-systematic Assessment",
+                "category_list": {
+                    "category": [
+                        {
+                            "title": "Total",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Total, serious adverse events",
+                                    "counts": null
+                                }
+                            }
+                        },
+                        {
+                            "title": "Gastrointestinal disorders",
+                            "event_list": {
+                                "event": {"sub_title": "Nausea", "counts": null}
+                            }
+                        },
+                        {
+                            "title": "Blood and lymphatic system disorders",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Thrombocytopenia",
+                                    "counts": null
+                                }
+                            }
+                        },
+                        {
+                            "title": "Nervous system disorders",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Dizziness",
+                                    "counts": null
+                                }
+                            }
+                        }
+                    ]
+                },
+            "other_events": {
+                "frequency_threshold": "0",
+                "default_vocab": "CTCAE (4.0)",
+                "default_assessment": "Non-systematic Assessment",
+                "category_list": {
+                    "category": [
+                        {
+                            "title": "Total",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Total, other adverse events",
+                                    "counts": null
+                                }
+                            }
+                        },
+                        {
+                            "title": "General Disorders",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Fatigue",
+                                    "counts": null
+                                }
+                            }
+                        },
+                        {
+                            "title": "Metabolism and nutrition disorders",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Hypophosphatemia",
+                                    "counts": null
+                                }
+                            }
+                        },
+                        {
+                            "title": "Skin and subcutaneous tissue disorders",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Rash",
+                                    "counts": null
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "certain_agreements": {
+                "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            },
+            "limitations_and_caveats": "The trial was halted due to insufficient response rates and unacceptable rates of serious adverse events, underscoring the inadequate efficacy profile and safety concerns associated with selinexor in this patient population."
+        },
+        "point_of_contact": {
+            "name_or_title": "Dr. Margaret L. Chen",
+            "organization": "National Cancer Institute (NCI)",
+            "phone": "301-496-9828",
+            "email": "chenma@mail.nih.gov"
+        }
+    }
+}
+```

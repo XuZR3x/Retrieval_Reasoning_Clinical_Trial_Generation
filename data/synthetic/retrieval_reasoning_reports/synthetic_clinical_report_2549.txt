@@ -1,0 +1,167 @@
+```json
+{
+   "clinical_study": {
+      "required_header": {
+         "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+         "link_text": "Link to the current ClinicalTrials.gov record.",
+         "url": "https://clinicaltrials.gov/ct2/show/NCT01587687"
+      },
+      "id_info": {
+         "org_study_id": "23-462",
+         "secondary_id": "EudraCT number 2011-002419-41",
+         "nct_id": "NCT01587687"
+      },
+      "brief_title": "Assessing the Impact of Aripiprazole on Treatment-Resistant Depression in Adults",
+      "official_title": "A 16-Week, Multicenter, Open-Label Study to Evaluate the Efficacy and Safety of Aripiprazole in Adult Patients with Treatment-Resistant Major Depressive Disorder",
+      "sponsors": {
+         "lead_sponsor": {
+            "agency": "Otsuka America Pharmaceutical, Inc.",
+            "agency_class": "Industry"
+         }
+      },
+      "source": "Otsuka America Pharmaceutical, Inc.",
+      "oversight_info": {
+         "has_dmc": "No"
+      },
+      "brief_summary": {
+         "textblock": "The objective of this clinical trial was to evaluate the effectiveness of aripiprazole as an adjunctive treatment in adults suffering from treatment-resistant major depressive disorder over a 16-week period."
+      },
+      "detailed_description": {
+         "textblock": "Participants were adults aged 18-65 years diagnosed with treatment-resistant major depressive disorder. The study involved regular assessments through standardized rating scales at baseline and subsequently at designated intervals up to the 16-week endpoint. Primary endpoints included changes in the Hamilton Depression Rating Scale (HDRS) and the Patient Health Questionnaire-9 (PHQ-9). Safety was monitored using adverse event reporting and clinical assessments."
+      },
+      "overall_status": "Terminated",
+      "why_stopped": "The study was terminated due to insufficient clinical efficacy and low enrollment rates.",
+      "start_date": "March 2012",
+      "completion_date": "July 2016",
+      "phase": "Phase 3",
+      "study_type": "Interventional",
+      "has_expanded_access": "No",
+      "study_design_info": {
+         "allocation": "Non-Randomized",
+         "intervention_model": "Single Group Assignment",
+         "primary_purpose": "Treatment",
+         "masking": "None (Open Label)"
+      },
+      "primary_outcome": [{
+         "measure": "Change in HDRS Total Score from Baseline to Week 16",
+         "time_frame": "Baseline to Week 16",
+         "description": "The HDRS is a clinician-administered scale to assess the severity of depression, with scores ranging from 0 (no depression) to 52 (extremely severe depression)."
+      }],
+      "secondary_outcome": [{
+         "measure": "Change in PHQ-9 Score from Baseline to Week 16",
+         "time_frame": "Baseline to Week 16",
+         "description": "The PHQ-9 is a self-administered questionnaire used to assess depression severity; scores range from 0 to 27."
+      }],
+      "enrollment": "45",
+      "condition": "Major Depressive Disorder",
+      "intervention": [{
+         "intervention_type": "Drug",
+         "intervention_name": "Aripiprazole",
+         "description": "Oral administration of aripiprazole starting at a dose of 2-5 mg daily with potential titration up to 10 mg based on clinician assessment."
+      }],
+      "eligibility": {
+         "criteria": {
+            "textblock": "Inclusion Criteria: \n - Age between 18-65 years. \n - Diagnosis of Treatment-Resistant Major Depressive Disorder as per DSM-V criteria. \n - Failure to achieve adequate response from a minimum of two prior treatments. \n - Ability to provide informed consent.\n\n Exclusion Criteria: \n - Current diagnosis of bipolar disorder or psychotic disorders. \n - History of significant cardiac or liver conditions. \n - Pregnant or breastfeeding women. \n - Use of other psychotropic medications without a 2-week washout prior to the study."
+         },
+         "gender": "All",
+         "minimum_age": "18 Years",
+         "maximum_age": "65 Years",
+         "healthy_volunteers": "No"
+      },
+      "overall_official": {
+         "last_name": "Dr. John Smith",
+         "role": "Study Investigator",
+         "affiliation": "Otsuka America Pharmaceutical, Inc."
+      },
+      "location": [{
+         "facility": {
+            "name": "Anytown Medical Center",
+            "address": {
+               "city": "Anytown",
+               "state": "CA",
+               "zip": "90210",
+               "country": "United States"
+            }
+         }
+      }],
+      "location_countries": {
+         "country": "United States"
+      },
+      "verification_date": "December 2016",
+      "study_first_submitted": "January 2012",
+      "study_first_posted": "April 2012",
+      "last_update_posted": "August 2016",
+      "keyword": ["Treatment-resistant Depression", "Aripiprazole", "Psychiatric Disorders"],
+      "condition_browse": {
+         "mesh_term": "Depressive Disorder"
+      },
+      "intervention_browse": {
+         "mesh_term": "Aripiprazole"
+      },
+      "clinical_results": {
+         "participant_flow": {
+            "recruitment_details": "A total of 45 participants were screened, but trial faced difficulties in reaching a sufficient enrollment number, leading to an early termination.",
+            "pre_assignment_details": "Out of the 45 enrolled participants, only 25 were actively followed through the course of the trial."
+         },
+         "baseline": {
+            "population": "All participants who were enrolled in the study and received at least one dose of aripiprazole.",
+            "group_list": {
+               "group": {
+                  "title": "Aripiprazole",
+                  "description": "Participants received oral aripiprazole starting dose of 2-5 mg once daily."
+               }
+            },
+            "analyzed_list": {
+               "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                     "count": [25]
+                  }
+               }
+            },
+            "measure_list": {
+               "measure": [{
+                  "title": "Age",
+                  "units": "Years",
+                  "param": "Mean",
+                  "dispersion": "Standard Deviation"
+               }]
+            }
+         },
+         "outcome_list": {
+            "outcome": [{
+               "type": "Primary",
+               "title": "Change in HDRS Total Score",
+               "description": "The change in scores was assessed but did not demonstrate a statistically significant difference.",
+               "time_frame": "Baseline to Week 16",
+               "population": "Safety Sample included all participants who took the study medication.",
+               "measure_list": {
+                  "measure": {
+                     "title": "HDRS Total Score",
+                     "units": "Score",
+                     "param": "Mean Change",
+                     "dispersion": "Standard Deviation"
+                  }
+               }
+            }],
+            "outcome": [{
+               "type": "Secondary",
+               "title": "Change in PHQ-9 Score",
+               "description": "The data highlighted ongoing issues with depressive symptomatology.",
+               "time_frame": "Baseline to Week 16",
+               "population": "Efficacy Sample included all who provided at least one post-baseline assessment.",
+               "measure_list": {
+                  "measure": {
+                     "title": "PHQ-9 Score",
+                     "units": "Score",
+                     "param": "Mean Change",
+                     "dispersion": "Standard Deviation"
+                  }
+               }
+            }]
+         }
+      }
+   }
+}
+```

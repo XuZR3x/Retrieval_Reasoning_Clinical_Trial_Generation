@@ -1,0 +1,187 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02784894"
+    },
+    "id_info": {
+      "org_study_id": "APX-001",
+      "secondary_id": "2016-001010-31",
+      "nct_id": "NCT02784894"
+    },
+    "brief_title": "Evaluation of Apixaban Safety and Efficacy in Patients with Non-Valvular Atrial Fibrillation and High Stroke Risk",
+    "acronym": "APX Study",
+    "official_title": "A Phase IV Randomized Multi-Center Study Assessing the Safety and Efficacy of Apixaban in Patients with Non-Valvular Atrial Fibrillation and a High Risk of Stroke",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Anticoagulation Research",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "World Health Organization",
+        "agency_class": "International Organizations"
+      }
+    },
+    "source": "Global Anticoagulation Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The primary aim of this study was to assess the safety and efficacy of apixaban compared to standard anticoagulation therapy in patients diagnosed with non-valvular atrial fibrillation at risk of stroke. The trial focused on incorporation of patient adherence and systematic monitoring."
+    },
+    "detailed_description": {
+      "textblock": "This randomized controlled trial was designed to compare apixaban to traditional vitamin K antagonists (VKAs) in patients with non-valvular atrial fibrillation (NVAF) who exhibited a high risk for stroke. Treatment adherence was a substantial aspect of the investigational design. It aimed to monitor the rates of major bleeding and thromboembolic events through various endpoints over a period of one year. The study faced considerable operational challenges in patient recruitment, adherence rates, and clinical monitoring of outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2017",
+    "completion_date": "December 15, 2019",
+    "primary_completion_date": "October 30, 2018",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Incidence of Major Bleeding Events",
+        "time_frame": "From baseline to 30 days post-treatment initiation",
+        "description": "Major bleeding events were defined as clinically significant bleeding with an associated drop in hemoglobin of at least 2 g/dL or requiring transfusion."
+      },
+      {
+        "measure": "Incidence of Acute Stroke Events",
+        "time_frame": "From baseline to 30 days post-treatment initiation",
+        "description": "Acute strokes were defined as new ischemic events confirmed by CT or MRI imaging."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Patient Adherence Rate",
+        "time_frame": "Monitored every month for the duration of the study",
+        "description": "Evaluated through self-reported questionnaire and pill counts to assess adherence to apixaban regimen."
+      },
+      {
+        "measure": "Monitoring of Health-related Quality of Life",
+        "time_frame": "Measured at baseline, 6 months, and at the end of the study",
+        "description": "Assessed using the EQ-5D-5L questionnaire."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "450",
+    "condition": "Non-Valvular Atrial Fibrillation",
+    "arm_group": [{
+        "arm_group_label": "Arm 1: Apixaban Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients randomized to receive apixaban 5 mg orally twice daily for a duration of one year."
+      },
+      {
+        "arm_group_label": "Arm 2: Conventional Anticoagulation Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients randomized to receive VKAs, adjusted based on international normalized ratio (INR), for the same duration."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "description": "5 mg orally twice daily.",
+        "arm_group_label": "Arm 1: Apixaban Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vitamin K Antagonists",
+        "description": "Dose adjusted based on INR at the discretion of the clinician.",
+        "arm_group_label": "Arm 2: Conventional Anticoagulation Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adults aged 18 years or older diagnosed with non-valvular atrial fibrillation.\r\n2. Patients with a CHA2DS2-VASc score of 2 or higher for stroke.\r\n3. Able to provide written informed consent.\r\n\r\nExclusion Criteria:\r\n1. Patients who have received any anticoagulant within the last 48 hours prior to randomization.\r\n2. History of significant bleeding episodes or active bleeding.\r\n3. Pregnancy or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Eleanor Clark",
+      "role": "Principal Investigator",
+      "affiliation": "Global Anticoagulation Research"
+    },
+    "location": [{
+        "facility": {
+          "name": "General Hospital of Health",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94103",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "New York Medical Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Chicago Health System",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Toronto General Hospital",
+          "address": {
+            "city": "Toronto",
+            "zip": "M5G 1X8",
+            "country": "Canada"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States",
+        "Canada"
+      ]
+    },
+    "verification_date": "November 2020",
+    "study_first_submitted": "February 15, 2017",
+    "study_first_submitted_qc": "March 01, 2017",
+    "study_first_posted": "March 03, 2017",
+    "results_first_submitted": "January 10, 2020",
+    "results_first_submitted_qc": "February 15, 2020",
+    "results_first_posted": "March 01, 2020",
+    "last_update_submitted": "November 01, 2020",
+    "last_update_submitted_qc": "November 01, 2020",
+    "last_update_posted": "November 05, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Atrial Fibrillation"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Apixaban", "Vitamin K"]
+    },
+    "limitations_and_caveats": {
+      "textblock": "The study faced substantial challenges related to patient adherence, with an observed adherence rate significantly lower than anticipated. Inadequate recruitment affected the robustness of findings, resulting in an inability to derive definitive conclusions on apixaban's safety profile relative to comparator therapies."
+    }
+  }
+}
+```

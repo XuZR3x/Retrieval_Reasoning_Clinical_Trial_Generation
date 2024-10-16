@@ -1,0 +1,161 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02123456"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2023-06789",
+      "nct_id": "NCT02123456"
+    },
+    "brief_title": "Phase III Study of Bevacizumab in Combination With Standard Chemotherapy for Advanced Gastric Cancer",
+    "official_title": "A Double-Blind, Randomized Phase III Trial of Bevacizumab in Combination With Standard Chemotherapy Compared to Chemotherapy Alone in Patients With Advanced Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+      "textblock": "This randomized phase III trial evaluates the efficacy of the addition of bevacizumab to standard chemotherapy regimen (capecitabine and oxaliplatin) compared to chemotherapy alone in patients with advanced gastric cancer. The primary outcome of the study was overall survival (OS), with secondary outcomes assessing progression-free survival (PFS), response rate, and safety."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVE:\n   I. To evaluate whether the addition of bevacizumab improves overall survival in patients with advanced gastric cancer when added to a standard chemotherapy regimen.\n   \n   SECONDARY OBJECTIVES:\n   I. To assess progression-free survival in both treatment arms.\n   II. To determine the objective response rate between the two groups.\n   III. To evaluate and document the adverse effects associated with adding bevacizumab to chemotherapy in this population.\n   \n   OUTLINE: Patients were randomized in a 1:1 ratio to receive either:\n   - Arm A: Bevacizumab administered intravenously at a dose of 15 mg/kg every three weeks along with standard chemotherapy (capecitabine and oxaliplatin).\n   - Arm B: Placebo administered intravenously with the same chemotherapy regimen.\n   \n   PROJECTED ACCRUAL: A total of 500 patients were planned for this study to achieve adequate statistical power."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to insufficient patient accrual and lack of evidence for synergistic benefit with chemotherapy.",
+    "start_date": "March 1, 2021",
+    "completion_date": "April 15, 2025",
+    "primary_completion_date": "March 15, 2024",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "From randomization until death from any cause, assessed up to 3 years.",
+      "description": "Overall survival is defined as the time from randomization to the date of death from any cause or last known contact."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free Survival",
+        "time_frame": "From randomization until documented progression of disease or death, evaluated for 3 years.",
+        "description": "Progression-free survival is measured using RECIST criteria for disease progression."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "Evaluated at 6 months after treatment initiation.",
+        "description": "The proportion of patients with a complete or partial response to treatment, evaluated by imaging assessments."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Every treatment cycle, assessed up to 3 years.",
+        "description": "Monitoring of serious and non-serious adverse events associated with the use of bevacizumab."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Advanced Gastric Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A (Bevacizumab + Chemotherapy)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive bevacizumab with capecitabine and oxaliplatin."
+      },
+      {
+        "arm_group_label": "Arm B (Placebo + Chemotherapy)",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive placebo with capecitabine and oxaliplatin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "Administered IV at a dose of 15 mg/kg every 3 weeks.",
+        "arm_group_label": ["Arm A (Bevacizumab + Chemotherapy)"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Capecitabine",
+        "description": "Administered orally, dosage as per standard protocol.",
+        "arm_group_label": ["Arm A (Bevacizumab + Chemotherapy)", "Arm B (Placebo + Chemotherapy)"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "Administered IV per standard treatment guidelines.",
+        "arm_group_label": ["Arm A (Bevacizumab + Chemotherapy)", "Arm B (Placebo + Chemotherapy)"]
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Intravenous infusion corresponding with bevacizumab protocol.",
+        "arm_group_label": ["Arm B (Placebo + Chemotherapy)"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Histologically confirmed advanced gastric or gastroesophageal junction adenocarcinoma.\n  - Measurable disease per RECIST criteria.\n  - Prior standard first-line chemotherapy is complete.\n  - ECOG performance status of 0-2 and life expectancy > 3 months.\n\nExclusion Criteria:\n  - Prior treatment with anti-VEGF agents or other investigational agents targeting angiogenesis.\n  - Active bleeding diatheses or significant cardiovascular diseases.\n  - History of gastrointestinal perforation or fistula."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Taylor",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of California, San Francisco",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2024",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_submitted_qc": "February 17, 2021",
+    "study_first_posted": "February 18, 2021",
+    "results_first_submitted": "March 20, 2023",
+    "results_first_submitted_qc": "March 21, 2023",
+    "results_first_posted": "April 1, 2023",
+    "last_update_submitted": "April 22, 2024",
+    "last_update_posted": "April 30, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "limitations_and_caveats": "Recruitment goals were not met within the planned timeframe, leading to premature termination of the trial. The anticipated benefit of bevacizumab was not demonstrated in this heterogeneous patient population, indicating possible antagonistic interactions with standard chemotherapeutic agents."
+  }
+}
+```

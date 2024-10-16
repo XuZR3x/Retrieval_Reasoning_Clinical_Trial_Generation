@@ -1,0 +1,142 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02473136"
+    },
+    "id_info": {
+      "org_study_id": "PW-PRASE-15",
+      "nct_id": "NCT02473136"
+    },
+    "brief_title": "Efficacy of Prasugrel in Patients with Prior Antiplatelet Therapy",
+    "official_title": "A Phase 2b Study Evaluating the Efficacy and Safety of Prasugrel in Patients with Acute Coronary Syndrome Previously Treated with Clopidogrel: An Interim Analysis.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to evaluate the efficacy of a 60 mg loading dose of prasugrel compared to standard therapy in patients with acute coronary syndrome (ACS) who have previously received antiplatelet therapy with clopidogrel. The primary endpoint is the reduction in platelet reactivity assessed by the VerifyNow P2Y12 assay."
+    },
+    "detailed_description": {
+      "textblock": "The study enrolled 300 patients aged 45 to 80 presenting with ACS within 24 hours of onset and having a verified history of clopidogrel therapy. Participants were assigned to receive either prasugrel or standard therapy. The study's design lacked randomization and faced criticism for its sample size, which was considered insufficient to draw robust conclusions. Platelet reactivity was measured at baseline, 1, 2, 6, and 24 hours post-loading dose. However, the results indicated no statistically significant difference in platelet inhibition compared to control."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to insufficient platelet inhibition and failure to meet primary efficacy endpoints.",
+    "start_date": "March 2015",
+    "completion_date": "December 2017",
+    "primary_completion_date": "June 2016",
+    "phase": "Phase 2b",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Platelet Reactivity as Measured by VerifyNow P2Y12 Assay",
+      "time_frame": "Up to 24 hours post-loading dose",
+      "description": "Comparative analysis of platelet reactivity, with an emphasis on assessing the inhibition of P2Y12 over the first 24 hours post-administration."
+    },
+    "secondary_outcome": [{
+      "measure": "Rate of Clinical Events (Myocardial Infarction, Stroke)",
+      "time_frame": "During the study period",
+      "description": "Evaluation of the incidence of major adverse cardiovascular events (MACE) in relation to the reactivity measurements."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Acute Coronary Syndrome",
+    "arm_group": [{
+        "arm_group_label": "Prasugrel Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "60 mg loading dose of prasugrel administered orally, followed by a 10 mg maintenance dose."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Conventional treatment and monitoring without prasugrel administration."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Prasugrel",
+        "description": "Administered 60 mg loading dose, followed by 10 mg maintenance dose daily.",
+        "arm_group_label": "Prasugrel Treatment Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Conventional therapy based on clinical guidelines."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 45-80 years diagnosed with ACS.\n2. History of prior clopidogrel therapy for a minimum of 7 days.\n3. Signed informed consent.\n\nExclusion Criteria:\n\n1. Known hypersensitivity to prasugrel or clopidogrel.\n2. Contraindications for prasugrel, including active bleeding.\n3. Patients with life expectancy <6 months.\n4. Prior history of stroke or transient ischemic attack within 6 months."
+      },
+      "gender": "All",
+      "minimum_age": "45 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Medical Center"
+    },
+    "location": [{
+        "facility": {
+          "name": "XYZ Medical Center",
+          "address": {
+            "city": "Anytown",
+            "state": "Anystate",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Community General Hospital",
+          "address": {
+            "city": "Elsewhere",
+            "state": "Otherstate",
+            "zip": "67890",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2018",
+    "study_first_submitted": "February 15, 2015",
+    "study_first_posted": "February 20, 2015",
+    "last_update_posted": "February 25, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "conditions": {
+      "condition_browse": {
+        "mesh_term": [
+          "Acute Coronary Syndrome"
+        ]
+      }
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Prasugrel Hydrochloride"
+      ]
+    }
+  }
+}
+```

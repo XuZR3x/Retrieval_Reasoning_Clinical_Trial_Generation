@@ -1,0 +1,145 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03668234"
+    },
+    "id_info": {
+      "org_study_id": "GEMINI-2",
+      "nct_id": "NCT03668234"
+    },
+    "brief_title": "Gefitinib in Combination with Adjuvant Radiation Therapy for Localized NSCLC",
+    "official_title": "A Phase II Study Evaluating the Efficacy of Gefitinib Combined with Adjuvant Radiation Therapy in Patients with Early-stage Non-small Cell Lung Cancer Harboring EGFR Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "No",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of gefitinib in combination with adjuvant radiation therapy for patients with early-stage non-small cell lung cancer (NSCLC) harboring EGFR mutations post-surgery."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective is to determine the disease-free survival (DFS) at 24 months post-treatment. Secondary objectives include overall survival (OS), the objective response rate (ORR), and assessment of toxicity profiles associated with combined treatment. The trial is designed to utilize stratified mutations (exon 19 deletions and L858R) to identify pertinent candidate populations, enhancing targeted therapeutic efficacy."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2018",
+    "completion_date": "December 2021",
+    "primary_completion_date": "August 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Disease-free survival (DFS)",
+      "time_frame": "Evaluated at 24 months post-treatment initiation",
+      "description": "Defined as the time from randomization to first documented disease progression or death."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "Assessed at 36 months",
+        "description": "Measured from randomization to date of death from any cause."
+      },
+      {
+        "measure": "Objective response rate (ORR)",
+        "time_frame": "Assessed at 6 months post-treatment",
+        "description": "Percentage of patients with complete or partial response to gefitinib as per RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Incidence of adverse events (AEs)",
+        "time_frame": "Monitored throughout the study duration",
+        "description": "Characterization of adverse events based on CTCAE v5.0 grading."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "180",
+    "condition": "Non-small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Gefitinib + Radiation",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive gefitinib (250 mg orally once daily) in conjunction with adjuvant radiation therapy (60 Gy in 30 fractions)."
+      },
+      {
+        "arm_group_label": "Observation",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will undergo observation without any additional treatment after surgical resection."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Gefitinib",
+      "description": "250 mg oral administration once daily accompanying radiation therapy.",
+      "arm_group_label": "Gefitinib + Radiation",
+      "other_name": "Iressa"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed diagnosis of localized non-small cell lung cancer (NSCLC) with stage IIB or IIIA post-surgical resection.\n- Positive for EGFR mutations (exon 19 deletions or L858R).\n- Age ≥ 18 years with an ECOG performance status of 0-2.\n- Adequate hematological, renal, and liver functions.\n- Informed consent provided prior to any study-specific procedures.\n\nExclusion Criteria:\n\n- Patients with previous treatment for lung cancer or allergy to gefitinib.\n- Active interstitial lung disease or CNS metastases not stabilized by treatment.\n- History of another malignancy within 5 years (except for skin cancers).\n- Pregnant or lactating women.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Eileen Wu, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "UCSF Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2021",
+    "study_first_submitted": "December 1, 2017",
+    "study_first_submitted_qc": "December 3, 2017",
+    "study_first_posted": "December 10, 2017",
+    "last_update_submitted": "November 30, 2021",
+    "last_update_posted": "December 5, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of California, San Francisco",
+      "investigator_full_name": "Eileen Wu",
+      "investigator_title": "Professor of Medicine"
+    },
+    "keyword": [
+      "EGFR Mutation",
+      "Gefitinib",
+      "Non-small Cell Lung Cancer",
+      "Adjuvant Therapy",
+      "Radiation Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Gefitinib"
+    },
+    "patient_data": {
+      "sharing_ipd": "Undecided"
+    }
+  }
+}
+```

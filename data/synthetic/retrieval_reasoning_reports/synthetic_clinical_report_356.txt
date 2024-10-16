@@ -1,0 +1,137 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02133245"
+    },
+    "id_info": {
+      "org_study_id": "FHYDRO001",
+      "nct_id": "NCT02133245"
+    },
+    "brief_title": "Hydrocortisone in the Management of Severe Anaphylaxis: A Double-Blind Trial",
+    "official_title": "A Phase III Randomized Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy of Hydrocortisone in Patients Presenting with Severe Anaphylaxis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute for Allergy and Immunology",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Institute for Allergy and Immunology",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "There is evidence to suggest that hydrocortisone may be beneficial as an adjunctive therapy in managing severe anaphylaxis. Hence, we aim to conduct a randomized double-blind, placebo-controlled trial assessing the efficacy of hydrocortisone in reducing the need for hospitalization and associated complications in patients experiencing severe anaphylaxis. We hypothesize that hydrocortisone administration will reduce the severity and duration of symptoms, thereby decreasing intensive care unit admissions and improving overall patient outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate prevalence of cases and insufficient patient recruitment due to stringent eligibility criteria.",
+    "start_date": "June 1, 2014",
+    "completion_date": "March 10, 2016",
+    "primary_completion_date": "December 31, 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of hospitalization due to severe anaphylaxis",
+      "time_frame": "Within 7 days post-treatment"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Duration of anaphylaxis symptoms",
+        "time_frame": "Within 24 hours post-treatment"
+      },
+      {
+        "measure": "Incidence of adverse effects from hydrocortisone",
+        "time_frame": "Within 30 days post-treatment"
+      },
+      {
+        "measure": "Rate of emergency rescues (e.g. epinephrine use)",
+        "time_frame": "During hospital stay"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "12",
+    "condition": "Severe Anaphylaxis",
+    "arm_group": [
+      {
+        "arm_group_label": "Hydrocortisone",
+        "arm_group_type": "Experimental",
+        "description": "Hydrocortisone 250 mg IV administered once, in addition to standard care for anaphylaxis."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo IV administered once, in addition to standard care for anaphylaxis."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Hydrocortisone",
+        "description": "Administered at a dose of 250 mg IV once during the emergency treatment of severe anaphylaxis.",
+        "arm_group_label": "Hydrocortisone"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered as an identical appearing IV solution, dosed equivalently to hydrocortisone.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18-65 years\n\n- Presenting with symptoms indicative of severe anaphylaxis (e.g., respiratory distress, significant hypotension)\n\n- Ability to provide informed consent and comply with study protocol\n\nExclusion Criteria:\n\n- History of chronic autoimmune disease or severe infectious diseases\n\n- Prior administration of corticosteroids within 24 hours of enrollment\n\n- Pregnancy or breastfeeding\n\n- Known hypersensitivity to glucocorticoids\n\n- Patients judged by the clinician to have an imminent risk of death"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Peter L. Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Institute for Allergy and Immunology"
+    },
+    "location": {
+      "facility": {
+        "name": "Institute for Allergy and Immunology Clinical Research Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2016",
+    "study_first_submitted": "April 15, 2014",
+    "study_first_submitted_qc": "April 15, 2014",
+    "study_first_posted": "April 20, 2014",
+    "last_update_submitted": "January 12, 2016",
+    "last_update_submitted_qc": "January 12, 2016",
+    "last_update_posted": "January 13, 2016",
+    "responsible_party": {
+      "name_title": "Peter L. Johnson",
+      "organization": "Institute for Allergy and Immunology"
+    },
+    "keyword": ["Anaphylaxis", "Corticosteroids", "Hydrocortisone", "Emergency Care"],
+    "condition_browse": {
+      "mesh_term": ["Anaphylaxis", "Shock, Anaphylactic"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Hydrocortisone"]
+    }
+  }
+}
+```

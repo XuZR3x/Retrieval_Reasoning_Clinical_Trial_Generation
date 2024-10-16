@@ -1,0 +1,178 @@
+```json
+{
+  "failed_clinical_trial": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 14, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03987654"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2019-03009",
+      "nct_id": "NCT03987654"
+    },
+    "brief_title": "Entinostat in Combination With Pembrolizumab in Patients With Metastatic Renal Cell Carcinoma",
+    "official_title": "A Phase II Study of Entinostat Combined With Pembrolizumab in Adults With Metastatic Renal Cell Carcinoma Who Have Failed Prior Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+      "textblock": "This phase II trial was designed to assess the efficacy and safety of entinostat when administered alongside pembrolizumab in patients suffering from metastatic renal cell carcinoma (mRCC) who had demonstrated insufficient response to prior treatments. The study sought to determine whether the combination could enhance antitumor activity beyond that achieved with pembrolizumab alone."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the overall response rate (ORR) of mRCC patients treated with the combination of entinostat and pembrolizumab, compared to historical controls receiving pembrolizumab alone.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To analyze time to progression (TTP) and overall survival (OS) data of participants after treatment with the combination therapy.\r\n\r\nII. To assess the safety profile and tolerability of the entinostat and pembrolizumab regimen.\r\n\r\nOUTLINE:\r\n\r\nThis study is a multi-site, open-label Phase II trial. Eligible participants receive entinostat orally daily for days 1 through 10 and pembrolizumab administered intravenously every three weeks starting from cycle 1 day 1.\r\n\r\nPatients were assessed for response according to RECIST v1.1 criteria at regular intervals until disease progression or unacceptable toxicity occurred. Samples were collected for correlative studies at screening, during treatment, and upon progression for analysis of immune and molecular markers."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was halted due to insufficient patient enrollment and safety concerns regarding co-administration of entinostat with pembrolizumab.",
+    "start_date": "June 2020",
+    "completion_date": "June 2022",
+    "primary_completion_date": "March 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 6 months following treatment initiation",
+      "description": "ORR was defined as the proportion of patients with confirmed complete response (CR) or partial response (PR), measured per RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Time to Progression (TTP)",
+        "time_frame": "From the start of treatment until documented disease progression, assessed up to 2 years",
+        "description": "TTP was evaluated using Kaplan-Meier analysis on data obtained from clinical assessments."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From enrollment to death due to any cause, estimated up to 3 years",
+        "description": "Overall survival was assessed through systematic follow-ups and analyzed via Kaplan-Meier survival curves."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": [
+      "Metastatic Renal Cell Carcinoma"
+    ],
+    "arm_group": {
+      "arm_group_label": "Treatment (entinostat and pembrolizumab)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive daily oral entinostat during the first ten days of each 21-day cycle, combined with intravenous pembrolizumab."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "entinostat",
+        "description": "Given orally daily for the first 10 days of each cycle",
+        "arm_group_label": "Treatment (entinostat and pembrolizumab)",
+        "other_name": [
+          "HDAC inhibitor SNDX-275",
+          "SNDX-275"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "pembrolizumab",
+        "description": "Administered intravenously every three weeks",
+        "arm_group_label": "Treatment (entinostat and pembrolizumab)",
+        "other_name": [
+          "Keytruda"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed metastatic renal cell carcinoma (mRCC).\r\n- Must have progressed following at least one prior systemic therapy.\r\n- Measurable disease per RECIST v1.1 criteria.\r\n- ECOG performance status of 0 or 1.\r\n- Adequate organ function and laboratory parameters within acceptable limits.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior therapy with histone deacetylase inhibitors or PD-1/PD-L1 antagonists.\r\n- Active autoimmune disease or history of severe allergic reactions to study medication components.\r\n- Brain metastases or a history of central nervous system disorders.\r\n- Concurrent use of immunosuppressive medications.\r\n- Serious underlying medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Taylor",
+      "role": "Principal Investigator",
+      "affiliation": "MD Anderson Cancer Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2022",
+    "study_first_submitted": "May 3, 2019",
+    "study_first_posted": "May 7, 2019",
+    "results_first_submitted": "April 18, 2022",
+    "results_first_posted": "May 11, 2022",
+    "last_update_posted": "June 10, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Renal Cell Carcinoma",
+      "Entinostat",
+      "Pembrolizumab",
+      "Combination Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Renal Cell Carcinoma",
+        "Carcinoma, Renal Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Entinostat",
+        "Pembrolizumab"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "This study opened on 06/10/2020 and registered participants through 01/31/2021. The enrollment goals were not met, leading to early termination.",
+        "group_list": {
+          "group": {
+            "title": "Combined Treatment Arm",
+            "description": "Participants received entinostat in combination with pembrolizumab."
+          }
+        }
+      },
+      "reported_events": {
+        "desc": "All participants were assessed for adverse events. The combination regimen posed significant challenges, highlighted by a rise in hematological toxicities and gastrointestinal disturbances, resulting in the need for treatment discontinuation in multiple participants.",
+        "group_list": {
+          "group": {
+            "title": "Combined Treatment Arm",
+            "description": "Combination of entinostat and pembrolizumab led to serious adverse events in participants."
+          }
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "Publication of results is restricted until the first multi-site publication by the Sponsor or Publications Committee."
+    },
+    "point_of_contact": {
+      "name_or_title": "Dr. James O'Hara",
+      "organization": "National Cancer Institute",
+      "email": "james.ohara@nci.nih.gov"
+    }
+  }
+}
+```

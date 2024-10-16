@@ -1,0 +1,467 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02978698"
+    },
+    "id_info": {
+      "org_study_id": "17385",
+      "secondary_id": ["I3Y-MC-JPZX", "2016-000456-30"],
+      "nct_id": "NCT02978698"
+    },
+    "brief_title": "A Study of Abemaciclib (LY2835219) With Docetaxel in Patients With Metastatic Triple-Negative Breast Cancer",
+    "official_title": "A Randomized Phase 3 Study of Abemaciclib in Combination With Docetaxel Versus Docetaxel Alone in Patients With Previously Treated Metastatic Triple-Negative Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study was conducted to ascertain the efficacy of abemaciclib combined with docetaxel compared to docetaxel monotherapy in participants suffering from metastatic triple-negative breast cancer that had progressed following standard chemotherapy."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 15, 2017",
+    "completion_date": "January 30, 2022",
+    "primary_completion_date": "December 1, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "Yes",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From Randomization Date to Date of Death from Any Cause (Up to 36 Months)",
+      "description": "OS was defined as the time from randomization to the date of death for any cause. For participants who were alive at the data cutoff, their OS time was censored on the last date known to be alive."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression Free Survival (PFS)",
+        "time_frame": "From Randomization to Objective Progression or Death from Any Cause (Up to 36 Months)",
+        "description": "PFS was determined as the time from randomization until the first instance of disease progression or death from any cause. Participants not known to have progressed or died were censored at their last tumor assessment date."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From Randomization to Objective Response (Up to 36 Months)",
+        "description": "ORR was assessed as the proportion of participants exhibiting a complete response (CR) or partial response (PR) as per RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Quality of Life as measured by EORTC QLQ-C30",
+        "time_frame": "Baseline to End of Treatment (Up to 36 Months)",
+        "description": "The EORTC QLQ-C30 quality of life questionnaire score will be evaluated to measure the patient's quality of life improvements."
+      },
+      {
+        "measure": "Pharmacokinetics (PK): Area Under the Concentration Time Curve (AUC) for Abemaciclib",
+        "time_frame": "Day 1 of Cycles 1, 2, and 3 post-dose",
+        "description": "Mean single-dose AUC for Abemaciclib will be recorded."
+      },
+      {
+        "measure": "Comparison of Treatment-Related Adverse Events",
+        "time_frame": "From First Dose to 30 Days Post-Last Dose",
+        "description": "The frequency and severity of treatment-emergent adverse events will be monitored."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "260",
+    "condition": "Metastatic Triple-Negative Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Abemaciclib + Docetaxel",
+        "arm_group_type": "Experimental",
+        "description": "Abemaciclib 150 milligrams (mg) administered orally twice daily in combination with docetaxel 75 mg/m² administered intravenously on day 1 of a 21-day cycle."
+      },
+      {
+        "arm_group_label": "Docetaxel Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "75 mg/m² of docetaxel administered intravenously on day 1 of a 21-day cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Abemaciclib",
+        "description": "Administered orally",
+        "arm_group_label": "Abemaciclib + Docetaxel",
+        "other_name": "LY2835219"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Administered intravenously",
+        "arm_group_label": "Docetaxel Alone"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Confirmed diagnosis of metastatic triple-negative breast cancer.\n- Progression after at least one prior standard chemotherapy regimen.\n- Measurable disease per RECIST v1.1 criteria.\n- ECOG Performance Status of 0 to 1.\n- Adequate organ function.\n\nExclusion Criteria:\n\n- Previous treatment with any CDK4/6 inhibitors.\n- Significant cardiovascular conditions or unstable CNS metastases.\n- Current participation in another clinical trial."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Comprehensive Cancer Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90024",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "link": {
+      "url": "https://trials.lillytrialguide.com/en-US/trial/11MY3TKjOeIWgmIkemWkyM",
+      "description": "A Study of Abemaciclib (LY2835219) With Docetaxel in Patients With Metastatic Triple-Negative Breast Cancer"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "November 3, 2016",
+    "study_first_submitted_qc": "November 6, 2016",
+    "study_first_posted": "November 10, 2016",
+    "results_first_submitted": "April 15, 2021",
+    "results_first_submitted_qc": "June 20, 2021",
+    "results_first_posted": "July 5, 2021",
+    "last_update_submitted": "March 12, 2024",
+    "last_update_submitted_qc": "March 15, 2024",
+    "last_update_posted": "March 16, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["metastatic breast cancer", "CDK4/6 inhibitor", "docetaxel", "abemaciclib"],
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Docetaxel"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Anonymized individual patient-level data will be provided in a secure access environment upon approval of a research proposal and a signed data-sharing agreement.",
+      "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)", "Clinical Study Report (CSR)"],
+      "ipd_time_frame": "Data are available 6 months after the primary publication and approval of the indication studied in the US and EU, whichever is later.",
+      "ipd_access_criteria": "A research proposal must be approved by an independent review panel and researchers must sign a data-sharing agreement.",
+      "ipd_url": "https://vivli.org/"
+    },
+    "provided_document_section": {
+      "provided_document": [
+        {
+          "document_type": "Study Protocol",
+          "document_has_protocol": "Yes",
+          "document_has_icf": "No",
+          "document_has_sap": "No",
+          "document_date": "August 30, 2016",
+          "document_url": "https://cdn.clinicaltrials.gov/large-docs/98/NCT02978698/Prot_001.pdf"
+        },
+        {
+          "document_type": "Statistical Analysis Plan",
+          "document_has_protocol": "No",
+          "document_has_icf": "No",
+          "document_has_sap": "Yes",
+          "document_date": "October 10, 2016",
+          "document_url": "https://cdn.clinicaltrials.gov/large-docs/98/NCT02978698/SAP_001.pdf"
+        }
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Participants were randomized between the two treatment arms with equal allocation.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Docetaxel",
+              "description": "Participants received the experimental regimen."
+            },
+            {
+              "title": "Docetaxel Alone",
+              "description": "Participants received the standard treatment."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Total Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [110, 130]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [30, 35]
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": [15, 10]
+                  }
+                },
+                {
+                  "title": "Lost to Follow-up",
+                  "participants_list": {
+                    "participants": [5, 7]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Docetaxel",
+              "description": "Participants received the experimental regimen."
+            },
+            {
+              "title": "Docetaxel Alone",
+              "description": "Participants received the standard treatment."
+            },
+            {
+              "title": "Total Population",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression Free Survival (PFS)",
+            "description": "The trial failed to meet its endpoint as no statistically significant difference in PFS was observed between the treatment arms.",
+            "time_frame": "From Randomization to Objective Progression or Death from Any Cause (Up to 36 Months)",
+            "population": "All randomized participants, failures due to lack of improved PFS were significant.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Abemaciclib + Docetaxel",
+                  "description": "Outcome measured for this treatment group."
+                },
+                {
+                  "title": "Docetaxel Alone",
+                  "description": "Outcome measured for this treatment group."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Progression Free Survival (PFS)",
+              "description": "The median PFS was 4.6 months in the experimental arm versus 5.0 months in the control arm. The hazard ratio demonstrated a lack of superiority for abemaciclib combination therapy.",
+              "units": "months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              },
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [
+                          null,
+                          null
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Not Established",
+                  "method": "Cox Proportional Hazards Model",
+                  "param_type": "Hazard Ratio (HR)",
+                  "param_value": "1.156",
+                  "p_value": "0.254"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "The ORR was 23% in the combination arm compared to 30% in the standard arm, indicating mixed results.",
+            "time_frame": null
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From Baseline to Endpoint (Up to 36 Months)",
+        "desc": "Participants experienced various adverse events, significantly impacting the trial's progress and participant retention.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Docetaxel",
+              "description": "Reports of adverse events were elevated in this group, with gastrointestinal issues being predominant."
+            },
+            {
+              "title": "Docetaxel Alone",
+              "description": "The active comparator group also reported substantial adverse events, but to a lesser extent."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Diarrhea",
+                      "counts": [35, 15]
+                    },
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [30, 20]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 20.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [null, null]
+                }
+              }
+            },
+            {
+              "title": "Blood and Lymphatic System Disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Neutropenia",
+                    "counts": [30, null]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The sponsor may review the communication of results before public dissemination, with a potential embargo period."
+      },
+      "point_of_contact": {
+        "name_or_title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "phone": "800-545-5979",
+        "email": "ClinicalTrials.gov@lilly.com"
+      }
+    }
+  }
+}
+```

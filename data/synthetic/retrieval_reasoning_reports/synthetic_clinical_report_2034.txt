@@ -1,0 +1,288 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "XYZ12345",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Efficacy of Tadalafil in Chronic prostatitis/chronic pelvic pain syndrome",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy of Tadalafil Treatment in Men with Chronic Prostatitis/Chronic Pelvic Pain Syndrome (CP/CPPS)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Urology Research Center",
+        "agency_class": "Academic"
+      },
+      "collaborator": [
+        {
+          "agency": "Pharmaceutical Innovations, Inc.",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "Urology Research Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical study aims to assess the efficacy of tadalafil in reducing symptoms associated with chronic prostatitis/chronic pelvic pain syndrome in a male population over a 12-week treatment period compared to a placebo."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2016",
+    "completion_date": "December 2019",
+    "primary_completion_date": "September 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in National Institutes of Health Chronic Prostatitis Symptom Index (NIH-CPSI) Total Score from Baseline to Week 12",
+      "time_frame": "Baseline, Week 12",
+      "description": "The NIH-CPSI total score evaluates the severity of symptoms associated with CP/CPPS, including pain, urinary issues, and quality of life."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Quality of Life Assessment (SF-36) Score",
+        "time_frame": "Baseline, Week 12",
+        "description": "The SF-36 questionnaire provides a multidimensional assessment of health-related quality of life."
+      },
+      {
+        "measure": "Incidence of Adverse Effects",
+        "time_frame": "Throughout the treatment period",
+        "description": "Serious adverse events encountered during the study will be documented and analyzed."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Chronic Prostatitis/Chronic Pelvic Pain Syndrome",
+    "arm_group": [
+      {
+        "arm_group_label": "Tadalafil 20 mg",
+        "arm_group_type": "Active Comparator",
+        "description": "Administered orally once daily for 12 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Administered orally once daily for 12 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tadalafil",
+        "description": "20 mg tablet administered orally once daily for 12 weeks.",
+        "arm_group_label": "Tadalafil 20 mg"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo tablet administered orally once daily for 12 weeks.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Male participants aged 18 to 65 years diagnosed with chronic prostatitis/chronic pelvic pain syndrome.\r\n- NIH-CPSI total score of at least 15 at baseline.\r\n- Provide written informed consent to participate in the study.\r\n\r\nExclusion Criteria:\r\n\r\n- History of prostate surgery or significant urinary tract surgery.\r\n- Current use of nitrates or other phosphodiesterase inhibitors.\r\n- Significant cardiovascular disease or other comorbid conditions which may compromise participation.\r\n- History of major depressive disorder or other psychiatric disorders impacting the ability to consent."
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Urology Research Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Urology Research Center",
+        "address": {
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30326",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2020",
+    "study_first_submitted": "April 15, 2015",
+    "study_first_submitted_qc": "April 15, 2015",
+    "study_first_posted": "May 1, 2015",
+    "last_update_submitted": "November 1, 2020",
+    "last_update_submitted_qc": "November 1, 2020",
+    "last_update_posted": "November 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "keyword": ["Chronic Prostatitis", "Chronic Pelvic Pain Syndrome", "Tadalafil", "NIH-CPSI"],
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Placebo Group",
+              "description": "Participants received a placebo tablet administered orally once daily for 12 weeks."
+            },
+            {
+              "title": "Tadalafil Group",
+              "description": "Participants received a 20 mg tadalafil tablet administered orally once daily for 12 weeks."
+            }
+          ]
+        },
+        "milestone_list": {
+          "milestone": [
+            {
+              "title": "STARTED",
+              "participants_list": {
+                "participants": [75, 75]
+              }
+            },
+            {
+              "title": "Completed",
+              "participants_list": {
+                "participants": [40, 25]
+              }
+            },
+            {
+              "title": "Withdrawn Due to Adverse Events",
+              "participants_list": {
+                "participants": [20, 10]
+              }
+            },
+            {
+              "title": "Not Completed Due to Entry Criteria Not Met",
+              "participants_list": {
+                "participants": [15, 5]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Participants randomized who received at least one dose of study medication.",
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "NIH-CPSI Baseline Score",
+              "units": "units on a scale",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Placebo",
+              "description": "Participants received placebo."
+            },
+            {
+              "title": "Tadalafil",
+              "description": "Participants received tadalafil."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [5, 3]
+                  }
+                }
+              },
+              {
+                "title": "Cardiovascular Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Myocardial infarction",
+                    "counts": [2, 1]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Severe dyspepsia",
+                    "counts": [1, 0]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [15, 10]
+                  }
+                }
+              },
+              {
+                "title": "Common Symptoms Reported",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Headaches",
+                    "counts": [6, 4]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea",
+                    "counts": [4, 1]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The PI can disclose results at their discretion."
+      },
+      "limitations_and_caveats": "The study was limited by insufficient improvement in primary outcome measures, with p-values indicating non-significance and participant drop-out due to adverse effects impacting interpretation.",
+      "point_of_contact": {
+        "name_or_title": "Clinical Research Coordinator",
+        "organization": "Urology Research Center",
+        "phone": "404-555-1212"
+      }
+    }
+  }
+}
+```

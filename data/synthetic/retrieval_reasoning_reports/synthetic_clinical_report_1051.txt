@@ -1,0 +1,222 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02938273"
+    },
+    "id_info": {
+      "org_study_id": "INSIGHT-3-2020",
+      "nct_id": "NCT02938273"
+    },
+    "brief_title": "Efficacy of Paclitaxel Combined with Bevacizumab in Patients with Metastatic Colorectal Cancer: A Phase II Study.",
+    "official_title": "A Phase II Randomized Trial Assessing Paclitaxel Combined with Bevacizumab versus FOLFIRI in Patients with Previously Treated Metastatic Colorectal Cancer.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Cancer Institute",
+    "brief_summary": {
+      "textblock": "Metastatic colorectal cancer (mCRC) remains a significant challenge in oncology. Though conventional regimens including 5-fluorouracil and irinotecan have shown efficacy, there is an unmet need for increased therapeutic strategies. This trial sought to evaluate the combination of weekly paclitaxel and bevacizumab compared to the established FOLFIRI regimen in patients who had previously failed standard treatment protocols. Preclinical studies suggested a potential synergistic effect when combining paclitaxel with anti-VEGF therapy."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2017",
+    "completion_date": "March 2021",
+    "primary_completion_date": "January 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From the start of treatment until disease progression, evaluated every 8 weeks.",
+      "description": "Difference in PFS between the two treatment arms will be compared using Kaplan-Meier methods."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From the start of treatment to death from any cause, assessed up to 24 months.",
+        "description": "The overall survival rate will be analyzed using Cox proportional hazards models."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "Response evaluated at 12 weeks post-initiation of treatment.",
+        "description": "Evaluated per Response Evaluation Criteria in Solid Tumors (RECIST) criteria."
+      },
+      {
+        "measure": "Adverse Events (AEs)",
+        "time_frame": "Throughout treatment period and 30 days post last dose.",
+        "description": "Collected using CTCAE version 5.0 for toxicity assessment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Metastatic Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Paclitaxel and Bevacizumab",
+        "arm_group_type": "Experimental",
+        "description": "Paclitaxel 80 mg/m2 IV weekly and Bevacizumab 5 mg/kg IV biweekly."
+      },
+      {
+        "arm_group_label": "FOLFIRI",
+        "arm_group_type": "Active Comparator",
+        "description": "FOLFIRI regimen comprising Irinotecan 180 mg/m2, Leucovorin 400 mg/m2, and 5-Fluorouracil 400 mg/m2 followed by 600 mg/m2 IV."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "80 mg/m2 IV once weekly.",
+        "arm_group_label": "Paclitaxel and Bevacizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bevacizumab",
+        "description": "5 mg/kg IV every 14 days.",
+        "arm_group_label": "Paclitaxel and Bevacizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "FOLFIRI",
+        "description": "Combination of Irinotecan, Leucovorin and Fluorouracil."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed metastatic colorectal cancer (mCRC).\n- Prior treatment with at least one line of chemotherapy.\n- Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n- Adequate organ function and laboratory values within specified limits.\n- Written informed consent.\n\nExclusion Criteria:\n\n- Known hypersensitivity to paclitaxel or bevacizumab.\n- Active central nervous system metastases.\n- Previous exposure to oxaliplatin combinations within the last 6 months.\n- Uncontrolled hypertension, or significant cardiovascular disease."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alexandra J. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2021",
+    "study_first_submitted": "September 15, 2016",
+    "study_first_submitted_qc": "October 2, 2016",
+    "study_first_posted": "October 4, 2016",
+    "results_first_submitted": "April 15, 2021",
+    "results_first_submitted_qc": "April 30, 2021",
+    "results_first_posted": "May 5, 2021",
+    "last_update_submitted": "July 28, 2021",
+    "last_update_submitted_qc": "July 30, 2021",
+    "last_update_posted": "August 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Colorectal Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Paclitaxel", "Bevacizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Paclitaxel and Bevacizumab",
+              "description": "Paclitaxel plus Bevacizumab arm."
+            },
+            {
+              "title": "FOLFIRI",
+              "description": "Control arm receiving FOLFIRI."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [60, 60]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [30, 20]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [30, 40]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Disease progression",
+                  "participants_list": {
+                    "participants": [15, 20]
+                  }
+                },
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [5, 5]
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": [10, 5]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Paclitaxel and Bevacizumab",
+                "description": "Results indicating adverse events associated with paclitaxel included febrile neutropenia and neuropathy leading to discontinuation."
+              },
+              {
+                "title": "FOLFIRI",
+                "description": "FOLFIRI group exhibited significant adverse events particularly gastrointestinal toxicity with higher incidence of hospitalization."
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

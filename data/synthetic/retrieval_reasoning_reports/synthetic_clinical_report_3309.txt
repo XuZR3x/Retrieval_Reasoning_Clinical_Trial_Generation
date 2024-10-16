@@ -1,0 +1,149 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00000000"
+    },
+    "id_info": {
+      "org_study_id": "Pegfilgrastim-Sarcoma-001",
+      "secondary_id": ["StudyID-1234", "EUDRACT-2022-000345"],
+      "nct_id": "NCT00000000"
+    },
+    "brief_title": "Pegfilgrastim in Combination With Doxorubicin and Ifosfamide for Soft Tissue Sarcoma",
+    "official_title": "Phase III Randomized Trial of Pegfilgrastim, Doxorubicin, and Ifosfamide Versus Doxorubicin and Ifosfamide Alone in Patients With Locally Advanced or Metastatic Soft Tissue Sarcoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Cancer Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This randomized phase III trial aims to evaluate the effectiveness of pegfilgrastim combined with doxorubicin and ifosfamide compared to doxorubicin and ifosfamide alone in patients with locally advanced or metastatic soft tissue sarcoma. Pegfilgrastim's role is primarily to mitigate infection risk by enhancing neutrophil recovery post-chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "The trial registered 450 participants who were diagnosed with locally advanced unresectable or metastatic soft tissue sarcoma. Patients were randomized into two arms: Arm A, receiving the combination of pegfilgrastim with doxorubicin and ifosfamide; and Arm B, receiving only doxorubicin and ifosfamide. The primary objective was to assess overall survival and incidence of febrile neutropenia. Secondary outcomes included response rates, treatment-related mortality, and quality of life assessments. Despite initial enthusiasm, the trial faced significant challenges. A majority of patients experienced febrile neutropenia during the early cycles, indicating inadequate protection from timing-related neutrophil nadir risk. The economic implications of pegfilgrastim use raised concerns among healthcare providers, leading to the observation that the costs did not align with the clinical benefits detailed in the evaluation studies. Moreover, patient variability impacted the overall interpretation of efficacy, exacerbating the inability to establish robust predictive biomarkers for the intervention. Although the combination regimen had an expected therapeutic premise, results did not demonstrate a significant survival advantage due to the lack of synergy between doxorubicin, ifosfamide, and pegfilgrastim. Consequently, the study was terminated prematurely due to insufficient evidence supporting the clinical utility of the added drug."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "December 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "Every 6 months for 3 years"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of Febrile Neutropenia",
+        "time_frame": "During each chemotherapy cycle"
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Every cycle of treatment"
+      },
+      {
+        "measure": "Patient Quality of Life",
+        "time_frame": "Assessed every 3 months during the study period"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "450",
+    "condition": "Soft Tissue Sarcoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A",
+        "arm_group_type": "Experimental",
+        "description": "Pegfilgrastim will be administered subcutaneously following doxorubicin and ifosfamide during each cycle."
+      },
+      {
+        "arm_group_label": "Arm B",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive doxorubicin and ifosfamide without pegfilgrastim."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "pegfilgrastim",
+        "description": "6 mg subcutaneous administration on day 5 of each chemotherapy cycle",
+        "arm_group_label": ["Arm A"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "doxorubicin",
+        "description": "Standard dose administered on day 1 of each chemotherapy cycle.",
+        "arm_group_label": ["Arm A", "Arm B"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "ifosfamide",
+        "description": "Administered on days 1 to 4 of each chemotherapy cycle.",
+        "arm_group_label": ["Arm A", "Arm B"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Patients aged 18 years and over with confirmed diagnosis of locally advanced or metastatic soft tissue sarcoma.\r\n2. ECOG performance status of 0 or 1.\r\n3. Providing informed consent for participation.\r\nExclusion Criteria:\r\n1. Prior chemotherapy for advanced sarcoma.\r\n2. Known hypersensitivity to pegfilgrastim or its components.\r\n3. Active or uncontrolled infections."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Cancer Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Cancer Research Institute",
+          "address": {
+            "city": "Metropolis",
+            "state": "State",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "verification_date": "July 2024",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_submitted_qc": "February 16, 2021",
+    "study_first_posted": "February 20, 2021",
+    "last_update_submitted": "April 22, 2024",
+    "last_update_posted": "April 30, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "XYZ Cancer Research Institute"
+    },
+    "keyword": ["Pegfilgrastim", "Doxorubicin", "Ifosfamide", "Soft Tissue Sarcoma", "Febrile Neutropenia"],
+    "condition_browse": {
+      "mesh_term": "Soft Tissue Sarcoma"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Doxorubicin", "Ifosfamide"]
+    }
+  }
+}
+```

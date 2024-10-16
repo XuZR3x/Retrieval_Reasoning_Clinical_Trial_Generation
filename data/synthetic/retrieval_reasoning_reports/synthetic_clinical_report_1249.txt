@@ -1,0 +1,367 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04785412"
+    },
+    "id_info": {
+      "org_study_id": "ENOXA-2021",
+      "nct_id": "NCT04785412"
+    },
+    "brief_title": "Enoxaparin for the Prevention of Venous Thromboembolism in Obese Patients Undergoing Bariatric Surgery",
+    "official_title": "A Phase III, Randomized, Double-Blind, Parallel Group Study to Evaluate the Efficacy and Safety of Enoxaparin in the Prevention of Venous Thromboembolism in Obese Patients Undergoing Bariatric Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Hospital",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University Hospital",
+    "brief_summary": {
+      "textblock": "This trial aims to determine the efficacy of weight-adjusted enoxaparin versus standard dosing in the prevention of venous thromboembolism in high-risk obese patients after bariatric surgery."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2022",
+    "completion_date": "May 2024",
+    "primary_completion_date": "December 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Venous Thromboembolism (VTE) within 30 Days Post-Surgery",
+      "time_frame": "30 days",
+      "description": "The primary endpoint is to measure the occurrence of confirmed VTE events in patients receiving either weight-adjusted or standard doses of enoxaparin."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Number of Major Bleeding Events",
+        "time_frame": "30 days",
+        "description": "Assessment of major bleeding incidents as defined by standardized criteria during the treatment period."
+      },
+      {
+        "measure": "Length of Hospital Stay",
+        "time_frame": "Until discharge",
+        "description": "Duration of hospital admission from day of surgery to discharge in both treatment groups."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Obesity and Venous Thromboembolism",
+    "arm_group": [
+      {
+        "arm_group_label": "Standard Dose Enoxaparin",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive enoxaparin 40 mg subcutaneously once daily for 10 days."
+      },
+      {
+        "arm_group_label": "Weight-Adjusted Enoxaparin",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive enoxaparin at 1 mg/kg subcutaneously once daily, capped at 100 mg, for 10 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Enoxaparin",
+        "description": "Administered either at a standard dose of 40 mg or a weight-adjusted regimen based on patient body weight."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Patients aged 18 years or older with a BMI of 35 kg/m² or greater scheduled for elective bariatric surgery.\r\n- Patients providing written informed consent for participation.\r\n\r\nExclusion Criteria:\r\n\r\n- History of hypersensitivity to enoxaparin or heparin.\r\n- Patients with active bleeding disorders or those requiring thrombolysis.\r\n- Individuals with renal impairment (creatinine clearance < 30 mL/min) or hepatic dysfunction.\r\n- Participation in any other clinical trial within the last 30 days."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Samuel Thompson",
+      "role": "Study Chair",
+      "affiliation": "University Hospital"
+    },
+    "location": [{
+      "facility": {
+        "name": "University Hospital Research Site",
+        "address": {
+          "city": "Metropolis",
+          "state": "New York",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "July 2024",
+    "study_first_submitted": "January 15, 2022",
+    "study_first_submitted_qc": "January 20, 2022",
+    "study_first_posted": "February 1, 2022",
+    "results_first_submitted": "June 30, 2024",
+    "results_first_submitted_qc": "July 2, 2024",
+    "results_first_posted": "August 1, 2024",
+    "last_update_submitted": "August 15, 2024",
+    "last_update_submitted_qc": "August 17, 2024",
+    "last_update_posted": "August 20, 2024",
+    "responsible_party": {
+      "name_title": "Clinical Research Team",
+      "organization": "University Hospital"
+    },
+    "condition_browse": {
+      "mesh_term": ["Obesity", "Venous Thromboembolism"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Enoxaparin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Standard Dose Enoxaparin",
+              "description": "Enoxaparin 40 mg subcutaneously once daily for 10 days."
+            },
+            {
+              "title": "Weight-Adjusted Enoxaparin",
+              "description": "Enoxaparin at 1 mg/kg subcutaneously once daily for 10 days."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [300, 300]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [150, 150]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [0, 0]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Overall",
+        "group_list": {
+          "group": [
+            {
+              "title": "Standard Dose Enoxaparin",
+              "description": "Enoxaparin 40 mg."
+            },
+            {
+              "title": "Weight-Adjusted Enoxaparin",
+              "description": "Enoxaparin 1 mg/kg."
+            },
+            {
+              "title": "Total",
+              "description": "Total across all groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [300, 300, 600]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age (Mean ± SD)",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [45.3, 44.7]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex Ratio (Male:Female)",
+              "units": "Participants",
+              "param": "Count",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [120, 130]
+                        }
+                      },
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [180, 170]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Incidence of Venous Thromboembolism (VTE)",
+              "description": "Confirmed cases of VTE occurring within 30 days post-surgery in both study arms.",
+              "time_frame": "30 days post-surgery",
+              "population": "All enrolled patients",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Standard Dose Enoxaparin",
+                    "description": "40 mg subcutaneously once daily."
+                  },
+                  {
+                    "title": "Weight-Adjusted Enoxaparin",
+                    "description": "1 mg/kg subcutaneously once daily."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Number of Participants with VTE",
+                "description": "Incidence rates of confirmed VTE.",
+                "units": "Participants",
+                "param": "Count",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [5, 2]
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [5, 2]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Primary",
+              "title": "Major Bleeding Events Count",
+              "description": "Evaluation of major bleeding incidents within 30 days.",
+              "time_frame": "30 days",
+              "population": "All enrolled patients",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Standard Dose Enoxaparin",
+                    "description": "40 mg subcutaneously once daily."
+                  },
+                  {
+                    "title": "Weight-Adjusted Enoxaparin",
+                    "description": "1 mg/kg subcutaneously once daily."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Major Bleeding Events",
+                "description": "Count of major bleeding incidents reported.",
+                "units": "Participants",
+                "param": "Count",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [3, 1]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "From treatment initiation to 30 days post-treatment",
+          "desc": "All adverse events, including hemorrhagic and thrombotic complications, were recorded.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Standard Dose Enoxaparin",
+                "description": "Monitoring for AEs throughout the study period."
+              },
+              {
+                "title": "Weight-Adjusted Enoxaparin",
+                "description": "Monitoring for AEs throughout the study period."
+              }
+            ],
+            "serious_events": {
+              "category_list": {
+                "category": {
+                  "title": "Total",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Total serious adverse events",
+                        "counts": [8, 4]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is an agreement between Principal Investigators and the Sponsor (or its agents) to discuss or publish trial results after the trial is completed."
+        },
+        "point_of_contact": {
+          "name_or_title": "Clinical Research Coordinator",
+          "organization": "University Hospital",
+          "phone": "555-123-4567",
+          "email": "research@unihospital.edu"
+        }
+      }
+    }
+  }
+}
+```

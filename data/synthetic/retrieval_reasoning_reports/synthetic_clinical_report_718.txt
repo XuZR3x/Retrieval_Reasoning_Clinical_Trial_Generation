@@ -1,0 +1,387 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03829384"
+    },
+    "id_info": {
+      "org_study_id": "15973",
+      "secondary_id": ["I4Y-JE-VFUN"],
+      "nct_id": "NCT03829384"
+    },
+    "brief_title": "A Study of Ramucirumab in Combination With First-line Treatment in Patients With Advanced Gastric Cancer",
+    "official_title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Ramucirumab in Combination With S-1 and Oxaliplatin as First-Line Treatment in Patients With Advanced Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The aim of this study is to evaluate the efficacy and safety of ramucirumab when administered in combination with standard chemotherapy in patients diagnosed with advanced gastric cancer."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2019",
+    "completion_date": "September 2022",
+    "primary_completion_date": "April 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From Randomization to Radiographic Documentation of Progression or Death Due to Any Cause (Up to 24 Months)",
+      "description": "PFS was defined as the time from randomization to the first occurrence of disease progression as per RECIST v1.1 or death from any cause. Progression was defined as a ≥20% increase in the sum diameters of target lesions with a minimum absolute increase of ≥5 mm."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From Randomization to Death Due to Any Cause (Up to 30 Months)",
+        "description": "OS was defined as the time from randomization to death from any cause. Participants alive at the last follow-up were censored at that time."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From Randomization Until Disease Progression (Up to 24 Months)",
+        "description": "The ORR was calculated as the percentage of participants achieving a best overall response of complete response (CR) or partial response (PR) according to RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "From Baseline Until End of Study (Up to 30 Months)",
+        "description": "Reported the number of participants experiencing TEAEs, which may include serious adverse events (SAEs) and those leading to discontinuation of the study drug."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "191",
+    "condition": [
+      "Advanced Gastric Cancer",
+      "Gastroesophageal Junction Cancer"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + S-1 + Oxaliplatin",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ramucirumab (8 mg/kg IV) on Day 1 and Day 8 in combination with S-1 and oxaliplatin administered according to established dosing guidelines every 21 days until progression or toxicity."
+      },
+      {
+        "arm_group_label": "Placebo + S-1 + Oxaliplatin",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo IV on Day 1 and Day 8 along with S-1 and oxaliplatin administered based on established guidelines every 21 days until progression or toxicity."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "Administered intravenously at a dose of 8 mg/kg on Day 1 and Day 8",
+        "arm_group_label": "Ramucirumab + S-1 + Oxaliplatin",
+        "other_name": [
+          "Cyramza",
+          "IMC-1121B"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered intravenously",
+        "arm_group_label": "Placebo + S-1 + Oxaliplatin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "S-1",
+        "description": "Administered orally",
+        "arm_group_label": [
+          "S-1/Oxaliplatin + Placebo",
+          "S-1/Oxaliplatin + Ramucirumab"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "Administered intravenously",
+        "arm_group_label": [
+          "S-1/Oxaliplatin + Placebo",
+          "S-1/Oxaliplatin + Ramucirumab"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  -  Histologically confirmed metastatic or unresectable adenocarcinoma of the stomach or gastroesophageal junction.\n  -  No prior systemic therapy for advanced disease.\n  -  Life expectancy of ≥12 weeks.\n  -  ECOG Performance Status of 0 or 1.\n  -  Adequate organ function and resolution of prior toxicity.\n  -  Signed informed consent.\n\nExclusion Criteria:\n  -  Prior treatment with anti-VEGF therapies.\n  -  Presence of central nervous system metastases.\n  -  Significant concurrent illnesses impacting compliance.\n  -  Uncontrolled medical conditions.\n  -  Major surgery within 28 days prior to randomization."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Eli Lilly Investigational Site",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02110",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Eli Lilly Investigational Site",
+          "address": {
+            "city": "Seattle",
+            "state": "Washington",
+            "zip": "98101",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Japan", "South Korea"]
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "January 15, 2019",
+    "study_first_submitted_qc": "January 20, 2019",
+    "study_first_posted": "February 1, 2019",
+    "results_first_submitted": "March 25, 2022",
+    "results_first_submitted_qc": "March 30, 2022",
+    "results_first_posted": "April 15, 2022",
+    "last_update_submitted": "March 20, 2023",
+    "last_update_submitted_qc": "March 25, 2023",
+    "last_update_posted": "April 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Gastric Cancer", "Ramucirumab", "S-1", "Oxaliplatin"],
+    "condition_browse": {
+      "mesh_term": ["Gastric Neoplasms", "Adenocarcinoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ramucirumab", "S-1", "Oxaliplatin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Completers defined as those participants who reached the study endpoint or completed follow-ups.",
+        "group_list": {
+          "group": [{
+              "title": "Ramucirumab + S-1 + Oxaliplatin",
+              "description": "Participants received Ramucirumab in combination with standard chemotherapy. Study treatment continued until disease progression or unacceptable toxicity occurred."
+            },
+            {
+              "title": "Placebo + S-1 + Oxaliplatin",
+              "description": "Participants received placebo in addition to standard chemotherapy with S-1 and Oxaliplatin. Study treatment continued until disease progression or unacceptable toxicity occurred."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [{
+              "title": "Overall Study",
+              "milestone_list": {
+                "milestone": [{
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Completed",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Intent-to-Treat (ITT) population; all randomized participants",
+        "group_list": {
+          "group": [{
+              "title": "Ramucirumab + S-1 + Oxaliplatin",
+              "description": "Ramucirumab was administered as per protocol."
+            },
+            {
+              "title": "Placebo + S-1 + Oxaliplatin",
+              "description": "Placebo was administered as per protocol, closely monitoring for adverse effects."
+            },
+            {
+              "title": "Total",
+              "description": "Total participants across both groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "count_list": {
+              "count": [null, null, null]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was determined using RECIST v1.1 standard for outcomes. Results shown indicate negligible differences between treatment arms.",
+            "time_frame": "Up to 24 months",
+            "population": "ITT population."
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "OS results reveal no significant difference between the experimental and control groups.",
+            "time_frame": "Up to 30 months",
+            "population": "ITT population."
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "A disappointing ORR observed, underscoring the inadequacies of ramucirumab in this specific study population.",
+            "time_frame": "Until progression observed",
+            "population": "ITT population."
+          },
+          {
+            "type": "Other",
+            "title": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+            "description": "Increased rates of TEAEs observed, particularly notable discontinuation rates due to treatment-related effects.",
+            "time_frame": "Up to 30 months",
+            "population": "Includes all participants."
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [{
+              "title": "Ramucirumab + S-1 + Oxaliplatin",
+              "description": "Notable discontinuation due to severe adverse events, including high-grade gastrointestinal effects leading to hospitalization."
+            },
+            {
+              "title": "Placebo + S-1 + Oxaliplatin",
+              "description": "Discontinuation rates comparable to the experimental arm, indicating a systemic issue with the treatment regimen applied here."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 21.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+                "title": "Total",
+                "event_list": {
+                  "event": [{
+                      "sub_title": "Total, all-cause mortality",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [{
+                      "sub_title": "Abdominal pain",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Vomiting",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Infections and infestations",
+                "event_list": {
+                  "event": [{
+                      "sub_title": "Abscess abdominal",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Sepsis",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "MedDRA 21.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [{
+                      "sub_title": "Anaemia",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Febrile neutropenia",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "Restrictions on publication and communication of results apply, as outlined in study protocols."
+      },
+      "point_of_contact": {
+        "name_or_title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "phone": "800-545-5979",
+        "email": "ClinicalTrials.gov@lilly.com"
+      }
+    }
+  }
+}
+```

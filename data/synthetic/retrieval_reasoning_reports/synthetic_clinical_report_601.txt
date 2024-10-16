@@ -1,0 +1,157 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02555544"
+    },
+    "id_info": {
+      "org_study_id": "CTKI258A2301",
+      "nct_id": "NCT02555544"
+    },
+    "brief_title": "Efficacy and Safety of Dovitinib in Combination With Standard Therapeutic Regimens in Patients With Advanced Solid Tumors",
+    "official_title": "A Phase II Multicenter, Open-Label, Randomized Study of TKI258 (Dovitinib) in Combination With Chemotherapy Agents in Patients With Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novartis Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novartis",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of dovitinib when used in conjunction with established chemotherapeutic agents in a population of patients with advanced solid tumors. Enrolled participants will be monitored for treatment response and adverse effects."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2016",
+    "completion_date": "September 30, 2020",
+    "primary_completion_date": "September 30, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From randomization up to 2 years",
+      "description": "The overall survival is defined as the time from randomization until death from any cause, assessed via clinical follow-ups."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization until progression or death, up to 2 years",
+        "description": "PFS is defined as the time from randomization to first documented disease progression or death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "At 6 months post-treatment",
+        "description": "Proportion of patients who achieve a complete or partial response as per RECIST criteria."
+      },
+      {
+        "measure": "Safety Profile Assessed via CTCAE v4.03",
+        "time_frame": "Throughout the study duration, up to 2 years",
+        "description": "Evaluation of adverse events categorized by severity according to established CTCAE criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "75",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": [
+      {
+        "arm_group_label": "Dovitinib + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive dovitinib in combination with standard chemotherapy agents. Treatment is administered orally as directed."
+      },
+      {
+        "arm_group_label": "Chemotherapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive only standard chemotherapy agents."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "dovitinib",
+        "description": "Oral administration of dovitinib, 500 mg once daily for 5 days followed by 2 days off.",
+        "arm_group_label": ["Dovitinib + Chemotherapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chemotherapy",
+        "description": "Standard chemotherapy regimen administered as per clinical guidelines.",
+        "arm_group_label": ["Dovitinib + Chemotherapy", "Chemotherapy Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically or cytologically confirmed diagnosis of advanced solid tumors.\r\n- Patients must be aged 18 years or older.\r\n- Adequate bone marrow, liver, and renal function.\r\n- Patient must provide written informed consent prior to enrollment.\r\n\r\nExclusion Criteria:\r\n- Prior systemic treatment for the current diagnosis of cancer.\r\n- Known brain metastases or uncontrolled central nervous system disease.\r\n- Concurrent severe illness or medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Study Director",
+      "role": "Novartis Pharmaceuticals",
+      "affiliation": "Novartis Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M4T 1Y4",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Canada", "United States"]
+    },
+    "verification_date": "October 2020",
+    "study_first_submitted": "February 10, 2016",
+    "study_first_posted": "March 15, 2016",
+    "results_first_submitted": "October 1, 2020",
+    "results_first_posted": "November 10, 2020",
+    "last_update_submitted": "October 1, 2020",
+    "last_update_posted": "November 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "Novartis Pharmaceuticals"
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing."
+    },
+    "point_of_contact": {
+      "name_or_title": "Study Director",
+      "organization": "Novartis Pharmaceuticals",
+      "phone": "310-555-1234"
+    }
+  }
+}
+```

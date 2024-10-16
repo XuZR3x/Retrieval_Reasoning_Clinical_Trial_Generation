@@ -1,0 +1,128 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00567234"
+    },
+    "id_info": {
+      "org_study_id": "TPT-2008-001",
+      "nct_id": "NCT00567234"
+    },
+    "brief_title": "Phase II Study of Topotecan in Combination With Bevacizumab in Patients With Recurrent Ovarian Cancer",
+    "official_title": "Phase II Trial of Topotecan Combined With Bevacizumab for Patients With Recurrent Ovarian Cancer: A Study of Efficacy and Tolerability",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "U.S. Government"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the efficacy of topotecan combined with bevacizumab in women with recurrent ovarian cancer with the aim to evaluate the response rate and overall survival while assessing the associated toxicities."
+    },
+    "detailed_description": {
+      "textblock": "Ovarian cancer has one of the highest mortality rates among gynecological malignancies, often due to the late-stage diagnosis and development of resistance to conventional therapies. Topotecan, an effective treatment option in recurrent ovarian cancer, acts as a topoisomerase I inhibitor, leading to apoptosis in neoplastic cells. Previous studies have indicated that the addition of bevacizumab, a monoclonal antibody that inhibits vascular endothelial growth factor (VEGF), could enhance antitumoral effects by promoting vascular normalization. However, the combination of topotecan and bevacizumab has not been systematically evaluated.\n\nThe aim of the study was to determine the response rates and survival rates of this combination therapy while characterizing the adverse effects profile. Despite observational data suggesting potential synergistic effects, the trial faced significant challenges throughout its duration."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2008",
+    "completion_date": "December 2011",
+    "primary_completion_date": "June 2011",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Evaluate the overall objective response rate (complete response (CR) + partial response (PR)) of the combination treatment.",
+      "time_frame": "2 years"
+    }],
+    "secondary_outcome": [{
+      "measure": "Determine overall survival (OS) and progression-free survival (PFS) rates.",
+      "time_frame": "2 years"
+    },
+    {
+      "measure": "Document adverse events and classify toxicities associated with treatment.",
+      "time_frame": "2 years"
+    }],
+    "number_of_arms": "1",
+    "enrollment": "80",
+    "condition": "Ovarian Cancer",
+    "arm_group": {
+      "arm_group_label": "1",
+      "arm_group_type": "Experimental",
+      "description": "Topotecan in combination with Bevacizumab administered according to standard protocols."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Topotecan",
+      "description": "1.5 mg/m² intravenously on days 1-5 every 21 days.",
+      "arm_group_label": "1",
+      "other_name": "Hycamtin"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Bevacizumab",
+      "description": "15 mg/kg intravenously every 21 days.",
+      "arm_group_label": "1",
+      "other_name": "Avastin"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Women aged 18 years and older with recurrent ovarian cancer, documented histologically.\n- Must have at least one measurable lesion according to RECIST criteria.\n- ECOG Performance Status of 0-2.\n- Adequate organ function verified within 14 days prior to enrollment.\n\nExclusion Criteria:\n- Prior treatment with topotecan or bevacizumab.\n- Major surgery, chemotherapy, or radiotherapy within 4 weeks prior to study commencement.\n- Uncontrolled medical conditions such as hypertension or active infections.\n- Pregnant or breastfeeding women."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Angela Martinez",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "NCI Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2012",
+    "study_first_submitted": "December 1, 2007",
+    "study_first_submitted_qc": "December 2, 2007",
+    "study_first_posted": "December 4, 2007",
+    "last_update_submitted": "May 15, 2012",
+    "last_update_submitted_qc": "May 15, 2012",
+    "last_update_posted": "May 16, 2012",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Ovarian Cancer", "Topotecan", "Bevacizumab", "Combination Therapy"],
+    "condition_browse": {
+      "mesh_term": ["Ovarian Neoplasms", "Carcinoma, Ovarian Epithelial"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Topotecan", "Bevacizumab"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

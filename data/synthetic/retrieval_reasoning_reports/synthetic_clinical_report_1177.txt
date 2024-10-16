@@ -1,0 +1,235 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01964842"
+    },
+    "id_info": {
+      "org_study_id": "ACT073",
+      "nct_id": "NCT01964842"
+    },
+    "brief_title": "A Phase II Trial of Vandetanib for Patients With Advanced Clear Cell Renal Carcinoma",
+    "official_title": "A Phase II, Open-Label Study to Assess the Efficacy and Safety of Vandetanib in Patients With Advanced Clear Cell Renal Cell Carcinoma Who Have Failed Previous Treatments",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institutes of Health",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of Vandetanib in patients with advanced clear cell renal carcinoma who have previously received standard anti-cancer treatments. The primary objective is to determine the objective response rate and tumor shrinkage in this patient population."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to insufficient patient recruitment and low enrollment numbers.",
+    "start_date": "November 2013",
+    "completion_date": "April 2016",
+    "primary_completion_date": "March 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "12 months",
+      "description": "The proportion of patients with a complete response (CR) or partial response (PR) among those who received Vandetanib, assessed by RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "12 months",
+        "description": "Duration from the start of treatment until disease progression or death from any cause."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Throughout the duration of treatment (up to 12 months)",
+        "description": "Assessment of adverse events experienced by participants, categorized based on the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE)."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "4",
+    "condition": "Advanced Clear Cell Renal Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Single-Arm Vandetanib Group",
+      "arm_group_type": "Other",
+      "description": "Patients received Vandetanib orally at a dose of 300 mg per day in 28-day cycles."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Vandetanib",
+      "description": "300 mg oral dose daily, taken for 28 days.",
+      "other_name": ["ZD6474"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Adults aged 18 years or older with a confirmed diagnosis of advanced clear cell renal carcinoma. \n- Patients must have had at least one prior systemic therapy (such as sunitinib or sorafenib) and must have either experienced disease progression or been unable to tolerate these treatments. \n- Measurable disease per RECIST criteria. \n\nExclusion Criteria: \n- Patients with known brain metastases. \n- Any unresolved serious adverse event from prior therapies. \n- Concurrent administration of other investigational drugs."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "David J. Goldfarb",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Institutes of Health Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Trial aimed to enroll up to 37 participants but terminated after only 4 participants were recruited.",
+        "group_list": {
+          "group": {
+            "title": "Participants Administered Vandetanib",
+            "description": "Patients received daily oral administration of Vandetanib for the duration of the trial."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["4 participants"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["4 participants completed check-ups"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Terminated due to insufficient recruitment"]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Vandetanib Patients",
+            "description": "Patients confirmed with advanced clear cell renal carcinoma."
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex Distribution",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "desc": "No serious adverse events recorded, but overall treatment tolerance was challenged due to prior therapy overlaps.",
+        "group_list": {
+          "group": {
+            "title": "Vandetanib Patients",
+            "description": "Patients receiving a daily oral dose of Vandetanib."
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE (version 4.0)",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Nausea",
+                      "counts": null
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigator not employed by sponsoring organization.",
+        "restrictive_agreement": "No restrictions on presenting/publishing results after completion."
+      },
+      "limitations_and_caveats": "The study was prematurely terminated due to substantial recruitment challenges which rendered the results inconclusive in assessing the efficacy of Vandetanib for the intended patient population."
+    }
+  }
+}
+```

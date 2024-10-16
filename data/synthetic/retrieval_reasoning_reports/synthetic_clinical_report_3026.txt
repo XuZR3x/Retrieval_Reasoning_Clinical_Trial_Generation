@@ -1,0 +1,126 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2022-02456",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Bevacizumab in Combination With Standard Chemotherapy in Patients With Unresectable Pancreatic Adenocarcinoma",
+    "official_title": "A Phase II Study to Evaluate the Efficacy and Safety of Bevacizumab Administered in Combination With Gemcitabine and Oxaliplatin in Patients With Unresectable Pancreatic Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to low patient enrollment and unfavorable risk-benefit ratios.",
+    "start_date": "January 15, 2021",
+    "primary_completion_date": "June 5, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Up to 1 year",
+      "description": "PFS defined as the time from initiation of the study drug until progression as per RECIST criteria or death."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 1 year",
+        "description": "Defined as the proportion of patients achieving complete or partial response per RECIST criteria."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 2 years",
+        "description": "Defined as the time from randomization to death from any cause."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Up to 2 years",
+        "description": "Assessment of adverse events related to the combination therapy based on CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "22",
+    "condition": "Unresectable Pancreatic Adenocarcinoma",
+    "arm_group": {
+      "arm_group_label": "Experimental Arm (Bevacizumab + Gemcitabine + Oxaliplatin)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive intravenous bevacizumab at a dose of 15 mg/kg on day 1, gemcitabine at 1000 mg/m² on days 1 and 8, and oxaliplatin at 100 mg/m² on day 1, every 21 days."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "arm_group_label": "Experimental Arm (Bevacizumab + Gemcitabine + Oxaliplatin)"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "arm_group_label": "Experimental Arm (Bevacizumab + Gemcitabine + Oxaliplatin)"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "arm_group_label": "Experimental Arm (Bevacizumab + Gemcitabine + Oxaliplatin)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Histologically confirmed pancreatic adenocarcinoma with unresectable disease.\n  - Measurable disease per RECIST version 1.1.\n  - ECOG performance status 0-1.\n  - Adequate organ function: liver function tests within 1.5 times the upper limit of normal.\n\nExclusion Criteria:\n\n  - Prior treatment with anti-angiogenic therapy.\n  - Serious cardiovascular illness or history of myocardial infarction within 6 months of screening.\n  - Significant coagulopathy or bleeding disorders, including gastrointestinal bleeding within 6 months prior to screening."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alexandra T. Lin, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "NIH Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "December 12, 2020",
+    "study_first_submitted_qc": "December 12, 2020",
+    "study_first_posted": "December 15, 2020",
+    "results_first_submitted": "March 3, 2023",
+    "results_first_submitted_qc": "March 3, 2023",
+    "results_first_posted": "March 10, 2023",
+    "last_update_submitted": "September 4, 2024",
+    "last_update_submitted_qc": "September 4, 2024",
+    "last_update_posted": "September 12, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "limitations_and_caveats": "The study was terminated primarily due to low enrollment rates, which were exacerbated by the growing availability of alternative treatments for unresectable pancreatic cancer. Furthermore, the adverse event profile raised substantial concerns about the risk-benefit ratio, causing hesitancy among potential trial participants."
+  }
+}
+```

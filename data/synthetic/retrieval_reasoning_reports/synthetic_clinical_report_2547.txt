@@ -1,0 +1,325 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02074960"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2013-1100",
+      "secondary_id": ["NCI-2013-1100", "A091104", "SA-WT-2013"],
+      "nct_id": "NCT02074960"
+    },
+    "brief_title": "Alisertib in Combination With Other Agents for the Treatment of Advanced Sarcoma and Solid Tumors",
+    "official_title": "A Phase II Study of Alisertib in Patients With Advanced Sarcoma and Other Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II clinical trial evaluated the efficacy and safety of alisertib administered to patients with advanced sarcoma and other solid tumors. Previous studies indicated that alisertib may inhibit tumor proliferation; however, this trial aimed to assess its performance in a specific patient demographic with advanced disease."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the overall response rate (ORR) in patients with advanced sarcoma and solid tumors treated with alisertib as per RECIST v1.1 criteria.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To assess the toxicity profile of alisertib and determine the frequency of dose-limiting toxicities (DLTs).\r\nII. To establish progression-free survival (PFS) and overall survival (OS) among trial participants.\r\n\r\nOUTLINE:\r\n\r\nPatients received alisertib orally twice daily on days 1-7 of each 21-day cycle. The study aimed for a minimum of 4 cycles unless disease progression or unacceptable toxicity occurred.\r\n\r\nAfter the completion of treatment, participants were monitored for survival outcomes for up to 24 months post-enrollment."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2014",
+    "primary_completion_date": "November 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 18 months",
+      "description": "The primary outcome assessed the proportion of patients with a confirmed complete response (CR) or partial response (PR) to treatment with alisertib."
+    }],
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Calculated from date of enrollment until disease progression or death, assessed up to 18 months.",
+      "description": "PFS evaluated the time until any objective disease progression according to RECIST v1.1."
+    }, {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Assessed up to 24 months from enrollment.",
+      "description": "Survival analysis from treatment initiation until death or last follow-up."
+    }, {
+      "measure": "Frequency and Severity of Adverse Effects",
+      "time_frame": "Throughout treatment and up to 30 days post last treatment.",
+      "description": "Collected adverse events following NCI CTCAE v4.0 guidelines."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "58",
+    "condition": [
+      "Advanced Sarcoma",
+      "Solid Tumors"
+    ],
+    "arm_group": {
+      "arm_group_label": "Treatment (alisertib)",
+      "arm_group_type": "Experimental",
+      "description": "Administration of alisertib orally twice daily on days 1-7 of each 21-day cycle."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Alisertib",
+      "description": "Administered orally",
+      "arm_group_label": "Treatment (alisertib)",
+      "other_name": ["MLN8237"]
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Patients must have histologically confirmed advanced sarcoma or solid tumors with measurable disease.\r\n- Patients must have received no more than two prior lines of systemic therapy for advanced disease.\r\n- ECOG performance status must be 0-2.\r\n\r\nExclusion Criteria:\r\n\r\n- History of another malignancy within the last 3 years, except for non-melanomatous skin cancer.\r\n- Current infection requiring intravenous antibiotics.\r\n- Uncontrolled intercurrent illness or psychiatric illness that could interfere with participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica T. Roberts",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Cleveland Clinic Taussig Cancer Institute",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Duke University Hospital",
+        "address": {
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2021",
+    "study_first_submitted": "January 10, 2014",
+    "study_first_submitted_qc": "January 10, 2014",
+    "study_first_posted": "January 15, 2014",
+    "results_first_submitted": "April 20, 2017",
+    "results_first_submitted_qc": "April 20, 2017",
+    "results_first_posted": "May 5, 2017",
+    "last_update_submitted": "July 25, 2021",
+    "last_update_submitted_qc": "July 25, 2021",
+    "last_update_posted": "August 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Sarcoma", "Neoplasms", "Advanced Tumors"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study accrued 58 patients over a span of 18 months. Initial enrollment started in March 2014 and concluded in June 2015.",
+        "group_list": {
+          "group": {
+            "title": "Alisertib Treatment",
+            "description": "Patients received alisertib (MLN8237, 50 mg, taken by mouth BID on Days 1-7 of each cycle)."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [null]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [null]
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [null]
+                }
+              }]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All enrolled patients receiving treatment.",
+          "group_list": {
+            "group": {
+              "title": "Alisertib Treatment",
+              "description": "Patients received alisertib (MLN8237) at the prescribed dosage."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [null]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [{
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Range",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [null]
+                      }
+                    }
+                  }
+                }
+              }
+            }, {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                      "title": "Female",
+                      "measurement_list": {
+                        "measurement": [null]
+                      }
+                    }, {
+                      "title": "Male",
+                      "measurement_list": {
+                        "measurement": [null]
+                      }
+                    }]
+                  }
+                }
+              }
+            }]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Overall Response Rate (ORR)",
+          "description": "The principal outcome of this trial was the proportion of patients achieving a confirmed objective response.",
+          "time_frame": "Assessed every 6 weeks",
+          "population": "All evaluable patients receiving treatment"
+        }, {
+          "type": "Secondary",
+          "title": "Progression-Free Survival (PFS)",
+          "description": "PFS calculated from enrollment to progression or death.",
+          "time_frame": "Assessed up to 18 months",
+          "population": "All enrolled patients"
+        }]
+      },
+      "reported_events": {
+        "time_frame": "All adverse events during treatment and 30 days post last treatment were monitored.",
+        "group_list": {
+          "group": {
+            "title": "Alisertib Treatment",
+            "description": "Patients received alisertib (MLN8237) as previously defined."
+          }
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [null]
+                }
+              }
+            }, {
+              "title": "Blood and lymphatic system disorders",
+              "event_list": {
+                "event": [{
+                  "sub_title": "Neutropenia",
+                  "counts": [null]
+                }, {
+                  "sub_title": "Thrombocytopenia",
+                  "counts": [null]
+                }]
+              }
+            }]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "CTCAE",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [null]
+                }
+              }
+            }, {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [{
+                  "sub_title": "Diarrhea",
+                  "counts": [null]
+                }, {
+                  "sub_title": "Vomiting",
+                  "counts": [null]
+                }]
+              }
+            }]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Investigators were not employed by the sponsor.",
+        "restrictive_agreement": "A disclosure restriction allowed the sponsor to review results prior to public dissemination."
+      },
+      "point_of_contact": {
+        "name_or_title": "Jessica T. Roberts, MD",
+        "organization": "National Cancer Institute",
+        "phone": "301-555-0123",
+        "email": "jessica.roberts@nci.nih.gov"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,312 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03021111"
+    },
+    "id_info": {
+      "org_study_id": "102MS201",
+      "nct_id": "NCT03021111"
+    },
+    "brief_title": "Efficacy of Natalizumab in Patients with Early-Rheumatoid Arthritis",
+    "official_title": "A Multicenter, Double-Blind, Placebo-Controlled Phase II Study Evaluating the Efficacy and Safety of Natalizumab in Patients with Early-Rheumatoid Arthritis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Biogen",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Biogen",
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of natalizumab in patients diagnosed with early rheumatoid arthritis who are not receiving disease-modifying antirheumatic drugs (DMARDs). The primary endpoint was the change from baseline in the ACR20 response at 24 weeks. The study was designed to determine if natalizumab could reduce inflammatory processes associated with the disease."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to insufficient efficacy, as the results did not support the pre-specified endpoints for ACR20 response. Additionally, safety concerns regarding adverse events and inconsistent biological responses led to halted development.",
+    "start_date": "March 1, 2017",
+    "primary_completion_date": "February 20, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Participants Achieving ACR20 at Week 24",
+      "time_frame": "Week 24",
+      "description": "ACR20 is defined as a 20% improvement in the number of swollen and tender joints, plus 20% improvement in at least three of the following five domains: patient global assessment, physician global assessment, assessment of pain, disability assessment, and C-reactive protein levels."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Percentage of Participants Achieving ACR50 at Week 24",
+        "time_frame": "Week 24",
+        "description": "ACR50 is defined as a 50% improvement in the number of swollen and tender joints, plus 50% improvement in at least three of the five domains."
+      },
+      {
+        "measure": "Change in the Modified Health Assessment Questionnaire (HAQ) Score",
+        "time_frame": "Baseline and Week 24",
+        "description": "HAQ measures the degree of difficulty a patient has in performing activities of daily living over the past week. Lower scores indicate better functional status."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": "Rheumatoid Arthritis",
+    "arm_group": [
+      {
+        "arm_group_label": "natalizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 300 mg of natalizumab intravenously every 4 weeks for 24 weeks."
+      },
+      {
+        "arm_group_label": "placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received matched placebo administered intravenously every 4 weeks for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "natalizumab",
+        "arm_group_label": ["natalizumab"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "arm_group_label": ["placebo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria: \r\n1. Adults aged 18-75 years with a diagnosis of rheumatoid arthritis for less than 2 years. \r\n2. Must have active disease, defined as at least 6 tender and swollen joints.\r\n3. No prior treatment with DMARDs or biologics.\r\n\r\nKey Exclusion Criteria: \r\n1. History of significant infections or malignancies within the last 5 years.\r\n2. Pregnant or nursing women.\r\n3. Current use of corticosteroids exceeding 10 mg of prednisone daily."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Trials Manager",
+      "role": "Study Director",
+      "affiliation": "Biogen"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University Health Network",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M5T 2S8",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Hospital Clinic Barcelona",
+          "address": {
+            "city": "Barcelona",
+            "zip": "08036",
+            "country": "Spain"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Canada", "Spain", "United States"]
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "November 20, 2016",
+    "study_first_submitted_qc": "December 1, 2016",
+    "study_first_posted": "December 5, 2016",
+    "results_first_submitted": "April 15, 2021",
+    "results_first_submitted_qc": "April 30, 2021",
+    "results_first_posted": "May 10, 2021",
+    "last_update_submitted": "April 30, 2021",
+    "last_update_posted": "April 30, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["RA", "Rheumatoid Arthritis", "Natalizumab", "ACR response", "Functional Independence"],
+    "condition_browse": {
+      "mesh_term": ["Arthritis", "Arthritis, Rheumatoid"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Natalizumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study was conducted across multiple sites, yielding a total enrollment of 320 participants.",
+        "pre_assignment_details": "Participants were screened and enrolled based on inclusion and exclusion criteria. The study followed a 1:1 randomization strategy.",
+        "group_list": {
+          "group": [{
+              "title": "Natalizumab",
+              "description": "Participants receiving 300 mg of natalizumab IV every 4 weeks."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants receiving matching placebo IV every 4 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["320 participants enrolled"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                  "title": "Inadequate Therapeutic Response",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "Safety Concerns",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "Withdrawal of Consent",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Intention-to-treat population that included all randomized participants.",
+        "group_list": {
+          "group": [{
+              "title": "Natalizumab",
+              "description": "Participants receiving 300 mg of natalizumab."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants receiving placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Percentage of Participants Achieving ACR20 at 24 Weeks",
+            "description": "The percentage of participants that achieved an ACR20 response at 24 weeks, indicating a clinically meaningful response.",
+            "time_frame": "Week 24",
+            "group_list": {
+              "group": [{
+                  "title": "Natalizumab",
+                  "description": "Response evaluated for 300 mg IV group."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Response evaluated for placebo group."
+                }
+              ]
+            },
+            "measure": {
+              "title": "ACR20 Response Rate",
+              "units": "percentage of participants",
+              "param": "Number"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in HAQ Score",
+            "description": "Analysis of changes in the HAQ score from baseline to 24 weeks, with lower scores indicating better functional abilities.",
+            "time_frame": "Baseline and Week 24",
+            "group_list": {
+              "group": [{
+                  "title": "Natalizumab",
+                  "description": "Participants receiving natalizumab."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Participants receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "HAQ Change from Baseline",
+              "units": "Units on a scale",
+              "param": "Mean"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

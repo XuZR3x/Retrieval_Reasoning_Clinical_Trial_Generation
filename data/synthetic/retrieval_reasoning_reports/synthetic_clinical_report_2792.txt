@@ -1,0 +1,343 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00171596"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2012-02256",
+      "nct_id": "NCT00171596"
+    },
+    "brief_title": "Efficacy of Bevacizumab and Pembrolizumab in Patients With Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck",
+    "official_title": "A Phase III Randomized Study of Bevacizumab Combined With Pembrolizumab in Patients With Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to inadequate patient accrual and observed inefficacy",
+    "start_date": "March 12, 2015",
+    "completion_date": "July 17, 2021",
+    "primary_completion_date": "April 30, 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate at 12 Months",
+      "time_frame": "At 12 months post-randomization",
+      "description": "The survival rate defined as the percentage of participants alive at 12 months from the date of randomization."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival Rate",
+        "time_frame": "Measured from randomization until disease progression or death, up to 12 months",
+        "description": "Defined as the duration of time from randomization until the first occurrence of documented disease progression or death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "Assessed at 8 weeks after the first treatment cycle",
+        "description": "Defined as the proportion of participants with a complete or partial response as per RECIST v1.1."
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Throughout the study duration (up to 12 months)",
+        "description": "The number of participants experiencing grade 3 or higher adverse events assessed by Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "40",
+    "condition": "Squamous Cell Carcinoma of the Head and Neck",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm 1: Bevacizumab + Pembrolizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive intravenous Bevacizumab at 15 mg/kg every 3 weeks in combination with Pembrolizumab at 200 mg every 3 weeks."
+      },
+      {
+        "arm_group_label": "Arm 2: Pembrolizumab + Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive Pembrolizumab at 200 mg every 3 weeks with placebo infusion every 3 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "Administered intravenously at 15 mg/kg every 3 weeks.",
+        "arm_group_label": "Arm 1: Bevacizumab + Pembrolizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Administered intravenously at 200 mg every 3 weeks.",
+        "arm_group_label": [
+          "Arm 1: Bevacizumab + Pembrolizumab",
+          "Arm 2: Pembrolizumab + Placebo"
+        ]
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Administered intravenously every 3 weeks.",
+        "arm_group_label": "Arm 2: Pembrolizumab + Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed recurrent or metastatic squamous cell carcinoma of the head and neck.\r\n- Patients must have received at least one prior regimen but not more than two.\r\n- ECOG performance status of 0, 1, or 2.\r\n- Life expectancy > 3 months.\r\n- Adequate hematological, hepatic, and renal function as determined by laboratory values.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior treatment with anti-PD-1, anti-PD-L1, or anti-VEGF directed therapies.\r\n- Active or uncontrolled infections.\r\n- Significant cardiovascular comorbidities, including a history of myocardial infarction within the past year.\r\n- Patients with known central nervous system metastases or uncontrolled seizures.\r\n- Pregnant or breast-feeding individuals."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica L. Smith",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Cancer Institute Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "February 14, 2015",
+    "study_first_posted": "March 1, 2015",
+    "last_update_submitted": "February 20, 2021",
+    "last_update_posted": "March 14, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["head and neck cancer", "bevacizumab", "pembrolizumab"],
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Squamous Cell", "Neoplasms, Glandular and Epithelial"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bevacizumab", "Pembrolizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Bevacizumab + Pembrolizumab",
+              "description": "Participants received Bevacizumab and Pembrolizumab without significant clinical response."
+            },
+            {
+              "title": "Pembrolizumab + Placebo",
+              "description": "Participants received Pembrolizumab with placebo, leading to similar outcomes."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [40]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [40]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Low Patient Accrual",
+                  "participants_list": {
+                    "participants": [40]
+                  }
+                },
+                {
+                  "title": "Withdrawal of Consent",
+                  "participants_list": {
+                    "participants": [10]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All treated participants",
+          "group_list": {
+            "group": [
+              {
+                "title": "Bevacizumab + Pembrolizumab",
+                "description": "Participants received Bevacizumab and Pembrolizumab."
+              },
+              {
+                "title": "Pembrolizumab + Placebo",
+                "description": "Participants received Pembrolizumab with placebo."
+              },
+              {
+                "title": "Total",
+                "description": "All enrolled participants"
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [40]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [62, 10]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Survival Rate at 12 Months",
+              "time_frame": "At 12 months",
+              "population": "All patients",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Bevacizumab + Pembrolizumab",
+                    "description": "Overall Survival Rate was 25%."
+                  },
+                  {
+                    "title": "Pembrolizumab + Placebo",
+                    "description": "Overall Survival Rate was 20%."
+                  }
+                ]
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival Rate",
+              "time_frame": "Within 12 months",
+              "population": "All patients",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Bevacizumab + Pembrolizumab",
+                    "description": "Median progression-free survival was 4 months."
+                  },
+                  {
+                    "title": "Pembrolizumab + Placebo",
+                    "description": "Median progression-free survival was 3 months."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "group_list": {
+            "group": {
+              "title": "Overall Safety Population",
+              "description": "Safety data collected via weekly check-ins."
+            }
+          }
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Hypertension",
+                      "counts": [12]
+                    },
+                    {
+                      "sub_title": "Thrombosis",
+                      "counts": [5]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Other Adverse Events",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Gastrointestinal perforation",
+                      "counts": [3]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

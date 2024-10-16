@@ -1,0 +1,182 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03468192"
+    },
+    "id_info": {
+      "org_study_id": "APX-CAN-20180056",
+      "nct_id": "NCT03468192"
+    },
+    "brief_title": "Evaluation of Apixaban in Preventing Venous Thromboembolism in Cancer Patients",
+    "official_title": "A Phase III, Prospective, Randomized Clinical Trial Comparing Apixaban to Standard of Care for the Prevention of Venous Thromboembolism in Patients with Active Cancer: A Multicenter Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research & Education Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "Government"
+      }
+    },
+    "source": "Oncology Research & Education Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This randomized phase III trial investigates the safety and efficacy of apixaban as a preventive treatment for venous thromboembolism (VTE) among patients diagnosed with various forms of active cancer. Experimental results suggest that a high initial loading dose followed by a tailored maintenance regimen significantly reduces the incidence of VTE without substantially elevating the risk of major bleeding."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n- Evaluate the incidence of major bleeding in patients treated with apixaban compared to standard pharmacological prophylaxis.\n\nSECONDARY OBJECTIVES:\n- Compare the rates of VTE recurrence and assess overall survival at 6 months post-treatment.\n\nOUTLINE: Patients are randomized to receive one of two treatment arms.\n\nARM I: Patients receive a high dose of apixaban (10 mg PO BID) for the first seven days, followed by a lower maintenance dose (5 mg PO BID) from days 8 to 180.\n\nARM II: Concomitant treatment with standard low-molecular-weight heparin (enoxaparin) as per current clinical guidelines for VTE management in active cancer. \n\nFollow-up assessments will occur at 3 and 6 months to monitor bleeding rates and VTE events."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 12, 2018",
+    "completion_date": "March 24, 2023",
+    "primary_completion_date": "January 15, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of major bleeding events at 6 months",
+      "time_frame": "6 months post-treatment initiation",
+      "description": "The incidence of major bleeding within each arm will be calculated using a cumulative incidence function approach, accounting for competing risks."
+    },
+    "secondary_outcome": [{
+        "measure": "Rate of VTE recurrence",
+        "time_frame": "6 months post-treatment",
+        "description": "Composite of objectively confirmed VTE events, including DVT and PE."
+      },
+      {
+        "measure": "Overall survival rate",
+        "time_frame": "6 months post-treatment",
+        "description": "Measured from the initiation of treatment to the date of death from any cause."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "400",
+    "condition": [
+      "Pulmonary Embolism",
+      "Venous Thromboembolism",
+      "Active Cancer"
+    ],
+    "arm_group": [{
+        "arm_group_label": "Apixaban",
+        "arm_group_type": "Experimental",
+        "description": "Apixaban 10 mg orally BID for 7 days, then 5 mg orally BID for 180 days."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard low-molecular-weight heparin (enoxaparin) as per usual care guidelines."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "description": "10 mg PO BID for the first 7 days then 5 mg PO BID for 180 days",
+        "arm_group_label": "Apixaban",
+        "other_name": ["Eliquis"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Enoxaparin",
+        "description": "Low-molecular-weight heparin administered subcutaneously according to standard protocols for VTE in cancer patients.",
+        "arm_group_label": "Standard Care"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 years or older with a confirmed active cancer diagnosis.\n- Documented symptomatic or asymptomatic VTE event within the last 30 days.\n- Life expectancy of at least 60 days.\n- Ability to provide informed consent.\n\nExclusion Criteria:\n- Major bleeding history or current bleeding disorder.\n- Pregnancy or breastfeeding.\n- Use of CYP3A4 inducers or other anticoagulants within the past 3 months.\n- Active participation in another investigational drug study."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [{
+        "last_name": "James Anderson, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Oncology Research & Education Institute"
+      },
+      {
+        "last_name": "Michele Nigro, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Oncology Research & Education Institute"
+      }
+    ],
+    "location": [{
+        "facility": {
+          "name": "Hospital for Special Surgery",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10021",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_posted": "March 1, 2018",
+    "last_update_posted": "August 4, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Thromboembolism", "Venous Thromboembolism", "Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Apixaban", "Low-Molecular-Weight Heparin"]
+    }
+  }
+}
+```

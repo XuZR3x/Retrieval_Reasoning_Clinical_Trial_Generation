@@ -1,0 +1,285 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03323335"
+    },
+    "id_info": {
+      "org_study_id": "17892",
+      "secondary_id": ["I4T-MC-JVHF", "2018-005012-25"],
+      "nct_id": "NCT03323335"
+    },
+    "brief_title": "Efficacy and Safety of Ramucirumab in Combination with Chemotherapy for Advanced Gastric Cancer",
+    "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Ramucirumab in Combination with Chemotherapy versus Placebo in Patients with Previously Untreated Advanced Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The objective of this study is to evaluate the safety and efficacy of ramucirumab in combination with chemotherapy in patients with advanced gastric cancer. The trial is designed to assess overall survival (OS) and progression-free survival (PFS) in participants receiving due treatment modalities."
+    },
+    "overall_status": "Completed",
+    "start_date": "November 15, 2018",
+    "completion_date": "October 10, 2022",
+    "primary_completion_date": "June 30, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From randomization until death from any cause (up to 36 months)",
+      "description": "OS was defined as the time from randomization to the date of death from any cause. Participants who were alive at the time of data cutoff were censored."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization to first observation of disease progression or death (up to 36 months)",
+        "description": "PFS was calculated from the date of randomization until the date of disease progression or death, whichever came first."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From randomization until disease progression (up to 36 months)",
+        "description": "ORR was defined as the proportion of participants with a complete or partial response per RECIST criteria."
+      },
+      {
+        "measure": "Incidence of Adverse Events (AEs)",
+        "time_frame": "From the first dose to 30 days after the last dose",
+        "description": "AEs were recorded and evaluated for severity, and the incidence of drug-related AEs was reported."
+      },
+      {
+        "measure": "Quality of Life (QOL) Assessment",
+        "time_frame": "From randomization until disease progression (up to 36 months)",
+        "description": "Quality of Life was assessed using validated instruments such as the EORTC QLQ-C30 questionnaire."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "420",
+    "condition": "Advanced Gastric Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ramucirumab at a dose of 8 mg/kg administered intravenously once every two weeks in combination with standard chemotherapy regimens."
+      },
+      {
+        "arm_group_label": "Placebo + Chemotherapy",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo in the same schedule as ramucirumab in combination with the standard chemotherapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ramucirumab",
+        "description": "Administered IV at 8 mg/kg every two weeks.",
+        "arm_group_label": ["Ramucirumab + Chemotherapy"],
+        "other_name": ["Cyramza", "LY3009806"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered IV in the same schedule as ramucirumab.",
+        "arm_group_label": ["Placebo + Chemotherapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed diagnosis of advanced gastric adenocarcinoma not amenable to curative resection.\r\n- No prior systemic therapy for advanced gastric cancer.\r\n- Measurable or evaluable disease based on RECIST criteria.\r\n- Eastern Cooperative Oncology Group performance status of 0-1.\r\n- Adequate organ function with laboratory parameters within specified limits.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with ramucirumab or specific agents targeting the VEGF pathway.\r\n- History of uncontrolled hypertension or significant cardiovascular disease.\r\n- Active central nervous system metastasis.\r\n- Prior malignancies within the last 5 years, apart from non-melanoma skin cancers."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Trial Manager",
+      "role": "Principal Investigator",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {"city": "Baltimore", "state": "Maryland", "zip": "21287", "country": "United States"}
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {"city": "Rochester", "state": "Minnesota", "zip": "55905", "country": "United States"}
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {"city": "Cleveland", "state": "Ohio", "zip": "44195", "country": "United States"}
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "Japan", "France"]
+    },
+    "verification_date": "October 2022",
+    "study_first_submitted": "September 1, 2017",
+    "study_first_posted": "September 10, 2017",
+    "last_update_posted": "July 30, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["gastric cancer", "VEGF", "angiogenesis", "ramucirumab"],
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Adenocarcinoma", "Stomach Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ramucirumab"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Anonymized individual patient data will be made available for approved research purposes.",
+      "ipd_info_type": ["Clinical Study Report", "Statistical Analysis Plan"],
+      "ipd_time_frame": "Data will be available 6 months post-publication.",
+      "ipd_access_criteria": "Research proposal approval required.",
+      "ipd_url": "https://data-sharing.org/"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 520 participants were screened, with 420 meeting eligibility criteria and randomized.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + Chemotherapy",
+              "description": "The treatment showcased high retention rates and compliance due to its well-tolerated profile."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "Monitoring for adverse events facilitated timely interventions and quality of care."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {"title": "STARTED", "participants_list": {"participants": 420}},
+                {"title": "Participants Who Received Study Drug", "participants_list": {"participants": 420}},
+                {"title": "COMPLETED", "participants_list": {"participants": 380}},
+                {"title": "NOT COMPLETED", "participants_list": {"participants": 40}}
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Participants receiving at least one dose of study drug.",
+        "group_list": {
+          "group": {
+            "title": "Ramucirumab + Chemotherapy",
+            "description": "A total of 210 participants received the active study drug."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {"count": 420}
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "class_list": {"class": {"category_list": {"category": {"measurement_list": {"measurement": [60, 75]}}}}}
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "Female", "measurement_list": {"measurement": 120}},
+                      {"title": "Male", "measurement_list": {"measurement": 300}}
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Performance Status (ECOG)",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "ECOG 0", "measurement_list": {"measurement": 200}},
+                      {"title": "ECOG 1", "measurement_list": {"measurement": 220}}
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival (OS)",
+            "description": "OS was analyzed using Kaplan-Meier methodology, and the results showed a statistically significant improvement.",
+            "time_frame": "From randomization until death (up to 36 months)",
+            "population": "All randomized participants.",
+            "group_list": {
+              "group": {
+                "title": "Ramucirumab + Chemotherapy",
+                "description": "Significant OS rates observed in this arm compared to placebo."
+              }
+            },
+            "measure": {
+              "title": "Overall Survival",
+              "description": "The median OS was 15.6 months (95% CI 13.7 to 17.9) for the ramucirumab group.",
+              "units": "months"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was evaluated with a median value yielding statistically significant results.",
+            "time_frame": "From randomization to disease progression or death.",
+            "population": "All participants.",
+            "group_list": {
+              "group": {
+                "title": "Ramucirumab + Chemotherapy",
+                "description": "Demonstrated significant PFS relative to placebo."
+              }
+            },
+            "measure": {
+              "title": "PFS",
+              "description": "The median PFS was 7.4 months (95% CI 6.5 to 8.9) for the active group.",
+              "units": "months"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

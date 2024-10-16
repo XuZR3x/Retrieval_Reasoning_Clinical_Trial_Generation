@@ -1,0 +1,149 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04175367"
+    },
+    "id_info": {
+      "org_study_id": "ACTG A5322",
+      "secondary_id": ["20244", "A5322", "ACTG A5322"],
+      "nct_id": "NCT04175367"
+    },
+    "brief_title": "Efficacy and Safety of Enfuvirtide Versus Optimized Background Therapy Alone in HIV-1 Infected Individuals",
+    "official_title": "A Randomized, Open-Label Study Evaluating the Efficacy and Safety of Enfuvirtide Combined with an Optimized Background Therapy versus Optimized Background Therapy Alone in HIV-1 Infected Patients with Pre-existing Drug Resistance",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institutes of Health (NIH)",
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to determine the efficacy and safety of enfuvirtide combined with optimized background therapy in a cohort of HIV-1 infected patients with a history of virologic failure and known resistance mutations. The study aimed to assess if adding enfuvirtide would improve treatment outcomes in a population already failing multiple antiretroviral therapies."
+    },
+    "detailed_description": {
+      "textblock": "Participants in this study were enrolled based on a history of HIV-1 infection and documented drug resistance. The trial included a randomized design, with one group receiving enfuvirtide alongside a personalized optimized background therapy tailored to their resistance profile, while the control group received only optimized background therapy.\n\nDespite expectations, the study faced significant challenges leading to an overall failure of the intervention. The primary endpoint was the percentage of participants achieving viral suppression (viral load ≤50 copies/mL) after 48 weeks of treatment. However, a notable proportion of participants developed adverse events, primarily related to injection site reactions and systemic side effects attributable to enfuvirtide, which impacted adherence and led to treatment discontinuation. Furthermore, a substantial number presented pre-existing viral resistance mutations that limited the effectiveness of enfuvirtide in achieving viral suppression.\n\nThe initial 24-week induction phase did not yield the required virologic response to justify progression to the long-term maintenance phase. Many participants failed to meet the viral load criteria (≤400 copies/mL) for randomization after the induction phase, resulting in exclusion from the treatment arms. These outcomes highlighted inadequate viral suppression rates and suboptimal adherence to therapy due to adverse events.\n\nAdditionally, the optimized background regimens prescribed to participants showed significant variability and suboptimal selection based on resistance profiles, which limited overall efficacy when combined with enfuvirtide. As a result, the anticipated synergistic effect rarely materialized, and virologic breakthrough was observed even in those persistently on the treatment. Regular follow-up assessments indicated a gradual decline in CD4 counts in both arms, complicating the participants' immune response.\n\nUltimately, due to persistent challenges related to drug resistance, treatment adherence, and inappropriate optimization of background therapy, the study was deemed a failure. Participants were followed for an extended period, but the results underscored the significant hurdles that remain in managing advanced HIV-1 infections effectively."
+    },
+    "overall_status": "Completed",
+    "completion_date": "October 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of participants achieving viral suppression (viral load ≤50 copies/mL) at Week 48",
+      "time_frame": "Week 48"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in CD4 cell counts from baseline to Week 48",
+        "time_frame": "Baseline and Week 48"
+      },
+      {
+        "measure": "Number of participants reporting adverse events related to enfuvirtide",
+        "time_frame": "Throughout the study period"
+      },
+      {
+        "measure": "Viral load changes (copies/mL) over time",
+        "time_frame": "Every 4 weeks until Week 48"
+      },
+      {
+        "measure": "Proportion of participants who adhere to the treatment regimen as assessed by pill count",
+        "time_frame": "Weeks 4, 12, 24, and 48"
+      }
+    ],
+    "enrollment": "120",
+    "condition": "HIV Infections",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Enfuvirtide",
+        "description": "90 mg enfuvirtide subcutaneously twice daily in conjunction with optimized background therapy."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Optimized Background Therapy",
+        "description": "Combination of antiretroviral agents selected based on prior resistance testing."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adults aged 18 years or older with documented HIV-1 infection.\n  - Participants with a history of treatment failure, receiving prior antiretroviral therapy with known resistance mutations.\n  - Viral load between 1,000 and 500,000 copies/mL at screening.\n  - Willingness to comply with study procedures and provide informed consent.\n\nExclusion Criteria:\n\n  - Previous use of enfuvirtide or any study drug in the past 6 months.\n  - Active opportunistic infections or serious concomitant illnesses.\n  - Pregnancy or breastfeeding.\n  - Any condition affecting adherence to treatment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John D. Smith, MD",
+        "role": "Study Chair",
+        "affiliation": "National Institute of Health (NIH)"
+      },
+      {
+        "last_name": "Rachel J. Green, MD",
+        "role": "Co-Investigator",
+        "affiliation": "University of California, San Francisco"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Emory University Hospital",
+          "address": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip": "30322",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "November 14, 2019",
+    "study_first_submitted_qc": "November 14, 2019",
+    "study_first_posted": "November 20, 2019",
+    "last_update_submitted": "July 12, 2023",
+    "last_update_submitted_qc": "July 12, 2023",
+    "last_update_posted": "August 17, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "HIV-1",
+      "Enfuvirtide",
+      "Antiretroviral Therapy",
+      "Drug Resistance",
+      "Virologic Failure"
+    ],
+    "condition_browse": {
+      "mesh_term": "HIV Infections"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Anti-Retroviral Agents", "Enfuvirtide"]
+    }
+  }
+}
+```

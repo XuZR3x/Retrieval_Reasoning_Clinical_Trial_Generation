@@ -1,0 +1,245 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "CC-4047-COL-004",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Pomalidomide in Combination with Standard Chemotherapy for Colorectal Carcinoma",
+    "official_title": "A Phase I/II Study Exploring the Efficacy and Safety of Pomalidomide Combined with Standard Chemotherapy in Patients with Metastatic Colorectal Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Celgene Corporation",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Celgene Corporation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of pomalidomide administered in combination with standard chemotherapy regimens in patients suffering from metastatic colorectal carcinoma. The study seeks to identify the maximum tolerated dose (MTD) while also monitoring adverse effects associated with the treatment."
+    },
+    "detailed_description": {
+      "textblock": "The study consisted of two phases: a dose-escalation phase and an expansion phase. During the dose-escalation phase, patients received pomalidomide orally for 14 consecutive days in conjunction with standard chemotherapy. The expansion phase was initiated upon establishing the MTD, targeting a larger patient population.\n\nParticipants were monitored for response rate and adverse events throughout the study. Safety assessments included regular laboratory tests for hematologic parameters alongside clinical evaluations of any potential toxicities. Vigilant tracking of IgM flare occurrences was emphasized, given past experiences with pomalidomide in haematological malignancies."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "High incidence of dose-limiting toxicities and poor patient retention impacting study integrity.",
+    "start_date": "March 1, 2021",
+    "completion_date": "August 30, 2023",
+    "primary_completion_date": "July 15, 2022",
+    "phase": "Phase 1/Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Maximum Tolerated Dose (MTD)",
+        "time_frame": "Cycle 1 (14 days)",
+        "description": "To determine the MTD of pomalidomide in combination with chemotherapy based on the frequency of dose-limiting toxicities.",
+        "population": "Safety population."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "6 months",
+        "description": "To evaluate the proportion of patients achieving a complete or partial response assessed using RECIST criteria."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Adverse Event Profile",
+        "time_frame": "From first dose to 30 days post last dose",
+        "description": "Assessment of treatment-emergent adverse events graded by the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE)."
+      },
+      {
+        "measure": "Overall Survival",
+        "time_frame": "From enrollment until death or end of study",
+        "description": "To determine overall survival from the time of study enrollment to death from any cause."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "45",
+    "condition": "Colorectal Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Pomalidomide + Standard Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Drug: Pomalidomide administered orally at escalating doses (1mg-5mg) for 14 consecutive days in combination with intravenous standard chemotherapy (such as FOLFOX or FOLFIRI) administered on days 1, 2, and 3 of each 21-day cycle."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Pomalidomide",
+        "description": "Administered orally on Days 1-14 of each 21-day cycle.",
+        "arm_group_label": "Pomalidomide + Standard Chemotherapy",
+        "other_name": ["Pomalyst", "CC-4047"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Administered intravenously on Days 1, 2 and 3 of each 21-day cycle.",
+        "arm_group_label": "Pomalidomide + Standard Chemotherapy",
+        "other_name": ["Platin"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etoposide",
+        "description": "Administered intravenously on Days 1, 2 and 3 of each 21-day cycle.",
+        "arm_group_label": "Pomalidomide + Standard Chemotherapy",
+        "other_name": ["VP-16"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Histologically confirmed metastatic colorectal carcinoma.\n  - Patients aged 18 years or older.\n  - New or progressive disease after at least one prior therapy.\n  - ECOG Performance Status of 0-2.\n  - Adequate organ function as defined in the protocol.\n\nExclusion Criteria:\n  - Prior treatment with pomalidomide, thalidomide, or lenalidomide.\n  - Uncontrolled comorbidities or concurrent malignancies requiring active treatment.\n  - Pregnant or lactating females.\n  - Concurrent therapy with other investigational agents."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, PhD",
+      "role": "Study Director",
+      "affiliation": "Celgene Corporation"
+    },
+    "location": [{
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "September 2023",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_submitted_qc": "February 15, 2021",
+    "study_first_posted": "March 1, 2021",
+    "results_first_submitted": "July 15, 2023",
+    "results_first_submitted_qc": "August 1, 2023",
+    "results_first_posted": "September 1, 2023",
+    "last_update_submitted": "September 15, 2023",
+    "last_update_submitted_qc": "September 15, 2023",
+    "last_update_posted": "September 30, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Celgene Corporation"
+    },
+    "keyword": ["pomalidomide", "colorectal carcinoma", "chemotherapy", "safety", "efficacy"],
+    "condition_browse": {
+      "mesh_term": "Colorectal Carcinoma"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Pomalidomide", "Cisplatin", "Etoposide"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 45 participants enrolled between March 2021 and August 2023."
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were collected from first dose until 30 days following treatment discontinuation.",
+        "group_list": {
+          "group": {
+            "title": "Pomalidomide + Standard Chemotherapy",
+            "description": "Treatment with pomalidomide in combination with cisplatin and etoposide."
+          }
+        }
+      },
+      "serious_events": {
+        "default_vocab": "CTCAE (4.03)",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [{
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Hematologic Disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Severe Neutropenia",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Infections and Infestations",
+              "event_list": {
+                "event": {
+                  "sub_title": "Pneumonia",
+                  "counts": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "0",
+        "default_vocab": "CTCAE (4.03)",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [{
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Adverse Reactions",
+              "event_list": {
+                "event": [{
+                    "sub_title": "Fatigue",
+                    "counts": null
+                  },
+                  {
+                    "sub_title": "Nausea",
+                    "counts": null
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is an agreement between Principal Investigators and the Sponsor that may restrict the Principal Investigator's rights to discuss or publish trial results after the trial is completed."
+    },
+    "limitations_and_caveats": "The trial faced considerable challenges due to the high incidence of dose-limiting toxicities, which impeded dose escalation. Participants encountered significant toxicity profiles, impacting treatment adherence and the overall execution of trial objectives. The inability to establish an effective MTD led to the trial's termination."
+  }
+}
+```

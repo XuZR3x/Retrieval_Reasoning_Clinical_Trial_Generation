@@ -1,0 +1,119 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00753121"
+    },
+    "id_info": {
+      "org_study_id": "20062080",
+      "nct_id": "NCT00753121"
+    },
+    "brief_title": "Evaluation of Panitumumab in Combination With Chemotherapy in Patients With Wild-type KRAS Metastatic Colorectal Cancer",
+    "official_title": "A Phase 3, Open-label, Randomized Study to Evaluate the Efficacy of Panitumumab in Combination With FOLFIRI vs. FOLFIRI Alone in Patients With Wild-type KRAS Metastatic Colorectal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Amgen",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Amgen",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the improvement in clinical outcomes including progression-free survival and overall survival in patients with wild-type KRAS metastatic colorectal cancer treated with panitumumab in combination with FOLFIRI compared to FOLFIRI alone."
+    },
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "overall_status": "Completed",
+    "start_date": "December 2008",
+    "completion_date": "September 2012",
+    "primary_completion_date": "May 2012",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "number_of_arms": "2",
+    "enrollment": "1340",
+    "condition": ["Metastatic Colorectal Cancer", "Colon Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "FOLFIRI with Panitumumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants received panitumumab (6 mg/kg on day 1) in combination with FOLFIRI regimen consisting of irinotecan, leucovorin, and 5-FU, administered every two weeks."
+      },
+      {
+        "arm_group_label": "FOLFIRI Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received only the FOLFIRI regimen, consisting of irinotecan, leucovorin, and 5-FU, administered every two weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Panitumumab",
+        "description": "Administered as a 6 mg/kg intravenous infusion on day 1 of each cycle alongside FOLFIRI chemotherapy.",
+        "arm_group_label": "FOLFIRI with Panitumumab",
+        "other_name": "Vectibix"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "FOLFIRI",
+        "description": "Chemotherapy regimen consisting of irinotecan, leucovorin, and 5-FU administered as per local standards.",
+        "arm_group_label": ["FOLFIRI Alone", "FOLFIRI with Panitumumab"]
+      }
+    ],
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization until disease progression or maximum follow-up of 24 months.",
+      "description": "PFS was defined as the time from randomization to the first occurrence of disease progression per modified RECIST criteria."
+    },
+    "secondary_outcomes": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization until death or maximum follow-up of 30 months.",
+        "description": "OS duration was calculated from the date of randomization to the date of death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Assessed every 8 weeks until disease progression.",
+        "description": "The ORR was assessed based on independent radiologic evaluation as a complete or partial response per RECIST criteria."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "From randomization until 30 days after the last treatment.",
+        "description": "The incidence of adverse events (AEs) and serious adverse events (SAEs) were monitored and recorded throughout the study."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed metastatic colorectal cancer with wild-type KRAS.\r\n- Prior treatment with 5-FU-based chemotherapy as first line.\r\n- Patients must have at least one measurable lesion per RECIST.\r\n\r\nExclusion Criteria:\r\n- Prior treatment with anti-EGFR agents.\r\n- Significant comorbid conditions that would impact participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "MD",
+      "role": "Study Director",
+      "affiliation": "Amgen"
+    },
+    "verification_date": "October 2022",
+    "keyword": ["Panitumumab", "Metastatic Colorectal Cancer", "FOLFIRI", "KRAS Wild-type", "Epidermal Growth Factor Receptor"],
+    "reference": {
+      "citation": "Heinemann V, von Weikersthal LF, Decker T, et al. FOLFIRI with versus without panitumumab in patients with KRAS wild-type metastatic colorectal cancer: results from the randomized, phase 3 PEAK trial. Ann Oncol. 2014;25(1):02-10. doi:10.1093/annonc/mdt523.",
+      "PMID": "24250033"
+    },
+    "reported_events": {
+      "time_frame": "Throughout the study and for 30 days following the last treatment.",
+      "desc": "Adverse event monitoring was comprehensive and included both serious and non-serious events, documented in accordance with regulatory guidelines."
+    }
+    
+  }
+}
+```

@@ -1,0 +1,349 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02517734"
+    },
+    "id_info": {
+      "org_study_id": "MVC-2022-01",
+      "nct_id": "NCT02517734"
+    },
+    "brief_title": "Efficacy and Safety of Maraviroc in Treatment-Naive HIV-1 Infected Patients",
+    "official_title": "A Phase III, Multicenter, Randomized, Open-Label Study to Evaluate the Efficacy and Safety of Maraviroc in Combination with Optimized Background Therapy in Treatment-Naive Adults with HIV-1 Infection",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Initiative",
+        "agency_class": "Non-profit"
+      },
+      "collaborator": [
+        {
+          "agency": "ViiV Healthcare",
+          "agency_class": "Industry"
+        },
+        {
+          "agency": "Pharmaceutical Institute for Clinical Research",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "Global Health Initiative",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of maraviroc in combination with optimized background therapy in treatment-naive HIV-1 infected adults. The robust design anticipates enrolling 500 participants across various geographic regions, ensuring diverse representation. The study focuses on the proportions of participants achieving viral suppression and the safety profile over a period of 48 weeks."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2023",
+    "completion_date": "June 2024",
+    "primary_completion_date": "June 2024",
+    "phase": "Phase III",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of participants with HIV RNA <200 copies/mL at week 48",
+      "time_frame": "48 weeks after randomization"
+    },
+    "secondary_outcome": {
+      "measure": "Change in CD4 T-cell counts from baseline to week 48",
+      "description": "Assessing the immunological reconstitution effect of maraviroc alongside viral suppression.",
+      "time_frame": "48 weeks from randomization"
+    },
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": "HIV-1 Infection",
+    "arm_group": [
+      {
+        "arm_group_label": "Maraviroc + Optimized Background Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive maraviroc at a dose of 300 mg orally twice daily in combination with an optimized background therapy consisting of current antiretroviral agents."
+      },
+      {
+        "arm_group_label": "Current Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will continue their current antiretroviral regimen without maraviroc while receiving standard care."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Maraviroc",
+      "description": "Maraviroc at a dosing of 300 mg orally twice daily, taken in combination with participants' optimized background therapy."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion criteria:\n- Adults (≥ 18 years) with confirmed HIV-1 infection.\n- Treatment-naive with no prior exposure to antiretroviral therapy.\n- HIV RNA ≥ 1000 copies/mL at screening.\n- Provision of informed consent."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sophia R. Ling, MD",
+      "role": "Study Chair",
+      "affiliation": "Global Health Initiative"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Global Research Institute",
+          "address": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip": "30308",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Western Clinical Trials Center",
+          "address": {
+            "city": "San Diego",
+            "state": "California",
+            "zip": "92101",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States",
+        "Brazil",
+        "South Africa",
+        "India",
+        "United Kingdom"
+      ]
+    },
+    "verification_date": "July 2024",
+    "study_first_submitted": "January 10, 2023",
+    "study_first_submitted_qc": "January 10, 2023",
+    "study_first_posted": "January 15, 2023",
+    "results_first_submitted": "August 01, 2024",
+    "results_first_submitted_qc": "September 10, 2024",
+    "results_first_posted": "September 15, 2024",
+    "last_update_submitted": "July 25, 2024",
+    "last_update_submitted_qc": "July 25, 2024",
+    "last_update_posted": "August 01, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "HIV-1",
+      "Maraviroc",
+      "Phase III Trial",
+      "Viral Suppression",
+      "Immunological Reconstitution"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "HIV Infections",
+        "Acquired Immunodeficiency Syndrome",
+        "Immunologic Deficiency Syndromes"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Maraviroc"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Screened participants: 800; Screen failures: 300; Enrolled and randomized: 500.",
+        "group_list": {
+          "group": {
+            "title": "Completed Study Treatment",
+            "description": "All enrolled participants received at least one dose of study medication."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "Lost to Follow-up",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Maraviroc + Optimized Background Therapy",
+            "description": "Participants received Maraviroc 300mg bid combined with optimized background therapy."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Proportion of Participants with HIV RNA <200 copies/mL",
+              "description": "The assessment of virologic suppression based on plasma HIV-1 RNA monitoring.",
+              "time_frame": "48 weeks after randomization",
+              "population": "All randomized participants evaluated for efficacy.",
+              "group_list": {
+                "group": {
+                  "title": "Maraviroc + Optimized Background Therapy",
+                  "description": "Proportion of participants achieving HIV RNA <200 copies/mL."
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Change in CD4 Count",
+              "description": "Monitoring the immunological responses following maraviroc administration pre and post-treatment.",
+              "time_frame": "From baseline to Week 48",
+              "population": "Participants who received maraviroc treatment.",
+              "group_list": {
+                "group": {
+                  "title": "Maraviroc + Optimized Background Therapy",
+                  "description": "Immunological evaluations on CD4 count changes."
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "group_list": {
+            "group": {
+              "title": "Maraviroc + Optimized Background Therapy",
+              "description": "The reported adverse events, including both serious and non-serious events."
+            }
+          },
+          "serious_events": {
+            "default_vocab": "MedDRA 20.1",
+            "default_assessment": "Non-systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Serious AEs",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": null
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "0",
+            "default_vocab": "MedDRA 20.1",
+            "default_assessment": "Non-systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Other AEs",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": null
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

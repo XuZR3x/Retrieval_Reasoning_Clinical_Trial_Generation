@@ -1,0 +1,322 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "DAPT-PNEUMO",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Efficacy of Daptomycin in the Treatment of Community-Acquired Pneumonia",
+    "official_title": "A Multicenter, Double-Blind, Randomized, Controlled Trial to Assess the Efficacy and Safety of Daptomycin Versus Standard Therapy in Patients with Community-Acquired Pneumonia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Drug Solutions Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Innovative Drug Solutions",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of daptomycin compared to standard antibiotic therapy in patients diagnosed with community-acquired pneumonia."
+    },
+    "detailed_description": {
+      "textblock": "The trial was designed to measure clinical success rates within 14 days post-treatment initiation, with the expectation that daptomycin could provide superior outcomes in the treatment of pneumonia caused predominantly by gram-positive organisms. Clinical evaluations, microbiological assessments, and safety evaluations were core components of the study methodology."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study terminated due to suboptimal enrollment rates and challenges in demonstrating superiority over standard of care.",
+    "start_date": "January 2015",
+    "completion_date": "July 2016",
+    "primary_completion_date": "April 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical Efficacy Rate at 14 days",
+      "time_frame": "14 days post-treatment",
+      "description": "Proportion of patients achieving clinical success defined as resolution or significant improvement of symptoms without requiring additional antibiotic therapy."
+    },
+    "secondary_outcome": {
+      "measure": "Microbiological Eradication Rate",
+      "time_frame": "14 days post-treatment",
+      "description": "Proportion of subjects with initial pathogens showing clearance from cultures at the 14-day follow-up."
+    },
+    "number_of_arms": "2",
+    "enrollment": "68",
+    "condition": "Community-Acquired Pneumonia",
+    "arm_group": [
+      {
+        "arm_group_label": "Daptomycin",
+        "arm_group_type": "Experimental",
+        "description": "Daptomycin intravenous 6 mg/kg once daily for 7-10 days."
+      },
+      {
+        "arm_group_label": "Standard Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard intravenous therapy with ceftriaxone and azithromycin for 7-10 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daptomycin",
+        "description": "6 mg/kg IV once daily",
+        "arm_group_label": "Daptomycin",
+        "other_name": "Cubicin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ceftriaxone",
+        "description": "1 g IV every 24 hours",
+        "arm_group_label": "Standard Therapy",
+        "other_name": "Rocephin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Azithromycin",
+        "description": "500 mg IV every 24 hours",
+        "arm_group_label": "Standard Therapy",
+        "other_name": "Zithromax"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Patients aged 18 years and older with a confirmed diagnosis of community-acquired pneumonia.\n2. Patients who demonstrate clinical signs and symptoms consistent with pneumonia.\n3. Informed consent provided by the patient or legally authorized representative.\n\nExclusion Criteria:\n\n1. Patients with a history of allergy to daptomycin or its components.\n2. Patients with severe renal impairment (CrCl <30 mL/min).\n3. Concurrent participation in another clinical trial evaluating an investigational drug.\n4. Patients with pneumonia suspected to be caused by multi-drug resistant organisms (MDROs).",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Jennifer C. Lawson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Drug Solutions"
+    },
+    "location": {
+      "facility": {
+        "name": "Central Hospital Clinical Trials Unit",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62701",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2016",
+    "study_first_submitted": "November 15, 2014",
+    "study_first_submitted_qc": "November 16, 2014",
+    "study_first_posted": "November 17, 2014",
+    "results_first_submitted": "May 10, 2016",
+    "results_first_submitted_qc": "May 11, 2016",
+    "results_first_posted": "May 15, 2016",
+    "last_update_submitted": "June 5, 2016",
+    "last_update_submitted_qc": "June 5, 2016",
+    "last_update_posted": "June 10, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_full_name": "Innovative Drug Solutions"
+    },
+    "keyword": ["Community-Acquired Pneumonia", "Daptomycin", "Ceftriaxone", "Azithromycin"],
+    "condition_browse": {
+      "mesh_term": ["Pneumonia", "Community-Acquired Infections"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Daptomycin", "Ceftriaxone", "Azithromycin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 68 participants were enrolled; however, recruitment challenges led to frequent dropouts and an extended enrollment period.",
+        "pre_assignment_details": "Following consent, participants were assessed for eligibility criteria. Only those meeting the criteria were randomized.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "6 mg/kg IV once daily for 7-10 days."
+            },
+            {
+              "title": "Standard Therapy",
+              "description": "Standard therapy with ceftriaxone and azithromycin."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["68 subjects randomized, only 55 completed the treatment course."]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["Result data was obtained for 55 subjects, but efficacy measures did not reach statistical significance."]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Final efficacy analysis demonstrated no significant differences between the arms."]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Daptomycin intravenous 6 mg/kg once daily."
+            },
+            {
+              "title": "Standard Therapy",
+              "description": "Standard intravenous therapy with ceftriaxone and azithromycin."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [68, 55]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "<=65 years", "measurement_list": {"measurement": [30, null]}},
+                      {"title": ">=66 years", "measurement_list": {"measurement": [38, null]}}
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "Female", "measurement_list": {"measurement": [38, null]}},
+                      {"title": "Male", "measurement_list": {"measurement": [30, null]}}
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Clinical Efficacy Rate at 14 days",
+            "description": "Proportion of patients achieving clinical success defined as resolution or significant improvement of symptoms.",
+            "time_frame": "14 days post-treatment",
+            "population": "Analyzed based on intention-to-treat.",
+            "group_list": {
+              "group": [
+                {"title": "Daptomycin", "measure": {"title": "Success Rate", "units": "Patients", "param": "Number", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Measure", "count_list": {"count": [20, null]}}}}},
+                {"title": "Standard Therapy", "measure": {"title": "Success Rate", "units": "Patients", "param": "Number", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Measure", "count_list": {"count": [35, null]}}}}}
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Microbiological Eradication Rate",
+            "description": "Proportion of subjects with initial pathogens showing clearance from cultures at the 14-day follow-up.",
+            "time_frame": "14 days post-treatment",
+            "population": "Patients with positive microbiological assessments.",
+            "group_list": {
+              "group": [
+                {"title": "Daptomycin", "measure": {"title": "Eradication Rate", "units": "Participants", "param": "Number", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Measure", "count_list": {"count": [15, null]}}}}},
+                {"title": "Standard Therapy", "measure": {"title": "Eradication Rate", "units": "Participants", "param": "Number", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Measure", "count_list": {"count": [30, null]}}}}}
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Daptomycin intravenous 6 mg/kg once daily."
+            },
+            {
+              "title": "Standard Therapy",
+              "description": "Standard intravenous therapy with ceftriaxone and azithromycin."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {"title": "Total, serious adverse events", "event_list": {"event": {"sub_title": "Total occurrences", "counts": [5, 3]}}},
+              {"title": "Nephrotoxicity", "event_list": {"event": {"sub_title": "Elevated creatinine levels", "counts": [2, 1]}}},
+              {"title": "Gastrointestinal disorders", "event_list": {"event": {"sub_title": "Severe nausea", "counts": [3, 2]}}}
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {"title": "Total, other adverse events", "event_list": {"event": {"sub_title": "Total occurrences", "counts": [17, 14]}}},
+              {"title": "Injection site reactions", "event_list": {"event": {"sub_title": "Pain and redness", "counts": [8, 5]}}},
+              {"title": "Headaches", "event_list": {"event": {"sub_title": "Mild to moderate intensity", "counts": [5, 3]}}}
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "limitations_and_caveats": "Enrollment difficulties due to stringent criteria and a narrow patient demographic resulted in inconclusive efficacy data, leading to early study termination.",
+      "point_of_contact": {
+        "name_or_title": "Dr. Jennifer C. Lawson",
+        "organization": "Innovative Drug Solutions",
+        "phone": "217-555-1234",
+        "email": "jennifer.lawson@innovativepharma.com"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,351 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02914895"
+    },
+    "id_info": {
+      "org_study_id": "D1820C00004",
+      "nct_id": "NCT02914895"
+    },
+    "brief_title": "Evaluation of Saxagliptin in Combination With Insulin Therapy for Type 2 Diabetes Management",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study to Evaluate the Efficacy and Safety of Saxagliptin in Combination With Insulin Therapy in Subjects With Type 2 Diabetes Mellitus Who Are Not Adequately Controlled With Insulin Alone",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AstraZeneca",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to assess the efficacy and safety of saxagliptin added to insulin therapy in individuals with Type 2 diabetes who have insufficient glycemic control on insulin alone."
+    },
+    "detailed_description": {
+      "textblock": "This study is designed as a multicenter, double-blind, placebo-controlled trial involving participants with inadequately controlled Type 2 Diabetes Mellitus on a stable dose of insulin for at least 3 months. The investigation evaluates the improvements in glycemic control brought about by adding saxagliptin to ongoing insulin treatment. Outcomes include reductions in HbA1c, fasting plasma glucose, and postprandial glucose levels, compared with placebo."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2015",
+    "completion_date": "June 2017",
+    "primary_completion_date": "March 2017",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in HbA1c at Week 24",
+      "time_frame": "Baseline, Week 24",
+      "description": "Mean change from baseline in HbA1c after 24 weeks of treatment, adjusted for baseline values."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in Fasting Plasma Glucose (FPG) at Week 24",
+        "time_frame": "Baseline, Week 24",
+        "description": "Adjusted mean change from baseline in FPG after 24 weeks of treatment."
+      },
+      {
+        "measure": "Proportion of Patients Achieving HbA1c <7% at Week 24",
+        "time_frame": "Week 24",
+        "description": "Percentage of participants achieving HbA1c <7%, indicating adequate glycemic control."
+      },
+      {
+        "measure": "Changes From Baseline in 2-Hour Postprandial Glucose Levels at Week 24",
+        "time_frame": "Baseline, Week 24",
+        "description": "Adjusted change in postprandial glucose measured during the Oral Glucose Tolerance Test (OGTT) at Week 24."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "880",
+    "condition": "Diabetes Mellitus, Type 2",
+    "arm_group": [
+      {
+        "arm_group_label": "Saxagliptin plus insulin",
+        "arm_group_type": "Experimental",
+        "description": "Saxagliptin 5 mg orally once daily added to insulin therapy."
+      },
+      {
+        "arm_group_label": "Placebo plus insulin",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo orally once daily added to insulin therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Saxagliptin",
+        "description": "5 mg orally once daily.",
+        "arm_group_label": "Saxagliptin plus insulin",
+        "other_name": "Onglyza"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "0 mg orally once daily.",
+        "arm_group_label": "Placebo plus insulin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin",
+        "description": "Continued therapy at stable doses based on individual patient need."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 18 to 75 years with a confirmed diagnosis of Type 2 Diabetes Mellitus.\r\n- Patients on a stable dose of insulin (≥ 0.5 U/kg/day) for at least 3 months prior to screening.\r\n- HbA1c levels between 7.0% and 10.0%.\r\n\r\nExclusion Criteria:\r\n- History of significant cardiovascular disease.\r\n- Previous hypersensitivity or adverse reaction to any DPP-4 inhibitors.\r\n- Recent use of glucocorticoids.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Thomas Henderson",
+      "role": "Study Director",
+      "affiliation": "AstraZeneca"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Clinical Research Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Northwest Diabetes Center",
+          "address": {
+            "city": "Seattle",
+            "state": "Washington",
+            "zip": "98101",
+            "country": "United States"
+          }
+        }
+      }
+      // Additional location facilities can be added here as needed.
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "verification_date": "July 2018",
+    "study_first_submitted": "September 1, 2014",
+    "study_first_submitted_qc": "September 1, 2014",
+    "study_first_posted": "September 5, 2014",
+    "results_first_submitted": "April 15, 2018",
+    "results_first_submitted_qc": "April 15, 2018",
+    "results_first_posted": "May 1, 2018",
+    "last_update_submitted": "July 12, 2018",
+    "last_update_submitted_qc": "July 12, 2018",
+    "last_update_posted": "July 15, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Diabetes Mellitus, Type 2"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Saxagliptin", "Insulin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Conducted across 40 sites with a total of 880 patients screened. 180 patients were excluded due to exclusion criteria.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Saxagliptin plus insulin",
+              "description": "Participants receiving saxagliptin with insulin therapy."
+            },
+            {
+              "title": "Placebo plus insulin",
+              "description": "Participants receiving placebo with insulin therapy."
+            }
+          ]
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Withdrawal of consent",
+              "participants_list": {
+                "participants": [35, 29]
+              }
+            },
+            {
+              "title": "Adverse Events",
+              "participants_list": {
+                "participants": [10, 7]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Saxagliptin plus insulin",
+              "description": "Participants receiving saxagliptin."
+            },
+            {
+              "title": "Placebo plus insulin",
+              "description": "Participants receiving placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [440, 440]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change From Baseline in HbA1c",
+            "description": "Mean difference in HbA1c levels at Week 24.",
+            "time_frame": "Baseline, Week 24",
+            "population": "All randomized participants who completed the study.",
+            "measure": {
+              "title": "Change From Baseline in HbA1c",
+              "description": "Difference in mean HbA1c levels from baseline to Week 24.",
+              "units": "%",
+              "param": "Mean",
+              "dispersion": "Standard Error"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change From Baseline in FPG",
+            "description": "Mean adjusted change in fasting plasma glucose levels at Week 24.",
+            "time_frame": "Baseline, Week 24",
+            "population": "All randomized participants who completed the study.",
+            "measure": {
+              "title": "Change From Baseline in FPG",
+              "description": "Mean adjusted difference in fasting plasma glucose levels.",
+              "units": "mg/dL",
+              "param": "Mean",
+              "dispersion": "Standard Error"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Percentage of Achieving HbA1c <7%",
+            "description": "Proportion of participants achieving HbA1c levels <7% at Week 24.",
+            "time_frame": "Week 24",
+            "population": "All randomized participants who completed the study.",
+            "measure": {
+              "title": "Proportion Achieving HbA1c <7%",
+              "description": "Percentage of participants with HbA1c <7% at Week 24.",
+              "units": "%",
+              "param": "Number"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Saxagliptin plus insulin"
+            },
+            {
+              "title": "Placebo plus insulin"
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 22.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [5, 3]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea",
+                    "counts": [10, 8]
+                  }
+                }
+              },
+              {
+                "title": "Nervous system disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Headache",
+                    "counts": [15, 12]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "3",
+        "default_vocab": "MedDRA 22.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [22, 17]
+                }
+              }
+            },
+            {
+              "title": "Infections and infestations",
+              "event_list": {
+                "event": {
+                  "sub_title": "Upper respiratory tract infection",
+                  "counts": [8, 4]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The sponsor has the right to review results communications prior to public release.",
+        "limitations_and_caveats": "The study was rigorously designed; however, the lack of a placebo effect adjustment in the primary analyses might understate the drugs' effectiveness in certain patients.",
+        "point_of_contact": {
+          "name_or_title": "Grace Wu, Clinical Trials Coordinator",
+          "organization": "AstraZeneca Pharmaceuticals",
+          "email": "clinicaltrials@astrazeneca.com"
+        }
+      }
+    }
+  }
+}
+```

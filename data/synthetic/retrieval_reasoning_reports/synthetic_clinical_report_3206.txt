@@ -1,0 +1,281 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02552330"
+    },
+    "id_info": {
+      "org_study_id": "EFC13745",
+      "secondary_id": ["U1111-1154-8452", "2015-003002-19"],
+      "nct_id": "NCT02552330"
+    },
+    "brief_title": "Long-term Efficacy and Safety of Sarilumab in Patients With Active Rheumatoid Arthritis: A Phase 3 Study",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study to Evaluate the Efficacy and Safety of Sarilumab in Combination With Disease Modifying Anti-Rheumatic Drugs in Patients With Active Rheumatoid Arthritis Inadequately Controlled by Non-biologic DMARDs",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Regeneron Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Sanofi",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Primary Objective: To assess the long-term efficacy and safety of sarilumab in patients with active rheumatoid arthritis (RA) who are inadequately responding to existing disease-modifying anti-rheumatic drug (DMARD) therapy. Secondary Objective: To evaluate the clinical and functional improvements defined by ACR criteria and other safety metrics over a period of 52 weeks."
+    },
+    "detailed_description": {
+      "textblock": "Total study duration was up to 56 weeks: enrollment began with a screening phase lasting up to 4 weeks, followed by a 52-week treatment phase, and concluded with a safety follow-up of 6 weeks post-treatment. Continuous monitoring of adverse events (AEs) and serious adverse events (SAEs) was rigorously enforced to ensure participant safety."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2016",
+    "completion_date": "April 2018",
+    "primary_completion_date": "January 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Care Provider)"
+    },
+    "primary_outcome": [{
+      "measure": "Percentage of Participants Achieving ACR20, ACR50, and ACR70 at Week 52",
+      "time_frame": "Week 52",
+      "description": "ACR response rates are determined by evaluating participant improvement on a composite scale that includes 68 tender joint counts (TJC) and 66 swollen joint counts (SJC), alongside participant-reported measures of pain and disease activity. Statistical analysis to establish efficacy and safety endpoints included detailed confidence interval estimations and significance thresholds."
+    }],
+    "secondary_outcome": [{
+      "measure": "Change From Baseline in Hamilton Rating Scale for Depression (HRSD) at Week 52",
+      "time_frame": "Baseline, Week 52",
+      "description": "The HRSD assesses the severity of depression via a clinician-administered scale. Changes over the treatment period were analyzed to evaluate the impact of sarilumab on the mental health status of participants."
+    }, {
+      "measure": "Change in C-Reactive Protein (CRP) Levels From Baseline at Weeks 12 and 52",
+      "time_frame": "Baseline, Weeks 12 and 52",
+      "description": "Levels of CRP will be measured as a sensitive marker of inflammation, with reductions indicating effective modulation of the inflammatory pathways through sarilumab administration. Statistical analysis will focus on mean changes and variances to demonstrate the clinical relevance."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "350",
+    "condition": "Rheumatoid Arthritis",
+    "arm_group": [{
+      "arm_group_label": "Sarilumab 150 mg + DMARDs",
+      "arm_group_type": "Experimental",
+      "description": "Patients receiving sarilumab 150 mg via subcutaneous injection q2w, combined with stable doses of traditional non-biologic DMARDs, ensuring an integrated approach for treatment of inadequately controlled RA."
+    }, {
+      "arm_group_label": "Placebo + DMARDs",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Patients receiving placebo injections, concomitant with stable doses of non-biologic DMARDs, to act as a control for measuring the efficacy of sarilumab."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Sarilumab",
+      "description": "Pharmaceutical form: solution, administered subcutaneously.",
+      "arm_group_label": ["Sarilumab 150 mg + DMARDs"]
+    }, {
+      "intervention_type": "Placebo",
+      "intervention_name": "Placebo",
+      "description": "Pharmaceutical form: solution, administered subcutaneously.",
+      "arm_group_label": ["Placebo + DMARDs"]
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Methotrexate",
+      "description": "Administered according to local clinical practice.",
+      "arm_group_label": ["Sarilumab 150 mg + DMARDs", "Placebo + DMARDs"]
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Sulfasalazine",
+      "description": "Administered according to local clinical practice.",
+      "arm_group_label": ["Sarilumab 150 mg + DMARDs", "Placebo + DMARDs"]
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Leflunomide",
+      "description": "Administered according to local clinical practice.",
+      "arm_group_label": ["Sarilumab 150 mg + DMARDs", "Placebo + DMARDs"]
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion criteria: A confirmed diagnosis of RA per ACR/EULAR classification with active symptoms for at least 6 months. Documentation of inadequate response to at least one DMARD is mandatory. Exclusion criteria: Ongoing treatment with IL-6 inhibitors or TNF-blocker agents. Pregnant or breastfeeding women are also excluded to minimize risks to the fetus."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Sciences & Operations",
+      "role": "Study Director",
+      "affiliation": "Sanofi"
+    },
+    "location": [{
+      "facility": {
+        "name": "Clinical Research Center A",
+        "address": {
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30301",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Clinical Research Center B",
+        "address": {
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75201",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Clinical Research Center C",
+        "address": {
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33101",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Clinical Research Center D",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94101",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2019",
+    "study_first_submitted": "January 15, 2016",
+    "study_first_submitted_qc": "January 16, 2016",
+    "study_first_posted": "January 20, 2016",
+    "results_first_submitted": "March 15, 2019",
+    "results_first_submitted_qc": "March 17, 2019",
+    "results_first_posted": "April 10, 2019",
+    "last_update_submitted": "June 15, 2019",
+    "last_update_submitted_qc": "June 15, 2019",
+    "last_update_posted": "June 20, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Arthritis", "Arthritis, Rheumatoid"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Sulfasalazine", "Methotrexate", "Hydroxychloroquine", "Leflunomide"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "This multi-site study was conducted across 240 centers globally, enrolling 356 participants between April 2016 and March 2018.",
+        "pre_assignment_details": "Participants were randomly allocated in a 1:1 ratio to receive either active treatment with sarilumab or placebo, with stratification by prior DMARD therapy.",
+        "group_list": {
+          "group": [{
+            "title": "Sarilumab 150 mg + DMARDs",
+            "description": "Combination therapy involving sarilumab and non-biologic DMARDs."
+          }, {
+            "title": "Placebo + DMARDs",
+            "description": "Control group receiving placebo alongside non-biologic DMARDs."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                "title": "Adverse Event",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "Lack of Efficacy",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "mITT population included all randomized participants who received at least one dose of IMP.",
+        "group_list": {
+          "group": [{
+            "title": "Sarilumab 150 mg + DMARDs",
+            "description": "Included participants with RA receiving combined therapy."
+          }, {
+            "title": "Placebo + DMARDs",
+            "description": "Included participants receiving placebo control."
+          }]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [150, 150]
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [{
+            "type": "Primary",
+            "title": "Percentage of Participants Achieving ACR Criteria",
+            "description": "Assessed the proportion of participants meeting ACR20, ACR50, and ACR70 criteria at week 52.",
+            "time_frame": "Week 52",
+            "population": "mITT population.",
+            "group_list": {
+              "group": [{
+                "title": "Sarilumab 150 mg + DMARDs",
+                "description": "Calculated success based on treatment group."
+              }, {
+                "title": "Placebo + DMARDs",
+                "description": "Calculated success based on control group."
+              }]
+            },
+            "measure": {
+              "title": "Percentage of Participants Achieving ACR Criteria",
+              "description": "Reporting the efficacy of treatment seen in ACR responses.",
+              "population": "mITT population.",
+              "units": "Percentage of participants",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [60, 30]
+                  }
+                }
+              }
+            }
+          }]
+        }
+      }
+    }
+  }
+}
+```

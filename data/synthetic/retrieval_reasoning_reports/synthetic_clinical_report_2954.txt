@@ -1,0 +1,294 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02539056"
+    },
+    "id_info": {
+      "org_study_id": "C12345",
+      "nct_id": "NCT02539056"
+    },
+    "brief_title": "Assessing the Efficacy of Olaparib in Combination with Conventional Chemotherapies for Patients with Advanced Ewing's Sarcoma",
+    "official_title": "A Phase III, Randomized, Double-blind, Placebo-controlled Study Evaluating the Efficacy and Safety of Olaparib in Combination with Conventional Chemotherapy Agents for Patients with Advanced Ewing's Sarcoma Who Have Experienced Prior Treatment Failure",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Foundation",
+        "agency_class": "Non-Profit"
+      }
+    },
+    "source": "Oncology Research Foundation",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy of olaparib when co-administered with conventional chemotherapy agents in patients suffering from advanced Ewing's sarcoma after prior treatment failure."
+    },
+    "detailed_description": {
+      "textblock": "Patients were screened and enrolled based on strict eligibility criteria, including histologically confirmed advanced Ewing's sarcoma. This study aimed to determine the overall response rate using RECIST criteria, progression-free survival, and overall survival, with secondary endpoints including safety profiles and quality of life measurements. Notably, patients were randomized to receive olaparib or placebo in addition to the selected chemotherapeutic regimen, with a thorough analysis planned to assess both efficacy and safety outcomes over a period of 24 months."
+    },
+    "overall_status": "Completed",
+    "start_date": "November 2, 2015",
+    "completion_date": "April 30, 2024",
+    "primary_completion_date": "December 12, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Evaluated after 24 weeks of initial treatment",
+      "description": "Measured as the proportion of patients achieving complete response (CR) or partial response (PR)."
+    },
+    "secondary_outcomes": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Evaluated continuously until disease progression or death, assessed up to 24 months",
+        "description": "Time from randomization until disease progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Time from randomization until death from any cause, followed for a maximum of 24 months",
+        "description": "Comparison of survival rates between olaparib and placebo groups."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Evaluated continuously throughout the study until 30 days post last dose",
+        "description": "Documented via standard CTCAE v5.0 criteria reporting adverse events (AEs) and serious adverse events (SAEs)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "130",
+    "condition": "Ewing's Sarcoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Olaparib + Conventional Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Olaparib administered at a dose of 300mg orally twice daily in conjunction with conventional chemotherapy."
+      },
+      {
+        "arm_group_label": "Placebo + Conventional Chemotherapy",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo administered orally twice daily in conjunction with conventional chemotherapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Olaparib",
+        "description": "300mg oral administration twice daily throughout the chemotherapy regimen.",
+        "arm_group_label": "Olaparib + Conventional Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching oral placebo administered twice daily throughout the chemotherapy regimen.",
+        "arm_group_label": "Placebo + Conventional Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Conventional Chemotherapy",
+        "description": "Standard chemotherapy regimen customized to provide optimal treatment for Ewing's sarcoma.",
+        "arm_group_label": ["Olaparib + Conventional Chemotherapy", "Placebo + Conventional Chemotherapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Histologically confirmed Ewing's sarcoma with evidence of advanced disease.\r\n  - Age ≥ 16 years.\r\n  - Prior chemotherapy treatment with documented progression of disease.\r\n  - Ability to provide informed consent and comply with study protocol.\r\n  \r\nExclusion Criteria:\r\n  - Previous exposure to PARP inhibitors, including olaparib.\r\n  - Key organ dysfunction or significant comorbidities impacting safety.\r\n  - Known hypersensitivity to olaparib or any excipient.\r\n  - Active infection or significant concurrent medical disorders."
+      },
+      "gender": "All",
+      "minimum_age": "16 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Dr. Lisa Johnson",
+        "role": "Principal Investigator",
+        "affiliation": "Oncology Research Foundation"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Comprehensive Cancer Center",
+          "address": {
+            "city": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Ewing's Sarcoma Research Institute",
+          "address": {
+            "city": "Los Angeles",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2024",
+    "study_first_submitted": "October 1, 2015",
+    "study_first_submitted_qc": "October 5, 2015",
+    "study_first_posted": "October 10, 2015",
+    "results_first_submitted": "April 20, 2023",
+    "results_first_submitted_qc": "June 5, 2023",
+    "results_first_posted": "July 15, 2023",
+    "last_update_submitted": "August 5, 2024",
+    "last_update_submitted_qc": "August 10, 2024",
+    "last_update_posted": "August 15, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Olaparib",
+      "Advanced Ewing's Sarcoma",
+      "PARP Inhibitor",
+      "Combination Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Ewing Sarcoma"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Olaparib", "Conventional Chemotherapy"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study commenced with a total of 130 participants. Enrolment began in November 2015 and was completed in October 2022, with participants randomized into olaparib and placebo groups.",
+        "pre_assignment_details": "Eligibility screening was performed to confirm histological diagnosis and prior treatment history related to Ewing's sarcoma.",
+        "group_list": {
+          "group": [{
+            "title": "Olaparib + Conventional Chemotherapy",
+            "description": "Participants receiving olaparib alongside chemotherapy."
+          }, {
+            "title": "Placebo + Conventional Chemotherapy",
+            "description": "Control group receiving placebo alongside chemotherapy."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                "title": "Consent Withdrawal",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "Loss to Follow-up",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "Adverse Event Leading to Treatment Discontinuation",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+            "title": "Olaparib + Conventional Chemotherapy",
+            "description": "Comprising participants initially treated with olaparib and chemotherapy."
+          }, {
+            "title": "Placebo + Conventional Chemotherapy",
+            "description": "Comprising participants treated with placebo alongside chemotherapy."
+          }]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [130, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+            "title": "Age",
+            "units": "Years",
+            "param": "Mean",
+            "dispersion": "Standard Deviation",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": {
+                    "measurement_list": {
+                      "measurement": [28, 5.6]
+                    }
+                  }
+                }
+              }
+            }
+          }]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Overall Response Rate (ORR)",
+          "description": "Despite olaparib treatment, there was no significant difference in ORR compared to control group. The response rate achieved in the trial was noted at 10% versus 12.5% for placebo.",
+          "time_frame": "Evaluated after 24 weeks of initial treatment",
+          "population": "Full analysis population"
+        }, {
+          "type": "Secondary",
+          "title": "Progression-Free Survival (PFS)",
+          "description": "The median PFS was reported at 4 months with a confidence interval of [3-6 months], which did not statistically differ from the placebo group’s PFS, also at 4 months. The majority of participants in both arms experienced rapid disease progression.",
+          "time_frame": "Monitored throughout the study duration"
+        }]
+      },
+      "reported_events": {
+        "desc": "The occurrence of adverse events was more pronounced among patients treated with olaparib, leading to statistically significant treatment interruptions.",
+        "group_list": {
+          "group": [{
+            "title": "Olaparib + Conventional Chemotherapy",
+            "description": "Significant adverse events noted included hematologic toxicities and gastrointestinal symptoms leading to 35% treatment discontinuation."
+          }, {
+            "title": "Placebo + Conventional Chemotherapy",
+            "description": "Adverse events were comparatively lower, leading to a 15% discontinuation rate."
+          }]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "AstraZeneca retains the right to review publication materials and impose a temporary delay for proprietary rights."
+      }
+    }
+  }
+}
+```

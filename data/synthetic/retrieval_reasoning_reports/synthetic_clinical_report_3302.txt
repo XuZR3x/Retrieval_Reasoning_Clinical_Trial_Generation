@@ -1,0 +1,165 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03045678"
+    },
+    "id_info": {
+      "org_study_id": "BCA-2020-PAC",
+      "nct_id": "NCT03045678"
+    },
+    "brief_title": "Neoadjuvant Therapy with Paclitaxel in HER2-Negative Locally Advanced Breast Cancer",
+    "official_title": "Phase II Study of Neoadjuvant Paclitaxel with Doxorubicin and Cyclophosphamide in Patients with Locally Advanced HER2-Negative Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "University Hospital",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Cancer Institute",
+    "brief_summary": {
+      "textblock": "This phase II randomized clinical trial aimed to evaluate the efficacy of neoadjuvant chemotherapy regimens including paclitaxel in patients with locally advanced HER2-negative breast cancer. Despite expectation, results showed that paclitaxel did not demonstrate a significant improvement in the pathologic complete response rates compared to contemporary therapies."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "August 2022",
+    "primary_completion_date": "January 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of Pathologic Complete Response (ypCR) in Breast and Axillary Lymph Nodes",
+      "time_frame": "At the time of surgery, approximately 24 weeks post-treatment initiation.",
+      "description": "Proportion of patients with no histological evidence of invasive cancer in breast and axillary nodes."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Clinical Complete Response Rate (ycCR)",
+        "time_frame": "Evaluated at the end of neoadjuvant therapy, approximately 24 weeks.",
+        "description": "Percentage of participants achieving clinical complete response according to physical examination."
+      },
+      {
+        "measure": "Incidence of Serious Adverse Events",
+        "time_frame": "Assessed throughout the treatment phase and for 30 days post-treatment.",
+        "description": "Frequency of significant adverse events related to paclitaxel, doxorubicin, and cyclophosphamide."
+      },
+      {
+        "measure": "Recurrence-Free Survival at 24 Months",
+        "time_frame": "Monitored over a 24-month follow-up period post-randomization.",
+        "description": "Percentage of patients who remain free of local, regional, or distant recurrence."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": "Locally Advanced HER2-Negative Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Paclitaxel-AC Arm",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive paclitaxel (80 mg/m² weekly for 12 weeks) followed by doxorubicin and cyclophosphamide every 21 days."
+      },
+      {
+        "arm_group_label": "Eribulin-AC Arm",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive eribulin (1.4 mg/m² on days 1 and 8 every 21 days for four cycles) followed by doxorubicin and cyclophosphamide."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "80 mg/m² administered intravenously weekly for a total of 12 doses."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Doxorubicin",
+        "description": "60 mg/m² administered intravenously every 21 days for 4 cycles."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "600 mg/m² administered intravenously every 21 days for 4 cycles."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Eribulin",
+        "description": "1.4 mg/m² administered intravenously on days 1 and 8 every 21 days for 4 cycles."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Female patients aged 18 years or older with a confirmed diagnosis of locally advanced HER2-negative breast cancer.\r\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\r\n- Adequate hematological function, with an absolute neutrophil count ≥ 1,500/mm³ and platelets ≥ 100,000/mm³.\r\n- Patients must have a life expectancy of at least 10 years, excluding their breast cancer diagnosis.\r\n- Signed informed consent form.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with anthracyclines, taxanes, or eribulin.\r\n- Evidence of distant metastatic disease.\r\n- Other serious concurrent medical or psychiatric conditions that may interfere with treatment or study conduct."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah J. Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute",
+        "address": {
+          "city": "Bethesda",
+          "state": "MD",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2022",
+    "study_first_submitted": "January 15, 2017",
+    "study_first_submitted_qc": "January 20, 2017",
+    "study_first_posted": "February 1, 2017",
+    "last_update_submitted": "August 5, 2022",
+    "last_update_submitted_qc": "August 5, 2022",
+    "last_update_posted": "August 10, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "outcome_list": {
+      "outcome": [
+        {
+          "type": "Primary",
+          "title": "Pathologic Complete Response Rate",
+          "description": "The percentage of patients achieving ypCR in breast and axillary nodes.",
+          "time_frame": "Assessed at the time of surgery.",
+          "analysis": {
+            "type": "Comparison",
+            "details": "Paclitaxel showed no superior efficacy over eribulin with a ypCR of 20% versus 40% respectively."
+          }
+        },
+        {
+          "type": "Secondary",
+          "title": "Incidence of Serious Adverse Events",
+          "description": "Total number of patients experiencing at least one defined serious adverse event during the treatment phase.",
+          "time_frame": "Throughout treatment and up to 30 days post-treatment.",
+          "analysis": {
+            "type": "Reported Outcomes",
+            "details": "The treatment with paclitaxel presented a higher incidence of grade 3/4 toxicities, particularly neutropenia and gastrointestinal events, leading to 12 protocol violations."
+          }
+        }
+      ]
+    }
+  }
+}
+```

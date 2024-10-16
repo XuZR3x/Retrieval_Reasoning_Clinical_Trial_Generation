@@ -1,0 +1,262 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 18, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02541856"
+    },
+    "id_info": {
+      "org_study_id": "ECL-DO8-202",
+      "nct_id": "NCT02541856"
+    },
+    "brief_title": "Eculizumab in Prevention of Graft Failure in Kidney Transplant Recipients: A Multicenter Randomized Study",
+    "official_title": "A Phase 2, Randomized, Open-Label, Multicenter Study to Evaluate the Efficacy of Eculizumab in Preventing Graft Failure in Kidney Transplant Recipients at High Risk for Antibody-Mediated Rejection",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Transplant Solutions, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Innovative Transplant Solutions, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of eculizumab in reducing the incidence of graft failure due to antibody-mediated rejection (AMR) in kidney transplant recipients characterized as high-risk due to pre-existing donor-specific antibodies (DSA)."
+    },
+    "detailed_description": {
+      "textblock": "The trial involved 240 kidney transplant recipients who were assessed for their sensitization status prior to activation in the study. Patients were divided into an experimental group receiving eculizumab and a control group receiving standard immunosuppressive therapy alone. The primary endpoint was the rate of biopsy-proven acute AMR and graft survival at 12 months. Given the known complexities of AMR, eligibility also required a thorough characterization of patients' antibody profiles, which were monitored throughout the study. The eculizumab treatment modality consisted of an initial intravenous dose of 1200 mg followed by 900 mg on days 1, 7, and 14 post-transplant."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Failed to demonstrate statistical significance for the primary endpoint; high variability in responses noted.",
+    "start_date": "June 4, 2015",
+    "completion_date": "March 30, 2019",
+    "primary_completion_date": "November 15, 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Acute Antibody-Mediated Rejection (AMR)",
+      "time_frame": "12 months post-transplantation",
+      "description": "The primary efficacy endpoint was the percentage of participants with biopsy-proven AMR as per Banff criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Graft Survival Rates",
+        "time_frame": "Up to 12 months post-transplant",
+        "description": "Graft survival was defined as the simultaneous absence of any rejection episodes and graft loss, evaluated at predetermined time points."
+      },
+      {
+        "measure": "Donor Specific Antibody Levels (DSA)",
+        "time_frame": "Weeks 1, 4, 8, and 12 post-transplant",
+        "description": "Assessment of mean channel fluorescence shifts from baseline values indicative of DSA levels in patients."
+      },
+      {
+        "measure": "Incidence of Severe Adverse Events",
+        "time_frame": "Up to 12 months post-transplant",
+        "description": "Monitoring of serious adverse events, including any involuntary reactions observed during the trial."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "240",
+    "condition": "Kidney Transplantation",
+    "arm_group": [
+      {
+        "arm_group_label": "Eculizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving eculizumab starting with an infusion of 1200 mg immediately pre-transplant, followed by 900 mg at specified intervals."
+      },
+      {
+        "arm_group_label": "Control",
+        "arm_group_type": "No Intervention",
+        "description": "Participants receiving standard immunosuppressive therapy without eculizumab treatment."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Eculizumab",
+      "description": "Eculizumab, a monoclonal antibody that inhibits complement component 5 (C5).",
+      "other_name": "Soliris"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Recipient of a first kidney transplant from a deceased donor.\r\n2. Ages 18 and older.\r\n3. Pre-existing donor-specific antibodies categorized as high-risk (with a confirmed DSA of 200 MFI or greater).\r\n\r\nExclusion Criteria:\r\n\r\n1. Previous kidney transplant.\r\n2. Active infection or significant co-morbid conditions.\r\n3. Participation in any other investigational drug trial within the past 30 days."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Johnathan A. Rivers, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Transplant Solutions, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "address": {
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19107",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60603",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90012",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2019",
+    "study_first_submitted": "May 29, 2015",
+    "study_first_posted": "June 3, 2015",
+    "results_first_submitted": "May 30, 2019",
+    "results_first_posted": "June 1, 2019",
+    "last_update_submitted": "June 14, 2019",
+    "last_update_posted": "June 19, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party": "Innovative Transplant Solutions, Inc."
+    },
+    "keyword": ["Eculizumab", "Complement inhibition", "Kidney transplant", "Antibody-mediated rejection"],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study recruited from various transplant centers across the USA. A total of 314 patients were screened and randomized.",
+        "pre_assignment_details": "Out of the 314 patients randomized, 240 underwent surgery and received either eculizumab or standard care."
+      },
+      "baseline": {
+        "population": "Enhanced monitoring of both treatment groups was instituted to track clinical efficacy accurately.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Eculizumab",
+              "description": "Patients in the experimental group received eculizumab as per the dosing protocol."
+            },
+            {
+              "title": "Control",
+              "description": "Patients in the control group received only standard immunosuppressive therapy."
+            }
+          ]
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Donor Specific Antibody Levels",
+              "units": "Mean Fluorescence Intensity",
+              "param": "MFI Shift",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": "Change in DSA levels from pre-op baseline to 12 months"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Incidence of AMR",
+              "units": "Percentage of Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Count",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [null, null]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Incidence of AMR",
+          "description": "The primary outcome showed no statistically significant difference in the number of patients experiencing AMR between the eculizumab and control groups.",
+          "time_frame": "12 months",
+          "group_list": {
+            "group": [
+              {
+                "title": "Eculizumab",
+                "description": "Results indicate no benefit in AMR prevention."
+              },
+              {
+                "title": "Control",
+                "description": "Higher rates of AMR than anticipated post-transplant."
+              }
+            ]
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Throughout the study period",
+        "group_list": {
+          "group": [
+            {
+              "title": "Eculizumab",
+              "description": "Serious adverse events including infections and renal complications."
+            },
+            {
+              "title": "Control",
+              "description": "Higher occurrences of complications post-transplant without any difference in graft survival over the study period."
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+    },
+    "limitations_and_caveats": "The open-label design of the study led to potential reporting biases. Furthermore, the heterogeneity in sensitization status may have significantly confounded treatment effects, resulting in the observed lack of statistical power. The concurrent use of standard immunosuppressive therapies further complicated the attribution of observed outcomes to eculizumab alone."
+  }
+}
+```

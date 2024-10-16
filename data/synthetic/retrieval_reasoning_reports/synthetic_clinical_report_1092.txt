@@ -1,0 +1,260 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02567890"
+    },
+    "id_info": {
+      "org_study_id": "TMZ-2023-001",
+      "nct_id": "NCT02567890"
+    },
+    "brief_title": "Temozolomide in Combination With AG-881 in Treating Patients With Recurrent Glioblastoma",
+    "official_title": "A Phase II Clinical Trial Evaluating the Efficacy of Combination Therapy With Temozolomide and AG-881 in Recurrent Glioblastoma Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Oncology Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "ABC Pharmaceutical Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Oncology Research Institute",
+    "brief_summary": {
+      "textblock": "This study observes the efficacy of temozolomide in combination with AG-881, a selective inhibitor of the isoform of IDH1, in patients diagnosed with recurrent glioblastoma. Previous studies suggest that temozolomide's ability to induce DNA damage synergizes with AG-881's role in metabolic reprogramming of tumor cells, potentially enhancing therapeutic outcomes."
+    },
+    "detailed_description": {
+      "textblock": "This randomized phase II trial employs a Simon's two-stage design to evaluate the combination of temozolomide (TMZ) and AG-881 in patients with recurrent glioblastoma multiforme. The initial phase involves enrolling 30 patients, with a requirement of at least 4 responders to progress to the second stage, which will include an additional 20 patients for a total of 50.\n\n**PRIMARY OBJECTIVES:**\nI. To assess the overall response rate according to RECIST criteria and progression-free survival after treatment with the combination therapy. \n\n**SECONDARY OBJECTIVES:**\nI. To evaluate the impact of MGMT methylation status on therapeutic efficacy.\nII. To determine survival outcomes and toxicity profile in this patient population.\n\n**STUDY DESIGN:** Participants received temozolomide 150 mg/m² administered orally for the first 5 days of a 28-day cycle in conjunction with AG-881 50 mg administered orally twice daily on days 1-14."
+    },
+    "overall_status": "Active, not recruiting",
+    "start_date": "January 15, 2023",
+    "completion_date": "December 2025",
+    "primary_completion_date": "October 2025",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "Evaluated at 2 months post commencement of treatment",
+      "description": "The overall response rate (ORR) is defined as the percentage of patients demonstrating a complete or partial response according to RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Evaluated every 8 weeks for 1 year",
+        "description": "PFS is defined as the time from initial treatment until disease progression or death due to any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Evaluated at 1 year and at the end of the study",
+        "description": "Overall survival is defined as the time from initiation of treatment until death from any cause."
+      },
+      {
+        "measure": "Toxicity Assessment",
+        "time_frame": "Throughout the study duration and follow-up phase",
+        "description": "Toxicity will be assessed according to the Common Terminology Criteria for Adverse Events (CTCAE) v5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "Recurrent Glioblastoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Temozolomide and AG-881",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive temozolomide (150 mg/m² PO for days 1-5) and AG-881 (50 mg orally BID for days 1-14 of 28-day cycles)."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Temozolomide",
+        "description": "Administered at a dosage of 150 mg/m² on days 1-5 of each 28-day cycle.",
+        "arm_group_label": "Temozolomide and AG-881",
+        "other_name": "Temodar"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "AG-881",
+        "description": "Administered at a dosage of 50 mg orally twice daily (BID) on days 1-14 of each 28-day cycle.",
+        "arm_group_label": "Temozolomide and AG-881",
+        "other_name": "IDH1 Inhibitor"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically or cytologically confirmed recurrent glioblastoma with measurable disease.\n- Prior treatment must include at least one regimen of temozolomide.\n- Patients should be ≥ 18 years of age and have an ECOG performance status of 0-2.\n\nExclusion Criteria:\n- History of severe hypersensitivity to temozolomide or AG-881.\n- Active infection or severe comorbidity that could limit treatment.\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Oncology Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Oncology Research Institute",
+          "address": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62701",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "ABC Healthcare",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2024",
+    "study_first_submitted": "July 5, 2022",
+    "study_first_submitted_qc": "July 5, 2022",
+    "study_first_posted": "July 15, 2022",
+    "results_first_submitted": "June 20, 2025",
+    "results_first_submitted_qc": "June 21, 2025",
+    "results_first_posted": "June 25, 2025",
+    "last_update_submitted": "February 10, 2024",
+    "last_update_submitted_qc": "February 10, 2024",
+    "last_update_posted": "February 15, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "XYZ Oncology Research Institute",
+      "investigator_full_name": "John Smith",
+      "investigator_title": "Director of Neuro-Oncology"
+    },
+    "keyword": [
+      "temozolomide",
+      "AG-881",
+      "recurrent glioblastoma"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Glioblastoma",
+        "Malignant Glioma"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Temozolomide",
+        "AG-881"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Temozolomide and AG-881",
+            "description": "Patients received temozolomide and AG-881 as per study protocol."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Temozolomide and AG-881",
+              "description": "Patients received temozolomide in combination with AG-881."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [null]
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Age",
+                  "units": "years",
+                  "param": "Median",
+                  "dispersion": "Standard Deviation"
+                },
+                {
+                  "title": "Sex: Female, Male",
+                  "units": "Participants",
+                  "param": "Count of Participants"
+                }
+              ]
+            }
+          },
+          "outcome_list": {
+            "outcome": [
+              {
+                "type": "Primary",
+                "title": "Overall Response Rate",
+                "time_frame": "2 months post-treatment initiation",
+                "population": "All enrolled participants",
+                "measure": {
+                  "title": "Overall Response Rate",
+                  "description": "Percentage of participants demonstrating objective response."
+                }
+              }
+            ]
+          },
+          "reported_events": {
+            "time_frame": "Every 28 days during treatment phase",
+            "group_list": {
+              "group": {
+                "title": "Temozolomide and AG-881",
+                "description": "Analysis of adverse event frequency and severity."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

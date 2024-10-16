@@ -1,0 +1,371 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+        },
+        "id_info": {
+            "org_study_id": "A1234567",
+            "nct_id": "NCT01234567"
+        },
+        "brief_title": "Phase 2 Study of Sunitinib in Combination with Capecitabine in Patients with Advanced Metastatic Breast Cancer",
+        "official_title": "An Open-Label, Multicenter, Phase 2 Study Evaluating the Efficacy and Safety of Sunitinib in Combination with Capecitabine in Patients with Advanced Metastatic Breast Cancer Who Have Failed Prior Therapies",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Global Oncology Research Group",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Pfizer",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Global Oncology Research Group",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study enrolled 100 patients with advanced metastatic breast cancer who had previously failed at least two lines of therapy. Patients received sunitinib at a dose of 50 mg daily combined with capecitabine at a standard dosing regimen for two 21-day cycles, after which efficacy was evaluated. The trial was halted after an interim analysis revealed that the combined regimen did not achieve the predefined objective response rate of 15%."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Interim analysis indicated lack of efficacy and high rates of discontinuation due to adverse events.",
+        "start_date": "January 2011",
+        "completion_date": "June 2013",
+        "primary_completion_date": "March 2013",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Objective Response Rate (ORR)",
+            "time_frame": "At 12 weeks post initiation of therapy",
+            "description": "The percentage of patients achieving a confirmed complete response (CR) or partial response (PR) as assessed by RECIST criteria."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "From the start of study treatment until disease progression or death, assessed every 8 weeks.",
+                "description": "Time from the start of treatment to the first documentation of disease progression or death from any cause."
+            },
+            {
+                "measure": "Overall Survival (OS)",
+                "time_frame": "From the start of study treatment until the date of death, assessed every 3 months.",
+                "description": "Time from the date of first dose of study medication to the date of death due to any cause."
+            },
+            {
+                "measure": "Incidence of Adverse Events",
+                "time_frame": "During the treatment period up to 12 months.",
+                "description": "Number of patients experiencing adverse events categorized by severity and relatedness to study drug."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "100",
+        "condition": "Breast Neoplasms",
+        "arm_group": {
+            "arm_group_label": "Experimental Arm",
+            "arm_group_type": "Experimental",
+            "description": "Patients received sunitinib (50 mg daily) in combination with capecitabine (dosed per standard regimen) for two 21-day cycles followed by evaluation for efficacy."
+        },
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Sunitinib",
+                "description": "50 mg/day taken orally for the duration of two treatment cycles, in combination with capecitabine.",
+                "arm_group_label": "Experimental Arm"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Capecitabine",
+                "description": "Dosed at 1000 mg/m^2 orally twice daily for 14 days in a 21-day cycle.",
+                "arm_group_label": "Experimental Arm"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n- Female patients aged 18 years or older with histologically confirmed breast cancer.\n- Advanced metastatic disease with progression after at least two lines of previous therapy.\n- Measurable disease per RECIST criteria.\n- No significant cardiovascular disease or history of bleeding diatheses.\n\nExclusion Criteria:\n- Radiographic evidence of central nervous system metastases.\n- Concurrent participation in another clinical trial.\n- History of severe allergic reactions to tyrosine kinase inhibitors or capecitabine.\n- Co-morbid conditions that could interfere with treatment evaluation."
+            },
+            "gender": "Female",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Jessica Smith, M.D.",
+            "role": "Principal Investigator",
+            "affiliation": "Global Oncology Research Group"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Global Oncology Research Center",
+                    "address": {
+                        "city": "Los Angeles",
+                        "state": "California",
+                        "zip": "90001",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "verification_date": "August 2024",
+        "study_first_submitted": "November 15, 2010",
+        "study_first_posted": "December 1, 2010",
+        "last_update_posted": "June 1, 2014",
+        "responsible_party": {
+            "name_title": "Jessica Smith, MD",
+            "organization": "Global Oncology Research Group"
+        },
+        "keyword": [
+            "breast cancer",
+            "sunitinib",
+            "capecitabine",
+            "objective response rate",
+            "progression-free survival"
+        ],
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Sunitinib",
+                "Capecitabine"
+            ]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "pre_assignment_details": "Enrollment was targeted at 100 patients, however the limited threshold for desired efficacy led to an early termination of the trial.",
+                "group_list": {
+                    "group": {
+                        "title": "Sunitinib + Capecitabine",
+                        "description": "Combination therapy administered per protocol as outlined above."
+                    }
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {"participants": null}
+                                },
+                                {
+                                    "title": "STOPPED",
+                                    "participants_list": {"participants": null}
+                                }
+                            ]
+                        },
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "title": "Adverse Event",
+                                    "participants_list": {"participants": null}
+                                },
+                                {
+                                    "title": "Lack of Efficacy",
+                                    "participants_list": {"participants": null}
+                                },
+                                {
+                                    "title": "Withdrawal by Subject",
+                                    "participants_list": {"participants": null}
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "title": "Sunitinib + Capecitabine",
+                        "description": "Patients received sunitinib and capecitabine combined as per the treatment protocol."
+                    }
+                },
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": {
+                            "count": null
+                        }
+                    }
+                },
+                "measure_list": {
+                    "measure": [
+                        {
+                            "title": "Age",
+                            "units": "years",
+                            "param": "Mean",
+                            "dispersion": "Standard Deviation"
+                        },
+                        {
+                            "title": "Sex: Female",
+                            "units": "Participants",
+                            "param": "Count of Participants"
+                        }
+                    ]
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Objective Response Rate (ORR)",
+                        "description": "Percentage of patients achieving CR or PR by RECIST criteria.",
+                        "time_frame": "12 weeks post initiation of therapy",
+                        "population": "Overall cohort of enrolled patients."
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Progression-Free Survival (PFS)",
+                        "description": "Time from treatment initiation to disease progression or death.",
+                        "time_frame": "Every 8 weeks until disease progression.",
+                        "population": "All patients who received treatment."
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Overall Survival (OS)",
+                        "description": "Time from initiation of treatment to death due to any cause.",
+                        "time_frame": "Every 3 months up to 2 years post treatment.",
+                        "population": "All patients receiving at least 1 dose."
+                    }
+                ]
+            },
+            "reported_events": {
+                "group_list": {
+                    "group": {
+                        "title": "Sunitinib + Capecitabine",
+                        "description": "Adverse events were reported collectively for participants receiving the drug combination."
+                    }
+                },
+                "serious_events": {
+                    "default_vocab": "MedDRA v15.0",
+                    "default_assessment": "Systematic Assessment",
+                    "category_list": {
+                        "category": [
+                            {
+                                "title": "Total",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Total, serious adverse events",
+                                        "counts": null
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Gastrointestinal disorders",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Nausea",
+                                            "counts": null
+                                        },
+                                        {
+                                            "sub_title": "Diarrhoea",
+                                            "counts": null
+                                        },
+                                        {
+                                            "sub_title": "Abdominal pain",
+                                            "counts": null
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "General disorders",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Fatigue",
+                                            "counts": null
+                                        },
+                                        {
+                                            "sub_title": "Malaise",
+                                            "counts": null
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Hematologic disorders",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Neutropenia",
+                                            "counts": null
+                                        },
+                                        {
+                                            "sub_title": "Anemia",
+                                            "counts": null
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "other_events": {
+                    "frequency_threshold": "5",
+                    "default_vocab": "MedDRA v15.0",
+                    "default_assessment": "Systematic Assessment",
+                    "category_list": {
+                        "category": [
+                            {
+                                "title": "Total",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Total, other adverse events",
+                                        "counts": null
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Nervous system disorders",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Dizziness",
+                                            "counts": null
+                                        },
+                                        {
+                                            "sub_title": "Headache",
+                                            "counts": null
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Skin and subcutaneous tissue disorders",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Rash",
+                                            "counts": null
+                                        },
+                                        {
+                                            "sub_title": "Alopecia",
+                                            "counts": null
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+                "restrictive_agreement": "The sponsor has the right to review disclosures, requesting a delay of less than 60 days before publication."
+            },
+            "limitations_and_caveats": "Due to the study's early termination, certain planned analyses for efficacy could not be completed."
+        }
+    }
+}
+```

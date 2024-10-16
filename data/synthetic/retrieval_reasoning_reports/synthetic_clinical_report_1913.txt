@@ -1,0 +1,479 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "DAPT-2023",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Effectiveness of Daptomycin in Treating Severe Community-Acquired Pneumonia",
+    "official_title": "A Multicenter, Double-Blind, Randomized Control Trial Assessing the Efficacy and Safety of Daptomycin Versus Conventional Antibiotic Therapy in Patients with Severe Community-Acquired Pneumonia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Daptomycin Development Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to investigate the efficacy and safety of daptomycin in comparison with standard antibiotics for the treatment of severe community-acquired pneumonia."
+    },
+    "detailed_description": {
+      "textblock": "This study was a multicenter, double-blind, randomized controlled trial that enrolled patients diagnosed with severe community-acquired pneumonia. Subjects were randomly assigned to receive either daptomycin or a conventional antibiotic regimen. The primary endpoint was clinical cure assessed at the end of treatment week, while secondary endpoints included microbiological clearance and safety assessment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to inadequate efficacy demonstrated by daptomycin to achieve primary outcome measures, compounded by significant recruitment challenges and a concerning safety profile.",
+    "start_date": "January 2015",
+    "completion_date": "December 2018",
+    "primary_completion_date": "April 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical Cure Rate at End of Treatment",
+      "time_frame": "Week 2",
+      "description": "To evaluate the percentage of participants who achieve complete resolution of signs and symptoms of pneumonia at the end of treatment."
+    },
+    "secondary_outcome": {
+      "measure": "Microbiological Eradication Rate",
+      "time_frame": "Week 2",
+      "description": "To assess the rate of eradication of baseline pathogens at the end of treatment."
+    },
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "Severe Community-Acquired Pneumonia",
+    "arm_group": [
+      {
+        "arm_group_label": "Daptomycin",
+        "arm_group_type": "Experimental",
+        "description": "Daptomycin intravenous 6 mg/kg once daily for 7-14 days."
+      },
+      {
+        "arm_group_label": "Conventional Antibiotics",
+        "arm_group_type": "Active Comparator",
+        "description": "Conventional antibiotics as per current clinical guidelines (e.g., ceftriaxone, azithromycin)."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daptomycin",
+        "description": "6 mg/kg IV once daily for 7-14 days.",
+        "arm_group_label": "Daptomycin",
+        "other_name": "Cubicin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Conventional Antibiotics",
+        "description": "Total daily dosages based on standard dosage guidelines.",
+        "arm_group_label": "Conventional Antibiotics"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Adults aged 18 years or older diagnosed with severe community-acquired pneumonia.\r\n\r\n2. Patients requiring hospitalization with a Pneumonia Severity Index (PSI) score of IV or V.\r\n\r\n3. Written informed consent provided by the participants.\r\n\r\nExclusion Criteria:\r\n\r\n1. Known allergy to daptomycin or any of the study antibiotics.\r\n\r\n2. Pregnant or lactating women.\r\n\r\n3. Patients with significant renal impairment (CrCl < 30 mL/min).\r\n\r\n4. Concurrent participation in another clinical trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Margaret Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Global Health Institute",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2019",
+    "study_first_submitted": "March 1, 2014",
+    "study_first_submitted_qc": "March 2, 2014",
+    "study_first_posted": "March 5, 2014",
+    "results_first_submitted": "June 15, 2019",
+    "results_first_submitted_qc": "June 20, 2019",
+    "results_first_posted": "June 25, 2019",
+    "last_update_submitted": "June 20, 2019",
+    "last_update_submitted_qc": "June 20, 2019",
+    "last_update_posted": "June 25, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Health Institute",
+      "investigator_full_name": "Margaret Smith",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Daptomycin",
+      "Community-Acquired Pneumonia",
+      "Antibiotic Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Pneumonia",
+        "Community-Acquired Infections"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Daptomycin"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study commenced enrollment in May 2015. However, the participant recruitment was slow, with only 50 participants enrolled by the study completion date.",
+        "pre_assignment_details": "After obtaining consent, participants were randomized into either daptomycin or conventional antibiotic treatment arms.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "6 mg/kg IV once daily."
+            },
+            {
+              "title": "Conventional Antibiotics",
+              "description": "As per clinical guidelines."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["50 participants were randomized, but low enrollment hindered statistical evaluation."]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["The study finished but failed to meet its primary efficacy endpoints."]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Daptomycin 6 mg/kg IV once daily."
+            },
+            {
+              "title": "Conventional Antibiotics",
+              "description": "Antibiotic therapy as per standard of care."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "<=18 years",
+                        "measurement_list": {
+                          "measurement": [null]
+                        }
+                      },
+                      {
+                        "title": "Between 18 and 65 years",
+                        "measurement_list": {
+                          "measurement": [null]
+                        }
+                      },
+                      {
+                        "title": ">=65 years",
+                        "measurement_list": {
+                          "measurement": [null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [null]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Region of Enrollment",
+              "units": "Participants",
+              "param": "Number",
+              "class_list": {
+                "class": {
+                  "title": "United States",
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [null]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Clinical Cure Rate at End of Treatment",
+            "description": "To evaluate the percentage of participants achieving complete resolution of pneumonia signs and symptoms at the end of treatment.",
+            "time_frame": "Week 2",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Daptomycin",
+                  "description": "6 mg/kg IV."
+                },
+                {
+                  "title": "Conventional Antibiotics",
+                  "description": "Standard antibiotic therapy."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Clinical Cure Rate",
+              "description": "Cure or improvement of signs and symptoms of pneumonia.",
+              "units": "participants",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Microbiological Eradication Rate",
+            "description": "To assess the rate of eradication of baseline pathogens at study endpoint.",
+            "time_frame": "Week 2",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Daptomycin",
+                  "description": "6 mg/kg IV."
+                },
+                {
+                  "title": "Conventional Antibiotics",
+                  "description": "Standard antibiotic therapy."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Microbiological Eradication Rate",
+              "description": "Successfully eradicating outlined pathogenic bacteria.",
+              "units": "participants",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Daptomycin 6 mg/kg IV."
+            },
+            {
+              "title": "Conventional Antibiotics",
+              "description": "As per clinical guidelines."
+            }
+          ],
+          "serious_events": {
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total, serious adverse events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null, null]
+                    }
+                  }
+                },
+                {
+                  "title": "Cardiac disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Cardiac Arrest",
+                      "counts": [null, null]
+                    }
+                  }
+                },
+                {
+                  "title": "Renal disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Acute Kidney Injury",
+                      "counts": [null, null]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total, other adverse events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": [null, null]
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Nausea",
+                        "counts": [null, null]
+                      },
+                      {
+                        "sub_title": "Vomiting",
+                        "counts": [null, null]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "No agreement between Principal Investigators and the Sponsor that restricts publication rights."
+      },
+      "limitations_and_caveats": "The trial faced significant challenges including inadequate efficacy, enrollment difficulties, and safety concerns, leading to its termination. The adverse event profile contributed to difficulties in establishing a favorable therapeutic index.",
+      "point_of_contact": {
+        "name_or_title": "Dr. Margaret Smith",
+        "organization": "Global Health Institute",
+        "phone": "555-123-4567",
+        "email": "margaret.smith@ghinstitute.org"
+      }
+    }
+  }
+}
+```

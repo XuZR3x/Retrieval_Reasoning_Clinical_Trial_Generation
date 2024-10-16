@@ -1,0 +1,375 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000789012",
+      "secondary_id": ["NCT1234-5678", "ORG-001"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Filgrastim in Combination Therapy for Patients With Refractory Acute Myeloid Leukemia",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Filgrastim with High-Intensity Chemotherapy in Patients With Refractory Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Comprehensive Cancer Center",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Comprehensive Cancer Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: The utilization of filgrastim as an adjunct treatment during chemotherapy may enhance hematopoietic recovery and mitigate the incidence of chemotherapy-induced neutropenia. This may facilitate the administration of high-dose chemotherapy, potentially improving patient outcomes in cases of acute myeloid leukemia (AML) with inadequate response to standard therapies.\n\nPURPOSE: This phase II trial aims to assess the effectiveness of filgrastim in combination with high-intensity chemotherapy protocols in patients diagnosed with refractory acute myeloid leukemia."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\n- To evaluate the hematologic response rate to combination treatment with filgrastim and cytotoxic agents in patients with refractory acute myeloid leukemia.\n\n- To assess the safety profile and tolerability of this regimen, with a particular focus on adverse events related to both chemotherapy and filgrastim administration.\n\n- To evaluate patient accrual metrics and analyze factors contributing to participant dropout and trial termination.\n\nOUTLINE:\n\n- All participants will receive a high-intensity chemotherapy regimen consisting of cytarabine and idarubicin over 7 days, followed by the administration of filgrastim (G-CSF) starting on day 1 of chemotherapy and continuing for at least 14 days or until achieving sufficient recovery of neutrophil counts.\n\n- Patients will be monitored closely for hematologic recovery as well as the frequency and severity of adverse events throughout the treatment course.\n\n- Study follow-up will consist of regular monthly assessments for a duration of one year post-treatment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Poor patient recruitment attributed to concerns regarding intense chemotherapy, adverse side effects, and competing treatment options.',
+    "start_date": "January 2011",
+    "completion_date": "March 2015",
+    "primary_completion_date": "February 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Hematologic Response Rate",
+      "time_frame": "One year"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Treatment-related Adverse Events",
+        "time_frame": "One year"
+      },
+      {
+        "measure": "Patient Accrual Rate and Factors for Withdrawal",
+        "time_frame": "Throughout the study duration"
+      },
+      {
+        "measure": "Evaluation of Hematological Recovery metrics",
+        "time_frame": "14 days post-therapy initiation"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "9",
+    "condition": "Acute Myeloid Leukemia",
+    "arm_group": {
+      "arm_group_label": "Filgrastim and High-Intensity Chemotherapy Combination",
+      "arm_group_type": "Experimental",
+      "description": "Administration of filgrastim concurrently with a regimen of cytarabine and idarubicin for refractory AML treatment."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "filgrastim",
+        "description": "Administered subcutaneously at 5 mcg/kg daily starting on day 1 of chemotherapy until recovery of neutrophil counts.",
+        "arm_group_label": "Filgrastim and High-Intensity Chemotherapy Combination",
+        "other_name": "G-CSF, Neupogen"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cytarabine",
+        "description": "Continuous IV infusions of cytarabine at 1 g/m2/day on days 1-7.",
+        "arm_group_label": "Filgrastim and High-Intensity Chemotherapy Combination"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Idarubicin",
+        "description": "IV doses of idarubicin at 12 mg/m2/day on days 1-5.",
+        "arm_group_label": "Filgrastim and High-Intensity Chemotherapy Combination"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed acute myeloid leukemia (AML) classified as refractory or relapsed after initial treatment.\n\n- Patients aged 18 and older with an ECOG performance status of 0 to 2.\n\nExclusion Criteria:\n\n- Prior treatment with filgrastim or other growth factors within the past 30 days.\n\n- Uncontrolled severe concurrent illness (e.g., uncontrolled infections, cardiac illness).\n\n- Pregnant or nursing females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Comprehensive Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Comprehensive Cancer Center",
+        "address": {
+          "city": "City",
+          "state": "State",
+          "zip": "Zip Code",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2015",
+    "study_first_submitted": "November 15, 2010",
+    "study_first_submitted_qc": "November 15, 2010",
+    "study_first_posted": "November 20, 2010",
+    "last_update_submitted": "March 10, 2015",
+    "last_update_submitted_qc": "March 10, 2015",
+    "last_update_posted": "March 12, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Comprehensive Cancer Center",
+      "investigator_full_name": "John Doe",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Acute Myeloid Leukemia",
+      "Chemotherapy",
+      "Filgrastim"
+    ],
+    "condition_browse": {
+      "mesh_term": "Leukemia, Myeloid, Acute"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Filgrastim",
+        "Cytarabine",
+        "Idarubicin"
+      ]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrollment faced significant challenges, with only 9 participants enrolled over a planned 30-month recruitment period.",
+        "pre_assignment_details": "No pre-assignment occurred as the study aimed to randomize treatment once enough participants were accrued."
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Filgrastim and High-Intensity Chemotherapy Combination",
+            "description": "Administration of filgrastim concurrently with a regimen of cytarabine and idarubicin."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Hematologic Response Rate",
+            "time_frame": "One year",
+            "population": "No data were collected or analyzed due to study termination",
+            "group_list": {
+              "group": {
+                "title": "Filgrastim and High-Intensity Chemotherapy Combination",
+                "description": "Administration of filgrastim concurrently with a regimen of cytarabine and idarubicin."
+              }
+            },
+            "measure": {
+              "title": "Hematologic Response Rate",
+              "population": "No data were collected or analyzed due to study termination",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Treatment-related Adverse Events",
+            "time_frame": "One year",
+            "population": "No data were collected or analyzed due to study termination",
+            "group_list": {
+              "group": {
+                "title": "Filgrastim and High-Intensity Chemotherapy Combination",
+                "description": "Administration of filgrastim concurrently with a regimen of cytarabine and idarubicin."
+              }
+            },
+            "measure": {
+              "title": "Incidence of Treatment-related Adverse Events",
+              "population": "No data were collected or analyzed due to study termination",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Patient Accrual Rate and Factors for Withdrawal",
+            "time_frame": "Throughout the study duration",
+            "population": "No data were collected or analyzed due to study termination",
+            "group_list": {
+              "group": {
+                "title": "Filgrastim and High-Intensity Chemotherapy Combination",
+                "description": "Administration of filgrastim concurrently with a regimen of cytarabine and idarubicin."
+              }
+            },
+            "measure": {
+              "title": "Patient Accrual Rate and Factors for Withdrawal",
+              "population": "No data were collected or analyzed due to study termination",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": null
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout the study duration",
+        "group_list": {
+          "group": {
+            "title": "Filgrastim and High-Intensity Chemotherapy Combination",
+            "description": "Administration of filgrastim concurrently with a regimen of cytarabine and idarubicin."
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE (4.0)",
+            "default_assessment": "Non-systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Total, all-cause mortality",
+                        "counts": null
+                      },
+                      {
+                        "sub_title": "Total, serious adverse events",
+                        "counts": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Hematological disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Severe neutropenia",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Nausea",
+                        "counts": null
+                      },
+                      {
+                        "sub_title": "Vomiting",
+                        "counts": null
+                      },
+                      {
+                        "sub_title": "Diarrhea",
+                        "counts": null
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "General disorders",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Fatigue",
+                        "counts": null
+                      },
+                      {
+                        "sub_title": "Fever",
+                        "counts": null
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Non-systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Neurological disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Headaches",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Dizziness",
+                      "counts": null
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Skin and subcutaneous tissue disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Rash",
+                      "counts": null
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

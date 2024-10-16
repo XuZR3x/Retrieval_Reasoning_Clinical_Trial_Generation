@@ -1,0 +1,145 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03011925"
+        },
+        "id_info": {
+            "org_study_id": "CFTR-MUT-001",
+            "nct_id": "NCT03011925"
+        },
+        "brief_title": "Evaluating the Impact of Ivacaftor on Lung Function and Quality of Life in Patients with Cystic Fibrosis and Residual CFTR Function",
+        "official_title": "A Phase 3, Randomized, Double-blind, Placebo-controlled Trial Assessing the Effects of VX-770 (Ivacaftor) on Lung Function, Quality of Life, and Biomarker Profiles in Individuals with Cystic Fibrosis and a G551D Mutation",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Vertex Pharmaceuticals Incorporated",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Vertex Pharmaceuticals Incorporated",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to evaluate the efficacy of ivacaftor (VX-770) in improving lung function and quality of life among subjects aged 12 years and older with cystic fibrosis (CF) possessing at least one G551D-CFTR mutation. The study investigates the correlation between ivacaftor administration and clinical, physiological, and biomarker outcomes."
+        },
+        "detailed_description": {
+            "textblock": "Cystic fibrosis is caused by mutations in the CFTR gene, leading to dysfunctional chloride channels. Ivacaftor has demonstrated the ability to enhance CFTR function in patients with residual activity. This randomized, double-blind, placebo-controlled trial involved 60 enrolled participants with confirmed G551D mutations and a baseline FEV1 of ≥40% predicted.\n\nThe design utilized a crossover model whereby participants received either ivacaftor or matched placebo for 24 weeks, followed by a 4-week washout period, after which they crossed over to the alternate treatment for an additional 24 weeks. The primary endpoint was the absolute change from baseline in percent predicted FEV1 at weeks 24 and 48, with secondary outcomes including lung clearance index (LCI), sweat chloride levels, and quality of life scores as measured by the CF Questionnaire-Revised (CFQ-R)."
+        },
+        "overall_status": "Completed",
+        "start_date": "January 2017",
+        "completion_date": "December 2018",
+        "primary_completion_date": "December 2018",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Crossover Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Absolute Change From Baseline in Percent Predicted Forced Expiratory Volume in 1 Second (FEV1)",
+            "time_frame": "Baseline through Week 48",
+            "description": "FEV1 is a critical measure of lung function in CF patients and reflects the volume of air that can be forcibly exhaled in one second."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Absolute Change From Baseline in Lung Clearance Index (LCI)",
+                "time_frame": "Baseline through Week 48",
+                "description": "LCI is an important indicator of ventilation inhomogeneity derived from multiple-breath washout tests and offers insights into early lung disease detection."
+            },
+            {
+                "measure": "Change From Baseline in Sweat Chloride Levels",
+                "time_frame": "Baseline through Week 48",
+                "description": "Sweat chloride is a diagnostic marker for CF, serving as a biochemical surrogate for CFTR function."
+            },
+            {
+                "measure": "Change in CFQ-R Scores",
+                "time_frame": "Baseline through Week 48",
+                "description": "Quality of life will be measured across various domains, particularly focusing on respiratory function."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "60",
+        "condition": "Cystic Fibrosis",
+        "arm_group": [
+            {
+                "arm_group_label": "Ivacaftor",
+                "arm_group_type": "Experimental",
+                "description": "150 mg of ivacaftor orally twice daily."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Matching placebo orally twice daily."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Ivacaftor",
+                "description": "150 mg oral tablet, administered twice daily.",
+                "arm_group_label": ["Ivacaftor"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Matching oral tablet, administered twice daily.",
+                "arm_group_label": ["Placebo"]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n- Males and females aged 12 years or older with confirmed cystic fibrosis and at least one G551D mutation in the CFTR gene.\n- Baseline FEV1 ≥ 40% predicted.\n\nExclusion Criteria:\n\n- History of adverse reactions to ivacaftor.\n- Significant liver impairment (ALT or AST > 3 times the upper limit of normal).\n- Ongoing respiratory infection or hospitalization for pulmonary exacerbation within 4 weeks prior to screening."
+            },
+            "gender": "All",
+            "minimum_age": "12 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [{
+            "last_name": "Sarah Thompson",
+            "role": "Principal Investigator",
+            "affiliation": "Vertex Pharmaceuticals Incorporated"
+        }],
+        "location": {
+            "facility": {
+                "name": "Cystic Fibrosis Clinical Trial Center",
+                "address": {
+                    "city": "Boston",
+                    "state": "Massachusetts",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "April 2019",
+        "study_first_submitted": "November 12, 2016",
+        "study_first_submitted_qc": "November 15, 2016",
+        "study_first_posted": "November 20, 2016",
+        "last_update_submitted": "April 15, 2019",
+        "last_update_posted": "April 20, 2019",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor",
+            "investigator_affiliation": "Vertex Pharmaceuticals Incorporated",
+            "investigator_full_name": "Michael Kaplan"
+        },
+        "keyword": "Cystic Fibrosis, Ivacaftor, Quality of Life, Lung Function, G551D Mutation",
+        "condition_browse": {
+            "mesh_term": ["Cystic Fibrosis", "Fibrosis"]
+        },
+        "intervention_browse": {
+            "mesh_term": "Ivacaftor"
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        }
+    }
+}
+```

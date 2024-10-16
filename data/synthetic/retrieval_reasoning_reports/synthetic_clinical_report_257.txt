@@ -1,0 +1,125 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02803478"
+    },
+    "id_info": {
+      "org_study_id": "TN-2021-001",
+      "nct_id": "NCT02803478"
+    },
+    "brief_title": "Evaluation of Ticagrelor on Outcomes in Patients With Non-ST Elevation Myocardial Infarction",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Tokyo",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of Tokyo",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This randomized controlled trial aimed to assess the efficacy and safety of ticagrelor in patients with non-ST elevation myocardial infarction (NSTEMI) undergoing intensive medical management and subsequent coronary angiography. The primary hypothesis was that ticagrelor would significantly reduce composite cardiovascular events at 30 days compared to standard therapy (clopidogrel)."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and concerns regarding appropriate patient selection criteria.",
+    "start_date": "April 2022",
+    "completion_date": "December 2024",
+    "primary_completion_date": "December 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Composite of cardiovascular events",
+      "time_frame": "30 days post randomization",
+      "description": "Incidence of myocardial infarction, stroke, urgent revascularization, and cardiovascular death."
+    }],
+    "secondary_outcome": [{
+      "measure": "Platelet aggregation inhibition",
+      "time_frame": "Measured at baseline, 1 week, and 1 month",
+      "description": "Assessing the degree of platelet inhibition via VerifyNow assay."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Non-ST Elevation Myocardial Infarction",
+    "arm_group": [{
+        "arm_group_label": "Ticagrelor Arm",
+        "arm_group_type": "Experimental",
+        "description": "Ticagrelor 180 mg loading dose followed by 90 mg bid for 30 days."
+      },
+      {
+        "arm_group_label": "Clopidogrel Arm",
+        "arm_group_type": "Active Comparator",
+        "description": "Clopidogrel 600 mg loading dose followed by 75 mg qd for 30 days."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Ticagrelor",
+        "description": "Ticagrelor - administered as a loading dose of 180 mg followed by 90 mg bid for 30 days.",
+        "arm_group_label": "Ticagrelor Arm"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Clopidogrel - administered as a loading dose of 600 mg followed by 75 mg qd for 30 days.",
+        "arm_group_label": "Clopidogrel Arm"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients aged ≥ 18 years with a diagnosis of NSTEMI.\n- Must be planned for coronary angiography within 72 hours of hospital admission.\n\nExclusion Criteria:\n\n- Previous use of ticagrelor or clopidogrel within 30 days.\n- Contraindications to antiplatelet therapy, including active bleeding.\n- Life expectancy < 1 year due to non-cardiac comorbidities.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "location": {
+      "facility": {
+        "name": "University of Tokyo Hospital",
+        "address": {
+          "city": "Tokyo",
+          "state": "Tokyo",
+          "zip": "113-8655",
+          "country": "Japan"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Japan"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "April 15, 2022",
+    "study_first_posted": "April 20, 2022",
+    "last_update_submitted": "January 15, 2024",
+    "last_update_posted": "February 1, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Ticagrelor",
+      "NSTEMI",
+      "antiplatelet therapy",
+      "cardiovascular events"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Myocardial Infarction",
+        "Non-ST Elevation Myocardial Infarction"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ticagrelor", "Clopidogrel"]
+    }
+  }
+}
+```

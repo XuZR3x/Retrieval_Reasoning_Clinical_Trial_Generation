@@ -1,0 +1,142 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03587792"
+    },
+    "id_info": {
+      "org_study_id": "DB-CT-0325",
+      "nct_id": "NCT03587792"
+    },
+    "brief_title": "Evaluation of Dabigatran in Acute Coronary Syndrome",
+    "acronym": "DACS",
+    "official_title": "A Phase III, Multicenter, Randomized, Double-blind Study to Evaluate the Efficacy and Safety of Dabigatran Versus Standard Anticoagulation in Patients with Acute Coronary Syndrome (ACS)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Heart Institute",
+        "agency_class": "Research Institution"
+      },
+      "collaborator": {
+        "agency": "Boehringer Ingelheim",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Heart Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the safety and efficacy of dabigatran for patients suffering from acute coronary syndrome (ACS). Given the existing evidence supporting dabigatran’s role in thromboembolic events, this trial seeks to assess its impact on cardiac outcomes, significantly reducing morbidity and mortality rates associated with this condition."
+    },
+    "detailed_description": {
+      "textblock": "Acute coronary syndrome represents a significant public health challenge with high mortality. Current treatment strategies often involve traditional anticoagulants, which require careful monitoring. Dabigatran's favorable pharmacokinetic properties lend it potential as an advantageous alternative. We propose a rigorous study design, utilizing randomization and blinding, to mitigate biases and enhance the reliability of findings.\n\nThe trial will enroll patients aged 45 years or older diagnosed with ACS within 24 hours from symptom onset. By assessing outcomes such as reinfarction, mortality, and bleeding complications, along with comprehensive data collection during follow-up, we aim to validate dabigatran’s effectiveness in the management of ACS."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2018",
+    "completion_date": "December 2021",
+    "primary_completion_date": "September 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": [{
+      "measure": "Composite of cardiac events (including death, reinfarction, and stroke)",
+      "time_frame": "12 months post-treatment initiation",
+      "description": "The composite outcome will assess the occurrence of all-cause mortality, recurrent myocardial infarction, and ischemic stroke requiring hospitalization."
+    }],
+    "secondary_outcome": [{
+      "measure": "Hemorrhagic events",
+      "time_frame": "12 months post-treatment",
+      "description": "Frequency of major bleeding events classified by ISTH criteria assessed during the follow-up period."
+    }, {
+      "measure": "Quality of life (QoL) measure",
+      "time_frame": "At baseline and at 30-day, 6-month, and 12-month follow-ups",
+      "description": "Quality of life will be measured using the EQ-5D scale, with a focus on differentiating outcomes according to treatment groups."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "1500",
+    "condition": "Acute Coronary Syndrome (ACS)",
+    "arm_group": [{
+      "arm_group_label": "Dabigatran Group",
+      "arm_group_type": "Experimental",
+      "description": "Participants in this group will receive dabigatran 150 mg BID initiated within 24 hours of ACS diagnosis."
+    }, {
+      "arm_group_label": "Standard Care Group",
+      "arm_group_type": "Active Comparator",
+      "description": "Participants in this group will receive the standard anticoagulant therapy as per institutional protocols."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Dabigatran",
+      "description": "Dabigatran administered at 150 mg twice daily",
+      "arm_group_label": "Dabigatran Group"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Standard Anticoagulant",
+      "description": "Standard treatment as defined by local guidelines",
+      "arm_group_label": "Standard Care Group"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 45 or over who present with symptoms of ACS and meet standard diagnostic criteria (e.g., elevated troponin levels).\n\n2. Initiation of treatment with dabigatran must occur within 24 hours of symptom onset.\n\nExclusion Criteria:\n\n1. History of hypersensitivity to dabigatran or bleeding disorders.\n\n2. Requiring alternative anticoagulation therapy for indications such as atrial fibrillation.\n\n3. Estimated GFR <30 mL/min. Patients must provide written informed consent prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "45 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Richard T. Wilson",
+      "role": "Principal Investigator",
+      "affiliation": "Global Heart Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Heart Institute of America",
+        "address": {
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33101",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Cardiovascular Center of Excellence",
+        "address": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5H 2N2",
+          "country": "Canada"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["Canada", "United States", "United Kingdom"]
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "May 15, 2018",
+    "study_first_posted": "June 1, 2018",
+    "last_update_posted": "March 1, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_full_name": "Richard T. Wilson MD",
+      "investigator_affiliation": "Global Heart Institute"
+    },
+    "keyword": ["Dabigatran", "Acute Coronary Syndrome", "Anticoagulation Therapy"],
+    "condition_browse": {
+      "mesh_term": "Myocardial Infarction"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Dabigatran"]
+    }
+  }
+}
+```

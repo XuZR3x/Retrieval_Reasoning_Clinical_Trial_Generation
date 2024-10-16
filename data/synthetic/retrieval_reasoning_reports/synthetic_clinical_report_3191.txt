@@ -1,0 +1,259 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "TAC-2020-001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Tacrolimus in Patients with Severe Ulcerative Colitis",
+    "acronym": "TAC-UCE",
+    "official_title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled Trial of Tacrolimus for Induction Therapy in Adults with Severe Ulcerative Colitis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Hospital",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "PharmaCo Ltd.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University Hospital",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of tacrolimus as an inductive therapy in patients with severe ulcerative colitis, hypothesizing that tacrolimus will lead to significant clinical remission compared to placebo."
+    },
+    "detailed_description": {
+      "textblock": "This was a multi-center, randomized, double-blind, placebo-controlled trial designed to assess the therapeutic benefits of tacrolimus versus placebo in patients suffering from severe ulcerative colitis. The primary endpoint was the rate of clinical remission at 12 weeks, defined as a Mayo score of ≤ 2 points with no individual score exceeding 1. Secondary endpoints included changes in the Mayo score, quality of life assessments, and the incidence of adverse events over the same period.\n\nPatients enrolled were adults aged 18-65, exhibiting a Mayo score of > 6 and failing conventional therapy. Exclusion criteria included prior inadequate response to tacrolimus, other forms of immunosuppressive therapy, or renal insufficiency. The allocation ratio was 1:1 to receive either tacrolimus 0.05 mg/kg/day or matching placebo for 12 weeks."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2011",
+    "completion_date": "August 2014",
+    "primary_completion_date": "May 2014",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of Clinical Remission at 12 Weeks",
+      "time_frame": "12 weeks",
+      "description": "The proportion of participants achieving clinical remission defined as a Mayo score of ≤ 2 at Week 12."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Mayo Score from Baseline to Week 12",
+        "time_frame": "12 weeks",
+        "description": "Difference in the Mayo score from baseline to 12 weeks."
+      },
+      {
+        "measure": "Quality of Life Assessment Using EQ-5D",
+        "time_frame": "12 weeks",
+        "description": "Change in quality of life as measured by EQ-5D from baseline."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "12 weeks",
+        "description": "Number of participants experiencing treatment-related adverse effects during the study period."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Ulcerative Colitis",
+    "arm_group": [
+      {
+        "arm_group_label": "Tacrolimus",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive tacrolimus 0.05 mg/kg/day."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receive matching placebo."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tacrolimus",
+        "description": "Immunosuppressive therapy for inducing clinical remission in ulcerative colitis.",
+        "arm_group_label": ["Tacrolimus"],
+        "other_name": ["Prograf"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo taken orally.",
+        "arm_group_label": ["Placebo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adults aged 18 to 65 years.\n\n  -  Diagnosed with severe ulcerative colitis as defined by a Mayo score > 6.\n\n  -  Failed previous conventional therapy.\n\n  -  Capable of providing informed consent.\n\nExclusion Criteria:\n\n  -  History of hypersensitivity to tacrolimus or any macrolide antibiotics.\n\n  -  Severe renal insufficiency (eGFR < 30 mL/min).\n\n  -  Concurrent therapy with other immunosuppressants."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University Hospital"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University Hospital",
+          "address": {
+            "city": "Cityville",
+            "state": "State",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metro Health Hospital",
+          "address": {
+            "city": "Townsville",
+            "state": "State",
+            "zip": "67890",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": [
+      {
+        "citation": "Smith JD, Jones TL, Markham A. Tacrolimus in Severe Ulcerative Colitis: Results of a Randomized Double-Blind Trial. J Gastroenterol Hepatol. 2015;30(4):683-689. doi: 10.1111/jgh.12895.",
+        "PMID": "25760691"
+      }
+    ],
+    "verification_date": "September 2014",
+    "study_first_submitted": "April 15, 2010",
+    "study_first_submitted_qc": "April 15, 2010",
+    "study_first_posted": "April 30, 2010",
+    "results_first_submitted": "August 15, 2014",
+    "results_first_submitted_qc": "August 15, 2014",
+    "results_first_posted": "September 10, 2014",
+    "last_update_submitted": "August 15, 2014",
+    "last_update_submitted_qc": "August 15, 2014",
+    "last_update_posted": "September 10, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University Hospital",
+      "investigator_full_name": "John D. Smith, MD",
+      "investigator_title": "Director of Gastroenterology"
+    },
+    "keyword": [
+      "Tacrolimus",
+      "Ulcerative Colitis",
+      "Immunosuppressive Therapy"
+    ],
+    "intervention_browse": {
+      "mesh_term": [
+        "Tacrolimus"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients recruited from March 2011 to January 2014.",
+        "pre_assignment_details": "Consent obtained prior to enrollment and screening.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Tacrolimus Group",
+              "description": "Patients administered tacrolimus showed significant improvement in Mayo scores compared to baseline."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Patients receiving placebo showed no significant changes in disease activity."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Tacrolimus Group",
+              "description": "Patients receiving tacrolimus exhibited mean Mayo score of 8.5 at baseline."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Patients receiving placebo exhibited mean Mayo score of 8.4 at baseline."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [150, 150]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Rate of Clinical Remission",
+            "description": "The proportion of participants who achieved clinical remission at week 12.",
+            "time_frame": "12 weeks",
+            "population": "all patients, intention to treat",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Tacrolimus Group",
+                  "description": "65% achieved remission."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "20% achieved remission."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Mean Mayo Score Change",
+            "description": "Change in Mayo score from baseline to week 12.",
+            "time_frame": "12 weeks",
+            "population": "all patients, intention to treat",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Tacrolimus Group",
+                  "description": "Reduction of 5.2 points in Mayo score."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Reduction of 0.5 points in Mayo score."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

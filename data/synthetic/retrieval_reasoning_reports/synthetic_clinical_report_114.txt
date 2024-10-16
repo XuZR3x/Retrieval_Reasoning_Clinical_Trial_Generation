@@ -1,0 +1,414 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "Z123456",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Bevacizumab in Combination With Chemotherapy Versus Chemotherapy Alone for Advanced Pancreatic Adenocarcinoma",
+    "official_title": "A Phase III Randomized Study Comparing Bevacizumab Plus Standard Chemotherapy Against Standard Chemotherapy Alone in Patients With Locally Advanced or Metastatic Pancreatic Adenocarcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "ABC Oncology Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "ABC Oncology Group",
+    "brief_summary": {
+      "textblock": "This Phase III trial aims to evaluate the effectiveness of adding bevacizumab to standard chemotherapy in treating patients with advanced pancreatic adenocarcinoma. The study seeks to determine improvements in overall survival compared to chemotherapy alone."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVE:\r\n- Evaluate the overall survival (OS) in patients with locally advanced or metastatic pancreatic adenocarcinoma receiving a combination of bevacizumab and standard chemotherapy versus those receiving chemotherapy alone.\r\n\r\nSECONDARY OBJECTIVES:\r\n- Assess progression-free survival (PFS), overall response rate (ORR), and toxicity profile in both treatment groups.\r\n\r\nOUTLINE: Patients will be randomized 1:1 to receive chemotherapy alone or chemotherapy plus bevacizumab. Chemotherapy regimen consists of FOLFIRINOX (oxaliplatin, irinotecan, leucovorin, and fluorouracil) administered every two weeks. Bevacizumab will be administered at 5 mg/kg, intravenously on the first day of each cycle of chemotherapy.\r\n\r\nPROJECTED ACCRUAL: Approximately 300 patients."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to low patient enrollment and failure to demonstrate efficacy.",
+    "start_date": "January 15, 2013",
+    "primary_completion_date": "December 12, 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "Up to 2 years",
+      "description": "Time from randomization to the date of patient death from any cause, or the date of last contact."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Up to 2 years",
+        "description": "Time from randomization until documented disease progression or death."
+      },
+      {
+        "measure": "Overall Response Rate",
+        "time_frame": "Up to 2 years",
+        "description": "Percentage of patients with a complete or partial response as per RECIST criteria."
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Observed throughout the study duration",
+        "description": "Incidence of adverse events graded according to CTCAE version 4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Pancreatic Adenocarcinoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Chemotherapy Alone",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive standard chemotherapy (FOLFIRINOX) every two weeks."
+      },
+      {
+        "arm_group_label": "Chemotherapy + Bevacizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive standard chemotherapy (FOLFIRINOX) plus bevacizumab every two weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "5 mg/kg IV on day 1 of each chemotherapy cycle.",
+        "arm_group_label": "Chemotherapy + Bevacizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "FOLFIRINOX",
+        "description": "Standard chemotherapy regimen administered every two weeks.",
+        "arm_group_label": ["Chemotherapy Alone", "Chemotherapy + Bevacizumab"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed diagnosis of locally advanced or metastatic pancreatic adenocarcinoma.\r\n- Patients aged 18 years or older.\r\n- ECOG performance status of 0-1.\r\n- Adequate organ function.\r\n- No prior chemotherapy for metastatic disease.\r\n\r\nExclusion Criteria:\r\n- Known squamous cell carcinoma.\r\n- Uncontrolled hypertension or significant cardiovascular disease.\r\n- History of major bleeding events within 12 months prior to study entry.\r\n- Previous anti-angiogenic therapy.\r\n- Pregnant or breastfeeding patients."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alice Brown, MD",
+      "role": "Principal Investigator",
+      "affiliation": "ABC Oncology Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "ABC Cancer Institute",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "December 11, 2012",
+    "study_first_submitted_qc": "December 11, 2012",
+    "study_first_posted": "December 15, 2012",
+    "results_first_submitted": "March 10, 2019",
+    "results_first_submitted_qc": "March 10, 2019",
+    "results_first_posted": "April 5, 2019",
+    "last_update_submitted": "August 10, 2020",
+    "last_update_submitted_qc": "August 10, 2020",
+    "last_update_posted": "August 12, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["pancreatic cancer", "bevacizumab", "FOLFIRINOX"],
+    "condition_browse": {
+      "mesh_term": ["Pancreatic Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bevacizumab", "Capecitabine", "FOLFIRINOX"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Received standard chemotherapy (FOLFIRINOX) every two weeks."
+            },
+            {
+              "title": "Chemotherapy + Bevacizumab",
+              "description": "Received standard chemotherapy (FOLFIRINOX) in combination with bevacizumab."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [60, 60]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [60, 60]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Disease Progression",
+                  "participants_list": {
+                    "participants": [30, 32]
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": [10, 12]
+                  }
+                },
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [15, 18]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All treated and eligible patients",
+          "group_list": {
+            "group": {
+              "title": "Chemotherapy + Bevacizumab",
+              "description": "Combination therapy for selected eligible patients."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [null, null]
+              }
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Survival",
+              "description": "Defined as the time from randomization to the date of patient death from any cause.",
+              "time_frame": "Up to 2 years",
+              "population": "All randomized patients",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Chemotherapy Alone",
+                    "description": "Overall survival measured to determine statistical differences."
+                  },
+                  {
+                    "title": "Chemotherapy + Bevacizumab",
+                    "description": "Evaluated for survival benefits over chemotherapy alone."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Overall Survival",
+                "population": "All randomized patients",
+                "units": "months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [null, null]
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival",
+              "description": "Time from randomization to documented progression.",
+              "time_frame": "Up to 2 years",
+              "population": "All randomized patients",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Chemotherapy Alone",
+                    "description": "Measured for disease progression incidents."
+                  },
+                  {
+                    "title": "Chemotherapy + Bevacizumab",
+                    "description": "Examined the impact of combination therapy on progression."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Progression-Free Survival",
+                "population": "All patients",
+                "units": "months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [null, null]
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Throughout the study duration, as per patient follow-up.",
+          "group_list": {
+            "group": {
+              "title": "All treated patients",
+              "description": "Observed for adverse events during therapy."
+            }
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [15, 10]
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Diarrhea",
+                      "counts": [8, 5]
+                    }
+                  }
+                },
+                {
+                  "title": "Cardiac disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "High blood pressure",
+                      "counts": [5, 2]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_vocab": "CTCAE",
+            "default_assessment": "Non-systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": [20, 15]
+                    }
+                  }
+                },
+                {
+                  "title": "Blood and lymphatic system disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Anemia",
+                      "counts": [15, 5]
+                    }
+                  }
+                },
+                {
+                  "title": "Renal and urinary disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Urinary tract infection",
+                      "counts": [6, 3]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The Sponsor may review results communications prior to public release and may extend communications regarding trial results for a period not exceeding 60 days."
+        },
+        "limitations_and_caveats": "The study ultimately faced significant challenges in patient accrual, leading to its premature termination. Notably, an insufficient sample size hindered the ability to draw relevant statistical conclusions regarding efficacy and safety endpoints.",
+        "point_of_contact": {
+          "name_or_title": "Clinical Research Coordinator",
+          "organization": "ABC Oncology Group",
+          "phone": "555-123-4567",
+          "email": "contact@abconcologygroup.com"
+        }
+      }
+    }
+  }
+}
+```

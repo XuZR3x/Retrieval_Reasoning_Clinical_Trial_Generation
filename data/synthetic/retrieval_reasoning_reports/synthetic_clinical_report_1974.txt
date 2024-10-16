@@ -1,0 +1,296 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02119364"
+    },
+    "id_info": {
+      "org_study_id": "ABC-2011-00123",
+      "secondary_id": ["UCLA-0409004", "PRT-09876"],
+      "nct_id": "NCT02119364"
+    },
+    "brief_title": "Evaluation of Panitumumab Combined with Chemotherapy in Advanced Colorectal Cancer",
+    "official_title": "A Phase II Randomized Trial Evaluating the Efficacy and Safety of Panitumumab in Combination with FOLFOX in Patients with Previously Untreated Advanced Colorectal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Los Angeles Medical Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Amgen",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Los Angeles Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the combination of panitumumab with standard chemotherapy (FOLFOX) for patients with previously untreated advanced colorectal cancer. The study assessed treatment outcomes including progression-free survival (PFS), overall survival (OS), and the safety profile of panitumumab in conjunction with chemotherapy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate patient enrollment and evolving standard of care",
+    "start_date": "April 2013",
+    "completion_date": "March 2016",
+    "primary_completion_date": "January 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "12 months",
+      "description": "PFS was defined as the time from randomization until the first documented tumor progression or death from any cause. PFS will be assessed using RECIST 1.1 criteria."
+    },
+    "secondary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "24 months",
+      "description": "OS was defined as the time from randomization until death from any cause, assessed at regular follow-up intervals."
+    },
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": "Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A",
+        "arm_group_type": "Experimental",
+        "description": "Panitumumab in combination with FOLFOX chemotherapy."
+      },
+      {
+        "arm_group_label": "Arm B",
+        "arm_group_type": "Active Comparator",
+        "description": "FOLFOX chemotherapy alone."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Panitumumab",
+      "description": "Panitumumab will be administered as an intravenous infusion at an initial dose of 6 mg/kg every two weeks, in conjunction with FOLFOX regimen."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Histologically confirmed advanced colorectal cancer (stage IV).\r\n2. No previous systemic treatment for colorectal cancer.\r\n3. ECOG performance status 0-1.\r\n4. Adequate organ function as measured by standard laboratory tests.\r\n5. Patients must provide informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n1. Prior anti-EGFR therapy.\r\n2. Presence of metastatic disease in the central nervous system.\r\n3. History of severe hypersensitivity to drugs connected to the trial combinations.\r\n4. Concurrent malignancy or treatment with other investigational agents.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Jessica Chen, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Los Angeles Medical Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Los Angeles Medical Center",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2019",
+    "study_first_submitted": "March 20, 2013",
+    "study_first_submitted_qc": "March 22, 2013",
+    "study_first_posted": "March 24, 2013",
+    "last_update_submitted": "April 15, 2020",
+    "last_update_posted": "April 16, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Los Angeles Medical Center"
+    },
+    "keyword": ["colorectal cancer", "panitumumab", "FOLFOX"],
+    "condition_browse": {
+      "mesh_term": "Colorectal Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Panitumumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study recruited 30 participants from multiple institutions. However, the accrual rate was slower than anticipated due to stringent eligibility criteria and the evolving treatment standards.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm A",
+              "description": "Panitumumab + FOLFOX"
+            },
+            {
+              "title": "Arm B",
+              "description": "FOLFOX only"
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": [30, 0]}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": [0, 0]}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": [0, 0]}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm A",
+              "description": "Panitumumab + FOLFOX"
+            },
+            {
+              "title": "Arm B",
+              "description": "FOLFOX only"
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [10, 10, 30]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {"measurement": [58, 8]}
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "Female", "measurement_list": {"measurement": [12]}},
+                      {"title": "Male", "measurement_list": {"measurement": [18]}}
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was evaluated over a period of 12 months post-randomization.",
+            "time_frame": "12 months",
+            "group_list": {
+              "group": [
+                {"title": "Arm A", "description": "Median PFS 4 months"},
+                {"title": "Arm B", "description": "Median PFS 5 months"}
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "OS was assessed based on time from randomization to death.",
+            "time_frame": "24 months",
+            "group_list": {
+              "group": [
+                {"title": "Arm A", "description": "Median OS 12 months"},
+                {"title": "Arm B", "description": "Median OS 15 months"}
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were recorded at every cycle of treatment.",
+        "group_list": {
+          "group": [
+            {"title": "Arm A", "description": "Panitumumab + FOLFOX"},
+            {"title": "Arm B", "description": "FOLFOX only"}
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total Serious Adverse Events",
+              "event_list": { "event": {"sub_title": "Serious adverse events were higher in Arm A due to toxicity from combined treatment.", "counts": [5]}}
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE (4.0)",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [10]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "All Principal Investigators are employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+    },
+    "limitations_and_caveats": "The study was prematurely terminated due to inadequate patient enrollment, with only 30 subjects recruited against a target of 100. Additionally, evolving standard care practices contributed to a decline in potential participant interest.",
+    "point_of_contact": {
+      "name_or_title": "Dr. Jessica Chen",
+      "organization": "Los Angeles Medical Center",
+      "phone": "123-456-7890",
+      "email": "jchen@lamedcenter.org"
+    }
+  }
+}
+```

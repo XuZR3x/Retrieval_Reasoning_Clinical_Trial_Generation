@@ -1,0 +1,290 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCTXXX"
+    },
+    "id_info": {
+      "org_study_id": "VAND-001",
+      "nct_id": "NCTXXX"
+    },
+    "brief_title": "Phase II Study of Vandetanib in Patients With Metastatic Clear Cell Renal Carcinoma",
+    "official_title": "A Phase II, Open-label, Multicenter Study to Assess the Efficacy and Safety of Vandetanib in Patients With Metastatic Clear Cell Renal Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Vandetanib Research Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Vandetanib Research Group",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The primary objective of this study is to evaluate the efficacy of Vandetanib in causing tumor shrinkage and to assess its safety profile in patients with advanced clear cell renal carcinoma. The secondary objectives include overall survival rates and quality of life assessments."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2015",
+    "completion_date": "March 2018",
+    "primary_completion_date": "December 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Measured at baseline and 12 weeks following treatment initiation.",
+      "description": "The primary outcome measure will assess the proportion of patients achieving a clinical response as defined by RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Measured from date of randomization until death or last follow-up.",
+        "description": "The time from randomization to the date of death from any cause."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured every 8 weeks during treatment.",
+        "description": "Duration from start of treatment until documented progression of disease or death."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Adverse events assessed at every visit and graded per CTCAE criteria.",
+        "description": "Evaluate and record all adverse events."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Metastatic Clear Cell Renal Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Vandetanib Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive Vandetanib at a dosage of 300 mg orally once daily."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Vandetanib",
+      "description": "Administration of Vandetanib 300 mg daily.",
+      "arm_group_label": "Vandetanib Treatment Group",
+      "other_name": ["ZD6474"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adults aged 18 years or older with histologically confirmed clear cell renal carcinoma.\n  - Evidence of measurable disease as defined by RECIST.\n  - Patients must have received no more than 2 prior systemic therapies targeting VEGF, and must have progressed on or be intolerant to these treatments.\n\nExclusion Criteria:\n\n  - Previous treatment with any investigational agents within 30 days prior to commencement.\n  - Known brain metastases or active central nervous system disease.\n  - Poorly controlled comorbidities or significant cardiovascular disease."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Vandetanib Research Group"
+    },
+    "location": {
+      "facility": {
+        "name": "Vandetanib Research Institute",
+        "address": {
+          "city": "Dallas",
+          "state": "Texas",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrollment began in January 2015 with an initial target of 37 patients. However, only 15 patients were accrued over the study duration.",
+        "pre_assignment_details": "Only those who met the eligibility criteria were considered for treatment.",
+        "group_list": {
+          "group": {
+            "title": "Vandetanib Group",
+            "description": "Patients received Vandetanib 300mg daily."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["15 patients enrolled."]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["Ongoing treatment but achieved insufficient response."]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Study terminated due to low enrollment and lack of efficacy."]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Vandetanib Patients",
+            "description": "Characterization of patients at baseline."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [15]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "Percentage of patients showing partial or complete response.",
+            "time_frame": "Measured after every 12 weeks.",
+            "group_list": {
+              "group": {
+                "title": "Vandetanib Treatment Group",
+                "description": "Total of patients studied."
+              }
+            },
+            "measure": {
+              "units": "Percentage",
+              "param": "N/A",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [0]  // 0 responders
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "Monitoring of adverse events encountered during the study.",
+            "time_frame": "Throughout the study period.",
+            "group_list": {
+              "group": {
+                "title": "Adverse Events Report",
+                "description": "All observed adverse reactions."
+              }
+            },
+            "measure": {
+              "units": "Count",
+              "param": "N/A",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [12]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Safety and Tolerability",
+            "description": "Overview of reported adverse events."
+          }
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE 5.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Diarrhea",
+                    "counts": [8]
+                  }
+                }
+              },
+              {
+                "title": "Cardiovascular Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Hypertension",
+                    "counts": [5]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE 5.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "General Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Fatigue",
+                    "counts": [10]
+                  }
+                }
+              },
+              {
+                "title": "Skin and Subcutaneous Tissue Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Acne",
+                    "counts": [6]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "limitations_and_caveats": {
+        "textblock": "The study was terminated prematurely due to inadequate patient recruitment and serious adverse events which overshadowed any potential efficacy of the treatment."
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NO agreement that restricts the Principal Investigator from discussing or publishing trial results post-study."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trials Coordinator",
+        "organization": "Vandetanib Research Group",
+        "email": "contact@vandetanib.com"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,358 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567934"
+    },
+    "id_info": {
+      "org_study_id": "16789",
+      "secondary_id": ["C2583", "LTI-32"],
+      "nct_id": "NCT04567934"
+    },
+    "brief_title": "Evaluation of Ramucirumab in Metastatic Non-Small Cell Lung Cancer",
+    "official_title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Ramucirumab in Combination with Chemotherapy as First-Line Treatment for Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to determine whether the addition of ramucirumab to standard chemotherapy improves clinical outcomes in patients with metastatic non-small cell lung cancer."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 1, 2020",
+    "completion_date": "August 15, 2023",
+    "primary_completion_date": "April 15, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From the date of randomization to the date of progression or death (up to 24 months)",
+      "description": "PFS was defined as the time until the first observation of disease progression according to RECIST v1.1 criteria or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization to death from any cause (up to 30 months)",
+        "description": "OS will be defined as the time from randomization to the date of death due to any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From randomization to disease progression (up to 24 months)",
+        "description": "The ORR is defined as the proportion of patients with a complete or partial response per RECIST v1.1."
+      },
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "From first dose until 30 days after the last dose, assessed up to 30 months",
+        "description": "TEAEs will be assessed to determine the safety profile of ramucirumab."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": ["Non-Small Cell Lung Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants received intravenous ramucirumab (10 mg/kg) on days 1 and 15 in combination with carboplatin and pemetrexed."
+      },
+      {
+        "arm_group_label": "Placebo + Chemotherapy",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo on the same schedule as ramucirumab, combined with carboplatin and pemetrexed."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "10 mg/kg administered via intravenous infusion as per protocol",
+        "arm_group_label": "Ramucirumab + Chemotherapy",
+        "other_name": ["IMC-1121B", "Cyramza"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Given as an intravenous infusion on cycle day 1.",
+        "arm_group_label": ["Ramucirumab + Chemotherapy", "Placebo + Chemotherapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "Administered via intravenous infusion on cycle day 1.",
+        "arm_group_label": ["Ramucirumab + Chemotherapy", "Placebo + Chemotherapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered via intravenous infusion on the same schedule as ramucirumab.",
+        "arm_group_label": "Placebo + Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Confirmed diagnosis of metastatic non-small cell lung cancer (NSCLC).\r\n  - No prior systemic treatment for advanced or metastatic disease.\r\n  - Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1.\r\n  - Adequate hematologic, renal, and hepatic function.\r\n  - Age ≥ 18 years with a life expectancy of at least 3 months.\r\n\r\nExclusion Criteria:\r\n\r\n  - Presence of brain metastases or leptomeningeal disease.\r\n  - Previous treatment with ramucirumab or other anti-VEGF agents.\r\n  - Significant medical conditions that may interfere with treatment.\r\n  - History of arterial thromboembolic events within the last 6 months."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Research Team",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Eli Lilly Investigational Site",
+          "address": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46285",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "April 10, 2020",
+    "study_first_submitted_qc": "April 15, 2020",
+    "study_first_posted": "April 20, 2020",
+    "results_first_submitted": "December 30, 2023",
+    "results_first_submitted_qc": "January 5, 2024",
+    "results_first_posted": "January 10, 2024",
+    "last_update_submitted": "February 15, 2024",
+    "last_update_submitted_qc": "February 15, 2024",
+    "last_update_posted": "February 20, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Metastatic Cancer",
+      "Non-Small Cell Lung Cancer",
+      "Ramucirumab",
+      "Angiogenesis Inhibition"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ramucirumab", "Pemetrexed", "Carboplatin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        " recruitment_details": "The majority of participants who completed the study did so without significant report of tumor improvement.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + Chemotherapy",
+              "description": "Significant proportion of participants did not achieve significant PFS, falling short against pre-defined endpoints."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "Results indicated marginal efficacy with comparable results to conventional chemotherapy alone, suggesting ramucirumab offers no considerable benefits."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Received Any Quantity of Study Drug",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Intent-to-Treat (ITT) Population includes all randomized participants.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + Chemotherapy",
+              "description": "Participants displayed a heterogeneous clinical response, suggesting a complex interaction of treatment dynamics."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "The comparison group demonstrated similar trends indicating the absence of significant efficacy in the experimental arm."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [null, null, null]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "The expectation of PFS was unmet as determined by overall survival rates.",
+            "time_frame": "From randomization until progression or death from any cause (up to 24 months)",
+            "population": "ITT population demonstrated a significant failure to meet primary endpoints with the combination therapy.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ramucirumab + Chemotherapy",
+                  "description": "Showed no considerable median PFS improvement when compared to control."
+                },
+                {
+                  "title": "Placebo + Chemotherapy",
+                  "description": "Markedly comparable PFS results to the treatment group, potentially signaling a lack of efficacy from ramucirumab."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout clinical trial duration.",
+        "desc": "Significant adverse events were recorded, highlighting the immune response variability among participants on ramucirumab.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + Chemotherapy",
+              "description": "High incidence of treatment-emergent anti-ramucirumab antibodies noted, affecting pharmacokinetic profiles."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "The placebo group illustrated a standard adverse event profile consistent with expected outcomes in chemotherapy."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 24.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [null, null]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Blood and lymphatic system disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Anaemia",
+                    "counts": [null, null]
+                  },
+                  {
+                    "sub_title": "Febrile neutropenia",
+                    "counts": [null, null]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 24.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [null, null]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "A delay in publication is required; results communications are subject to sponsor review and embargo for a minimum of sixty days."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Study Lead",
+      "organization": "Eli Lilly and Company",
+      "phone": "1-800-545-5979"
+    }
+  }
+}
+```

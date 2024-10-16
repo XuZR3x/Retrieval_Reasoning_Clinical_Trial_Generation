@@ -1,0 +1,199 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000567890",
+      "secondary_id": ["NCT04567890"],
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "A Phase III Study of Rituximab in Combination with Flexible Chemotherapy in Patients with Advanced Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase III Multicenter Study Evaluating the Efficacy and Safety of Rituximab Combined with a Flexible Chemotherapy Regimen in Patients with Previously Untreated Advanced Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Hoffmann-La Roche",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "German CLL Study Group",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Hoffmann-La Roche",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: The addition of rituximab has been shown to enhance the therapeutic efficacy of conventional chemotherapy by specifically targeting CD20-positive B-cells. This approach aims to improve treatment outcomes in chronic lymphocytic leukemia (CLL) patients, leading to increased progression-free survival (PFS) and overall survival (OS). \nPURPOSE: This randomized phase III trial evaluates the safety and efficacy of combining rituximab with a flexible chemotherapy regimen compared to a standard chemotherapy protocol in patients with advanced CLL."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\nPrimary\n\n- Assess the difference in progression-free survival (PFS) rates between patients receiving rituximab in combination with chemotherapy and those receiving chemotherapy alone.\n\nSecondary\n\n- Evaluate overall survival (OS) and event-free survival (EFS).\n- Monitor adverse events (AEs) and long-term toxicity associated with the treatment regimens.\n\nOUTLINE: This is a multicenter, open-label, randomized study.\n\n- Patients will receive one of two treatment regimens:\n  - Arm A: Rituximab (375 mg/m² on day 1) coupled with flexible chemotherapy (including fludarabine and cyclophosphamide and other agents) administered as per clinical discretion, followed by periodic rituximab maintenance therapy.\n  - Arm B: Standard chemotherapy without rituximab, consisting of fludarabine and cyclophosphamide, with treatment intervals guided by standard practice.\n\n- Treatment duration will depend on the patient’s response, with continuous assessments performed every three months for two years following initial treatment completion.\n\nPROJECTIONS: A total of 800 patients will be accrued over a period of 5 years."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 2021",
+    "completion_date": "May 2026",
+    "primary_completion_date": "October 2024",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival",
+      "time_frame": "Approximately 2 years post-randomization",
+      "description": "PFS defined as the time from randomization to the first occurrence of disease progression, relapse, or death due to any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival",
+        "time_frame": "Up to 4 years following randomization",
+        "description": "Overall survival measured from randomization to the date of death from any cause."
+      },
+      {
+        "measure": "Event-Free Survival",
+        "time_frame": "Median observation time approximately 66 months",
+        "description": "EFS defined as the time to the first event of progression, relapse, initiation of new CLL treatment, or death."
+      },
+      {
+        "measure": "Adverse Events Monitoring",
+        "time_frame": "Throughout treatment and up to 30 days after treatment completion",
+        "description": "Documentation of all reported adverse events classified using CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "800",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": [
+      {
+        "arm_group_label": "Rituximab + Flexible Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive rituximab in combination with flexible chemotherapy agents as per treating physician’s discretion."
+      },
+      {
+        "arm_group_label": "Standard Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive standard chemotherapy without the inclusion of rituximab."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rituximab",
+        "description": "375 mg/m² on Day 1 by intravenous infusion.",
+        "arm_group_label": "Rituximab + Flexible Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fludarabine",
+        "description": "25 mg/m² on Days 1, 2, 3 by intravenous infusion.",
+        "arm_group_label": [
+          "Rituximab + Flexible Chemotherapy",
+          "Standard Chemotherapy"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "250 mg/m² on Days 1, 2, 3 by intravenous infusion.",
+        "arm_group_label": [
+          "Rituximab + Flexible Chemotherapy",
+          "Standard Chemotherapy"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "DISEASE CHARACTERISTICS:\n\n  -  Histologically confirmed chronic B-cell lymphocytic leukemia (B-CLL) per NCI criteria.\n  -  Binet stage B or C.\n  -  No history of aggressive transformation (e.g., Richter's syndrome).\n\nPATIENT CHARACTERISTICS:\n\n  -  Age ≥ 18 years.\n  -  ECOG performance status 0-1.\n  -  Adequate organ function (e.g., bilirubin ≤ 2.0 x ULN, creatinine clearance ≥ 70 mL/min).\n  -  Not pregnant or nursing; women of childbearing potential must use effective contraception.\n  -  No active infections or other serious concurrent illnesses."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Michael Hallek, MD",
+        "role": "Study Chair",
+        "affiliation": "University of Cologne"
+      },
+      {
+        "last_name": "Anna Schmidt, MD",
+        "role": "Principal Investigator",
+        "affiliation": "German CLL Study Group"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "University Hospital of Cologne",
+          "address": {
+            "city": "Cologne",
+            "zip": "50924",
+            "country": "Germany"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Royal Brisbane and Women's Hospital",
+          "address": {
+            "city": "Brisbane",
+            "zip": "4029",
+            "country": "Australia"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Gosford Hospital",
+          "address": {
+            "city": "Gosford",
+            "zip": "2250",
+            "country": "Australia"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "Germany",
+        "Australia"
+      ]
+    },
+    "verification_date": "September 2024",
+    "study_first_submitted": "January 24, 2021",
+    "study_first_posted": "January 25, 2021",
+    "last_update_posted": "September 10, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Chronic Lymphocytic Leukemia",
+      "Rituximab",
+      "Immunochemotherapy",
+      "Progression-Free Survival"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia",
+        "Leukemia, Lymphocytic, Chronic, B-Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Fludarabine",
+        "Cyclophosphamide",
+        "Rituximab"
+      ]
+    }
+  }
+}
+```

@@ -1,0 +1,228 @@
+```json
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT01384345"
+    },
+    "id_info": {
+        "org_study_id": "NCT01384345",
+        "nct_id": "NCT01384345"
+    },
+    "brief_title": "Entinostat and Atezolizumab in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Entinostat Combined with Atezolizumab in Patients With Advanced Non-Small Cell Lung Cancer Previously Treated With Platinum-Based Chemotherapy",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "National Cancer Institute (NCI)",
+            "agency_class": "NIH"
+        }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+        "textblock": "This phase II trial is assessing the efficacy and safety of entinostat when administered with atezolizumab in patients with advanced non-small cell lung cancer (NSCLC) who have progressed following platinum-based chemotherapy. This study hypothesizes that entinostat may potentially enhance the efficacy of atezolizumab by modulating the tumor microenvironment through histone deacetylation inhibition."
+    },
+    "detailed_description": {
+        "textblock": "PRIMARY OBJECTIVES:\nI. To evaluate the overall response rate (ORR) as defined by RECIST v1.1 criteria in patients treated with the combination of entinostat and atezolizumab.\n\nSECONDARY OBJECTIVES:\nI. To assess progression-free survival (PFS) and overall survival (OS) in patients treated with this combination.\nII. To characterize the safety profile, particularly adverse events leading to treatment cessation.\nIII. To explore biomarker correlates of treatment response through genetic and epigenetic profiling of tumor samples.\n\nOUTLINE: This study comprises a single-group assignment with all patients receiving entinostat and atezolizumab.\n\nPatients receive entinostat orally on days 1 and 8 of each 28-day cycle and atezolizumab intravenously every 21 days. Treatment will continue until disease progression or unacceptable toxicity occurs.\n\nBlood biomarker analysis will be performed at baseline and periodically throughout the treatment regimen."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was halted early due to inadequate patient recruitment and significant concerns regarding the toxicity profile observed in pilot cohorts.",
+    "start_date": "January 2011",
+    "completion_date": "March 2014",
+    "primary_completion_date": "January 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "N/A",
+        "intervention_model": "Single Group Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "At 6 months",
+        "description": "The ORR will be assessed based on the proportion of patients exhibiting a confirmed complete response (CR) or partial response (PR) using the RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [{
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the date of first treatment until the earliest date of progression or death, assessed for up to 24 months.",
+        "description": "PFS will be defined as the time from treatment initiation until disease progression or death."
+    },
+    {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From recruitment until death from any cause, assessed for up to 24 months.",
+        "description": "OS will be defined as the duration from initiation of treatment to the date of death."
+    },
+    {
+        "measure": "Adverse Events",
+        "time_frame": "During treatment and up to 30 days post-treatment.",
+        "description": "Adverse events will be recorded and graded according to the NCI CTCAE version 4.0 guidelines."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "33",
+    "condition": ["Non-Small Cell Lung Cancer", "Advanced Lung Cancer"],
+    "arm_group": {
+        "arm_group_label": "Treatment (entinostat and atezolizumab)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive entinostat orally on days 1 and 8, and atezolizumab IV every 21 days. Courses repeat every 28 days in the absence of disease progression or unacceptable toxicity."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "entinostat",
+        "description": "An oral histone deacetylase (HDAC) inhibitor, administered on days 1 and 8 of each 28-day cycle.",
+        "arm_group_label": "Treatment (entinostat and atezolizumab)",
+        "other_name": ["SNDX-275", "HDAC inhibitor"]
+    },
+    {
+        "intervention_type": "Drug",
+        "intervention_name": "atezolizumab",
+        "description": "A fully humanized monoclonal antibody, administered intravenously every 21 days.",
+        "arm_group_label": "Treatment (entinostat and atezolizumab)",
+        "other_name": ["Tecentriq"]
+    }],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\n\n  - Histologically confirmed non-small cell lung cancer (NSCLC) with stage IIIB/IV disease.\n  - At least 1 measurable lesion per RECIST v1.1 criteria.\n  - Patients must have received and progressed on at least one prior platinum-based chemotherapy regimen.\n  - No prior treatment with a histone deacetylase inhibitor or immune checkpoint blockade.\n  - ECOG performance status of 0-1.\n  - Adequate organ function and laboratory parameters.\n\nExclusion Criteria:\n\n  - Active autoimmune disease requiring systemic therapy.\n  - Known hypersensitivity to investigational agents.\n  - Concurrent participation in another clinical trial.\n  - Patients with CNS metastases or uncontrolled seizures."
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "David Johnson",
+        "role": "Principal Investigator",
+        "affiliation": "Memorial Sloan Kettering Cancer Center"
+    },
+    "location": {
+        "facility": {
+            "name": "Memorial Sloan Kettering Cancer Center",
+            "address": {
+                "city": "New York",
+                "state": "New York",
+                "zip": "10065",
+                "country": "United States"
+            }
+        }
+    },
+    "location_countries": {
+        "country": "United States"
+    },
+    "verification_date": "January 2014",
+    "study_first_submitted": "December 20, 2010",
+    "study_first_submitted_qc": "December 22, 2010",
+    "study_first_posted": "December 26, 2010",
+    "results_first_submitted": "February 14, 2014",
+    "results_first_submitted_qc": "February 22, 2014",
+    "results_first_posted": "March 1, 2014",
+    "last_update_submitted": "March 21, 2014",
+    "last_update_posted": "March 24, 2014",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+        "mesh_term": ["Lung Neoplasms", "Non-Small Cell Lung Carcinoma"]
+    },
+    "intervention_browse": {
+        "mesh_term": ["Entinostat", "Atezolizumab"]
+    },
+    "clinical_results": {
+        "participant_flow": {
+            "recruitment_details": "The study initially opened with an expected enrollment of 50 patients but faced significant challenges with recruitment, with just 33 patients ultimately participating before the study was terminated.",
+            "pre_assignment_details": "Due to the strict eligibility criteria and the early identification of adverse toxicity associated with combined treatment, patient enrollment was limited."
+        },
+        "baseline": {
+            "population": "All participants received entinostat and atezolizumab.",
+            "group_list": {
+                "group": {
+                    "title": "Treatment (Entinostat and Atezolizumab)",
+                    "description": "Patients received entinostat and atezolizumab as described."
+                }
+            },
+            "analyzed_list": {
+                "analyzed": {
+                    "units": "Participants",
+                    "scope": "Overall",
+                    "count_list": {
+                        "count": [null]
+                    }
+                }
+            }
+        },
+        "outcome_list": {
+            "outcome": [
+                {
+                    "type": "Primary",
+                    "title": "Overall Response Rate (ORR)",
+                    "description": "ORR was low due to poor biological response observed against NSCLC.",
+                    "time_frame": "At 6 months post-treatment initiation.",
+                    "population": "Analysis failed to meet expectations with responses below anticipated levels.",
+                    "group_list": {
+                        "group": {
+                            "title": "Treatment (Entinostat and Atezolizumab)",
+                            "description": "Combination therapy resulted in limited efficacy."
+                        }
+                    }
+                },
+                {
+                    "type": "Secondary",
+                    "title": "Progression-Free Survival (PFS)",
+                    "description": "The median PFS was significantly shorter than hypothesized.",
+                    "time_frame": "Up to 24 months.",
+                    "population": "The analysis indicated rapid disease progression beyond initial treatment response.",
+                    "group_list": {
+                        "group": {
+                            "title": "Treatment (Entinostat and Atezolizumab)",
+                            "description": "Rapid decline in clinical status noted."
+                        }
+                    }
+                }
+            ]
+        },
+        "reported_events": {
+            "desc": "All patients reported high incidence of severe adverse events including grade 3 gastrointestinal toxicities and hematological toxicities, leading to multiple treatment discontinuations. The combination was poorly tolerated, with 8 patients experiencing severe complications requiring intervention, contributing to the decision to terminate the study.",
+            "group_list": {
+                "group": {
+                    "title": "Treatment (Entinostat and Atezolizumab)",
+                    "description": "Adverse events led to significant concerns regarding safety profile."
+                }
+            }
+        },
+        "serious_events": {
+            "category_list": {
+                "category": [
+                    {
+                        "title": "Total, Serious Adverse Events",
+                        "event_list": {
+                            "event": [
+                                {
+                                    "sub_title": "Gastrointestinal perforation",
+                                    "counts": null
+                                },
+                                {
+                                    "sub_title": "Severe neutropenia",
+                                    "counts": null
+                                },
+                                {
+                                    "sub_title": "Acute renal failure",
+                                    "counts": null
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "certain_agreements": {
+        "pi_employee": "Principal Investigators were not employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The publication of results will be postponed until the data is analyzed."
+    },
+    "point_of_contact": {
+        "name_or_title": "Dr. David Johnson",
+        "organization": "Memorial Sloan Kettering Cancer Center",
+        "phone": "212-639-2000",
+        "email": "johnsond@mskcc.org"
+    }
+}}
+```

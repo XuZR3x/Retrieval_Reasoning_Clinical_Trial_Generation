@@ -1,0 +1,190 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04256789"
+    },
+    "id_info": {
+      "org_study_id": "UMD-2020-00678",
+      "nct_id": "NCT04256789"
+    },
+    "brief_title": "Phase II Trial of Pertuzumab Administered Intravenously in Combination With Nivolumab for Advanced Head and Neck Squamous Cell Carcinoma",
+    "official_title": "A Phase II Study Investigating the Efficacy and Safety of Pertuzumab in Combination With Nivolumab in Patients With Advanced Head and Neck Squamous Cell Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Maryland",
+        "agency_class": "Academic Institution"
+      },
+      "collaborator": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Maryland",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II clinical trial aims to evaluate the safety and efficacy of pertuzumab in combination with nivolumab for the treatment of patients with advanced head and neck squamous cell carcinoma (HNSCC) who have previously received one or more lines of systemic therapy. Despite promising preclinical results, this trial specifically assesses potential drug interactions and resultant adverse effects."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To evaluate the overall response rate (ORR) in patients with advanced HNSCC treated with the combination of pertuzumab and nivolumab.\n\nII. To assess the safety profile and identify dose-limiting toxicities (DLTs) in the patient population.\n\nSECONDARY OBJECTIVES:\n\nI. To determine progression-free survival (PFS) rates in patients treated with this regimen.\n\nII. To evaluate overall survival (OS) outcomes and quality of life metrics.\n\nThis study employs a multi-center, single-group assignment design. Participants are administered pertuzumab intravenously followed by nivolumab. The administration schedule consists of an initial loading dose of pertuzumab followed by maintenance doses every 3 weeks. Participants will undergo treatment until disease progression or unacceptable toxicity emerges."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study terminated due to significant overlapping toxicities and ineffective recruitment leading to inadequate statistical power.",
+    "start_date": "March 2020",
+    "completion_date": "August 2022",
+    "primary_completion_date": "April 2022",
+    "phase": "Phase II",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Overall Response Rate (ORR) as assessed by RECIST criteria",
+      "time_frame": "Responses evaluated after every two cycles (6 weeks)",
+      "description": "Proportion of patients with confirmed complete response (CR) or partial response (PR) per RECIST 1.1."
+    }],
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From the time of enrollment until disease progression or death",
+      "description": "Measured as the duration from the initiation of treatment until the first documented progression."
+    },{
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From the time of enrollment until the time of death due to any cause",
+      "description": "Time span from initiation of treatment to patient death."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Head and Neck Squamous Cell Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Experimental Arm",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive pertuzumab followed by nivolumab at specified intervals, with assessments for adverse events and therapeutic response conducted regularly."
+    },
+    "intervention": [{
+      "intervention_type": "Biological",
+      "intervention_name": "Pertuzumab",
+      "description": "Administered IV, initial 840 mg loading dose followed by 420 mg every 3 weeks.",
+      "other_name": ["Perjeta"]
+    },{
+      "intervention_type": "Biological",
+      "intervention_name": "Nivolumab",
+      "description": "Administered IV, 240 mg every 2 weeks.",
+      "other_name": ["Opdivo"]
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Diagnosis of advanced HNSCC, refractory to at least one prior systemic therapy.\n- Patients must have measurable disease per RECIST 1.1.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n- Life expectancy > 3 months and laboratory values within specified limits.\n\nExclusion Criteria:\n- History of significant overlapping adverse effects from previous treatments.\n- Patients with uncontrolled intercurrent illness or psychiatric disorders that could interfere with study participation.\n- Prior exposure to HER2-targeted therapies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "University of Maryland School of Medicine"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Maryland Medical Center",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2022",
+    "study_first_submitted": "January 10, 2020",
+    "study_first_posted": "January 15, 2020",
+    "last_update_posted": "July 24, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "University of Maryland School of Medicine",
+      "investigator_full_name": "John Smith, MD, PhD",
+      "investigator_title": "Associate Professor of Oncology"
+    },
+    "condition_browse": {
+      "mesh_term": ["Head and Neck Neoplasms", "Squamous Cell Carcinoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Pertuzumab", "Nivolumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Pertuzumab + Nivolumab",
+            "description": "Combination therapy was processed through regular intervals and assessed for adverse reactions, with a focus on overlapping toxicities identified."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {"title": "STARTED", "participants_list": {"participants": null}},
+                {"title": "NOT COMPLETED", "participants_list": {"participants": "Significantly high rates of gastrointestinal and dermatological adverse events were observed."}}
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Pertuzumab + Nivolumab",
+              "description": "Combinations utilized dosages that exceeded therapeutic windows leading to heightened adverse effects."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {"count": null}
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "adverse_events": {
+          "total": {"event_list": {"event": {"sub_title": "Total, adverse events leading to discontinuation", "counts": null}}},
+          "gastrointestinal disorders": {
+            "event_list": {
+              "event": [
+                {"sub_title": "Nausea", "counts": null},
+                {"sub_title": "Diarrhea", "counts": null}
+              ]
+            }
+          },
+          "dermatological disorders": {
+            "event_list": {
+              "event": [
+                {"sub_title": "Rash", "counts": null},
+                {"sub_title": "Pruritus", "counts": null}
+              ]
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is an agreement that the investigator must submit publications for review prior to dissemination."
+      },
+      "limitations_and_caveats": "The combination of pertuzumab and nivolumab demonstrated significant overlapping toxicities, leading to diminished tolerability among patients already burdened by systemic therapy, ultimately limiting recruitment and resulting in termination of the trial."
+    }
+  }
+}
+```

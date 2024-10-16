@@ -1,0 +1,196 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "D2456C00003",
+      "secondary_id": "EudraCT No. 2010-123456-78",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Candesartan Cilexetil in Combination Therapy for Hypertension Management",
+    "official_title": "A Multinational, Double-blind, Randomized, Controlled Trial Evaluating the Efficacy and Safety of Candesartan Cilexetil in Combination With a Thiazide Diuretic Compared to Monotherapy in Patients With Moderate to Severe Hypertension",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AstraZeneca",
+    "brief_summary": {
+      "textblock": "This trial assesses the efficacy and safety of the antihypertensive agent candesartan cilexetil (CC) combined with a thiazide diuretic against a control of CC alone in a well-defined cohort of hypertensive adults. The study aims to provide robust data on blood pressure control and information on adverse events."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2011",
+    "completion_date": "January 2013",
+    "primary_completion_date": "October 2012",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Mean Change from Baseline in Sitting Systolic Blood Pressure (SBP)",
+        "time_frame": "Baseline to 12 weeks",
+        "description": "The primary efficacy endpoint is the mean change from baseline in sitting SBP after 12 weeks of treatment."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Mean Change from Baseline in Sitting Diastolic Blood Pressure (DBP)",
+        "time_frame": "Baseline to 12 weeks",
+        "description": "Secondary analysis includes the mean change in sitting DBP at the end of treatment as an adjunct to SBP."
+      },
+      {
+        "measure": "Proportion of Patients Achieving BP Control",
+        "time_frame": "End of the study (12 weeks)",
+        "description": "Proportion of patients achieving controlled BP defined as SBP < 140 mmHg and DBP < 90 mmHg."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study (up to 12 weeks)",
+        "description": "Documentation of adverse events (AEs) to comprehensively assess the safety profile of the intervention."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "3000",
+    "condition": "Hypertension",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Candesartan Cilexetil (32 mg) daily plus Thiazide Diuretic (12.5 mg)"
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Candesartan Cilexetil (32 mg) daily monotherapy"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Candesartan Cilexetil",
+        "description": "32 mg oral tablet",
+        "arm_group_label": ["1", "2"],
+        "other_name": "ATACAND"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Thiazide Diuretic",
+        "description": "12.5 mg oral tablet",
+        "arm_group_label": "1",
+        "other_name": "Hydrochlorothiazide"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 40-75 years with diagnosed primary hypertension (sitting SBP 140-180 mmHg, DBP 90-110 mmHg).\r\n- Patients not previously treated with antihypertensive agents or willing to discontinue existing treatment with a maximum of 1 antihypertensive agent.\r\n- Provision of signed Informed Consent.\r\n\r\nExclusion Criteria:\r\n- Secondary hypertension.\r\n- Significant cardiovascular comorbidities within the past 6 months.\r\n- History of hypersensitivity to study medications.\r\n- Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Dr. John Doe",
+        "role": "Study Director",
+        "affiliation": "AstraZeneca"
+      },
+      {
+        "last_name": "Dr. Jane Smith",
+        "role": "Principal Investigator",
+        "affiliation": "University Hospital"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Primary Research Centre",
+          "address": {
+            "city": "New York",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Secondary Research Centre",
+          "address": {
+            "city": "Toronto",
+            "country": "Canada"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "United Kingdom", "France"]
+    },
+    "verification_date": "February 2013",
+    "study_first_submitted": "January 5, 2011",
+    "study_first_submitted_qc": "January 5, 2011",
+    "study_first_posted": "January 10, 2011",
+    "results_first_submitted": "February 15, 2013",
+    "results_first_submitted_qc": "February 20, 2013",
+    "results_first_posted": "March 1, 2013",
+    "last_update_submitted": "February 28, 2013",
+    "last_update_submitted_qc": "February 28, 2013",
+    "last_update_posted": "March 5, 2013",
+    "keyword": [
+      "Hypertension",
+      "Candesartan Cilexetil",
+      "Combination Therapy",
+      "Thiazide Diuretic"
+    ],
+    "condition_browse": {
+      "mesh_term": "Hypertension"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Candesartan", "Candesartan Cilexetil", "Thiazide"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited across 100 centers in the United States, Canada, Germany, UK, and France.",
+        "pre_assignment_details": "A total of 3000 participants were screened, with 2900 meeting eligibility criteria and being randomized."
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Candesartan + Thiazide Diuretic",
+            "description": "Candesartan Cilexetil (32 mg) combined with Thiazide Diuretic (12.5 mg)."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [1500, 1500]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in Sitting Systolic Blood Pressure",
+            "description": "Mean change in sitting SBP at 12 weeks post-treatment initiation.",
+            "time_frame": "12 weeks",
+            "population": "Safety analysis population."
+          }
+        ]
+      }
+    }
+  }
+}
+```

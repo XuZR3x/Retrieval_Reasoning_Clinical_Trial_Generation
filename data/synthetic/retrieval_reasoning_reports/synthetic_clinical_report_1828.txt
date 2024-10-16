@@ -1,0 +1,271 @@
+```json
+{"clinical_study": {
+  "required_header": {
+    "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+    "link_text": "Link to the current ClinicalTrials.gov record.",
+    "url": "https://clinicaltrials.gov/ct2/show/NCT03571275"
+  },
+  "id_info": {
+    "org_study_id": "VX50-770-201",
+    "nct_id": "NCT03571275"
+  },
+  "brief_title": "A Phase 3 Study of Ivacaftor in Young Children With Cystic Fibrosis and Gating Mutations",
+  "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Ivacaftor in Children Aged 2 to 5 Years with Cystic Fibrosis Due to a Gating Mutation in the CFTR Gene",
+  "sponsors": {
+    "lead_sponsor": {
+      "agency": "Vertex Pharmaceuticals Incorporated",
+      "agency_class": "Industry"
+    }
+  },
+  "source": "Vertex Pharmaceuticals Incorporated",
+  "oversight_info": {
+    "has_dmc": "Yes"
+  },
+  "brief_summary": {
+    "textblock": "The purpose of this study is to evaluate the efficacy and safety of ivacaftor in children with cystic fibrosis aged 2 to 5 years who have specific gating mutations in the CFTR gene."
+  },
+  "detailed_description": {
+    "textblock": "This randomized, double-blind, placebo-controlled study aimed to assess the treatment effect of ivacaftor in young children with cystic fibrosis due to gating mutations. Recent evidence indicates ivacaftor works effectively in older children with specific CFTR mutations, thus prompting exploration in a younger demographic. This trial comprised children between the ages of 2 to 5 years who met the defined criteria for gating mutations."
+  },
+  "overall_status": "Terminated",
+  "why_stopped": "Insufficient patient enrollment compounded by safety concerns.",
+  "start_date": "June 2018",
+  "completion_date": "December 2019",
+  "primary_completion_date": "December 2019",
+  "phase": "Phase 3",
+  "study_type": "Interventional",
+  "has_expanded_access": "No",
+  "study_design_info": {
+    "allocation": "Randomized",
+    "intervention_model": "Parallel Assignment",
+    "primary_purpose": "Treatment",
+    "masking": "Double (Participant, Investigator)"
+  },
+  "primary_outcome": {
+    "measure": "Absolute Change From Baseline in Lung Clearance Index (LCI2.5) at Week 8",
+    "time_frame": "Baseline through Week 8",
+    "description": "LCI2.5 evaluates the efficiency of lung ventilation by measuring the time taken for the lungs to clear inhaled inert gases."
+  },
+  "secondary_outcome": [
+    {
+      "measure": "Change From Baseline in Body Mass Index (BMI) at Week 8",
+      "time_frame": "Baseline and Week 8",
+      "description": "BMI was calculated as weight in kilograms divided by height in meters squared."
+    },
+    {
+      "measure": "Change From Baseline in Sweat Chloride Concentration at Week 8",
+      "time_frame": "Baseline and Week 8",
+      "description": "Sweat chloride was measured to gauge chloride transport, a key indicator in CF pathology."
+    },
+    {
+      "measure": "Number of Participants Reporting Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+      "time_frame": "Baseline up to Month 15"
+    }
+  ],
+  "number_of_arms": "2",
+  "enrollment": "18",
+  "condition": "Cystic Fibrosis",
+  "arm_group": [
+    {
+      "arm_group_label": "Ivacaftor Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Ivacaftor 50 mg administered orally every 12 hours for 8 weeks."
+    },
+    {
+      "arm_group_label": "Placebo Group",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Placebo administered orally every 12 hours for 8 weeks."
+    }
+  ],
+  "intervention": [
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Ivacaftor",
+      "arm_group_label": ["Ivacaftor Treatment Group"],
+      "other_name": ["Kalydeco", "VX-770"]
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "arm_group_label": ["Placebo Group"]
+    }
+  ],
+  "eligibility": {
+    "criteria": {
+      "textblock": "Inclusion Criteria:\n\n- Male or female aged 2 to 5 years with a confirmatory diagnosis of cystic fibrosis.\n- Must have a documented gating mutation in at least one allele of the CFTR gene.\n- Patients must exhibit stable clinical characteristics at screening.\n\nExclusion Criteria:\n\n- History of significant comorbidities that may interfere with study assessment.\n- Recent acute respiratory infections within 4 weeks prior to the first dose.\n- Abnormal liver function parameters at screening."
+    },
+    "gender": "All",
+    "minimum_age": "2 Years",
+    "maximum_age": "5 Years",
+    "healthy_volunteers": "No"
+  },
+  "location": [
+    {
+      "facility": {
+        "address": {
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia"
+        }
+      }
+    },
+    {
+      "facility": {
+        "address": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada"
+        }
+      }
+    },
+    {
+      "facility": {
+        "address": {
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      }
+    }
+  ],
+  "location_countries": {
+    "country": ["Australia", "Canada", "United Kingdom"]
+  },
+  "verification_date": "January 2020",
+  "study_first_submitted": "May 10, 2018",
+  "study_first_submitted_qc": "May 12, 2018",
+  "study_first_posted": "May 15, 2018",
+  "results_first_submitted": "February 1, 2020",
+  "results_first_submitted_qc": "February 5, 2020",
+  "results_first_posted": "February 8, 2020",
+  "last_update_submitted": "March 10, 2020",
+  "last_update_submitted_qc": "March 12, 2020",
+  "last_update_posted": "March 15, 2020",
+  "responsible_party": {
+    "responsible_party_type": "Sponsor"
+  },
+  "condition_browse": {
+    "mesh_term": ["Cystic Fibrosis", "Fibrosis"]
+  },
+  "intervention_browse": {
+    "mesh_term": "Ivacaftor"
+  },
+  "clinical_results": {
+    "participant_flow": {
+      "pre_assignment_details": "A total of 18 subjects were screened, among which 12 were enrolled, but only 10 completed the treatment phases due to safety concerns and participant withdrawal.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Ivacaftor Treatment Group",
+            "description": "Ivacaftor 50 mg administered orally every 12 hours for 8 weeks."
+          },
+          {
+            "title": "Placebo Group",
+            "description": "Placebo administered orally every 12 hours for 8 weeks."
+          }
+        ]
+      },
+      "period_list": {
+        "period": [
+          {
+            "title": "Treatment Phase",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [2, 2]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "reported_events": {
+      "time_frame": "Baseline up to Month 15",
+      "group_list": {
+        "group": [
+          {
+            "title": "Ivacaftor Treatment Group",
+            "description": "Ivacaftor 50 mg administered orally every 12 hours for 8 weeks."
+          },
+          {
+            "title": "Placebo Group",
+            "description": "Placebo administered orally every 12 hours for 8 weeks."
+          }
+        ]
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 20.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [2, 1]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Infections and infestations",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Infective pulmonary exacerbation of cystic fibrosis",
+                    "counts": [1, 0]
+                  },
+                  {
+                    "sub_title": "Acute otitis media",
+                    "counts": [1, 1]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "0",
+        "default_vocab": "MedDRA 20.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total, other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [3, 2]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "PI is free to publish results of the study after (1) the first multi-center publication, (2) if the sponsor elects not to publish the results, or (3) 18 months after close of the study, whichever occurs first. Proposed publications are to be submitted to the sponsor for review and comment for a period of at least 45 days."
+    },
+    "limitations_and_caveats": "The study was terminated primarily due to low patient enrollment, with only 18 participants screened and insufficient numbers to meet study power. Additionally, the safety profiles raised concerns due to the observed adverse events, leading to withdrawals and altered treatment adherence."
+  }
+}
+```

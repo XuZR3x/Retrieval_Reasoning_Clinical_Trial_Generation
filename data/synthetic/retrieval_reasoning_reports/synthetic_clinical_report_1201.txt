@@ -1,0 +1,124 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "SUNIT-003",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Phase 2 Trial of Sunitinib in Patients with Advanced Metastatic Non-Small Cell Lung Cancer",
+    "official_title": "An Open-Label, Non-Randomized Phase 2 Trial Evaluating the Efficacy and Safety of Sunitinib in Patients With Advanced Metastatic Non-Small Cell Lung Cancer After First-Line Treatment",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial was intended to investigate the efficacy of Sunitinib in patients suffering from advanced metastatic non-small cell lung cancer (NSCLC) following first-line therapy. The study aimed to enroll 50 subjects, administering Sunitinib at a dose of 50 mg/day for 4 weeks, followed by a 2-week recovery period. However, the study was terminated prematurely due to failure in meeting the primary efficacy endpoint of overall response rate, which was insufficiently demonstrated, signifying that the treatment did not induce an adequate response in this cohort."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Failed to meet primary efficacy endpoints.",
+    "start_date": "January 2011",
+    "completion_date": "March 2013",
+    "primary_completion_date": "February 2013",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "From start of study treatment until disease progression or end of study (up to 18 months)",
+      "description": "The percentage of patients who achieved a complete response (CR) or partial response (PR) as determined by Response Evaluation Criteria in Solid Tumors (RECIST)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the date of the first dose until first documentation of disease progression or death (up to 18 months)",
+        "description": "Time from initiation of treatment to the first documented disease progression or death due to any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From the first dose until death (up to 18 months)",
+        "description": "Time from the date of the first dose to the date of death from any cause."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study period (up to 18 months)",
+        "description": "Reporting of adverse events using the NCI Common Terminology Criteria for Adverse Events (CTCAE) version 4.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "5",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Sunitinib Treatment Arm",
+      "arm_group_type": "Experimental",
+      "description": "Patients received Sunitinib 50 mg daily for 4 weeks, followed by a 2-week off period."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Sunitinib",
+      "description": "Sunitinib administered at a dose of 50 mg daily for 28 days with a planned 14-day rest period."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed diagnosis of advanced metastatic non-small cell lung cancer.\n- Patients must have failed at least one line of systemic therapy.\n- Measurable disease as defined by RECIST.\n- Age ≥ 18 years.\n\nExclusion Criteria:\n- Prior treatment with sunitinib or any other tyrosine kinase inhibitor.\n- Presence of CNS metastases.\n- NYHA Class III or IV heart failure.\n- Any serious uncontrolled medical condition."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Oncology Research Institute",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94105",
+          "country": "United States"
+        }
+      }
+    }],
+    "verification_date": "August 2024",
+    "study_first_submitted": "August 25, 2010",
+    "study_first_posted": "August 27, 2010",
+    "last_update_posted": "March 2013",
+    "responsible_party": {
+      "name_title": "Dr. Jane Doe",
+      "organization": "Oncology Research Institute"
+    },
+    "keyword": ["Sunitinib", "NSCLC", "Metastatic Lung Cancer"],
+    "condition_browse": {
+      "mesh_term": "Carcinoma, Non-Small-Cell Lung"
+    },
+    "intervention_browse": {
+      "mesh_term": "Sunitinib"
+    },
+    "limitations_and_caveats": "The trial was severely limited by inadequate patient enrollment and severe early occurrences of dose-limiting toxicities, notably major hematological adverse reactions leading to expedited termination."
+  }
+}
+```

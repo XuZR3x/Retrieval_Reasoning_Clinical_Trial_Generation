@@ -1,0 +1,189 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00845642"
+    },
+    "id_info": {
+      "org_study_id": "P05822",
+      "secondary_id": ["2007-001234-60", "109991", "MK-8962-007"],
+      "nct_id": "NCT00845642"
+    },
+    "brief_title": "A Phase 2 Study to Examine the Efficacy and Safety of Corifollitropin Alfa in Inducing Monofollicular Growth in Women with Anovulatory Infertility",
+    "official_title": "A Phase II, Randomized, Controlled, Open-label Study to Evaluate the Efficacy of Corifollitropin Alfa for Inducing Monofollicular Growth in Women with WHO Group II Anovulatory Infertility",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Organon and Co",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Organon and Co",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the effectiveness of corifollitropin alfa in promoting monofollicular growth among women with WHO Group II anovulatory infertility, aiming to overcome historical challenges observed in prior trials."
+    },
+    "detailed_description": {
+      "textblock": "The study was designed in three stages, including an initial safety evaluation phase, followed by a more extensive randomized assessment. Despite initial enthusiasm, persistent challenges in dosing schedules led to inadequate ovarian stimulation. Adverse events significantly impacted patient retention, and the open-label format invited potential biases affecting treatment evaluations."
+    },
+    "overall_status": "Terminated",
+    "start_date": "March 10, 2009",
+    "completion_date": "March 10, 2010",
+    "primary_completion_date": "January 15, 2010",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Monofollicular Response Rate",
+      "time_frame": "At the day of bolus injection of hCG (up to 21 days)",
+      "description": "Monofollicular response defined as the presence of one follicle ≥ 18 mm without any other follicles ≥ 15 mm on the day of hCG injection."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Ovulation Confirmation Rate",
+        "time_frame": "Approximately 8 days post hCG injection",
+        "description": "Ovulation confirmed by serum progesterone levels ≥ 15 nmol/L."
+      },
+      {
+        "measure": "Cancellation Rate",
+        "time_frame": "Up to 4 weeks after hCG injection",
+        "description": "Cancelled treatments due to AEs or insufficient response."
+      },
+      {
+        "measure": "Incidence of Ovarian Hyperstimulation Syndrome (OHSS)",
+        "time_frame": "During the treatment period up to 14 weeks post-injection",
+        "description": "Incidence rates of different grades of OHSS as per clinic standards."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "12",
+    "condition": "Ovulation Induction",
+    "arm_group": [
+      {
+        "arm_group_label": "Corifollitropin Alfa + Follicle Stimulating Hormone (FSH)",
+        "arm_group_type": "Experimental",
+        "description": "Participants received a subcutaneous injection of corifollitropin alfa followed by daily doses of FSH, intended to achieve an appropriate follicular response."
+      },
+      {
+        "arm_group_label": "Corifollitropin Alfa + hCG",
+        "arm_group_type": "Experimental",
+        "description": "Participants received a subcutaneous injection of corifollitropin alfa, followed by hCG, similar to the second arm."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Corifollitropin Alfa",
+        "description": "Subcutaneous injection administered during the first three days of the treatment protocol.",
+        "arm_group_label": ["Corifollitropin Alfa + FSH", "Corifollitropin Alfa + hCG"],
+        "other_name": ["Org 36286", "MK-8962"]
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Follicle Stimulating Hormone (FSH)",
+        "description": "Daily injections of FSH administered after the initial corifollitropin alfa dosing, starting from an appropriate follicular size.",
+        "arm_group_label": "Corifollitropin Alfa + FSH"
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Human Chorion Gonadotropin (hCG)",
+        "description": "Daily hCG was given once follicles reached the designated size.",
+        "arm_group_label": "Corifollitropin Alfa + hCG"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Age 18-40 years.\n- Diagnosis of WHO Group II anovulatory infertility\n- BMI 18-30 kg/m².\n\nExclusion Criteria: \n- Pre-existing ovarian conditions, severe gastrointestinal disorders, or other comorbidities affecting treatment adherence."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "40 Years",
+      "healthy_volunteers": "No"
+    },
+    "verification_date": "May 2023",
+    "study_first_submitted": "October 15, 2009",
+    "study_first_posted": "October 20, 2009",
+    "last_update_submitted": "August 28, 2024",
+    "last_update_posted": "September 1, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Initially aimed to enroll 30 participants; only 12 were enrolled due to high dropout rates related to adverse events.",
+        "group_list": [
+          {
+            "title": "Corifollitropin Alfa + FSH",
+            "description": "6 participants were enrolled but only 2 completed treatment successfully."
+          },
+          {
+            "title": "Corifollitropin Alfa + hCG",
+            "description": "6 participants were enrolled, with equally insufficient outcomes."
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout the treatment period (up to 14 weeks post-initial corifollitropin alfa injection).",
+        "group_list": {
+          "group": [
+            {
+              "title": "Corifollitropin Alfa + FSH",
+              "description": "Several participants experienced severe AEs, including OHSS, causing treatment cancellations."
+            },
+            {
+              "title": "Corifollitropin Alfa + hCG",
+              "description": "The same issues were noted, contributing to early study termination."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "category_list": {
+          "category": {
+            "title": "Total Serious Adverse Events",
+            "event_list": {
+              "event": {
+                "sub_title": "Total Events",
+                "counts": [4, 5] 
+              }
+            }
+          }
+        },
+        "other_events": {
+          "category_list": {
+            "category": [
+              {
+                "title": "Overall AEs",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Adverse events leading to treatment cancellation",
+                    "counts": [4, 4]
+                  }
+                }
+              },
+              {
+                "title": "Reproductive system and breast disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Severe OHSS cases",
+                    "counts": [3, 2]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

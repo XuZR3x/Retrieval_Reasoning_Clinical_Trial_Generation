@@ -1,0 +1,275 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02948156"
+    },
+    "id_info": {
+      "org_study_id": "HCC-002",
+      "nct_id": "NCT02948156"
+    },
+    "brief_title": "Bendamustine with Novel Combination for Relapsed Multiple Myeloma",
+    "official_title": "Phase I/II Study of Bendamustine in Combination with Elotuzumab and Daratumumab in Patients with Relapsed or Refractory Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "HCC Oncology",
+        "agency_class": "Other"
+      },
+      "collaborator": [
+        {
+          "agency": "AbbVie Inc.",
+          "agency_class": "Industry"
+        },
+        {
+          "agency": "Bristol-Myers Squibb",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "HCC Oncology",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This is an open-label, Phase I/II study designed to evaluate the safety and efficacy of bendamustine in combination with elotuzumab and daratumumab in patients diagnosed with relapsed or refractory multiple myeloma. The study aims to determine the maximum tolerated dose (MTD) of bendamustine when combined with these monoclonal antibodies."
+    },
+    "detailed_description": {
+      "textblock": "Multiple myeloma (MM), a malignancy of plasma cells, continues to present significant treatment challenges, particularly in patients with relapsed or refractory disease. While bendamustine has demonstrated effectiveness as a single agent, its role in combination with other agents remains to be clarified. This study sought to explore the safety and tolerability of bendamustine combined with elotuzumab, an anti-SLAMF7 monoclonal antibody, and daratumumab, a CD38-targeted monoclonal antibody. Despite initial optimism regarding their synergistic potential, the study was hampered by several factors including difficulties in patient recruitment, adverse effects from toxicity, and a perceived lack of clear therapeutic benefit in contrast to existing treatment paradigms."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and excessive dosing-related toxicities",
+    "start_date": "November 15, 2016",
+    "completion_date": "October 12, 2019",
+    "primary_completion_date": "September 15, 2018",
+    "phase": "Phase I/II",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Maximum Tolerated Dose (MTD) of Bendamustine",
+        "time_frame": "Up to 6 months",
+        "description": "The primary objective is to determine the MTD of bendamustine when administered in combination with elotuzumab and daratumumab, identified when <33% of patients experience dose-limiting toxicities."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 18 months",
+        "description": "The ORR will be assessed following the guidelines of the International Myeloma Working Group (IMWG), including complete response (CR) and partial response (PR) rates."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From start of treatment until disease progression or death, assessed up to 40 months",
+        "description": "PFS is defined as the time from the start of treatment until the date of first documented progression or death from any cause."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Throughout the study, up to 40 months",
+        "description": "The safety profile will include the incidence of any adverse events categorized by severity (grades 1-5) according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Multiple Myeloma",
+    "arm_group": {
+      "arm_group_label": "Bendamustine/Elotuzumab/Daratumumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive bendamustine IV over 1 hour on Days 1 and 4; elotuzumab IV on Days 1 and 8 during Cycle 1, then Day 1 of subsequent cycles; and daratumumab IV on Day 1 of each cycle. Treatment repeats every 28 days for up to 8 cycles."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bendamustine",
+        "description": "Bendamustine is administered at escalating doses, starting at 70 mg/m^2 IV over 1 hour on Days 1 and 4 of each 28-day cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Elotuzumab",
+        "description": "Elotuzumab is administered as an IV infusion at 10 mg/kg on Days 1 and 8 of Cycle 1, followed by Day 1 of subsequent cycles."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daratumumab",
+        "description": "Daratumumab is administered at 16 mg/kg IV on Day 1 of each cycle, starting in Cycle 1."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adults aged 18-75 years with a confirmed diagnosis of relapsed or refractory multiple myeloma.\r\n2. At least 1 prior line of therapy that included either lenalidomide or bortezomib.\r\n3. Measurable disease, defined by serum or urine M-protein or light chain measurements.\r\n4. ECOG Performance Status 0 to 2.\r\n5. Life expectancy > 3 months.\r\n\r\nExclusion Criteria:\r\n1. Known hypersensitivity to bendamustine, elotuzumab, or daratumumab.\r\n2. Significant comorbidities that may increase risk during trial participation, including significant cardiovascular or pulmonary diseases.\r\n3. Pregnancy or lactation.\r\n4. Documented history of central nervous system involvement by myeloma.\r\n5. Concurrent malignancies requiring active treatment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "HCC Oncology"
+    },
+    "location": {
+      "facility": {
+        "name": "HCC Oncology Research Center",
+        "address": {
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46204",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "October 2019",
+    "study_first_submitted": "August 1, 2016",
+    "study_first_posted": "August 5, 2016",
+    "last_update_submitted": "October 1, 2019",
+    "last_update_posted": "October 5, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "HCC Oncology",
+      "investigator_full_name": "Sherif Farag, MB, BS",
+      "investigator_title": "Sponsor-Investigator"
+    },
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bendamustine Hydrochloride", "Elotuzumab", "Daratumumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Between November 2016 and February 2019, 30 subjects were screened; however, only 15 were enrolled due to insufficient patient recruitment.",
+        "group_list": {
+          "group": {
+            "title": "Bendamustine/Elotuzumab/Daratumumab",
+            "description": "Patients received bendamustine, elotuzumab, and daratumumab as per study protocol across the study phases."
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "From C1D1 up to 30 days after the last treatment.",
+        "desc": "Adverse events were collected and assessed at each treatment visit. Serious adverse events were monitored and reported."
+      },
+      "serious_events": {
+        "default_vocab": "CTCAEv4.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, all-cause mortality",
+                    "counts": 2
+                  },
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": 10
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Infections",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Pneumonia",
+                    "counts": 4
+                  },
+                  {
+                    "sub_title": "Febrile Neutropenia",
+                    "counts": 3
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Nausea",
+                    "counts": 5
+                  },
+                  {
+                    "sub_title": "Vomiting",
+                    "counts": 4
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "default_vocab": "CTCAEv4.0",
+        "default_assessment": "Non-systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": 20
+                }
+              }
+            },
+            {
+              "title": "Hematological disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Anemia",
+                    "counts": 6
+                  },
+                  {
+                    "sub_title": "Thrombocytopenia",
+                    "counts": 5
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Neurological disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Dizziness",
+                    "counts": 3
+                  },
+                  {
+                    "sub_title": "Headaches",
+                    "counts": 4
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Annesha Majumdar",
+        "organization": "HCC Oncology",
+        "phone": "3179212050",
+        "email": "amajumdar@hoosiercancer.org"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,305 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02564998"
+    },
+    "id_info": {
+      "org_study_id": "RU-X-2024",
+      "nct_id": "NCT02564998"
+    },
+    "brief_title": "Phase 3 Study of Ruxolitinib in Patients With Refractory Chronic Graft-versus-Host Disease (cGVHD)",
+    "official_title": "A Multicenter, Open-label, Phase 3 Study of Ruxolitinib in Patients With Refractory Chronic Graft-versus-Host Disease (cGVHD) Following Hematopoietic Stem Cell Transplantation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaCorp",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaCorp",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase 3, open-label study aimed to evaluate the efficacy and safety of ruxolitinib in patients diagnosed with refractory chronic graft-versus-host disease (cGVHD) post-hematopoietic stem cell transplantation. The study enrolled a diverse population across multiple centers to assess clinical outcomes and patient-reported symptoms effectively."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 10, 2016",
+    "completion_date": "June 20, 2019",
+    "primary_completion_date": "March 15, 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR) Based on Investigator Assessment at Week 24",
+      "time_frame": "24 weeks",
+      "description": "The primary outcome is the proportion of participants achieving a complete or partial response according to the 2014 National Institutes of Health criteria for cGVHD."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in cGVHD Symptoms as Measured by the Lee cGVHD Symptom Scale",
+        "time_frame": "Weeks 12 and 24",
+        "description": "Assessment of changes in the severity of cGVHD symptoms using the validated Lee cGVHD Symptom Scale, with a maximum score reflecting worse symptomatology."
+      },
+      {
+        "measure": "Percentage of Participants With Adverse Events (AEs)",
+        "time_frame": "From first dose until 30 days after the last dose",
+        "description": "Monitoring the types and frequencies of AEs, including serious adverse events (SAEs), to inform the safety profile of ruxolitinib."
+      },
+      {
+        "measure": "Quality of Life as Assessed by the EORTC QLQ-C30",
+        "time_frame": "Baseline, Week 12, Week 24",
+        "description": "Exploration of the participants' health-related quality of life via the EORTC QLQ-C30, focusing on functional scales and symptom scales."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "200",
+    "condition": "Chronic Graft-versus-Host Disease (cGVHD)",
+    "arm_group": {
+      "arm_group_label": "Ruxolitinib Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "All participants will receive ruxolitinib starting at 10 mg orally twice daily, with dose adjustments based on clinical response and tolerability."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Ruxolitinib",
+      "description": "Ruxolitinib is a selective JAK1/JAK2 inhibitor administered orally to target the underlying inflammatory pathways in cGVHD."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients aged 18 years and older with a confirmed diagnosis of cGVHD resistant to at least one prior therapy.\n- Must have provided informed consent before participation in the trial.\nExclusion Criteria:\n- Prior treatment with a JAK inhibitor or any investigational product within 30 days prior to screening.\n- Significant uncontrolled medical conditions or infections."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Carter",
+      "role": "Principal Investigator",
+      "affiliation": "PharmaCorp Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "PharmaCorp Research Center",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02108",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "PharmaCorp Clinical Site",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94105",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Academy Medical Center",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2020",
+    "study_first_submitted": "October 5, 2015",
+    "study_first_submitted_qc": "October 7, 2015",
+    "study_first_posted": "October 15, 2015",
+    "results_first_submitted": "August 25, 2019",
+    "results_first_submitted_qc": "September 1, 2019",
+    "results_first_posted": "September 5, 2019",
+    "last_update_submitted": "December 1, 2020",
+    "last_update_submitted_qc": "December 1, 2020",
+    "last_update_posted": "December 8, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "chronic graft-versus-host disease",
+      "cGVHD",
+      "ruxolitinib",
+      "JAK inhibitor"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Graft-versus-Host Disease"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "200 participants were screened for eligibility; 180 were enrolled and treated with ruxolitinib. 20 participants were excluded due to failure to meet inclusion criteria.",
+        "group_list": {
+          "group": {
+            "title": "Ruxolitinib Treatment Group",
+            "description": "Participants receiving ruxolitinib followed up for adverse events and clinical responses."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Study Duration",
+            "milestone_list": {
+              "milestone": [
+                {"title": "STARTED", "participants_list": {"participants": [200]}},
+                {"title": "COMPLETED", "participants_list": {"participants": [180]}},
+                {"title": "NOT COMPLETED", "participants_list": {"participants": [20]}}
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {"title": "Disease Progression", "participants_list": {"participants": [10]}},
+                {"title": "Adverse Event", "participants_list": {"participants": [5]}},
+                {"title": "Lost to Follow-up", "participants_list": {"participants": [5]}}
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Ruxolitinib Treatment Group",
+              "description": "Participants were assessed for baseline characteristics and clinical status."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [180]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation"
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants"
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Response Rate (ORR)",
+              "description": "Determination of ORR at 24 weeks based on clinical assessment.",
+              "time_frame": "24 weeks",
+              "group_list": {
+                "group": {
+                  "title": "Ruxolitinib Treatment Group"
+                }
+              },
+              "measure": {
+                "title": "Overall Response Rate",
+                "units": "Participants",
+                "param": "Count",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [80]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Change in cGVHD Symptoms",
+              "description": "Statistical analysis of symptom severity changes over 24 weeks.",
+              "time_frame": "Weeks 12 and 24",
+              "group_list": {
+                "group": {
+                  "title": "Ruxolitinib Treatment Group"
+                }
+              },
+              "measure": {
+                "title": "Change in Symptoms",
+                "units": "score",
+                "param": "Mean",
+                "dispersion": "Standard Deviation"
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "From treatment initiation until 30 days post-treatment.",
+          "group_list": {
+            "group": {
+              "title": "Ruxolitinib Treatment Group",
+              "description": "Monitoring of adverse events and serious adverse events."
+            }
+          },
+          "serious_events": {
+            "category_list": {
+              "total_events": {
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": 20
+                  }
+                }
+              }
+            }
+          },
+          "other_events": {
+            "category_list": {
+              "total_events": {
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, adverse events",
+                    "counts": 55
+                  }
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The agreements standardize conditions but do not restrict publication of findings."
+        },
+        "point_of_contact": {
+          "name_or_title": "Clinical Research Coordinator",
+          "organization": "PharmaCorp",
+          "phone": "1-800-555-0123",
+          "email": "info@pharmacorp.com"
+        }
+      }
+    }
+  }
+}
+```

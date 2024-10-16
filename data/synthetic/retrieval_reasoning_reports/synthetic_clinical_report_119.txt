@@ -1,0 +1,153 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03589412"
+    },
+    "id_info": {
+      "org_study_id": "FEN-2003",
+      "nct_id": "NCT03589412"
+    },
+    "brief_title": "Evaluation of the Efficacy and Safety of Fentanyl for Postoperative Pain Management in Patients Undergoing Total Knee Arthroplasty",
+    "official_title": "A Randomized, Open-Label, Parallel-Group Study Assessing the Efficacy and Safety of Fentanyl in Comparison to Morphine for Postoperative Pain Management in Patients Following Total Knee Arthroplasty",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Hospital Zurich",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University Hospital Zurich",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to assess the overall effectiveness and safety profile of fentanyl compared to morphine for managing postoperative pain in patients undergoing total knee arthroplasty (TKA). The primary hypothesis was that fentanyl would yield superior analgesic outcomes with an acceptable safety profile."
+    },
+    "detailed_description": {
+      "textblock": "Despite the hypothesized advantages of fentanyl’s pharmacokinetics, the trial revealed significant shortcomings. Patients treated with fentanyl displayed an alarming increase in incidents of respiratory depression postoperatively, leading to the premature termination of the study. Of the total randomized participants, 60% reported notable side effects aligned with opioid use, underscoring safety concerns associated with fentanyl. Moreover, a pharmacodynamics evaluation indicated inadequate analgesic control when fentanyl was utilized, as evidenced by comparable pain scores measured via the Numeric Rating Scale (NRS) to those observed in morphine-treated patients. Specific metrics from postoperative assessments, conducted at baseline, 24 hours, and 48 hours post-surgery, indicated that fentanyl underperformed in effectively managing pain, resulting in a discernible lack of analgesic efficacy compared to traditional morphine regimens. Unexpectedly high levels of pain reported in the fentanyl cohort necessitated the administration of supplementary analgesics, further complicating recovery and patient satisfaction. Additionally, patient non-compliance regarding pain assessment measures impeded the reliability of subjective outcome comparisons between the two treatment arms. This uncertainty was exacerbated by inconsistent metabolic responses to fentanyl, leading to unpredictable and unevenly distributed therapeutic effects across participants. Overall, adverse outcomes and ineffective pain management protocols contributed to the decision to cease the trial."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Determined to have unacceptable safety profile due to increased incidents of respiratory depression and lack of therapeutic efficacy.",
+    "start_date": "June 2018",
+    "completion_date": "November 2019",
+    "primary_completion_date": "July 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Pain Score using Numeric Rating Scale (NRS)",
+      "time_frame": "From baseline to 48 hours postoperatively",
+      "description": "Mean pain scores were to be recorded at 24-hour intervals following TKA."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of respiratory depression",
+        "time_frame": "From postoperative admission to discharge",
+        "description": "Rate of respiratory depression events as assessed by clinical monitoring."
+      },
+      {
+        "measure": "Need for supplementary analgesics",
+        "time_frame": "From postoperative admission up to 48 hours post-surgery",
+        "description": "Assessment of additional opioid consumption required for pain relief."
+      },
+      {
+        "measure": "Patient satisfaction survey results",
+        "time_frame": "24 hours post-surgery",
+        "description": "Standardized questionnaire assessing overall satisfaction with pain management."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Postoperative Pain, Total Knee Arthroplasty",
+    "arm_group": [
+      {
+        "arm_group_label": "Fentanyl",
+        "arm_group_type": "Experimental",
+        "description": "Patients received a fentanyl infusion (initial dose of 25-50 mcg, titrated as needed) via PCA pump for the management of postoperative pain."
+      },
+      {
+        "arm_group_label": "Morphine",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received a morphine infusion (initial dose of 2-4 mg, titrated as needed) via PCA pump for the management of postoperative pain."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fentanyl",
+        "description": "Fentanyl infusion for postoperative pain relief administered via PCA pump.",
+        "arm_group_label": "Fentanyl"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Morphine",
+        "description": "Morphine infusion for postoperative pain relief administered via PCA pump.",
+        "arm_group_label": "Morphine"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 45 to 80 years undergoing scheduled total knee arthroplasty.\r\n- Ability to provide written informed consent.\r\n- No contraindications for opioid analgesics.\r\n\r\nExclusion Criteria:\r\n\r\n- Known allergy to fentanyl or morphine.\r\n- History of respiratory issues or sleep apnea.\r\n- Current treatment with any anticoagulant or antiplatelet agents.\r\n- Patients participating in other clinical studies."
+      },
+      "gender": "All",
+      "minimum_age": "45 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Martin Reiter, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University Hospital Zurich"
+    },
+    "location": {
+      "facility": {
+        "name": "University Hospital Zurich",
+        "address": {
+          "city": "Zurich",
+          "state": "Zurich",
+          "zip": "8006",
+          "country": "Switzerland"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Switzerland"
+    },
+    "verification_date": "November 2019",
+    "study_first_submitted": "March 15, 2018",
+    "study_first_submitted_qc": "March 18, 2018",
+    "study_first_posted": "March 20, 2018",
+    "last_update_submitted": "February 5, 2020",
+    "last_update_submitted_qc": "February 7, 2020",
+    "last_update_posted": "February 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University Hospital Zurich",
+      "investigator_full_name": "Dr. Martin Reiter, MD"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Postoperative Pain",
+        "Pain Management",
+        "Knee Arthroplasty",
+        "Fentanyl",
+        "Opioid Analgesics"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Fentanyl",
+        "Morphine"
+      ]
+    }
+  }
+}
+```

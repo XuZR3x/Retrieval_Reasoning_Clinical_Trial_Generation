@@ -1,0 +1,126 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03377895"
+    },
+    "id_info": {
+      "org_study_id": "2025-0156",
+      "nct_id": "NCT03377895"
+    },
+    "brief_title": "Asenapine for Treatment-Resistant Depression in Adults",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of Asenapine in Adults with Treatment-Resistant Unipolar Major Depression",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Neuropharma, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Neuropharma, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Treatment-resistant major depressive disorder (MDD) represents a significant clinical challenge, characterized by an inadequate response to conventional antidepressants. Asenapine, an atypical antipsychotic with potential antidepressant properties, was hypothesized to provide symptomatic relief where in prior treatments have failed. This study aimed to evaluate the efficacy and safety of asenapine compared to placebo in adults with treatment-resistant MDD over 12 weeks."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate recruitment and insufficient evidence of efficacy",
+    "start_date": "February 1, 2024",
+    "completion_date": "February 15, 2025",
+    "primary_completion_date": "December 15, 2024",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Hamilton Depression Rating Scale (HAM-D) total score from baseline to 12 weeks",
+      "time_frame": "Baseline, 6 weeks, 12 weeks",
+      "description": "HAM-D is a clinician-administered questionnaire used to assess the severity of depression symptoms."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Response rate defined as at least a 50% reduction in HAM-D score by week 12",
+        "time_frame": "12 weeks",
+        "description": "Defined as a significant reduction in depression severity."
+      },
+      {
+        "measure": "Change in quality of life as assessed by the Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q)",
+        "time_frame": "Baseline, 6 weeks, 12 weeks",
+        "description": "To assess the impact of treatment on the overall enjoyment and satisfaction with life."
+      },
+      {
+        "measure": "Incidence of treatment-emergent adverse events (TEAEs)",
+        "time_frame": "Throughout the study duration",
+        "description": "To monitor safety and tolerability."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "53",
+    "condition": "Major Depressive Disorder, Treatment-Resistant",
+    "arm_group": [
+      {
+        "arm_group_label": "Asenapine Group",
+        "arm_group_type": "Experimental",
+        "description": "Asenapine administered at 5 mg sublingually twice daily."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered sublingually to match asenapine group."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Asenapine",
+        "description": "5 mg administered sublingually twice daily.",
+        "arm_group_label": "Asenapine Group",
+        "other_name": "Saphris"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo tablet matching asenapine for sublingual administration.",
+        "arm_group_label": "Placebo Group",
+        "other_name": "sugar pill"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Adults aged 18-65 with a confirmed diagnosis of unipolar major depressive disorder.\r\n  -  Must have had an inadequate response to at least two adequate antidepressant trials.\r\n  -  Score > 20 on HAM-D at screening.\r\n\r\n  Exclusion Criteria:\r\n\r\n  -  History of bipolar disorder or schizophrenia.\r\n  -  A significant medical condition that may interfere with efficacy or safety assessments.\r\n  -  Pregnant or nursing females.\r\n  -  Active substance use disorder excluding nicotine.\r\n  -  Previous treatment with asenapine."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "results_reference": {
+      "citation": "Smith J, Doe R. Efficacy of asenapine in treatment-resistant depression: A randomized controlled trial. J Affect Disorders. 2025 Mar;275:123-130. doi: 10.1016/j.jad.2025.01.023.",
+      "PMID": "27000000"
+    },
+    "verification_date": "May 2024",
+    "study_first_submitted": "November 1, 2023",
+    "study_first_submitted_qc": "November 1, 2023",
+    "study_first_posted": "November 5, 2023",
+    "last_update_submitted": "April 22, 2024",
+    "last_update_submitted_qc": "April 22, 2024",
+    "last_update_posted": "April 24, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Major Depressive Disorder"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Asenapine", "Placebo"]
+    }
+  }
+}
+```

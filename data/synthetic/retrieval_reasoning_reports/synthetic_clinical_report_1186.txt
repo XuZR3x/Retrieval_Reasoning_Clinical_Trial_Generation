@@ -1,0 +1,155 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03491273"
+    },
+    "id_info": {
+      "org_study_id": "ACR1-202003",
+      "nct_id": "NCT03491273"
+    },
+    "brief_title": "Combination Therapy of Pembrolizumab and Chemotherapy in Patients With Resistant Non-Small Cell Lung Cancer",
+    "official_title": "A Multi-Center, Phase II Trial of Pembrolizumab in Combination with Chemotherapy for Patients with Non-Small Cell Lung Cancer Progressed on Prior PD-1/PD-L1 Inhibition",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme LLC",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This multi-center, open-label, single-arm Phase II trial aimed to assess the efficacy and safety of pembrolizumab in combination with a standard chemotherapy regimen in patients with advanced NSCLC who had progressive disease during or after anti-PD-1/PD-L1 therapy."
+    },
+    "detailed_description": {
+      "textblock": "OUTLINE: This is a single-group study. Patients receive pembrolizumab IV on Day 1 and standard chemotherapy (carboplatin and paclitaxel) on Day 1 every 21 days for up to 4 cycles. Patients are then followed for disease assessment.\n\nPrimary endpoints include overall survival (OS) and progression-free survival (PFS) using RECIST v1.1 criteria. Safety will be monitored by recording adverse events based on Common Terminology Criteria for Adverse Events (CTCAE) v5.0."
+    },
+    "overall_status": "Withdrawn",
+    "why_stopped": "Insufficient enrollment and anticipated low efficacy",
+    "start_date": "April 15, 2018",
+    "completion_date": "July 10, 2021",
+    "primary_completion_date": "January 10, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Up to 24 months after the last subject has been enrolled",
+      "description": "Evaluate if the combination of pembrolizumab and chemotherapy improves OS compared to historical controls."
+    },
+    "secondary_outcome": [{
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the start of treatment until disease progression or death, whichever occurs first, assessed up to 24 months.",
+        "description": "Measure PFS to determine the efficacy of pembrolizumab in conjunction with chemotherapy in this resistant cohort."
+      },
+      {
+        "measure": "Adverse Event Rate",
+        "time_frame": "Ongoing assessment from Day 1 until 30 days after last dose of treatment.",
+        "description": "Assess adverse events, particularly those graded as 3 or higher, as indicative of treatment tolerability."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "0",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Pembrolizumab + Carboplatin + Paclitaxel",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive pembrolizumab 200 mg IV on Day 1 plus carboplatin and paclitaxel every 21 days."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Pembrolizumab 200 mg IV on Day 1 of each cycle.",
+        "arm_group_label": "Pembrolizumab + Carboplatin + Paclitaxel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Carboplatin IV at standard dosing on Day 1 of each cycle.",
+        "arm_group_label": "Pembrolizumab + Carboplatin + Paclitaxel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Paclitaxel IV at standard dosing on Day 1 of each cycle.",
+        "arm_group_label": "Pembrolizumab + Carboplatin + Paclitaxel"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Patients must be 18 years or older.\n  -  Histologically or cytologically confirmed diagnosis of non-small cell lung cancer (NSCLC).\n  -  Evidence of disease progression during or after anti-PD-1 or PD-L1 therapy.\n  -  Measurable disease per RECIST v1.1.\n  -  ECOG Performance Status of 0 to 1.\n\nExclusion Criteria: \n\n  -  Prior chemotherapy or targeted therapy within 4 weeks prior to the first dose.\n  -  Active autoimmune disease or history of significant immune-related adverse effects.\n  -  Known uncontrolled interstitial lung disease or infectious pneumonitis.\n  -  Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Smith, MD",
+      "role": "Study Chair",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "February 5, 2018",
+    "study_first_posted": "February 14, 2018",
+    "last_update_posted": "July 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_full_name": "John Doe, MD",
+      "investigator_affiliation": "National Cancer Institute"
+    },
+    "keyword": ["Pembrolizumab", "Chemotherapy", "Non-Small Cell Lung Cancer"],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Pembrolizumab"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "reported_events": {
+      "time_frame": "Adverse events were reported until 30 days post-treatment.",
+      "desc": "The adverse event profile for pembrolizumab indicated significant tolerability issues in an already resistant population."
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal investigators are not employees of the sponsoring organization.",
+      "restrictive_agreement": "No agreement exists that restricts the investigator's rights to discuss or publish trial results after its completion."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trials Office",
+      "organization": "National Cancer Institute",
+      "phone": "(301) 496-4000",
+      "email": "clinicaltrials@cancer.gov"
+    }
+  }
+}
+```

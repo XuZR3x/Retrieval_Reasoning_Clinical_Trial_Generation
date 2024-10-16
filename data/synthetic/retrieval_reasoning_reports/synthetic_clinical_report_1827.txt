@@ -1,0 +1,135 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03985634"
+    },
+    "id_info": {
+      "org_study_id": "ABC-APRI-2019",
+      "nct_id": "NCT03985634"
+    },
+    "brief_title": "Safety and Efficacy of Aprepitant in Controlling Chemotherapy-Induced Nausea and Vomiting: A Focus on Adverse Interactions",
+    "official_title": "A Phase III Multicenter, Randomized, Open-Label Study Evaluating the Impact of Aprepitant on Nausea and Vomiting Control in Patients Undergoing Highly Emetogenic Chemotherapy with and without Concurrent CYP3A4 Substrates",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Oncology Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the safety and efficacy of aprepitant in managing chemotherapy-induced nausea and vomiting (CINV) in patients treated with highly emetogenic chemotherapy regimens, specifically analyzing potential pharmacokinetic interactions with concomitantly administered CYP3A4 substrates."
+    },
+    "detailed_description": {
+      "textblock": "This Phase III trial involved randomizing patients with oncological diagnoses receiving high-doses of cisplatin or other potent emetogenic agents, either in combination with CYP3A4 substrate medications or as monotherapy. By evaluating the rate of emetic episodes and adverse interactions, this study sought to elucidate the efficacy of aprepitant under potentially compromising conditions."
+    },
+    "overall_status": "Terminated",
+    "start_date": "October 2019",
+    "completion_date": "July 2022",
+    "primary_completion_date": "July 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "The percentage of participants with controlled nausea (no vomiting) in the first 120 hours post-chemotherapy treatment",
+      "time_frame": "0-120 hours after initiation of chemotherapy"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Assessment of nausea severity using a visual analogue scale (VAS) post-treatment",
+        "time_frame": "Daily from Day 1 to Day 5 following chemotherapy"
+      },
+      {
+        "measure": "Occurrences of rescue antiemetic therapy",
+        "time_frame": "Throughout the first 120 hours post-chemotherapy"
+      },
+      {
+        "measure": "Incidence of adverse events related to aprepitant and chemotherapy",
+        "time_frame": "Up to 28 days following the first dose of study drug"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "350",
+    "condition": "Chemotherapy-Induced Nausea and Vomiting",
+    "arm_group": [
+      {
+        "arm_group_label": "Aprepitant Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive Aprepitant (125 mg on Day 1, 80 mg on Days 2 and 3) alongside standard antiemetic regimen including 5-HT3 antagonists and dexamethasone during highly emetogenic chemotherapy."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive only the standard antiemetic regimen including 5-HT3 antagonists and dexamethasone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Aprepitant",
+        "description": "25 mg on Day 1, 80 mg on Days 2 and 3.",
+        "arm_group_label": "Aprepitant Group",
+        "other_name": "Emend"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Patients aged 18 years and older diagnosed with malignancies scheduled to receive chemotherapy classified as highly emetogenic.\r\n\r\n2. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n\r\n3. Adequate organ function, including liver and renal parameters.\r\n\r\n4. Patients who understand the study protocol and are able to provide informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n1. Concurrent use of medications that are strong CYP3A4 inducers or inhibitors.\r\n\r\n2. Pregnancy or lactation in female patients.\r\n\r\n3. Previous hypersensitivity to any components of the study drug.\r\n\r\n4. Severe comorbidities or active infections that may interfere with study conclusions.\r\n\r\n5. Inability or refusal to provide informed consent."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Oncology Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Cancer Center",
+        "address": {
+          "city": "Anytown",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "April 15, 2019",
+    "study_first_submitted_qc": "April 20, 2019",
+    "study_first_posted": "April 25, 2019",
+    "last_update_submitted": "August 10, 2023",
+    "last_update_submitted_qc": "August 10, 2023",
+    "last_update_posted": "August 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "XYZ Oncology Research Institute",
+      "investigator_full_name": "Jane Doe",
+      "investigator_title": "Director of Clinical Research"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Aprepitant",
+        "CYP3A4",
+        "Chemotherapy-Induced Nausea and Vomiting"
+      ]
+    }
+  }
+}
+```

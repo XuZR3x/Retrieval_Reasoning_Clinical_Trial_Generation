@@ -1,0 +1,183 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on July 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "FOC-001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Perioperative Fluorouracil in Patients with Stage III Colorectal Cancer",
+    "official_title": "A Phase III Randomized Study to Assess the Efficacy of Perioperative Fluorouracil in Combination with Leucovorin in Patients with Surgically Resected Stage III Colorectal Carcinoma: A Multi-Center Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Colorectal Cancer Research Consortium",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Colorectal Cancer Research Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical investigation aimed to determine if perioperative administration of fluorouracil combined with leucovorin could enhance overall survival and disease-free survival rates in patients undergoing surgical resection for Stage III colorectal cancer. The trial was designed to validate the hypothesis that early chemotherapy would reduce recurrence rates."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\r\n\r\nI. To ascertain whether perioperative fluorouracil combined with leucovorin could prolong disease-free survival and overall survival in patients with resected Stage III colorectal carcinoma compared to standard observation.\r\n\r\nII. To evaluate the toxicity profile of the fluorouracil regimen in this patient population.\r\n\r\nOUTLINE: This is a multicenter, open-label, randomized phase III study. Eligible patients with confirmed stage III colorectal cancer will be randomized in a 1:1 ratio to receive either perioperative fluorouracil (600 mg/m^2 over 7 days, starting within 24 hours post-surgery) followed by adjuvant chemotherapy or no perioperative treatment followed by standard adjuvant chemotherapy with leucovorin and 5-FU.\r\n\r\nPatients will be monitored for adverse events, survival outcomes, and disease progression for a total of 5 years post-randomization."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated prematurely due to insufficient efficacy in improving overall and disease-free survival rates, as well as slow patient recruitment.",
+    "start_date": "January 2, 2011",
+    "completion_date": "July 2018",
+    "primary_completion_date": "March 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "5-Year Overall Survival Rate",
+      "time_frame": "Evaluated every 3 months for first 2 years, then annually for up to 5 years post-randomization.",
+      "description": "Overall survival is defined as the duration from randomization to death from any cause. The Kaplan-Meier method was to be used for estimation of the 5-year survival rate."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "5-Year Disease-free Survival Rate",
+        "time_frame": "Evaluated every 3 months for first 2 years, then annually for up to 5 years post-randomization.",
+        "description": "Disease-free survival is defined as the time from randomization to recurrence or second malignancy. Patients alive with no events are censored at their last disease assessment."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Reported during the treatment period and 30 days post-treatment.",
+        "description": "The frequency and grade of treatment-related adverse events will be assessed using CTCAE criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "425",
+    "condition": "Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Fluorouracil + Leucovorin",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive perioperative fluorouracil and leucovorin followed by standard adjuvant chemotherapy."
+      },
+      {
+        "arm_group_label": "Standard Observation",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive no perioperative chemotherapy but standard adjuvant treatment post-surgery."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil",
+        "description": "Fluorouracil (600 mg/m^2) administered intravenously for 7 days within 24 hours post-surgery.",
+        "arm_group_label": ["Fluorouracil + Leucovorin"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "Leucovorin (20 mg/m^2) administered concomitantly with fluorouracil.",
+        "arm_group_label": ["Fluorouracil + Leucovorin"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed Stage III colorectal cancer\r\n- Patients must undergo complete surgical resection\r\n- Age 18 years or older\r\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2\r\n\r\nExclusion Criteria:\r\n- Prior chemotherapy for colorectal cancer\r\n- Other invasive malignancies within the past 5 years\r\n- Significant comorbid conditions impacting trial participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, MD",
+      "role": "Study Chair",
+      "affiliation": "Colorectal Cancer Research Consortium"
+    },
+    "location": {
+      "facility": {
+        "name": "State Cancer Hospital",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62701",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "December 12, 2010",
+    "study_first_submitted_qc": "December 12, 2010",
+    "study_first_posted": "December 15, 2010",
+    "last_update_submitted": "June 5, 2023",
+    "last_update_posted": "June 12, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Fluorouracil + Leucovorin",
+            "description": "Received perioperative fluorouracil and leucovorin."
+          },
+          "group": {
+            "title": "Standard Observation",
+            "description": "Received no perioperative chemotherapy."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "425 patients were enrolled; however, insufficient recruitment hindered completion."
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "No patients completed the full treatment plan due to early termination."
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "desc": "Adverse events monitored from the initiation of treatment until 30 days post-treatment. High rates of adverse events were recorded, including severe gastrointestinal disturbances.",
+        "group_list": {
+          "group": {
+            "title": "Fluorouracil + Leucovorin",
+            "description": "Adverse events noted included nausea, diarrhea, and hematologic toxicity."
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "No restrictions placed on PI's ability to discuss or publish results."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trials Coordination Office",
+        "organization": "Colorectal Cancer Research Consortium",
+        "phone": "555-123-4567"
+      }
+    }
+  }
+}
+```

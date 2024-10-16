@@ -1,0 +1,184 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02581956"
+    },
+    "id_info": {
+      "org_study_id": "UPSM-0023",
+      "nct_id": "NCT02581956"
+    },
+    "brief_title": "Efficacy of Neoadjuvant Paclitaxel Chemotherapy in Patients With Locally Advanced Triple-Negative Breast Cancer.",
+    "official_title": "A Phase II Study Evaluating the Efficacy of Neoadjuvant Paclitaxel in Patients With Locally Advanced Triple-Negative Breast Cancer.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Hospital of San Pedro de Alcántara",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University Hospital of San Pedro de Alcántara",
+    "brief_summary": {
+      "textblock": "Triple-negative breast cancer (TNBC) is known for its aggressive nature and poor prognosis. Neoadjuvant chemotherapy is a standard treatment for downstaging locally advanced cases, and Paclitaxel has shown promise in this setting. This study aimed to evaluate the efficacy of Paclitaxel as a neoadjuvant therapy in patients diagnosed with TNBC. Despite prior anticipations, the trial did not achieve the desired outcomes in pathologic complete response rates (pCR), thus provoking inquiries into patient selection criteria, dosing regimens, and potential pharmacological interactions."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2016",
+    "completion_date": "February 2019",
+    "primary_completion_date": "September 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Pathological Complete Response Rate (pCR) post neoadjuvant therapy.",
+      "time_frame": "Surgery to follow-up after approximately 24 weeks.",
+      "description": "Percentage of subjects exhibiting no histological evidence of remaining cancer in breast tissue and axillary nodes post-surgery."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Clinical Response Rate.",
+        "time_frame": "Evaluated after 12 weeks of neoadjuvant therapy.",
+        "description": "The proportion of patients demonstrating at least a partial response based on clinical evaluations."
+      },
+      {
+        "measure": "Toxicity Profile.",
+        "time_frame": "Monitored throughout the treatment period and up to 30 days post-treatment.",
+        "description": "Adverse events assessed according to the CTCAE v4.0 criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": ["Triple-Negative Breast Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Paclitaxel Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients received Paclitaxel at 80 mg/m² IV infusion weekly for 12 weeks, followed by surgical resection."
+      },
+      {
+        "arm_group_label": "Control Group (Observation)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients were monitored without active treatment until surgical intervention."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Administered at 80 mg/m² via IV infusion weekly for up to 12 weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Female patients aged 18 years and older with a histopathologically confirmed diagnosis of triple-negative breast cancer. \n- Clinical stage IIb or III breast cancer based on AJCC criteria. \n- Performance status of 0-1 on the ECOG scale. \n- Adequate organ function (hepatological, hematological, renal parameters within normal limits). \n\nExclusion Criteria: \n- Previous treatment with any chemotherapeutic agents for breast cancer. \n- Presence of metastatic disease at enrollment. \n- Known hypersensitivity to Taxanes. \n- Concurrent use of medications known to affect Paclitaxel absorption or metabolism."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Carla F. Velasquez, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University Hospital of San Pedro de Alcántara"
+    },
+    "location": {
+      "facility": {
+        "name": "University Hospital of San Pedro de Alcántara",
+        "address": {
+          "city": "Cáceres",
+          "state": "Extremadura",
+          "zip": "10003",
+          "country": "Spain"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Spain"
+    },
+    "verification_date": "May 2019",
+    "study_first_submitted": "September 13, 2015",
+    "study_first_submitted_qc": "October 7, 2015",
+    "study_first_posted": "October 12, 2015",
+    "last_update_submitted": "February 5, 2019",
+    "last_update_posted": "February 10, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Paclitaxel Treatment Group",
+              "description": "Patients underwent 12 weeks of neoadjuvant treatment with Paclitaxel."
+            },
+            {
+              "title": "Control Group (Observation)",
+              "description": "Patients were observed without active treatment."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [30, 30]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [30, 30]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "During the treatment period and up to 30 days after the final dose.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Paclitaxel Treatment Group",
+              "description": "Major reported adverse events included febrile neutropenia, neuropathies, and allergic reactions."
+            },
+            {
+              "title": "Control Group (Observation)",
+              "description": "No adverse events reported as treatment was not initiated."
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "No limitations on publishing results are imposed except for reasonable review periods."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Carla F. Velasquez",
+        "organization": "University Hospital of San Pedro de Alcántara",
+        "phone": "+34 927 21 23 10",
+        "email": "cvelasquez@uhspac.com"
+      }
+    }
+  }
+}
+```

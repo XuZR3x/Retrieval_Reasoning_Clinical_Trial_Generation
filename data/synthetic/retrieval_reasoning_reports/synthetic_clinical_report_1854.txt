@@ -1,0 +1,453 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "URMC-2022-08031",
+      "secondary_id": ["URMC-2022-08031", "CDR0000798765"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Phase III Study of Bevacizumab in Combination With FOLFIRI versus FOLFIRI Alone in Patients with Metastatic Colorectal Cancer",
+    "official_title": "A Randomized, Multi-center, Open-label, Phase III Study to Evaluate the Efficacy and Safety of Bevacizumab in Combination with FOLFIRI Compared to FOLFIRI Alone in Patients with Previously Treated Metastatic Colorectal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Rochester Medical Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Rochester Medical Center",
+    "brief_summary": {
+      "textblock": "This Phase III trial evaluates the combination of bevacizumab with FOLFIRI in comparison to FOLFIRI alone in patients with metastatic colorectal cancer. Key aspects of the study include overall survival and progression-free survival as primary outcomes."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\nPrimary:\n\n1. To assess the overall survival (OS) between patients receiving FOLFIRI with bevacizumab and those treated with FOLFIRI alone.\n\n2. To determine progression-free survival (PFS) rates in both treatment arms.\n\nSecondary:\n\n1. To evaluate the objective response rate (ORR) in patients treated with the combination regimen.\n\n2. To document the incidence of treatment-related adverse events.\n\n3. To perform biomarker analysis to ascertain predictive factors for efficacy.\n\nOUTLINE: Patients are randomized to one of two arms:\n\nArm I: Patients administered FOLFIRI in combination with bevacizumab at 5 mg/kg every two weeks.\n\nArm II: Patients treated with FOLFIRI and placebo.\n\nThe study aims to enroll approximately 400 patients over an 18-month period."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to insufficient patient enrollment and lack of efficacy.",
+    "start_date": "January 15, 2022",
+    "primary_completion_date": "July 15, 2024",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "From randomization to the date of death from any cause, up to 3 years.",
+      "description": "Overall survival is defined as the time from randomization until death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "From randomization until disease progression or death, whichever occurs first, up to 3 years.",
+        "description": "Progression-free survival is defined as the time from randomization to documented disease progression."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "Assessed every 8 weeks for up to 2 years.",
+        "description": "The proportion of participants with either complete or partial response as measured by RECIST 1.1."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "From the start of treatment until 30 days post-treatment.",
+        "description": "The number of participants experiencing grade 3 or higher adverse events assessed by the CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "78",
+    "condition": "Metastatic Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I (FOLFIRI + Bevacizumab)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive FOLFIRI regimen and bevacizumab IV at 5 mg/kg."
+      },
+      {
+        "arm_group_label": "Arm II (FOLFIRI + Placebo)",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive FOLFIRI regimen and placebo IV."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "Administered as an IV infusion at a dose of 5 mg/kg every 2 weeks.",
+        "arm_group_label": ["Arm I (FOLFIRI + Bevacizumab)"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "FOLFIRI",
+        "description": "Administered as per standard protocol including irinotecan, 5-FU, and leucovorin.",
+        "arm_group_label": ["Arm I (FOLFIRI + Bevacizumab)", "Arm II (FOLFIRI + Placebo)"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered IV at a dose equivalent to bevacizumab.",
+        "arm_group_label": ["Arm II (FOLFIRI + Placebo)"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed metastatic colorectal cancer with at least one measurable lesion.\n- Previous adjuvant chemotherapy is permitted if completed at least 6 months prior to randomization.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n- Age ≥ 18 years.\n\nExclusion Criteria:\n\n- History of major cardiovascular events within the last 6 months.\n- Prior treatment with bevacizumab or other VEGF inhibitors.\n- Presence of uncontrolled hypertension.\n- Current use of anticoagulants.\n- Any significant co-morbid illness that, in the investigator's opinion, would compromise patient safety."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Aline R. Smith",
+      "role": "Principal Investigator",
+      "affiliation": "University of Rochester Medical Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University of Rochester Medical Center",
+          "address": {
+            "city": "Rochester",
+            "state": "New York",
+            "zip": "14642",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Highland Hospital",
+          "address": {
+            "city": "Rochester",
+            "state": "New York",
+            "zip": "14620",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "April 1, 2021",
+    "study_first_submitted_qc": "April 1, 2021",
+    "study_first_posted": "April 5, 2021",
+    "results_first_submitted": "August 20, 2023",
+    "results_first_submitted_qc": "August 21, 2023",
+    "results_first_posted": "August 25, 2023",
+    "last_update_submitted": "August 5, 2024",
+    "last_update_submitted_qc": "August 6, 2024",
+    "last_update_posted": "August 29, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Colorectal cancer", "Bevacizumab", "FOLFIRI", "Survival"],
+    "condition_browse": {
+      "mesh_term": ["Colorectal Neoplasms", "Metastatic Colorectal Cancer"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bevacizumab", "Irinotecan", "Leucovorin", "Fluorouracil"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Study activated on March 1, 2022, closed to patient accrual on April 15, 2023.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (FOLFIRI + Bevacizumab)",
+              "description": "Patients received FOLFIRI in combination with bevacizumab."
+            },
+            {
+              "title": "Arm II (FOLFIRI + Placebo)",
+              "description": "Patients received FOLFIRI in combination with placebo."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": [null, null]}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": [null, null]}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": [null, null]}
+                }
+              ]
+            }
+          }
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Insufficient Enrollment",
+              "participants_list": {"participants": [null, null]}
+            },
+            {
+              "title": "Adverse Events",
+              "participants_list": {"participants": [null, null]}
+            },
+            {
+              "title": "Withdrawal by Subject",
+              "participants_list": {"participants": [null, null]}
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "All patients treated",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (FOLFIRI + Bevacizumab)",
+              "description": "FOLFIRI regimen combined with bevacizumab."
+            },
+            {
+              "title": "Arm II (FOLFIRI + Placebo)",
+              "description": "FOLFIRI regimen combined with placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {"count": [78]}
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {"class": {"category_list": {"category": {"measurement_list": [60, 68]}}}}
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "Female", "measurement_list": {"measurement": 30}},
+                      {"title": "Male", "measurement_list": {"measurement": 48}}
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival",
+            "description": "Overall survival was measured from randomization to the date of death.",
+            "time_frame": "Up to 3 years",
+            "population": "Randomized patients",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Arm I (FOLFIRI + Bevacizumab)",
+                  "description": "Patients receiving FOLFIRI and bevacizumab."
+                },
+                {
+                  "title": "Arm II (FOLFIRI + Placebo)",
+                  "description": "Patients receiving FOLFIRI and placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Overall Survival",
+              "population": "Randomized patients with follow-up data",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {"count": [null, null]}
+                }
+              }
+            },
+            "analysis_list": {
+              "analysis": {
+                "group_id_list": {"group_id": ["O1", "O2"]},
+                "non_inferiority_type": "Superiority or Other",
+                "method": "Log Rank",
+                "param_type": "Hazard Ratio (HR)",
+                "param_value": "1.1",
+                "ci_percent": "95",
+                "ci_lower_limit": "0.85",
+                "ci_upper_limit": "1.4",
+                "estimate_desc": "Comparative analysis of survival times in both arms",
+                "p_value": "0.064",
+                "p_value_desc": "not statistically significant"
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival",
+            "description": "Measured from randomization until disease progression or death.",
+            "time_frame": "Up to 3 years",
+            "population": "All randomized patients",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Arm I (FOLFIRI + Bevacizumab)",
+                  "description": "Patients receiving FOLFIRI and bevacizumab."
+                },
+                {
+                  "title": "Arm II (FOLFIRI + Placebo)",
+                  "description": "Patients receiving FOLFIRI and placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Progression-Free Survival",
+              "description": "Measured until disease progression noted by RECIST.",
+              "population": "Randomized patients with follow-up data",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {"count": [null, null]}
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {"group_id": ["O1", "O2"]},
+                  "non_inferiority_type": "Superiority or Other",
+                  "method": "Log Rank",
+                  "param_type": "Hazard Ratio (HR)",
+                  "param_value": "1.2",
+                  "ci_percent": "95",
+                  "ci_lower_limit": "0.95",
+                  "ci_upper_limit": "1.54",
+                  "estimate_desc": "No significant improvement in PFS with the addition of bevacizumab",
+                  "p_value": "0.15",
+                  "p_value_desc": "not statistically significant"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From the start of treatment until 30 days post last dose, and then ongoing for serious events.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (FOLFIRI + Bevacizumab)",
+              "description": "Patients receiving FOLFIRI and bevacizumab."
+            },
+            {
+              "title": "Arm II (FOLFIRI + Placebo)",
+              "description": "Patients receiving FOLFIRI and placebo."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE (v5.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [15, 30]
+                  }
+                }
+              },
+              {
+                "title": "Adverse Events",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Hypertension",
+                      "counts": [6, 2]
+                    },
+                    {
+                      "sub_title": "Gastrointestinal complications",
+                      "counts": [3, 6]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE (v5.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [30, 45]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Diarrhea",
+                    "counts": [10, 11]
+                  }
+                }
+              },
+              {
+                "title": "Skin and Subcutaneous Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Rash",
+                    "counts": [8, 12]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The Principal Investigator is permitted to communicate study results in accordance with clinical trial reporting standards."
+      },
+      "limitations_and_caveats": "The trial was terminated primarily due to low patient enrollment that prevented the achievement of a designated power analysis, thus limiting statistical reliability of the findings."
+    }
+  }
+}
+```

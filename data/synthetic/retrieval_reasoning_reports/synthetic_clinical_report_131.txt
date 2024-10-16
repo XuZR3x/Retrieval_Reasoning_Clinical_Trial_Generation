@@ -1,0 +1,145 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03312345"
+    },
+    "id_info": {
+      "org_study_id": "HERES-101",
+      "nct_id": "NCT03312345"
+    },
+    "brief_title": "Evaluation of Trastuzumab in Combination With Pembrolizumab and Chemotherapy in HER2-Positive Metastatic Breast Cancer",
+    "official_title": "A Phase II Study Assessing the Efficacy of Trastuzumab Combined With Pembrolizumab and Chemotherapy in Patients With HER2-Positive Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Cancer Initiative",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Cancer Initiative",
+    "brief_summary": {
+      "textblock": "RATIONALE: Trastuzumab targets HER2-overexpressing cells while pembrolizumab enhances antitumor immunity by blocking PD-1. Their combination might synergistically improve treatment outcomes in HER2-positive metastatic breast cancer."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\n- To assess the overall response rate (ORR) in patients with HER2-positive metastatic breast cancer receiving trastuzumab in combination with pembrolizumab and a chemotherapy regimen of choice.\n\n- To evaluate progression-free survival (PFS) and overall survival (OS) in this patient population.\n\n- To monitor the safety profile of the combination therapy and manage any adverse events.\n\nOUTLINE: This is a multicenter, non-randomized trial.\n\nPatients will receive trastuzumab administered intravenously along with pembrolizumab on day 1 of each cycle and a chemotherapy regimen (with integrated choices among docetaxel, paclitaxel, or CMF) for 6 cycles. Treatment will continue until disease progression or unacceptable toxicity occurs, followed by maintenance treatment with trastuzumab and pembrolizumab every 3 weeks in the absence of disease progression.\n\nPROJECTED ACCRUAL: A total of 120 patients will be enrolled across multiple sites within 2 years."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "September 2021",
+    "primary_completion_date": "May 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall response rate (ORR) defined by RECIST 1.1 criteria",
+        "time_frame": "from treatment initiation to the end of the study (up to 2 years)"
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "from first treatment until disease progression or death (up to 2 years)"
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "from first treatment until death (up to 3 years)"
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "assessed throughout the study duration"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "120",
+    "condition": "Breast Cancer",
+    "arm_group": {
+      "arm_group_label": "Trastuzumab + Pembrolizumab + Chemotherapy",
+      "arm_group_type": "Experimental"
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "trastuzumab",
+        "arm_group_label": "Trastuzumab + Pembrolizumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "pembrolizumab",
+        "arm_group_label": "Trastuzumab + Pembrolizumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "docetaxel",
+        "arm_group_label": "Trastuzumab + Pembrolizumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "paclitaxel",
+        "arm_group_label": "Trastuzumab + Pembrolizumab + Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n\n- Confirmed diagnosis of HER2-positive metastatic breast cancer.\n\n- At least 18 years old, any gender.\n\n- Measurable disease per RECIST 1.1.\n\n- ECOG performance status of 0-2.\n\nEXCLUSION CRITERIA:\n\n- Prior treatment with trastuzumab or any PD-1/PD-L1 inhibitors.\n\n- Active autoimmune disease requiring systemic treatment or history of significant cardiac disease.\n\n- Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Michael Greenberg",
+      "role": "Principal Investigator",
+      "affiliation": "Global Cancer Initiative"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cancer Research Center",
+          "address": {
+            "city": "Sydney",
+            "zip": "2000",
+            "country": "Australia"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metropolitan Hospital",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M5H 2N2",
+            "country": "Canada"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Australia", "Canada"]
+    },
+    "verification_date": "November 2021",
+    "study_first_submitted": "December 15, 2017",
+    "study_first_posted": "January 5, 2018",
+    "last_update_posted": "November 5, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trastuzumab", "Pembrolizumab", "Docetaxel", "Paclitaxel"]
+    }
+  }
+}
+```

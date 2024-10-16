@@ -1,0 +1,129 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02123456"
+    },
+    "id_info": {
+      "org_study_id": "OLZP-GST-022",
+      "nct_id": "NCT02123456"
+    },
+    "brief_title": "Evaluation of Olanzapine for Symptomatic Relief in Patients With Refractory Nausea Related to Chemotherapy",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy and Safety of Olanzapine in Patients Experiencing Refractory Nausea and Vomiting Associated With Chemotherapy Treatment",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "American Society of Clinical Oncology",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Cancer Institute",
+    "brief_summary": {
+      "textblock": "This study aims to investigate the safety and efficacy of olanzapine in comparison to placebo for the management of symptomatic refractory nausea and vomiting in cancer patients undergoing chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "This randomized, double-blind, placebo-controlled trial intended to evaluate the potential therapeutic effects of olanzapine in alleviating nausea and vomiting in patients with hematological and solid tumors who have not responded adequately to standard anti-emetic therapies. Patients enrolled in the study were assessed for their nausea severity using the Numeric Rating Scale (NRS) and required objective measures of therapeutic response at designated intervals throughout the trial."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Termination was due to low enrollment and high dropout rates resulting in insufficient statistical power.",
+    "start_date": "May 2016",
+    "completion_date": "November 2019",
+    "primary_completion_date": "November 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Change in Nausea Severity from Baseline to Day 14",
+      "description": "Nausea severity was assessed using the Numeric Rating Scale (NRS) before treatment and at specified times over a 14-day treatment period.",
+      "time_frame": "Baseline, Day 14"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of Adverse Events",
+        "description": "Monitoring and documenting any adverse events, with special focus on metabolic changes and extrapyramidal symptoms.",
+        "time_frame": "Through study completion, up to 14 days"
+      },
+      {
+        "measure": "Overall Patient Satisfaction",
+        "description": "Evaluated through a self-reported questionnaire assessing participants' overall satisfaction with the treatment.",
+        "time_frame": "At Day 14"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": "Refractory Nausea and Vomiting",
+    "arm_group": [
+      {
+        "arm_group_label": "Olanzapine",
+        "arm_group_type": "Experimental",
+        "description": "Participants received olanzapine 10 mg orally once daily for 14 days."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received matching placebo orally once daily for 14 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Olanzapine",
+        "description": "Olanzapine 10 mg orally daily for 14 days"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered orally daily for 14 days"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18-75 years\n- Patients diagnosed with cancer and undergoing chemotherapy\n- Experience of moderate to severe nausea (NRS ≥ 5) despite adequate pre-treatment with standard anti-emetics\n\nExclusion Criteria:\n- History of neuroleptic malignant syndrome or serious adverse reactions to antipsychotic medications\n- Prior treatment with olanzapine\n- Severe uncontrolled medical conditions\n- Pregnant or lactating women"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "National Cancer Institute",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2020",
+    "study_first_submitted": "March 15, 2016",
+    "study_first_submitted_qc": "March 15, 2016",
+    "study_first_posted": "March 20, 2016",
+    "last_update_submitted": "January 5, 2021",
+    "last_update_posted": "January 10, 2021",
+    "keyword": ["olanzapine", "nausea", "vomiting", "chemotherapy", "cancer"],
+    "condition_browse": {"mesh_term": ["Nausea", "Vomiting"]},
+    "intervention_browse": {"mesh_term": ["Olanzapine"]}
+  }
+}
+```

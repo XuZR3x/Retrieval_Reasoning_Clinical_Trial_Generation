@@ -1,0 +1,188 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00490029"
+    },
+    "id_info": {
+      "org_study_id": "ECOG-ACRIN 1511",
+      "nct_id": "NCT00490029"
+    },
+    "brief_title": "Evaluation of Perioperative Fluorouracil in High-Risk Colon Cancer",
+    "official_title": "Phase III Study of Perioperative 5-Fluorouracil for High-Risk Patients With Resectable Colon Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eastern Cooperative Oncology Group",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Eastern Cooperative Oncology Group",
+    "brief_summary": {
+      "textblock": "This clinical investigation aimed to assess whether perioperative administration of 5-fluorouracil can improve overall survival and disease-free survival in high-risk colon cancer patients post-curative resection. The study population included individuals identified with Dukes' B3 and C stage cancers."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated prematurely due to slow accrual and insufficient statistical power to achieve valid results.",
+    "start_date": "March 2007",
+    "completion_date": "December 2015",
+    "primary_completion_date": "August 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "5-year Overall Survival Rate",
+      "time_frame": "Assessed every 3 months for the first 2 years, then every 6 months for 2 additional years.",
+      "description": "Overall survival is defined as the duration from randomization to death from any cause. Kaplan-Meier analysis was implemented to estimate the overall survival rate."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "5-year Disease-free Survival Rate",
+        "time_frame": "Monitored post-surgery at 6 months, then annually for up to 5 years.",
+        "description": "Disease-free survival is calculated from randomization to the first occurrence of disease recurrence, new primary cancer diagnosis, or death."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": "Colon Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Perioperative 5-FU",
+        "arm_group_type": "Experimental",
+        "description": "Patients received a continuous intravenous infusion of 5-fluorouracil at a dose of 600 mg/m^2/day for 7 days initiated within 24 hours post-curative resection, followed by 5-FU/Leucovorin regimen post-surgery."
+      },
+      {
+        "arm_group_label": "No Perioperative 5-FU",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients did not receive perioperative 5-fluorouracil but were treated with standard 5-FU/Leucovorin regimens post-surgery."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil",
+        "description": "5-FU: 600 mg/m^2 continuous IV infusion for 7 days initiated within 24 hours of surgery; followed by standard adjuvant chemotherapy."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "Given as an adjunct to 5-FU therapy at the standard dose (20 mg/m^2 IV) during subsequent treatment cycles."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed resectable colon cancer with Dukes' B3 or C stage.\n- Patients aged ≥ 18 years with ECOG performance status 0-2.\n- Adequate organ functions as defined by laboratory parameters.\n\nExclusion Criteria:\n\n- Previous chemotherapy for colon cancer.\n- Presence of distant metastases or severe concomitant illnesses that would prevent study compliance.\n- Pregnant or nursing females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jeffrey S. W. Lee, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Eastern Cooperative Oncology Group"
+    },
+    "location": {
+      "facility": {
+        "name": "Duke University Medical Center",
+        "address": {
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "January 12, 2007",
+    "study_first_posted": "May 15, 2007",
+    "last_update_posted": "April 14, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Fluorouracil", "Colon Cancer", "Perioperative Therapy", "Adjuvant Chemotherapy"],
+    "condition_browse": {
+      "mesh_term": "Colonic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fluorouracil", "Leucovorin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Perioperative 5-FU",
+            "description": "Patients received the perioperative regimen as described."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": "The study was terminated due to slow accrual and was unable to reach the target sample size."}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "All randomized patients with Dukes' B3/C disease were included in the efficacy analysis.",
+        "measure_list": {
+          "measure": [{"title": "Age", "units": "years", "param": "Median", "dispersion": "Full Range"}]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "5-year Overall Survival Rate",
+            "description": "Overall survival rates were not significantly different between both arms due to the premature closure of the study.",
+            "time_frame": "Evaluated through patient follow-up."
+          },
+          {
+            "type": "Secondary",
+            "title": "5-year Disease-free Survival Rate",
+            "description": "Analysis was confounded due to incomplete patient follow-up and administrative discontinuation of the trial.",
+            "time_frame": "Ongoing until cancer recurrence or death."
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were recorded following the protocol until termination.",
+        "desc": "While adverse effects were reported, the study was unable to assess the full spectrum of toxicity due to insufficient accrual."
+      },
+      "certain_agreements": {
+        "pi_employee": "Investigators are not employees of the sponsor.",
+        "restrictive_agreement": "Results communications are subject to a review period of no longer than 60 days post-study completion."
+      },
+      "point_of_contact": {
+        "name_or_title": "Susan Talbot, Study Coordinator",
+        "organization": "ECOG-ACRIN Statistical Office",
+        "phone": "212-555-0199"
+      }
+    }
+  }
+}
+```

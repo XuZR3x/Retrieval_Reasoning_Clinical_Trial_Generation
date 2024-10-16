@@ -1,0 +1,159 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000751234",
+      "secondary_id": ["ABC-123", "NRC-H-987654"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Combination Therapy with Filgrastim and Anthracycline-Based Chemotherapy in Patients with Advanced Non-Hodgkin Lymphoma",
+    "official_title": "Phase II Study of Filgrastim in Combination with CHOP Chemotherapy for Patients with Advanced Non-Hodgkin Lymphoma: Efficacy and Safety Assessment",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Medical Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Filgrastim is a recombinant granulocyte colony-stimulating factor that aids in the mobilization of stem cells and mitigation of chemotherapy-induced neutropenia. The combination of filgrastim with a standard anthracycline-based chemotherapy regimen aims to enhance therapeutic outcomes in patients with advanced non-Hodgkin lymphoma. However, the complexity of chemotherapy interactions raises concerns regarding toxicities and overall tolerability in this patient population.\r\n\r\nPURPOSE: This Phase II trial seeks to evaluate the efficacy, safety, and feasibility of combining filgrastim with CHOP chemotherapy in patients presenting with advanced non-Hodgkin lymphoma."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\r\n\r\n  - To assess the overall response rate in patients receiving filgrastim in conjunction with CHOP chemotherapy.\r\n  - To evaluate the safety profile of this combination therapy, particularly in terms of hematologic toxicity and serious adverse events.\r\n  - To analyze the pharmacokinetic interaction between filgrastim and the CHOP regimen and its impact on the effective dosing of chemotherapeutic agents.\r\n  - To determine the incidence of treatment discontinuation due to adverse effects directly attributable to filgrastim.\r\n\r\nOUTLINE:\r\n\r\nParticipants receive filgrastim (G-CSF) subcutaneously at a dose of 5 mcg/kg daily starting on Day 2 of each chemotherapy cycle, simultaneously with CHOP regimen consisting of cyclophosphamide, doxorubicin, vincristine, and prednisone.\r\n\r\nChemotherapy is administered every 21 days for up to six cycles. Patients are regularly monitored for hematologic responses, side effects, and possible drug interactions. Follow-up assessments include toxicology profiles and disease monitoring at 3-month intervals post-treatment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient accrual and increased toxicity.",
+    "start_date": "March 2012",
+    "completion_date": "August 2014",
+    "primary_completion_date": "August 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "One year"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Safety Profile Assessment",
+        "time_frame": "One year"
+      },
+      {
+        "measure": "Hematologic Toxicity Rates",
+        "time_frame": "One year"
+      },
+      {
+        "measure": "Pharmacokinetic Analysis",
+        "time_frame": "One year"
+      },
+      {
+        "measure": "Treatment Discontinuation Rates",
+        "time_frame": "One year"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Non-Hodgkin Lymphoma",
+    "arm_group": {
+      "arm_group_label": "Filgrastim and CHOP Regimen",
+      "arm_group_type": "Experimental",
+      "description": "Filgrastim administration alongside cyclophosphamide, doxorubicin, vincristine, and prednisone."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Filgrastim",
+        "description": "5 mcg/kg daily subcutaneously starting on Day 2 of each chemotherapy cycle.",
+        "arm_group_label": "Filgrastim and CHOP Regimen",
+        "other_name": "G-CSF"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "750 mg/m2 IV on Day 1.",
+        "arm_group_label": "Filgrastim and CHOP Regimen",
+        "other_name": "Cytoxan"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Doxorubicin",
+        "description": "50 mg/m2 IV on Day 1.",
+        "arm_group_label": "Filgrastim and CHOP Regimen",
+        "other_name": "Adriamycin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vincristine",
+        "description": "1.4 mg/m2 IV on Day 1.",
+        "arm_group_label": "Filgrastim and CHOP Regimen",
+        "other_name": "Oncovin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prednisone",
+        "description": "40 mg/m2 orally daily for 5 days, starting on Day 1.",
+        "arm_group_label": "Filgrastim and CHOP Regimen",
+        "other_name": "Deltasone"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\r\n\r\n  - Histologically confirmed diagnosis of advanced non-Hodgkin lymphoma.\r\n  - ECOG performance status of 0-2.\r\n  - Adequate organ function: LVEF ≥ 50%, creatinine ≤ 1.5 mg/dL, bilirubin ≤ 2.0 mg/dL.\r\n  - Age ≥ 18 years.\r\n  - Life expectancy ≥ 6 months.\r\n\r\nEXCLUSION CRITERIA:\r\n\r\n  - Previous treatment with filgrastim or other hematopoietic growth factors.\r\n  - Active infections or serious concurrent illness.\r\n  - History of severe allergic reactions to any components of the treatment regimen.\r\n  - Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "120 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jonathan Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University Medical Center"
+    },
+    "location": {
+      "facility": {
+        "name": "University Medical Center - Oncology Division",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62701",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2014",
+    "study_first_submitted": "October 25, 2010",
+    "study_first_posted": "November 1, 2010",
+    "last_update_posted": "September 15, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University Medical Center",
+      "investigator_full_name": "Jonathan Smith, MD"
+    },
+    "keyword": ["filgrastim", "non-Hodgkin lymphoma", "CHOP chemotherapy"],
+    "condition_browse": {
+      "mesh_term": "Non-Hodgkin Lymphoma"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Filgrastim", "Doxorubicin", "Cyclophosphamide", "Vincristine", "Prednisone"]
+    }
+  }
+}
+```

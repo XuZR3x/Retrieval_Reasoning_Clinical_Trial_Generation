@@ -1,0 +1,383 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01957275"
+    },
+    "id_info": {
+      "org_study_id": "ONCO-5575",
+      "nct_id": "NCT01957275"
+    },
+    "brief_title": "Bevacizumab in Combination With Nivolumab for Patients With Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "official_title": "A Phase II Study of Bevacizumab Combined With Nivolumab in Patients With Previously Treated Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Texas MD Anderson Cancer Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Texas MD Anderson Cancer Center",
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient enrollment and safety concerns",
+    "start_date": "November 15, 2013",
+    "primary_completion_date": "November 10, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Up to 24 months",
+      "description": "Overall Survival (OS) is defined as the time from enrollment to the date of death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "PFS is defined as the time from enrollment until progression of disease or death."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Up to 24 months",
+        "description": "The percentage of patients achieving a complete or partial response to treatment."
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Up to 24 months",
+        "description": "Assessment of adverse events related to the combination therapy as per CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "45",
+    "condition": "Squamous Cell Carcinoma of the Head and Neck",
+    "arm_group": {
+      "arm_group_label": "Bevacizumab plus Nivolumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive nivolumab intravenously at 3 mg/kg every 2 weeks and bevacizumab 15 mg/kg every 3 weeks."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "15 mg/kg intravenous infusion every 3 weeks",
+        "arm_group_label": "Bevacizumab plus Nivolumab"
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Nivolumab",
+        "description": "3 mg/kg intravenous infusion every 2 weeks",
+        "arm_group_label": "Bevacizumab plus Nivolumab"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed squamous cell carcinoma of the head and neck (SCCHN) with advanced disease.\n- Disease progression after at least one prior systemic therapy.\n- Measurable disease as per RECIST 1.1.\n- ECOG performance status of 0-1.\n- Life expectancy greater than 6 months.\n\nExclusion Criteria:\n- Previous treatment with anti-VEGF or anti-PD-1/PD-L1 agents.\n- Active autoimmune disease requiring systemic treatment within the past 2 years.\n- Significant cardiovascular events within 6 months prior to enrollment.\n- Inadequate organ function as defined by laboratory tests."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah J. Lee",
+      "role": "Principal Investigator",
+      "affiliation": "University of Texas MD Anderson Cancer Center"
+    },
+    "location": [{
+      "facility": {
+        "name": "University of Texas MD Anderson Cancer Center",
+        "address": {
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "October 10, 2013",
+    "study_first_submitted_qc": "October 12, 2013",
+    "study_first_posted": "October 15, 2013",
+    "results_first_submitted": "November 15, 2019",
+    "results_first_submitted_qc": "January 16, 2020",
+    "results_first_posted": "February 1, 2020",
+    "last_update_submitted": "March 1, 2024",
+    "last_update_posted": "March 15, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Bevacizumab", "Nivolumab", "Head and Neck Cancer", "Angiogenesis Inhibition"],
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Squamous Cell", "Head and Neck Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bevacizumab", "Nivolumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Bevacizumab plus Nivolumab",
+            "description": "Patients received nivolumab and bevacizumab according to the specified dosing schedule."
+          }},
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": 45
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": 0
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": 45
+                }
+              }]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All treated participants",
+          "group_list": {
+            "group": {
+              "title": "Bevacizumab plus Nivolumab",
+              "description": "Patients received nivolumab and bevacizumab according to the specified dosing schedule."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": 0
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [{
+              "title": "Age",
+              "units": "participants",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }]
+          }
+        },
+        "outcome_list": {
+          "outcome": [{
+            "type": "Primary",
+            "title": "Overall Survival (OS)",
+            "time_frame": "Up to 24 months",
+            "population": "No patients were analyzed due to early termination of the trial.",
+            "group_list": {
+              "group": {
+                "title": "Bevacizumab plus Nivolumab",
+                "description": "Patients received nivolumab and bevacizumab according to the specified dosing schedule."
+              }
+            },
+            "measure": {
+              "title": "Overall Survival (OS)",
+              "population": "No patients were analyzed due to early termination of the trial.",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": 0
+                  }
+                }
+              }
+            }
+          }, {
+            "type": "Secondary",
+            "title": "Progression-free Survival (PFS)",
+            "time_frame": "Up to 24 months",
+            "population": "No patients were analyzed due to early termination of the trial.",
+            "group_list": {
+              "group": {
+                "title": "Bevacizumab plus Nivolumab",
+                "description": "Patients received nivolumab and bevacizumab according to the specified dosing schedule."
+              }
+            },
+            "measure": {
+              "title": "Progression-free Survival (PFS)",
+              "population": "No patients were analyzed due to early termination of the trial.",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": 0
+                  }
+                }
+              }
+            }
+          }, {
+            "type": "Secondary",
+            "title": "Objective Response Rate (ORR)",
+            "time_frame": "Up to 24 months",
+            "population": "No patients were analyzed due to early termination of the trial.",
+            "group_list": {
+              "group": {
+                "title": "Bevacizumab plus Nivolumab",
+                "description": "Patients received nivolumab and bevacizumab according to the specified dosing schedule."
+              }
+            },
+            "measure": {
+              "title": "Objective Response Rate (ORR)",
+              "population": "No patients were analyzed due to early termination of the trial.",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": 0
+                  }
+                }
+              }
+            }
+          }, {
+            "type": "Secondary",
+            "title": "Toxicity Profile",
+            "time_frame": "Up to 24 months",
+            "population": "No patients were analyzed due to early termination of the trial.",
+            "group_list": {
+              "group": {
+                "title": "Bevacizumab plus Nivolumab",
+                "description": "Patients received nivolumab and bevacizumab according to the specified dosing schedule."
+              }
+            },
+            "measure": {
+              "title": "Toxicity Profile",
+              "population": "No patients were analyzed due to early termination of the trial.",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": 0
+                  }
+                }
+              }
+            }
+          }]
+        },
+        "reported_events": {
+          "time_frame": "From randomization to termination of the study.",
+          "group_list": {
+            "group": {
+              "title": "Bevacizumab plus Nivolumab",
+              "description": "Patients received nivolumab and bevacizumab according to the specified dosing schedule."
+            }
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE (5.0)",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [{
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": 10
+                    }
+                  }
+                },
+                {
+                  "title": "Blood and lymphatic system disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Anaemia",
+                      "counts": 5
+                    }
+                  }
+                },
+                {
+                  "title": "Cardiac disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Cardiac Arrhythmia",
+                      "counts": 2
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Gastrointestinal Perforation",
+                      "counts": 1
+                    }
+                  }
+                },
+                {
+                  "title": "General disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Fatigue",
+                      "counts": 7
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_vocab": "CTCAE (5.0)",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [{
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": 15
+                    }
+                  }
+                },
+                {
+                  "title": "Nervous system disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Headache",
+                      "counts": 8
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "limitations_and_caveats": "The trial faced challenges in patient enrollment, primarily due to the strict eligibility criteria and safety concerns that emerged, leading to an insufficient number of participants to draw any viable conclusions regarding treatment efficacy.",
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "Clinical trial results may be discussed and published after conclusion due to no restrictions imposed by sponsors."
+        },
+        "point_of_contact": {
+          "name_or_title": "Clinical Trial Coordinator",
+          "organization": "University of Texas MD Anderson Cancer Center",
+          "phone": "713-563-7500",
+          "email": "ctr@mdanderson.org"
+        }
+      }
+    }
+  }
+}
+```

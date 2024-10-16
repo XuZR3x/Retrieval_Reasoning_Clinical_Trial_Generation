@@ -1,0 +1,183 @@
+```json
+{
+   "clinical_study": {
+      "required_header": {
+         "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+         "link_text": "Link to the current ClinicalTrials.gov record.",
+         "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+      },
+      "id_info": {
+         "org_study_id": "TEMO-2022",
+         "nct_id": "NCT02345678"
+      },
+      "brief_title": "Efficacy of Temozolomide in Combination with Novel Combination Agents in Treating Patients with Recurrent Malignant Glioma",
+      "official_title": "A Phase II Study of Temozolomide Combined with Targeted Therapy in Patients with Recurrent Malignant Glioma",
+      "sponsors": {
+         "lead_sponsor": {
+            "agency": "National Cancer Institute (NCI)",
+            "agency_class": "NIH"
+         },
+         "collaborator": {
+            "agency": "Merck & Co., Inc.",
+            "agency_class": "Industry"
+         }
+      },
+      "source": "NCI Cancer Center",
+      "oversight_info": {
+         "has_dmc": "Yes"
+      },
+      "brief_summary": {
+         "textblock": "The purpose of this study is to evaluate the efficacy of temozolomide in combination with novel targeted therapies in subjects with recurrent malignant glioma. Previous studies have demonstrated the increased tumor response and enhanced survival rates when temozolomide is utilized in conjunction with various adjunctive mechanisms aimed at counteracting tumor growth."
+      },
+      "detailed_description": {
+         "textblock": "This is a multicenter, open-label, randomized Phase II clinical trial designed to assess the activity and safety of temozolomide in combination with targeted agents for patients diagnosed with recurrent malignant gliomas. The treatment regimen will adhere to strict dose adjustments and timing to facilitate optimal drug exposure. Patients will be stratified according to their MGMT methylation status for better precision in patient selection, ensuring that the cohort contains individuals more likely to benefit from temozolomide therapy.\n\nThe study aims to enroll 150 participants, randomized into two arms: Arm A will receive temozolomide alongside a novel kinase inhibitor, while Arm B will receive temozolomide with a different therapeutic agent. The primary endpoint will be progression-free survival, assessed at 6 and 12 months."
+      },
+      "overall_status": "Active, not recruiting",
+      "start_date": "March 3, 2022",
+      "completion_date": "August 1, 2025",
+      "primary_completion_date": "February 14, 2025",
+      "phase": "Phase 2",
+      "study_type": "Interventional",
+      "has_expanded_access": "No",
+      "study_design_info": {
+         "allocation": "Randomized",
+         "intervention_model": "Parallel Assignment",
+         "primary_purpose": "Treatment",
+         "masking": "None (Open Label)"
+      },
+      "primary_outcome": {
+         "measure": "Progression-Free Survival",
+         "time_frame": "6 months and up to 1 year post-treatment initiation",
+         "description": "Progression-free survival is defined as the length of time during and after the treatment when the patient's disease does not worsen."
+      },
+      "secondary_outcome": [
+         {
+            "measure": "Overall Survival",
+            "time_frame": "1 year post-treatment initiation",
+            "description": "Overall survival will be assessed as the time from randomization until death was reported."
+         },
+         {
+            "measure": "Objective Response Rate",
+            "time_frame": "Assessed at 3 months and 6 months",
+            "description": "Objective response rate is defined as the proportion of patients whose tumor response meets the criteria for complete or partial response."
+         },
+         {
+            "measure": "Rates of Adverse Events",
+            "time_frame": "Throughout treatment and 30 days post-treatment",
+            "description": "AEs will be collected to assess the safety profile of temozolomide in combination with targeted therapies."
+         }
+      ],
+      "number_of_arms": "2",
+      "enrollment": "150",
+      "condition": "Recurrent Malignant Glioma",
+      "arm_group": [
+         {
+            "arm_group_label": "Arm A (Temozolomide + Kinase Inhibitor)",
+            "arm_group_type": "Experimental",
+            "description": "Patients will receive temozolomide at a dose of 150 mg/m²/day on days 1-5 of a 28-day cycle in combination with a novel kinase inhibitor."
+         },
+         {
+            "arm_group_label": "Arm B (Temozolomide + Alternative Agent)",
+            "arm_group_type": "Active Comparator",
+            "description": "Patients will receive the same dosing schedule of temozolomide alongside a different targeted therapy."
+         }
+      ],
+      "intervention": [
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "Temozolomide",
+            "description": "Administered orally at a dose of 150 mg/m²/day for 5 consecutive days each cycle.",
+            "arm_group_label": ["Arm A (Temozolomide + Kinase Inhibitor)", "Arm B (Temozolomide + Alternative Agent)"],
+            "other_name": "Temodar"
+         },
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "Novel Kinase Inhibitor",
+            "description": "Administered as per protocol in Arm A in combination with temozolomide.",
+            "arm_group_label": "Arm A (Temozolomide + Kinase Inhibitor)",
+            "other_name": "Investigational Agent"
+         },
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "Alternative Targeted Therapy",
+            "description": "Administered during each cycle in Arm B alongside temozolomide.",
+            "arm_group_label": "Arm B (Temozolomide + Alternative Agent)",
+            "other_name": "Investigational Agent"
+         }
+      ],
+      "eligibility": {
+         "criteria": {
+            "textblock": "Inclusion Criteria:\n- Histologically confirmed recurrent malignant glioma with measurable disease.\n- Patients must have had previous radiation or chemotherapy.\n- Age 18 years or older, with an ECOG performance status of 0-2.\n- Adequate organ function and blood counts.\n- Signed informed consent from the patient.\n\nExclusion Criteria:\n- Prior therapy with temozolomide or corresponding investigational agents.\n- Active infection or serious comorbidity.\n- Pregnant or breastfeeding women.\n- Uncontrolled medical conditions that may interfere with the study's objectives."
+         },
+         "gender": "All",
+         "minimum_age": "18 Years",
+         "maximum_age": "N/A",
+         "healthy_volunteers": "No"
+      },
+      "overall_official": {
+         "last_name": "Helen Johnson, MD",
+         "role": "Principal Investigator",
+         "affiliation": "NCI Cancer Center"
+      },
+      "location": [
+         {
+            "facility": {
+               "name": "NCI Cancer Center",
+               "address": {
+                  "city": "Bethesda",
+                  "state": "Maryland",
+                  "zip": "20892",
+                  "country": "United States"
+               }
+            }
+         }
+      ],
+      "location_countries": {
+         "country": "United States"
+      },
+      "verification_date": "July 2024",
+      "study_first_submitted": "January 15, 2022",
+      "study_first_submitted_qc": "January 18, 2022",
+      "study_first_posted": "February 1, 2022",
+      "results_first_submitted": "March 15, 2025",
+      "results_first_submitted_qc": "March 16, 2025",
+      "results_first_posted": "March 30, 2025",
+      "last_update_submitted": "August 1, 2024",
+      "last_update_submitted_qc": "August 1, 2024",
+      "last_update_posted": "August 2, 2024",
+      "responsible_party": {
+         "responsible_party_type": "Sponsor"
+      },
+      "keyword": [
+         "temozolomide",
+         "recurrent glioma",
+         "combination therapy"
+      ],
+      "condition_browse": {
+         "mesh_term": [
+            "Glioblastoma Multiforme",
+            "Malignant Glioma"
+         ]
+      },
+      "intervention_browse": {
+         "mesh_term": [
+            "Temozolomide"
+         ]
+      },
+      "patient_data": {
+         "sharing_ipd": "Yes",
+         "ipd_description": "Individual participant data will be made available upon request following NCI policies."
+      },
+      "provided_document_section": {
+         "provided_document": {
+            "document_type": "Study Protocol and Statistical Analysis Plan",
+            "document_has_protocol": "Yes",
+            "document_has_icf": "No",
+            "document_has_sap": "Yes",
+            "document_date": "October 10, 2022",
+            "document_url": "https://cdn.clinicaltrials.gov/large-docs/78/NCT02345678/Protocol_SAP_000.pdf"
+         }
+      }
+   }
+}
+```

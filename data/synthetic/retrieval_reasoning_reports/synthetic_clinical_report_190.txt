@@ -1,0 +1,138 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02223345"
+    },
+    "id_info": {
+      "org_study_id": "D-2023-03",
+      "nct_id": "NCT02223345"
+    },
+    "brief_title": "Evaluation of Dexmedetomidine for Sedation in Critically Ill Patients With Inflammatory Conditions",
+    "official_title": "A Single Center, Randomized, Double-blind, Placebo-controlled Trial of Dexmedetomidine for Sedation in Critically Ill Patients With Severe Inflammatory Conditions",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cleveland Clinic Foundation",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Cleveland Clinic Foundation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of dexmedetomidine compared to placebo in providing sedation for critically ill patients with severe inflammatory conditions. The primary hypothesis posits that dexmedetomidine will achieve lower sedation levels and reduced opioid requirements without increasing adverse events."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Trial failed to enroll sufficient participants and encountered significant safety concerns",
+    "start_date": "November 2014",
+    "completion_date": "March 2018",
+    "primary_completion_date": "March 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Average Sedation Score on the Richmond Agitation-Sedation Scale (RASS)",
+      "time_frame": "Up to 7 days",
+      "description": "The primary outcome will be the mean change in the RASS score from baseline to day 7, comparing dexmedetomidine arm against placebo."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Total Opioid Consumption",
+        "time_frame": "Daily during the ICU stay",
+        "description": "Assess the total opioid requirements in morphine equivalents from the start of the medication until ICU discharge."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Through study duration, an average of 14 days",
+        "description": "Document any serious adverse events related to sedation or hemodynamic instability."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "36",
+    "condition": "Severe Inflammatory Conditions",
+    "arm_group": [
+      {
+        "arm_group_label": "Dexmedetomidine",
+        "arm_group_type": "Experimental",
+        "description": "Dexmedetomidine infusion at 0.5-1.5 mcg/kg/hour titrated based on RASS scores."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo infusion (normal saline) matched to dexmedetomidine in volume and administration protocol."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexmedetomidine",
+        "description": "Infused continuously at 0.5-1.5 mcg/kg/hour based on clinical necessity.",
+        "arm_group_label": "Dexmedetomidine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Normal saline administered in equal volume to dexmedetomidine.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Adults aged 18-90\r\n  -  Admission to the ICU with severe inflammatory conditions requiring sedation\r\n  -  Informed consent capability (or surrogate consent during incapacity)\r\n\r\nExclusion Criteria:\r\n\r\n  -  Known hypersensitivity to dexmedetomidine\r\n  -  Severe cardiovascular instability or any exclusion for sedation per institutional protocol\r\n  -  Pregnancy or nursing women\r\n  -  Previous participation in another study involving sedation within 30 days",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "90 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "location": {
+      "facility": {
+        "name": "Cleveland Clinic",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "October 3, 2014",
+    "study_first_submitted_qc": "October 10, 2014",
+    "study_first_posted": "October 15, 2014",
+    "last_update_submitted": "April 11, 2021",
+    "last_update_submitted_qc": "April 11, 2021",
+    "last_update_posted": "April 12, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Cleveland Clinic",
+      "investigator_full_name": "Michael Evans, MD",
+      "investigator_title": "Attending Intensivist"
+    },
+    "keyword": [
+      "Dexmedetomidine",
+      "ICU Sedation",
+      "Critically Ill Patients",
+      "Inflammatory Response"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Inflammation", "Critical Illness"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Dexmedetomidine"]
+    }
+  }
+}
+```

@@ -1,0 +1,141 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234876"
+    },
+    "id_info": {
+      "org_study_id": "MTX-2021",
+      "nct_id": "NCT01234876"
+    },
+    "brief_title": "Methotrexate in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Randomized Phase III Trial of Methotrexate Versus Standard Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer Who Are Not Candidates for Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Research Group",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "International Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the efficacy of methotrexate, administered weekly, in patients with advanced non-small cell lung cancer (NSCLC) who were unsuitable for standard chemotherapy protocols. The investigation was motivated by the need for alternative treatment strategies in this population."
+    },
+    "detailed_description": {
+      "textblock": "The study was designed as a randomized, double-blind, placebo-controlled trial, recruiting 500 patients from various oncology centers. Participants were assigned to receive either methotrexate 25 mg/m2 weekly or the standard treatment regimen consisting of docetaxel. A primary endpoint was overall survival, while secondary endpoints included progression-free survival and quality of life assessments.\r\n\r\nDespite robust recruitment efforts and initial enthusiasm for the potential of methotrexate, the trial was met with numerous challenges that ultimately led to its termination. Interim reviews indicated a consistent lack of efficacy in reducing tumor burden, with a significant number of participants exhibiting high baseline tumor markers throughout treatment duration."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2013",
+    "completion_date": "December 2019",
+    "primary_completion_date": "August 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "From the date of randomization until the date of death, up to 3 years",
+      "description": "The primary outcome measure was overall survival, defined as the time from randomization to death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "From the date of treatment to radiological disease progression, up to 3 years",
+        "description": "Progression-free survival is defined as the duration during which the patients remain free from disease progression."
+      },
+      {
+        "measure": "Quality of Life Score",
+        "time_frame": "Measured at baseline, every 3 months, up to 3 years",
+        "description": "Quality of life was assessed using validated questionnaires, comparing scores between treatment arms."
+      }
+    ],
+    "enrollment": "500",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Methotrexate Treatment",
+        "arm_group_type": "Experimental",
+        "description": "Weekly administration of Methotrexate (25 mg/m2) via intravenous bolus."
+      },
+      {
+        "arm_group_label": "Standard Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Administered docetaxel chemotherapy treatment as per clinical guidelines."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Methotrexate",
+        "description": "Methotrexate is administered as an intravenous bolus at a dosage of 25 mg/m2 weekly."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Docetaxel is administered as per standard oncology treatment protocols."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed stage IIIA or IIIB non-small cell lung cancer.\r\n- Not eligible for platinum-based chemotherapy.\r\n- ECOG performance status of 0-2.\r\n- Adequate organ function: liver, renal, bone marrow.\r\n- Signed informed consent.\r\n\r\nExclusion Criteria:\r\n- Previous anti-cancer treatment within 6 months.\r\n- History of severe hypersensitivity to methotrexate or docetaxel.\r\n- Pregnant or nursing.\r\n- Active infection requiring systemic therapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James T. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "International Research Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Community Cancer Center",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94102",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "March 2020",
+    "study_first_submitted": "December 12, 2010",
+    "study_first_posted": "December 15, 2010",
+    "results_first_submitted": "January 8, 2020",
+    "results_first_posted": "January 15, 2020",
+    "last_update_posted": "April 10, 2020",
+    "limitations_and_caveats": "Despite rigorous design and execution, the trial failed to demonstrate statistical significance for overall survival or progression-free survival, which aligned with the trial's predefined futility criteria, subsequently leading to cessation of study activities."
+  }
+}
+```

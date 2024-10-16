@@ -1,0 +1,197 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04589033"
+    },
+    "id_info": {
+      "org_study_id": "FN-103-PD",
+      "nct_id": "NCT04589033"
+    },
+    "brief_title": "Evaluation of Intranasal Fentanyl for Acute Pain Management in Hospitalized Patients",
+    "official_title": "A Multi-Center, Double-Blind, Randomized, Placebo-Controlled Trial of Intranasal Fentanyl for Acute Pain Management: Efficacy and Safety in Hospitalized Adult Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cure Pharma Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Cure Pharma Inc.",
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of intranasal fentanyl in managing acute pain among hospitalized patients. Given its rapid pharmacokinetics and favorable absorption profile, fentanyl is posited to provide quicker analgesic relief compared to traditional opioid regimens."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "February 2023",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "enrollment": "150",
+    "condition": "Acute Pain",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Fentanyl",
+      "description": "Intranasal administration of fentanyl at dosage of 50 µg."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Adults aged 18 years and older with a diagnosis of acute pain needing management during hospitalization.\n2. Patients ≥4 on Numerical Rating Scale (NRS) for pain intensity.\n3. Informed consent provided.\n\nExclusion Criteria:\n1. History of severe respiratory conditions.\n2. Requirement for immediate surgical intervention.\n3. Pregnancy or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Cure Pharma Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "Cure Pharma Hospital",
+        "address": {
+          "city": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_posted": "February 20, 2021",
+    "last_update_posted": "March 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_full_name": "John Smith, MD",
+      "investigator_affiliation": "Cure Pharma Inc."
+    },
+    "keyword": [
+      "Fentanyl",
+      "Acute Pain Management",
+      "Intranasal Administration",
+      "Hospitalized Patients"
+    ],
+    "intervention_browse": {
+      "mesh_term": "Fentanyl"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Intranasal Fentanyl Group",
+              "description": "Received intranasal fentanyl administered at 50µg for acute pain."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Received placebo intranasal spray."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Reduction in Pain Severity",
+            "description": "Assessed via NRS before and 30 minutes post-administration.",
+            "time_frame": "30 Minutes",
+            "population": "All randomized participants",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Intranasal Fentanyl Group",
+                  "description": "Expected pain reduction assessed."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Pain reduction compared against placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mean Change in NRS Scores",
+              "units": "1-10 scale",
+              "param": "Mean (SD)",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Time to Pain Relief",
+            "description": "Duration from administration to reported significant reduction in pain.",
+            "time_frame": "Duration measured in minutes",
+            "population": "All randomized participants",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Intranasal Fentanyl Group",
+                  "description": "Measured time from drug administration to patient-reported analgesia."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Comparison of time to relief."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Median Time to Significant Pain Reduction",
+              "units": "Minutes",
+              "param": "Median (IQR)",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "reported_events": {
+      "time_frame": "Captured from treatment initiation until 72 hours post-administration",
+      "group_list": {
+        "group": [
+          {
+            "title": "Intranasal Fentanyl Group",
+            "description": "Adverse events were reported in this cohort."
+          },
+          {
+            "title": "Placebo Group",
+            "description": "Adverse events observed in the control group."
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are employed by Cure Pharma Inc.",
+      "restrictive_agreement": "Export restrictions apply on results pertaining to the study."
+    },
+    "point_of_contact": {
+      "name_or_title": "Director of Clinical Trials",
+      "organization": "Cure Pharma Inc.",
+      "phone": "1-800-555-0199"
+    }
+  }
+}
+```

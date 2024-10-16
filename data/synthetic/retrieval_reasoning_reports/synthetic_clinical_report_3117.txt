@@ -1,0 +1,301 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02541839"
+    },
+    "id_info": {
+      "org_study_id": "IRB-30177",
+      "secondary_id": ["NCB-09302015-2478", "HEM0145"],
+      "nct_id": "NCT02541839"
+    },
+    "brief_title": "Azacitidine + Panobinostat Combination in Patients With Relapsed/Refractory Acute Myeloid Leukemia",
+    "official_title": "A Phase II Study of Azacitidine in Combination With the HDAC Inhibitor Panobinostat for Patients With Relapsed/Refractory Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Texas MD Anderson Cancer Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Texas MD Anderson Cancer Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial assesses the efficacy and safety of azacitidine in conjunction with panobinostat in patients with relapsed or refractory acute myeloid leukemia (AML). The study seeks to evaluate the combinations effect on disease progression and overall survival outcomes."
+    },
+    "detailed_description": {
+      "textblock": "This is an open-label, multicenter, phase II trial investigating the efficacy of azacitidine combined with panobinostat in patients with relapsed or refractory AML. Subjects will receive subcutaneous azacitidine on days 1–7 of a 28-day cycle alongside panobinostat administered orally on days 1, 3, and 5 during each azacitidine cycle.\n\nThe primary objective is to evaluate the overall response rate (ORR), based on the proportion of patients achieving either complete remission (CR) or partial remission (PR) per the International Working Group criteria for AML. Secondary objectives include evaluation of overall survival (OS), progression-free survival (PFS), and the incidence of treatment-emergent adverse events (TEAEs). \n\nKey inclusion criteria consisted of adults aged ≥ 18 years, confirmed diagnosis of AML, and prior treatment failures with standard therapy. Key exclusion criteria included current participation in other investigational studies, hypersensitivity to azacitidine or panobinostat, and active central nervous system leukemia."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate enrollment and lack of sufficient therapeutic efficacy indicated by interim analysis.",
+    "start_date": "November 2015",
+    "completion_date": "May 2018",
+    "primary_completion_date": "April 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 6 months",
+      "description": "Measured as the sum of patients achieving complete response (CR) and partial response (PR) based on standard criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From the start of treatment until death or last follow-up visit, assessed up to 24 months.",
+        "description": "Survival status of participants will be tracked."
+      },
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events",
+        "time_frame": "Throughout treatment period and up to 30 days following the last dose.",
+        "description": "Adverse events classified using NCI CTCAE version 4.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "21",
+    "condition": ["Acute Myeloid Leukemia (AML)"],
+    "arm_group": {
+      "arm_group_label": "Azacitidine plus Panobinostat",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive azacitidine 75 mg/m² SC on days 1-7 plus panobinostat 20 mg orally on days 1, 3, and 5 of each 28-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Azacitidine",
+        "description": "Azacitidine is a nucleoside analog that inhibits DNA methyltransferase leading to hypomethylation of DNA.",
+        "arm_group_label": "Azacitidine plus Panobinostat",
+        "other_name": ["5-Azacytidine", "Vidaza"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Panobinostat",
+        "description": "Panobinostat is a histone deacetylase (HDAC) inhibitor that mediates transcriptional changes in cancer cells.",
+        "arm_group_label": "Azacitidine plus Panobinostat",
+        "other_name": ["LBH589"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Confirmed diagnosis of AML, either de novo or secondary.\n  -  Age ≥ 18 years and not previously treated with azacitidine or panobinostat.\n  -  Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 2.\n  -  Adequate organ function, defined as serum creatinine ≤ 1.5 x upper limit of normal (ULN), bilirubin ≤ 1.5 x ULN, and AST/ALT ≤ 2.5 x ULN.\n\nExclusion Criteria:\n\n  -  Known hypersensitivity to azacitidine or panobinostat.\n  -  Patients with active central nervous system leukemia.\n  -  Recent history of serious infections requiring hospitalization.\n  -  Previous treatment with investigational agents within the last four weeks.\n  -  Pregnant women and lactating females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Samuel Z. Totonchy",
+      "role": "Principal Investigator",
+      "affiliation": "University of Texas MD Anderson Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Texas MD Anderson Cancer Center",
+        "address": {
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2020",
+    "study_first_submitted": "September 15, 2015",
+    "study_first_submitted_qc": "September 16, 2015",
+    "study_first_posted": "September 17, 2015",
+    "results_first_submitted": "March 30, 2020",
+    "results_first_submitted_qc": "April 25, 2020",
+    "results_first_posted": "May 15, 2020",
+    "last_update_submitted": "August 5, 2020",
+    "last_update_submitted_qc": "August 6, 2020",
+    "last_update_posted": "August 8, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Texas MD Anderson Cancer Center",
+      "investigator_full_name": "Samuel Totonchy, MD",
+      "investigator_title": "Assistant Professor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Leukemia", "Leukemia, Myeloid", "Leukemia, Myeloid, Acute", "Acute Myeloid Leukemia", "Myelodysplastic Syndromes"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Azacitidine", "Panobinostat"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Azacitidine plus Panobinostat",
+            "description": "Patients will receive azacitidine plus panobinostat."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": { "participants": "21" }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": { "participants": null }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": { "participants": "21" }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": { "participants": "12" }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": { "participants": "5" }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "First 21 patients received treatment and were included.",
+          "group_list": {
+            "group": {
+              "title": "Azacitidine plus Panobinostat",
+              "description": "Azacitidine plus Panobinostat treatment group."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": "21"
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "Years",
+                "param": "Median",
+                "dispersion": "Full Range",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": { "measurement": "51 (Range 28-83)" }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Gender",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": { "measurement": "8" }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": { "measurement": "13" }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Response Rate (ORR)",
+              "description": "Defined as the sum of Complete Response (CR) and Partial Response (PR).",
+              "time_frame": "Up to 6 months",
+              "population": "All treated patients are included in the analysis.",
+              "group_list": {
+                "group": {
+                  "title": "Azacitidine plus Panobinostat",
+                  "description": "The treatment group receiving the combination therapy."
+                }
+              },
+              "measure": {
+                "title": "Overall Response Rate (ORR)",
+                "description": "Proportion of patients achieving CR or PR.",
+                "units": "Percentage of Participants",
+                "param": "Count of Response",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": "3 responders out of 21 treated"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Incidence of Serious Adverse Events",
+              "description": "Number and type of serious adverse events reported.",
+              "time_frame": "Throughout treatment period.",
+              "group_list": {
+                "group": {
+                  "title": "Azacitidine plus Panobinostat",
+                  "description": "The treatment group receiving the combination therapy."
+                }
+              },
+              "measure": {
+                "title": "Total Number of Serious Adverse Events",
+                "description": "The assessment of serious adverse events according to NCI CTCAE.",
+                "units": "Count",
+                "param": "Serious Adverse Events Count",
+                "dispersion": "N/A",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": "10 serious adverse events reported."
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

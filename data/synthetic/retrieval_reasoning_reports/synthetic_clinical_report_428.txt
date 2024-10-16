@@ -1,0 +1,152 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04566877"
+    },
+    "id_info": {
+      "org_study_id": "NCT04566877-001",
+      "nct_id": "NCT04566877"
+    },
+    "brief_title": "Nintedanib Efficacy in Treating Systemic Sclerosis-Related Pulmonary Fibrosis",
+    "official_title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Nintedanib in Patients With Systemic Sclerosis-Related Interstitial Lung Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Academy of Pharmaceutical Sciences",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Boehringer Ingelheim",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Academy of Pharmaceutical Sciences",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial investigates nintedanib, a novel angiofibrotic agent, aimed at modulating the pathophysiological processes of fibrosis and angiogenesis in patients diagnosed with systemic sclerosis-related interstitial lung disease (SSc-ILD). Given nintedanib's multi-targeted approach, its potential to address both fibroblast activation and vascular abnormalities presents a unique avenue for therapeutic intervention."
+    },
+    "detailed_description": {
+      "textblock": "This is a multicenter, phase 2 trial designed to assess the efficacy and safety of nintedanib in patients with SSc-ILD. The trial employs a robust randomized, double-blind, placebo-controlled design that minimizes bias and optimizes the evaluation of treatment efficacy.\n\nThere will be 250 participants enrolled, stratified based on disease severity and pulmonary function tests. The primary endpoint is the annual rate of decline in Forced Vital Capacity (FVC) over a treatment period of 52 weeks, complemented by assessments of mRSS to quantify skin thickening associated with systemic sclerosis.\n\nThe dosing regimen will focus on an adaptive strategy, allowing flexibility based on initial patient tolerability metrics, thus promoting adherence and mitigating adverse effects. Furthermore, this study incorporates comprehensive patient selection criteria, ensuring only those exhibiting advanced fibrotic lung disease progression are included, thereby aligning treatment intensity with a valid therapeutic need."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 15, 2021",
+    "completion_date": "February 20, 2023",
+    "primary_completion_date": "December 15, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Annual Rate of Decline in Forced Vital Capacity (FVC) Over 52 Weeks",
+      "time_frame": "Baseline up to week 52",
+      "description": "The primary outcome will evaluate the adjusted mean rate of FVC decline, a key indicator of lung function in patients with interstitial lung disease."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Absolute Change From Baseline in the Modified Rodnan Skin Score (mRSS) at Week 52",
+        "time_frame": "Baseline and week 52",
+        "description": "Assessment of skin thickness to evaluate overall efficacy related to fibrosis."
+      },
+      {
+        "measure": "Health Assessment Questionnaire-Disability Index (HAQ-DI) Score at Week 52",
+        "time_frame": "Baseline and week 52",
+        "description": "A scale assessing disability and its impact on daily living, providing insight into functional status."
+      },
+      {
+        "measure": "Number of Participants with Treatment-Related Adverse Events",
+        "time_frame": "Throughout the study duration",
+        "description": "Safety profile evaluation based on the frequency and severity of adverse events."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Systemic Sclerosis-Related Interstitial Lung Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Nintedanib Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received nintedanib 150 mg capsules twice daily."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received matching placebo capsules twice daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nintedanib",
+        "description": "Nintedanib will be administered at a dosage of 150 mg twice daily.",
+        "arm_group_label": ["Nintedanib Treatment Group"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo capsules will be provided to the placebo group.",
+        "arm_group_label": ["Placebo Group"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Adult patients aged ≥18 years with a confirmed diagnosis of systemic sclerosis (SSc) according to the ACR/EULAR criteria.\n2. Presence of SSc-related ILD as determined by HRCT and FVC ≥40% of predicted normal.\n3. SSc disease onset within 7 years.\n4. Written informed consent obtained.\n\nExclusion Criteria:\n1. Significant hepatic or renal impairment.\n2. Active malignancy or significant cardiovascular disease.\n3. History of major thrombotic events in the past year.\n4. Prior treatment with antifibrotic agents like nintedanib or pirfenidone."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Elizabeth Turner",
+      "role": "Principal Investigator",
+      "affiliation": "Academy of Pharmaceutical Sciences"
+    },
+    "location": {
+      "facility": {
+        "name": "Central Medical Research Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "December 1, 2020",
+    "study_first_submitted_qc": "December 10, 2020",
+    "study_first_posted": "December 15, 2020",
+    "last_update_submitted": "February 25, 2023",
+    "last_update_submitted_qc": "February 25, 2023",
+    "last_update_posted": "March 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Academy of Pharmaceutical Sciences"
+    },
+    "keyword": ["nintedanib", "systemic sclerosis", "pulmonary fibrosis", "clinical trial"],
+    "condition_browse": {
+      "mesh_term": ["Scleroderma", "Systemic Sclerosis", "Pulmonary Fibrosis"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Nintedanib"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

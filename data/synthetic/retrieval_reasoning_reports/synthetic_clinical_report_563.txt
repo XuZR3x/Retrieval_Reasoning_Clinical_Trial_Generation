@@ -1,0 +1,252 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567892"
+    },
+    "id_info": {
+      "org_study_id": "OLZ-473",
+      "nct_id": "NCT04567892"
+    },
+    "brief_title": "Efficacy and Safety of Olanzapine in Outpatients With Schizophrenia',
+    "official_title": "A Multicenter, Double-Blind, Randomized Study Assessing the Efficacy and Tolerability of Olanzapine Versus Placebo in Patients with Active Symptoms of Schizophrenia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "brief_summary": {
+      "textblock": "Objective: The primary aim is to evaluate the efficacy of olanzapine in reducing symptoms of schizophrenia as illustrated by a marked decline in the PANSS total score after 12 weeks of treatment. Secondary objectives include assessing the safety profile, quality of life, and functionality improvements among treatment groups."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "March 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Reduction in Positive and Negative Syndrome Scale (PANSS) total score from baseline to week 12.",
+        "time_frame": "Week 12"
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Occurrence of treatment-emergent adverse events (TEAEs) over the 12-week period.",
+        "time_frame": "Throughout the study duration"
+      },
+      {
+        "measure": "Change in Quality of Life measured by the Quality of Life Scale (QLS) from baseline to week 12.",
+        "time_frame": "Baseline, Week 12"
+      },
+      {
+        "measure": "Assessment of functionality using the Global Assessment of Functioning (GAF) scale at baseline and week 12.",
+        "time_frame": "Baseline, Week 12"
+      }
+    ],
+    "enrollment": "360",
+    "condition": "Schizophrenia",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Olanzapine",
+        "description": "Prescribed dosage ranging from 10 mg to 20 mg, administered orally once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo administered orally once daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adult participants aged 18 to 65 years with a DSM-5 diagnosis of schizophrenia.\n- Patients must display positive and/or negative symptoms deemed clinically significant as per PANSS.\n- Informed consent must be procured prior to initiation.\nExclusion Criteria:\n- Individuals with current substance use disorder or history of significant cardio-metabolic disorders.\n- Pregnant or lactating females, or those not using adequate contraception.\n- Co-morbid psychiatric disorders concurrent with schizophrenia."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Eli Lilly Clinical Research Center",
+          "address": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46285",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Various Community Mental Health Centers",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "October 10, 2020",
+    "study_first_posted": "October 12, 2020",
+    "last_update_submitted": "March 15, 2023",
+    "last_update_posted": "March 20, 2023",
+    "condition_browse": {
+      "mesh_term": "Schizophrenia"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Olanzapine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olanzapine Group",
+              "description": "Olanzapine administered as indicated."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Placebo administered as indicated."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["360", "180"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["360", "180"]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olanzapine Group",
+              "description": "Demographics and key baseline characteristics."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Demographics and key baseline characteristics."
+            }
+          ]
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age, years (mean)",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex Distribution",
+              "units": "Participants",
+              "param": "Count"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Reduction in PANSS score",
+            "time_frame": "Baseline to 12 weeks",
+            "population": "ITT analysis",
+            "measure": {
+              "title": "Mean PANSS total score",
+              "units": "Score",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in Quality of Life (QLS)",
+            "time_frame": "Baseline to 12 weeks",
+            "population": "ITT analysis",
+            "measure": {
+              "title": "Quality of Life Scale (QLS) total score",
+              "units": "Score",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          }
+        ]
+      },
+      "adverse_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olanzapine Group",
+              "description": "Adverse event summary and serious adverse events."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Adverse event summary and serious adverse events."
+            }
+          ]
+        }
+      }
+    },
+    "reported_events": {
+      "group_list": {
+        "group": [
+          {
+            "title": "Adverse Events in Olanzapine Group",
+            "description": "Comprehensive adverse events documented."
+          },
+          {
+            "title": "Adverse Events in Placebo Group",
+            "description": "Comprehensive adverse events documented."
+          }
+        ]
+      }
+    },
+    "limitations_and_caveats": "Data collected demonstrated statistically significant efficacy for olanzapine against placebo, highlighting both acute and long-term benefits in managing schizophrenia symptoms. However, study limitations included potential biases in self-reported measures and the single-country trial setting, affecting broader generalizability.",
+    "point_of_contact": {
+      "name_or_title": "Clinical Research Coordinator",
+      "organization": "Eli Lilly and Company",
+      "phone": "1-800-XXX-XXXX"
+    }
+  }
+}
+```

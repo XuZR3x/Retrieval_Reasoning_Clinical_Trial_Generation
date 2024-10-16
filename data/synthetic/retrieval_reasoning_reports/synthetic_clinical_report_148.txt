@@ -1,0 +1,139 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04026763"
+    },
+    "id_info": {
+      "org_study_id": "IL2-2020-003",
+      "nct_id": "NCT04026763"
+    },
+    "brief_title": "Aldesleukin for Enhancing Immunotherapy Response in Patients with Non-Small Cell Lung Cancer",
+    "official_title": "Phase II Trial of Aldesleukin in Combination with Nivolumab for Patients with Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute for Cancer Research",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Institute for Cancer Research",
+    "brief_summary": {
+      "textblock": "RATIONALE: Aldesleukin has demonstrated significant immunomodulatory effects that enhance the patient's immune response, particularly through the augmentation of lymphokine-activated killer (LAK) cells that target tumor cells. In this context, its combination with nivolumab—a PD-1 inhibitor—may yield synergistic effects, leading to improved clinical outcomes in non-small cell lung cancer (NSCLC).\n\nPURPOSE: This phase II trial is assessing the safety, tolerability, and efficacy of aldesleukin in conjunction with nivolumab for patients diagnosed with advanced non-small cell lung cancer."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n- Evaluate the safety and tolerability of the combination of aldesleukin and nivolumab in NSCLC patients.\n- Assess the overall response rate (ORR) and progression-free survival (PFS).\n- Determine the immunological correlates associated with treatment response, focusing on T cell subsets and LAK cell activity.\n\nOUTLINE: Eligible patients receive aldesleukin intravenously on days 1, 3, and 5, alongside nivolumab administered every two weeks for a maximum of 12 months.\n\nAfter treatment completion, patients are monitored for long-term outcomes and side effects."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 15, 2020",
+    "completion_date": "October 25, 2023",
+    "primary_completion_date": "July 30, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall response rate (ORR)",
+        "time_frame": "Up to 12 months post-treatment",
+        "description": "Measured by RECIST 1.1 criteria."
+      },
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "Measured from start of treatment to disease progression or death",
+        "description": "Utilized Kaplan-Meier methods for statistical analysis."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Safety profile (adverse events)",
+        "time_frame": "Up to 30 days post last dose",
+        "description": "Identified and classified by CTCAE version 5.0."
+      },
+      {
+        "measure": "Changes in T regulatory cell functionality",
+        "time_frame": "Baseline to end of treatment",
+        "description": "Evaluated by peripheral blood mononuclear cell analysis."
+      }
+    ],
+    "enrollment": "60",
+    "condition": "Non-Small Cell Lung Cancer",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Aldesleukin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n- Histologically confirmed advanced non-small cell lung cancer (NSCLC).\n- Prior treatment with chemotherapy or targeted therapy allowed.\n- ECOG performance status of 0-1.\n- Adequate organ function, including liver, renal, and bone marrow.\n\nEXCLUSION CRITERIA:\n- History of autoimmune disease requiring systemic treatment.\n- Uncontrolled intercurrent illness.\n- Recent history of other malignancies (unless curatively treated).\n- Pregnant or breastfeeding patients."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James H. Thompson, MD",
+      "role": "Study Chair",
+      "affiliation": "Institute for Cancer Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Cancer Treatment Facility",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Thompson JH, Smith TR, White W, et al. Aldesleukin and Nivolumab Combination Therapy in Advanced Non-Small Cell Lung Cancer: Results from a Phase II Trial. Journal of Immunotherapy. 2024; 47(2):123-130. doi: 10.1097/CJI.0b013e31826d9334.",
+      "PMID": "35348547"
+    },
+    "verification_date": "November 2023",
+    "study_first_submitted": "March 1, 2020",
+    "study_first_posted": "April 1, 2020",
+    "last_update_submitted": "October 1, 2023",
+    "last_update_posted": "October 29, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_title": "Director of Clinical Research",
+      "responsible_party_affiliation": "Institute for Cancer Research"
+    },
+    "keyword": [
+      "Aldesleukin",
+      "Nivolumab",
+      "Non-Small Cell Lung Cancer",
+      "Immunotherapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma, Non-Small-Cell Lung",
+        "Lung Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Aldesleukin",
+        "Nivolumab"
+      ]
+    }
+  }
+}
+```

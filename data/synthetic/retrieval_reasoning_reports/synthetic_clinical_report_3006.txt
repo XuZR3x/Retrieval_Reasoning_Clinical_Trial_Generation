@@ -1,0 +1,130 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 4, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "DOC-2023-001",
+      "nct_id": "NCT01234567",
+      "secondary_id": ["CDR00001234567", "GOG-2023-001"]
+    },
+    "brief_title": "Docetaxel and Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Docetaxel in Combination With Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme Corp.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "NCI Cancer Center",
+    "brief_summary": {
+      "textblock": "This phase II clinical trial investigates the efficacy and safety of docetaxel combined with the immune checkpoint inhibitor pembrolizumab in patients with advanced non-small cell lung cancer (NSCLC). The trial aims to leverage the synergistic pharmacodynamics of chemotherapy and immunotherapy to enhance antitumor responses."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the overall response rate (ORR) to docetaxel and pembrolizumab treatment in patients with advanced NSCLC.\r\n\r\nII. To assess the safety profile and toxicity of the combination therapy, including immune-related adverse effects.\r\n\r\nOUTLINE:\r\n\r\nPatients receive docetaxel IV on day 1 and pembrolizumab IV on day 1 of each 21-day cycle. Treatment continues for up to 6 cycles in the absence of disease progression or unacceptable toxicity. Patients are subsequently followed every 6 weeks for progression assessments and adverse event monitoring. \r\n\r\nProjected accrual is 180 patients over a period of approximately 24 months."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2022",
+    "primary_completion_date": "October 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "6 months",
+      "description": "The ORR is defined as the proportion of patients achieving a complete or partial response as determined by RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Until disease progression or up to 12 months",
+        "description": "Measured from the start of treatment to the date of disease progression or death, whichever occurs first."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "12 months",
+        "description": "Time duration from the date of randomization until the date of death from any cause."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Up to 12 months",
+        "description": "Adverse events will be recorded according to CTCAE v5.0 grading."
+      }
+    ],
+    "enrollment": "180",
+    "condition": "Non-Small Cell Lung Cancer",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Administered IV on day 1 of each 21-day treatment cycle.",
+        "other_name": ["Taxotere"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Administered IV on day 1 of each 21-day treatment cycle.",
+        "other_name": ["Keytruda"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adult patients (≥18 years) with histologically confirmed stage III or IV NSCLC not amenable to curative treatment.\r\n- Patients must have received at least one prior systemic therapy.\r\n- Measurable disease per RECIST 1.1.\r\n- ECOG performance status 0-1.\r\n- Adequate organ function with specific laboratory thresholds.\r\n\r\nExclusion Criteria:\r\n\r\n- Active autoimmune disease requiring systemic treatment within the last 2 years.\r\n- History of severe hypersensitivity reactions to pembrolizumab or docetaxel.\r\n- Any other active malignancy requiring treatment.\r\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Principal Investigator",
+      "affiliation": "NCI Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "NCI Cancer Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2023",
+    "study_first_submitted": "October 15, 2021",
+    "study_first_submitted_qc": "November 2, 2021",
+    "study_first_posted": "November 5, 2021",
+    "last_update_submitted": "January 20, 2024",
+    "last_update_posted": "January 21, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Docetaxel", "Pembrolizumab"]
+    }
+  }
+}
+``` 
+
+This successful clinical trial demonstrates the integration of docetaxel with pembrolizumab, a PD-1 inhibitor, in a patient population specifically selected to maximize response rates and safety profiles. The incorporation of advanced biomarker-guided patient stratification, along with well-defined safety assessments and robust follow-up mechanisms, underscores the rigor of this study and its potential for improving treatment outcomes in advanced NSCLC.

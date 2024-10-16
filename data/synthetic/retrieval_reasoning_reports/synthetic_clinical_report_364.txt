@@ -1,0 +1,275 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04356072"
+    },
+    "id_info": {
+      "org_study_id": "ABC-2020/LID",
+      "nct_id": "NCT04356072"
+    },
+    "brief_title": "Efficacy of Topical 3% Lidocaine Gel in Postoperative Pain Management Following Minor Surgical Procedures",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of Topical 3% Lidocaine Gel for Postoperative Pain Relief Following Minor Surgical Procedures",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Medical Center",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of topical 3% lidocaine gel in reducing postoperative pain after minor surgical procedures, hypothesizing that lidocaine will provide significant analgesic benefits compared to placebo."
+    },
+    "detailed_description": {
+      "textblock": "Following the minor surgical procedures, participants will be randomized to receive either a topical application of 3% lidocaine gel or a placebo gel. The treatment will be applied to the surgical site immediately postoperatively and then twice daily for the next three days. Pain intensity will be assessed using a visual analogue scale (VAS) at baseline, 30 minutes after application, and at 24, 48, and 72 hours post-surgery."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2020",
+    "completion_date": "January 2022",
+    "primary_completion_date": "December 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+      "measure": "Pain Intensity",
+      "time_frame": "30 minutes, 24, 48, and 72 hours post-application",
+      "description": "Pain will be measured using a 100 mm visual analogue scale with anchors at 'no pain' and 'worst pain imaginable'."
+    }],
+    "secondary_outcome": [{
+      "measure": "Quality of Life Assessment",
+      "time_frame": "3 months post-procedure",
+      "description": "Quality of life will be assessed via the Short-Form Health Survey (SF-36) to evaluate broader impacts of pain management on daily living."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "64",
+    "condition": "Postoperative Pain",
+    "arm_group": [{
+      "arm_group_label": "Lidocaine Gel",
+      "arm_group_type": "Experimental",
+      "description": "Participants received a topical application of 3% lidocaine gel to the surgical site immediately postoperatively."
+    }, {
+      "arm_group_label": "Placebo Gel",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants received a topical application of placebo gel to the surgical site immediately postoperatively."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Topical Lidocaine Gel",
+      "description": "A 3% lidocaine gel will be applied to the surgical site immediately post-surgery and twice daily for three days.",
+      "arm_group_label": "Lidocaine Gel",
+      "other_name": "3% Lidocaine Gel"
+    }, {
+      "intervention_type": "Other",
+      "intervention_name": "Placebo Gel",
+      "description": "A non-medicated placebo gel will be applied to the surgical site immediately post-surgery and twice daily for three days.",
+      "arm_group_label": "Placebo Gel"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adults aged 18 to 65 years undergoing minor surgical procedures;\r\n\r\n  - Ability to provide informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  - Allergy to local anesthetics;\r\n\r\n  - History of chronic pain disorders;\r\n\r\n  - Concurrent use of systemic analgesics.\r\n\r\n",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Medical Center"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Medical Center",
+        "address": {
+          "city": "Metropolis",
+          "state": "State",
+          "zip": "12345",
+          "country": "USA"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2022",
+    "study_first_submitted": "March 1, 2020",
+    "study_first_posted": "March 10, 2020",
+    "last_update_posted": "February 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "XYZ Medical Center",
+      "investigator_full_name": "Dr. John Smith"
+    },
+    "keyword": ["lidocaine", "postoperative pain", "topical anesthetic", "minor surgery", "pain management"],
+    "condition_browse": {
+      "mesh_term": "Postoperative Pain"
+    },
+    "intervention_browse": {
+      "mesh_term": "Lidocaine"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited from the surgical departments of XYZ Medical Center between April 2020 and December 2021.",
+        "group_list": {
+          "group": [{
+            "title": "Lidocaine Gel",
+            "description": "Received topical lidocaine gel"
+          }, {
+            "title": "Placebo Gel",
+            "description": "Received topical placebo gel"
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study Period",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [32, 32]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [32, 32]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+            "title": "Lidocaine Gel",
+            "description": "Topical lidocaine application"
+          }, {
+            "title": "Placebo Gel",
+            "description": "Topical placebo application"
+          }]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [32, 32]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Pain Intensity Reduction",
+          "description": "Measured via VAS immediately after treatment and at follow-up intervals.",
+          "time_frame": "30 minutes, 24, 48, and 72 hours post-application",
+          "measure": {
+            "title": "Pain Intensity",
+            "units": "mm on VAS",
+            "param": "Mean",
+            "dispersion": "Standard Error",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [32, 32]
+                }
+              }
+            },
+            "class_list": [{
+              "title": "Immediate Post-application",
+              "category_list": {
+                "category": {
+                  "measurement_list": [3.5, 8.2]
+                }
+              }
+            }, {
+              "title": "24 Hours Post-application",
+              "category_list": {
+                "category": {
+                  "measurement_list": [2.9, 7.5]
+                }
+              }
+            }, {
+              "title": "72 Hours Post-application",
+              "category_list": {
+                "category": {
+                  "measurement_list": [1.4, 6.0]
+                }
+              }
+            }]
+          },
+          "analysis_list": {
+            "analysis": {
+              "method": "ANOVA",
+              "p_value": "<0.01"
+            }
+          }
+        }]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [{
+            "title": "Lidocaine Gel",
+            "description": "Topical lidocaine application"
+          }, {
+            "title": "Placebo Gel",
+            "description": "Topical placebo application"
+          }]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Serious adverse events recorded",
+                  "counts": [0, 0]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "1",
+          "category_list": {
+            "category": {
+              "event_list": {
+                "event": {
+                  "sub_title": "Mild erythema at application site",
+                  "counts": [2, 1]
+                }
+              }
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the sponsoring organization.",
+        "restrictive_agreement": "The sponsor retains the right to review manuscripts for publication before submission."
+      },
+      "limitations_and_caveats": "Study limitations include a relatively small participant cohort and short follow-up duration, warranting further research.",
+      "point_of_contact": {
+        "name_or_title": "Dr. John Smith",
+        "organization": "XYZ Medical Center",
+        "phone": "555-0123",
+        "email": "john.smith@xyzmedical.org"
+      }
+    }
+  }
+}
+```

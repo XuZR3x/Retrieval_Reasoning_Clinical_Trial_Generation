@@ -1,0 +1,227 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02590876"
+    },
+    "id_info": {
+      "org_study_id": "SAR-RA-004",
+      "secondary_id": "2015-002168-50",
+      "nct_id": "NCT02590876"
+    },
+    "brief_title": "Efficacy and Safety of Sarilumab Compared to Standard Therapy in Patients With Moderate to Severe Rheumatoid Arthritis",
+    "acronym": "SARILUMAB-RA",
+    "official_title": "A Randomized, Double-Blind, Phase III Study of Sarilumab versus Standard Therapy in Patients With Moderate to Severe Rheumatoid Arthritis Who Have Experienced an Inadequate Response to Adalimumab",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Regeneron Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Sanofi",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Primary Objective:\r\n\r\n  -  To evaluate the efficacy of sarilumab in participants with moderate to severe rheumatoid arthritis (RA) using the Disease Activity Score for 28 joints (DAS28) as a primary endpoint.\r\n\r\nSecondary Objectives:\r\n\r\n  -  To assess the safety and tolerability of sarilumab in patients with RA.\r\n  -  To compare the health-related quality of life changes in patients administered sarilumab versus standard therapies."
+    },
+    "detailed_description": {
+      "textblock": "This study spanned approximately 64 weeks with the following phases:\r\n\r\n  -  Screening phase of up to 6 weeks;\r\n  -  24-week double-blind treatment phase;\r\n  -  Follow-up phase for 6 weeks after treatment discontinuation."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of adequate patient response and limited enrollment numbers leading to insufficient power for efficacy analysis.",
+    "start_date": "September 2015",
+    "completion_date": "March 2016",
+    "primary_completion_date": "February 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in Disease Activity Score for 28 Joints (DAS28-CRP) at Week 24",
+      "time_frame": "Baseline, Week 24",
+      "description": "The change in DAS28-CRP was measured to evaluate the treatment effect on inflammatory activity in RA."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Number of Participants Achieving ACR20, ACR50, ACR70 Response at Week 12 and Week 24",
+        "time_frame": "Week 12, Week 24",
+        "description": "Assessment of clinical improvement in RA based on ACR response criteria."
+      },
+      {
+        "measure": "Percentage of Participants Reporting Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "Throughout the study duration",
+        "description": "Monitoring of safety and tolerability in both treatment groups."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "180",
+    "condition": "Rheumatoid Arthritis",
+    "arm_group": [
+      {
+        "arm_group_label": "Sarilumab + Methotrexate",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive sarilumab 150 mg subcutaneously every 2 weeks combined with a stable dose of methotrexate."
+      },
+      {
+        "arm_group_label": "Standard Care + Methotrexate",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive standard therapy (etanercept) subcutaneously every week combined with a stable dose of methotrexate."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Sarilumab",
+        "description": "Pharmaceutical form: Solution for injection.\r\nRoute of administration: Subcutaneous.",
+        "arm_group_label": ["Sarilumab + Methotrexate"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etanercept",
+        "description": "Pharmaceutical form: Solution for injection.\r\nRoute of administration: Subcutaneous.",
+        "arm_group_label": ["Standard Care + Methotrexate"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Methotrexate",
+        "description": "Standard therapy dosage according to FDA local prescribing information.",
+        "arm_group_label": ["Sarilumab + Methotrexate", "Standard Care + Methotrexate"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion criteria:\r\n\r\n  -  Adult patients aged 18 years or older with a confirmed diagnosis of RA for ≥6 months.\r\n  -  Inadequate response to adalimumab (≥3 months) combined with a stable dose of methotrexate.\r\n\r\nExclusion criteria:\r\n\r\n  -  History of serious infections including tuberculosis.\r\n  -  Previous or concurrent treatment with another biologic.\r\n  -  Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Sciences & Operations",
+      "role": "Study Director",
+      "affiliation": "Sanofi"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Investigational Site 1",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Investigational Site 2",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "March 2016",
+    "study_first_submitted": "August 31, 2015",
+    "study_first_posted": "September 2, 2015",
+    "results_first_posted": "January 15, 2016",
+    "last_update_posted": "March 9, 2016",
+    "disposition_first_submitted": "June 21, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Arthritis", "Arthritis, Rheumatoid"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study commenced with a total of 500 participants screened across 20 centers.",
+        "pre_assignment_details": "Of the screened candidates, only 180 participants were eligible and consented to participate. Ultimately, 60 proceeded to randomization.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Sarilumab + Methotrexate",
+              "description": "Participants received sarilumab 150 mg."
+            },
+            {
+              "title": "Standard Care + Methotrexate",
+              "description": "Participants received etanercept along with methotrexate."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["500 screened"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["60 randomized"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["440 screen failures and dropouts"]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Inadequate Participant Response",
+                    "participants_list": {
+                      "participants": ["Insufficient clinical response rates observed."]
+                    }
+                  },
+                  {
+                    "title": "Limited Patient Enrollment",
+                    "participants_list": {
+                      "participants": ["Recruitment challenges resulted in insufficient randomization."]
+                    }
+                  },
+                  {
+                    "title": "Methodological Limitations",
+                    "participants_list": {
+                      "participants": ["Study design limitations affected the interpretability of findings."]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+``` 
+
+This report provides a thorough overview of a failed clinical trial of sarilumab, focusing on key parameters that led to its termination, all while adhering to the requested technical format.

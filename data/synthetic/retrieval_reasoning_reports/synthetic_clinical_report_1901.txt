@@ -1,0 +1,468 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2023",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03045678"
+    },
+    "id_info": {
+      "org_study_id": "OLAPARIB-2023",
+      "nct_id": "NCT03045678"
+    },
+    "brief_title": "Phase II Study of Olaparib in Combination with Paclitaxel in Patients with Advanced Solid Tumors",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Phase II Study Assessing the Efficacy and Safety of Olaparib in Combination with Paclitaxel in Patients with Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Neoplasia Research Consortium",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Neoplasia Research Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the efficacy of olaparib, in combination with paclitaxel, compared with placebo plus paclitaxel, in patients presenting with advanced solid tumors. The aim is to determine whether olaparib enhances therapeutic outcomes in subjects post-first-line chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "This phase II study utilized a multicenter design enrolling patients with documented advanced solid tumors following failure of the first-line chemotherapy. Participants were randomized to receive either olaparib or placebo alongside paclitaxel. Efficacy endpoints included the overall survival and progression-free survival at 6 and 12 months."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2018",
+    "completion_date": "December 8, 2022",
+    "primary_completion_date": "November 15, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival at 12 Months",
+      "time_frame": "Assessed at 12 months post-randomization",
+      "description": "Overall survival defined as the time from randomization until death due to any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Monitored from randomization until disease progression or death, assessed every 8 weeks.",
+        "description": "Duration from randomization to radiographic disease progression."
+      },
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Evaluated every 8 weeks during study period.",
+        "description": "Defined as the proportion of participants achieving a confirmed complete response (CR) or partial response (PR) as per RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Adverse events monitored throughout treatment and for 30 days post-treatment.",
+        "description": "Evaluates the incidence of Grade 3 or greater adverse events using CTCAE v4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "156",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": [
+      {
+        "arm_group_label": "Olaparib + Paclitaxel",
+        "arm_group_type": "Experimental",
+        "description": "Olaparib at 300mg PO twice daily with paclitaxel 80mg/m² IV on days 1, 8, and 15 of a 28-day cycle."
+      },
+      {
+        "arm_group_label": "Placebo + Paclitaxel",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo at 300mg PO twice daily with paclitaxel 80mg/m² IV on days 1, 8, and 15 of a 28-day cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Olaparib",
+        "description": "300mg oral tablet twice daily in combination with paclitaxel.",
+        "arm_group_label": "Olaparib + Paclitaxel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "IV infusion of 80mg/m² on days 1, 8, and 15 of each 28-day cycle.",
+        "arm_group_label": ["Olaparib + Paclitaxel", "Placebo + Paclitaxel"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo tablet identical in appearance to olaparib.",
+        "arm_group_label": "Placebo + Paclitaxel"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Advanced solid tumors that progressed following first-line chemotherapy.\n\n  - Measurable disease according to RECIST v1.1.\n\n  - Adequate hematologic, renal, and hepatic function.\n\n  - Age >= 18 years.\n\n  - No prior exposure to PARP inhibitors.\n\nExclusion Criteria:\n\n  - Current pregnancy or lactation.\n\n  - Evidence of active or uncontrolled infection.\n\n  - Known hypersensitivity to olaparib or paclitaxel.\n\n  - Concurrent use of strong CYP3A inhibitors."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Netta Abramovitz, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Neoplasia Research Consortium"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Neoplasia Research Consortium Site",
+          "address": {
+            "city": "Los Angeles",
+            "zip": "90015",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Neoplasia Research Consortium Site",
+          "address": {
+            "city": "Chicago",
+            "zip": "60614",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrollment began in March 2018 and was completed in April 2021 with 156 participants.",
+        "pre_assignment_details": "All participants were randomly assigned to one of the two treatment arms upon recruitment."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olaparib + Paclitaxel",
+              "description": "Olaparib administered with paclitaxel."
+            },
+            {
+              "title": "Placebo + Paclitaxel",
+              "description": "Placebo administered with paclitaxel."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [78, 78]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival",
+            "description": "Overall survival time from randomization until death.",
+            "time_frame": "Assessed at 12 months post-randomization.",
+            "population": "Full analysis set.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Olaparib + Paclitaxel",
+                  "description": "Combination treatment."
+                },
+                {
+                  "title": "Placebo + Paclitaxel",
+                  "description": "Combination treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Overall Survival",
+              "units": "Months",
+              "param": "Median",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [30.8, 26.2]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Cox proportional hazards model",
+                  "param_type": "Hazard Ratio (HR)",
+                  "param_value": "0.87",
+                  "ci_percent": "95",
+                  "ci_lower_limit": "0.63",
+                  "ci_upper_limit": "1.21",
+                  "p_value": "0.38"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS from randomization until progression or death.",
+            "time_frame": "Assessed up to 12 months.",
+            "population": "Full analysis set.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Olaparib + Paclitaxel",
+                  "description": "Combination treatment."
+                },
+                {
+                  "title": "Placebo + Paclitaxel",
+                  "description": "Combination treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Progression-Free Survival (PFS)",
+              "units": "Months",
+              "param": "Median",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [6.3, 5.4]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Cox proportional hazards model",
+                  "param_type": "Hazard Ratio (HR)",
+                  "param_value": "0.93",
+                  "ci_percent": "95",
+                  "ci_lower_limit": "0.68",
+                  "ci_upper_limit": "1.27",
+                  "p_value": "0.64"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "Proportion achieving CR or PR as per RECIST v1.1.",
+            "time_frame": "Evaluated via scans at 8-week intervals.",
+            "population": "Full analysis set.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Olaparib + Paclitaxel",
+                  "description": "Combination treatment."
+                },
+                {
+                  "title": "Placebo + Paclitaxel",
+                  "description": "Combination treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Objective Response Rate (ORR)",
+              "units": "Percentage",
+              "param": "Proportion",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [24, 20]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Logistic regression",
+                  "param_type": "Odds Ratio (OR)",
+                  "param_value": "1.25",
+                  "ci_percent": "95",
+                  "ci_lower_limit": "0.78",
+                  "ci_upper_limit": "2.00",
+                  "p_value": "0.35"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were monitored from first dose until 30 days post last dose.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Olaparib + Paclitaxel",
+              "description": "Drug administration."
+            },
+            {
+              "title": "Placebo + Paclitaxel",
+              "description": "Drug administration."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total serious adverse events reported",
+                    "counts": [10, 8]
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Neutropenia",
+                      "counts": [3, 2]
+                    },
+                    {
+                      "sub_title": "Anemia",
+                      "counts": [2, 1]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [5, 4]
+                    },
+                    {
+                      "sub_title": "Diarrhea",
+                      "counts": [6, 5]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Fatigue",
+                      "counts": [4, 3]
+                    },
+                    {
+                      "sub_title": "Pyrexia",
+                      "counts": [2, 2]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Infections and infestations",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Upper respiratory tract infection",
+                      "counts": [3, 3]
+                    },
+                    {
+                      "sub_title": "Pneumonia",
+                      "counts": [2, 2]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total other adverse events reported",
+                    "counts": [25, 30]
+                  }
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Edema",
+                      "counts": [4, 5]
+                    },
+                    {
+                      "sub_title": "Malaise",
+                      "counts": [2, 3]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Nervous system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Headache",
+                      "counts": [6, 5]
+                    },
+                    {
+                      "sub_title": "Dizziness",
+                      "counts": [7, 6]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The principal investigator must inform the sponsor of any presentations or publications of the trial results at least 60 days in advance of submission."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Netta Abramovitz",
+        "organization": "Neoplasia Research Consortium",
+        "phone": "+1 (123) 456-7890",
+        "email": "netta.abramovitz@neoplasiaresearchconsortium.org"
+      }
+    }
+  }
+}
+```

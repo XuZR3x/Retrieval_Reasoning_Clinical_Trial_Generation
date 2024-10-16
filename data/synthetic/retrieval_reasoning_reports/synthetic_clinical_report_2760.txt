@@ -1,0 +1,163 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT03761063"
+    },
+    "id_info": {
+        "org_study_id": "C17025",
+        "secondary_id": "U1111-1245-5643",
+        "nct_id": "NCT03761063"
+    },
+    "brief_title": "Ixazomib in Combination With Lenalidomide and Dexamethasone for Patients With Newly Diagnosed Multiple Myeloma",
+    "official_title": "An Open-Label, Multi-Center, Phase 2 Study of Ixazomib (MLN9708) in Combination With Lenalidomide and Dexamethasone for Newly Diagnosed Patients With Multiple Myeloma",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "Takeda Pharmaceuticals",
+            "agency_class": "Industry"
+        }
+    },
+    "source": "Takeda Pharmaceuticals",
+    "oversight_info": {
+        "has_dmc": "Yes",
+        "is_fda_regulated_drug": "Yes",
+        "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+        "textblock": "This study aims to evaluate the efficacy and safety profile of ixazomib administered in combination with lenalidomide and dexamethasone in a defined patient population with newly diagnosed multiple myeloma. The design incorporates a comprehensive dosage strategy and robust participant selection criteria."
+    },
+    "detailed_description": {
+        "textblock": "The investigational drug, ixazomib, was administered orally at a starting dose determined through a systematic dose-escalation method that outlined the Maximum Tolerated Dose (MTD) and its Recommended Phase 2 Dose (RP2D). The study enrolled 75 patients diagnosed with measurable disease, segmented into well-defined cohorts based on age, previous treatment history, and renal functioning to enhance the evaluation of ixazomib’s efficacy.\n\nPatients received ixazomib in combination with lenalidomide (25 mg orally on days 1-21) and dexamethasone (40 mg orally on days 1, 8, 15, and 22) during 28-day cycles for up to 12 cycles. The regimen's multi-faceted approach aimed to achieve synergistic anti-cancer effects critical in multiple myeloma.\n\nThe follow-up involved regular safety monitoring of treatment-emergent adverse events (TEAEs) and serious adverse events (SAEs) throughout the treatment duration, facilitated by a thorough safety assessment protocol. The pharmacokinetic analysis was also integrated to inform on ixazomib’s absorption, distribution, metabolism, and excretion (ADME) properties, guiding potential dose adjustments and enhancing overall treatment safety.\n\nThe total study duration was 24 months, with multiple follow-up visits scheduled at significant milestones, leading to a comprehensive analysis of the therapeutic outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 5, 2019",
+    "completion_date": "February 10, 2022",
+    "primary_completion_date": "June 30, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Non-Randomized",
+        "intervention_model": "Single Group Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+        {
+            "measure": "Overall Response Rate (ORR) From Ixazomib, Lenalidomide, and Dexamethasone Combination Treatment",
+            "time_frame": "Up to Cycle 12 (approximately 12 months)",
+            "description": "ORR is defined as the proportion of patients achieving either a complete response (CR) or a very good partial response (VGPR) using the International Myeloma Working Group (IMWG) criteria."
+        },
+        {
+            "measure": "Safety Profile: Number of Participants with Treatment Emergent Adverse Events (TEAEs)",
+            "time_frame": "Baseline up to 30 days after last dose of study drug (up to 2 years)",
+            "description": "Assessment of AE includes frequency and severity (Grade 3 or higher) based on the CTCAE v5.0 criteria."
+        },
+        {
+            "measure": "Recommended Phase 2 Dose (RP2D) of Ixazomib",
+            "time_frame": "End of Phase 1 (Cycle 1)",
+            "description": "RP2D will be determined based on the data collected during Phase 1, focusing on tolerability and dose-limiting toxicity (DLT)."
+        }
+    ],
+    "secondary_outcome": [
+        {
+            "measure": "Duration of Response (DOR)",
+            "time_frame": "From first response confirmed until disease progression (up to 2 years)",
+            "description": "Measured as time from first confirmed response of CR, VGPR, or PR to date of documented progression."
+        },
+        {
+            "measure": "Progression-Free Survival (PFS)",
+            "time_frame": "Up to 2 years from start of treatment",
+            "description": "PFS is defined as the time from initiation of treatment to the first documented disease progression or death."
+        },
+        {
+            "measure": "Pharmacokinetic Parameters: Cmax and AUC for Ixazomib",
+            "time_frame": "Cycle 1, Days 1 and 15",
+            "description": "Measurement of maximum plasma concentration (Cmax) and area under the curve (AUC) for ixazomib to assess the pharmacokinetic profile."
+        }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "75",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+        {
+            "arm_group_label": "Ixazomib Combination Therapy",
+            "arm_group_type": "Experimental",
+            "description": "Participants received ixazomib 4 mg orally on days 1, 8, and 15 in combination with lenalidomide and dexamethasone in 28-day cycles. The regimen was maintained until disease progression or unacceptable toxicity."
+        }
+    ],
+    "intervention": [
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Ixazomib",
+            "description": "Ixazomib 4 mg capsules administered orally on scheduled days.",
+            "arm_group_label": ["Ixazomib Combination Therapy"]
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Lenalidomide",
+            "description": "Lenalidomide 25 mg capsules administered orally on days 1-21 of each cycle.",
+            "arm_group_label": ["Ixazomib Combination Therapy"]
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Dexamethasone",
+            "description": "Dexamethasone 40 mg tablets administered orally on days 1, 8, and 15 of each cycle.",
+            "arm_group_label": ["Ixazomib Combination Therapy"]
+        }
+    ],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\n- Male or female patients aged 18 years or older.\n- Newly diagnosed multiple myeloma with measurable disease.\n- ECOG performance status of 0 to 2.\n- Adequate hematologic, liver, and renal function.\n\nExclusion Criteria:\n- History of peripheral neuropathy greater than Grade 2.\n- Previous treatment for multiple myeloma.\n- Active infection requiring systemic therapy.\n- Pregnancy or lactation."
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Senior Clinical Researcher",
+        "role": "Study Director",
+        "affiliation": "Takeda Pharmaceuticals"
+    },
+    "location": [
+        {"facility": {"name": "University of California, San Diego", "address": {"city": "San Diego", "state": "California", "zip": "92093", "country": "United States"}}},
+        {"facility": {"name": "Cedars-Sinai Medical Center", "address": {"city": "Los Angeles", "state": "California", "zip": "90048", "country": "United States"}}},
+        {"facility": {"name": "Mayo Clinic", "address": {"city": "Rochester", "state": "Minnesota", "zip": "55905", "country": "United States"}}},
+        {"facility": {"name": "Johns Hopkins Hospital", "address": {"city": "Baltimore", "state": "Maryland", "zip": "21205", "country": "United States"}}}
+    ],
+    "location_countries": {"country": "United States"},
+    "verification_date": "December 2022",
+    "study_first_submitted": "December 1, 2018",
+    "study_first_submitted_qc": "December 5, 2018",
+    "study_first_posted": "December 10, 2018",
+    "results_first_submitted": "October 15, 2022",
+    "results_first_submitted_qc": "October 20, 2022",
+    "results_first_posted": "October 25, 2022",
+    "last_update_submitted": "February 5, 2023",
+    "last_update_submitted_qc": "February 10, 2023",
+    "last_update_posted": "February 15, 2023",
+    "responsible_party": {"responsible_party_type": "Sponsor"},
+    "condition_browse": {"mesh_term": ["Multiple Myeloma"]},
+    "intervention_browse": {"mesh_term": ["Ixazomib", "Dexamethasone", "Lenalidomide"]},
+    "clinical_results": {
+        "participant_flow": {
+            "recruitment_details": "Participants were enrolled from January 5, 2019, to February 10, 2022, at various clinical sites across the United States.",
+            "pre_assignment_details": "Eligible patients with newly diagnosed multiple myeloma enrolled to receive ixazomib, lenalidomide, and dexamethasone, with response assessments occurring at each cycle.",
+            "group_list": {"group": [{"title": "Ixazomib Combination Therapy", "description": "Participating patients received a fixed dosing schedule of ixazomib in conjunction with lenalidomide and dexamethasone as detailed in the protocol."}]},
+            "period_list": {
+                "period": [{"title": "Study period", "milestone_list": {"milestone": [{"title": "STARTED", "participants_list": {"participants": [75]}},{"title": "COMPLETED", "participants_list": {"participants": [75]}},{"title": "NOT COMPLETED", "participants_list": {"participants": [0]}}]}},{"title": "Follow-up period", "milestone_list": {"milestone": [{"title": "STARTED", "participants_list": {"participants": [75]}},{"title": "COMPLETED", "participants_list": {"participants": [75]}},{"title": "NOT COMPLETED", "participants_list": {"participants": [0]}}]}}]}},
+            "baseline": {"population": "All participants who received at least one dose of study drug.", "group_list": {"group": [{"title": "Ixazomib Combination Therapy", "description": "Participants were administered ixazomib, lenalidomide, and dexamethasone as per the outlined treatment arms."}]}},
+            "outcome_list": {
+                "outcome": [{"type": "Primary", "title": "Overall Response Rate (ORR)", "description": "Evaluated the proportion of participants achieving either CR or VGPR by IMWG criteria.", "time_frame": "To be assessed at the end of Cycle 12."},
+                            {"type": "Primary", "title": "Safety Assessment: TEAEs and SAEs", "description": "Captured TEAEs and SAEs during the treatment period.", "time_frame": "Throughout study duration and 30 days post last dose"},
+                            {"type": "Secondary", "title": "Time to Response", "description": "Measured from first drug administration to the first confirmed response.", "time_frame": "Baseline up to approximately 24 months"},
+                            {"type": "Secondary", "title": "Progression-Free Survival (PFS)", "description": "The time from study treatment initiation to progression or death, whichever occurs first.", "time_frame": "Up to 2 years post-treatment initiation."}
+                ]},
+                "reported_events": {
+                    "time_frame": "From study initiation until 30 days after last treatment cycle completion.",
+                    "desc": "All occurrences of TEAEs and AEs have been documented for safety monitoring and regulatory compliance."
+                }
+            }
+        }}
+}}

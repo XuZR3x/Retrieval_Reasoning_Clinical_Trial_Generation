@@ -1,0 +1,118 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01783946"
+    },
+    "id_info": {
+      "org_study_id": "HYPER-003",
+      "nct_id": "NCT01783946"
+    },
+    "brief_title": "Evaluation of Hydrocortisone in Patients With Advanced COVID-19 Pneumonia",
+    "official_title": "A Phase II Randomized, Controlled Trial of Hydrocortisone for Management of Advanced Pneumonia in COVID-19 Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The global COVID-19 pandemic has presented unique challenges in the treatment of viral pneumonia, necessitating novel therapeutic strategies. This multicenter trial aimed to investigate the efficacy of low-dose hydrocortisone in patients admitted with severe pneumonia due to COVID-19. The hypothesis posited that the administration of hydrocortisone would diminish the inflammatory response associated with pneumonia and improve clinical outcomes.\n\nDespite robust preliminary data suggesting a beneficial role for corticosteroids in the management of acute respiratory distress syndrome, the study encountered challenges during patient recruitment. Strict eligibility criteria, including age restrictions and exclusion of patients with significant comorbidities like diabetes and active infections, limited participant enrollment to a significant extent. Furthermore, the trial's design did not account for the critical timing of hydrocortisone administration, as many patients exhibited severe disease progression at the time of potential intervention, therefore not leveraging the purported advantages of corticosteroid therapy.",
+      "overall_status": "Terminated",
+      "why_stopped": "Limited patient recruitment due to stringent inclusion criteria and rapid disease progression.",
+      "start_date": "February 2013",
+      "completion_date": "June 2020",
+      "primary_completion_date": "December 2018",
+      "phase": "Phase 2",
+      "study_type": "Interventional",
+      "has_expanded_access": "No",
+      "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "Double (Participant, Investigator)"
+      },
+      "primary_outcome": {
+        "measure": "Improvement in oxygenation levels",
+        "time_frame": "Throughout hospitalization up to 90 days"
+      },
+      "secondary_outcome": [
+        {
+          "measure": "Duration of mechanical ventilation",
+          "time_frame": "Up to 90 days"
+        },
+        {
+          "measure": "Incidence of secondary infections",
+          "time_frame": "Up to 90 days"
+        },
+        {
+          "measure": "Quality of life assessments using EQ-5D",
+          "time_frame": "6 months post-randomization"
+        }
+      ],
+      "number_of_arms": "2",
+      "enrollment": "20",
+      "condition": "COVID-19 Pneumonia",
+      "arm_group": [
+        {
+          "arm_group_label": "Hydrocortisone Treatment",
+          "arm_group_type": "Experimental",
+          "description": "Hydrocortisone 50 mg intravenous daily for 7 days."
+        },
+        {
+          "arm_group_label": "Placebo Comparator",
+          "arm_group_type": "Placebo Comparator",
+          "description": "Isotonic saline administered intravenously."
+        }
+      ],
+      "eligibility": {
+        "criteria": {
+          "textblock": "Inclusion Criteria:\n\n  -  Patients aged 18-75 years\n  -  Documented severe pneumonia due to confirmed COVID-19 diagnosis\n  -  Hospitalized and requiring supplemental oxygen\n  -  Able to provide informed consent\n\nExclusion Criteria:\n\n  -  Pregnant or nursing women\n  -  Patients with known contraindications to corticosteroids\n  -  Patients with other active viral or bacterial infections requiring treatment\n  -  Patients previously enrolled in any hydrocortisone studies within 30 days\n  -  Patients with significant comorbidities impacting prognosis (e.g., chronic renal failure, advanced liver disease).",
+          "gender": "All",
+          "minimum_age": "18 Years",
+          "maximum_age": "75 Years",
+          "healthy_volunteers": "No"
+        }
+      },
+      "overall_official": {
+        "last_name": "Rebecca J. Smith, MD",
+        "role": "Principal Investigator",
+        "affiliation": "National Institute of Health"
+      },
+      "location": {
+        "facility": {
+          "name": "National Institutes of Health Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      "location_countries": {
+        "country": "United States"
+      },
+      "keyword": [
+        "COVID-19",
+        "Hydrocortisone",
+        "Corticosteroids",
+        "Pneumonia",
+        "InflammATORY Response"
+      ],
+      "condition_browse": {
+        "mesh_term": ["Pneumonia", "COVID-19"]
+      },
+      "intervention_browse": {
+        "mesh_term": ["Hydrocortisone", "Corticosteroids"]
+      }
+    }
+  }
+}
+```

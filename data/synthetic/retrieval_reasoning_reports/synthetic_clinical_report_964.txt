@@ -1,0 +1,139 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00012345"
+    },
+    "id_info": {
+      "org_study_id": "ABC-XYZ-123",
+      "secondary_id": "NCI-2023-XYZ01",
+      "nct_id": "NCT00012345"
+    },
+    "brief_title": "Infliximab for Patients With Resistance to Standard Therapies in Advanced Myelodysplastic Syndrome",
+    "official_title": "A Randomized Phase II Trial of Infliximab in Patients With Myelodysplastic Syndrome Resistant to Conventional Therapies: Evaluating Efficacy and Safety in a Multicenter Setting",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Infliximab, a TNF-α antagonist, was hypothesized to enhance hematological responses in patients with myelodysplastic syndrome (MDS) who failed conventional therapies. However, preliminary observations raised concerns regarding its efficacy in modifying the disease course and clarified an elevated safety profile in this demographic."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\n- Assess the overall response rate to infliximab in patients with advanced MDS unresponsive to standard treatments.\n\n- Evaluate the incidence of severe infusion reactions during administration.\n\n- Explore the correlation between cytogenetic profiles and treatment outcomes.\n\n- Document treatment-related adverse events to ascertain the safety profile of infliximab in this population.\n\nOUTLINE: This multicenter, randomized, double-blind, placebo-controlled trial allocated patients to either infliximab or placebo arms. Patients were to be evaluated at baseline and subsequently at 4-week intervals for safety, progression, and efficacy metrics.\n\n- Arm I: Patients received infliximab IV at a dosage of 5 mg/kg at weeks 0, 2, 6, and subsequently every 8 weeks unless toxicity occurred.\n\n- Arm II: Patients received placebo IV at equivalent time points.\n\nPrimary outcomes included rates of complete and partial hematological responses. Secondary outcomes evaluated the incidence of adverse events and quality of life assessments."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2020",
+    "completion_date": "December 2022",
+    "primary_completion_date": "July 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of overall response as defined by Cheson response criteria",
+      "time_frame": "Up to 12 months"
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of infusion reactions and other adverse events, graded by CTCAE v5.0",
+      "time_frame": "Up to 12 months"
+    },
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": ["Myelodysplastic Syndromes", "Hemato-oncological Disorders"],
+    "arm_group": [
+      {
+        "arm_group_label": "Infliximab",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive infliximab IV at a dose of 5 mg/kg on a specified schedule with assessments of response and safety."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive placebo IV on the same schedule as the infliximab group with parallel assessments of response and safety."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "infliximab"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "DISEASE CHARACTERISTICS:\n\n- Diagnosis of myelodysplastic syndrome (MDS) with low or intermediate risk, confirmed by bone marrow biopsy.\n\n- Patients must have resistant disease as evidenced by failure to achieve hematological improvement after at least two standard treatments.\n\nPATIENT CHARACTERISTICS:\n\n- Age: 18 years and older\n\n- Performance status: ECOG 0-2\n\n- Not pregnant or nursing\n\n- Required laboratory values within normal limits\n\nPRIOR CONCURRENT THERAPY:\n\n- No prior treatment with anti-TNF agents.\n\n- No concurrent hematopoietic growth factors or other immunomodulatory therapies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Elizabeth Brown",
+      "role": "Study Chair",
+      "affiliation": "Global Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Memorial Hospital",
+          "address": {
+            "city": "Cityville",
+            "state": "ST",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Community Cancer Center",
+          "address": {
+            "city": "Townsville",
+            "state": "ST",
+            "zip": "67890",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Brown E, Smith J, Jenkins M. Efficacy of infliximab in myelodysplastic syndromes: results from a randomized phase II trial. J Hematology. 2023;78(4):234-240. doi: 10.1016/j.jhem.2023.01.006.",
+      "PMID": "12345678"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "April 5, 2019",
+    "study_first_posted": "June 10, 2019",
+    "last_update_posted": "January 25, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["myelodysplastic syndromes", "TNF-alpha", "infliximab", "hematological response", "safety and efficacy"],
+    "condition_browse": {
+      "mesh_term": ["Myelodysplastic Syndromes", "Tumor Necrosis Factor-alpha, Antagonists"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Infliximab"]
+    }
+  }
+}
+```

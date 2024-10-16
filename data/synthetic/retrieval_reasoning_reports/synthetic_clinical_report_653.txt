@@ -1,0 +1,150 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02969789"
+    },
+    "id_info": {
+      "org_study_id": "RA-HT-03",
+      "nct_id": "NCT02969789"
+    },
+    "brief_title": "Assessment of Raltegravir with Standard ART in HIV-Positive Patients with Inadequate CD4 Recovery",
+    "official_title": "A Phase III, Multicenter, Randomized Study to Evaluate the Efficacy and Safety of Raltegravir Added to Standard Antiretroviral Therapy in HIV-Positive Individuals with Suboptimal CD4 Cell Recovery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Alliance",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "PharmaX Corporation",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Alliance",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This is a Phase III, multicenter, randomized, open-label study aimed at evaluating the efficacy of adding Raltegravir to a stable antiretroviral therapy (ART) regimen in HIV-positive patients exhibiting inadequate CD4 cell recovery despite viral suppression. The study enrolled 150 participants identified as having a CD4 count increase of less than 50 cells/mm³ over the previous 12 months."
+    },
+    "detailed_description": {
+      "textblock": "The study aimed to explore whether Raltegravir could effectively enhance CD4 cell recovery and improve overall immunologic status in HIV-positive individuals who are stable on their current ART regimen but show inadequate CD4 response. Participants were randomly assigned to either continue their standard ART regimen or add Raltegravir 400 mg bi-daily for a total of 48 weeks. The hypothesis was predicated on the belief that Raltegravir could potentiate immune recovery, thereby improving clinical outcomes at the immunological level. The trial was conducted across multiple sites within the United States and involved rigorous participant follow-ups and monitoring of immunologic markers."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Recruitment challenges and lack of significant immunologic response",
+    "start_date": "January 2017",
+    "completion_date": "March 2020",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in CD4 cell count from baseline to week 48",
+      "time_frame": "Week 48"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Proportion of subjects achieving CD4 count increase of > 100 cells/mm³",
+        "time_frame": "Week 48"
+      },
+      {
+        "measure": "Safety Profile: Frequency of adverse events",
+        "time_frame": "Week 0-48"
+      },
+      {
+        "measure": "Proportion of patients maintaining viral suppression (<50 copies/mL)",
+        "time_frame": "Week 48"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "Human Immunodeficiency Virus",
+    "arm_group": [
+      {
+        "arm_group_label": "Raltegravir Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received Raltegravir in addition to their standard ART regimen."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants continued with the current standard ART regimen without Raltegravir."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Raltegravir",
+        "description": "Raltegravir 400 mg orally twice daily in addition to standard ART.",
+        "arm_group_label": "Raltegravir Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adult participants aged 18-65 years.\n  - Documented HIV-1 infection with <50 copies/mL of viral load for at least 6 months.\n  - CD4 count between 100-300 cells/mm³ at screening with <50 cells/mm³ increase in the last 12 months.\n  - Willingness to provide informed consent.\n\nExclusion Criteria:\n\n  - History of prior treatment with integrase inhibitors.\n  - Active opportunistic infections or AIDS-defining illnesses.\n  - Major comorbidities that may interfere with study participation.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Alliance"
+    },
+    "location": {
+      "facility": {
+        "name": "Metro Health Research Center",
+        "address": {
+          "city": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "December 1, 2016",
+    "study_first_posted": "January 5, 2017",
+    "last_update_submitted": "April 15, 2020",
+    "last_update_posted": "April 20, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "Global Health Alliance",
+      "investigator_full_name": "John Smith",
+      "investigator_title": "MD"
+    },
+    "keyword": [
+      "HIV",
+      "Raltegravir",
+      "CD4 Count Recovery",
+      "Antiretroviral Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Acquired Immunodeficiency Syndrome",
+        "HIV Infections"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Raltegravir Potassium"
+      ]
+    }
+  }
+}
+```

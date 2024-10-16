@@ -1,0 +1,169 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03012345"
+    },
+    "id_info": {
+      "org_study_id": "CRAD001A9876",
+      "nct_id": "NCT03012345"
+    },
+    "brief_title": "A Phase 3 Study Evaluating Everolimus in Combining with Low-Dose Cyclosporine for Prevention of Acute Rejection in de Novo Kidney Transplant Recipients",
+    "official_title": "A Multicenter, Randomized, Open-Label Trial to Evaluate the Efficacy and Safety of Everolimus in Combination with Reduced-Dose Cyclosporine in Preventing Acute Rejection in Patients with de Novo Kidney Transplantation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Innovations",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Innovations",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of everolimus combined with low-dose cyclosporine as a strategy to prevent both acute and chronic rejection in de novo kidney transplant recipients through rigorous monitoring and tailored dosing."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2019",
+    "completion_date": "September 2022",
+    "primary_completion_date": "September 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Composite Efficacy Failure Rate at 12 Months",
+      "time_frame": "12 Months",
+      "description": "Composite efficacy failure defined as the occurrence of biopsy-proven acute rejection of ISHLT grade ≥ 3A, death, graft loss, or loss to follow-up in the first year post-transplant."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Graft Loss and Death at 24 Months",
+        "time_frame": "24 Months",
+        "description": "Comparison of graft loss and mortality rates in both treatment arms over a 24-month period."
+      },
+      {
+        "measure": "Renal Function via GFR at 12 and 24 Months",
+        "time_frame": "12 and 24 Months",
+        "description": "Glomerular filtration rate was evaluated using the MDRD formula, measuring renal function and determining the impact of everolimus on long-term renal outcomes."
+      },
+      {
+        "measure": "Composite Safety Event Rate",
+        "time_frame": "12 Months",
+        "description": "Assessing the incidence of any adverse events categorized under major complications, specifically focusing on wound healing issues and kidney function deterioration."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "450",
+    "condition": "Kidney Transplantation",
+    "arm_group": [
+      {
+        "arm_group_label": "Everolimus and Reduced-Dose Cyclosporine",
+        "arm_group_type": "Experimental",
+        "description": "Patients received everolimus starting at 0.5 mg/kg/day in two divided doses in combination with a reduced dose of cyclosporine (target trough levels of 50-100 ng/mL) and corticosteroids."
+      },
+      {
+        "arm_group_label": "Standard Immunosuppressive Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received standard doses of cyclosporine (target trough levels of 150-250 ng/mL) in combination with mycophenolate mofetil and corticosteroids."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Everolimus",
+        "description": "Initiated within 48 hours post-transplant at a flexible dosing regimen based on serum concentration targets.",
+        "arm_group_label": "Everolimus and Reduced-Dose Cyclosporine",
+        "other_name": "Afinitor, RAD001"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclosporine",
+        "description": "A personalized dosing approach to minimize toxicity while retaining immunosuppressive efficacy.",
+        "arm_group_label": ["Everolimus and Reduced-Dose Cyclosporine", "Standard Immunosuppressive Therapy"],
+        "other_name": "Neoral"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Mycophenolate Mofetil",
+        "description": "Administered at a standard dosage of 1g twice daily in the active comparator group.",
+        "arm_group_label": "Standard Immunosuppressive Therapy",
+        "other_name": "Cellcept"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adult patients aged 18 to 70 years undergoing de novo kidney transplantation.\n- Glomerular filtration rate (GFR) assessed at baseline should be ≥ 60 mL/min/1.73 m².\n\nExclusion Criteria:\n- Recipients of multiple solid organ transplants.\n- Known hypersensitivity to everolimus or cyclosporine.\n- Active infection or malignancy at the time of enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "70 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Robert Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Innovations"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Toronto General Hospital",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "country": "Canada"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada"]
+    },
+    "verification_date": "October 2023",
+    "study_first_submitted": "February 15, 2019",
+    "study_first_posted": "February 20, 2019",
+    "results_first_submitted": "June 15, 2022",
+    "results_first_posted": "July 01, 2022",
+    "last_update_posted": "October 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["everolimus", "kidney transplantation", "acute rejection", "immunosuppression", "transplant outcomes"]
+  }
+}
+```

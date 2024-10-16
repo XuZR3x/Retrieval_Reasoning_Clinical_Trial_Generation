@@ -1,0 +1,171 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT000XXXXXX"
+    },
+    "id_info": {
+      "org_study_id": "TRB-2023-OBON",
+      "secondary_id": ["TRB-ONC-12345", "TRB-2023-00254"],
+      "nct_id": "NCT000XXXXXX"
+    },
+    "brief_title": "Trabectedin in the Treatment of Advanced Renal Cell Carcinoma after Failure of First-Line Therapy",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Trabectedin in Patients with Advanced Renal Cell Carcinoma Post First-Line Treatment Failure",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Group",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Oncology Research Group",
+    "brief_summary": {
+      "textblock": "RATIONALE: Trabectedin is hypothesized to exert antitumor effects by interfering with transcription and causing DNA damage in neoplastic cells. This study aims to evaluate its efficacy in advanced renal cell carcinoma (RCC) patients before exploring its potential as a second-line therapy."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES: I. To assess the pharmacokinetic profile of trabectedin in patients with advanced RCC previously treated with one line of therapy. II. To evaluate the objective response rate (ORR) of patients receiving trabectedin. III. To characterize the safety profile through the incidence of adverse events. \n\nOUTLINE: Patients receive trabectedin intravenously over 3 hours on day 1 of a 21-day cycle. The study has been designed to enroll 100 patients with advanced RCC. Treatment will continue until disease progression or unacceptable toxicity. Follow-up occurs every 3 months for 2 years or until progression is established.\n\nPROJECTED ACCRUAL: A target of 100 patients with estimated enrollment within 24 months."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated prematurely due to insufficient participant enrollment, resulting in a total of 15 patients admitted, which was not enough to conduct meaningful outcomes.",
+    "start_date": "March 1, 2023",
+    "completion_date": "July 1, 2024",
+    "primary_completion_date": "March 1, 2024",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 24 months",
+      "description": "ORR is defined as the percentage of participants who achieve a complete response (CR) or partial response (PR) according to RECIST criteria."
+    },
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Up to 24 months",
+      "description": "PFS is defined as the duration from treatment initiation to disease progression or death."
+    }, {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Up to 24 months",
+      "description": "OS is defined as the time between the date of enrollment and the date of death from any cause."
+    }, {
+      "measure": "Incidence of Serious Adverse Events (SAEs)",
+      "time_frame": "Up to 24 months",
+      "description": "SAEs will be recorded throughout the study period and will be evaluated per NCI CTCAE guidelines."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": ["Renal Cell Carcinoma"],
+    "arm_group": [{
+      "arm_group_label": "Trabectedin Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive trabectedin 1.5 mg/m^2 IV infusion over 3 hours on day 1 of each 21-day treatment cycle."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "trabectedin",
+      "description": "1.5 mg/m^2 IV infusion over 3 hours on Day 1 of each 21-day cycle."
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Histologically confirmed advanced renal cell carcinoma. \n- Patients must have progressed after one line of systemic therapy, which may include immunotherapy or targeted agents. \n- Measurable disease according to RECIST criteria. \n\nExclusion Criteria: \n- Previous treatment with trabectedin or other investigational agents within the last 30 days. \n- Evidence of symptomatic brain metastases. \n- Patients with significant concurrent medical illnesses that might limit compliance or interfere with the trial outcomes."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Group"
+    },
+    "location": [{
+      "facility": {
+        "name": "Cancer Treatment Center",
+        "address": {
+          "city": "Anytown",
+          "state": "Anystate",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "July 2024",
+    "study_first_submitted": "February 15, 2023",
+    "study_first_posted": "March 1, 2023",
+    "last_update_posted": "July 2, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Trabectedin", "Renal Cell Carcinoma", "Chemotherapy", "Phase II Trial", "Oncology"],
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Renal Cell", "Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trabectedin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 15 patients were enrolled; however, the enrollment was insufficient based on the planned target of 100 patients. The study was terminated prior to randomization.",
+        "group_list": {
+          "group": [{
+            "title": "Trabectedin Treatment Group",
+            "description": "Patients received trabectedin 1.5 mg/m^2 IV infusion over 3 hours on Day 1 of each 21-day treatment cycle."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [15]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [0]
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [15]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Overall Response Rate (ORR)",
+          "description": "No responses were recorded as only 15 participants were enrolled, precluding any meaningful statistical analysis.",
+          "time_frame": "Up to 24 months",
+          "population": "All enrolled participants."
+        }, {
+          "type": "Secondary",
+          "title": "Incidence of Serious Adverse Events (SAEs)",
+          "description": "No severe toxicities recorded due to the premature termination of the study.",
+          "time_frame": "Up to 24 months",
+          "population": "Safety assessment of all enrolled participants."
+        }]
+      }
+    }
+  }
+}
+```

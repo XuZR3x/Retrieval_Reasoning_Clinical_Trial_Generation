@@ -1,0 +1,141 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "APIDR_L_05123",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Insulin Glulisine Compared to Premixed Insulin in Type 2 Diabetes in a Real-World Setting",
+    "official_title": "A Multi-Center, Randomized, Open-Label Study to Evaluate the Efficacy and Safety of Insulin Glulisine Compared to Twice Daily Premixed Insulin Therapy in Adults with Type 2 Diabetes Mellitus: A Real-World Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Sanofi",
+    "brief_summary": {
+      "textblock": "This study aimed to demonstrate the non-inferiority of a treatment regimen involving a single daily injection of insulin glulisine combined with insulin glargine compared to twice-daily administration of premixed insulin among participants with poorly controlled type 2 diabetes. Key measurements included changes in HbA1c levels, treatment satisfaction, and adverse event profiling over a 24-week duration."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient sample size and enrollment challenges leading to lack of statistical power.",
+    "start_date": "April 2011",
+    "completion_date": "November 2013",
+    "primary_completion_date": "November 2013",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change in Glycosylated Hemoglobin (HbA1c)",
+        "time_frame": "At baseline, week 12, and week 24",
+        "description": "This outcome measures the percentage change in HbA1c, a primary indicator of long-term glycemic control in diabetic patients."
+      },
+      {
+        "measure": "Proportion of Patients Achieving HbA1c <7%",
+        "time_frame": "At week 24",
+        "description": "Evaluated as a secondary measure to characterize the effectiveness of insulin glulisine compared to premixed insulin."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Diabetes Treatment Satisfaction Scores (DTSQs)",
+        "time_frame": "At week 0, week 12, and week 24",
+        "description": "Assessment of patient satisfaction with their diabetes treatment regimen."
+      },
+      {
+        "measure": "Incidence of Hypoglycemic Events",
+        "time_frame": "Throughout the 24-week trial",
+        "description": "Monitoring of symptomatic and severe hypoglycemia episodes as reported by participants."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "40",
+    "condition": "Diabetes Mellitus, Type 2",
+    "arm_group": [
+      {
+        "arm_group_label": "Insulin Glargine + Insulin Glulisine",
+        "arm_group_type": "Experimental",
+        "description": "Participants in this group receive one injection of insulin glulisine with insulin glargine once daily."
+      },
+      {
+        "arm_group_label": "Twice Daily Premixed Insulin",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants in this group receive premixed insulin (Insulin Aspart 30/70) administered twice daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin glulisine",
+        "description": "Administered as a subcutaneous injection in combination with insulin glargine.",
+        "arm_group_label": "Insulin Glargine + Insulin Glulisine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin glargine",
+        "description": "Administered once daily as a subcutaneous injection.",
+        "arm_group_label": "Insulin Glargine + Insulin Glulisine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Premixed Insulin (Insulin Aspart 30/70)",
+        "description": "Administered as a subcutaneous injection twice daily before meals.",
+        "arm_group_label": "Twice Daily Premixed Insulin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adults aged 18-75 years with a diagnosis of type 2 diabetes mellitus for at least 2 years.\n  -  Current treatment with insulin glargine and oral antidiabetic drugs.\n  -  HbA1c > 7% but < 9% at screening.\n\nExclusion Criteria:\n\n  -  Use of other insulin formulations or investigational agents within 3 months.\n  -  Pre-existing hypersensitivity to any of the study medications.\n  -  Any serious medical conditions or complications affecting participation."
+      },
+      "gender": "All", 
+      "minimum_age": "18 Years", 
+      "maximum_age": "75 Years", 
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Research Team",
+      "role": "Study Director",
+      "affiliation": "Sanofi"
+    },
+    "location": {
+      "facility": {
+        "name": "Sanofi-Aventis Study Center",
+        "address": {
+          "city": "Amsterdam",
+          "country": "Netherlands"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Netherlands"
+    },
+    "verification_date": "March 2014",
+    "study_first_submitted": "February 1, 2011",
+    "study_first_submitted_qc": "February 5, 2011",
+    "study_first_posted": "February 7, 2011",
+    "last_update_submitted": "March 15, 2014",
+    "last_update_posted": "March 16, 2014",
+    "responsible_party": {
+      "name_title": "Clinical Research Team",
+      "organization": "Sanofi"
+    },
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Insulin", "Insulin Glulisine", "Insulin Glargine", "Insulin Aspart"]
+    }
+  }
+}
+```

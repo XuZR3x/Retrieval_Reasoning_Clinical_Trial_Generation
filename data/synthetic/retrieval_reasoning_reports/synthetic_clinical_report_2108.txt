@@ -1,0 +1,231 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02090462"
+    },
+    "id_info": {
+      "org_study_id": "NCT02090462",
+      "nct_id": "NCT02090462"
+    },
+    "brief_title": "Evaluation of Vandetanib for the Treatment of Advanced Squamous Cell Carcinoma",
+    "official_title": "A Phase II, Multicenter, Randomized, Open-Label Study to Evaluate the Efficacy and Safety of Vandetanib in Combination with Standard Chemotherapy versus Standard Chemotherapy Alone in Patients with Advanced Squamous Cell Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Drug Development, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Drug Development, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The primary aim of this clinical trial is to determine the efficacy of vandetanib in improving progression-free survival in patients diagnosed with advanced squamous cell carcinoma when given in conjunction with standard chemotherapy."
+    },
+    "overall_status": "Terminated",
+    "start_date": "July 2014",
+    "completion_date": "March 2018",
+    "primary_completion_date": "December 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Assessed at 6 months post-randomization using RECIST criteria.",
+      "description": "The primary endpoint of the study is the duration of time from the start of treatment until the first documented disease progression or death, whichever occurs first."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Assessed at 12 months post-randomization.",
+        "description": "Overall survival will be calculated as the time from randomization until death from any cause."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "Evaluated at each imaging assessment (every 8 weeks).",
+        "description": "The objective response rate will be defined as the proportion of patients with a complete or partial response as determined by RECIST criteria."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Monitored throughout the trial duration.",
+        "description": "Adverse events will be recorded and categorized according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": ["Squamous Cell Carcinoma", "Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Vandetanib (300 mg orally once daily) in conjunction with standard chemotherapy (carboplatin and paclitaxel)."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard chemotherapy regimen (carboplatin and paclitaxel) alone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vandetanib",
+        "description": "Daily oral dosage of 300 mg."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Intravenous administration as per standard dosing regimens co-administered with paclitaxel."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Intravenous administration as per standard dosing regimens."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Diagnosis of advanced squamous cell carcinoma which has recurred or is resistant to at least one prior treatment regimen.\n\n- Age > 18 years and performance status (ECOG) of 0 to 2.\n\n- Adequate organ function as defined by standard laboratory assessments.\n\nExclusion Criteria:\n\n- History of significant cardiovascular events (including arrhythmias and QT prolongation).\n\n- Current pregnancy or lactation.\n\n- Participation in another clinical trial within the last 30 days."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Sarah Thompson",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Drug Development, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Research Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "April 2018",
+    "study_first_submitted": "February 22, 2014",
+    "study_first_submitted_qc": "March 1, 2014",
+    "study_first_posted": "March 3, 2014",
+    "results_first_submitted": "January 15, 2019",
+    "results_first_submitted_qc": "January 15, 2019",
+    "results_first_posted": "January 30, 2019",
+    "last_update_submitted": "March 15, 2018",
+    "last_update_submitted_qc": "March 15, 2018",
+    "last_update_posted": "March 20, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_full_name": "Dr. Sarah Thompson",
+      "investigator_affiliation": "Oncology Drug Development, Inc."
+    },
+    "keyword": ["Vandetanib", "Squamous Cell Carcinoma", "Clinical Trial", "Oncology"],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrolled patients from various oncology centers. However, recruitment was slow, leading to challenges in accruing the target number of participants.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Vandetanib + Chemotherapy",
+              "description": "Total participants randomized into this group."
+            },
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Total participants randomized into this group."
+            }
+          ]
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Adverse Event",
+              "participants_list": {
+                "participants": [null, null]
+              }
+            },
+            {
+              "title": "Condition Worsened",
+              "participants_list": {
+                "participants": [null, null]
+              }
+            },
+            {
+              "title": "Patient Withdrawal",
+              "participants_list": {
+                "participants": [null, null]
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Vandetanib + Chemotherapy",
+              "description": "Patients in this group noted several serious adverse events including cardiovascular complications and gastrointestinal disorders."
+            },
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Participants in this group experienced predictable chemotherapy-related toxicity."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE 5.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total serious adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Overall serious adverse events recorded during the trial.",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea and vomiting leading to withdrawal.",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Cardiovascular disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Notable rise in hypertension and QTc prolongation",
+                    "counts": [null, null]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "limitations_and_caveats": "Termination due to inadequate patient recruitment emphasized challenges in harnessing sufficient participants for assessing the drug's efficacy. Moreover, a high incidence of adverse events contributed to a significant concern regarding the tolerability profile of vandetanib combined with established chemotherapy, highlighting the drug's narrow therapeutic margin."
+    }
+  }
+}
+```

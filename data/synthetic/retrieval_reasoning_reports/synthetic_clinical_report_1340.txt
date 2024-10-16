@@ -1,0 +1,139 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03526584"
+    },
+    "id_info": {
+      "org_study_id": "CARF-Z1",
+      "nct_id": "NCT03526584"
+    },
+    "brief_title": "Efficacy and Safety of Carfilzomib in Combination with Lenalidomide and Dexamethasone in Patients with Relapsed/Refractory Multiple Myeloma",
+    "official_title": "A Phase II, Multicenter, Open-Label Study Evaluating the Efficacy and Safety of Carfilzomib Combined with Lenalidomide and Dexamethasone in Patients with Relapsed or Refractory Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Amgen",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Amgen",
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "May 2021",
+    "primary_completion_date": "March 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "enrollment": "120",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Carfilzomib + Lenalidomide + Dexamethasone",
+        "arm_group_type": "Experimental",
+        "description": "Participants received Carfilzomib 56 mg/m² administered by intravenous infusion on Days 1, 2, 8, 9, 15, and 16 of a 28-day cycle, combined with Lenalidomide at 25 mg daily on Days 1-21 and Dexamethasone 40 mg on Days 1, 8, 15, and 22."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carfilzomib",
+        "description": "Administered as IV infusion at a dosage of 56 mg/m² on specified days."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lenalidomide",
+        "description": "Oral administration of 25 mg daily for 21 days."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexamethasone",
+        "description": "Administered orally at a dosage of 40 mg on specified days."
+      }
+    ],
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Response assessments were conducted after every two cycles for a total duration of 24 weeks.",
+        "population": "All participants who received at least one dose of carfilzomib.",
+        "description": "The ORR was determined based on the International Myeloma Working Group criteria and included rates of complete response, very good partial response, and partial response."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the date of initial dosing until the date of disease progression or death, assessed every 2 cycles.",
+        "description": "Estimated using the Kaplan-Meier method, this endpoint focused on the duration until disease progression."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Throughout the study and up to 30 days post-treatment.",
+        "description": "Adverse events were reported and graded per the NCI Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      }
+    ],
+    "detailed_description": {
+      "textblock": "This Phase II study aimed to evaluate the safety and efficacy of Carfilzomib in combination with Lenalidomide and Dexamethasone in subjects diagnosed with relapsed or refractory multiple myeloma. Key objectives included assessing the ORR and PFS as primary outcomes while carefully monitoring the safety and tolerability of the treatment regimen."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: 1. Diagnosis of multiple myeloma that is relapsed or refractory. 2. Minimum age of 18 years. 3. Life expectancy exceeding 3 months. 4. Prior treatment with at least two lines of therapy. 5. Adequate organ function (creatinine clearance >30 mL/min). Exclusion Criteria: 1. Active CNS involvement or uncontrolled hypertension. 2. New or worsening cardiac issues, including heart failure. 3. pregnant or nursing females. 4. Previous hypersensitivity to any of the study drugs."
+      }
+    },
+    "overall_official": [
+      {
+        "last_name": "John Smith",
+        "role": "Principal Investigator",
+        "affiliation": "Amgen"
+      },
+      {
+        "last_name": "Alice Johnson",
+        "role": "Co-Investigator",
+        "affiliation": "Memorial Sloan Kettering Cancer Center"
+      }
+    ],
+    "location": [{
+      "facility": {
+        "name": "Amgen Clinical Research Center",
+        "address": {
+          "city": "Thousand Oaks",
+          "state": "California",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_posted": "February 1, 2018",
+    "last_update_submitted": "April 1, 2022",
+    "last_update_posted": "April 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": "relapsed/refractory multiple myeloma, carfilzomib, lenalidomide, dexamethasone",
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Carfilzomib", "Lenalidomide", "Dexamethasone"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study enrolled a total of 120 patients from multiple sites across the United States from March 2018 to March 2021."
+      },
+      "reported_events": {
+        "time_frame": "Throughout the study duration and during the follow-up period.",
+        "desc": "The reported adverse events were monitored and classified according to the NCI-CTCAE, with a focus on grade 3 and 4 toxicities."
+      }
+    }
+  }
+}
+```

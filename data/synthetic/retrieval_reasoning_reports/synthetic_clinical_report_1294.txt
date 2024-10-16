@@ -1,0 +1,161 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03245678"
+    },
+    "id_info": {
+      "org_study_id": "DAPA-HTF-101",
+      "nct_id": "NCT03245678"
+    },
+    "brief_title": "Evaluation of Dapagliflozin in Patients with Heart Failure and Diabetes",
+    "official_title": "A Randomized Double-Blind, Placebo-Controlled Trial of Dapagliflozin for Patients with Type 2 Diabetes and Heart Failure with Reduced Ejection Fraction",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Health Service",
+        "agency_class": "Other"
+      },
+      "collaborator": [
+        {
+          "agency": "Pharmaceutical Company X",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "National Health Service",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to determine the efficacy and safety of dapagliflozin on clinical outcomes in patients with type 2 diabetes and heart failure with reduced ejection fraction. Participants will be randomized to receive either dapagliflozin or placebo while continuing their standard heart failure and diabetes management."
+    },
+    "detailed_description": {
+      "textblock": "Heart failure is a prevalent complication among patients with type 2 diabetes (T2DM), often leading to morbidity and mortality. This study aims to evaluate whether dapagliflozin can improve clinical outcomes in such a population. Participants will be followed for 12 months after randomization, and various cardiovascular and metabolic parameters will be assessed, including left ventricular ejection fraction (LVEF), hospitalization rates, quality of life metrics, and adverse events. Due to stringent inclusion criteria imposing specific eligibility related to ejection fraction and baseline diabetes management protocols, challenges in enrollment were anticipated."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Failure to meet enrollment targets due to stringent eligibility criteria and participant burden.",
+    "start_date": "January 2018",
+    "completion_date": "December 2020",
+    "primary_completion_date": "June 2020",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change in left ventricular ejection fraction",
+      "time_frame": "12 months",
+      "description": "Differences in left ventricular ejection fraction between dapagliflozin and placebo groups at 12 months."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Number of heart failure-related hospitalizations",
+        "time_frame": "12 months",
+        "description": "Total count of hospitalizations for heart failure-related issues in both groups."
+      },
+      {
+        "measure": "Quality of life score (EQ-5D)",
+        "time_frame": "12 months",
+        "description": "Assessment of quality of life utilizing the EQ-5D scale conducted at baseline and final visit."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "12 months",
+        "description": "The total number of reported adverse events categorized by severity and relationship to trial drug."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": [
+      "Heart Failure",
+      "Diabetes Mellitus"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Active Comparator: Dapagliflozin",
+        "arm_group_type": "Active Comparator",
+        "description": "Dapagliflozin 10 mg administered orally once daily for 12 months."
+      },
+      {
+        "arm_group_label": "Placebo Comparator: Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo administered orally once daily for 12 months."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dapagliflozin",
+        "description": "Sodium-glucose cotransporter-2 (SGLT-2) inhibitor administered at a dose of 10 mg daily.",
+        "arm_group_label": "Active Comparator: Dapagliflozin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo capsules to be administered daily.",
+        "arm_group_label": "Placebo Comparator: Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\n- Signed informed consent.\r\n- Diagnosed with T2DM, on stable antidiabetic medication for at least 3 months.\r\n- Classified as NYHA functional class II-III heart failure with reduced ejection fraction (≤35%).\r\n- Age ≥ 18 years and ≤ 75 years.\r\n- Residual urinary output above 500 ml/day.\r\n\nExclusion Criteria:\r\n\n- Acute coronary syndrome within 90 days prior.\r\n- Uncontrolled hypertension (systolic BP ≥ 180 mmHg).\r\n- Severe renal impairment (eGFR < 30 mL/min).\r\n- Active malignancy or history of malignancy within 5 years.\r\n- Previous treatment with SGLT-2 inhibitors or participation in any investigational drug trial within 30 days prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Health Service"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cardiac Centre",
+        "address": {
+          "city": "London",
+          "country": "United Kingdom"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United Kingdom"
+    },
+    "verification_date": "September 2021",
+    "study_first_submitted": "August 5, 2017",
+    "study_first_submitted_qc": "August 10, 2017",
+    "study_first_posted": "August 15, 2017",
+    "last_update_submitted": "September 15, 2021",
+    "last_update_submitted_qc": "September 15, 2021",
+    "last_update_posted": "September 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Health Service",
+      "investigator_full_name": "John Doe",
+      "investigator_title": "Consultant Cardiologist"
+    },
+    "keyword": [
+      "Dapagliflozin",
+      "Heart Failure",
+      "Type 2 Diabetes",
+      "Ejection Fraction"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Heart Failure",
+        "Diabetes Mellitus"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Dapagliflozin"
+    }
+  }
+}
+```

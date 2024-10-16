@@ -1,0 +1,414 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on September 20, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03012345"
+        },
+        "id_info": {
+            "org_study_id": "CA209-177",
+            "secondary_id": "2015-004921-42",
+            "nct_id": "NCT03012345"
+        },
+        "brief_title": "Phase 3 Trial of Nivolumab Versus Standard Therapy in Patients with Advanced Urothelial Carcinoma",
+        "acronym": "CheckMate 177",
+        "official_title": "A Randomized Phase 3 Study to Evaluate Nivolumab (BMS-936558) Compared to Investigator's Choice of Chemotherapy in Patients with Advanced Urothelial Carcinoma",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Bristol-Myers Squibb",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "National Cancer Institute",
+                "agency_class": "Government"
+            }
+        },
+        "source": "Bristol-Myers Squibb",
+        "oversight_info": {
+            "has_dmc": "Yes",
+            "is_fda_regulated_drug": "Yes",
+            "is_fda_regulated_device": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study investigates the efficacy and safety of nivolumab as an immunotherapy agent targeting PD-1, compared to conventional chemotherapy in patients suffering from advanced urothelial carcinoma. The trial aims to validate nivolumab's superior survival benefits and objective response rates in this population, which is known for poor prognostic outcomes."
+        },
+        "overall_status": "Completed",
+        "start_date": "February 15, 2017",
+        "completion_date": "October 30, 2023",
+        "primary_completion_date": "April 12, 2022",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Overall Survival (OS)",
+            "time_frame": "From date of randomization until death (Up to approximately 48 months)",
+            "description": "Overall survival is defined as the time from randomization to death from any cause. This will be estimated using Kaplan-Meier methods and assessed for statistical significance."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "From randomization until disease progression or death (Up to approximately 48 months)",
+                "description": "PFS is measured from randomization to the date of disease progression or death, whichever occurs first, based on imaging results using RECIST 1.1 criteria."
+            },
+            {
+                "measure": "Objective Response Rate (ORR)",
+                "time_frame": "From randomization to the date of disease progression or study discontinuation, whichever occurs first (assessed every 8 weeks for the first year)",
+                "description": "ORR is defined as the percentage of patients achieving a complete or partial response as assessed by the investigator according to RECIST 1.1 criteria."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "452",
+        "condition": "Advanced Urothelial Carcinoma",
+        "arm_group": [
+            {
+                "arm_group_label": "Arm A: Nivolumab",
+                "arm_group_type": "Experimental",
+                "description": "Participants receive nivolumab at a dosage of 3mg/kg administered intravenously every two weeks until tumor progression or unacceptable toxicity."
+            },
+            {
+                "arm_group_label": "Arm B: Investigator's Choice",
+                "arm_group_type": "Active Comparator",
+                "description": "Participants receive a chemotherapy regimen chosen by the investigator, including options such as cisplatin or carboplatin with gemcitabine or paclitaxel until tumor progression or unacceptable toxicity."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Nivolumab",
+                "arm_group_label": "Arm A: Nivolumab",
+                "other_name": "Opdivo"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Cisplatin",
+                "arm_group_label": "Arm B: Investigator's Choice"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Carboplatin",
+                "arm_group_label": "Arm B: Investigator's Choice"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Paclitaxel",
+                "arm_group_label": "Arm B: Investigator's Choice"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Gemcitabine",
+                "arm_group_label": "Arm B: Investigator's Choice"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n- Adults aged 18 and older with histologically confirmed advanced or metastatic urothelial carcinoma not amenable to curative surgery or radiation.\r\n- Patients must have received prior platinum-based chemotherapy and must not have any significant comorbidities that would contraindicate further therapy.\r\n\r\nExclusion Criteria:\r\n- Prior treatment with PD-1 or PD-L1 inhibitors was prohibited.\r\n- Participants with active autoimmune diseases or major organ dysfunction will be excluded."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Bristol-Myers Squibb",
+            "role": "Study Director",
+            "affiliation": "Bristol-Myers Squibb"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Cleveland Clinic",
+                    "address": {
+                        "city": "Cleveland",
+                        "state": "Ohio",
+                        "zip": "44195",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "MD Anderson Cancer Center",
+                    "address": {
+                        "city": "Houston",
+                        "state": "Texas",
+                        "zip": "77030",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Massachusetts General Hospital",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02114",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": ["United States"]
+        },
+        "link": [
+            {
+                "url": "https://www.bms.com/researchers-and-partners/clinical-trials-and-research.html",
+                "description": "BMS Clinical Trial Information"
+            }
+        ],
+        "verification_date": "July 2024",
+        "study_first_submitted": "March 1, 2016",
+        "study_first_submitted_qc": "March 2, 2016",
+        "study_first_posted": "March 5, 2016",
+        "results_first_submitted": "June 30, 2023",
+        "results_first_submitted_qc": "August 15, 2023",
+        "results_first_posted": "September 10, 2023",
+        "disposition_first_submitted": "July 10, 2023",
+        "disposition_first_submitted_qc": "July 10, 2023",
+        "disposition_first_posted": "August 1, 2023",
+        "last_update_submitted": "September 7, 2024",
+        "last_update_submitted_qc": "September 7, 2024",
+        "last_update_posted": "September 15, 2024",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": ["Urothelial Carcinoma", "Carcinoma, Urothelial"]
+        },
+        "intervention_browse": {
+            "mesh_term": ["Nivolumab", "Cisplatin", "Carboplatin", "Paclitaxel", "Gemcitabine"]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "pre_assignment_details": "452 patients were screened, of which 452 were randomized and 446 received the assigned treatment.",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Arm A: Nivolumab",
+                            "description": "Nivolumab was provided at a dosage of 3mg/kg administered intravenously every two weeks."
+                        },
+                        {
+                            "title": "Arm B: Investigator's Choice",
+                            "description": "Participants received chemotherapy options assigned by the investigator."
+                        }
+                    ]
+                },
+                "period_list": {
+                    "period": [
+                        {
+                            "title": "Overall Study",
+                            "milestone_list": {
+                                "milestone": [
+                                    {
+                                        "title": "STARTED",
+                                        "participants_list": {
+                                            "participants": [null, null]
+                                        }
+                                    },
+                                    {
+                                        "title": "COMPLETED",
+                                        "participants_list": {
+                                            "participants": [null, null]
+                                        }
+                                    },
+                                    {
+                                        "title": "NOT COMPLETED",
+                                        "participants_list": {
+                                            "participants": [null, null]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "baseline": {
+                "population": "All randomized participants",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Arm A: Nivolumab",
+                            "description": "Nivolumab was provided at a dosage of 3mg/kg administered intravenously every two weeks."
+                        },
+                        {
+                            "title": "Arm B: Investigator's Choice",
+                            "description": "Participants received chemotherapy options assigned per investigator's choice."
+                        },
+                        {
+                            "title": "Total",
+                            "description": "Total of all reporting groups."
+                        }
+                    ]
+                },
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": {
+                            "count": [null, null, null]
+                        }
+                    }
+                },
+                "measure_list": {
+                    "measure": [
+                        {
+                            "title": "Age",
+                            "units": "Years",
+                            "param": "Mean",
+                            "dispersion": "Standard Deviation",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [null, null, null]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "title": "Sex: Female, Male",
+                            "units": "Participants",
+                            "param": "Count of Participants",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "title": "Female",
+                                                "measurement_list": {
+                                                    "measurement": [null, null, null]
+                                                }
+                                            },
+                                            {
+                                                "title": "Male",
+                                                "measurement_list": {
+                                                    "measurement": [null, null, null]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Overall Survival (OS)",
+                        "description": "OS was defined as the time from randomization to the date of death from any cause.",
+                        "time_frame": "From date of randomization until death (Up to approximately 48 months)",
+                        "population": "All randomized participants",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Nivolumab",
+                                    "description": "Nivolumab was provided at a dosage of 3mg/kg administered intravenously every two weeks."
+                                },
+                                {
+                                    "title": "Investigator's Choice",
+                                    "description": "Participants received chemotherapy options assigned by the investigator."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Overall Survival (OS)",
+                            "description": "OS was defined as the time from randomization to the date of death, analyzed using Kaplan-Meier survival analysis.",
+                            "units": "Months",
+                            "param": "Median",
+                            "dispersion": "95% Confidence Interval",
+                            "analyzed_list": {
+                                "analyzed": {
+                                    "units": "Participants",
+                                    "scope": "Measure",
+                                    "count_list": {
+                                        "count": [null, null]
+                                    }
+                                }
+                            },
+                            "analysis_list": {
+                                "analysis": {
+                                    "group_id_list": {
+                                        "group_id": ["O1", "O2"]
+                                    },
+                                    "non_inferiority_type": "Superiority",
+                                    "param_type": "Hazard Ratio (HR)",
+                                    "param_value": "0.72",
+                                    "ci_percent": "95",
+                                    "ci_n_sides": "2-Sided",
+                                    "ci_lower_limit": "0.55",
+                                    "ci_upper_limit": "0.89",
+                                    "estimate_desc": "Hazard ratio (HR) indicating a significant improvement in OS for nivolumab compared to standard therapy."
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Progression-Free Survival (PFS)",
+                        "description": "PFS was defined as the time between randomization and the first date of documented progression or death.",
+                        "time_frame": "From date of randomization until progression or death (Up to approximately 48 months)",
+                        "population": "All randomized participants",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Nivolumab",
+                                    "description": "Dosage as per outpatient treatment regimen."
+                                },
+                                {
+                                    "title": "Investigator's Choice",
+                                    "description": "Participants receive standard chemotherapy regimens."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Progression-Free Survival (PFS)",
+                            "description": "PFS duration calculated from randomization using Kaplan-Meier methods.",
+                            "units": "Months",
+                            "param": "Median",
+                            "dispersion": "95% Confidence Interval",
+                            "analyzed_list": {
+                                "analyzed": {
+                                    "units": "Participants",
+                                    "scope": "Measure",
+                                    "count_list": {
+                                        "count": [null, null]
+                                    }
+                                }
+                            },
+                            "analysis_list": {
+                                "analysis": {
+                                    "group_id_list": {
+                                        "group_id": ["O1", "O2"]
+                                    },
+                                    "non_inferiority_type": "Superiority",
+                                    "param_type": "Hazard Ratio (HR)",
+                                    "param_value": "0.58",
+                                    "ci_percent": "95",
+                                    "ci_n_sides": "2-Sided",
+                                    "ci_lower_limit": "0.43",
+                                    "ci_upper_limit": "0.76"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
+```

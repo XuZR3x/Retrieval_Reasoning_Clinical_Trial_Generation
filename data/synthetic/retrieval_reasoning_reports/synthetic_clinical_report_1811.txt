@@ -1,0 +1,294 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00758650"
+    },
+    "id_info": {
+      "org_study_id": "OXA-2023",
+      "nct_id": "NCT00758650"
+    },
+    "brief_title": "Evaluation of Oxaliplatin with Modified FOLFOX in Advanced Gastric Cancer",
+    "official_title": "A Phase II Study Assessing the Efficacy and Safety of Oxaliplatin Combined with Modified FOLFOX in Patients with Advanced Gastric Cancer: A Randomized Controlled Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "University"
+      },
+      "collaborator": {
+        "agency": "Pharmaceutical Innovations, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to determine the overall survival and safety profiles of oxaliplatin combined with modified FOLFOX in patients who have been diagnosed with advanced gastric cancer. The study aims to evaluate whether this regimen improves patient outcomes compared to traditional treatment protocols."
+    },
+    "detailed_description": {
+      "textblock": "This is a Phase II, randomized, open-label trial where patients with confirmed advanced gastric cancer are allocated to receive either oxaliplatin in combination with modified FOLFOX (FOLFOX + oxaliplatin 85 mg/m² on Day 1) or the existing standard FOLFOX regimen alone. Primary endpoints include overall survival and progression-free survival. Secondary endpoints involve analyzing adverse effects, quality of life measures, and biomarker correlates. Patients receive treatment in 2-week cycles, with a maximum of 8 cycles allowed."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and suboptimal tolerance associated with oxaliplatin",
+    "start_date": "September 2008",
+    "completion_date": "March 2010",
+    "primary_completion_date": "January 2010",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate",
+      "time_frame": "Up to 12 months",
+      "description": "The primary outcome is defined as the time from randomization until death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Up to 12 months",
+        "description": "Progression-free survival defined as the duration from randomization to disease progression."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "At each treatment cycle",
+        "description": "Assessing the nature and frequency of adverse events related to oxaliplatin treatment."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "At baseline, every two cycles until treatment completion",
+        "description": "Quality of life evaluated using the EORTC QLQ-C30 score at specified intervals."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "24",
+    "condition": ["Gastric Cancer", "Advanced Gastric Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "FOLFOX + Oxaliplatin",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive modified FOLFOX with oxaliplatin 85 mg/m² IV on Day 1 and leucovorin on Day 1, followed by continuous infusion of fluorouracil."
+      },
+      {
+        "arm_group_label": "Modified FOLFOX",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive standard modified FOLFOX regimen without oxaliplatin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "Administered at 85 mg/m² IV on Day 1 of each cycle",
+        "arm_group_label": "FOLFOX + Oxaliplatin",
+        "other_name": ["Eloxatin"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin Calcium",
+        "description": "Administered IV as per standard dosing on Day 1",
+        "arm_group_label": ["FOLFOX + Oxaliplatin", "Modified FOLFOX"],
+        "other_name": ["Calcium Leucovorin"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil",
+        "description": "Given IV as per modified FOLFOX protocol, continuous infusion",
+        "arm_group_label": ["FOLFOX + Oxaliplatin", "Modified FOLFOX"],
+        "other_name": ["5-FU"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed advanced gastric adenocarcinoma.\r\n- No previous treatment for metastatic disease.\r\n- ECOG performance status of 0-2.\r\n- Adequate hematological and organ function.\r\n- Written informed consent.\r\n\r\nExclusion Criteria:\r\n- Patients with brain metastases.\r\n- History of allergic reactions to oxaliplatin or its components.\r\n- Previous treatment with oxaliplatin.\r\n- Other malignancies within the past 5 years."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John A. Doe, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "University of California, San Francisco Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2010",
+    "study_first_submitted": "June 20, 2008",
+    "study_first_posted": "September 1, 2008",
+    "last_update_posted": "March 15, 2010",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Oxaliplatin", "Modified FOLFOX", "Gastric Cancer"],
+    "condition_browse": {
+      "mesh_term": ["Gastric Neoplasms", "Adenocarcinoma, Gastric"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Oxaliplatin", "Fluorouracil", "Leucovorin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Cohort receiving FOLFOX + Oxaliplatin",
+            "description": "Participants allocated to experimental treatment arm"
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": null}
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Cohort receiving FOLFOX + Oxaliplatin",
+              "description": "Patients receiving oxaliplatin in addition to modified FOLFOX"
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {"count": null}
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Full Range"
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {"measurement": null}
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {"measurement": null}
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival Rate",
+            "description": "Determined by survival status of all patients at the study conclusion.",
+            "time_frame": "12 months",
+            "population": "Intention to treat analysis.",
+            "group_list": {
+              "group": {
+                "title": "Cohort receiving FOLFOX + Oxaliplatin",
+                "description": "Patients evaluated in experimental arm."
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "30 days post-treatment",
+        "group_list": {
+          "group": {
+            "title": "Adverse Reactions",
+            "description": "Monitoring of adverse events in treatment groups."
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Serious Adverse Events Recorded",
+              "event_list": {
+                "event": {
+                  "sub_title": "Withdrawal due to intolerable side effects",
+                  "counts": null
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "3",
+          "category_list": {
+            "category": {
+              "title": "Other Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Nausea and vomiting episodes",
+                  "counts": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "limitations_and_caveats": "The study was terminated due to insufficient patient recruitment and significant dropout rates attributed to intolerable side effects, which raised concerns over the feasibility of oxaliplatin in combination with modified FOLFOX in treating this patient population.",
+      "point_of_contact": {
+        "name_or_title": "John A. Doe, M.D.",
+        "organization": "University of California, San Francisco",
+        "phone": "415-555-0123",
+        "email": "john.doe@ucsf.edu"
+      }
+    }
+  }
+}
+```

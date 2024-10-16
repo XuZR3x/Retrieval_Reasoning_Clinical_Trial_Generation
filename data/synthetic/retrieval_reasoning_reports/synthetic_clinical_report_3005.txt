@@ -1,0 +1,172 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03012345"
+    },
+    "id_info": {
+      "org_study_id": "SHS-0204",
+      "nct_id": "NCT03012345"
+    },
+    "brief_title": "Evaluation of Varenicline Efficacy in Chronic Pain Patients: A Smoking Cessation Study",
+    "official_title": "Assessing the Impact of Varenicline on Smoking Cessation in Patients With Chronic Pain: A Randomized Controlled Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Pennsylvania",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of Pennsylvania",
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate participant recruitment and non-compliance with study protocol.",
+    "start_date": "January 2017",
+    "completion_date": "December 2019",
+    "primary_completion_date": "December 2019",
+    "phase": "N/A",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of Smoking Abstinence",
+      "time_frame": "At the 12-week mark post-treatment initiation",
+      "description": "Defined as self-reported smoking status validated by carbon monoxide levels."
+    },
+    "secondary_outcome": {
+      "measure": "Change in Pain Levels",
+      "time_frame": "Measured weekly through the Numeric Pain Rating Scale over 12 weeks",
+      "description": "Evaluate any changes in pain perception during smoking cessation treatment."
+    },
+    "enrollment": "10",
+    "condition": ["Cigarette Smoking", "Chronic Pain"],
+    "arm_group": {
+      "arm_group_label": "Varenicline Treatment Group",
+      "arm_group_type": "Active Comparator",
+      "description": "Participants will receive varenicline alongside standard pain management therapies."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Varenicline",
+      "description": "Varenicline will be administered in a dosage regimen of 0.5mg daily for 3 days, followed by 0.5mg twice daily for 4 days, and then 1mg twice daily for the remaining period of the 12-week trial."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 18-65 with a self-reported history of smoking and chronic pain management.\r\n- Willingness to quit smoking within the study timeframe.\r\n- Capable of providing informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n- Contraindications to varenicline use.\r\n- Substantial psychiatric co-morbidities affecting compliance.\r\n- Concurrent use of other smoking cessation therapies or illicit drug usage.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Jennifer L. Hu, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Pennsylvania"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Pennsylvania Health System",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "March 10, 2016",
+    "study_first_submitted_qc": "March 10, 2016",
+    "study_first_posted": "March 15, 2016",
+    "last_update_submitted": "April 22, 2020",
+    "last_update_submitted_qc": "April 22, 2020",
+    "last_update_posted": "April 23, 2020",
+    "keyword": ["varenicline", "chronic pain", "smoking cessation", "nicotine dependence"],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited from pain management clinics affiliated with the University of Pennsylvania.",
+        "group_list": {
+          "group": {
+            "title": "Varenicline Treatment Group",
+            "description": "Participants received varenicline for the intervention period."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": [10]}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": [0]}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": [10]}
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Varenicline Treatment Group",
+              "description": "Data not collected for analysis due to early termination."
+            }
+          }
+        },
+        "reported_events": {
+          "time_frame": "Participants were followed for adverse events throughout the study.",
+          "group_list": {
+            "group": {
+              "title": "Varenicline Treatment Group",
+              "description": "Participants experienced various reported events leading to trial termination."
+            }
+          },
+          "serious_events": {
+            "category_list": {
+              "category": {
+                "title": "Total",
+                "event_list": {
+                  "event": {"sub_title": "Total, serious adverse events", "counts": [0]}
+                }
+              }
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "category_list": {
+              "category": {
+                "title": "Total",
+                "event_list": {
+                  "event": {"sub_title": "Total, other adverse events", "counts": [3]}
+                }
+              }
+            }
+          }
+        },
+        "limitations_and_caveats": "The study faced significant recruitment challenges and high rates of non-compliance, primarily among chronic pain patients, which hindered the collection of reliable data for efficacy assessment. Further, the specialized nature of the population limited the generalizability of findings.",
+        "point_of_contact": {
+          "name_or_title": "Dr. Jennifer L. Hu",
+          "organization": "University of Pennsylvania",
+          "phone": "215-555-0204",
+          "email": "jhu@upenn.edu"
+        }
+      }
+    }
+  }
+}
+```

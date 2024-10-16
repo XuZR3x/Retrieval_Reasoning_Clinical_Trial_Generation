@@ -1,0 +1,152 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03739875"
+    },
+    "id_info": {
+      "org_study_id": "LIDC-01",
+      "nct_id": "NCT03739875"
+    },
+    "brief_title": "Lidocaine Patch for Managing Pain Following Limb Amputation",
+    "official_title": "Randomized Controlled Trial Evaluating the Efficacy of Lidocaine Patch Versus Placebo in Amputation Pain Management",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Medical Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University Medical Center",
+    "oversight_info": {
+      "has_dmc": "No",
+      "is_fda_regulated_drug": "No",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "Persistent phantom limb pain (PLP) and peripheral hyperalgesia are significant challenges faced by individuals post-amputation. This study aims to evaluate the effectiveness of a lidocaine patch in alleviating PLP and associated pain compared to a placebo. It is hypothesized that the lidocaine patch might modulate peripheral nerve conduction and alleviate hypersensitivity in the surrounding tissues."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, double-blind, randomized controlled trial was designed to assess the analgesic efficacy of a lidocaine 5% patch applied to the residual limb of individuals after amputation. A total of 120 participants were planned for recruitment to elucidate differences in pain management outcomes over a 12-week period compared to a placebo patch. The primary outcome measures included pain intensity assessed by both subjective (Visual Analog Scale) and objective (nociceptive reflex thresholds) methods. Secondary outcomes included evaluations of quality of life, medication usage, and overall satisfaction with pain management."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient sample size and inadequate recruitment strategy",
+    "start_date": "March 1, 2018",
+    "completion_date": "March 1, 2020",
+    "primary_completion_date": "October 1, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Mean reduction in pain intensity on a Visual Analog Scale",
+      "time_frame": "Measured weekly for 12 weeks post-intervention",
+      "description": "The primary outcome measure assesses the change in overall pain intensity, using a scale from 0 (no pain) to 100 (worst pain imaginable)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Frequency of analgesic use (opioid and non-opioid)",
+        "time_frame": "Throughout the study period",
+        "description": "The total medication consumption measured in morphine milligram equivalents, to evaluate reliance on traditional pain management strategies."
+      },
+      {
+        "measure": "Quality of Life (SF-36)",
+        "time_frame": "Baseline and at 12 weeks post-intervention",
+        "description": "Assessment of quality of life changes as a result of the intervention."
+      },
+      {
+        "measure": "Nociceptive reflex threshold measurements",
+        "time_frame": "At baseline and every four weeks",
+        "description": "An objective measure of nociceptive processing assessed by a standardized electrical stimulation protocol."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": ["Phantom Limb Pain", "Scar Hyperalgesia"],
+    "arm_group": [
+      {
+        "arm_group_label": "Lidocaine Patch",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive a 5% lidocaine patch applied to the stump for 12 hours daily for 12 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Patch",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive a visually identical placebo patch applied to the stump for 12 hours daily for 12 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lidocaine",
+        "arm_group_label": "Lidocaine Patch"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Sham",
+        "arm_group_label": "Placebo Patch"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 18 and older who have undergone major limb amputations within the last six months.\r\n- Adequate wound healing and no active skin conditions at the application site.\r\n\r\nExclusion Criteria:\r\n- Pre-existing neuropathic conditions unrelated to the amputation site.\r\n- History of significant psychiatric disorders.\r\n- Known hypersensitivity to local anesthetics."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "Not Applicable",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Alexandra Smith, MD",
+        "role": "Principal Investigator",
+        "affiliation": "University Medical Center"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "University Medical Center",
+          "address": {
+            "city": "Cityville",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "February 20, 2018",
+    "study_first_posted": "February 25, 2018",
+    "last_update_submitted": "January 10, 2021",
+    "last_update_posted": "January 15, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "University Medical Center",
+      "investigator_full_name": "Alexandra Smith"
+    },
+    "keyword": [
+      "lidocaine",
+      "phantom limb pain",
+      "scar hyperalgesia"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Phantom Limb Pain",
+        "Hyperalgesia"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Lidocaine"
+    }
+  }
+}
+```

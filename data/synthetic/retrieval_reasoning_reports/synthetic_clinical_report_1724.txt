@@ -1,0 +1,148 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03927154"
+    },
+    "id_info": {
+      "org_study_id": "NIH-2019-04021",
+      "nct_id": "NCT03927154"
+    },
+    "brief_title": "Evaluation of Nintedanib in Patients With Uncontrolled Idiopathic Pulmonary Fibrosis and Advanced Lung Function Impairment",
+    "official_title": "A Multicenter, Randomized, Double-Blind Phase II Trial to Assess the Efficacy and Safety of Nintedanib in Combination With Standard of Care in Patients With Uncontrolled Idiopathic Pulmonary Fibrosis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "Government"
+      }
+    },
+    "source": "NIH Clinical Center",
+    "overall_status": "Terminated",
+    "start_date": "May 1, 2020",
+    "completion_date": "September 15, 2023",
+    "primary_completion_date": "July 20, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in St George's Respiratory Questionnaire (SGRQ) Total Score at Week 12",
+      "time_frame": "Baseline and week 12",
+      "description": "The SGRQ is a validated 50-item tool designed to gauge health status specifically for respiratory patients. A minimum change of 4 units in total score signifies clinical relevance."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in Dyspnoea Using the UCSD SOBQ at Week 12",
+        "time_frame": "Baseline and week 12",
+        "description": "The UCSD SOBQ assesses breathlessness severity on a scale from 0 (no breathlessness) to 5 (too breathless for activity), where a reduction in score indicates improvement."
+      },
+      {
+        "measure": "Incidence of Serious Adverse Events (SAEs) from Baseline to Week 24",
+        "time_frame": "Baseline and week 24",
+        "description": "The number of patients experiencing SAEs during the treatment period will be closely monitored and documented."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": "Idiopathic Pulmonary Fibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Nintedanib + Standard Care",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive Nintedanib 150 mg orally twice daily along with standard care for IPF."
+      },
+      {
+        "arm_group_label": "Standard Care + Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive placebo orally twice daily alongside standard care."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nintedanib",
+        "description": "Administered 150 mg orally, twice daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered orally, twice daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Confirmed diagnosis of Idiopathic Pulmonary Fibrosis (IPF) based on HRCT.\n- Age ≥ 40 years at screening.\n- Ability to provide written informed consent.\n- Carbon monoxide diffusion capacity ≤ 35% of predicted.\n\nExclusion Criteria:\n\n- Previous treatment with nintedanib.\n- Significant liver impairment (ALT/AST > 1.5 x ULN).\n- Presence of severe comorbidities such as congestive heart failure.\n- History of hypotension symptomatic at screening."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Elena Richards",
+      "role": "Principal Investigator",
+      "affiliation": "National Institutes of Health"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Institutes of Health Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "April 15, 2020",
+    "study_first_posted": "May 20, 2020",
+    "results_first_submitted": "August 1, 2023",
+    "results_first_posted": "August 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Idiopathic Pulmonary Fibrosis", "Fibrosis"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Nintedanib", "Sildenafil"]
+    },
+    "limitations_and_caveats": "This trial was terminated due to insufficient efficacy as the primary endpoint of SGRQ change from baseline did not show significant improvement when compared to the placebo group. The analysis indicated a lack of clinical benefit, particularly in patients with advanced lung function impairment. Furthermore, the adverse event profile showed a high incidence of cardiac and pulmonary complications that raised safety concerns."
+  }
+}
+```

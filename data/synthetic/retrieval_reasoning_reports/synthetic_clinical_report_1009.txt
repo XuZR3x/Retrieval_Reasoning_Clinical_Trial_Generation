@@ -1,0 +1,193 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03572822"
+    },
+    "id_info": {
+      "org_study_id": "CCT-PZ2020-01",
+      "nct_id": "NCT03572822"
+    },
+    "brief_title": "Phase II Study of Pertuzumab in Combination with Nivolumab for Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Pertuzumab in Combination with Nivolumab in Patients with Advanced Non-Small Cell Lung Cancer Previously Treated with Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Cancer Biologics",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "FDA",
+        "agency_class": "Government"
+      }
+    },
+    "source": "Innovative Cancer Biologics",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study aims to evaluate the safety and efficacy of pertuzumab in combination with nivolumab in patients with advanced non-small cell lung cancer (NSCLC) who have failed prior chemotherapy. Previous studies indicated high toxicity rates combined with limited efficacy in similar populations."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the safety of the combination of pertuzumab and nivolumab in patients previously treated for advanced NSCLC.\n\nII. To evaluate the overall response rate (ORR) defined by RECIST criteria in this patient cohort.\n\nSECONDARY OBJECTIVES:\n\nI. To determine progression-free survival (PFS) and overall survival (OS).\n\nII. To evaluate the rate of dose-limiting toxicities (DLTs) and the nature of adverse events associated with this therapeutic regimen.\n\nIII. To analyze the pharmacokinetics of the combination regimen over time.\n\nOUTLINE: This is a multicenter, open-label, phase II clinical trial.\n\nPatients receive pertuzumab IV over 30-60 minutes on day 1 and nivolumab IV over 30 minutes on day 2 within a 21-day cycle. Cycles repeat every 21 days until disease progression or unacceptable toxicity.\n\nAdverse events will be monitored and recorded from the time of informed consent through 30 days after the last dose."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Poor enrollment and high rates of treatment-related adverse events led to study termination.",
+    "start_date": "May 3, 2018",
+    "completion_date": "November 20, 2020",
+    "primary_completion_date": "September 15, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Overall Response Rate by RECIST Criteria",
+      "time_frame": "Every 8 weeks until disease progression",
+      "description": "The percentage of patients with confirmed CR or PR will be reported."
+    }],
+    "secondary_outcome": [{
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From treatment initiation to documented progression or death.",
+        "description": "PFS will be evaluated every 8 weeks."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "1 year from treatment initiation.",
+        "description": "Duration from the start of treatment to death from any cause."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Self-reported from enrollment to 30 days after last dose.",
+        "description": "Assessment of serious and non-serious adverse events will be performed."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": ["Advanced Non-Small Cell Lung Cancer"],
+    "arm_group": {
+      "arm_group_label": "Pertuzumab plus Nivolumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive pertuzumab IV followed by nivolumab IV, administered on consecutive days every 21 days."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Pertuzumab",
+        "description": "Given IV, initial dose of 840 mg, followed by 420 mg every 21 days.",
+        "arm_group_label": "Pertuzumab plus Nivolumab",
+        "other_name": ["Perjeta"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab",
+        "description": "Given IV, 3 mg/kg every 21 days.",
+        "arm_group_label": "Pertuzumab plus Nivolumab",
+        "other_name": ["Opdivo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients must have histologically confirmed advanced non-small cell lung cancer.\n- Must have progressed on or after at least one prior regimen of chemotherapy.\n- ECOG performance status of 0-2.\n- Adequate organ function and laboratory parameters must be met prior to enrollment.\n\nExclusion Criteria:\n\n- History of serious hypersensitivity to monoclonal antibodies.\n- Active autoimmune diseases or previous treatments with EGFR inhibitors.\n- Significant concurrent medical conditions that might compromise adherence to study protocol.\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James Martin",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Cancer Biologics"
+    },
+    "location": {
+      "facility": {
+        "name": "Innovative Cancer Center",
+        "address": {
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30305",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2020",
+    "study_first_submitted": "February 21, 2018",
+    "study_first_submitted_qc": "February 21, 2018",
+    "study_first_posted": "March 1, 2018",
+    "results_first_submitted": "December 22, 2020",
+    "results_first_posted": "January 15, 2021",
+    "last_update_posted": "December 22, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "keyword": ["Lung Cancer", "Pertuzumab", "Nivolumab", "Combination Therapy", "Phase II Trial"],
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Non-Small Cell Lung Carcinoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Pertuzumab", "Nivolumab", "Immunotherapy"]
+    },
+    "clinical_results": {
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Pertuzumab Plus Nivolumab",
+            "description": "Combination therapy of pertuzumab and nivolumab."
+          },
+          "serious_events": {
+            "category_list": {
+              "category": {
+                "title": "Total, serious adverse events",
+                "counts": 7
+              }
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "0",
+            "default_vocab": "CTCAE (5.0)",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [{
+                  "title": "Total, other adverse events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": 15
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Diarrhea",
+                      "counts": 3
+                    }
+                  }
+                },
+                {
+                  "title": "Dermatological disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Skin rash",
+                      "counts": 5
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

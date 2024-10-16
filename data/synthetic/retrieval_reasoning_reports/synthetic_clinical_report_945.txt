@@ -1,0 +1,216 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT03274268"
+    },
+    "id_info": {
+        "org_study_id": "BR188",
+        "nct_id": "NCT03274268"
+    },
+    "brief_title": "Evaluation of Temozolomide in Combination with Radiotherapy for Patients with Newly Diagnosed Glioblastoma",
+    "official_title": "A Multicenter Phase II Trial Assessing the Efficacy and Safety of Temozolomide Concurrent with Radiotherapy in Newly Diagnosed Glioblastoma Patients with Methylated MGMT Promoter",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "European Organization for the Research and Treatment of Cancer (EORTC)",
+            "agency_class": "Other"
+        },
+        "collaborator": {
+            "agency": "Bayer HealthCare Pharmaceuticals Inc.",
+            "agency_class": "Industry"
+        }
+    },
+    "source": "European Organization for the Research and Treatment of Cancer",
+    "brief_summary": {
+        "textblock": "This multicenter study aims to evaluate the efficacy of temozolomide when administered concurrently with radiotherapy in patients with newly diagnosed glioblastoma who exhibit methylation of the MGMT promoter. The study investigates whether the combination will yield improved survival rates compared to historical controls, utilizing a rigorous design incorporating patient stratification based on genetic tumor profiles."
+    },
+    "detailed_description": {
+        "textblock": "This randomized phase II trial will enroll patients with newly diagnosed glioblastoma and assess the synergistic effects of temozolomide and radiotherapy on survival outcomes. Patients will receive 75 mg/m2 of temozolomide during the course of radiotherapy. Following the completion of radiotherapy, patients will enter a maintenance phase where they will receive temozolomide at a dose of 150 mg/m2 in a dose-dense format. This approach leverages the mechanistic synergy demonstrated between temozolomide and radiotherapy to achieve maximal cytotoxicity against glioblastoma cells.\n\nMoreover, this trial will follow stringent follow-up protocols with MRI imaging performed every two months to evaluate survival and disease progression. Assessment of MGMT promoter methylation will be conducted to refine patient eligibility, recognizing its role as a pivotal biomarker for predicting response to temozolomide. The study will utilize adaptive trial designs to allow modifications based on interim analyses of treatment efficacy."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2018",
+    "completion_date": "September 30, 2022",
+    "primary_completion_date": "June 30, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+        "measure": "12-Month Progression-Free Survival Rate",
+        "time_frame": "assessed until death or last follow-up for a minimum of 12 months post-treatment initiation.",
+        "description": "Defined as the percentage of patients who are alive and have not experienced tumor progression at 12 months post-completion of radiotherapy and temozolomide therapy."
+    },
+    "secondary_outcome": [
+        {
+            "measure": "Total Overall Survival Rate at 24 Months",
+            "time_frame": "24 months after initiation of the treatment protocol.",
+            "description": "Overall survival is defined as the time from study enrollment until death from any cause."
+        },
+        {
+            "measure": "Incidence of Adverse Events",
+            "time_frame": "during treatment and up to 30 days after completion of therapy.",
+            "description": "Adverse events are monitored according to the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03, focusing on both serious and non-serious side effects."
+        },
+        {
+            "measure": "Response Rate Based on Imaging",
+            "time_frame": "evaluated at the end of treatment and every 8 weeks thereafter.",
+            "description": "Objective response rates (complete response + partial response) will be evaluated according to the Response Assessment in Neuro-Oncology (RANO) criteria."
+        }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": ["Glioblastoma", "Malignant Gliomas"],
+    "arm_group": [
+        {
+            "arm_group_label": "Temozolomide and Radiotherapy Cohort",
+            "arm_group_type": "Experimental",
+            "description": "Patients will receive concurrent temozolomide (75 mg/m²) during radiotherapy (total dose: 60 Gy) followed by adjuvant temozolomide (150 mg/m²) administered on days 1-5 of each 28-day cycle."
+        },
+        {
+            "arm_group_label": "Radiotherapy Alone Cohort",
+            "arm_group_type": "Active Comparator",
+            "description": "Patients will receive standard radiotherapy (60 Gy) without the addition of temozolomide."
+        }
+    ],
+    "intervention": [
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Temozolomide",
+            "description": "Given PO during radiotherapy and in a maintenance regimen after the radiation treatment.",
+            "arm_group_label": ["Temozolomide and Radiotherapy Cohort"]
+        },
+        {
+            "intervention_type": "Radiation",
+            "intervention_name": "Radiotherapy",
+            "description": "Standard radiotherapy regimen of 60 Gy delivered in daily fractions.",
+            "arm_group_label": ["Temozolomide and Radiotherapy Cohort", "Radiotherapy Alone Cohort"]
+        }
+    ],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\r\n\r\n  -  Diagnosis of newly diagnosed glioblastoma confirmed by histopathology.\r\n  -  Patients must demonstrate methylated MGMT promoter status.\r\n  -  Age 18-75 years with KPS (Karnofsky Performance Status) >= 60.\r\n  -  Adequate bone marrow, liver, and renal function.\r\n  -  Patients must provide informed consent and must be able to comply with protocol requirements.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Previous chemotherapy or experimental therapy for glioblastoma.\r\n  -  Concurrent active malignancy.\r\n  -  Pregnant or breastfeeding women.\r\n  -  Patients with significant comorbidities that may interfere with treatment."
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Christine H. Burch, MD",
+        "role": "Principal Investigator",
+        "affiliation": "EORTC Headquarters"
+    },
+    "location": [{
+        "facility": {
+            "name": "Multiple European Clinical Sites",
+            "address": {
+                "city": "Various",
+                "state": "N/A",
+                "zip": "N/A",
+                "country": "United States"
+            }
+        }
+    }],
+    "location_countries": {
+        "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "August 15, 2017",
+    "study_first_posted": "August 30, 2017",
+    "results_first_submitted": "November 12, 2022",
+    "results_first_posted": "December 5, 2022",
+    "last_update_submitted": "June 30, 2022",
+    "last_update_posted": "July 5, 2022",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["temozolomide", "newly diagnosed glioblastoma", "radiotherapy", "MGMT methylation"],
+    "condition_browse": {
+        "mesh_term": ["Glioblastoma", "Malignant Gliomas"]
+    },
+    "intervention_browse": {
+        "mesh_term": ["Temozolomide", "Radiotherapy"]
+    },
+    "clinical_results": {
+        "participant_flow": {
+            "group_list": {
+                "group": [{
+                    "title": "Temozolomide and Radiotherapy Cohort",
+                    "description": "Patients receive concurrent temozolomide and radiotherapy."
+                },
+                {
+                    "title": "Radiotherapy Alone Cohort",
+                    "description": "Patients receive standard radiotherapy only."
+                }]
+            },
+            "period_list": {
+                "period": {
+                    "title": "Overall Study",
+                    "milestone_list": [{
+                        "title": "STARTED",
+                        "participants_list": {"participants": [null, null]}
+                    },
+                    {
+                        "title": "COMPLETED",
+                        "participants_list": {"participants": [null, null]}
+                    }]
+                }
+            },
+            "baseline": {
+                "group_list": {
+                    "group": [{
+                        "title": "Temozolomide and Radiotherapy Cohort",
+                        "description": "Described above."
+                    },
+                    {
+                        "title": "Radiotherapy Alone Cohort",
+                        "description": "Described above."
+                    }]
+                }
+            }
+        },
+        "outcome_list": {
+            "outcome": [{
+                "type": "Primary",
+                "title": "12-Month Progression-Free Survival Rate",
+                "measure": {
+                    "title": "12-Month Progression-Free Survival Rate",
+                    "units": "Percentage",
+                    "param": "Numeric",
+                    "analyzed_list": {
+                        "analyzed": {
+                            "units": "Participants",
+                            "scope": "Overall",
+                            "count_list": {
+                                "count": [null, null]
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "type": "Secondary",
+                "title": "Overall Survival Rate",
+                "measure": {
+                    "title": "Overall Survival at 24 Months",
+                    "units": "Months",
+                    "param": "Median",
+                    "analyzed_list": {
+                        "analyzed": {
+                            "units": "Participants",
+                            "scope": "Measure",
+                            "count_list": {
+                                "count": [null, null]
+                            }
+                        }
+                    }
+                }
+            }]
+        }
+    }
+}}

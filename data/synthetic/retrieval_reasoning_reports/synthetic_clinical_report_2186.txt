@@ -1,0 +1,233 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03019845"
+    },
+    "id_info": {
+      "org_study_id": "2020-012345-68",
+      "nct_id": "NCT03019845"
+    },
+    "brief_title": "Evaluating the Efficacy of Telmisartan in Patients with Metabolic Syndrome",
+    "acronym": "TAME",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Investigating the Efficacy of Telmisartan on Metabolic and Cardiovascular Parameters in Patients with Metabolic Syndrome",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiology Research Institute",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Cardiology Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to assess the effectiveness of telmisartan in improving metabolic and cardiovascular parameters, specifically focusing on insulin sensitivity, blood pressure control, and serum lipid profiles in patients diagnosed with metabolic syndrome. The study also seeks to investigate any potential adverse events associated with the treatment over a twelve-month observation period."
+    },
+    "detailed_description": {
+      "textblock": "This is a multicenter, randomized, double-blind, placebo-controlled study designed to evaluate the impact of telmisartan versus placebo in patients with metabolic syndrome. A total of 500 patients, aged 40 to 65, will be enrolled from five clinical sites. Participants will be randomized in a 2:1 ratio to receive either telmisartan 80 mg/day or placebo over a period of twelve months. The primary outcome measures will include changes in insulin sensitivity, measured through the euglycemic hyperinsulinemic clamp technique, and changes in blood pressure as assessed by 24-hour ambulatory blood pressure monitoring.\n\nSecondary endpoints will encompass alterations in lipid profiles, including total cholesterol, triglycerides, LDL and HDL levels, alongside safety assessments based on reported adverse events and withdrawals from the study. Follow-up visits will be conducted every three months until the completion of the study."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2018",
+    "completion_date": "December 2021",
+    "primary_completion_date": "December 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+      "measure": "Insulin Sensitivity",
+      "time_frame": "Baseline, 6 months, and 12 months",
+      "description": "Assessment of the glucose disposal rate through the euglycemic hyperinsulinemic clamp technique.",
+      "target": "Change from baseline to 12 months in insulin sensitivity."
+    }],
+    "secondary_outcome": [{
+      "measure": "Blood pressure control",
+      "time_frame": "Baseline, 6 months, and 12 months",
+      "description": "24-hour ambulatory blood pressure monitoring to evaluate the change in systolic and diastolic blood pressure."
+    }, {
+      "measure": "Lipid profiles",
+      "time_frame": "Baseline, 6 months, and 12 months",
+      "description": "Variation in serum total cholesterol, triglycerides, HDL, and LDL levels."
+    }, {
+      "measure": "Adverse events",
+      "time_frame": "Throughout the study duration",
+      "description": "Recording of any side effects and withdrawals related to trial participation."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": "Metabolic Syndrome",
+    "arm_group": [{
+      "arm_group_label": "Telmisartan Group",
+      "arm_group_type": "Experimental",
+      "description": "Telmisartan 80 mg administered orally once daily."
+    }, {
+      "arm_group_label": "Placebo Group",
+      "arm_group_type": "Control",
+      "description": "Matching placebo administered orally once daily."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Telmisartan",
+      "description": "Telmisartan 80 mg, administered orally once daily for 12 months.",
+      "arm_group_label": "Telmisartan Group",
+      "other_name": "Micardis"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "description": "Matching placebo, administered orally once daily for 12 months.",
+      "arm_group_label": "Placebo Group"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Age 40 to 65 years.\n  - Diagnosis of metabolic syndrome per the NCEP ATP III criteria.\n  - Ability to provide written informed consent.\n\nExclusion Criteria:\n\n  - History of hypersensitivity to telmisartan or other ARBs.\n  - Significant renal impairment (eGFR <30 mL/min).\n  - Current treatment with ACE inhibitors or other ARBs within the last 3 months, or planned initiation during the study period.\n  - Any chronic inflammatory disease or history of malignancy within the past 5 years.\n  - Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Alice Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiology Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiology Research Institute",
+        "address": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60616",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_submitted_qc": "March 01, 2018",
+    "study_first_posted": "March 15, 2018",
+    "last_update_submitted": "December 5, 2021",
+    "last_update_submitted_qc": "December 7, 2021",
+    "last_update_posted": "December 10, 2021",
+    "responsible_party": {
+      "name_title": "Dr. Alice Johnson",
+      "organization": "Cardiology Research Institute"
+    },
+    "keyword": ["Telmisartan", "Metabolic Syndrome", "Insulin Sensitivity", "Cardiovascular Health"],
+    "condition_browse": {
+      "mesh_term": "Metabolic Syndrome"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Telmisartan"]
+    },
+    "results": {
+      "participant_flow": {
+        "recruitment_details": "500 participants were enrolled from January 2018 to December 2021.",
+        "pre_assignment_details": "All participants were screened for eligibility and consented before random assignment.",
+        "group_list": {
+          "group": [{
+            "title": "Arm A: Telmisartan",
+            "description": "Participants received Telmisartan."
+          }, {
+            "title": "Arm B: Placebo",
+            "description": "Participants received Placebo."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [500, 0]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [250, 250]
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [50, 50]
+                }
+              }]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                "title": "Adverse Events",
+                "participants_list": {
+                  "participants": [30, 20]
+                }
+              }, {
+                "title": "Withdrawal by Subject",
+                "participants_list": {
+                  "participants": [20, 15]
+                }
+              }]
+            }
+          }
+        },
+        "baseline": {
+          "population": "All participants that were randomized and completed the 12-month study.",
+          "group_list": {
+            "group": [{
+              "title": "Arm A: Telmisartan",
+              "description": "Participants received Telmisartan."
+            }, {
+              "title": "Arm B: Placebo",
+              "description": "Participants received Placebo."
+            }],
+            "total": {
+              "description": "Total of all reporting groups"
+            }
+          }
+        },
+        "reported_events": {
+          "time_frame": "From baseline to 12 months.",
+          "desc": "Adverse events were categorized and analyzed as per standard protocols.",
+          "group_list": {
+            "group": [{
+              "title": "Arm A: Telmisartan",
+              "description": "Recorded adverse events including hypotension and gastrointestinal complaints."
+            }, {
+              "title": "Arm B: Placebo",
+              "description": "Similar categorization of events for placebo group."
+            }]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Change in Insulin Sensitivity",
+          "description": "Insulin sensitivity did not improve significantly from baseline to endpoint (p-value > 0.05).",
+          "time_frame": "12 months"
+        }, {
+          "type": "Secondary",
+          "title": "Blood Pressure Changes",
+          "description": "No significant differences in blood pressure control between treatment groups (p-value = 0.23).",
+          "time_frame": "12 months"
+        }, {
+          "type": "Secondary",
+          "title": "Lipid Profile Variation",
+          "description": "Lipid profiles showed similar trends in both groups, with no statistical significance observed (p-value = 0.45).",
+          "time_frame": "12 months"
+        }]
+      }
+    }
+  }
+}
+```

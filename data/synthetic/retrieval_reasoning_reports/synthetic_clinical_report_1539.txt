@@ -1,0 +1,282 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2021-0456",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Clofarabine in Combination with Targeted Therapy for Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase II Study Evaluating Clofarabine in Combination with the Targeted Therapy for Patients with Relapsed Chronic Lymphocytic Leukemia (CLL)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Genzyme, a Sanofi Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to evaluate the effectiveness of clofarabine in combination with a targeted therapy in patients with relapsed CLL. The study assesses response rates, safety, and tolerability of this innovative treatment regimen."
+    },
+    "detailed_description": {
+      "textblock": "This clinical trial investigates clofarabine, a potent chemotherapy agent with selective action against rapidly dividing neoplastic cells, delivered in combination with an established targeted therapy regimen for CLL. The proposed regimen is intended to exploit clofarabine’s unique cytotoxic mechanism to enhance therapeutic efficacy in patients who have shown resistance or relapse after conventional treatments.\n\nParticipants will undergo rigorous screening to establish eligibility criteria focusing on relapsed cases of CLL, ensuring individuals with a high likelihood of treatment response are selected. Adaptive randomization will guide the allocation of patients to assess the most effective dose and scheduling, thereby optimizing overall therapeutic outcomes as the study progresses.\n\nTreatment will consist of clofarabine administered intravenously at 20 mg/m^2 over 5 consecutive days, followed by the targeted therapy with a regimen designed to maximize synergistic effects against CLL cells. Throughout treatment, supportive measures will include the use of G-CSF to enhance bone marrow recovery and stringent monitoring protocols to address potential toxicities or adverse events.\n\nThe study aims to enroll up to 60 participants over 18 months, with follow-up assessments scheduled every month for the first six months and bi-monthly thereafter for safety and efficacy evaluations."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "July 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "6 months",
+      "description": "The proportion of participants achieving either complete response (CR) or partial response (PR) as evaluated by the International Workshop on Chronic Lymphocytic Leukemia (iwCLL) criteria."
+    },
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": ["Chronic Lymphocytic Leukemia"],
+    "arm_group": [
+      {
+        "arm_group_label": "Clofarabine + Targeted Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Clofarabine 20 mg/m^2 IV on Days 1-5 with concurrent targeted therapy."
+      },
+      {
+        "arm_group_label": "Targeted Therapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard targeted therapy regimen without clofarabine."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clofarabine",
+        "description": "20 mg/m^2 administered intravenously over 5 consecutive days.",
+        "arm_group_label": ["Clofarabine + Targeted Therapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Targeted Therapy",
+        "description": "Standard therapy regimen tailored to participant's clinical profile, administered as per established protocols.",
+        "arm_group_label": ["Clofarabine + Targeted Therapy", "Targeted Therapy Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults ≥ 18 years with a confirmed diagnosis of relapsed CLL.\n- Previous treatment failures or relapses noted.\n- Adequate organ function as assessed by laboratory tests.\n- Signed informed consent.\n\nExclusion Criteria:\n- Active or significant infection at the time of enrollment.\n- Previous receipt of clofarabine as part of therapy.\n- History of another malignancy unless no evidence of disease for at least 5 years."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "February 1, 2021",
+    "study_first_submitted_qc": "February 1, 2021",
+    "study_first_posted": "February 15, 2021",
+    "results_first_submitted": "August 10, 2023",
+    "results_first_submitted_qc": "August 15, 2023",
+    "results_first_posted": "September 1, 2023",
+    "last_update_submitted": "September 5, 2023",
+    "last_update_submitted_qc": "September 5, 2023",
+    "last_update_posted": "September 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "party": "Johns Hopkins University"
+    },
+    "keyword": ["Clofarabine", "Chronic Lymphocytic Leukemia", "CLL", "Targeted Therapy"],
+    "condition_browse": {
+      "mesh_term": ["Lymphoma", "Lymphoma, Non-Hodgkin", "Leukemia", "Leukemia, Lymphocytic, Chronic, B-Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Clofarabine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Recruitment began on March 2021 and concluded in July 2023 with 60 participants enrolled.",
+        "group_list": {
+          "group": {
+            "title": "Clofarabine + Targeted Therapy",
+            "description": "Clofarabine combined with standard targeted therapy."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study Outcomes",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": "60"}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": "60"}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": "0"}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Clofarabine + Targeted Therapy",
+              "description": "Clofarabine + Targeted Therapy."
+            },
+            {
+              "title": "Targeted Therapy Alone",
+              "description": "Standard targeted therapy."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [60, 30]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {"measurement_list": {"measurement": [63, 58]}}
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "Female", "measurement_list": {"measurement": [25]}},
+                      {"title": "Male", "measurement_list": {"measurement": [35]}}
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Overall Response Rate",
+          "description": "The proportion of participants achieving CR or PR per iwCLL criteria.",
+          "time_frame": "6 months",
+          "group_list": {
+            "group": [
+              {
+                "title": "Clofarabine + Targeted Therapy",
+                "description": "Overall response rates assessed."
+              },
+              {
+                "title": "Targeted Therapy Alone",
+                "description": "Standard therapy overall response rates."
+              }
+            ]
+          }
+        }
+      }
+    },
+    "reported_events": {
+      "time_frame": "Overall Study Duration",
+      "group_list": {
+        "group": [
+          {
+            "title": "Clofarabine + Targeted Therapy",
+            "description": "Reported adverse events documented through study duration."
+          },
+          {
+            "title": "Targeted Therapy Alone",
+            "description": "Reported adverse events for standard therapy."
+          }
+        ]
+      }
+    },
+    "other_events": {
+      "frequency_threshold": "5",
+      "default_vocab": "CTCAE (3.0)",
+      "default_assessment": "Systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, other adverse events",
+                "counts": [5, 3]
+              }
+            }
+          },
+          {
+            "title": "Hematological Disorders",
+            "event_list": {
+              "event": [
+                {"sub_title": "Neutropenia", "counts": [15]},
+                {"sub_title": "Thrombocytopenia", "counts": [10]}
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

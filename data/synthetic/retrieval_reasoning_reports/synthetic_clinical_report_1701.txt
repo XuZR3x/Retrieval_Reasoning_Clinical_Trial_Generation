@@ -1,0 +1,152 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01576242"
+    },
+    "id_info": {
+      "org_study_id": "DTC/2020/04",
+      "nct_id": "NCT01576242"
+    },
+    "brief_title": "Docetaxel Combined with Targeted Therapy in Advanced Ovarian Cancer",
+    "official_title": "A Randomized Phase II Study to Assess the Efficacy and Safety of Docetaxel in Combination with Targeted Therapy Compared to Docetaxel Alone in Patients with Advanced Ovarian Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Cancer Therapeutics",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Innovative Cancer Therapeutics",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The rationale for this study was to explore the potential for improved outcomes in patients with advanced ovarian cancer through the combination of docetaxel with a targeted agent. It was hypothesized that this combination could enhance therapeutic efficacy by synergistic action against the tumor. The study aimed to determine the impact of this combination therapy on progression-free survival (PFS) compared to docetaxel monotherapy."
+    },
+    "overall_status": "Terminated",
+    "start_date": "March 2012",
+    "completion_date": "June 2014",
+    "primary_completion_date": "June 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-free survival",
+      "time_frame": "6 months",
+      "description": "To determine if the combination of docetaxel and targeted therapy leads to a superior progression-free survival compared to docetaxel alone."
+    },
+    "secondary_outcome": [{
+        "measure": "Overall response rate",
+        "time_frame": "6 months",
+        "description": "To compare the overall response rate between the two treatment arms."
+      },
+      {
+        "measure": "Quality of life assessment",
+        "time_frame": "At 3 and 6 months",
+        "description": "To evaluate the quality of life of patients using validated scales during the course of the treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": "Advanced Ovarian Cancer",
+    "arm_group": [{
+        "arm_group_label": "Docetaxel Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Subjects will receive docetaxel 75 mg/m² every 21 days."
+      },
+      {
+        "arm_group_label": "Docetaxel plus Targeted Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Subjects will receive docetaxel 75 mg/m² plus a targeted therapy agent administered concurrently."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Docetaxel will be administered every 21 days at a dose of 75 mg/m².",
+        "arm_group_label": ["Docetaxel Alone", "Docetaxel plus Targeted Therapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Targeted Therapy Agent",
+        "description": "Targeted therapy administered concurrently with docetaxel.",
+        "arm_group_label": "Docetaxel plus Targeted Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA: 1. Female patients aged 18 years or older. 2. Histologically confirmed advanced ovarian cancer (stage IIIC or IV). 3. Measurable disease per RECIST criteria. 4. No prior treatment with docetaxel or other taxanes. 5. Adequate bone marrow function. 6. ECOG performance status of 0-2. 7. Written informed consent obtained. EXCLUSION CRITERIA: 1. Pregnant or lactating women. 2. Active infection requiring systemic therapy. 3. Serious medical or psychiatric illness. 4. Known hypersensitivity to docetaxel or targeted therapy agent. 5. Previous malignancy (with some exceptions)."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Julia H. Patterson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Cancer Therapeutics"
+    },
+    "location": [{
+        "facility": {
+          "name": "Oncology Research Institute",
+          "address": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Northwest Medical Center",
+          "address": {
+            "city": "Tucson",
+            "state": "Arizona",
+            "zip": "85704",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Patterson JH, Smith L, Jones H, et al. A Phase II Trial of Docetaxel and Targeted Therapy in Advanced Ovarian Cancer: Results from the DTC/2020/04 Study. Gynecol Oncol. 2015;138(3):541-547. doi:10.1016/j.ygyno.2015.05.003.",
+      "PMID": "26169999"
+    },
+    "verification_date": "August 2020",
+    "study_first_submitted": "March 15, 2012",
+    "study_first_submitted_qc": "March 15, 2012",
+    "study_first_posted": "March 20, 2012",
+    "last_update_submitted": "August 17, 2020",
+    "last_update_submitted_qc": "August 17, 2020",
+    "last_update_posted": "August 25, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "ovarian cancer",
+      "docetaxel",
+      "targeted therapy",
+      "oncology"
+    ],
+    "condition_browse": {
+      "mesh_term": "Ovarian Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Docetaxel"
+    }
+  }
+}
+```

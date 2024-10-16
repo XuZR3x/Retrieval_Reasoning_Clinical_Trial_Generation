@@ -1,0 +1,168 @@
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03498167"
+    },
+    "id_info": {
+      "org_study_id": "ONC-2020-001",
+      "nct_id": "NCT03498167"
+    },
+    "brief_title": "Efficacy of Axitinib in Combination with Immune Checkpoint Inhibitors in Patients with Advanced Gastrointestinal Cancers",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Axitinib Combined with Immune Checkpoint Inhibitors in Patients with Advanced Gastrointestinal Cancers",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "The Cancer Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Astellas Pharma, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "The Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to investigate the efficacy of axitinib in combination with immune checkpoint inhibitors, such as nivolumab and pembrolizumab, in patients with advanced gastrointestinal cancers, focusing on the synergistic effects of targeting tumor angiogenesis and immune modulation."
+    },
+    "detailed_description": {
+      "textblock": "The study assesses the therapeutic value of axitinib, an oral tyrosine kinase inhibitor, administered with immune checkpoint inhibitors in patients with advanced gastrointestinal malignancies. The mechanistic synergy hypothesized in this study is based on the ability of axitinib to effectively disrupt tumor vasculature, thereby enhancing the penetration and effectiveness of the immune response facilitated by immunotherapy. Primary and secondary endpoints will evaluate progression-free survival (PFS) and overall response rates based on the Response Evaluation Criteria in Solid Tumors (RECIST) v1.1."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2019",
+    "completion_date": "March 15, 2023",
+    "primary_completion_date": "September 15, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "6 Months",
+      "description": "The primary outcome measure is the median progression-free survival from the initiation of treatment as assessed by MRI/CT imaging using the RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Up to 24 Months",
+        "description": "The total number of complete and partial responses as determined through imaging studies, defined per RECIST v1.1 guidelines."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "At 3 Months",
+        "description": "Defined as the percentage of patients experiencing complete response (CR), partial response (PR), or stable disease (SD) at the 3-month mark."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Ongoing during treatment",
+        "description": "Monitoring and documenting adverse events and dose-limiting toxicities using the Common Terminology Criteria for Adverse Events (CTCAE) Version 4.03."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "52",
+    "condition": "Advanced Gastrointestinal Cancers",
+    "arm_group": [
+      {
+        "arm_group_label": "Axitinib + Immune Checkpoint Inhibitor Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive axitinib (5 mg orally twice daily) in combination with immune checkpoint inhibitors (nivolumab 3 mg/kg every 2 weeks or pembrolizumab 200 mg every 3 weeks) until disease progression or unacceptable toxicity occurs."
+      },
+      {
+        "arm_group_label": "Immune Checkpoint Inhibitor Alone Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive either nivolumab or pembrolizumab alone at standard dosing schedules as per their physician's determination."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Axitinib",
+        "description": "Oral administration of axitinib at an initial dose of 5 mg twice daily; dose adjustment will be permitted based on toxicities and clinical response.",
+        "arm_group_label": [
+          "Axitinib + Immune Checkpoint Inhibitor Group"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab or Pembrolizumab",
+        "description": "Intravenous administration of nivolumab (3 mg/kg every 2 weeks) or pembrolizumab (200 mg every 3 weeks) based on the assigned treatment arm.",
+        "arm_group_label": [
+          "Axitinib + Immune Checkpoint Inhibitor Group",
+          "Immune Checkpoint Inhibitor Alone Group"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Adults aged 18 years and older with histologically or cytologically confirmed advanced gastrointestinal cancers.\r\n  -  Progression after at least one line of prior systemic therapy.\r\n  -  Measurable disease as defined by RECIST v1.1.\r\n  -  ECOG performance status of 0-1.\r\n  -  Adequate organ function prior to study entry, including:\r\n     -  ANC ≥1,500 cells/mm³\r\n     -  Platelet count ≥100,000 cells/mm³\r\n     -  Total bilirubin ≤1.5 times the upper limit of normal.\r\n  -  Informed consent must be provided.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Prior treatment with axitinib or other VEGF TKIs.\r\n  -  Live vaccines administered within 30 days prior to treatment.\r\n  -  Significant cardiovascular disease.\r\n  -  Uncontrolled hypertension despite optimal medical therapy.\r\n  -  Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michelle D. Lattanzi, MD",
+      "role": "Principal Investigator",
+      "affiliation": "The Cancer Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "The Cancer Research Institute",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10016",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2024",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_submitted_qc": "February 17, 2018",
+    "study_first_posted": "February 20, 2018",
+    "results_first_submitted": "July 30, 2022",
+    "results_first_submitted_qc": "August 5, 2022",
+    "results_first_posted": "August 7, 2022",
+    "last_update_submitted": "March 1, 2023",
+    "last_update_posted": "March 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "The Cancer Research Institute"
+    },
+    "keyword": [
+      "Axitinib",
+      "Immunotherapy",
+      "Gastrointestinal Cancer",
+      "Nivolumab",
+      "Pembrolizumab"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma, Gastrointestinal",
+        "Carcinoma, Adenocarcinoma",
+        "Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Axitinib",
+        "Nivolumab",
+        "Pembrolizumab"
+      ]
+    }
+  }
+}

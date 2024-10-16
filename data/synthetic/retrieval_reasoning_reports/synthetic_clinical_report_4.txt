@@ -1,0 +1,239 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT02582427"
+        },
+        "id_info": {
+            "org_study_id": "2020-MT-17",
+            "nct_id": "NCT02582427"
+        },
+        "brief_title": "Temsirolimus in Combination with Pembrolizumab for Advanced Renal Cell Carcinoma",
+        "official_title": "A Phase II Study Evaluating Temsirolimus and Pembrolizumab in Patients with Advanced Renal Cell Carcinoma",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Cleveland Clinic Foundation",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Merck & Co., Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Cleveland Clinic Foundation",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study evaluates the combination of temsirolimus and pembrolizumab to assess its safety, tolerability, and efficacy in treating patients with advanced renal cell carcinoma. The mechanistic synergy derived from combining an mTOR inhibitor with an immune checkpoint inhibitor may enhance therapeutic outcomes."
+        },
+        "detailed_description": {
+            "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the efficacy of temsirolimus in combination with pembrolizumab as measured by overall response rate (ORR) in patients with advanced renal cell carcinoma.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To assess progression-free survival (PFS) and overall survival (OS) in the treatment group.\r\nII. To characterize the safety profile and tolerability of the combination therapy.\r\n\r\nOUTLINE:\r\n\r\nPatients will receive intravenous temsirolimus at a dose of 25 mg weekly alongside pembrolizumab at a dose of 200 mg every three weeks. Treatment cycles will continue for a maximum of 24 months in the absence of disease progression or unacceptable toxicity."
+        },
+        "overall_status": "Completed",
+        "start_date": "March 2016",
+        "completion_date": "December 2019",
+        "primary_completion_date": "October 2019",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [
+            {
+                "measure": "Overall response rate (ORR)",
+                "time_frame": "At 6 months"
+            }
+        ],
+        "secondary_outcome": [
+            {
+                "measure": "Progression-free survival (PFS)",
+                "time_frame": "Up to 24 months"
+            },
+            {
+                "measure": "Overall survival (OS)",
+                "time_frame": "Up to 24 months"
+            },
+            {
+                "measure": "Incidence of treatment-emergent adverse events",
+                "time_frame": "Throughout the study duration, up to 24 months"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "80",
+        "condition": "Advanced Renal Cell Carcinoma",
+        "arm_group": {
+            "arm_group_label": "Temsirolimus and Pembrolizumab Combination Therapy",
+            "arm_group_type": "Experimental",
+            "description": "Patients receive intravenous temsirolimus at a dose of 25 mg weekly in concert with pembrolizumab at a 200 mg dose administered every three weeks."
+        },
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "temsirolimus",
+                "description": "Administered IV",
+                "arm_group_label": "Temsirolimus and Pembrolizumab Combination Therapy",
+                "other_name": ["Torisel"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "pembrolizumab",
+                "description": "Administered IV",
+                "arm_group_label": "Temsirolimus and Pembrolizumab Combination Therapy",
+                "other_name": ["Keytruda"]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n- Histologically confirmed diagnosis of renal cell carcinoma (RCC).\r\n- Locally advanced or metastatic disease.\r\n- Patients must have received one prior therapy for RCC or be treatment-naïve.\r\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n- Adequate organ function as evidenced by laboratory tests.\r\n\r\nExclusion Criteria:\r\n- Prior therapy with pembrolizumab or other PD-1/PD-L1 inhibitors.\r\n- Active central nervous system metastases.\r\n- Ongoing immunosuppressive therapy.\r\n- Any other severe or uncontrolled medical condition that could interfere with study participation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Dr. Matthew K. Pomerantz",
+            "role": "Principal Investigator",
+            "affiliation": "Cleveland Clinic Foundation"
+        },
+        "location": {
+            "facility": {
+                "name": "Cleveland Clinic Foundation",
+                "address": {
+                    "city": "Cleveland",
+                    "state": "Ohio",
+                    "zip": "44195",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "January 2020",
+        "study_first_submitted": "September 15, 2015",
+        "study_first_posted": "October 1, 2015",
+        "last_update_submitted": "November 21, 2019",
+        "last_update_posted": "November 28, 2019",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": ["Temsirolimus", "Pembrolizumab", "Renal Cell Carcinoma"],
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Renal Cell",
+                "Kidney Neoplasms"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Sirolimus",
+                "Temsirolimus",
+                "Pembrolizumab",
+                "mTOR Inhibitors"
+            ]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "title": "Temsirolimus and Pembrolizumab",
+                        "description": "Participants received combination therapy with temsirolimus and pembrolizumab."
+                    }
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                },
+                                {
+                                    "title": "COMPLETED",
+                                    "participants_list": {
+                                        "participants": null
+                                    }
+                                }
+                            ]
+                        },
+                        "drop_withdraw_reason_list": {
+                        }
+                    }
+                },
+                "baseline": {
+                    "population": "The analysis was performed on an intention-to-treat population comprising all enrolled participants.",
+                    "group_list": {
+                        "group": {
+                            "title": "Temsirolimus and Pembrolizumab",
+                            "description": "Participants received temsirolimus and pembrolizumab."
+                        }
+                    },
+                    "analyzed_list": {
+                        "analyzed": {
+                            "units": "Participants",
+                            "scope": "Overall",
+                            "count_list": {
+                                "count": null
+                            }
+                        }
+                    },
+                    "measure_list": {
+                        "measure": [
+                            {
+                                "title": "Age",
+                                "units": "years",
+                                "param": "Median",
+                                "dispersion": "Full Range"
+                            },
+                            {
+                                "title": "Sex: Female, Male",
+                                "units": "Participants",
+                                "param": "Count of Participants"
+                            }
+                        ]
+                    }
+                },
+                "outcome_list": {
+                    "outcome": [
+                        {
+                            "type": "Primary",
+                            "title": "Overall Response Rate (ORR)",
+                            "description": "Defined as the percentage of participants achieving a complete or partial response by RECIST criteria.",
+                            "time_frame": "At 6 months",
+                            "measure": {
+                                "title": "Overall Response Rate (ORR)",
+                                "units": "Percentage of participants",
+                                "param": "Number",
+                                "dispersion": "95% Confidence Interval"
+                            }
+                        },
+                        {
+                            "type": "Secondary",
+                            "title": "Progression-Free Survival (PFS)",
+                            "description": "PFS was defined as the time from treatment initiation to disease progression or death.",
+                            "time_frame": "Up to 24 months",
+                            "measure": {
+                                "title": "Progression-Free Survival (PFS)",
+                                "units": "Months",
+                                "param": "Median",
+                                "dispersion": "95% Confidence Interval"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
+```

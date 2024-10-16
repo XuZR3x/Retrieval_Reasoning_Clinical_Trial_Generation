@@ -1,0 +1,139 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02897375"
+    },
+    "id_info": {
+      "org_study_id": "BEL-203",
+      "nct_id": "NCT02897375"
+    },
+    "brief_title": "Belinostat for Patients With Relapsed/Refractory Non-Hodgkin Lymphoma",
+    "official_title": "Phase II Study to Evaluate Efficacy and Safety of Belinostat in Patients With Relapsed/Refractory Non-Hodgkin Lymphoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaTech Industries",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaTech Industries",
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of sufficient efficacy and observed adverse event profiles leading to patient safety concerns.",
+    "start_date": "January 2017",
+    "completion_date": "March 2021",
+    "primary_completion_date": "March 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR) in Patients With Non-Hodgkin Lymphoma",
+      "time_frame": "12 months",
+      "description": "ORR defined as the proportion of participants achieving a complete response (CR) or partial response (PR) as determined by International Working Group criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Safety Profile Assessed by the Incidence of Adverse Events (AEs)",
+        "time_frame": "Throughout the treatment period up to 12 months",
+        "description": "Adverse events graded using Common Terminology Criteria for Adverse Events (CTCAE) version 5.0, with particular attention to Grade 3 or higher events."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From date of first treatment until death or last follow-up, assessed up to 3 years",
+        "description": "Estimated using the Kaplan-Meier method."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From start of treatment until disease progression or death, evaluated for a maximum of 3 years",
+        "description": "PFS defined based on clinical and radiological assessment following IWG criteria."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": ["Relapsed Non-Hodgkin Lymphoma", "Refractory Non-Hodgkin Lymphoma"],
+    "arm_group": {
+      "arm_group_label": "Treatment (Belinostat)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive belinostat intravenously (IV) at a dosage of 1000 mg/m2 over 30 minutes on days 1-5 of a 21-day cycle for a maximum of 6 cycles."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Belinostat",
+      "description": "Belinostat will be administered as an IV infusion."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Histologically or cytologically confirmed diagnosis of relapsed or refractory Non-Hodgkin Lymphoma.\n2. Patients must have received at least one prior multiline immune therapy.\n3. Age ≥ 18 years with Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n4. Adequate renal and hepatic function as defined by specific laboratory criteria.\n\nExclusion Criteria:\n1. Known hypersensitivity to belinostat or any of its components.\n2. Patients with significant cardiovascular or respiratory disease.\n3. Active uncontrolled infections requiring systemic antimicrobial therapy.\n4. Pregnant or nursing females.\n5. Participation in another investigational study within 30 days prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "PharmaTech Industries"
+    },
+    "location": {
+      "facility": {
+        "name": "PharmaTech Research Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02108",
+          "country": "United States"
+        }
+      }
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Thirty patients were screened, and all were evaluated, but several could not tolerate the treatment regimen due to severe adverse events.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (Belinostat)",
+            "description": "Patients received belinostat IV infusion during the study period."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": { "participants": 30 }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": { "participants": 15 }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": { "participants": 15 }
+                }
+              ]
+            }
+          }
+        },
+        "reported_events": {
+          "sae": {
+            "title": "Serious Adverse Events",
+            "description": "Among the 30 participants, 15 experienced serious adverse events leading to early discontinuation of treatment, with prominent events including severe febrile neutropenia and renal dysfunction."
+          },
+          "other_events": {
+            "title": "Other Adverse Events",
+            "description": "A total of 25 patients experienced treatment-emergent adverse events, with Grade 3-4 adverse events reported including gastrointestinal toxicities (nausea, diarrhea) and hematologic abnormalities (thrombocytopenia, anemia)."
+          }
+        }
+      }
+    }
+  }
+}
+```

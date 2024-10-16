@@ -1,0 +1,541 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03273983"
+    },
+    "id_info": {
+      "org_study_id": "CLDK378A2500",
+      "secondary_id": "2017-001256-32",
+      "nct_id": "NCT03273983"
+    },
+    "brief_title": "Ceritinib for First-Line Treatment of ALK-Positive Non-Small Cell Lung Cancer",
+    "official_title": "A Phase III, Multicenter, Randomized, Open-Label Study of Ceritinib as First-Line Therapy in Patients With ALK-Positive Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novartis Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novartis",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase III trial aimed to evaluate the efficacy of ceritinib in patients with newly diagnosed, advanced ALK-positive NSCLC, focusing on its effectiveness compared to standard chemotherapy regimens. This trial highlights ceritinib's ability to target specific oncogenic drivers, capitalizing on its unique mechanism of action."
+    },
+    "overall_status": "Completed",
+    "start_date": "August 1, 2017",
+    "completion_date": "March 15, 2023",
+    "primary_completion_date": "February 10, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS) by Blinded Independent Review Committee (BIRC)",
+      "time_frame": "From date of randomization to the date of first radiologically documented disease progression or death due to any cause (assessed up to 36 months)",
+      "description": "PFS defined as the time from randomization to the first objective disease progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization until death (up to 36 months)",
+        "description": "OS is the time from randomization until date of death from any cause."
+      },
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "From randomization until the end of the study (up to 36 months)",
+        "description": "ORR is defined by the percentage of participants with best confirmed response of Complete Response (CR) or Partial Response (PR) as evaluated by BIRC."
+      },
+      {
+        "measure": "Intracranial Response Rate (ICR)",
+        "time_frame": "Assessed every 8 weeks until progression or completion of the study (up to 36 months)",
+        "description": "ICR is defined as the proportion of participants with a best confirmed CR or PR specifically in brain metastases."
+      },
+      {
+        "measure": "Safety Profile Analysis",
+        "time_frame": "From the first dose of ceritinib until 30 days post last treatment (up to 36 months)",
+        "description": "Assessment of adverse events related to treatment, frequency, and severity."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "420",
+    "condition": "ALK-positive Non-small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Ceritinib",
+        "arm_group_type": "Experimental",
+        "description": "Patients received ceritinib at a dose of 750 mg orally once daily."
+      },
+      {
+        "arm_group_label": "Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received standard chemotherapy regimens, including pemetrexed combined with carboplatin or cisplatin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ceritinib",
+        "description": "Ceritinib administered orally once daily at a dose of 750 mg on an empty stomach.",
+        "arm_group_label": "Ceritinib"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "Pemetrexed administered at a dose of 500 mg/m² on Day 1 of each 21-day cycle.",
+        "arm_group_label": "Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin or Carboplatin",
+        "description": "Standard doses according to established protocols: Cisplatin at 75 mg/m² or Carboplatin (AUC 5-6).",
+        "arm_group_label": "Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  1. Histologically or cytologically confirmed NSCLC with documented ALK rearrangement per regulatory standards set by the FDA.\r\n\r\n  2. Stage IIIB (not resectable) or IV NSCLC.\r\n\r\n  3. Patients must be treatment-naïve for systematic anti-cancer therapies.\r\n\r\n  4. At least one measurable lesion per RECIST 1.1 criteria.\r\n\r\nExclusion Criteria:\r\n\r\n  1. Previous treatment with any ALK inhibitors or systemic therapy for NSCLC\r\n     (other than neoadjuvant treatments).\r\n\r\n  2. Symptomatic CNS metastases requiring immediate local therapy.\r\n\r\n  3. Any uncontrolled medical conditions that may interfere with protocol adherence."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Novartis Pharmaceuticals",
+      "role": "Study Director",
+      "affiliation": "Novartis Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02114",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90025",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M5G 2M9",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "London",
+            "zip": "W1G 0DN",
+            "country": "United Kingdom"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Berlin",
+            "zip": "10117",
+            "country": "Germany"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "United Kingdom", "Germany"]
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "May 10, 2017",
+    "study_first_submitted_qc": "May 15, 2017",
+    "study_first_posted": "May 20, 2017",
+    "results_first_submitted": "March 30, 2023",
+    "results_first_submitted_qc": "April 4, 2023",
+    "results_first_posted": "April 10, 2023",
+    "last_update_submitted": "April 12, 2023",
+    "last_update_submitted_qc": "April 15, 2023",
+    "last_update_posted": "April 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Ceritinib",
+      "ALK-Positive",
+      "Non-Small Cell Lung Cancer",
+      "NSCLC",
+      "Treatment-naïve",
+      "Oral Treatment"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Carboplatin", "Pemetrexed", "Ceritinib"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Patient-level data will be made available to qualified researchers post-study as per Novartis policy.",
+      "ipd_url": "https://www.clinicalstudydatarequest.com"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "420 patients were enrolled, randomized 1:1 to treatment with ceritinib or chemotherapy.",
+        "pre_assignment_details": "Patients were screened and randomized following baseline assessment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ceritinib",
+              "description": "Patients received ceritinib 750 mg orally once daily."
+            },
+            {
+              "title": "Chemotherapy",
+              "description": "Patients randomized to this arm received standard chemotherapy regimens."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Treated",
+                  "participants_list": {
+                    "participants": ["Discontinued from treatment phase = Not completed", null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["Completed = Patients ongoing at the time of data cut-off of 30-Mar-2023"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Death",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Physician Decision",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Protocol Violation",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS) by BIRC",
+            "description": "PFS measured as time to first documented disease progression or death from any cause.",
+            "time_frame": "Assessed every 8 weeks up to 36 months",
+            "population": "The Full Analysis Set (FAS) comprised all randomized patients.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ceritinib",
+                  "description": "Ceritinib 750 mg"
+                },
+                {
+                  "title": "Chemotherapy",
+                  "description": "Chemotherapy regimen determined by physician."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Progression-Free Survival (PFS)",
+              "description": "Defined as the time from randomization to the first documented progression or death.",
+              "population": "The Full Analysis Set (FAS) comprised all randomized patients.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "Stratified Log Rank",
+                  "param_type": "Hazard Ratio (HR)",
+                  "param_value": "0.45",
+                  "ci_percent": "95",
+                  "ci_n_sides": "2-Sided",
+                  "ci_lower_limit": "0.32",
+                  "ci_upper_limit": "0.62",
+                  "p_value": "<0.001"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "Time from randomization to the date of death.",
+            "time_frame": "From date of randomization until death (up to 36 months)",
+            "posting_date": "08/2024"
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "Assessment of ORR as per RECIST 1.1 by BIRC.",
+            "time_frame": "Assessed at 8 weeks, continued until treatment discontinuation"
+          },
+          {
+            "type": "Secondary",
+            "title": "Intracranial Response Rate (ICR)",
+            "description": "Assessed in all patients with measurable brain metastases at baseline.",
+            "time_frame": "Assessed every 8 weeks until progression."
+          },
+          {
+            "type": "Secondary",
+            "title": "Assessment of Safety Profile",
+            "description": "Capture of all treatment-related adverse events.",
+            "time_frame": "From the first dose of ceritinib until 30 days post last treatment"
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Reported from initiation of study treatment through a follow-up period of 30 days post last dose.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ceritinib",
+              "description": "Patients received 750 mg of ceritinib once daily."
+            },
+            {
+              "title": "Chemotherapy",
+              "description": "Patients received standard chemotherapy as described."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Cardiac disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Atrial Fibrillation",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Myocardial Infarction",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Vomiting",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Abdominal Pain",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Neuropsychiatric disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Seizure",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Dizziness",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Anaemia",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Leukopenia",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Hepatobiliary disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Elevated Liver Enzymes",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Musculoskeletal and connective tissue disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Arthralgia",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "Respiratory, thoracic and mediastinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Dyspnoea",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Pneumonia",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Investigators are independent of the study sponsor.",
+          "restrictive_agreement": "Investigator publications must follow the established timelines as per Novartis policy."
+        },
+        "limitations_and_caveats": "Adverse events were monitored actively and reported throughout the study, allowing comprehensive safety data collection.",
+        "point_of_contact": {
+          "name_or_title": "Study Director",
+          "organization": "Novartis Pharmaceuticals",
+          "phone": "902-777-1234",
+          "email": "novartis.study@novartis.com"
+        }
+      }
+    }
+  }
+}
+```

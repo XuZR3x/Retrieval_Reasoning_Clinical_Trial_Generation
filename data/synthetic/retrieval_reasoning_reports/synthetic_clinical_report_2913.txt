@@ -1,0 +1,144 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01730975"
+        },
+        "id_info": {
+            "org_study_id": "OS1704",
+            "nct_id": "NCT01730975"
+        },
+        "brief_title": "Efficacy and Safety of Oseltamivir in Hospitalized Adult Patients with Severe Influenza.",
+        "official_title": "A Double-Blind, Randomized Control Trial of Oseltamivir Administered to Hospitalized Adults with Severe Influenza: Assessing Efficacy, Safety, and Incidence of Viral Resistance.",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Global Health Research Institute",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Hoffmann-La Roche",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Global Health Research Institute",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study aimed to evaluate the efficacy of oseltamivir in reducing the duration of hospitalization in critically ill patients suffering from influenza. Despite expectations that oseltamivir would show a significant reduction in time to clinical improvement, results indicated that the treatment did not achieve the desired effect. Additionally, the safety profile raised concerns regarding an increased incidence of adverse reactions."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Insufficient recruitment and unfavorable efficacy outcomes.",
+        "start_date": "March 15, 2013",
+        "completion_date": "April 1, 2015",
+        "primary_completion_date": "March 1, 2015",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant and Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Time to clinical improvement as defined by a reduction in the Severity of Illness Score.",
+            "time_frame": "Assessed from Day 1 to Day 14"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of serious adverse events related to oseltamivir treatment.",
+                "time_frame": "Assessed from Day 1 to Day 30"
+            },
+            {
+                "measure": "Viral load reduction assessed by RT-PCR.",
+                "time_frame": "Day 1, Day 3, and Day 5 post-treatment"
+            },
+            {
+                "measure": "Assessment of viral resistance mutations.",
+                "time_frame": "Collected at baseline and Day 5 post-treatment"
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "75",
+        "condition": "Severe Influenza",
+        "arm_group": [
+            {
+                "arm_group_label": "Standard Dose Oseltamivir (75mg BID)",
+                "arm_group_type": "Active Comparator",
+                "description": "Patients received a standard dose of oseltamivir."
+            },
+            {
+                "arm_group_label": "High Dose Oseltamivir (150mg BID)",
+                "arm_group_type": "Experimental",
+                "description": "Patients received a high dose of oseltamivir."
+            }
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Oseltamivir",
+            "description": "Oseltamivir administered at either a standard dose of 75 mg twice daily or a higher dose of 150 mg twice daily for a total of 10 days of treatment.",
+            "arm_group_label": [
+                "Standard Dose Oseltamivir (75mg BID)",
+                "High Dose Oseltamivir (150mg BID)"
+            ],
+            "other_name": "Tamiflu"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n\r\n1. Hospitalized adult patients (≥18 years) diagnosed with severe influenza.\r\n\r\n2. Symptoms must have presented within 48 hours prior to enrollment.\r\n\r\n3. Signed informed consent obtained from the participant or their legal representative.\r\n\r\nExclusion Criteria:\r\n\r\n1. Known hypersensitivity to oseltamivir or any of its components.\r\n\r\n2. Patients requiring mechanical ventilation prior to study drug administration.\r\n\r\n3. Severe hepatic or renal impairment.\r\n\r\n4. Participation in other clinical trials involving antiviral treatments within 30 days prior to enrollment.",
+                "gender": "All",
+                "minimum_age": "18 Years",
+                "maximum_age": "N/A",
+                "healthy_volunteers": "No"
+            }
+        },
+        "overall_official": {
+            "last_name": "Sarah Thompson, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Global Health Research Institute"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Sunnydale General Hospital",
+                    "address": {
+                        "city": "Sunnydale",
+                        "state": "California",
+                        "zip": "94086",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Westside Medical Center",
+                    "address": {
+                        "city": "Westside",
+                        "state": "California",
+                        "zip": "90210",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "January 2020",
+        "study_first_submitted": "November 10, 2012",
+        "study_first_submitted_qc": "November 11, 2012",
+        "study_first_posted": "November 12, 2012",
+        "last_update_submitted": "January 20, 2020",
+        "last_update_posted": "February 1, 2020",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "intervention_browse": {
+            "mesh_term": "Oseltamivir"
+        }
+    }
+}
+```

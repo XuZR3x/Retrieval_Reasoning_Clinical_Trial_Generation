@@ -1,0 +1,134 @@
+{"clinical_study": {
+  "required_header": {
+    "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+    "link_text": "Link to the current ClinicalTrials.gov record.",
+    "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+  },
+  "id_info": {
+    "org_study_id": "HYDRO-RESTORE",
+    "nct_id": "NCT04567890"
+  },
+  "brief_title": "Hydrocortisone in Functional Recovery Following Major Surgery",
+  "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of Hydrocortisone Administration on Functional Recovery Metrics in Patients Undergoing Major Abdominal Surgery",
+  "sponsors": {
+    "lead_sponsor": {
+      "agency": "Hospital de Clínicas de Porto Alegre",
+      "agency_class": "Other"
+    }
+  },
+  "source": "Hospital de Clínicas de Porto Alegre",
+  "oversight_info": {
+    "has_dmc": "Yes"
+  },
+  "brief_summary": {
+    "textblock": "This clinical trial aims to investigate the effects of hydrocortisone on functional recovery in patients undergoing major abdominal surgery. Despite standard perioperative care, many patients experience prolonged functional decline post-surgery. The study hypothesizes that hydrocortisone, applied in a perioperative context, will improve recovery time and enhance the overall quality of recovery."
+  },
+  "detailed_description": {
+    "textblock": "Surgical stress can lead to a hypercatabolic response, contributing to postoperative morbidity and delayed recovery. This study utilizes a rigorous randomized design to compare hydrocortisone treatment versus placebo, assessing functional outcomes such as mobility, pain scores, and quality of life metrics. The trial incorporates advanced methodologies including biomarkers analysis via transcriptomics and metabolomics to elucidate hydrocortisone's mechanisms within the perioperative period."
+  },
+  "overall_status": "Completed",
+  "start_date": "March 2021",
+  "completion_date": "November 2022",
+  "primary_completion_date": "August 2022",
+  "phase": "Phase 2",
+  "study_type": "Interventional",
+  "has_expanded_access": "No",
+  "study_design_info": {
+    "allocation": "Randomized",
+    "intervention_model": "Crossover Assignment",
+    "primary_purpose": "Treatment",
+    "masking": "Double (Participant, Investigator)"
+  },
+  "primary_outcome": {
+    "measure": "Functional recovery quantified via validated scoring system (e.g., Postoperative Quality of Recovery Scale)",
+    "time_frame": "Assessment at 1, 3, 5, and 7 days post-surgery",
+    "description": "Recovery metrics will be assessed focusing on mobility, pain management needs, and return to baseline function."
+  },
+  "secondary_outcome": [{
+      "measure": "Biomarker changes relevant to inflammation and metabolism",
+      "time_frame": "Blood samples collected preoperatively and at 24 hours post-surgery",
+      "description": "Utilization of transcriptomics and proteomics to track changes associated with hydrocortisone administration, correlating these findings with clinical outcomes."
+    },
+    {
+      "measure": "Quality of life assessment through EQ-5D-5L",
+      "time_frame": "Measured preoperatively, and at 7 days and 30 days post-surgery",
+      "description": "Healthy volunteers’ quality of life outcomes will be assessed using the EQ-5D-5L tool, allowing for long-term tracking of satisfaction with efficacy."
+    }
+  ],
+  "number_of_arms": "2",
+  "enrollment": "120",
+  "condition": "Functional Recovery Post-Surgery",
+  "arm_group": [{
+      "arm_group_label": "Hydrocortisone Group",
+      "arm_group_type": "Active Comparator",
+      "description": "Participants receive hydrocortisone at a dose of 100 mg IV preoperatively, followed by 50 mg IV at 8-hour intervals for 48 hours post-surgery."
+    },
+    {
+      "arm_group_label": "Placebo Group",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants receive saline IV in a regimen matching the hydrocortisone infusion schedule."
+    }
+  ],
+  "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Hydrocortisone",
+      "arm_group_label": "Hydrocortisone Group",
+      "other_name": "SoluCortef®"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "arm_group_label": "Placebo Group",
+      "other_name": "0.9% Sodium Chloride"
+    }
+  ],
+  "eligibility": {
+    "criteria": {
+      "textblock": "Inclusion Criteria:\r\n  - Adult patients aged 18-75 years scheduled for elective major abdominal surgery with anticipated length of stay > 48 hours.\r\n  - Informed consent obtained.\r\n\nExclusion Criteria:\r\n  - History of hypersensitivity to glucocorticoids, pregnancy, or breastfeeding.\r\n  - Endocrine disorders that may interfere with study outcomes (e.g., active Cushing's syndrome).\r\n  - Use of anticoagulation therapy or anti-inflammatory agents 24 hours prior to surgery."
+    },
+    "gender": "All",
+    "minimum_age": "18 Years",
+    "maximum_age": "75 Years",
+    "healthy_volunteers": "No"
+  },
+  "overall_official": {
+    "last_name": "Ricardo Schmidt, MD",
+    "role": "Principal Investigator",
+    "affiliation": "Hospital de Clínicas de Porto Alegre"
+  },
+  "location": {
+    "facility": {
+      "name": "Hospital de Clínicas de Porto Alegre",
+      "address": {
+        "city": "Porto Alegre",
+        "state": "RS",
+        "zip": "90000-000",
+        "country": "Brazil"
+      }
+    }
+  },
+  "location_countries": {
+    "country": "Brazil"
+  },
+  "verification_date": "March 2023",
+  "study_first_submitted": "January 10, 2021",
+  "study_first_submitted_qc": "January 15, 2021",
+  "study_first_posted": "February 1, 2021",
+  "last_update_submitted": "April 28, 2023",
+  "last_update_posted": "May 2, 2023",
+  "responsible_party": {
+    "responsible_party_type": "Principal Investigator",
+    "investigator_affiliation": "Hospital de Clínicas de Porto Alegre",
+    "investigator_full_name": "Ricardo Schmidt, MD"
+  },
+  "keyword": ["Hydrocortisone", "Major Surgery", "Functional Recovery", "Abdominal Surgery", "Clinical Trial"],
+  "condition_browse": {
+    "mesh_term": "Postoperative Recovery"
+  },
+  "intervention_browse": {
+    "mesh_term": ["Hydrocortisone", "SoluCortef"]
+  },
+  "patient_data": {
+    "sharing_ipd": "No"
+  }
+}}

@@ -1,0 +1,289 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00012345"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-001",
+      "secondary_id": ["CDR0000987654", "ET743-SOL-001", "NCI-G02-303"],
+      "nct_id": "NCT00012345"
+    },
+    "brief_title": "Efficacy and Safety of Trabectedin in Patients With Recurrent Malignant Mesothelioma",
+    "official_title": "Phase II Study of Trabectedin in Treating Patients With Recurrent Malignant Mesothelioma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Initiatives",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Global Oncology Initiatives",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II study aims to evaluate the safety and efficacy of trabectedin in patients with recurrent malignant mesothelioma. Despite previous studies, significant challenges in tolerability and efficacy remain, prompting this investigation."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. Assess the overall survival (OS) rate in patients receiving trabectedin for recurrent malignant mesothelioma.\n\nII. Evaluate progression-free survival (PFS) and response rates compared to historical controls.\n\nIII. Monitor toxicities associated with trabectedin therapy to establish the safety profile in this population.\n\nOUTLINE:\n\nParticipants will receive trabectedin intravenously over a 3-hour infusion on day 1 of each 28-day treatment cycle. Treatment continues for a maximum of 6 cycles in the absence of disease progression or unacceptable toxicity. Patients will be extensively monitored for treatment tolerability and adverse effects. Quality of life assessments will occur at baseline and every 2 cycles until treatment discontinuation."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Enrollment was halted due to insufficient tolerability, lack of efficacy in target population, and challenges with patient recruitment. No sufficient data to support continued intervention.",
+    "start_date": "March 2015",
+    "completion_date": "January 2020",
+    "primary_completion_date": "October 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Single Group Assignment",
+      "intervention_model": "Single Group",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Up to 2 years",
+      "description": "Defined as the time from enrollment until death from any cause, assessed at each patient visit."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years",
+        "description": "Defined as the time from enrollment until disease progression, as determined by RECIST criteria."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "Up to 2 years",
+        "description": "Assessed through evaluation of tumor response as defined by RECIST criteria."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "25",
+    "condition": ["Malignant Mesothelioma", "Recurrent Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Trabectedin Administration",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive trabectedin at a dose of 1.5 mg/m² administered intravenously every 28 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "trabectedin",
+        "description": "Administered intravenously at a dose of 1.5 mg/m² over 3 hours on day 1 of each 28-day treatment cycle.",
+        "arm_group_label": ["Trabectedin Administration"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed malignant mesothelioma not amenable to curative surgery.\n- Unidimensionally measurable lesions as per RECIST criteria.\n- ECOG performance status of 0-1.\n\nExclusion Criteria:\n\n- Previous systemic chemotherapy for mesothelioma.\n- Significant cardiac disease.\n- Pregnant or breastfeeding women.\n- Uncontrolled infections."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "William Johnson, MD",
+      "role": "Study Chair",
+      "affiliation": "Global Oncology Initiatives"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cancer Treatment Centers of America",
+          "address": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44101",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "July 2021",
+    "study_first_submitted": "January 31, 2015",
+    "study_first_submitted_qc": "February 15, 2015",
+    "study_first_posted": "February 20, 2015",
+    "last_update_submitted": "January 18, 2020",
+    "last_update_submitted_qc": "January 20, 2020",
+    "last_update_posted": "January 21, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Trabectedin", "Mesothelioma", "Late-stage cancer", "Chemotherapy", "Recurrent cancer"],
+    "condition_browse": {
+      "mesh_term": ["Mesothelioma", "Malignant Mesothelioma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trabectedin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Total 25 participants were enrolled; however, 10 participants did not complete the study due to symptomatic toxicities leading to withdrawal.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Trabectedin Administration",
+              "description": "Participants received trabectedin administered as outlined."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [25]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [10]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Trabectedin Administration",
+              "description": "Participants treated with trabectedin."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival (OS)",
+            "description": "No significant improvements observed, with a median OS of 4 months.",
+            "time_frame": "Up to 2 years",
+            "population": "All participants enrolled."
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was deemed unsatisfactory with a median PFS of 1 month.",
+            "time_frame": "Up to 2 years",
+            "population": "All participants enrolled."
+          },
+          {
+            "type": "Secondary",
+            "title": "Response Rate",
+            "description": "No complete or partial responses were documented.",
+            "time_frame": "Up to 2 years",
+            "population": "All participants enrolled."
+          }
+        ]
+      },
+      "reported_events": {
+        "desc": "Significant adverse events were primarily grade 3-4 nausea and vomiting, and hematological toxicities including thrombocytopenia were reported.",
+        "group_list": [
+          {
+            "title": "Trabectedin Administration",
+            "description": "Severe adverse events led to 10 patients discontinuing prematurely."
+          }
+        ]
+      },
+      "serious_events": {
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total serious adverse events",
+                  "counts": [5]
+                }
+              }
+            },
+            {
+              "title": "Hematological Disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Thrombocytopenia",
+                  "counts": [3]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "0",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total other adverse events",
+                  "counts": [10]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal Disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Nausea",
+                  "counts": [7]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

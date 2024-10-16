@@ -1,0 +1,284 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT05778901"
+    },
+    "id_info": {
+      "org_study_id": "CT-2022-WF",
+      "nct_id": "NCT05778901"
+    },
+    "brief_title": "Evaluation of Warfarin for Recurrent Venous Thromboembolism Prevention in Cancer Patients",
+    "official_title": "A Randomized, Open-Label Study to Evaluate the Efficacy and Safety of Warfarin Compared to New Oral Anticoagulants in Preventing Recurrent Venous Thromboembolism in Patients with Active Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Stanford University",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Stanford University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of warfarin compared to newer oral anticoagulants (NOACs) in preventing recurrence of venous thromboembolism (VTE) in patients diagnosed with active cancer. The hypothesis was that warfarin, despite its well-known complications, would provide a comparable benefit to NOACs."
+    },
+    "detailed_description": {
+      "textblock": "The study design included adults aged 18 years and older with a documented history of acute VTE and concurrent active cancer. Fifty patients were recruited and randomly assigned to receive either warfarin or a NOAC (apixaban). Considering the known pharmacogenetic variability associated with warfarin response, individualized dosing aiming for a target INR between 2.0 and 3.0 was pivotal. However, the intricate management involved in warfarin therapy, including the need for frequent INR monitoring and dietary interactions, posed significant challenges to subject adherence and retention. Furthermore, competing therapies such as apixaban have gained traction among clinicians, consequently diminishing trial enrollment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and concerns regarding participant burden.",
+    "start_date": "January 2022",
+    "completion_date": "August 2023",
+    "primary_completion_date": "July 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "Open Label"
+    },
+    "primary_outcome": {
+      "measure": "Occurrence of recurrent venous thromboembolism.",
+      "time_frame": "Measured at 6 months post-randomization.",
+      "description": "The primary efficacy endpoint was defined as the time to the first occurrence of clinically documented VTE."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of major and minor bleeding events.",
+        "time_frame": "Measured during the study period, up to 6 months.",
+        "description": "Safety outcomes were assessed through the frequency of bleeding complications."
+      },
+      {
+        "measure": "Overall mortality rate.",
+        "time_frame": "Reported up to 6 months.",
+        "description": "This included assessment of all-cause mortality in participants."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "Venous Thromboembolism",
+    "arm_group": [
+      {
+        "arm_group_label": "Warfarin",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients were administered warfarin aiming for INR levels of 2-3 through individualized dosing."
+      },
+      {
+        "arm_group_label": "Apixaban",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients were administered apixaban 5 mg twice daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Warfarin",
+        "description": "Patients were treated with warfarin to achieve therapeutic INR levels under careful monitoring.",
+        "arm_group_label": "Warfarin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "description": "Patients were treated with apixaban at a fixed dose.",
+        "arm_group_label": "Apixaban"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Adults aged 18 years or older.\r\n\r\n  -  Documented history of venous thromboembolism.\r\n\r\n  -  Diagnosed with active cancer requiring continued anticoagulation.\r\n\r\n  -  Capacity to provide informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Significant liver dysfunction.\r\n\r\n  -  Creatinine clearance < 30 mL/min.\r\n\r\n  -  Prior long-term anticoagulation with any agent other than LMWH.\r\n\r\n  -  Life expectancy less than 3 months.\r\n\r\n  -  Known hypersensitivity to either study drug."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Stanford University"
+    },
+    "location": {
+      "facility": {
+        "name": "Stanford Hospital",
+        "address": {
+          "city": "Stanford",
+          "state": "California",
+          "zip": "94305",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2023",
+    "study_first_submitted": "January 15, 2022",
+    "study_first_posted": "February 1, 2022",
+    "last_update_posted": "August 30, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Thromboembolism", "Cancer"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Warfarin", "Apixaban"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Warfarin",
+              "description": "Patients were randomized to receive warfarin."
+            },
+            {
+              "title": "Apixaban",
+              "description": "Patients were randomized to receive apixaban."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["50"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Due to insufficient enrollment and patient reluctance."]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Warfarin",
+                "description": "Patients on warfarin therapy."
+              },
+              {
+                "title": "Apixaban",
+                "description": "Patients on apixaban therapy."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": ["32", "18"]
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Average Age",
+                  "units": "Years",
+                  "param": "Mean",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [{"title": "Warfarin", "measurement_list": {"measurement": ["67"]}}, {"title": "Apixaban", "measurement_list": {"measurement": ["62"]}}]
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex Distribution",
+                  "units": "Participants",
+                  "param": "Count",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [{"title": "Female", "measurement_list": {"measurement": ["20"]}}, {"title": "Male", "measurement_list": {"measurement": ["30"]}}]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Occurrence of Recurrent VTE Events",
+              "description": "Measured incidentally through medical records.",
+              "time_frame": "6 months",
+              "population": "Due to early termination, no conclusive analysis was performed."
+            },
+            {
+              "type": "Secondary",
+              "title": "Major Bleeding Incidents",
+              "description": "Observed during the treatment period.",
+              "time_frame": "6 months",
+              "population": "Analysis not performed due to patient withdrawal."
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "6 months",
+          "group_list": {
+            "group": [
+              {
+                "title": "Warfarin",
+                "description": "Evaluation of adverse events found no significant occurrences."
+              },
+              {
+                "title": "Apixaban",
+                "description": "Incidence of adverse effects was low and manageable."
+              }
+            ]
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Serious Adverse Events",
+                    "counts": ["5", "2"]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "category_list": {
+            "category": {
+              "title": "Other Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total other adverse events",
+                  "counts": ["Another analysis was not conducted due to early termination."]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

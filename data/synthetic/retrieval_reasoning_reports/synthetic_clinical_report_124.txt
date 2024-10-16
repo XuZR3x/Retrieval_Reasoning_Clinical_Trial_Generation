@@ -1,0 +1,249 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03718564"
+    },
+    "id_info": {
+      "org_study_id": "H12012",
+      "nct_id": "NCT03718564"
+    },
+    "brief_title": "Hydrocortisone for the Management of Chronic Inflammatory States",
+    "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study of Hydrocortisone Administration in Patients with Chronic Inflammatory Diseases",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Chronic inflammatory states, such as rheumatoid arthritis and lupus, significantly impair quality of life. Preliminary data suggest that hydrocortisone may mitigate symptoms and improve patient-reported outcomes. This trial aims to evaluate hydrocortisone's efficacy and safety in a well-defined patient cohort suffering from chronic inflammatory diseases."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, randomized, double-blind, placebo-controlled trial aims to evaluate the effects of hydrocortisone on patients with chronic inflammatory conditions. The study will consist of two treatment groups: one receiving hydrocortisone and the other a placebo. Participants will undergo comprehensive assessments at baseline and follow-up points, including clinical evaluations and biomarker profiling using transcriptomics and metabolomics to elucidate the mechanistic pathways involved."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "June 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Disease Activity Score (DAS28)",
+      "time_frame": "At baseline, 12 weeks, and 24 weeks post-intervention.",
+      "description": "The Disease Activity Score (DAS28) will be utilized to quantify disease activity, with reductions in score indicating therapeutic efficacy."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Quality of Life (QoL) Assessment using the EQ-5D-5L scale",
+        "time_frame": "At baseline, 12 weeks, and 24 weeks post-intervention.",
+        "description": "This validated tool will evaluate changes in quality of life associated with hydrocortisone treatment."
+      },
+      {
+        "measure": "Biomarker alterations including inflammatory cytokines",
+        "time_frame": "At baseline, 12 weeks, and 24 weeks post-intervention.",
+        "description": "Plasma samples will be analyzed for levels of IL-6, TNF-alpha, and other relevant cytokines using ELISA methodologies."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Chronic Inflammatory Diseases",
+    "arm_group": [
+      {
+        "arm_group_label": "Hydrocortisone group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive hydrocortisone (0.3 mg/kg/day) administered orally for a duration of 24 weeks."
+      },
+      {
+        "arm_group_label": "Placebo group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive a placebo capsule identical in appearance to the hydrocortisone tablet for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Hydrocortisone",
+        "description": "Hydrocortisone will be administered at a dose of 0.3 mg/kg/day for the duration of the study."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo treatment will be provided, mimicking the hydrocortisone intervention."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n - Adults aged 18-75 years with a diagnosis of rheumatoid arthritis or systemic lupus erythematosus.\n - Active disease as defined by a DAS28 score > 3.2.\n - Stable use of concomitant medications for 3 months prior to enrollment.\n\nExclusion Criteria:\n - History of hypersensitivity to corticosteroids.\n - Current use of glucocorticoids exceeding 10 mg/day.\n - Serious co-morbid conditions (e.g. cardiac, hepatic, or renal insufficiency).",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Health"
+    },
+    "location": {
+      "facility": {
+        "name": "NIH Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "MD",
+          "zip": "20892",
+          "country": "USA"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "September 15, 2018",
+    "study_first_submitted_qc": "September 20, 2018",
+    "study_first_posted": "October 1, 2018",
+    "last_update_submitted": "July 14, 2021",
+    "last_update_posted": "July 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": [
+      "Hydrocortisone",
+      "Chronic Inflammation",
+      "Quality of Life",
+      "Cytokines",
+      "Adverse Effects"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Arthritis, Rheumatoid",
+        "Lupus Erythematosus, Systemic"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Hydrocortisone"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "120 patients were screened, and 120 were randomized into the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Hydrocortisone Group",
+              "description": "Received hydrocortisone medication."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Received placebo treatment."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "Treatment Period",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [
+                        60,
+                        60
+                      ]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [
+                        58,
+                        55
+                      ]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": [
+                        2,
+                        5
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Participants completed who underwent primary outcomes evaluations.",
+        "group_list": {
+          "group": {
+            "title": "Overall Participation",
+            "description": "All participants receiving either hydrocortisone or placebo."
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean ± SD",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex Distribution",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Disease Duration",
+              "units": "years",
+              "param": "Mean ± SD"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Reduction in DAS28 Score",
+            "description": "A statistically significant reduction in DAS28 score was observed in the hydrocortisone group compared to placebo (p<0.01).",
+            "time_frame": "At 12 and 24 weeks post-intervention"
+          },
+          {
+            "type": "Secondary",
+            "title": "Improvement in Quality of Life",
+            "description": "The EQ-5D-5L score showed significant improvement in the hydrocortisone group (p<0.05) compared to baseline.",
+            "time_frame": "At 12 and 24 weeks post-intervention"
+          },
+          {
+            "type": "Secondary",
+            "title": "Alterations in Biomarkers of Inflammation",
+            "description": "Hydrocortisone administration resulted in significant decreases in IL-6 and TNF-alpha levels (p<0.01).",
+            "time_frame": "At baseline, 12 and 24 weeks post-intervention"
+          }
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,193 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03931258"
+    },
+    "id_info": {
+      "org_study_id": "NWU-2020-005",
+      "secondary_id": ["NCI-2020-01630", "STU00123456"],
+      "nct_id": "NCT03931258"
+    },
+    "brief_title": "A Phase II Study of Alisertib in Combination with Chemotherapy in Patients With Newly Diagnosed Acute Myeloid Leukemia (AML)",
+    "official_title": "A Phase II Multicenter, Open-Label Study of Alisertib, a Novel Aurora A Kinase Inhibitor, in Combination with Standard Chemotherapeutic Regimens in Adults with Newly Diagnosed Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Northwestern University Feinberg School of Medicine",
+        "agency_class": "Academic"
+      },
+      "collaborators": [
+        {
+          "agency": "National Cancer Institute (NCI)",
+          "agency_class": "NIH"
+        },
+        {
+          "agency": "Millennium Pharmaceuticals, Inc.",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "Northwestern University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study aims to evaluate the efficacy and safety of alisertib in combination with conventional chemotherapeutic agents in patients diagnosed with newly diagnosed acute myeloid leukemia (AML). Prior research suggests that alisertib may enhance therapeutic outcomes by inhibiting Aurora A kinase activity, which is implicated in cell cycle regulation and tumorigenesis. The combination of alisertib with standard chemotherapy may provide a synergistic effect that overcomes resistance mechanisms present in AML."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the complete remission rate (CR) of alisertib in combination with standard chemotherapy for patients with newly diagnosed AML, measured by bone marrow assessment at the end of the treatment cycle.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To assess the overall survival (OS) and progression-free survival (PFS) rates post-treatment.\r\nII. To analyze the safety profile of alisertib in combination therapy using CTCAE version 5.0.\r\nIII. To determine the pharmacokinetic parameters of alisertib when administered concurrently with chemotherapy.\r\n\r\nOUTLINE: This is a multicenter, open-label study. Patients will receive alisertib orally (PO) at 50 mg BID on days 1-7, concurrently with standard chemotherapy agents for AML, which may include cytarabine and daunorubicin. Treatment cycles repeat every 28 days for up to six cycles, contingent on the absence of disease progression or unacceptable toxicity.\r\n\r\nAfter completing the treatment, patients will be followed up every three months for two years to monitor long-term outcomes."
+    },
+    "overall_status": "Active, recruiting",
+    "start_date": "June 15, 2020",
+    "completion_date": "December 2024",
+    "primary_completion_date": "October 2023",
+    "phase": "Phase II",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Complete remission (CR) rate post-treatment as determined by bone marrow biopsy.",
+      "time_frame": "End of treatment cycle (Cycle One: 28 days)",
+      "description": "CR is defined as the absence of blast cells (≥5% in bone marrow) and recovery of peripheral blood counts."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival (OS) rates determined from the time of treatment initiation to the date of death or last known date.",
+        "time_frame": "Up to 24 months post-treatment",
+        "description": "OS will be evaluated using Kaplan-Meier methodology."
+      },
+      {
+        "measure": "Progression-free survival (PFS) measured from treatment initiation until disease progression or death, whichever occurs first.",
+        "time_frame": "Up to 24 months post-treatment",
+        "description": "PFS will also be estimated using the Kaplan-Meier method."
+      },
+      {
+        "measure": "Incidence of adverse events according to CTCAE version 5.0.",
+        "time_frame": "From treatment initiation to 30 days post last dose.",
+        "description": "Adverse events will be collected and categorized for assessment of safety."
+      }
+    ],
+    "other_outcome": [
+      {
+        "measure": "Pharmacokinetics of alisertib using area under the curve (AUC) and peak plasma concentrations (Cmax).",
+        "time_frame": "Cycle One: pre-dose and on day 7 post-dose.",
+        "description": "Pharmacokinetic parameters will be analyzed through blood sampling."
+      },
+      {
+        "measure": "Evaluation of biomarkers of Aurora kinases related to response.",
+        "time_frame": "Baseline and end of Cycle One.",
+        "description": "Investigating predictive biomarkers may enhance tailored treatment approaches."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "42",
+    "condition": ["Acute Myeloid Leukemia", "Myelodysplastic Syndromes"],
+    "arm_group": {
+      "arm_group_label": "Treatment (alisertib and chemotherapy)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive alisertib PO BID on days 1-7 along with standard chemotherapy agents for AML."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Alisertib",
+        "description": "Given PO",
+        "arm_group_label": "Treatment (alisertib and chemotherapy)",
+        "other_name": ["MLN8237", "Aurora A Kinase Inhibitor"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cytarabine",
+        "description": "Administered IV",
+        "arm_group_label": "Treatment (alisertib and chemotherapy)",
+        "other_name": ["Ara-C"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daunorubicin",
+        "description": "Administered IV",
+        "arm_group_label": "Treatment (alisertib and chemotherapy)",
+        "other_name": ["Daunomycin"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adults aged 18-75 with newly diagnosed AML, confirmed by cytomorphologic analysis\r\n     and WHO criteria.\r\n  - Patients must not have previous treatment with chemotherapy or radiotherapy for AML.\r\n  - Patients must be willing and able to provide informed consent.\r\n  - Adequate organ function (defined as liver enzymes <2.5 x ULN, creatinine <1.5 mg/dL).\r\n  - Pregnant and breastfeeding women are excluded.\r\n  - Patients with active uncontrolled infections are excluded.\r\n\r\nExclusion Criteria:\r\n\r\n  - Prior histological evidence of secondary leukemia or therapy-related AML.\r\n  - Known hypersensitivity to any study drugs.\r\n  - Patients currently receiving myeloid growth factors or platelet transfusions within 14\r\n     days of registration.\r\n  - Patients with significant cardiac comorbidities (e.g., arrhythmias, congestive heart failure).\r\n  - Central nervous system involvement is not permitted."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Victoria L. Kam, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Northwestern University"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Northwestern Memorial Hospital",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60611",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of Miami",
+          "address": {
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33136",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2024",
+    "study_first_submitted": "April 12, 2019",
+    "study_first_submitted_qc": "April 14, 2019",
+    "study_first_posted": "April 20, 2019",
+    "last_update_submitted": "September 30, 2024",
+    "last_update_submitted_qc": "September 30, 2024",
+    "last_update_posted": "October 1, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Northwestern University, Feinberg School of Medicine",
+      "investigator_full_name": "Victoria L. Kam, MD",
+      "investigator_title": "Principal Investigator"
+    },
+    "condition_browse": {
+      "mesh_term": ["Leukemia", "Leukemia, Myeloid, Acute", "Leukemia, Megakaryoblastic", "Myelodysplastic Syndromes"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Alisertib", "Antineoplastic Agents", "Aurora Kinase Inhibitors"]
+    }
+  }
+}
+```

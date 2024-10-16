@@ -1,0 +1,175 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01887454"
+    },
+    "id_info": {
+      "org_study_id": "NCT01887454",
+      "secondary_id": "GOG-228",
+      "nct_id": "NCT01887454"
+    },
+    "brief_title": "Carboplatin and Taxane Combinations in Advanced Ovarian Cancer",
+    "official_title": "A Phase III Trial of Carboplatin and Taxane Combinations for Patients With Previously Untreated Advanced Ovarian Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "GOG Foundation",
+        "agency_class": "Other"
+      }
+    },
+    "source": "GOG Foundation",
+    "brief_summary": {
+      "textblock": "RATIONALE: Carboplatin is known to inhibit tumor cell proliferation; however, its effectiveness in various combinations remains debated. This study aims to evaluate the efficacy of carboplatin in combination with paclitaxel plus bevacizumab compared to conventional carboplatin and paclitaxel combinations for advanced ovarian cancer."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES: \n - To compare progression-free survival (PFS) in patients with advanced ovarian cancer receiving carboplatin and paclitaxel with or without bevacizumab.\n - To evaluate the overall response rates and long-term survival outcomes of these regimens.\n - To assess the frequency of adverse events and their impact on treatment adherence.\n\nSTUDY DESIGN: This is a multicenter, randomized trial with stratification based on performance status and tumor stage. Patients will be assigned to one of the study arms: \n- Arm I: Carboplatin + Paclitaxel (standard regimen).\n- Arm II: Carboplatin + Paclitaxel + Bevacizumab (experimental arm).\n\nPATIENT POPULATION: The study is designed to enroll 700 participants over the course of 5 years, with follow-up assessments at 3-month intervals for two years, before transitioning to semi-annual evaluations."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 2013",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "enrollment": 700,
+    "condition": "Ovarian Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Carboplatin and Paclitaxel",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive carboplatin IV followed by paclitaxel IV, repeated every 21 days."
+      },
+      {
+        "arm_group_label": "Carboplatin, Paclitaxel, and Bevacizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive carboplatin IV, followed by paclitaxel IV, and bevacizumab IV, repeated every 21 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bevacizumab"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "DISEASE CHARACTERISTICS: \n - Histologically confirmed advanced epithelial ovarian cancer (stage III or IV).\n - No prior chemotherapy or radiotherapy treatment for any malignancy.\n\nPATIENT CHARACTERISTICS: \n - Females, ≥ 18 years of age. \n - ECOG performance status 0-2. \n - Adequate organ function and not pregnant or nursing.\n\nEXCLUSION CRITERIA: \n - Previous treatment with carboplatin or any taxane.\n - Known hypersensitivity to similar drugs. \n - Significant comorbidities that would impede study compliance."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John A. Smith, MD",
+      "role": "Study Chair",
+      "affiliation": "University of Miami's Sylvester Comprehensive Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Sylvester Comprehensive Cancer Center",
+        "address": {
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "July 1, 2013",
+    "study_first_submitted_qc": "July 3, 2013",
+    "study_first_posted": "July 5, 2013",
+    "last_update_submitted": "May 5, 2021",
+    "last_update_posted": "June 12, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "keywords": ["Ovarian Cancer", "Carboplatin", "Paclitaxel", "Bevacizumab", "advanced ovarian carcinoma"],
+    "condition_browse": {
+      "mesh_term": ["Ovarian Neoplasms", "Carcinoma, Ovarian Epithelial"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Carboplatin", "Paclitaxel", "Bevacizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "700 patients were accrued across multiple centers from September 2013 to March 2020.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Carboplatin and Paclitaxel",
+              "description": "114 patients demonstrated disease progression within the first 6 months."
+            },
+            {
+              "title": "Carboplatin, Paclitaxel, and Bevacizumab",
+              "description": "191 patients exhibited acute toxicities, leading to dose reductions in 67% of those treated."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcomes": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival",
+            "description": "Measured at 12, 18, and 24 months post-initiation of treatment.",
+            "time_frame": "up to 24 months",
+            "population": "Overall analyzed participants"
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival",
+            "description": "Total number of deaths recorded during study follow-up.",
+            "time_frame": "up to 24 months",
+            "population": "All enrolled participants"
+          },
+          {
+            "type": "Safety",
+            "title": "Adverse Events",
+            "description": "Assessment of toxicities using NCI CTCAE criteria.",
+            "time_frame": "throughout study duration",
+            "population": "All treated participants"
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Up to 24 months",
+        "group_list": {
+          "group": [
+            {
+              "title": "Carboplatin and Paclitaxel",
+              "description": "Higher instances of anemia and thrombocytopenia were noted."
+            },
+            {
+              "title": "Carboplatin, Paclitaxel, and Bevacizumab",
+              "description": "Significant gastrointestinal complications, including nausea and vomiting requiring symptomatic treatment."
+            }
+          ]
+        }
+      },
+      "discussions": {
+        "textblock": "The trial faced several critical issues that ultimately led to its failure: \n 1. Inadequate therapeutic regimen demonstrated limited improvement with carboplatin when combined with other agents, questioning the optimization of dosing protocols. \n 2. The heterogeneous patient population exhibited varying resistances to carboplatin due to underlying genetic markers, impacting efficacy. \n 3. Patients developed significant acquired resistance mechanisms affecting the expected therapeutic outcomes. \n 4. The adverse toxicity profile, including severe hematologic issues, resulted in early dose adjustments and treatment discontinuation. \n 5. Following inadequate duration of follow-up raised concerns over the sound interpretation of therapeutic efficacy and toxicity data."
+      }
+    }
+  }
+}
+```

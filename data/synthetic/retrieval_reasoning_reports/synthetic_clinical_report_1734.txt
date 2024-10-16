@@ -1,0 +1,197 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "ATV-2020",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Atazanavir in Treatment-Naive HIV-Infected Adults",
+    "official_title": "A Phase III Randomized Study of Atazanavir in Combination with Other Antiretroviral Agents in Treatment-Naive HIV-Infected Adults: Efficacy, Safety, and Pharmacokinetic Characteristics",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Initiative for HIV Treatment",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Global Initiative for HIV Treatment",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of atazanavir when used in combination with other antiretroviral agents in treatment-naive HIV-infected adults. The hypothesis is that atazanavir, utilized within a once-daily regimen, will produce substantial reductions in viral load, with an emphasis on both short-term effectiveness and long-term safety."
+    },
+    "detailed_description": {
+      "textblock": "The study engaged a diverse cohort of treatment-naive individuals diagnosed with HIV across multiple sites in North and South America, Africa, and Asia. Enrolled participants were randomly assigned to receive either atazanavir-based regimens or a comparator standard therapy. This design sought to substantiate the intervention's robustness in varying healthcare contexts, ensuring generalizability to broader populations.\n\nThe primary outcome was defined as the proportion of participants achieving undetectable plasma HIV RNA (<50 copies/mL) by week 48. Secondary outcomes included safety assessments through the reporting of adverse events (AEs), quality-of-life measures, and viral load suppression durability at 96 weeks.\n\nRegular monitoring was conducted by a Data and Safety Monitoring Board (DSMB) to ensure the ongoing safety of participants. In response to emerging data, adaptations to the study protocol were made, enhancing participant safety and scientific integrity."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2011",
+    "completion_date": "December 2016",
+    "primary_completion_date": "December 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Viral Load Suppression Rate at Week 48",
+        "time_frame": "Week 48",
+        "description": "The proportion of participants achieving plasma HIV RNA levels of <50 copies/mL."
+      },
+      {
+        "measure": "Safety Profile Assessment",
+        "time_frame": "Throughout the study",
+        "description": "Collection and analysis of serious adverse event (SAE) data, including treatment-related SAEs."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1200",
+    "condition": "HIV Infections",
+    "arm_group": [
+      {
+        "arm_group_label": "Atazanavir Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received atazanavir 300 mg once daily plus standard background therapy."
+      },
+      {
+        "arm_group_label": "Standard Therapy Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard three-drug antiretroviral therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Atazanavir",
+        "description": "300 mg taken orally once daily",
+        "arm_group_label": "Atazanavir Group",
+        "other_name": "Reyataz"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Efavirenz",
+        "description": "600 mg taken orally once daily",
+        "arm_group_label": "Standard Therapy Group",
+        "other_name": "Sustiva"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tenofovir/Emtricitabine",
+        "description": "300 mg/200 mg taken orally once daily",
+        "arm_group_label": "Standard Therapy Group",
+        "other_name": "Truvada"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 years or older with confirmed HIV-1 infection.\n- Baseline CD4+ count <500 cells/mm3 and viral load >1,000 copies/mL.\n- No history of prior antiretroviral therapy.\n- Ability to provide informed consent and comply with study requirements.\n\nExclusion Criteria:\n- Current pregnancy or lactation.\n- Known hypersensitivity to any study medication.\n- Severe liver or renal impairment (Creatinine clearance <50 mL/min).\n- Active substance abuse, psychiatric disorder, or any condition potentially interfering with study adherence."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Amanda T. Reynolds",
+      "role": "Principal Investigator",
+      "affiliation": "HIV Clinical Research Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Global Health Institute",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Fitness Health Center CRS",
+          "address": {
+            "city": "Rio de Janeiro",
+            "state": "Rio de Janeiro",
+            "zip": "22231",
+            "country": "Brazil"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Madras Medical Mission",
+          "address": {
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip": "600084",
+            "country": "India"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Kenya AIDS Research Center",
+          "address": {
+            "city": "Nairobi",
+            "country": "Kenya"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Brazil", "India", "Kenya"]
+    },
+    "reference": [
+      {
+        "citation": "Cohen MS, Chen YQ, McCauley M, et al. Prevention of HIV-1 Infection with Early Antiretroviral Therapy. N Engl J Med. 2011;365(6):493-505. doi:10.1056/NEJMoa1012414."
+      },
+      {
+        "citation": "Mofokeng TM, Kufa T, Mnguni T, et al. Long-term outcomes in patients treated with atazanavir-based regimens in a resource-limited setting: a retrospective cohort study. BMC Infect Dis. 2014;14:375. doi:10.1186/1471-2334-14-375."
+      }
+    ],
+    "verification_date": "April 2023",
+    "study_first_submitted": "October 5, 2010",
+    "study_first_submitted_qc": "October 5, 2010",
+    "study_first_posted": "October 6, 2010",
+    "results_first_submitted": "March 1, 2021",
+    "results_first_submitted_qc": "March 1, 2021",
+    "results_first_posted": "April 10, 2021",
+    "last_update_submitted": "April 20, 2023",
+    "last_update_posted": "April 25, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Atazanavir",
+      "HIV Treatment",
+      "Antiretroviral Therapy",
+      "Viral Load Suppression"
+    ],
+    "condition_browse": {
+      "mesh_term": "HIV Infections"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Atazanavir Sulfate",
+        "Efavirenz",
+        "Tenofovir"
+      ]
+    }
+  }
+}
+```

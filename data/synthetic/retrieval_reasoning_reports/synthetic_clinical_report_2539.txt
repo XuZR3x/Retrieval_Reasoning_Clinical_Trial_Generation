@@ -1,0 +1,144 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02034567"
+    },
+    "id_info": {
+      "org_study_id": "123-12-345",
+      "nct_id": "NCT02034567"
+    },
+    "brief_title": "Tolvaptan for the Treatment of Acute Hyponatremia in Hospitalized Patients",
+    "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Trial of Oral Tolvaptan for the Management of Acute Hyponatremia in Hospitalized Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "ABC Research Institute",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Tolvaptan Coalition",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "ABC Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to assess the efficacy of tolvaptan in reducing serum sodium levels in hospitalized patients experiencing acute symptomatic hyponatremia. Despite prior studies demonstrating tolvaptan's efficacy in similar populations, challenges in recruitment, coupled with interim analyses showing low probabilities of achieving the primary endpoint, necessitated the early termination of the trial."
+    },
+    "detailed_description": {
+      "textblock": "Patients hospitalized for acute symptomatic hyponatremia were approached for participation in this study, entailing randomized assignment to receive oral tolvaptan or placebo. The primary outcome measure was the change in serum sodium concentration over a 72-hour period. The study aimed to investigate whether tolvaptan could effect a significant increase in serum sodium and consequently improve clinical symptoms. Health assessments and laboratory tests were to be conducted at set intervals throughout the trial period. However, recruitment challenges emerged from the stringent eligibility criteria, resulting in significantly lower participant enrollment numbers than anticipated. This brought into question the statistical power of the trial. An interim futility analysis, conducted after several months, indicated that the likelihood of meeting the primary endpoint was exceedingly low, ultimately leading to the termination of the clinical trial."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to recruitment challenges and a subsequent futility analysis indicating low probability of achieving the primary endpoint.",
+    "start_date": "January 15, 2020",
+    "completion_date": "November 10, 2021",
+    "primary_completion_date": "November 10, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Serum Sodium Concentration",
+      "time_frame": "72 hours",
+      "description": "The primary outcome measure was the change in serum sodium concentration compared to baseline following administration of tolvaptan versus placebo."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Improvement in Clinical Signs of Hyponatremia",
+        "time_frame": "Baseline, 24, 48, and 72 hours post-dose",
+        "description": "Assessing the clinical improvement in symptoms associated with hyponatremia measured through Clinical Global Impression (CGI) scale."
+      },
+      {
+        "measure": "Length of Hospital Stay",
+        "time_frame": "Duration of hospitalization, up to 30 days",
+        "description": "Evaluating any reduction in the length of hospital stay due to treatment effects."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "12",
+    "condition": "Hyponatremia",
+    "arm_group": [
+      {
+        "arm_group_label": "Tolvaptan",
+        "arm_group_type": "Experimental",
+        "description": "Participants received tolvaptan at an initial dose of 15 mg, with the possibility of titration based on serum sodium levels and clinical response."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received a placebo tablet, following the same dosing schedule and management plan as the tolvaptan arm."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tolvaptan",
+        "description": "Oral tolvaptan administered once daily, starting at 15 mg with titration based on clinical response."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Identical placebo tablet administered once daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 years or older.\n- Diagnosis of acute symptomatic hyponatremia (serum sodium < 130 mEq/L).\n- Hospitalized for at least 24 hours.\n\nExclusion Criteria:\n- Hyponatremia secondary to hypovolemic states.\n- Significant comorbidities that may confound treatment evaluation.\n- Recent treatment with diuretics or hypertonic saline."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Lead Investigator",
+      "affiliation": "ABC Research Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "ABC Research Institute",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02116",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "November 20, 2019",
+    "study_first_submitted_qc": "November 22, 2019",
+    "study_first_posted": "November 25, 2019",
+    "results_first_submitted": "April 12, 2022",
+    "results_first_submitted_qc": "April 15, 2022",
+    "results_first_posted": "April 20, 2022",
+    "last_update_submitted": "April 30, 2022",
+    "last_update_submitted_qc": "April 30, 2022",
+    "last_update_posted": "May 3, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Hyponatremia", "Cirrhosis", "Tolvaptan", "Hospitalized Patients"],
+    "condition_browse": {
+      "mesh_term": "Hyponatremia"
+    },
+    "intervention_browse": {
+      "mesh_term": "Tolvaptan"
+    },
+    "limitations_and_caveats": "The trial was prematurely terminated due to difficulties in recruitment which resulted in insufficient data collection to draw robust conclusions regarding the efficacy of tolvaptan in this population."
+  }
+}
+```

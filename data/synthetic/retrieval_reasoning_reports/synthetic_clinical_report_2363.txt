@@ -1,0 +1,172 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02707863"
+    },
+    "id_info": {
+      "org_study_id": "D020206",
+      "nct_id": "NCT02707863"
+    },
+    "brief_title": "Assessment of Maraviroc in Patients With Controlled HIV-1 Infection Switching from Standard Antiretroviral Therapy",
+    "official_title": "A Phase IV, Randomized, Open-Label Trial to Evaluate the Safety and Efficacy of Maraviroc in Patients With Stable HIV-1 Infection Switching from Standard N(t)RTI and PI Therapy to a Maraviroc-Based Regimen",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global HIV Trials Consortium",
+        "agency_class": "Other"
+      },
+      "collaborator": [{
+        "agency": "ViiV Healthcare",
+        "agency_class": "Industry"
+      }]
+    },
+    "source": "Global HIV Trials Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the switch to maraviroc therapy in patients with well-controlled HIV-1 viral load. By carefully selecting individuals with documented virologic suppression and stable antiretroviral therapy, the trial aims to assess the non-inferiority of maraviroc in maintaining virological control while evaluating the safety and potential improvements in adverse event profiles associated with conventional treatments."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2016",
+    "completion_date": "September 2020",
+    "primary_completion_date": "September 2020",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of participants with undetectable plasma HIV-1 RNA (<50 copies/mL) after 48 weeks",
+      "time_frame": "48 weeks post-randomization",
+      "description": "The primary outcome measures the effectiveness of the maraviroc-based regimen in maintaining viral suppression."
+    },
+    "secondary_outcome": {
+      "measure": "Change in CD4 cell count from baseline to Week 48",
+      "time_frame": "48 weeks from randomization",
+      "description": "Monitoring immunological responses provides insights into the health of the immune system following therapy switch."
+    },
+    "number_of_arms": "2",
+    "enrollment": "402",
+    "condition": "HIV Infection",
+    "arm_group": [{
+      "arm_group_label": "Maraviroc Switch Arm",
+      "arm_group_type": "Active Comparator",
+      "description": "Switch to maraviroc 300 mg BID with N(t)RTI for antiretroviral therapy."
+    }, {
+      "arm_group_label": "Standard of Care Arm",
+      "arm_group_type": "No Intervention",
+      "description": "Continue the current N(t)RTI and PI regimen."
+    }],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Maraviroc",
+      "description": "Maraviroc dosed at 300 mg twice daily, combined with N(t)RTI, is administered as a long-term antiretroviral strategy."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adult participants (≥18 years) with documented HIV-1 infection.\n\n  -  Stable HIV treatment resulting in sustained viral suppression (plasma HIV-1 RNA <50 copies/mL) for at least 24 weeks.\n\n  -  Currently receiving a combination of two N(t)RTIs and one PI/r requiring switch due to treatment fatigue or adverse effects.\n\n  -  Ability to provide informed consent for participation.\n\nExclusion Criteria:\n\n  -  Documented dual/mixed tropism (CXCR4/CCR5).\n\n  -  Signs of active infection requiring systemic antibiotics.\n\n  -  Previous hypersensitivity reactions to any components of maraviroc or concurrent use of contraindicated medications."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "max_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica L. Peters, MD",
+      "role": "Study Chair",
+      "affiliation": "Global HIV Trials Consortium"
+    },
+    "location": [{
+      "facility": {
+        "name": "Harborview Medical Center",
+        "address": {
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98104",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "St. Michael’s Hospital",
+        "address": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5A 1H7",
+          "country": "Canada"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Royal Perth Hospital",
+        "address": {
+          "city": "Perth",
+          "state": "Western Australia",
+          "zip": "6000",
+          "country": "Australia"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["United States", "Canada", "Australia"]
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "January 5, 2016",
+    "study_first_posted": "January 13, 2016",
+    "last_update_submitted": "February 1, 2021",
+    "last_update_posted": "February 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["HIV Management", "Maraviroc", "Viral Suppression"],
+    "condition_browse": {
+      "mesh_term": ["HIV Infections", "Acquired Immunodeficiency Syndrome"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Maraviroc"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 600 participants were screened; 198 were excluded leading to 402 enrolled participants, randomized into two arms.",
+        "group_list": {
+          "group": {
+            "title": "Maraviroc Switch Arm",
+            "description": "Participants switched to maraviroc at 300 mg BID.",
+            "no_of_participants": 201
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [
+                    402, 0
+                  ]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [
+                    201, 199
+                  ]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "reported_events": {}
+    }
+  }
+}
+```

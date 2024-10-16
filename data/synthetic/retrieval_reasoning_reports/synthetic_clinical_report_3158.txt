@@ -1,0 +1,143 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04512678"
+    },
+    "id_info": {
+      "org_study_id": "2020-002362-42",
+      "nct_id": "NCT04512678"
+    },
+    "brief_title": "Assessment of Dabigatran and Clopidogrel Interactions in Patients Undergoing Elective Percutaneous Coronary Intervention (PCI)",
+    "official_title": "A Randomized Controlled Trial Evaluating the Safety and Efficacy of Dabigatran Compared to Warfarin in Patients Undergoing Elective PCI",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Cardiovascular Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the efficacy of dabigatran versus warfarin in reducing thromboembolic events and associated complications in patients undergoing elective PCI while on dual antiplatelet therapy including clopidogrel."
+    },
+    "detailed_description": {
+      "textblock": "Dabigatran, a direct thrombin inhibitor, has been introduced for anticoagulation in patients requiring prevention of thromboembolic events. This study sought to compare its efficacy and safety profile with the vitamin K antagonist warfarin among patients undergoing elective PCI and currently receiving clopidogrel therapy.\n\nIn light of previous studies indicating increased hemorrhagic complications and safety concerns, especially in high-risk populations, the rationale was to assess the effects of dabigatran on platelet inhibition when combined with clopidogrel. Major adverse cardiovascular events (MACE), including stent thrombosis and bleeding complications were primary endpoints, with secondary measures evaluating pharmacodynamic variances and interaction effects.\n\nThe study was designed as a randomized, open-label trial enrolling 80 patients with a balanced allocation to either dabigatran or warfarin, aimed at elucidating whether dabigatran's anticoagulation could confer superior outcomes without escalating bleeding risks. However, the trial was terminated due to a significant lack of subject recruitment and the emergence of adverse event reports aligning with bleeding complications in the context of concomitant clopidogrel therapy, as well as the complexity of evaluating composite endpoints involving MACE. Additionally, unrecognized pharmacodynamic variability amongst participants complicated the interpretation of results."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment and safety concerns related to bleeding events.",
+    "start_date": "January 2020",
+    "completion_date": "December 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Composite of major adverse cardiovascular events (MACE)",
+      "time_frame": "within 30 days post-PCI",
+      "description": "To assess the occurrence of MACE, including myocardial infarction, stent thrombosis, and cardiovascular-related hospitalization."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of bleeding events",
+        "time_frame": "30 days",
+        "description": "Assessment of the frequency and severity of any reported bleeding complications (major and minor)."
+      },
+      {
+        "measure": "Changes in platelet function tests",
+        "time_frame": "Pre-procedure and 30 days post-procedure",
+        "description": "Evaluation of platelet inhibition through P2Y12 and ADP induced platelet aggregation assays."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": ["Coronary Artery Disease", "Myocardial Infarction", "Atrial Fibrillation"],
+    "arm_group": [
+      {
+        "arm_group_label": "Experimental Group",
+        "arm_group_type": "Experimental",
+        "description": "Dabigatran therapy at a dosage of 150mg twice daily."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Warfarin therapy managed to target INR of 2.0-3.0."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dabigatran",
+        "description": "Patients assigned to this group will receive dabigatran (Pradaxa).",
+        "arm_group_label": "Experimental Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Warfarin",
+        "description": "Patients assigned to this group will receive warfarin with INR monitoring.",
+        "arm_group_label": "Control Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria:\n- Patients aged 18 years or older, undergoing planned elective PCI\n- On dual antiplatelet therapy including clopidogrel\n- Signed informed consent from patient or authorized representative\n\nKey Exclusion Criteria:\n- Significant renal impairment (eGFR < 30 mL/min)\n- Previous major bleeding events\n- Active bleeding disorder or severe hepatic impairment\n- Known hypersensitivity to dabigatran or warfarin"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elena Novak, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Institute Hospital",
+        "address": {
+          "city": "San Francisco",
+          "zip": "94107",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2022",
+    "study_first_submitted": "June 1, 2020",
+    "study_first_submitted_qc": "June 5, 2020",
+    "study_first_posted": "June 10, 2020",
+    "last_update_submitted": "September 15, 2021",
+    "last_update_posted": "September 16, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Coronary Artery Disease",
+        "Myocardial Infarction",
+        "Heart Diseases",
+        "Thrombosis"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Dabigatran",
+        "Warfarin",
+        "Clopidogrel"
+      ]
+    }
+  }
+}
+```

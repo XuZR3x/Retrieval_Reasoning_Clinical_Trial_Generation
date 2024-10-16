@@ -1,0 +1,148 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03840120"
+    },
+    "id_info": {
+      "org_study_id": "CLOPIERC",
+      "nct_id": "NCT03840120"
+    },
+    "brief_title": "Efficacy and Safety of Clopidogrel in Patients With Uncontrolled Hypertension",
+    "acronym": "CLOPIERC",
+    "official_title": "A Phase III Multi-Center, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Clopidogrel in the Management of Patients With Uncontrolled Hypertension and Increased Cardiovascular Risk",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cardiovascular Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Clopidogrel is widely acknowledged for its antiplatelet properties; however, the extent of its efficacy in managing hypertension-related outcomes remains unclear. This study aims to evaluate clopidogrel's potential role in patients with uncontrolled hypertension, under the premise that its modulation of platelet activation could mitigate cardiovascular risks."
+    },
+    "detailed_description": {
+      "textblock": "Uncontrolled hypertension significantly contributes to the global burden of cardiovascular disease. Previous studies have indicated that antiplatelet agents like clopidogrel may confer additional cardiovascular benefits beyond their traditional usage in acute coronary syndromes. However, the relationship between platelet activation and blood pressure regulation remains inadequately explored, thus compelling the need for this investigation.\n\nThis randomized, double-blind, placebo-controlled trial sought to provide clarity regarding the utility of clopidogrel in a population suffering from uncontrolled hypertension. The study was envisioned to recruit 500 patients at multiple centers, targeting an observation period of six months. Participants were anticipated to be predominantly elderly individuals with comorbidities that exacerbate hypertensive responses.\n\nNevertheless, significant recruitment challenges emerged during the trial. By the halfway mark, only 150 participants had been enrolled, leading to concerns regarding statistical power and the ability to ascertain reliable outcomes. Additionally, concomitant medication use, including various antihypertensive agents, added complexity to the evaluation, resulting in confounding variables that could potentially obscure the singular effects of clopidogrel's administration.\n\nDuring the limited follow-up period, adverse safety signals were reported, primarily concerning the incidence of major bleeding events, particularly within the elderly demographic. This adverse outcome raises critical questions regarding the risk-benefit ratio of administering clopidogrel in such populations, thus presenting a grievous paradox of attempting to mitigate cardiovascular event rates while simultaneously escalating the risk of severe hemorrhagic complications. Furthermore, an interim analysis revealed no statistically significant improvements in blood pressure regulation or cardiovascular outcomes when comparing the clopidogrel arm to placebo, ultimately suggesting an ineffectiveness in clopidogrel's role to influence hypertension management.\n\nThese considerations triggered a comprehensive review of clinical endpoint criteria, as well as an assessment of protocol adherence among participating sites. The analysis ultimately concluded that insufficient recruitment, insufficiently powered results, and increased incidents of bleeding led to the termination of this trial."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment leading to inadequate statistical power and safety concerns.",
+    "start_date": "February 15, 2019",
+    "completion_date": "June 30, 2021",
+    "primary_completion_date": "December 1, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in systolic blood pressure from baseline to 6 months",
+      "time_frame": "6 months",
+      "description": "Evaluation of the mean change in systolic blood pressure as a primary endpoint."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of major bleeding events",
+        "time_frame": "6 months",
+        "description": "Assessment of the composite of life-threatening or major bleeding as defined by international guidelines."
+      },
+      {
+        "measure": "Changes in quality of life assessed by EQ-5D-5L",
+        "time_frame": "6 months",
+        "description": "Evaluation of quality of life at baseline and at the conclusion of the study."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": [
+      "Uncontrolled Hypertension",
+      "Increased Cardiovascular Risk"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Clopidogrel",
+        "arm_group_type": "Experimental",
+        "description": "Clopidogrel 75 mg daily for 6 months."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo daily for 6 months."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Clopidogrel 75 mg daily administered orally for the duration of the study.",
+        "arm_group_label": "Clopidogrel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered orally for the same duration.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n - Individuals aged 50 years or older with diagnosed uncontrolled hypertension (systolic BP > 140 mmHg despite treatment).\n - Patients who have given informed consent to participate in the study.\n\nExclusion Criteria:\n - Prior history of hemorrhagic stroke or significant bleeding disorders.\n - Co-administration of anticoagulants or other antiplatelet agents beyond aspirin.\n - Uncontrolled comorbid conditions compromising study participation (i.e., severe heart failure, active malignancy)."
+      },
+      "gender": "All",
+      "minimum_age": "50 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiology Department - Main University Hospital",
+        "address": {
+          "city": "Anywhere",
+          "zip": "12345",
+          "country": "Country"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Country"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "January 15, 2019",
+    "study_first_submitted_qc": "January 20, 2019",
+    "study_first_posted": "February 1, 2019",
+    "last_update_submitted": "July 1, 2021",
+    "last_update_posted": "July 2, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": [
+      "Clopidogrel",
+      "Hypertension",
+      "Cardiovascular Risk",
+      "Bleeding Complications"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Hypertension",
+        "Cardiovascular Diseases"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Clopidogrel"
+    }
+  }
+}
+```

@@ -1,0 +1,148 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01841278"
+    },
+    "id_info": {
+      "org_study_id": "GHI-008-20",
+      "nct_id": "NCT01841278"
+    },
+    "brief_title": "Evaluation of Oseltamivir in Hospitalized Patients With Severe Influenza",
+    "official_title": "A Multi-Center, Randomized, Controlled Trial to Assess the Efficacy and Safety of High-Dose Oseltamivir Versus Standard-Dose Oseltamivir in Hospitalized Patients With Severe Influenza",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Initiative",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Hoffmann-La Roche",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Initiative",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to determine the efficacy and safety of high-dose oseltamivir compared to standard dosing in hospitalized patients presenting with severe influenza. Given the observed emergence of viral resistance and inconsistency in clinical diagnosis across healthcare settings, this trial seeks to elucidate the optimal management approach."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment due to participant eligibility constraints and ethical concerns.",
+    "start_date": "December 1, 2013",
+    "completion_date": "September 10, 2015",
+    "primary_completion_date": "September 10, 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "The time to clinical improvement as assessed by a validated symptom scoring system.",
+      "time_frame": "Measured on Day 10 post-randomization"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Frequency of viral resistance mutations identified in nasopharyngeal swabs",
+        "time_frame": "Day 7 and Day 14 post-treatment initiation"
+      },
+      {
+        "measure": "Incidence of serious adverse events",
+        "time_frame": "Up to Day 30"
+      },
+      {
+        "measure": "Length of hospital stay",
+        "time_frame": "Measured from admission until discharge"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "34",
+    "condition": "Influenza",
+    "arm_group": [
+      {
+        "arm_group_label": "Standard-Dose Oseltamivir",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receive standard twice-daily dosing of oseltamivir (75 mg) for 5 days."
+      },
+      {
+        "arm_group_label": "High-Dose Oseltamivir",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive high-dose oseltamivir, dosed at 225 mg twice-daily for the same duration."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Oseltamivir",
+      "description": "Oseltamivir administered orally at doses of either 75 mg (standard) or 225 mg (high-dose) twice a day for 5 days.",
+      "arm_group_label": ["Standard-Dose Oseltamivir", "High-Dose Oseltamivir"],
+      "other_name": "Tamiflu"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Hospitalized patients aged 18 years and older with severe influenza defined as requiring supplemental oxygen or positive pressure ventilation.\r\n2. Symptom onset within 48 hours prior to hospitalization.\r\n3. Informed consent provided or assent if appropriate.\r\n\r\nExclusion Criteria:\r\n1. Patients with confirmed oseltamivir-resistant strains at baseline.\r\n2. Recent use of antiviral medications for influenza.\r\n3. Severe renal impairment requiring dialysis.\r\n4. Life expectancy < 24 hours based on physician assessment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sophia Lee, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Initiative"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "General Hospital",
+          "address": {
+            "city": "Toronto",
+            "province": "Ontario",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "City Medical Center",
+          "address": {
+            "city": "Ottawa",
+            "province": "Ontario",
+            "country": "Canada"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "Canada"
+    },
+    "verification_date": "August 2015",
+    "study_first_submitted": "September 14, 2013",
+    "study_first_submitted_qc": "September 14, 2013",
+    "study_first_posted": "September 16, 2013",
+    "last_update_submitted": "August 5, 2015",
+    "last_update_submitted_qc": "August 5, 2015",
+    "last_update_posted": "August 7, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Severe Influenza",
+      "Oseltamivir",
+      "Viral Resistance"
+    ],
+    "condition_browse": {
+      "mesh_term": "Influenza, Human"
+    },
+    "intervention_browse": {
+      "mesh_term": "Oseltamivir"
+    }
+  }
+}
+```

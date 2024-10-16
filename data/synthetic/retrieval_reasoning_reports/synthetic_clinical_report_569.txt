@@ -1,0 +1,349 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 12, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04128564"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2020-00546",
+      "secondary_id": ["NCI-2020-00546", "MAYO-MC0756"],
+      "nct_id": "NCT04128564"
+    },
+    "brief_title": "Efficacy and Safety of Belinostat in Combination with Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "Phase II Study of Belinostat in Combination with Standard Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+      "textblock": "This phase II trial is designed to evaluate the efficacy and safety of belinostat when administered in combination with standard chemotherapy in patients with advanced non-small cell lung cancer (NSCLC). The study hypothesizes that belinostat will enhance the cytotoxic effects of chemotherapy agents."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\nI. Assess the objective response rate (ORR) of belinostat combined with chemotherapy in patients with advanced NSCLC.\n\nII. Analyze the overall survival (OS) and progression-free survival (PFS) among these patients.\n\nIII. Evaluate the safety profile and tolerability of the treatment regimen.\n\nOUTLINE: A multicenter, open-label phase II study.\n\nPatients receive standard chemotherapy (carboplatin and pemetrexed) combined with belinostat intravenously on days 1-5 of a 21-day cycle. Treatment continues until disease progression or unacceptable toxicity.\n\nThe study includes biomarker evaluations to assess histone acetylation and molecular alterations pre- and post-treatment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient efficacy and unacceptable adverse event profile.",
+    "start_date": "January 2020",
+    "completion_date": "December 2021",
+    "primary_completion_date": "December 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR) Defined as the Percentage of Participants Achieving Complete Response (CR) or Partial Response (PR)",
+      "time_frame": "12 weeks",
+      "description": "Objective response rate is assessed according to RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 24 months",
+        "description": "Measured from the date of registration until death or last follow-up."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "Time from enrollment until disease progression or death."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Assessed continuously until study termination",
+        "description": "Adverse events documented per Common Terminology Criteria for Adverse Events (CTCAE) version 4.03."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "50",
+    "condition": "Advanced Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Treatment (Belinostat + Chemotherapy)",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive belinostat in combination with standard chemotherapy (carboplatin and pemetrexed)."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Belinostat",
+      "description": "Given IV in combination with chemotherapy.",
+      "other_name": "PXD101"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Histologically confirmed non-small cell lung cancer (NSCLC) that is stage IIIB (unresectable) or IV.\n\n2. No prior systemic therapy for advanced NSCLC.\n\n3. Adequate hematological and hepatic function.\n\n4. ECOG performance status 0-2.\n\nExclusion Criteria:\n\n1. Mixed or small cell lung cancer.\n\n2. Significant comorbidities that may worsen drug toxicity, including severe cardiovascular disease.\n\n3. Prior exposure to histone deacetylase inhibitors.\n\n4. Current use of anticoagulants not deemed safe by the investigator."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Principal Investigator",
+      "affiliation": "Mayo Clinic"
+    },
+    "location": {
+      "facility": {
+        "name": "Mayo Clinic",
+        "address": {
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "November 15, 2019",
+    "study_first_submitted_qc": "November 15, 2019",
+    "study_first_posted": "December 1, 2019",
+    "last_update_submitted": "April 12, 2021",
+    "last_update_submitted_qc": "April 12, 2021",
+    "last_update_posted": "April 15, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Non-Small Cell Lung Cancer", "Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Belinostat"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 50 patients were enrolled across participating sites, with 48 patients evaluable for primary outcomes.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (Belinostat + Chemotherapy)",
+            "description": "Concomitant administration of belinostat and standard chemotherapy in the prescribed regimen."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Treatment (Belinostat + Chemotherapy)",
+              "description": "Concomitant administration of belinostat and standard chemotherapy in the prescribed regimen."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Full Range",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Objective Response Rate (ORR)",
+              "description": "Percentage of participants achieving CR or PR as per RECIST criteria.",
+              "time_frame": "12 weeks",
+              "group_list": {
+                "group": {
+                  "title": "Treatment (Belinostat + Chemotherapy)",
+                  "description": "Concomitant administration of belinostat and standard chemotherapy in the prescribed regimen."
+                }
+              },
+              "measure": {
+                "title": "Objective Response Rate",
+                "units": "Percentage of participants",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival",
+              "description": "Time from registration to death or last follow-up.",
+              "time_frame": "24 months",
+              "group_list": {
+                "group": {
+                  "title": "Treatment (Belinostat + Chemotherapy)",
+                  "description": "Concomitant administration of belinostat and standard chemotherapy in the prescribed regimen."
+                }
+              },
+              "measure": {
+                "title": "Overall Survival",
+                "units": "Months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival",
+              "description": "Time from registration until progression or death.",
+              "time_frame": "24 months",
+              "group_list": {
+                "group": {
+                  "title": "Treatment (Belinostat + Chemotherapy)",
+                  "description": "Concomitant administration of belinostat and standard chemotherapy in the prescribed regimen."
+                }
+              },
+              "measure": {
+                "title": "Progression-Free Survival",
+                "units": "Months",
+                "param": "Mean",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Safety Profile",
+              "description": "Detailed listing of adverse events and their severity.",
+              "time_frame": "Up to 24 months",
+              "group_list": {
+                "group": {
+                  "title": "Treatment (Belinostat + Chemotherapy)",
+                  "description": "Concomitant administration of belinostat and standard chemotherapy in the prescribed regimen."
+                }
+              },
+              "measure": {
+                "title": "Safety Profile",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Adverse events were monitored during treatment and for 30 days after.",
+          "desc": "Patient safety assessments indicated a higher than anticipated rate of severe adverse events, predominantly hematological toxicities, leading to treatment interruptions and necessitating early termination of the study. Notable occurrences included febrile neutropenia and significant thrombocytopenia."
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The sponsor has the right to review results communications prior to public release and can embargo communications regarding trial results for a maximum of 60 days. The sponsor cannot require modifications to the communication and cannot extend the embargo."
+        },
+        "point_of_contact": {
+          "name_or_title": "John Smith, M.D.",
+          "organization": "Mayo Clinic",
+          "email": "john.smith@mayoclinic.org"
+        }
+      }
+    }
+  }
+}
+```

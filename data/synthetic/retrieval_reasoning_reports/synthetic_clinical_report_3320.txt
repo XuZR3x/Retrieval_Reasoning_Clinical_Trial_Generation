@@ -1,0 +1,160 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02912345"
+    },
+    "id_info": {
+      "org_study_id": "Study-Cetuximab-Phase2",
+      "nct_id": "NCT02912345"
+    },
+    "brief_title": "Cetuximab in Combination With FOLFIRI for Advanced Colorectal Cancer",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Cetuximab Combined With FOLFIRI in Patients With Advanced Colorectal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+      "textblock": "This study explores the efficacy and safety of cetuximab when combined with FOLFIRI as an initial treatment strategy for patients diagnosed with advanced colorectal cancer. The trial aims to assess objective response rates, progression-free survival, and overall survival while also evaluating treatment tolerability."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\nPrimary\n\n- To evaluate the overall response rate (ORR) of cetuximab in combination with FOLFIRI in patients with advanced colorectal cancer.\n\nSecondary\n\n- To assess progression-free survival (PFS) and overall survival (OS) in the same patient population.\n\n- To monitor adverse effects and their grade according to NCI CTCAE criteria.\n\nOUTLINE: This multicenter, single-arm, open-label study enrolls patients who receive cetuximab in a dose of 400 mg/m² IV for the first dose, followed by 250 mg/m² weekly, concurrently with FOLFIRI regimen administered biweekly.\n\nThe study emphasizes real-time monitoring for dose adjustment based on individual patient tolerance, allowing flexible modifications in the therapy."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2016",
+    "primary_completion_date": "August 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "description": "Evaluated using RECIST v1.1 criteria, based on imaging assessments at 8 weeks.",
+      "time_frame": "8 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "description": "Time from the start of treatment until disease progression or death, whichever occurs first.",
+        "time_frame": "1 year"
+      },
+      {
+        "measure": "Overall Survival",
+        "description": "Time from enrollment until patient's death from any cause.",
+        "time_frame": "1 year"
+      },
+      {
+        "measure": "Adverse Events",
+        "description": "Assessed according to NCI CTCAE version 5.0 for all participants.",
+        "time_frame": "1 year"
+      },
+      {
+        "measure": "Quality of Life",
+        "description": "Evaluated using the EORTC QLQ-C30 questionnaire every 3 months during treatment.",
+        "time_frame": "1 year"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": "Advanced Colorectal Cancer",
+    "arm_group": {
+      "arm_group_label": "Cetuximab and FOLFIRI",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive cetuximab 400 mg/m² IV followed by 250 mg/m² weekly combined with FOLFIRI administered biweekly."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cetuximab",
+        "description": "Cetuximab administered intravenously as specified."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil",
+        "description": "Fluorouracil given as part of the FOLFIRI regimen."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Irinotecan",
+        "description": "Irinotecan given as part of the FOLFIRI regimen."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "Leucovorin given as part of the FOLFIRI regimen."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed advanced colorectal cancer with measurable disease.\n- Previously untreated or had one prior line of therapy.\n- ECOG performance status 0-2 and adequate organ function.\n\nExclusion Criteria:\n\n- Prior treatment with cetuximab or anti-EGFR therapy.\n- Uncontrolled concurrent illnesses.\n- Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Doe J, Roe P, Smith J. Efficacy and Safety of Cetuximab Combined With FOLFIRI in Patients With Advanced Colorectal Cancer. J Clin Oncol. 2020;38(10):1100-1108.",
+      "PMID": "123456789"
+    },
+    "verification_date": "August 2020",
+    "study_first_submitted": "November 12, 2015",
+    "study_first_posted": "November 30, 2015",
+    "last_update_posted": "November 12, 2020",
+    "keyword": [
+      "cetuximab",
+      "advanced colorectal cancer",
+      "FOLFIRI",
+      "OSS",
+      "open-label"
+    ],
+    "condition_browse": {
+      "mesh_term": "Colorectal Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Cetuximab", "Fluorouracil", "Irinotecan", "Leucovorin"]
+    }
+  }
+}
+```

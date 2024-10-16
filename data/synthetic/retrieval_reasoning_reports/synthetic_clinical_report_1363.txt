@@ -1,0 +1,484 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03501972"
+    },
+    "id_info": {
+      "org_study_id": "17842",
+      "secondary_id": ["I3Y-MC-JPCN", "2018-001214-40"],
+      "nct_id": "NCT03501972"
+    },
+    "brief_title": "A Study to Evaluate Abemaciclib (LY2835219) in Patients With Advanced Triple-Negative Breast Cancer",
+    "acronym": "TRIPLE",
+    "official_title": "A Phase 2, Open-Label, Randomized Study of Abemaciclib in Combination With Chemotherapy Versus Chemotherapy Alone in Patients With Advanced Triple-Negative Breast Cancer Who Have Received Prior Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the safety and efficacy of abemaciclib in combination with traditional chemotherapy in advanced stages of triple-negative breast cancer. It primarily focuses on comparing progression-free survival between the two treatment regimens."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 12, 2019",
+    "completion_date": "June 30, 2023",
+    "primary_completion_date": "January 31, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "Yes",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization to date of progression or death from any cause (up to 18 months)",
+      "description": "PFS was defined as the duration from the date of randomization to the date of investigator-assessed disease progression as per RECIST v1.1 or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "From randomization to objective disease progression (up to 18 months)",
+        "description": "The ORR is defined as the percentage of participants achieving a complete or partial response using RECIST v1.1."
+      },
+      {
+        "measure": "Safety Profile: Adverse Events (AEs)",
+        "time_frame": "From baseline until 30 days after the last treatment dose (up to 20 months)",
+        "description": "Incidence and severity of AEs will be recorded, including common toxicities associated with abemaciclib."
+      },
+      {
+        "measure": "Pharmacokinetics (PK) of Abemaciclib",
+        "time_frame": "Cycle 1, Days 1 and 15",
+        "description": "Blood samples to assess the concentration of abemaciclib and its metabolites at specified time points post-dose."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Triple-Negative Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Abemaciclib + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Abemaciclib administered orally at a dose of 150 mg every 12 hours for three weeks in combination with standard chemotherapy."
+      },
+      {
+        "arm_group_label": "Chemotherapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard chemotherapy regimen administered intravenously according to established guidelines."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Abemaciclib",
+        "description": "Administered orally",
+        "arm_group_label": "Abemaciclib + Chemotherapy",
+        "other_name": "LY2835219"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chemotherapy",
+        "description": "Standard chemotherapy regimen",
+        "arm_group_label": "Chemotherapy Alone"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Confirmed diagnosis of advanced (Stage III/IV) triple-negative breast cancer (TNBC).\n- Previously received at least one line of systemic therapy for advanced disease.\n- Measurable disease as defined by RECIST v1.1.\n- ECOG performance status of 0-1.\n- Adequate organ function and no major organ dysfunction.\n- Must be female aged 18 years or older.\n\nExclusion Criteria:\n\n- Previous treatment with a CDK inhibitor or investigational agents within 30 days prior to randomization.\n- Known CNS metastases.\n- History of allergic reactions to abemaciclib or chemotherapy drugs.\n- Significant unresolved toxicity from prior therapies, Grade 3 or higher.\n- Concurrent malignancies, excluding non-invasive squamous cell carcinoma of the skin.",
+        "gender": "Female",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Kimmel Cancer Center",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "M.D. Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "April 2024",
+    "study_first_submitted": "November 3, 2018",
+    "study_first_posted": "November 9, 2018",
+    "results_first_submitted": "February 1, 2021",
+    "results_first_posted": "March 15, 2021",
+    "last_update_posted": "April 20, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Abemaciclib",
+      "Chemotherapy",
+      "Triple-Negative Breast Cancer"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Abemaciclib", "Chemotherapy"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Anonymized patient level data will be shared under approved research proposals.",
+      "ipd_info_type": ["Clinical Study Report", "Study Protocol"],
+      "ipd_time_frame": "Available 6 months post primary publication.",
+      "ipd_access_criteria": "Research proposals must be approved by an independent review board.",
+      "ipd_url": "https://vivli.org/"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Participants were stratified by prior treatment history and randomization was employed.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Chemotherapy",
+              "description": "Received abemaciclib and chemotherapy."
+            },
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Received chemotherapy alone."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": ["100", "100"]}
+                },
+                {
+                  "title": "Received at Least One Dose of Study Drug",
+                  "participants_list": {"participants": ["90", "95"]}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": ["50", "45"]}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": ["50", "55"]}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Chemotherapy",
+              "description": "150 mg Abemaciclib combined with chemotherapy."
+            },
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Standard chemotherapy regimen."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {"count": [90, 95]}
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female",
+              "units": "Participants",
+              "param": "Count"
+            },
+            {
+              "title": "Ethnicity",
+              "units": "Participants",
+              "param": "Count"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Defined as time from randomization to progression as per RECIST v1.1.",
+            "time_frame": "Up to 18 months",
+            "population": "Participants in all groups. Censored: 35 Abemaciclib/ 30 Control.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Abemaciclib + Chemotherapy",
+                  "description": "Received abemaciclib with chemotherapy."
+                },
+                {
+                  "title": "Chemotherapy Alone",
+                  "description": "Standard chemotherapy only."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Median PFS",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": [45, 40]
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["G1", "G2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "Cox proportional hazards model",
+                  "p_value": "0.038"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "Percentage of participants achieving CR or PR.",
+            "time_frame": "Up to 18 months",
+            "population": "Participants with measurable disease.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Abemaciclib + Chemotherapy",
+                  "description": "150 mg Abemaciclib alongside chemotherapy."
+                },
+                {
+                  "title": "Chemotherapy Alone",
+                  "description": "Chemotherapy alone."
+                }
+              ]
+            },
+            "measure": {
+              "title": "ORR",
+              "units": "Percentage",
+              "param": "Number of Participants",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": [20, 18]
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["G1", "G2"]
+                  },
+                  "p_value": "0.065"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Safety Profile: Adverse Events",
+            "description": "Incidence of adverse events as per CTCAE criteria.",
+            "time_frame": "Up to 20 months",
+            "population": "Participants receiving treatment.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Abemaciclib + Chemotherapy",
+                  "description": "Combined therapy group."
+                },
+                {
+                  "title": "Chemotherapy Alone",
+                  "description": "Control group."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Adverse Events",
+              "units": "Count",
+              "param": "Total Events Recorded",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": ["50", "45"]
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["G1", "G2"]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From baseline to end of study",
+        "desc": "All randomized participants who received at least one dose of study drug.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Chemotherapy",
+              "description": "Group receiving abemaciclib in combination."
+            },
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Group receiving chemotherapy alone."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 24.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Total, all-cause mortality",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Severe diarrhea",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Hematologic disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Neutropenia",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Anemia",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 24.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [null, null]
+                  }
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Fatigue",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Weakness",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The sponsor can review results communications prior to public release but cannot require changes."
+      },
+      "point_of_contact": {
+        "name_or_title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "phone": "800-545-5979",
+        "email": "ClinicalTrials.gov@lilly.com"
+      }
+    }
+  }
+}
+```

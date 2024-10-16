@@ -1,0 +1,130 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-2020-00123",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Ixabepilone in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Ixabepilone in Patients With Advanced Non-Small Cell Lung Cancer Previously Treated With Platinum-based Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+      "textblock": "This phase II trial aimed to evaluate the efficacy of ixabepilone in patients diagnosed with advanced non-small cell lung cancer who had experienced progression after platinum-based therapy."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\r\n\r\nI. Assess the efficacy of ixabepilone in patients with advanced non-small cell lung cancer (NSCLC) previously treated with platinum-based chemotherapy by measuring the tumor response rate.\r\nII. Evaluate the safety profile of ixabepilone, including dose-limiting toxicities.\r\n\r\nOUTLINE: This is a multicenter, open-label study. Enrolled patients received ixabepilone IV over 1 hour on days 1, 8, and 15 of a 28-day cycle. Treatment continued in the absence of disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Terminated",
+    "start_date": "March 2020",
+    "completion_date": "August 2022",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Tumor response rate assessed via RECIST criteria",
+      "time_frame": "Up to 24 months",
+      "description": "Tumor responses were categorized as complete response, partial response, stable disease, or progressive disease."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival duration",
+        "time_frame": "From start of treatment until death, up to 24 months",
+        "description": "Survival data was collected and analyzed for patients who exited the study due to progression or toxicity."
+      },
+      {
+        "measure": "Incidence of adverse events classified by NCI CTCAE version 4.0",
+        "time_frame": "Up to 24 months",
+        "description": "All related adverse events were documented and grade severity was assessed throughout the study."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Experimental",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive ixabepilone IV over 1 hour on days 1, 8, and 15 every 28 days."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ixabepilone",
+        "description": "Administered intravenously according to the specified schedule.",
+        "arm_group_label": "Experimental",
+        "other_name": ["Ixempra"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\r\n\r\n- Histologically or cytologically confirmed diagnosis of advanced non-small cell lung cancer.\r\n- Documented progression after at least one line of platinum-based chemotherapy.\r\n- Measurable disease according to RECIST criteria.\r\n- ECOG performance status of 0-2.\r\n- Adequate hematologic and organ function.\r\n\r\nEXCLUSION CRITERIA:\r\n\r\n- Previous treatment with ixabepilone.\r\n- Uncontrolled significant comorbidities.\r\n- Symptomatic brain metastases.\r\n- Known hypersensitivity to ixabepilone or its components."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute (NCI)"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2022",
+    "study_first_submitted": "February 15, 2020",
+    "study_first_posted": "March 1, 2020",
+    "last_update_posted": "September 30, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Ixabepilone"
+    }
+  }
+}
+``` 
+
+### Explanation of Failure:
+
+1. **Pharmacokinetic Limitations**: The trial demonstrated limited systemic exposure to ixabepilone, attributed to its pharmacokinetic properties, which resulted in suboptimal therapeutic responses across the enrolled patient population.
+
+2. **Restrictive Selection Criteria**: The inclusion criteria were overly stringent, which resulted in a low enrollment (30 patients), impairing the study's power to derive significant conclusions regarding safety and efficacy.
+
+3. **Toxicity-Induced Complications**: The safety profile uncovered considerable incidences of adverse effects leading to treatment discontinuations and dose modifications. This diminished the intended therapeutic outcome of ixabepilone when administered to this cohort.
+
+4. **Resistance Factors**: Recruitment strategies did not comprehensively consider pre-existing chemotherapy resistance, significantly impacting the drug's effectiveness in a heavily pre-treated patient group.
+
+5. **Absence of Predictive Biomarkers**: The lack of correlative biomarker analyses meant the study could not adequately identify patient subpopulations which might benefit from ixabepilone therapy, potentially clouding the interpretation of the drug’s efficacy in advanced non-small cell lung cancer.

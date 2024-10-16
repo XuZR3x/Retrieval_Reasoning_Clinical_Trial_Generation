@@ -1,0 +1,455 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on December 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "QUET-001",
+      "secondary_id": "N/A",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Quetiapine in Treating Patients with Treatment-Resistant Major Depressive Disorder",
+    "official_title": "A Double-Blind, Randomized, Placebo-Controlled Trial to Assess the Efficacy of Quetiapine in Patients with Treatment-Resistant Major Depressive Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Mental Health",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Institute of Mental Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of quetiapine in adults diagnosed with treatment-resistant major depressive disorder. The study investigates the effect of quetiapine on primary depressive symptoms as well as associated cognitive and functional impairments."
+    },
+    "detailed_description": {
+      "textblock": "This randomized, double-blind, placebo-controlled study enrolled 150 patients diagnosed with treatment-resistant major depressive disorder (MDD) defined by persistent symptoms despite prior treatment with an adequate trial of antidepressants. The patients received quetiapine extended-release (XR) dosed flexibly from 50 mg to 300 mg per day for 12 weeks, while the control group received matching placebo. Outcome measures included the Montgomery-Asberg Depression Rating Scale (MADRS), Clinical Global Impression-Improvement scale (CGI-I), and assessments of cognitive function and quality of life metrics. The study design emphasizes rigorous monitoring of clinical effects and tolerability through standardized assessment tools."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2015",
+    "completion_date": "April 2017",
+    "primary_completion_date": "January 2017",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in MADRS Total Score",
+      "time_frame": "Baseline to Week 12",
+      "description": "The primary endpoint was defined as the change from baseline to week 12 in the MADRS total score."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "CGI-I Score",
+        "time_frame": "Week 12",
+        "description": "Evaluation of clinical global improvement as scored by the CGI-I."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "Baseline to Week 12",
+        "description": "Assessed using the Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q)."
+      },
+      {
+        "measure": "Cognitive Function",
+        "time_frame": "Baseline to Week 12",
+        "description": "Cognitive performance assessed by the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Major Depressive Disorder, Treatment-Resistant",
+    "arm_group": [
+      {
+        "arm_group_label": "Quetiapine XR Group",
+        "arm_group_type": "Experimental",
+        "description": "Quetiapine extended-release titrated from 50 mg to 300 mg per day."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo administered orally once daily."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Quetiapine XR",
+      "description": "Quetiapine administered as an extended-release formulation with flexible dosing up to 300 mg per day."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Age 18-65 years old\r\n- Diagnosed with treatment-resistant major depressive disorder (MDD)\r\n- Documented failure of at least two prior adequate antidepressant treatments\r\n- Providing informed consent to participate in the study\r\n\r\nExclusion Criteria:\r\n- Current diagnosis of schizophrenia or bipolar disorder\r\n- Unstable medical conditions or serious adverse events leading to hospitalization\r\n- Currently pregnant or breastfeeding\r\n- Substance use disorders that could confound study results"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michelle A. Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Mental Health"
+    },
+    "location": [{
+        "facility": {
+          "name": "National Institute of Mental Health Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "XYZ Hospital Research Center",
+          "address": {
+            "city": "Washington",
+            "state": "D.C.",
+            "zip": "20001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "reference": [],
+    "verification_date": "April 2017",
+    "study_first_submitted": "February 2, 2015",
+    "study_first_submitted_qc": "February 2, 2015",
+    "study_first_posted": "February 5, 2015",
+    "last_update_submitted": "March 20, 2017",
+    "last_update_submitted_qc": "March 20, 2017",
+    "last_update_posted": "March 21, 2017",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Institute of Mental Health",
+      "investigator_full_name": "Michelle A. Thompson",
+      "investigator_title": "MD"
+    },
+    "keyword": [
+      "Major Depressive Disorder",
+      "Quetiapine",
+      "Treatment-Resistant",
+      "Randomized Controlled Trial"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Major Depressive Disorder",
+        "Treatment-Resistant Depression"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Quetiapine"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited through outpatient clinics and mental health facilities from January 2015 to December 2016.",
+        "pre_assignment_details": "Following screening, eligible participants provided informed consent and underwent baseline assessments.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Quetiapine XR",
+              "description": "Participants received quetiapine XR flexibly dosed from 50 to 300 mg."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants received placebo tablets that matched the quetiapine XR."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["Quetiapine XR", "Placebo"]
+                  }
+                },
+                {
+                  "title": "COMPLETED STUDY",
+                  "participants_list": {
+                    "participants": ["Quetiapine XR", "Placebo"]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Quetiapine XR",
+              "description": "Quetiapine XR treatment group."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo control group."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [75, 75]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age, Customized",
+              "units": "Years",
+              "param": "Number",
+              "class_list": {
+                "class": [
+                  {
+                    "title": "18 to 29 years",
+                    "category_list": {"category": {"measurement_list": {"measurement": [0, 0]}}},
+                  },
+                  {
+                    "title": "30 to 49 years",
+                    "category_list": {"category": {"measurement_list": {"measurement": [40, 33]}}},
+                  },
+                  {
+                    "title": "50 years and above",
+                    "category_list": {"category": {"measurement_list": {"measurement": [35, 42]}}},
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {"measurement": [20, 25]}
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {"measurement": [55, 50]}
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in MADRS Total Score",
+            "description": "Reduction in MADRS from baseline to week 12 was statistically significant for the quetiapine group compared to placebo.",
+            "time_frame": "Baseline to Week 12",
+            "population": "All randomized patients.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Quetiapine XR",
+                  "description": "Mean change of -12.5 points on MADRS."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean change of -5.3 points on MADRS."
+                }
+              ]
+            },
+            "measure": {
+              "title": "MADRS Score",
+              "description": "Lower scores indicate improvement.",
+              "units": "Points",
+              "param": "Mean Change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [75, 75]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "CGI-I Score",
+            "description": "Significant improvements were noted in CGI-I ratings favoring quetiapine group over placebo.",
+            "time_frame": "Week 12",
+            "population": "All randomized patients.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Quetiapine XR",
+                  "description": "Mean CGI-I score of 2.1 (Much Improved)."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean CGI-I score of 3.6 (No Change)."
+                }
+              ]
+            },
+            "measure": {
+              "title": "CGI-I Score",
+              "description": "Scale from 1 (Very Much Improved) to 7 (Very Much Worse).",
+              "units": "Points",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [75, 75]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Quality of Life Improvement",
+            "description": "Q-LES-Q scores significantly improved in the quetiapine group compared to placebo.",
+            "time_frame": "Baseline to Week 12",
+            "population": "All randomized patients.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Quetiapine XR",
+                  "description": "Mean Q-LES-Q increase of 20%."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean Q-LES-Q increase of 5%."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Q-LES-Q Percentage Score",
+              "description": "Higher values indicate better quality of life.",
+              "units": "Percentage",
+              "param": "Mean Change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [75, 75]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "12 weeks",
+        "group_list": {
+          "group": {
+            "title": "Quetiapine XR",
+            "description": "Quetiapine XR group experienced 12% of participants with serious adverse events, primarily sedation and dizziness, requiring dose adjustment to enhance tolerability."
+          }
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": 9
+                  }
+                }
+              },
+              {
+                "title": "Psychiatric Disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Increased Suicidal Ideation",
+                      "counts": 2
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": 20
+                  }
+                }
+              },
+              {
+                "title": "Somnolence",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Somnolence as a frequent event",
+                    "counts": 18
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea",
+                    "counts": 12
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The Principal Investigator agrees to collaborate in good faith with the National Institute of Mental Health regarding the content and formation of any publication or disclosure."
+      },
+      "limitations_and_caveats": "The study faced limitations including the exclusion of a control group for cognitive assessments and potential biases due to the subjective nature of patient-reported outcomes."
+    }
+  }
+}
+```

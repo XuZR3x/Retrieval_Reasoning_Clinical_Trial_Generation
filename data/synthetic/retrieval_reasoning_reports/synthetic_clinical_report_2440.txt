@@ -1,0 +1,296 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "BEV-NSCLC-ABC-001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Phase II Study of Bevacizumab in Combination with Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II, Multi-Center, Open-Label Study of Bevacizumab in Combination with a Chemotherapy Regimen in Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Research Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Oncology Research Group",
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and safety of bevacizumab in combination with first-line chemotherapy in patients with previously untreated advanced non-small cell lung cancer (NSCLC). The trial included a regimen of bevacizumab with either docetaxel or cisplatin, administered in a structured schedule across multiple cycles."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center, phase II clinical trial involved patients with confirmed advanced NSCLC who had not received previous chemotherapy. The main objectives were to assess progression-free survival (PFS) and overall survival (OS).\n\nPatients received bevacizumab at a dose of 15 mg/kg every three weeks in conjunction with either 75 mg/m² of docetaxel or 75 mg/m² of cisplatin, administered on Day 1 of each 3-week cycle. The treatment continued for a maximum of six cycles, followed by maintenance treatment with bevacizumab until progression or intolerable toxicity.\n\nThe study ensured that patients were stratified based on the methylation status of the MGMT promoter to target the cohort most likely to benefit from the treatment, with particular emphasis on enrolling patients with unmethylated MGMT status. Radiographic assessments were conducted based on RECIST criteria to evaluate tumor response to treatment."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2010",
+    "completion_date": "December 2014",
+    "primary_completion_date": "April 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From the date of participant enrollment to disease progression or death (up to 5 years)",
+      "description": "PFS was defined as the time from enrollment to the first documented progression of disease or death from any cause, as determined by RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From the date of enrollment until death from any cause (up to 5 years)",
+        "description": "OS was defined as the time from enrollment to death from any cause, with participants alive at the last follow-up being censored."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From enrollment to the end of treatment assessment (up to 5 years)",
+        "description": "The ORR was assessed as the proportion of participants achieving a complete or partial response, as per RECIST criteria."
+      },
+      {
+        "measure": "Duration of Response",
+        "time_frame": "From the date of first documented response to the first documented disease progression or death (up to 5 years)",
+        "description": "This measure recorded the time from the first validated complete or partial response until disease progression or death."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Throughout the study and up to 30 days post-treatment",
+        "description": "Adverse events were monitored, classified, and graded according to CTCAE v4.0, allowing comprehensive analysis of treatment-related toxicities."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "100",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Bevacizumab + Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Participants received bevacizumab in combination with either docetaxel or cisplatin as first-line therapy for advanced NSCLC, with continuous administration of bevacizumab until progression."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bevacizumab",
+        "description": "Administered intravenously at a dose of 15 mg/kg every 3 weeks.",
+        "arm_group_label": "Bevacizumab + Chemotherapy",
+        "other_name": "Avastin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Administered intravenously at a dose of 75 mg/m² at the beginning of each treatment cycle (Day 1).",
+        "arm_group_label": "Bevacizumab + Chemotherapy",
+        "other_name": "Taxotere"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Administered intravenously at a dose of 75 mg/m² at the beginning of each treatment cycle (Day 1).",
+        "arm_group_label": "Bevacizumab + Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n\n1. Adult patients aged ≥ 18 years with histologically or cytologically confirmed advanced NSCLC (Stage IIIB or IV) without prior chemotherapy.\n\n2. Patients must demonstrate good performance status (ECOG 0-1) and have a life expectancy of at least 12 weeks.\n\n3. Unmethylated MGMT promoter status must be confirmed prior to assignment to treatment.\n\n4. Adequate organ function: WBC ≥ 3,000/µL, ANC ≥ 1,500/mm³, Platelet count ≥ 100,000/mm³, Bilirubin < 1.5 mg/dL, ALT/AST ≤ 2.5 x ULN, Creatinine ≤ 1.5 mg/dL.\n\nEXCLUSION CRITERIA:\n\n1. Previous treatment for any other cancer, except for non-melanoma skin cancer or carcinoma in situ of the cervix.\n\n2. Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to study participation.\n\n3. History of uncontrolled hypertension or cardiovascular disease.\n\n4. Pregnant or nursing women.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "Global Oncology Research Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "General Hospital",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metropolitan Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "LifeCare Oncology Institute",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2014",
+    "study_first_submitted": "January 12, 2010",
+    "study_first_posted": "January 15, 2010",
+    "results_first_submitted": "January 10, 2015",
+    "results_first_posted": "January 15, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Lung Neoplasms",
+        "Carcinoma, Non-Small-Cell Lung"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Bevacizumab",
+        "Docetaxel",
+        "Cisplatin"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Among 125 screened patients, 100 were enrolled based on eligibility criteria. Participants received at least one dose of bevacizumab in combination with chemotherapy.",
+        "group_list": {
+          "group": {
+            "title": "Bevacizumab + Chemotherapy",
+            "description": "Participants received bevacizumab in combination with either docetaxel or cisplatin."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "TREATED",
+                  "participants_list": {
+                    "participants": "100 patients received treatment."
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Disease Progression",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Bevacizumab + Chemotherapy",
+              "description": "Participants received bevacizumab with chemotherapeutic agents."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "Years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

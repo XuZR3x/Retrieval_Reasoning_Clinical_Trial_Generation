@@ -1,0 +1,394 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03229969"
+    },
+    "id_info": {
+      "org_study_id": "Erlotinib-PV-2023",
+      "nct_id": "NCT03229969"
+    },
+    "brief_title": "Erlotinib in Patients With JAK2V617F Positive Polycythemia Vera: A Phase II Study",
+    "official_title": "A Phase II Study of Erlotinib for the Treatment of JAK2V617F Positive Polycythemia Vera",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ University",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "ABC Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the effectiveness and safety of erlotinib in patients diagnosed with polycythemia vera (PV) characterized by the presence of the JAK2V617F mutation. This study sought to explore the potential of erlotinib in improving hematological and molecular responses in a patient population unresponsive to conventional therapies."
+    },
+    "detailed_description": {
+      "textblock": "This phase II interventional study was an open-label, single-arm trial involving patients diagnosed with JAK2V617F-positive polycythemia vera. Patients were administered an oral dose of erlotinib at 150 mg daily for a proposed duration of 16 weeks, with the possibility of continuation based on response. Primary endpoints assessed through complete blood count and molecular analysis aimed to evaluate overall response rates. However, the study faced significant challenges, including inadequate efficacy in the target demographic, where response rates were found to be below expectations compared to established conventional treatments."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to insufficient efficacy and high rates of adverse events related to erlotinib, leading to diminished patient enrollment and retention.",
+    "start_date": "August 2017",
+    "completion_date": "April 2020",
+    "primary_completion_date": "October 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate as Defined by Complete and Partial Hematological Response",
+      "time_frame": "Day 15 and then every 28 days until the end of the treatment period",
+      "description": "The overall response rate was based on achieving complete or partial hematological response determined by predefined criteria, including hemoglobin levels, platelet counts, and leukocyte counts."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Ongoing through the treatment duration",
+        "description": "Adverse events were monitored in accordance with CTCAE v4.03, focusing on grade 3 or higher toxicities that affected the patient's quality of life and treatment compliance."
+      },
+      {
+        "measure": "Change in Size of the Spleen",
+        "time_frame": "Measured at baseline, 4 months, and at end of treatment period",
+        "description": "Assessment of splenomegaly was performed using imaging techniques to quantify changes in spleen size as a response to erlotinib treatment."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Polycythemia Vera",
+    "arm_group": {
+      "arm_group_label": "Erlotinib Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients received erlotinib 150 mg orally once daily for a maximum of 16 weeks with follow-up assessment for treatment efficacy and side effect monitoring."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Erlotinib",
+      "description": "Patients received an oral dosage of erlotinib, 150 mg daily, continuously for a duration of up to 16 weeks, contingent on their clinical response and tolerability.",
+      "arm_group_label": "Erlotinib Treatment Group",
+      "other_name": ["Tarceva", "OSI-744"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Confirmed diagnosis of polycythemia vera with JAK2V617F mutation.\r\n  - Adults aged 18 years and above.\r\n  - ECOG performance status of 0-2.\r\n  - Adequate hepatic and renal function.\r\n\r\nExclusion Criteria:\r\n\r\n  - Previous treatment with erlotinib or any other anti-cancer therapy within 4 weeks prior to enrollment.\r\n  - History of active malignancy or significant comorbidities affecting study participation.\r\n  - Concurrent cytoreductive therapy not permitted."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "99 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ University"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ University Medical Center",
+        "address": {
+          "city": "Cityville",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "August 1, 2017",
+    "study_first_submitted_qc": "August 1, 2017",
+    "study_first_posted": "August 15, 2017",
+    "results_first_submitted": "May 1, 2020",
+    "results_first_submitted_qc": "May 1, 2020",
+    "results_first_posted": "May 15, 2020",
+    "last_update_submitted": "August 15, 2023",
+    "last_update_submitted_qc": "August 15, 2023",
+    "last_update_posted": "August 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Polycythemia Vera", "Hemoglobin Disorders"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Erlotinib Hydrochloride"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial began with the intention to enroll 40 participants but was terminated early due to inadequate recruitment; only 15 patients completed the study protocol.",
+        "pre_assignment_details": "Patients screened for inclusion criteria with confirmed JAK2V617F mutation were consented.",
+        "group_list": {
+          "group": {
+            "title": "Erlotinib Treatment Group",
+            "description": "All participants received a daily dose of 150 mg erlotinib for a duration of 16 weeks."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Lack of Efficacy",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Adverse Events",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "population": "Patients diagnosed with JAK2V617F-positive polycythemia vera",
+          "group_list": {
+            "group": {
+              "title": "+JAK2V61F Mutation",
+              "description": "Patients who have polycythemia vera with the confirmed JAK2V617F mutation."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Response Rate (Complete and Partial Hematological Response)",
+              "time_frame": "Day 15 following treatment initiation",
+              "description": "Overall response rates assessed via complete blood counts indicating improvement in hematological parameters.",
+              "group_list": {
+                "group": {
+                  "title": "Erlotinib Treatment Group",
+                  "description": "Participants treated with erlotinib for 16 weeks."
+                }
+              },
+              "measure": {
+                "title": "Overall Response Rate",
+                "description": "Percentage of participants achieving complete or partial hematological responses.",
+                "units": "percentage of participants",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Incidence of Adverse Events (CTCAE v4.03)",
+              "time_frame": "Throughout the treatment course",
+              "description": "Total number of grade 3 and 4 adverse events experienced by participants.",
+              "population": "All participants"
+            },
+            {
+              "type": "Secondary",
+              "title": "Improvement in Splenomegaly Size",
+              "time_frame": "At baseline, 4 months, and end of treatment",
+              "description": "Assessment of spleen size reduction via imaging techniques."
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "From initiation of treatment until 30 days post last dose.",
+          "group_list": {
+            "group": {
+              "title": "Erlotinib Treatment Group",
+              "description": "Patients received the erlotinib regimen."
+            },
+            "serious_events": {
+              "default_vocab": "MedDRA (23.0)",
+              "default_assessment": "Non-systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total Serious Adverse Events",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total, serious adverse events observed",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "Gastrointestinal Disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Grade 3 colitis",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "Skin and Subcutaneous Tissue Disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Grade 2 facial rash",
+                        "counts": null
+                      }
+                    }
+                  }
+                ]
+              },
+              "other_events": {
+                "frequency_threshold": "0",
+                "default_vocab": "MedDRA (23.0)",
+                "default_assessment": "Systematic Assessment",
+                "category_list": {
+                  "category": [
+                    {
+                      "title": "Total Other Adverse Events",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Total, adverse events recorded",
+                          "counts": null
+                        }
+                      }
+                    },
+                    {
+                      "title": "Gastrointestinal Disorders",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Grade 1-2 diarrhea",
+                          "counts": null
+                        }
+                      }
+                    },
+                    {
+                      "title": "Skin and Subcutaneous Tissue Disorders",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Rash",
+                          "counts": null
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "certain_agreements": {
+            "pi_employee": "Principal Investigators are NOT employed by the sponsoring organization.",
+            "restrictive_agreement": "There is no agreement that limits the Principal Investigators' rights to publish trial results following study completion."
+          },
+          "point_of_contact": {
+            "name_or_title": "Clinical Trials Coordinator",
+            "organization": "XYZ University",
+            "phone": "123-456-7890",
+            "email": "trials.xyz@xyzu.edu"
+          }
+        }
+      }
+    }
+  }
+}
+```

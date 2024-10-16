@@ -1,0 +1,141 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02011359"
+    },
+    "id_info": {
+      "org_study_id": "CABAZITAXEL-MCRPC-2031",
+      "nct_id": "NCT02011359"
+    },
+    "brief_title": "Efficacy of Cabazitaxel in Patients with Metastatic Castration-Resistant Prostate Cancer",
+    "official_title": "A Phase II Multicenter Study Evaluating the Efficacy and Safety of Cabazitaxel in Patients with Metastatic Castration-Resistant Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Govt"
+      },
+      "collaborator": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II trial assesses the safety and efficacy of cabazitaxel in patients with metastatic castration-resistant prostate cancer (mCRPC). Over the course of treatment, the study aims to evaluate progression-free survival (PFS) and overall survival (OS) as primary outcomes, along with safety assessments."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To determine the effect of cabazitaxel on progression-free survival (PFS) in patients with previously treated mCRPC.\n\nII. To evaluate the overall survival (OS) in the same patient population.\n\nIII. To assess the safety and tolerability of cabazitaxel treatment in this clinical setting.\n\nSTUDY DESIGN: This is a multicenter, open-label, single-arm phase II study. A total of 200 patients with mCRPC, who have experienced disease progression after one or more lines of androgen-deprivation therapy, will be enrolled based on specific inclusion criteria. The treatment regimen includes cabazitaxel administered at a dose of 25 mg/m^2 I.V. every three weeks."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 15, 2014",
+    "completion_date": "January 30, 2019",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase II",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From the first dose until progression or death due to any cause, assessed up to 2 years.",
+      "description": "PFS is defined as the duration from the initiation of treatment until disease progression or death."
+    }],
+    "secondary_outcome": [{
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From the date of treatment initiation until the date of death, assessed up to 2 years.",
+      "description": "OS is defined as the time from study enrollment until death from any cause."
+    }, {
+      "measure": "Safety and Tolerability Assessments",
+      "time_frame": "Throughout the study duration, at each visit for up to 2 years.",
+      "description": "Adverse events and laboratory abnormalities will be routinely documented and graded according to CTCAE criteria."
+    }, {
+      "measure": "PSA Response Rate",
+      "time_frame": "At baseline and every 6 weeks until progression, up to 2 years.",
+      "description": "PSA response is defined as a decline of at least 50% from baseline PSA levels."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "200",
+    "condition": "Metastatic Castration-Resistant Prostate Cancer",
+    "arm_group": {
+      "arm_group_label": "Cabazitaxel Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive cabazitaxel 25 mg/m^2 as an intravenous infusion every three weeks."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Cabazitaxel",
+      "description": "Administered as a 25 mg/m^2 intravenous infusion every 21 days.",
+      "arm_group_label": "Cabazitaxel Treatment Group",
+      "other_name": ["Jevtana", "Taxoid XRP6258"]
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Histologically confirmed adenocarcinoma of the prostate.\n2. Documented evidence of metastatic disease.\n3. Patients must be castration-resistant with a testosterone level of <50 ng/dL.\n4. Must have received at least one prior line of androgen deprivation therapy.\n5. ECOG performance status of 0-2.\n6. Adequate organ function as defined by laboratory values.\n\nExclusion Criteria:\n\n1. Prior treatment with cabazitaxel.\n2. Active second malignancy within the last 5 years (excluding treated basal cell carcinoma).\n3. Significant cardiovascular disease (NYHA Class III or IV).\n4. Uncontrolled intercurrent illness, including infections or psychiatric illness.\n5. Peripheral neuropathy > Grade 2."
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Johns Hopkins University",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Memorial Sloan Kettering Cancer Center",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "UCLA Medical Center",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2019",
+    "study_first_submitted": "December 5, 2013",
+    "study_first_posted": "December 10, 2013",
+    "last_update_posted": "February 1, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "party_title": "National Cancer Institute"
+    },
+    "keyword": ["mCRPC", "cabazitaxel", "oncology", "chemotherapy"]
+  }
+}
+```

@@ -1,0 +1,142 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03012345"
+    },
+    "id_info": {
+      "org_study_id": "IRINO-ESOPH-2023",
+      "nct_id": "NCT03012345"
+    },
+    "brief_title": "Combination Therapy with Irinotecan, Carboplatin, and Targeted Agents in Patients with Advanced Esophageal Cancer",
+    "official_title": "A Phase II Study Evaluating the Efficacy of Irinotecan and Carboplatin Combined with Targeted Therapy in Advanced Esophageal Cancer Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Research Group",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pharma Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Oncology Research Group",
+    "brief_summary": {
+      "textblock": "This multicenter, single-arm Phase II trial is designed to assess the efficacy of a combination regimen of irinotecan, carboplatin, and targeted agents in patients with advanced esophageal cancer. The primary aim is to evaluate overall survival and response rates, utilizing rigorous eligibility criteria and monitoring comprehensive endpoints."
+    },
+    "detailed_description": {
+      "textblock": "The proposed study will enroll patients with histologically confirmed advanced esophageal cancer who have not received prior chemotherapy. Subjects will receive 6 cycles of combination therapy comprising irinotecan (180 mg/m²), carboplatin (AUC=5), and a targeted agent (sunitinib 50 mg daily) starting from day 1 of each 21-day cycle. Following 6 cycles, patients will continue with sunitinib until progression or intolerable toxicity.\n\nThe structured treatment pathway and rigorous eligibility criteria, including the assessment of performance status and organ function, aim to create a patient population optimized for treatment response. The trial's endpoints include overall survival, progression-free survival, objective response rate, and quality of life assessments."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2018",
+    "completion_date": "February 15, 2023",
+    "primary_completion_date": "November 30, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall survival time from treatment initiation",
+      "time_frame": "Through 24 months"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival",
+        "time_frame": "Through 24 months"
+      },
+      {
+        "measure": "Objective response rate",
+        "time_frame": "Through completion of treatment (Duration of 6 cycles)"
+      },
+      {
+        "measure": "Quality of life based on EORTC QLQ-C30",
+        "time_frame": "Every 3 months until death or end of study"
+      }
+    ],
+    "enrollment": "75",
+    "condition": "Esophageal Cancer",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "irinotecan"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "carboplatin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "sunitinib"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed esophageal cancer, stage IIIC-IV.\n- Age ≥ 18 years.\n- Measurable or evaluable disease.\n- ECOG performance status 0-1.\n- Adequate organ function:\n  - Hemoglobin ≥ 10 g/dL\n  - Platelet count ≥ 100,000/mm³\n  - Creatinine ≤ 1.5 x IULN.\n\nExclusion Criteria:\n- Previous chemotherapy or radiotherapy for the current malignant diagnosis.\n- Presence of brain metastases or other uncontrolled malignancies.\n- Major surgery within 4 weeks prior to enrollment.\n- Uncontrolled comorbidities or significant medical conditions affecting treatment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John A. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Oncology Research Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital Oncology Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metropolitan Cancer Institute",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Smith JA, Johnson PE, Rodriguez M, et al. Phase II study of irinotecan and carboplatin with targeted therapy in advanced esophageal cancer. Cancer Chemother Pharmacol. 2023 Mar;91(6):1347-1355. doi: 10.1007/s00280-023-05234-1.",
+      "PMID": "35767841"
+    },
+    "verification_date": "May 2023",
+    "study_first_submitted": "January 10, 2017",
+    "study_first_posted": "February 15, 2017",
+    "last_update_posted": "March 5, 2023",
+    "keyword": [
+      "Irinotecan",
+      "Esophageal Cancer",
+      "Carboplatin",
+      "Targeted Therapy",
+      "Sunitinib"
+    ],
+    "condition_browse": {
+      "mesh_term": [ "Neoplasms", "Esophageal Neoplasms", "Cancers" ]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Irinotecan", "Sunitinib", "Carboplatin"]
+    }
+  }
+}
+```

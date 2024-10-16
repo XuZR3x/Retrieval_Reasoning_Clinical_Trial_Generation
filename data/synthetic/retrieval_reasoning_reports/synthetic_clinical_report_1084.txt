@@ -1,0 +1,111 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2024-RAM-912",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Phase 3 Study to Assess the Efficacy and Safety of Ramelteon in Patients with Co-Morbid Insomnia and Major Depressive Disorder",
+    "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Ramelteon in Treating Insomnia in Subjects with Major Depressive Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Solutions",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Solutions",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of ramelteon in managing sleep disturbances in patients diagnosed with major depressive disorder and insomnia."
+    },
+    "detailed_description": {
+      "textblock": "Major depressive disorder is often associated with significant sleep disturbances, including difficulties in sleep onset, maintenance, and overall sleep quality. Traditional treatments for depression have limited efficacy in addressing concomitant sleep issues, thus necessitating the investigation of adjunctive interventions like ramelteon, a selective melatonin receptor agonist. Given the complexities of managing both insomnia and depression, our study aimed to elucidate the impact of ramelteon on sleep quality while concurrently examining its effects on depressive symptoms.\n\nConsidering the pharmacological intricacies and individual variability in response to ramelteon, we posited that while it would provide significant improvement in sleep metrics, the overarching depressive patterns might not show commensurate improvements due to confounding factors including pharmacodynamic properties and coexisting medical conditions."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient enrollment despite extensive recruitment efforts and significant interest.",
+    "start_date": "March 2018",
+    "completion_date": "September 2020",
+    "primary_completion_date": "September 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Pittsburgh Sleep Quality Index (PSQI) score from baseline to endpoint",
+      "time_frame": "8 weeks"
+    },
+    "secondary_outcome": {
+      "measure": "Change in Hamilton Depression Rating Scale (HDRS) score from baseline to endpoint",
+      "time_frame": "8 weeks"
+    },
+    "number_of_arms": "2",
+    "enrollment": "20",
+    "condition": "Major Depressive Disorder with Insomnia",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Ramelteon 8 mg PO QHS"
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo PO QHS"
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Ramelteon",
+      "description": "Ramelteon 8 mg orally at bedtime for a period of 8 weeks.",
+      "arm_group_label": ["1", "2"],
+      "other_name": "Rozerem"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18-65 with a confirmed diagnosis of major depressive disorder (MDD) per DSM-5 criteria.\n- Reports of sleep disturbances at least three times per week for the preceding month.\n- Willingness and ability to give informed consent and adhere to protocol. \n\nExclusion Criteria:\n\n- History of substance abuse or current psychoactive medication that could interfere with sleep.\n- Uncontrolled medical conditions that may affect sleep or depression outcomes.\n- History of hypersensitivity to melatonin or related compounds.\n- Current suicidal ideation or behavior.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John H. Stroud, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Solutions"
+    },
+    "location": {
+      "facility": {"name": "Acme Clinical Trials Facility", "address": {"city": "Los Angeles", "state": "California", "zip": "90001", "country": "United States"}}
+    },
+    "location_countries": {"country": "United States"},
+    "verification_date": "July 2021",
+    "study_first_submitted": "January 5, 2018",
+    "study_first_submitted_qc": "January 6, 2018",
+    "study_first_posted": "January 10, 2018",
+    "last_update_submitted": "April 15, 2021",
+    "last_update_submitted_qc": "April 15, 2021",
+    "last_update_posted": "April 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Health Solutions",
+      "investigator_full_name": "John H. Stroud, MD"
+    },
+    "keyword": ["Ramelteon", "Major Depressive Disorder", "Insomnia", "Sleep Disturbance"],
+    "condition_browse": {
+      "mesh_term": ["Depression", "Sleep Initiation and Maintenance Disorders"]
+    }
+  }
+}
+```

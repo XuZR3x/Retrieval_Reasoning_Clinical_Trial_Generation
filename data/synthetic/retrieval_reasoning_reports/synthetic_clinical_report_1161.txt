@@ -1,0 +1,159 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT02512345"
+    },
+    "id_info": {
+        "org_study_id": "ABC-123",
+        "secondary_id": ["ABC-123-PA", "NCI_ABC123"],
+        "nct_id": "NCT02512345"
+    },
+    "brief_title": "Efficacy of Bicalutamide in Combination with LHRH Analogues and Radiation Therapy for High-Risk Locally Advanced Prostate Cancer",
+    "official_title": "A Phase III Trial to Evaluate the Efficacy and Safety of Bicalutamide plus LHRH Analogues and Radiation Therapy in Patients with High-Risk Locally Advanced Prostate Cancer",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "University of Oncology Research",
+            "agency_class": "Academic"
+        },
+        "collaborator": {
+            "agency": "National Cancer Institute (NCI)",
+            "agency_class": "NIH"
+        }
+    },
+    "source": "University of Oncology Research",
+    "oversight_info": {
+        "has_dmc": "Yes"
+    },
+    "brief_summary": {
+        "textblock": "RATIONALE: Combining bicalutamide, an antiandrogen agent, with LHRH analogues and radiation therapy offers a comprehensive treatment strategy that may enhance the therapeutic efficacy by mitigating androgen-mediated stimulation in prostate cancer cells. Improved androgenic control is expected to promote superior clinical outcomes in terms of survival and disease control.\r\n\r\nPURPOSE: This randomized phase III trial aims to assess the overall survival, disease progression, and quality of life in patients with high-risk locally advanced prostate cancer receiving treatment with bicalutamide in combination with LHRH analogues and localized radiation therapy."
+    },
+    "detailed_description": {
+        "textblock": "OBJECTIVES:\r\n\r\nI. To compare the overall survival rates between patients receiving bicalutamide combined with LHRH analogues and radiation therapy versus those receiving conventional treatment alone.\r\n\r\nII. To evaluate the disease-specific survival and time to progression in both treatment arms of high-risk locally advanced prostate cancer patients.\r\n\r\nIII. To assess the safety profile and adverse events associated with bicalutamide therapy in the context of combined modalities.\r\n\r\nIV. To monitor quality of life variations using standardized measurement tools throughout the treatment continuum.\r\n\r\nOUTLINE: This multicenter, randomized controlled trial enrolls patients with clinical stage T3-T4 prostate cancer. Participants are stratified based on risk factors, prior treatment, and clinical staging.\r\n\r\nARM I: Patients receive bicalutamide at 150 mg orally daily for 12 months, combined with LHRH agonists (e.g., leuprolide or goserelin) and radiation therapy.\r\n\r\nARM II: Patients receive LHRH agonists and radiation therapy, without the incorporation of bicalutamide. Both groups will be monitored for treatment outcomes, including progression-free survival and overall well-being."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 15, 2015",
+    "completion_date": "December 10, 2023",
+    "primary_completion_date": "August 30, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+        "measure": "Overall Survival at 5 Years",
+        "time_frame": "5 years post-treatment initiation",
+        "description": "Overall survival rates will be evaluated using Kaplan-Meier estimations, including assessment of hazard ratios for comparative efficacy between treatment arms."
+    },
+    "secondary_outcome": [
+        {
+            "measure": "Disease-Free Survival at 5 Years",
+            "time_frame": "5 years post-treatment initiation",
+            "description": "Disease-free survival will be assessed for both groups, with an emphasis on the metrics associated with recurrence rates."
+        },
+        {
+            "measure": "Quality of Life Assessment",
+            "time_frame": "At baseline, 6 months, 12 months, and annually thereafter",
+            "description": "Quality of life will be quantified using the EORTC QLQ-C30 and FACT-P questionnaires to determine the impact of treatment on patients' well-being."
+        },
+        {
+            "measure": "Rate of Adverse Events",
+            "time_frame": "Throughout the treatment duration and follow-up",
+            "description": "The frequency and severity of adverse events will be monitored as per CTCAE criteria to capture the safety profile of bicalutamide across the study duration."
+        }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1200",
+    "condition": "Prostate Cancer",
+    "arm_group": [
+        {
+            "arm_group_label": "Bicalutamide + LHRH Analogues + Radiation Therapy",
+            "arm_group_type": "Experimental",
+            "description": "Patients receive bicalutamide (150 mg daily) together with LHRH analogues and radiation therapy"
+        },
+        {
+            "arm_group_label": "LHRH Analogues + Radiation Therapy Only",
+            "arm_group_type": "Active Comparator",
+            "description": "Patients receive LHRH analogues and radiation therapy without bicalutamide"
+        }
+    ],
+    "intervention": [
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "bicalutamide",
+            "description": "150 mg orally once daily for 12 months",
+            "arm_group_label": ["Bicalutamide + LHRH Analogues + Radiation Therapy"]
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "LHRH Analogues",
+            "description": "Leuprolide or goserelin administered per clinical necessity",
+            "arm_group_label": ["Bicalutamide + LHRH Analogues + Radiation Therapy", "LHRH Analogues + Radiation Therapy Only"]
+        },
+        {
+            "intervention_type": "Radiation",
+            "intervention_name": "Radiation Therapy",
+            "description": "Radiation delivered to the prostate and surrounding tissues over six weeks",
+            "arm_group_label": ["Bicalutamide + LHRH Analogues + Radiation Therapy", "LHRH Analogues + Radiation Therapy Only"]
+        }
+    ],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\r\n\r\n- Male patients aged 18-75 with histologically confirmed diagnosis of high-risk locally advanced prostate cancer (T3-T4).\r\n- Must have an initial PSA level above 20 ng/mL.\r\n- Patients must have a Karnofsky performance status of 70% or better.\r\n- No prior treatment for prostate cancer, including surgery, radiation or hormonal therapy.\r\n- Normal organ function and the ability to comply with study requirements.\r\n\r\nExclusion Criteria:\r\n\r\n- Presence of significant comorbid conditions that might interfere with therapy or survival.\r\n- History of other malignancies within the last 5 years, except nonmelanoma skin cancer.\r\n- Concurrent use of investigational drugs or treatments not outlined in the protocol.\r\n- Mental or psychiatric conditions that might affect informed consent or compliance."
+        },
+        "gender": "Male",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Dr. John Doe",
+        "role": "Principal Investigator",
+        "affiliation": "University of Oncology Research"
+    },
+    "location": {
+        "facility": {
+            "name": "University of Oncology Research Cancer Center",
+            "address": {
+                "city": "Cityville",
+                "state": "State",
+                "zip": "12345",
+                "country": "United States"
+            }
+        }
+    },
+    "location_countries": {
+        "country": "United States"
+    },
+    "results_reference": {
+        "citation": "Doe J, Smith A, Johnson B, et al. Efficacy of Bicalutamide in Combination with LHRH Analogues and Radiation for Prostate Cancer. J Clin Oncol. 2024; DOIs: 10.1200/JCO.2023.045678.",
+        "PMID": "12345678"
+    },
+    "verification_date": "April 2024",
+    "study_first_submitted": "June 1, 2014",
+    "study_first_posted": "June 15, 2014",
+    "last_update_posted": "April 15, 2024",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+        "Prostate Cancer",
+        "Bicalutamide",
+        "Androgen Deprivation Therapy",
+        "Radiation Therapy",
+        "LHRH Analogues"
+    ],
+    "condition_browse": {
+        "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+        "mesh_term": ["Bicalutamide", "LHRH Agonists", "Radiation Therapy"]
+    },
+    "patient_data": {
+        "sharing_ipd": "No"
+    }
+}}

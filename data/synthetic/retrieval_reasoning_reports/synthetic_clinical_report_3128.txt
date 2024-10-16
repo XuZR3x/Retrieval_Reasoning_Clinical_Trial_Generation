@@ -1,0 +1,302 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02564230"
+    },
+    "id_info": {
+      "org_study_id": "CTKI258A1710",
+      "secondary_id": "2020-001159-12",
+      "nct_id": "NCT02564230"
+    },
+    "brief_title": "Evaluating Dovitinib in Patients With Advanced Solid Tumors",
+    "official_title": "A Multicenter, Open-label, Phase II Study of Dovitinib in Patients With Advanced Solid Tumors and Evidence of Progression After Standard Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novartis Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novartis",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to investigate the efficacy and safety of Dovitinib in patients with advanced solid tumors who have demonstrated progression after standard therapies."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient efficacy and safety concerns.",
+    "start_date": "September 2015",
+    "completion_date": "March 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Measured every 8 weeks up to 2 years",
+      "description": "PFS was defined as the duration from the date of the first dose of dovitinib until the date of disease progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Assessed every 8 weeks up to 2 years",
+        "description": "ORR defined as the proportion of participants achieving a complete response (CR) or partial response (PR) based on RECIST v1.1."
+      },
+      {
+        "measure": "Safety Profile: Incidence of Adverse Events",
+        "time_frame": "Monitored continuously for Adverse Events for 2 years",
+        "description": "The frequency and severity of adverse events were documented according to the Common Terminology Criteria for Adverse Events (CTCAE)."
+      },
+      {
+        "measure": "Biomarkers Analysis",
+        "time_frame": "Collected at baseline and every 3 months for 2 years",
+        "description": "Correlations between treatment efficacy and serum biomarkers were evaluated before and after administration of dovitinib."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "45",
+    "condition": ["Advanced Solid Tumors"],
+    "arm_group": {
+      "arm_group_label": "Dovitinib Treatment",
+      "arm_group_type": "Experimental",
+      "description": "Dovitinib administered at a dose of 500 mg orally daily for 5 days a week, followed by 2 days off"
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Dovitinib",
+      "description": "500 mg of Dovitinib taken orally for 5 days a week on a 7-day cycle, with treatment continued for up to 2 years or until disease progression or unacceptable toxicity occurs.",
+      "arm_group_label": "Dovitinib Treatment",
+      "other_name": "TKI258"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adult patients aged 18 years or older with advanced solid tumors (breast, colorectal, lung, or other specified) with measurable disease per RECIST v1.1.\n- Disease has progressed after at least one line of standard chemotherapy.\n- Adequate hematological, liver, and renal function.\n\nExclusion Criteria:\n- Participants with known central nervous system metastases or active malignancies other than the one under investigation.\n- Prior treatment with dovitinib.\n- Significant cardiac history or instability.\n- Pregnant and lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Study Director",
+      "role": "Study Director",
+      "affiliation": "Novartis Pharmaceuticals"
+    },
+    "location": [{
+        "facility": {
+          "name": "Georgetown University Hospital",
+          "address": {
+            "city": "Washington",
+            "state": "District of Columbia",
+            "zip": "20007",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of Miami Sylvester Comprehensive Cancer Center",
+          "address": {
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33136",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "February 2018",
+    "study_first_submitted": "September 1, 2015",
+    "study_first_submitted_qc": "September 15, 2015",
+    "study_first_posted": "September 20, 2015",
+    "results_first_submitted": "March 1, 2018",
+    "results_first_submitted_qc": "April 10, 2018",
+    "results_first_posted": "May 5, 2018",
+    "last_update_submitted": "April 10, 2018",
+    "last_update_submitted_qc": "April 10, 2018",
+    "last_update_posted": "May 5, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Dovitinib", "Advanced Solid Tumors", "Progressive Disease", "Treatment"],
+    "condition_browse": {
+      "mesh_term": ["Solid Tumors"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Dovitinib Treatment",
+            "description": "Dovitinib administered at a dose of 500 mg orally daily for 5 days a week, followed by 2 days off."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [45, 0]
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": [0, 45]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [{
+              "title": "Adverse Event",
+              "participants_list": {
+                "participants": [0, null]
+              }
+            },
+            {
+              "title": "Lack of Efficacy",
+              "participants_list": {
+                "participants": [0, null]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Full Analysis Set (FAS): Consisted of all patients who enrolled in the study.",
+        "group_list": {
+          "group": {
+            "title": "Dovitinib",
+            "description": "Dovitinib administered at a total daily dose."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [45]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": [null]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Female",
+                        "measurement_list": [null]
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": [null]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Observed in weeks from the initiation of treatment to progression events.",
+            "time_frame": "2 years",
+            "population": "Intended Primary Analysis Population.",
+            "group_list": {
+              "group": {
+                "title": "Dovitinib Treatment",
+                "description": "Continuation for up to 2 years or until progression."
+              }
+            },
+            "measure": {
+              "title": "Progression-Free Survival (PFS)",
+              "description": "Measured from the date of the first administration of dovitinib.",
+              "units": "Days",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Safety Profile: Grade 3/4 Adverse Events",
+            "description": "Monitoring of serious and non-serious adverse events through treatment duration.",
+            "time_frame": "2 years",
+            "population": "Participants receiving treatment.",
+            "group_list": {
+              "group": {
+                "title": "Dovitinib Treatment",
+                "description": "Sustained monitoring for safety parameters."
+              }
+            },
+            "measure": {
+              "title": "Safety Profile: Incidence of Adverse Events",
+              "description": "Reported as a percentage of participants experiencing grade 3/4 AEs.",
+              "units": "Percentage",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

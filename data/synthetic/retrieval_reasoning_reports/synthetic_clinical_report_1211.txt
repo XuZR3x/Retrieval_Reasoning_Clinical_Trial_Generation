@@ -1,0 +1,201 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02503989"
+    },
+    "id_info": {
+      "org_study_id": "Vandetanib-Phase3-RCC",
+      "nct_id": "NCT02503989"
+    },
+    "brief_title": "Phase III Study Comparing Vandetanib to Standard Care in Patients with Advanced Renal Cell Carcinoma Post-Failure of First-Line Therapies",
+    "official_title": "A Phase III, Randomized, Open-label Study to Compare the Efficacy and Safety of Vandetanib Versus Standard Care in Patients With Advanced Renal Cell Carcinoma Following the Failure of First-Line Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Cancer Research Institute",
+        "agency_class": "Institution"
+      }
+    },
+    "source": "Global Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the efficacy of vandetanib in patients with advanced renal cell carcinoma previously treated with first-line therapies including sunitinib and sorafenib. The primary goal is to assess overall survival and progression-free survival when compared to standard care treatments in this population."
+    },
+    "overall_status": "Terminated",
+    "start_date": "February 2016",
+    "completion_date": "July 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Measured from the date of randomization until death from any cause, assessed up to 24 months.",
+      "description": "The primary endpoint was defined as the time from randomization to death from any cause, evaluating the efficacy of vandetanib versus standard care."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from the date of randomization until disease progression or death, assessed up to 24 months.",
+        "description": "PFS was evaluated as the time until the first documented evidence of disease progression or death, according to RECIST 1.1 criteria."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Assessed every 8 weeks from randomization until disease progression, up to 24 months.",
+        "description": "Proportion of patients achieving a predefined level of tumor response, measured as the sum of complete responses and partial responses."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "All reported adverse events during the trial duration; analyzed continuously.",
+        "description": "A detailed account of all adverse events observed during treatment, categorized by severity."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "38",
+    "condition": "Advanced Renal Cell Carcinoma",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving Vandetanib (ZD6474) at a dose of 300 mg orally once daily."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receiving Standard Care (including options such as everolimus or axitinib) as per physician discretion."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vandetanib",
+        "description": "300 mg oral tablet once daily",
+        "arm_group_label": ["1"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Care",
+        "description": "Patient-dependent therapy, including everolimus or axitinib.",
+        "arm_group_label": ["2"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Age 18 years or older with histologically confirmed advanced renal cell carcinoma.\r\n  - Progressed on or after at least one systemic therapy for advanced disease.\r\n  - Measurable disease per RECIST criteria.\r\n  - Life expectancy of at least 3 months.\r\n\r\nExclusion Criteria:\r\n  - Prior treatment with vandetanib.\r\n  - Uncontrolled hypertension.\r\n  - Significant cardiovascular or thromboembolic history.\r\n  - Active infection requiring systemic treatment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James H. Robinson, PhD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Cancer Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cancer Research Institute",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial commenced with a target enrollment of 100 participants; however, only 38 individuals were successfully enrolled by the conclusion of the study timeline.",
+        "pre_assignment_details": "Due to insufficient patient accrual, only 38 patients were randomized for treatment, limiting the statistical power for definitive conclusions."
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Overall Survival (OS)",
+          "description": "Primary measure of efficacy calculated as time from randomization to death; insufficient accrual prevented robust analysis.",
+          "time_frame": "Assessed every 12 weeks through final contact or patient death."
+        },
+      },
+      "adverse_events": {
+        "group_list": {
+          "group": {
+            "title": "Total Adverse Events",
+            "description": "Documented serious adverse events included hypertension, cardiac events, and hematological dysfunction, which were significant enough to influence participant adherence."
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": [
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Diarrhea",
+                    "counts": 9
+                  }
+                }
+              },
+              {
+                "title": "Cardiac Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Hypertension",
+                    "counts": 7
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "category_list": {
+            "category": [
+              {
+                "title": "General Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Fatigue",
+                    "counts": 12
+                  }
+                }
+              },
+              {
+                "title": "Skin and Subcutaneous Tissue Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Rash",
+                    "counts": 10
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "limitations_and_caveats": "The study was terminated due to insufficient accrual, with only 38 patients enrolled, considerably below the target of 100, which severely limited both the power to detect differences in treatment efficacy and the overall generalizability of findings."
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is NOT a restrictive agreement between Principal Investigators and the Sponsor that limits their ability to report trial results."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trial Coordinator",
+      "organization": "Global Cancer Research Institute",
+      "email": "info@gcancerinstitute.org"
+    }
+  }
+}
+```

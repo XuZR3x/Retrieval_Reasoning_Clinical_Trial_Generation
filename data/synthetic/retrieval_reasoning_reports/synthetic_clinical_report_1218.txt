@@ -1,0 +1,348 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02857374"
+    },
+    "id_info": {
+      "org_study_id": "C12345",
+      "nct_id": "NCT02857374"
+    },
+    "brief_title": "Alfuzosin Efficacy in Chronic Constipation Management",
+    "acronym": "CONST-ALF",
+    "official_title": "A Phase 2, Randomized, Double- blind, Placebo-controlled Study Evaluating the Efficacy and Safety of Alfuzosin in Adult Patients With Chronic Constipation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Pharmaceutical Innovations",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Pharmaceutical Innovations",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy of alfuzosin in increasing the frequency of spontaneous bowel movements (SBMs) in patients diagnosed with chronic constipation.",
+      "detailed_description": {
+        "textblock": "Despite initial hypotheses suggesting improved bowel motility with alfuzosin treatment, the trial ultimately failed to meet its primary endpoint of demonstrating a statistically significant increase in SBMs compared to placebo over the 8-week treatment period."
+      }
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to failure to achieve primary efficacy endpoints and recruitment difficulties.",
+    "start_date": "January 2016",
+    "completion_date": "June 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Weekly Rate of Spontaneous Bowel Movements",
+      "time_frame": "8 weeks",
+      "description": "The primary outcome was defined as the number of SBMs per week, verified by daily bowel diaries."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Patient-Reported Outcomes on Quality of Life",
+        "time_frame": "8 weeks",
+        "description": "Evaluated using validated questionnaires to assess the impact of alfuzosin on patients' quality of life."
+      },
+      {
+        "measure": "Adverse Events and Withdrawals",
+        "time_frame": "Throughout the study duration",
+        "description": "Monitoring the incidence and nature of adverse events reported by participants."
+      }
+    ],
+    "enrollment": "100",
+    "condition": "Chronic Constipation",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Alfuzosin",
+      "description": "Alfuzosin 10 mg extended release, administered orally once daily."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 to 75 years with a diagnosis of chronic constipation, defined as less than 3 bowel movements per week for at least 3 months.\n- No previous treatment with alpha-1 antagonists.\n\nExclusion Criteria:\n- History of gastrointestinal obstruction, significant cardiovascular disease, or other conditions that may affect bowel function.\n- Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Study Director",
+      "affiliation": "Pharmaceutical Innovations"
+    },
+    "location": {
+      "facility": {
+        "name": "Research Hospital",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2018",
+    "study_first_submitted": "January 15, 2016",
+    "study_first_submitted_qc": "January 15, 2016",
+    "study_first_posted": "February 1, 2016",
+    "last_update_posted": "June 15, 2018",
+    "condition_browse": {
+      "mesh_term": "Constipation"
+    },
+    "intervention_browse": {
+      "mesh_term": "Alfuzosin"
+    },
+    "limitations_and_caveats": "Significant variability in response among participants and considerable dropout rates due to adverse effects hampered the ability to draw definitive conclusions regarding the efficacy and safety of alfuzosin in treating chronic constipation.",
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 200 participants were screened between January 2016 and March 2017, 100 of whom were randomized into the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Alfuzosin Group",
+              "description": "Received 10 mg extended-release alfuzosin daily."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Received placebo capsules identical to alfuzosin."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "8-Week Treatment Phase",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": ["50 (Alfuzosin Group)", "50 (Placebo Group)"]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": ["25 (Alfuzosin Group)", "30 (Placebo Group)"]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": ["25 (Alfuzosin Group)", "20 (Placebo Group)"]
+                    }
+                  }
+                ],
+                "drop_withdraw_reason_list": {
+                  "drop_withdraw_reason": [
+                    {
+                      "title": "Adverse Events",
+                      "participants_list": {
+                        "participants": ["15 (Alfuzosin Group)", "10 (Placebo Group)"]
+                      }
+                    },
+                    {
+                      "title": "Lack of Efficacy",
+                      "participants_list": {
+                        "participants": ["10 (Alfuzosin Group)", "5 (Placebo Group)"]
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Alfuzosin Group",
+              "description": "Participants receiving alfuzosin treatment."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving placebo treatment."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": ["50 (Alfuzosin Group)", "50 (Placebo Group)"]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [45.2, 43.5]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Gender Distribution",
+              "units": "Participants",
+              "param": "Count",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [30, 28]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [20, 22]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Weekly Rate of Spontaneous Bowel Movements",
+            "description": "The analysis was performed using a mixed-model approach, comparing SBMs between groups over the treatment period.",
+            "time_frame": "8 weeks",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Alfuzosin Group",
+                  "description": "Mean spontaneous bowel movements: 2.1 SBMs/week."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Mean spontaneous bowel movements: 2.3 SBMs/week."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Statistical Difference",
+              "description": "No significant differences observed (p = 0.65)."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Patient-Reported Quality of Life Scores",
+            "description": "Quality of life improved by 5% in the alfuzosin group versus 3% in placebo (p = 0.42).",
+            "time_frame": "8 weeks",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Alfuzosin Group",
+                  "description": "Quality of life improvement: 5%."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Quality of life improvement: 3%."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were monitored throughout the study duration.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Alfuzosin Group",
+              "description": "Reported adverse events included dizziness (15%), headache (12%), and gastrointestinal upset (10%)."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Reported adverse events primarily included headache (8%)."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Serious Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "None reported by the end of the study.",
+                  "counts": [0, 0]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5%",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Alfuzosin Group",
+                    "counts": [35]
+                  }
+                }
+              },
+              {
+                "title": "Total Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Placebo Group",
+                    "counts": [20]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are employed by the organization sponsoring the study.",
+        "restrictive_agreement": "No restrictions exist concerning the publication of results after study termination."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Research Coordinator",
+        "organization": "Pharmaceutical Innovations",
+        "email": "contact@pharmainnovations.com"
+      }
+    }
+  }
+}
+```

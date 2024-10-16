@@ -1,0 +1,166 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567891"
+    },
+    "id_info": {
+      "org_study_id": "MTX-045678",
+      "secondary_id": ["U01CA101143", "U01CA101144"],
+      "nct_id": "NCT04567891"
+    },
+    "brief_title": "Methotrexate vs. Standard Chemotherapy for Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Randomized Phase III Trial Comparing Methotrexate With Standard Chemotherapy in Patients With Advanced Non-Small Cell Lung Cancer Ineligible for Cisplatin",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute at the University Hospital",
+        "agency_class": "NIH"
+      },
+      "collaborator": {
+        "agency": "American Association for Cancer Research",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to compare the efficacy of methotrexate versus standard chemotherapy agents such as pemetrexed and carboplatin in patients presenting with advanced non-small cell lung cancer (NSCLC) who are ineligible for cisplatin treatment. Methotrexate has shown promise in earlier phase studies, but its efficacy in this patient population remains uncertain."
+    },
+    "detailed_description": {
+      "textblock": "Despite the use of various chemotherapy regimens, many patients with advanced NSCLC continue to face poor outcomes. Methotrexate has been used for various malignancies, yet there remains a pivotal need to evaluate its application in NSCLC as a monotherapy compared to standard treatment options. This double-blind, randomized phase III trial will evaluate the progression-free survival (PFS), overall survival (OS), and safety profile between two arms. The first group will receive 30 mg/m² of methotrexate weekly, while the control group will receive the standard combination of pemetrexed and carboplatin every three weeks. Key efficacy measurements will include PFS at 12 months and OS over 24 months post-treatment initiation. Secondary endpoints include response rates and quality of life assessments. Enrollment, which commenced in February 2021, was terminated in September 2023 due to futility based on interim analysis demonstrating insufficient efficacy of methotrexate compared to the comparator."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2021",
+    "completion_date": "September 2023",
+    "primary_completion_date": "August 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival at 12 Months",
+      "time_frame": "12 months",
+      "description": "Defined as the time from randomization until disease progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival at 24 Months",
+        "time_frame": "24 months",
+        "description": "Time from randomization to death from any cause."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "At 6 months",
+        "description": "Rate of participants achieving partial or complete response confirmed by radiological imaging."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Methotrexate",
+        "arm_group_type": "Experimental",
+        "description": "30 mg/m² of methotrexate administered weekly."
+      },
+      {
+        "arm_group_label": "Standard Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Pemetrexed + Carboplatin administered every three weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Methotrexate",
+        "description": "Administered as a 30 mg/m² dose weekly."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed and Carboplatin",
+        "description": "Administered every three weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed advanced non-small cell lung cancer.\n- ECOG performance status of 0-2.\n- Patients ineligible for cisplatin-based therapy due to comorbidities (e.g., renal impairment, congestive heart failure).\n\nExclusion Criteria:\n- Previous treatment with methotrexate.\n- Concurrent malignancies.\n- Pregnant or breastfeeding women.\n- Significant uncontrolled medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "120 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Corey J. Langer, MD",
+      "role": "Study Chair",
+      "affiliation": "Fox Chase Cancer Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University Hospital",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90033",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Massachusetts General Hospital",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02114",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "October 2023",
+    "keywords": [
+      "Non-Small Cell Lung Cancer",
+      "Methotrexate",
+      "Chemotherapy",
+      "Advanced Cancer"
+    ],
+    "limitations_and_caveats": "The trial was aborted after demonstrating a lack of significant difference in progression-free survival and overall survival as assessed through interim analysis. Additionally, adverse event rates associated with methotrexate indicated higher discontinuation rates, raising concerns about tolerability among the participant cohort."
+  }
+}
+```

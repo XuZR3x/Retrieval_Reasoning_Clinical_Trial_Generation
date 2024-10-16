@@ -1,0 +1,147 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04098214"
+    },
+    "id_info": {
+      "org_study_id": "TXA-2020",
+      "nct_id": "NCT04098214"
+    },
+    "brief_title": "Efficacy of Tranexamic Acid in Preventing Postoperative Hemorrhage During Hip Surgery",
+    "official_title": "A Randomized Study Assessing the Efficacy of Tranexamic Acid versus Standard Care on Blood Loss and Transfusion Rates in Patients Undergoing Hip Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Metropolitan Hospital",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Metropolitan Hospital",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the effectiveness of tranexamic acid in reducing perioperative blood loss and transfusion requirements in patients undergoing surgical procedures for hip fractures. The hypothesis is that tranexamic acid could significantly lower the volume of blood loss compared to current standard hemostatic measures."
+    },
+    "detailed_description": {
+      "textblock": "Previous clinical evaluations have suggested tranexamic acid is beneficial in reducing surgical blood loss. However, recent studies have indicated inconsistent results in specific cohorts. This clinical trial aimed to contribute to understanding tranexamic acid's role in hip surgery but faced several critical challenges, ultimately leading to its premature termination."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment and inability to collect follow-up data.",
+    "start_date": "January 2020",
+    "completion_date": "June 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Total Blood Loss",
+      "time_frame": "Postoperative day 2",
+      "description": "Total blood loss quantified via drainage system in milliliters."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Need for Blood Transfusion",
+        "time_frame": "Postoperative day 2.",
+        "description": "Incidences of blood transfusion monitored via patient records."
+      },
+      {
+        "measure": "Postoperative Complications",
+        "time_frame": "30 days post-surgery.",
+        "description": "Complications such as infection, hematoma, and reoperation rates assessed through hospital records."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "54",
+    "condition": ["Hip Fracture", "Blood Loss"],
+    "arm_group": [
+      {
+        "arm_group_label": "Tranexamic Acid",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive 1 g of tranexamic acid intravenously before and during surgery."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive usual hemostatic measures without tranexamic acid."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tranexamic Acid",
+        "description": "Administer 1 g of tranexamic acid intravenously preoperatively and during the procedure.",
+        "arm_group_label": "Tranexamic Acid"
+      },
+      {
+        "intervention_type": "Procedure",
+        "intervention_name": "Standard Hemostasis",
+        "description": "Implementation of standard hemostatic practices, including cautery and local measures.",
+        "arm_group_label": "Standard Care"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients aged 18 years or older undergoing surgery for hip fractures.\n- ASA score 1-3.\nExclusion Criteria:\n- Known allergy to tranexamic acid.\n- Coagulation disorders.\n- Current anticoagulant therapy.\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John D. Thompson, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Metropolitan Hospital"
+      },
+      {
+        "last_name": "Emily White, MD",
+        "role": "Study Coordinator",
+        "affiliation": "Metropolitan Hospital"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Metropolitan Hospital",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "October 15, 2019",
+    "study_first_submitted_qc": "October 20, 2019",
+    "study_first_posted": "November 1, 2019",
+    "last_update_submitted": "July 10, 2021",
+    "last_update_posted": "August 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Metropolitan Hospital",
+      "investigator_full_name": "John D. Thompson",
+      "investigator_title": "MD"
+    },
+    "keyword": ["Tranexamic Acid", "Hip Fractures", "Postoperative Blood Loss", "Surgical Outcomes"],
+    "condition_browse": {
+      "mesh_term": ["Fractures, Bone", "Hemorrhage", "Hip Fractures"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Tranexamic Acid"
+    }
+  }
+}
+```

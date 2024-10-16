@@ -1,0 +1,459 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01419562"
+        },
+        "id_info": {
+            "org_study_id": "PT12-34",
+            "nct_id": "NCT01419562"
+        },
+        "brief_title": "Outcome Evaluation of Peginterferon Alfa-2a in Patients With Chronic Hepatitis C and Limited Access to Treatment",
+        "official_title": "A Multicenter, Phase III Trial to Evaluate the Efficacy and Safety of Peginterferon Alfa-2a in Patients With Chronic Hepatitis C and Co-morbidities",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Global Health Initiatives",
+                "agency_class": "Non-Profit"
+            }
+        },
+        "source": "Global Health Initiatives",
+        "brief_summary": {
+            "textblock": "This study aimed to evaluate the efficacy of peginterferon alfa-2a in chronic hepatitis C patients presenting with significant co-morbidities, including diabetes and hypertension. The trial hypothesized that peginterferon could be a feasible option even in this challenging subgroup. However, it was designed to follow patients for a minimum of 72 weeks to assess sustained virologic response (SVR) and safety outcomes."
+        },
+        "detailed_description": {
+            "textblock": "Patients were randomized into two arms: one receiving peginterferon alfa-2a subcutaneously at 180 mcg weekly, combined with ribavirin, while a control group received standard supportive care without antiviral intervention.\r\nDue to high dropout rates and complications related to co-morbidities, the trial was ultimately terminated before reaching the planned enrollment of 400 subjects, significantly hindering the assessment of the primary and secondary endpoints."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "This study was terminated due to insufficient subject accrual amid significant adverse events and lack of treatment adherence.",
+        "start_date": "March 2012",
+        "completion_date": "July 2015",
+        "primary_completion_date": "March 2015",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Sustained Virologic Response Rate (SVR)",
+            "time_frame": "24 weeks post-treatment completion",
+            "description": "The proportion of participants with undetectable HCV RNA levels (<60 IU/mL) at the 24-week follow-up post-treatment."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Rate of Anemia and Neutropenia",
+                "time_frame": "Up to 96 weeks",
+                "description": "Measured the frequency and severity of anemia and neutropenia observed during treatment, following DAIDS safety guidelines."
+            },
+            {
+                "measure": "Patient Compliance and Treatment Adherence",
+                "time_frame": "Throughout the trial duration",
+                "description": "Monitoring adherence to prescribed treatment protocols, recorded as a percentage of scheduled doses administered."
+            },
+            {
+                "measure": "Quality of Life Index",
+                "time_frame": "Baseline, week 24, and week 96",
+                "description": "Assessment of participants' quality of life using the EQ-5D scale, analyzing changes over the trial period."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "98",
+        "condition": "Chronic Hepatitis C",
+        "arm_group": [
+            {
+                "arm_group_label": "Peginterferon alfa-2a + Ribavirin",
+                "arm_group_type": "Experimental",
+                "description": "Participants received peginterferon alfa-2a (180 mcg subcutaneously once weekly) plus ribavirin (weight-based dosing), for a total treatment duration of 72 weeks."
+            },
+            {
+                "arm_group_label": "Supportive Care",
+                "arm_group_type": "No Intervention",
+                "description": "Participants receiving standard supportive care without any antiviral intervention."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Peginterferon alfa-2a",
+                "description": "180 mcg subcutaneously once weekly.",
+                "arm_group_label": ["Peginterferon alfa-2a + Ribavirin"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Ribavirin",
+                "description": "Dosing based on body weight and administered daily.",
+                "arm_group_label": ["Peginterferon alfa-2a + Ribavirin"]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n- Adults aged 18-65 diagnosed with chronic hepatitis C genotype 1.\r\n- Documented concurrent conditions such as diabetes or hypertension (stable for 3 months).\r\n- Not previously treated with direct-acting antiviral agents.\r\n- Signed informed consent.\r\n\r\nExclusion Criteria:\r\n- Previous treatment with peginterferon or ribavirin within the last year.\r\n- Severe renal or liver dysfunction.\r\n- Presence of any uncontrolled severe comorbidities.\r\n- Pregnant or breastfeeding women."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "65 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Susan Thompson, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Global Health Initiatives"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Downtown Medical Center",
+                    "address": {
+                        "city": "Chicago",
+                        "state": "Illinois",
+                        "zip": "60617",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Greenwood Health Resources",
+                    "address": {
+                        "city": "Atlanta",
+                        "state": "Georgia",
+                        "zip": "30309",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "verification_date": "August 2024",
+        "study_first_submitted": "February 10, 2012",
+        "study_first_submitted_qc": "February 10, 2012",
+        "study_first_posted": "February 15, 2012",
+        "results_first_submitted": "August 20, 2015",
+        "results_first_submitted_qc": "August 21, 2015",
+        "results_first_posted": "September 5, 2015",
+        "last_update_submitted": "August 25, 2024",
+        "last_update_posted": "August 30, 2024",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Chronic Hepatitis C",
+            "Peginterferon alfa-2a",
+            "Co-morbidities"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Hepatitis C",
+                "Liver Diseases"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Peginterferon alfa-2a",
+                "Ribavirin"
+            ]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "Recruiting primarily in urban hospital settings with a focus on diverse demographics.",
+                "pre_assignment_details": "Initially aimed for 400 participants; ultimately enrolled only 98 due to difficulties in subject recruitment and retention.",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Peginterferon alfa-2a + Ribavirin",
+                            "description": "Administered as planned but the low recruitment rate affected the statistical power."
+                        },
+                        {
+                            "title": "Supportive Care",
+                            "description": "Participants provided with standard monitoring and supportive measures."
+                        }
+                    ]
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "COMPLETED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "NOT COMPLETED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Peginterferon alfa-2a + Ribavirin"
+                        },
+                        {
+                            "title": "Supportive Care"
+                        }
+                    ]
+                },
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": {
+                            "count": [98]
+                        }
+                    }
+                },
+                "measure_list": {
+                    "measure": [
+                        {
+                            "title": "Mean Age",
+                            "units": "Years",
+                            "param": "Mean",
+                            "dispersion": "Standard Deviation",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": [36, 38]
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "title": "Gender Distribution",
+                            "units": "Participants",
+                            "param": "Number",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": [
+                                            {
+                                                "title": "Male",
+                                                "measurement_list": [58]
+                                            },
+                                            {
+                                                "title": "Female",
+                                                "measurement_list": [40]
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Sustained Virologic Response Rate (SVR)",
+                        "description": "The proportion of participants with undetectable HCV RNA levels (<60 IU/mL) at 24 weeks post-treatment.",
+                        "time_frame": "24 weeks",
+                        "population": "Evaluated in both treatment arms but significantly affected by low enrollment and heterogeneity.",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Peginterferon alfa-2a + Ribavirin",
+                                    "description": "Response rates were lower than anticipated due to severe comorbid conditions."
+                                },
+                                {
+                                    "title": "Supportive Care",
+                                    "description": "Not applicable."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Sustained virologic response rates",
+                            "description": "Percentage of participants achieving SVR.",
+                            "units": "Percentage",
+                            "param": "Count",
+                            "analyzed_list": {
+                                "analyzed": {
+                                    "units": "Participants",
+                                    "scope": "Measure",
+                                    "count_list": [10, 0]  // Count of participants achieving SVR in peginterferon group & control
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Incidence of Anemia and Neutropenia",
+                        "description": "Monitored incidence and severity of hematologic adverse effects.",
+                        "time_frame": "Up to 96 weeks",
+                        "population": "Both treatment arms.",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Peginterferon alfa-2a + Ribavirin",
+                                    "description": "Significantly higher rates of grade 3 or 4 anemia and neutropenia."
+                                },
+                                {
+                                    "title": "Supportive Care",
+                                    "description": "Minimal adverse events reported."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Incidence of Anemia",
+                            "description": "Number of participants reporting anemia as per DAIDS grading criteria.",
+                            "units": "Participants",
+                            "param": "Count",
+                            "analyzed_list": {
+                                "analyzed": {
+                                    "units": "Participants",
+                                    "scope": "Measure",
+                                    "count_list": [37, 0]  // Anemia in treatment arm
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Quality of Life Assessment",
+                        "description": "Evaluated changes in participant-reported quality of life indices over the trial duration.",
+                        "time_frame": "Baseline, week 24, week 96",
+                        "population": "Patients who completed all assessments.",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Peginterferon alfa-2a + Ribavirin",
+                                    "description": "Quality of life indices showed decreased scores over time."
+                                },
+                                {
+                                    "title": "Supportive Care",
+                                    "description": "Stable but unchanged indices."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Quality of Life Index Score",
+                            "description": "Measured using EQ-5D, where lower scores indicate poorer quality of life.",
+                            "units": "Score",
+                            "param": "Median",
+                            "analyzed_list": {
+                                "analyzed": {
+                                    "units": "Participants",
+                                    "scope": "Measure",
+                                    "count_list": [25, 15]  // Changes in scores
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "reported_events": {
+                "time_frame": "Throughout the duration of the trial, from enrollment until the last visit.",
+                "desc": "Adverse events and their severities were recorded per DAIDS grading criteria. Notably, anemia and neutropenia dominated the reports.",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Peginterferon alfa-2a + Ribavirin",
+                            "description": "High incidence of dose reductions and premature discontinuation due to severe adverse effects."
+                        },
+                        {
+                            "title": "Supportive Care",
+                            "description": "Minimal intervention led to low incidence of reported adverse events."
+                        }
+                    ],
+                    "serious_events": {
+                        "category_list": {
+                            "category": [
+                                {
+                                    "title": "Total Serious Adverse Events",
+                                    "event_list": {
+                                        "event": {
+                                            "sub_title": "Total SAEs reported",
+                                            "counts": [null, null] // Placeholder for data
+                                        }
+                                    }
+                                },
+                                {
+                                    "title": "Hematologic Complications",
+                                    "event_list": {
+                                        "event": [
+                                            {
+                                                "sub_title": "Severe Anemia",
+                                                "counts": [40, null]
+                                            },
+                                            {
+                                                "sub_title": "Neutropenia",
+                                                "counts": [35, null]
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                "other_events": {
+                    "category_list": {
+                        "category": [
+                            {
+                                "title": "Total Other Adverse Events",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Total, other events",
+                                        "counts": [70, null]
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Psychiatric Disorders",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Depression",
+                                        "counts": [9, null]
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Gastrointestinal Events",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Nausea",
+                                        "counts": [15, null]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "certain_agreements": {
+                    "pi_employee": "Principal Investigators are not employed by the sponsoring organization.",
+                    "restrictive_agreement": "Principal Investigators retain the right to publish their findings, but must notify the sponsor of intended publications."
+                },
+                "limitations_and_caveats": "The study faced significant challenges in subject accrual, leading to substantial limitations in the data and interpretation of treatment outcomes.",
+                "point_of_contact": {
+                    "name_or_title": "Clinical Research Coordinator",
+                    "organization": "Global Health Initiatives",
+                    "phone": "(312) 555-0123"
+                }
+            }
+        }
+    }
+}
+``` 
+
+This report maintains the structured format of your provided clinical trials, while focusing on a distinct initiative and incorporating failing elements stressed in your request.

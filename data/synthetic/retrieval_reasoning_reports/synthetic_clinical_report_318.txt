@@ -1,0 +1,138 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03320123"
+        },
+        "id_info": {
+            "org_study_id": "ICB-2021-135",
+            "nct_id": "NCT03320123"
+        },
+        "brief_title": "Efficacy of Atezolizumab in Patients With Relapsed or Refractory Non-Small Cell Lung Cancer",
+        "official_title": "A Phase II Study of Atezolizumab in Patients With Relapsed or Refractory Non-Small Cell Lung Cancer",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "International Cancer Biotherapy Project",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Genentech, Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "International Cancer Biotherapy Project",
+        "brief_summary": {
+            "textblock": "The present study aimed to evaluate the efficacy and safety profile of atezolizumab in patients diagnosed with advanced Non-Small Cell Lung Cancer (NSCLC) who had previously failed at least two lines of systemic therapy. Primary study endpoints included overall response rate (ORR) and progression-free survival (PFS)."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Insufficient patient accrual and lack of effective biomarker stratification",
+        "start_date": "January 15, 2018",
+        "completion_date": "December 30, 2019",
+        "primary_completion_date": "September 10, 2019",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Overall Response Rate (ORR) Defined by RECIST 1.1",
+            "time_frame": "Up to 24 months",
+            "description": "Objective response rate will be calculated as the percentage of participants who achieve a complete or partial response according to Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "From treatment initiation to disease progression or death, assessed over 24 months",
+                "description": "PFS will be calculated as the time from the start of therapy until disease progression or death due to any cause."
+            },
+            {
+                "measure": "Percentage of Participants with Adverse Events (AEs)",
+                "time_frame": "Up to 30 days after the last dose of study treatment, on average 3-6 months",
+                "description": "The frequency and severity of adverse events will be recorded and classified according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+            },
+            {
+                "measure": "Biomarker Correlation with Response",
+                "time_frame": "Assessed at baseline and every 3 months during treatment",
+                "description": "Analyze the correlation of PD-L1 expression and other biomarkers with treatment response as assessed by immunohistochemistry."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "15",
+        "condition": "Non-Small Cell Lung Cancer",
+        "arm_group": {
+            "arm_group_label": "Atezolizumab Treatment Group",
+            "arm_group_type": "Experimental",
+            "description": "Patients received atezolizumab 1200 mg by intravenous infusion every 3 weeks. Treatment was continued until disease progression, occurrence of unacceptable toxicity, or voluntary withdrawal."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Atezolizumab",
+            "description": "Atezolizumab administered intravenously at a dose of 1200 mg every 3 weeks.",
+            "arm_group_label": "Atezolizumab Treatment Group",
+            "other_name": ["Tecentriq", "MPDL3280A", "RO5541267"]
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n - Histologically confirmed diagnosis of NSCLC with evidence of relapsed or refractory disease after at least two lines of systemic therapy.\n - Measurable disease as defined by RECIST 1.1 criteria.\n - Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1.\n - Adequate organ function as defined by laboratory parameters assessed within 14 days prior to treatment.\n\nExclusion Criteria:\n\n - Prior anti-PD-1 or anti-PD-L1 therapy.\n - Active autoimmune disease requiring systemic treatment or significant cardiovascular disease.\n - Known hypersensitivity to atezolizumab or its excipients.\n - Pregnant or lactating females."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Dr. Gregory Barnes",
+            "role": "Principal Investigator",
+            "affiliation": "International Cancer Biotherapy Project"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Healthcare Center of Greater Seattle",
+                    "address": {
+                        "city": "Seattle",
+                        "state": "Washington",
+                        "zip": "98109",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Regional Cancer Institute of Portland",
+                    "address": {
+                        "city": "Portland",
+                        "state": "Oregon",
+                        "zip": "97201",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "January 2020",
+        "study_first_submitted": "November 1, 2017",
+        "study_first_submitted_qc": "November 1, 2017",
+        "study_first_posted": "November 3, 2017",
+        "last_update_submitted": "December 15, 2019",
+        "last_update_posted": "December 20, 2019",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": ["Lung Neoplasms", "Non-Small Cell Lung Carcinoma"]
+        },
+        "intervention_browse": {
+            "mesh_term": ["Atezolizumab"]
+        }
+    }
+}
+```

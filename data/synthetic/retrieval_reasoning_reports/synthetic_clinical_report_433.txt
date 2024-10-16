@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "FTN-PN-2023",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Fentanyl Versus Standard Analgesia for Postoperative Pain Management in Patients Undergoing Abdominal Surgery",
+    "official_title": "Randomized Assessment of Fentanyl Compared to Standard Analgesics in Postoperative Pain Control: A Multicenter Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Health Sciences Center Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Health Sciences Center Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study was designed to evaluate the safety and efficacy of fentanyl for postoperative pain management in patients undergoing abdominal surgery compared to traditional analgesic protocols, primarily opioid and non-opioid combinations."
+    },
+    "detailed_description": {
+      "textblock": "Postoperative pain management remains a critical aspect of patient care. Despite fentanyl's advantages in terms of rapid onset and potent analgesic effects, recent findings suggested an increased incidence of respiratory depression that has raised significant safety concerns. This study aimed to directly compare patient outcomes when fentanyl was administered post-surgery versus a standard regimen using morphine and other adjunctive analgesics. \n\nThe study enrolled participants scheduled for elective abdominal surgery, with randomization into two treatment groups: one receiving transdermal fentanyl patches (25 mcg/hr) and the other receiving standard analgesia consisting of morphine and NSAIDs. Pain was primarily assessed using the Numeric Rating Scale (NRS), supplemented by functional and recovery assessments conducted for up to 72 hours post-surgery. \n\nOf note, the study encountered substantial variability due to subjective pain assessments, potentially introducing bias into the efficacy evaluations. Additionally, the open-label design may have influenced both clinician and participant expectations, confounding the perceived effectiveness of the provided interventions. Compounding these concerns, the cumulative side effects attributed to fentanyl, specifically sedation and nausea, resulted in significant patient withdrawal, thereby undermining the study's statistical power."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Increased respiratory depression rates and safety profile concerns.",
+    "start_date": "March 2020",
+    "completion_date": "January 2022",
+    "primary_completion_date": "November 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Pain intensity assessed via Numeric Rating Scale (NRS)",
+      "time_frame": "72 hours post-operative"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Patient satisfaction with analgesia",
+        "time_frame": "72 hours post-operative"
+      },
+      {
+        "measure": "Incidence of adverse events including sedation and respiratory depression",
+        "time_frame": "Continuous monitoring for 72 hours post-operative"
+      },
+      {
+        "measure": "Total opioid consumption in first 48 hours post-operative",
+        "time_frame": "Calculated during monitoring period"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "116",
+    "condition": "Postoperative Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Fentanyl Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving an initial fentanyl transdermal patch (25 mcg/hr) within 24 hours post-surgery, supplemented with standard care analgesia as needed, with the aim of evaluating effectiveness and safety."
+      },
+      {
+        "arm_group_label": "Standard Analgesia Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receiving standard opioid and NSAID treatment for postoperative pain control, monitored alongside the fentanyl cohort."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fentanyl",
+        "description": "Transdermal fentanyl patch (25 mcg/hr) applied post-operatively for continuous analgesia."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Morphine",
+        "description": "Standard pain management regimen utilizing morphine combined with NSAIDs."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Adults aged 18-75 years\n  - Scheduled for elective abdominal surgery\n  - Capable of providing informed consent\n\nExclusion Criteria:\n  - Known allergies to opioids or NSAIDs\n  - Chronic pain conditions requiring regular analgesia\n  - Severe respiratory dysfunction\n  - Previous adverse reactions to fentanyl or morphine\n  - Uncontrolled medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily J. Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Health Sciences Center Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Health Sciences Center",
+        "address": {
+          "city": "Metropolis",
+          "state": "State",
+          "zip": "12345",
+          "country": "Country"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Country"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "February 20, 2020",
+    "study_first_submitted_qc": "February 22, 2020",
+    "study_first_posted": "February 25, 2020",
+    "last_update_submitted": "February 10, 2022",
+    "last_update_posted": "February 12, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Postoperative Pain", "Fentanyl", "Morphine", "Analgesia", "Abdominal Surgery"],
+    "condition_browse": {
+      "mesh_term": ["Postoperative Pain", "Pain, Postoperative"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fentanyl", "Morphine"]
+    }
+  }
+}
+```

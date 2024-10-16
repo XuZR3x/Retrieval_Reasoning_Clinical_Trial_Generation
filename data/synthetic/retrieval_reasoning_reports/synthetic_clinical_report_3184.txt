@@ -1,0 +1,483 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03569791"
+    },
+    "id_info": {
+      "org_study_id": "RES-400e",
+      "nct_id": "NCT03569791"
+    },
+    "brief_title": "Efficacy and Safety of Reslizumab in Patients with Severe Asthma and Eosinophilic Phenotype",
+    "official_title": "A Multicenter, Phase 3, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Reslizumab in Patients with Severe Asthma with Eosinophilic Phenotype",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Pharmaceutical Research Institute",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Teva Pharmaceutical Industries Ltd.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Pharmaceutical Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of reslizumab in patients with severe asthma characterized by eosinophilic airway inflammation. The primary endpoints are based on the change in forced expiratory volume in one second (FEV1) and the Asthma Control Questionnaire (ACQ) scores."
+    },
+    "detailed_description": {
+      "textblock": "Objectives:\n\nPrimary: To assess the impact of reslizumab on lung function and asthma control in subjects exhibiting eosinophilic airway inflammation.\n\nSecondary:\n - To evaluate the rate of asthma exacerbations and changes in eosinophil levels in both peripheral blood and airway secretions.\n - To monitor the safety profile of reslizumab in a well-defined cohort of patients with severe asthma.\n\nMethodology:\nThis multicenter, phase 3 trial utilized a randomized, double-blind, placebo-controlled design. A total of 300 patients aged 12 to 75 years with severe asthma and a documented history of eosinophilic inflammation were recruited. Patients were stratified based on their baseline eosinophil counts (≥300 cells/µL) and randomized to receive either intravenous reslizumab (3 mg/kg) or placebo. Each treatment occurred every four weeks for a total of four doses.\n\nEfficacy was assessed through multiple outcome measures, including FEV1, ACQ scores, and biomarkers of airway inflammation such as sputum eosinophil counts. Safety evaluations included a comprehensive assessment of adverse events (AEs) and serious adverse events (SAEs) throughout the study duration."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 2018",
+    "completion_date": "September 2021",
+    "primary_completion_date": "August 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Mean Change in Forced Expiratory Volume in One Second (FEV1)",
+        "time_frame": "Baseline, 16 weeks after treatment initiation",
+        "description": "FEV1 is a standard measure in pulmonary function tests indicating airflow obstruction."
+      },
+      {
+        "measure": "Mean Change in Asthma Control Questionnaire (ACQ) Score",
+        "time_frame": "Baseline, 16 weeks after treatment initiation",
+        "description": "ACQ scores will reflect patients' self-reported asthma control over the previous week."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Rate of Asthma Exacerbations",
+        "time_frame": "During treatment period (up to 16 weeks)",
+        "description": "Defined as a significant reduction in FEV1 or the need for systemic corticosteroids."
+      },
+      {
+        "measure": "Change from Baseline in Eosinophil Levels in Sputum and Blood",
+        "time_frame": "Baseline, 16 weeks after treatment initiation",
+        "description": "Changes in eosinophil counts measured as a marker of treatment efficacy."
+      },
+      {
+        "measure": "Frequency of Adverse Events",
+        "time_frame": "From baseline up to 30 days post last dose",
+        "description": "Monitoring of any adverse events related to treatments administered."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Severe Eosinophilic Asthma",
+    "arm_group": [
+      {
+        "arm_group_label": "Reslizumab 3 mg/kg",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving reslizumab (3 mg/kg) intravenously, administered once every four weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receiving matching placebo intravenously, administered once every four weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Reslizumab",
+        "description": "Reslizumab 3 mg/kg IV every 4 weeks for a total of 4 doses",
+        "arm_group_label": "Reslizumab 3 mg/kg",
+        "other_name": ["Cinquil", "Anti-IL5 monoclonal antibody"]
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo IV every 4 weeks for a total of 4 doses",
+        "arm_group_label": "Placebo",
+        "other_name": ["0.9% saline solution"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients aged 12 to 75 years.\n- Documented diagnosis of severe persistent asthma and evidence of eosinophilic inflammation (blood eosinophil count ≥300 cells/µL or sputum eosinophils ≥3%).\n- Patients having received inhaled corticosteroids at stable doses for at least 12 weeks prior to randomization.\n\nExclusion Criteria:\n- Presence of other significant respiratory conditions (e.g., COPD, interstitial lung disease).\n- Current systemic corticosteroid treatment exceeding 10 mg of prednisone daily.\n- Prior treatment with anti-IL5 therapies (e.g., mepolizumab, benralizumab) within the last 6 months.\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "12 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. James R. Thompson, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Global Pharmaceutical Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Pulmonary Research Center, City Hospital",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Lung Health Institute, County Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90012",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "United Kingdom"]
+    },
+    "verification_date": "September 2021",
+    "study_first_submitted": "January 7, 2018",
+    "study_first_posted": "January 15, 2018",
+    "last_update_submitted": "July 10, 2022",
+    "last_update_posted": "July 13, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Asthma", "Eosinophilia", "Severe Asthma"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Reslizumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Reslizumab 3 mg/kg",
+              "description": "Active treatment with reslizumab 3 mg/kg administered IV every 4 weeks."
+            },
+            {
+              "title": "Placebo",
+              "description": "Administered matching placebo IV every 4 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [300, 300]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [300, 300]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Withdrawal of Consent",
+                  "participants_list": {
+                    "participants": [5, 8]
+                  }
+                },
+                {
+                  "title": "Lack of Efficacy",
+                  "participants_list": {
+                    "participants": [4, 2]
+                  }
+                },
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [1, 0]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Reslizumab 3 mg/kg",
+                "description": "Active treatment group with Reslizumab 3 mg/kg."
+              },
+              {
+                "title": "Placebo",
+                "description": "Placebo treatment group."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [300, 300]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [48.5, 14.0]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [150, 158]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [150, 142]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Mean Change in FEV1 from Baseline to Week 16",
+              "description": "Change from baseline in FEV1 measured in liters at Weeks 0 and 16 to assess lung function improvement.",
+              "time_frame": "Baseline, Week 16",
+              "population": "Full Analysis Set",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Reslizumab 3 mg/kg",
+                    "description": "Active treatment group"
+                  },
+                  {
+                    "title": "Placebo",
+                    "description": "Placebo treatment group"
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Mean Change in FEV1",
+                "population": "Full analysis set",
+                "units": "Liters",
+                "param": "Mean",
+                "dispersion": "Standard Error",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [230, 70]
+                    }
+                  }
+                },
+                "analysis_list": {
+                  "analysis": [
+                    {
+                      "group_id_list": {
+                        "group_id": ["O1", "O2"]
+                      },
+                      "non_inferiority_type": "Superiority or Other",
+                      "method": "Mixed Model",
+                      "param_type": "Mean Difference",
+                      "param_value": "0.45",
+                      "dispersion_type": "Standard Error of the Mean",
+                      "dispersion_value": "0.120",
+                      "ci_percent": "95",
+                      "ci_n_sides": "2-Sided",
+                      "ci_lower_limit": "0.21",
+                      "ci_upper_limit": "0.69",
+                      "p_value": "0.0005",
+                      "p_value_desc": "Statistically significant improvement in FEV1 for Reslizumab compared to placebo."
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Mean Change in ACQ Score",
+              "description": "Mean change in Asthma Control Questionnaire scores from Baseline to Week 16.",
+              "time_frame": "0, 16 weeks",
+              "population": "Full Analysis Set",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Reslizumab 3 mg/kg",
+                    "description": "Active treatment group"
+                  },
+                  {
+                    "title": "Placebo",
+                    "description": "Placebo treatment group"
+                  }
+                ]
+              },
+              "measure": {
+                "title": "ACQ Score Change",
+                "population": "Full analysis set",
+                "units": "Units on a scale",
+                "param": "Mean",
+                "dispersion": "Standard Error",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [300, 300]
+                    }
+                  }
+                },
+                "analysis_list": {
+                  "analysis": [
+                    {
+                      "group_id_list": {
+                        "group_id": ["O1", "O2"]
+                      },
+                      "non_inferiority_type": "Superiority or Other",
+                      "method": "Regression",
+                      "param_type": "Mean Difference",
+                      "param_value": "-0.8",
+                      "dispersion_type": "Standard Error of the Mean",
+                      "dispersion_value": "0.145",
+                      "ci_percent": "95",
+                      "ci_n_sides": "2-Sided",
+                      "ci_lower_limit": "-1.089",
+                      "ci_upper_limit": "-0.511",
+                      "p_value": "0.0001",
+                      "p_value_desc": "Reslizumab showed a statistically significant reduction in the ACQ score compared to placebo."
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "reported_events": {
+      "time_frame": "From baseline until 30 days post last dose",
+      "group_list": {
+        "group": [
+          {
+            "title": "Reslizumab 3 mg/kg",
+            "description": "Reslizumab treatment group"
+          },
+          {
+            "title": "Placebo",
+            "description": "Placebo control group"
+          }
+        ]
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 20.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total Serious Adverse Events (SAEs)",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total SAEs",
+                  "counts": [1, 0]
+                }
+              }
+            },
+            {
+              "title": "Infections",
+              "event_list": {
+                "event": {
+                  "sub_title": "Pneumonia",
+                  "counts": [1, 0]
+                }
+              }
+            },
+            {
+              "title": "Allergic Reactions",
+              "event_list": {
+                "event": {
+                  "sub_title": "Anaphylaxis",
+                  "counts": [0, 0]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 20.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Adverse Events",
+                  "counts": [25, 12]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

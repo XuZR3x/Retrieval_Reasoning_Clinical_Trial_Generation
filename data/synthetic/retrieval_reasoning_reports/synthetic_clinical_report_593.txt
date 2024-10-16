@@ -1,0 +1,138 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01984912"
+    },
+    "id_info": {
+      "org_study_id": "BEND-ADV-311",
+      "nct_id": "NCT01984912"
+    },
+    "brief_title": "Evaluation of Bendamustine in Combination with Pomalidomide in Relapsed/Refractory Multiple Myeloma",
+    "official_title": "Phase II Study of Bendamustine Combined with Pomalidomide for Patients with Relapsed or Refractory Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Other"
+      },
+      "collaborator": [
+        {
+          "agency": "Celgene Corporation",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This is a Phase II study designed to evaluate the safety and efficacy of the combination of bendamustine and pomalidomide in patients with relapsed or refractory multiple myeloma. The trial will assess the overall response rate and related toxicities to determine the potential of this novel combination regimen."
+    },
+    "detailed_description": {
+      "textblock": "Multiple myeloma, characterized by the malignant proliferation of plasma cells, has emerged as a challenging therapeutic target. While bendamustine has demonstrated activity in various hematological malignancies, its optimal combination with novel agents remains understudied. This trial sought to exploit potential synergistic effects between bendamustine and pomalidomide, an immunomodulatory agent. However, several factors hindered the trial's success:\n\n1. **Insufficient Patient Accrual**: The study faced substantial recruitment challenges, leading to a premature closure. Only 25 patients were enrolled, significantly below the target of 100 participants. This underperformance limited the statistical power necessary for robust conclusions regarding efficacy and safety.\n\n2. **Adverse Event Profile**: Participants reported a high incidence of severe adverse events including neutropenia, thrombocytopenia, and gastrointestinal complications. The incidence of grade 3 and 4 toxicities was noted to exceed 40%, prompting concerns about the safety of the combination, thereby contributing to attrition rates among enrolled subjects.\n\n3. **Pharmacodynamic Interactions**: Preliminary outcomes indicated complex interactions between bendamustine and pomalidomide, which may have affected the expected therapeutic response negatively. Pharmacokinetic studies suggested alterations in the metabolism of bendamustine, potentially compromising its therapeutic efficacy.\n\n4. **Lack of Efficacy Evidence**: The conjoint treatment failed to produce sufficient data demonstrating a meaningful increase in overall response rates compared to existing regimens. Interim analysis after the first 20 patients indicated a less-than-expected response when measured against predefined efficacy thresholds established from historical controls.\n\n5. **Heterogeneity in Patient Populations**: The variation in baseline characteristics (including prior treatment history and concurrent medical conditions) complicated data interpretation, leading to inconclusive results regarding the efficacy of the combined therapies. Coupled with variables such as Eastern Cooperative Oncology Group (ECOG) performance status scores, this variability further muddied the analyses necessary to relate outcomes to the treatment regimen."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient accrual and unmanageable safety profile.",
+    "start_date": "January 15, 2014",
+    "completion_date": "March 10, 2018",
+    "primary_completion_date": "June 15, 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 6 months",
+      "description": "The percentage of participants achieving a complete response (CR) or partial response (PR) as per the International Myeloma Working Group criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Up to 30 days post-treatment",
+        "description": "Assessment of all adverse events, focusing on the incidence of grade 3 and higher toxicities."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From start of treatment until disease progression or death, up to 12 months.",
+        "description": "The duration from the initiation of therapy until documented disease progression."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "25",
+    "condition": "Multiple Myeloma",
+    "arm_group": {
+      "arm_group_label": "Bendamustine and Pomalidomide",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive bendamustine IV over 1 hour on days 1 and 4, and pomalidomide at 4 mg orally on days 1-21 of a 28-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bendamustine",
+        "description": "Bendamustine administered at a dose of 70 mg/m2 on days 1 and 4 of each 28-day cycle.",
+        "arm_group_label": "Bendamustine and Pomalidomide"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pomalidomide",
+        "description": "Pomalidomide given at a dose of 4 mg once daily on days 1-21 of each cycle.",
+        "arm_group_label": "Bendamustine and Pomalidomide"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Histologically confirmed multiple myeloma.\n2. Relapsed or refractory after at least one line of therapy, including lenalidomide or bortezomib.\n3. Adequate organ function and performance status (ECOG ≤ 2).\n4. Signed informed consent.\n\nExclusion Criteria:\n1. Previous treatment with bendamustine.\n2. Known hypersensitivity to either medication.\n3. Significant cardiovascular disease.\n4. Active infection requiring systemic treatment.\n5. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michael B. Haller, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2018",
+    "study_first_submitted": "August 5, 2014",
+    "study_first_submitted_qc": "August 5, 2014",
+    "study_first_posted": "August 10, 2014",
+    "last_update_submitted": "March 12, 2018",
+    "last_update_posted": "March 20, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Johns Hopkins University"
+    },
+    "keyword": ["Bendamustine", "Pomalidomide", "Multiple Myeloma", "Chemotherapy", "Combination Therapy"],
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bendamustine Hydrochloride", "Pomalidomide", "Chemotherapy"]
+    }
+  }
+}
+```

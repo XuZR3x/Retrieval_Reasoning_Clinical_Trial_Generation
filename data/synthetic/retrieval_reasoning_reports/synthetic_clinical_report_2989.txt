@@ -1,0 +1,284 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01654387"
+    },
+    "id_info": {
+      "org_study_id": "NN1250-3786",
+      "secondary_id": ["2012-001320-32", "U1111-1120-2093"],
+      "nct_id": "NCT01654387"
+    },
+    "brief_title": "Efficacy and Safety Study of Insulin Degludec vs Insulin Glargine in Adults With Type 2 Diabetes",
+    "acronym": "BEGIN\u2122: TIGHT",
+    "official_title": "A 26-week Study to Compare Efficacy and Safety of Insulin Degludec and Insulin Glargine in Patients With Type 2 Diabetes Mellitus: Results from a Randomised, Open-label, Parallel-group Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novo Nordisk A/S",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novo Nordisk A/S",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial was conducted in North America, Europe, and Asia. The objective was to evaluate the comparative efficacy and safety of insulin degludec against insulin glargine in a population of adults diagnosed with Type 2 Diabetes Mellitus. Primary outcomes included the change in HbA1c levels after 26 weeks of treatment."
+    },
+    "overall_status": "Terminated",
+    "completion_date": "March 2013",
+    "start_date": "January 2012",
+    "primary_completion_date": "February 2013",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Glycosylated Haemoglobin (HbA1c)",
+      "time_frame": "Baseline to Week 26",
+      "description": "Assessment of change in HbA1c levels measured from baseline to week 26."
+    },
+    "secondary_outcome": {
+      "measure": "Frequency of Hypoglycemic Events",
+      "time_frame": "Weeks 1 to 26",
+      "description": "Incidence of documented hypoglycemic episodes throughout the trial duration."
+    },
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": ["Diabetes", "Diabetes Mellitus, Type 2"],
+    "arm_group": [
+      {
+        "arm_group_label": "IDeg Once Daily",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "IGlar Once Daily",
+        "arm_group_type": "Active Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin Degludec",
+        "description": "Insulin degludec injected subcutaneously once daily at bedtime.",
+        "arm_group_label": "IDeg Once Daily"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin Glargine",
+        "description": "Insulin glargine injected subcutaneously once daily at bedtime.",
+        "arm_group_label": "IGlar Once Daily"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 years or older with a diagnosis of Type 2 Diabetes Mellitus.\n- HbA1c levels between 7.0-10.0% (inclusive) at screening.\n- Currently on treatment with Metformin or any antihyperglycemic agent.\n\nExclusion Criteria:\n- Previous use of insulin or GLP-1 receptor agonists within the last 6 months.\n- History of severe cardiovascular disease.\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Study Team",
+      "role": "Study Director",
+      "affiliation": "Novo Nordisk A/S"
+    },
+    "location": [{
+      "facility": {
+        "name": "Novo Nordisk Investigational Site",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90001",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "United Kingdom", "France"]
+    },
+    "link": {
+      "url": "http://novonordisk-trials.com",
+      "description": "Clinical Trials at Novo Nordisk"
+    },
+    "results_reference": {
+      "citation": "Zinman B et al. 'Efficacy of insulin degludec compared to insulin glargine in adults with Type 2 Diabetes: Results of the TIGHT trial.' Diabetes Care. 2014 Jan;37(1):113-21.",
+      "PMID": "24136855"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "December 15, 2011",
+    "study_first_posted": "January 10, 2012",
+    "last_update_submitted": "February 14, 2014",
+    "last_update_posted": "February 20, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial was conducted at 35 sites across 5 countries. Enrollment challenges were noted, particularly in North American sites due to stringent recruitment parameters.",
+        "group_list": {
+          "group": [{
+            "title": "IDeg Once Daily",
+            "description": "Patients received once-daily insulin degludec for 26 weeks."
+          }, {
+            "title": "IGlar Once Daily",
+            "description": "Patients received once-daily insulin glargine for 26 weeks."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": ["320 screened", "160 randomized"]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": ["50 completed IDeg", "50 completed IGlar"]
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": ["High withdrawal rates (30%) due to perceived lack of efficacy and adverse events."]
+                }
+              }]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                "title": "Adverse Event",
+                "participants_list": {
+                  "participants": ["Patients reported significant discomfort related to injection site reactions."]
+                }
+              }, {
+                "title": "Lack of Efficacy",
+                "participants_list": {
+                  "participants": ["Patients expressed dissatisfaction due to lack of hypoglycemic control."]
+                }
+              }]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [{
+              "title": "IDeg Once Daily",
+              "description": "Population demographics included mean age of 55, with 60% females."
+            }, {
+              "title": "IGlar Once Daily",
+              "description": "Population demographics included similar mean age, with 58% females."
+            }]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [160, 160]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [{
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "SD"
+            }, {
+              "title": "HbA1c",
+              "units": "percentage",
+              "param": "Mean",
+              "dispersion": "SD"
+            }]
+          }
+        },
+        "outcome_list": {
+          "outcome": [{
+            "type": "Primary",
+            "title": "Change in Glycosylated Haemoglobin (HbA1c)",
+            "description": "The overall change was not statistically significant between the two groups at 26 weeks.",
+            "time_frame": "26 weeks",
+            "population": "Per-protocol set",
+            "measure": {
+              "title": "Change in HbA1c",
+              "units": "percentage",
+              "param": "Mean",
+              "dispersion": "SD"
+            }
+          }, {
+            "type": "Secondary",
+            "title": "Frequency of Hypoglycemic Events",
+            "description": "The frequency of hypoglycemic events was higher in the insulin degludec group.",
+            "time_frame": "26 weeks",
+            "population": "Safety analysis set",
+            "measure": {
+              "title": "Hypoglycemic Events",
+              "units": "events per participant",
+              "param": "Count"
+            }
+          }]
+        },
+        "reported_events": {
+          "time_frame": "Adverse events were tracked throughout the 26-week trial.",
+          "desc": "A total of 45 participants experienced events related to severe or moderate hypoglycemia.",
+          "group_list": {
+            "group": [{
+              "title": "IDeg Once Daily",
+              "description": "The IDeg arm reported higher rates of injection site reactions."
+            }, {
+              "title": "IGlar Once Daily",
+              "description": "The IGlar arm reported fewer adverse events."
+            }]
+          },
+          "serious_events": {
+            "default_vocab": "MedDRA 13.1",
+            "default_assessment": "Systematic Assessment",
+            "category_list": [{
+              "title": "Total Serious Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [6, 2]
+                }
+              }
+            }]
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_vocab": "MedDRA 13.1",
+            "default_assessment": "Systematic Assessment",
+            "category_list": [{
+              "title": "Total, other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Upper respiratory tract infection",
+                  "counts": [10, 5]
+                }
+              }
+            }]
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "Novo Nordisk maintains the right to be informed of any Investigator plans for publication and to review any scientific paper, presentation, or communication concerning the investigation described in this protocol."
+        },
+        "point_of_contact": {
+          "name_or_title": "Public Access to Clinical Trials",
+          "organization": "Novo Nordisk A/S",
+          "email": "clinicaltrials@novonordisk.com"
+        }
+      }
+    }
+  }
+}
+```

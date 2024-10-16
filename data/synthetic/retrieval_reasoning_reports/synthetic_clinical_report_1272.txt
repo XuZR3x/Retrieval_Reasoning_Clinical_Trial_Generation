@@ -1,0 +1,156 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03056213"
+    },
+    "id_info": {
+      "org_study_id": "Varenicline-2021",
+      "nct_id": "NCT03056213"
+    },
+    "brief_title": "Assessment of Varenicline Efficacy in Smokers Undergoing Psychiatric Treatment",
+    "official_title": "Efficacy of Varenicline for Smoking Cessation in Patients with Co-occurring Psychiatric Disorders",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "State University Hospital",
+        "agency_class": "Academic Institution"
+      }
+    },
+    "source": "State University Hospital",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to assess the efficacy of varenicline as a smoking cessation agent among patients with various psychiatric disorders. A concurrent evaluation of relapse prevention strategies was included."
+    },
+    "detailed_description": {
+      "textblock": "The study sought to enroll patients aged 18-65, currently diagnosed with psychiatric disorders, who are motivated to quit smoking. Participants were expected to receive varenicline at doses gradually escalating from 0.5 mg to 1 mg twice daily over a twelve-week period, accompanied by structured behavioral therapy. The primary outcome measure was the rate of smoking cessation at 12 weeks, as confirmed by carbon monoxide validation. Secondary outcomes included retention in treatment and self-reported depressive symptoms using the Beck Depression Inventory (BDI). Challenges included difficulty with recruitment due to strict exclusion criteria, as many potential participants were already on various psychiatric medications, rendering them ineligible."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to insufficient recruitment combined with challenges in protocol adherence and participant motivation.",
+    "start_date": "March 2021",
+    "completion_date": "March 2023",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Smoking cessation rate at 12 weeks",
+      "time_frame": "12 weeks post-initiation of treatment",
+      "description": "Measured using both subjective reporting and objective carbon monoxide level verification."
+    },
+    "secondary_outcome": {
+      "measure": "Change in depressive symptoms (BDI)",
+      "time_frame": "Monitored at baseline, 6 weeks, and 12 weeks",
+      "description": "Evaluated alongside smoking abstinence to understand the impact on mental health."
+    },
+    "enrollment": 15,
+    "condition": ["Cigarette Smoking", "Psychiatric Disorders"],
+    "arm_group": {
+      "arm_group_label": "Varenicline Treatment Group",
+      "arm_group_type": "Active Comparator",
+      "description": "Participants administered varenicline with behavioral therapy."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Varenicline",
+      "description": "Varenicline titrated from 0.5 mg daily to 1 mg twice daily over a 12-week period, following treatment guidelines."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Adults aged 18-65 with a diagnosis of a psychiatric disorder.\n  - Current tobacco users. \n  - Expressed motivation to quit smoking. \n\n Exclusion Criteria:\n  - Previous adverse reaction to varenicline.\n  - Current treatment with medications contraindicated with varenicline.\n  - Unstable psychiatric conditions or recent hospitalizations."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sophia R. Miller, MD",
+      "role": "Principal Investigator",
+      "affiliation": "State University Hospital"
+    },
+    "location": {
+      "facility": {
+        "name": "State University Hospital",
+        "address": {
+          "city": "Metropolis",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_submitted_qc": "February 16, 2021",
+    "study_first_posted": "February 20, 2021",
+    "last_update_submitted": "March 10, 2023",
+    "last_update_posted": "March 15, 2023",
+    "keyword": ["smoking cessation", "varenicline", "psychiatric disorders"],
+    "intervention_browse": {
+      "mesh_term": "Varenicline"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were expected to be recruited from psychiatric outpatient clinics, but enrollment was hampered by an insufficient number of eligible candidates meeting the strict inclusion criteria."
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Treatment Group",
+            "description": "Participants receiving varenicline and therapy."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [15]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Participants were monitored throughout the study for any adverse events related to intervention.",
+        "group_list": {
+          "group": {
+            "title": "Varenicline Treatment Group",
+            "description": "Participant adherence and report of adverse events."
+          }
+        },
+        "serious_events": {
+          "total": {
+            "event_list": [{
+              "sub_title": "Total Hospitalizations",
+              "counts": 1
+            }]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "total": {
+            "event_list": [{
+              "sub_title": "Total Non-serious Adverse Events",
+              "counts": [3]
+            }]
+          }
+        }
+      },
+      "limitations_and_caveats": "The study faced challenges with recruitment, with only 15 participants enrolled versus the target of 100, and compliance with the behavioral intervention was noted as inadequate in some cases."
+    }
+  }
+}
+```

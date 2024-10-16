@@ -1,0 +1,140 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03607458"
+    },
+    "id_info": {
+      "org_study_id": "DBT-2025-03",
+      "nct_id": "NCT03607458"
+    },
+    "brief_title": "Efficacy and Safety of Dabigatran Compared to Phenprocoumon in Higher Risk Patients with Atrial Fibrillation",
+    "official_title": "A Randomized, Open-Label Trial Assessing the Efficacy and Safety of Dabigatran versus Phenprocoumon in Patients with Atrial Fibrillation at High Risk of Stroke",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Central Hospital of the University Jena",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Central Hospital of the University Jena",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to compare the clinical outcomes and safety profile of Dabigatran with Phenprocoumon in patients with atrial fibrillation at high stroke risk, specifically focusing on endpoint measures of thromboembolic events and major bleeding incidents."
+    },
+    "detailed_description": {
+      "textblock": "Anticoagulation therapy is vital for stroke prevention in patients with atrial fibrillation. Dabigatran, a direct thrombin inhibitor, offers a potential alternative to vitamin K antagonists like phenprocoumon. Though dabigatran has been shown to be effective in clinical settings, concerns related to safety, particularly bleeding events, and pharmacodynamic interactions with concomitant therapy, especially clopidogrel, have arisen.\n\nThis trial was designed as a randomized, open-label study involving patients diagnosed with atrial fibrillation and a high CHA2DS2-VASc score. Participants were randomly assigned to receive either dabigatran or phenprocoumon over a 12-month treatment period, with primary outcomes revolving around rates of stroke (ischemic and hemorrhagic) and major bleeding complications. Secondary outcomes included patient quality of life assessments and overall satisfaction with treatment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study was terminated due to significant safety concerns and insufficient patient enrollment.",
+    "start_date": "September 2018",
+    "completion_date": "March 2021",
+    "primary_completion_date": "January 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of thromboembolic events and major bleeding events",
+      "time_frame": "throughout the treatment period, up to 12 months",
+      "description": "Determination of the relative incidence of thromboembolic and major bleeding events in both treatment groups."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of minor bleeding events",
+        "time_frame": "throughout the treatment period, up to 12 months",
+        "description": "Documenting all minor bleeding incidents as per study definitions."
+      },
+      {
+        "measure": "Patients' quality of life metrics",
+        "time_frame": "assessed at baseline, 6 months, and 12 months",
+        "description": "Utilizing validated questionnaires to assess patient quality of life changes."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": ["Atrial Fibrillation", "Stroke", "Bleeding Disorder"],
+    "arm_group": [
+      {
+        "arm_group_label": "Dabigatran Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients in this arm received Dabigatran 150mg twice daily."
+      },
+      {
+        "arm_group_label": "Phenprocoumon Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients in this arm received Phenprocoumon adjusted to the INR target range of 2.0-3.0."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dabigatran",
+        "description": "Patients assigned to this group will receive Dabigatran according to protocol.",
+        "arm_group_label": "Dabigatran Group",
+        "other_name": "Pradaxa"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Phenprocoumon",
+        "description": "Patients assigned to this group will receive Phenprocoumon adjusted for INR levels.",
+        "arm_group_label": "Phenprocoumon Group",
+        "other_name": "Marcumar"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria:\n - Adults aged 18 years and older with a confirmed diagnosis of atrial fibrillation.\n - High stroke risk indicated by a CHA2DS2-VASc score ≥ 2.\n - Capability to provide informed consent.\n\nKey Exclusion Criteria:\n - Active gastrointestinal bleeding or a history of bleeding disorders.\n - Severe renal impairment (GFR < 30 mL/min).\n - Concurrent use of other anticoagulants or antiplatelet therapies, including high doses of clopidogrel."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas Bergmann",
+      "role": "Principal Investigator",
+      "affiliation": "Central Hospital of the University Jena, Department of Cardiology"
+    },
+    "location": {
+      "facility": {
+        "name": "Central Hospital of the University Jena",
+        "address": {
+          "city": "Jena",
+          "zip": "07743",
+          "country": "Germany"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Germany"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "May 15, 2018",
+    "study_first_submitted_qc": "June 14, 2018",
+    "study_first_posted": "June 20, 2018",
+    "last_update_submitted": "March 22, 2021",
+    "last_update_posted": "March 23, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "condition_browse": {
+      "mesh_term": ["Atrial Fibrillation", "Thromboembolic Disorders", "Hemorrhage"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Dabigatran", "Phenprocoumon"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

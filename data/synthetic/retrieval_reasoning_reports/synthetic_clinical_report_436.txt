@@ -1,0 +1,394 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "ROSUVA-OUTCOME-1",
+      "secondary_id": "CTRI/2015/06/005204",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Evaluating the Efficacy of Rosuvastatin in Reducing Progression of Renal Disease in Diabetic Patients",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Assessing the Impact of Rosuvastatin on Renal Function in Patients with Diabetes Mellitus",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Diabetes Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Diabetes Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of rosuvastatin in improving renal outcomes in patients with diabetes mellitus. Previous studies have shown conflicting results regarding the renal protective effects of statins, particularly in diabetic populations. This trial focused on patients with varying degrees of renal impairment and those receiving concomitant antihypertensive therapy."
+    },
+    "detailed_description": {
+      "textblock": "In this 52-week study, participants were randomized to receive either rosuvastatin (10 mg daily) or a matching placebo. The primary outcome measure was the change in estimated glomerular filtration rate (eGFR) from baseline to week 52.\r\n\r\nSecondary endpoints included the progression of proteinuria and the incidence of adverse cardiovascular events. Patients were closely monitored for renal function, cardiovascular health, and any adverse reactions during the study period."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 10, 2015",
+    "completion_date": "January 15, 2021",
+    "primary_completion_date": "October 20, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Estimated Glomerular Filtration Rate (eGFR)",
+      "time_frame": "Baseline to week 52",
+      "description": "The primary endpoint will assess the difference in eGFR from baseline to 52 weeks between groups."
+    },
+    "secondary_outcome": {
+      "measure": "Progression of Proteinuria",
+      "time_frame": "Measured at baseline, 26 weeks, and 52 weeks",
+      "description": "Progression of proteinuria will be assessed through Urinary Protein-to-Creatinine Ratio."
+    },
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Diabetes Mellitus, Renal Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Rosuvastatin Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive rosuvastatin 10 mg daily."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive a placebo identical in appearance to the study medication."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rosuvastatin",
+        "description": "10 mg oral dose administered once daily.",
+        "arm_group_label": "Rosuvastatin Group",
+        "other_name": "Crestor"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Placebo administered once daily identical in appearance to the active drug.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Age ≥ 18 years\r\n  - Diagnosis of Type 1 or Type 2 Diabetes Mellitus\r\n  - eGFR ≥ 30 mL/min\r\n  - Stable antihypertensive therapy for at least 3 months\r\n\r\nExclusion Criteria:\r\n  - Previous therapy with statins within 6 months prior to screening\r\n  - Pregnant or nursing women\r\n  - Known hypersensitivity to statins\r\n  - Active liver disease or significant impairment of liver function."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Alice Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "Diabetes Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Diabetes Research Institute Clinic",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60637",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Regional General Hospital",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77002",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada"]
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "November 15, 2014",
+    "study_first_submitted_qc": "November 20, 2014",
+    "study_first_posted": "December 01, 2014",
+    "last_update_submitted": "March 05, 2021",
+    "last_update_posted": "March 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Diabetes Research Institute, Chicago",
+      "investigator_full_name": "Dr. Alice Johnson, MD"
+    },
+    "keyword": ["Rosuvastatin", "Diabetes Mellitus", "eGFR", "Renal Disease"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Renal Insufficiency"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Rosuvastatin Calcium"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 250 diabetes patients were enrolled across eight centers.",
+        "pre_assignment_details": "Patients completing the study intervention will be analyzed for outcomes with intention-to-treat principles.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Rosuvastatin",
+              "description": "Participants received 10 mg daily."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants received placebo daily."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [250, 125]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [100, 108]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [150, 17]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Rosuvastatin",
+              "description": "Study group receiving rosuvastatin."
+            },
+            {
+              "title": "Placebo",
+              "description": "Study group receiving placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [250, 125]  // Placeholder for actual counts
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": {
+                        "count": [250, 125] // Placeholder for actual counts
+                      }
+                    }
+                  },
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [45, 48] // Placeholder for actual mean ages
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in Estimated Glomerular Filtration Rate (eGFR)",
+            "description": "Comparison of eGFR changes from baseline to week 52 between the rosuvastatin and placebo groups.",
+            "time_frame": "Assessed at baseline and week 52",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Rosuvastatin",
+                  "description": "Patients receiving rosuvastatin 10 mg."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Patients receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Estimated Glomerular Filtration Rate (eGFR)",
+              "units": "mL/min",
+              "param": "Mean Change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [250, 125] // Placeholder for actual counts
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression of Proteinuria",
+            "description": "Assessing changes in urinary protein-to-creatinine ratio over time.",
+            "time_frame": "Measured at baseline, 26 weeks, and 52 weeks",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Rosuvastatin",
+                  "description": "Patients receiving rosuvastatin."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Patients receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Protein-to-Creatinine Ratio",
+              "units": "mg/g",
+              "param": "Geometric Mean Change",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [250, 125] // Placeholder for actual counts
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Rosuvastatin",
+              "description": "Adverse event reporting for participants on rosuvastatin."
+            },
+            {
+              "title": "Placebo",
+              "description": "Adverse event reporting for participants on placebo."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [15, 10]  // Placeholder for actual counts
+                  }
+                }
+              },
+              {
+                "title": "Cardiac Disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Acute Kidney Injury",
+                      "counts": [5, 0] // Placeholder for counts in each group
+                    },
+                    {
+                      "sub_title": "Heart Failure",
+                      "counts": [3, 1]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Other Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [20, 18]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea",
+                    "counts": [10, 5]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is no agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Alice Johnson",
+        "organization": "Diabetes Research Institute",
+        "email": "alice.johnson@diabetesresearch.org"
+      }
+    }
+  }
+}
+```

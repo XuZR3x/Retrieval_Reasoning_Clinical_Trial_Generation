@@ -1,0 +1,442 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "2024P005678",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Efficacy of Teriparatide in Enhancing Lumbar Spine Bone Density in Patients With Chronic Rheumatoid Arthritis",
+    "official_title": "A Randomized Controlled Trial of Teriparatide Versus Placebo in Patients With Chronic Rheumatoid Arthritis: Impact on Lumbar Spine Bone Density and Joint Erosion",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Prestige Medical Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Prestige Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of teriparatide in increasing lumbar spine bone density and its potential role in reducing joint erosion in patients with chronic rheumatoid arthritis. The primary focus is to assess the biochemical and clinical outcomes influenced by teriparatide therapy."
+    },
+    "detailed_description": {
+      "textblock": "I. Introduction:\n\nRheumatoid arthritis (RA) is a chronic inflammatory disorder that can lead to significant bone loss and joint damage due to enhanced bone resorption. The introduction of anabolic agents like teriparatide raises the question of their effectiveness in mitigating RA-associated bone loss. This trial assesses teriparatide’s impact on lumbar spine bone density over a 12-month treatment period.\n\nII. Objectives and Hypotheses:\n\nThe primary objective is to evaluate the change in lumbar spine bone mineral density (BMD) assessed by dual-energy X-ray absorptiometry (DXA). Secondary objectives include evaluating the impact on joint erosion volume via MRI.\n\nThe underlying hypothesis posits that teriparatide, due to its anabolic properties, will facilitate a significant increase in lumbar spine BMD compared to placebo, despite the inflammatory background of RA potentially limiting its effectiveness.\n\nIII. Statistical Design:\n\nThe trial utilizes a randomized, double-blind, placebo-controlled design, ensuring adequate power to detect differences in BMD and joint erosion metrics between treatment arms. High baseline corticosteroid usage and associated osteoporosis also contribute complexity to the expected outcomes.\n\nIV. Sample Size:\n\nBased on preliminary data, a sample size of 60 participants (30 per arm) was calculated to provide 80% power to detect a clinically relevant change in BMD, anticipating a drop-out rate of 20%."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2015",
+    "completion_date": "January 2018",
+    "primary_completion_date": "January 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Change in Lumbar Spine Bone Mineral Density Measured by DXA",
+      "time_frame": "Baseline and Month 12",
+      "description": "BMD measurements at baseline and at the 12-month endpoint comparing efficacy between teriparatide and placebo cohorts."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change from Baseline in Joint Erosion Volume Assessed via MRI",
+        "time_frame": "Baseline and Month 12",
+        "description": "Assessment of joint erosion using MRI to quantify changes pertaining to treatment efficacy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": "Rheumatoid Arthritis",
+    "arm_group": [
+      {
+        "arm_group_label": "Teriparatide",
+        "arm_group_type": "Experimental",
+        "description": "Participants received teriparatide 20 micrograms (ug) daily via subcutaneous injection along with standard care."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Control",
+        "description": "Participants received a placebo injection daily along with standard care."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Teriparatide",
+        "description": "20 ug daily, subcutaneous injection",
+        "arm_group_label": "Teriparatide",
+        "other_name": "Forteo"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Daily subcutaneous injection",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 45-85 with chronic RA, diagnosed according to the ACR/EULAR criteria.\n- Documented lumbar osteopenia with a DXA T-score between -1.0 and -2.5.\n- Stable dosing of RA therapies, including DMARDs and biologics for at least three months prior to screening.\n\nExclusion Criteria:\n\n- Use of systemic corticosteroids exceeding 5 mg of prednisone for more than 30 days prior to enrollment.\n- Current or prior history of malignancies in the last 5 years, excluding basal cell carcinoma.\n- Severe co-morbidities affecting trial participation.\n- Prior treatment with teriparatide or bisphosphonates within the last 12 months."
+      },
+      "gender": "All",
+      "minimum_age": "45 Years",
+      "maximum_age": "85 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily T. Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Prestige Medical Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Prestige Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of California, San Francisco",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94102",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "verification_date": "February 2018",
+    "study_first_submitted": "October 10, 2014",
+    "study_first_submitted_qc": "October 10, 2014",
+    "study_first_posted": "October 12, 2014",
+    "results_first_submitted": "February 16, 2018",
+    "results_first_submitted_qc": "February 16, 2018",
+    "results_first_posted": "February 20, 2018",
+    "last_update_submitted": "February 20, 2018",
+    "last_update_submitted_qc": "February 20, 2018",
+    "last_update_posted": "March 1, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Prestige Medical Center",
+      "investigator_full_name": "Emily T. Johnson, MD"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Arthritis",
+        "Arthritis, Rheumatoid"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Teriparatide",
+        "Vitamin D",
+        "Calcium"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Teriparatide",
+              "description": "Participants received teriparatide 20 µg daily, along with standard care."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants received a placebo subcutaneous injection daily, along with standard care."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "Overall Participant Enrollment",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [
+                        "60 participants were initially enrolled, randomized into two arms."
+                      ]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [
+                        "Total of 44 participants completed the study."
+                      ]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": [
+                        "16 participants withdrew for various reasons, primarily due to adverse events or non-adherence."
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in Lumbar Spine Bone Mineral Density Measured by DXA",
+            "description": "Teriparatide did not yield a statistically significant difference in lumbar spine BMD compared to placebo, measured before and after 12 months of therapy.",
+            "time_frame": "12 Months",
+            "population": "Data analyzed from participants with complete datasets (n=44).",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Teriparatide",
+                  "description": "Mean BMD increase was 0.01 g/cm^2."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean BMD decrease was 0.02 g/cm^2."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change in Lumbar Spine BMD",
+              "population": "44 participants with complete data were analyzed.",
+              "units": "grams/centimeters squared (g/cm^2)",
+              "param": "Mean Change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              },
+              "class_list": {
+                "class": [
+                  {
+                    "title": "Baseline Measurement",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "End of Study Measurement",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "groups_desc": "The hypothesis that teriparatide would show a significant improvement in lumbar spine BMD compared to placebo was not supported.",
+                  "non_inferiority_type": "Not statistically significant",
+                  "method": "ANOVA",
+                  "param_type": "Difference in Means",
+                  "param_value": "p-value = 0.72",
+                  "p_value_desc": "P-value indicates no significant difference."
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in Joint Erosion Volume Assessed by MRI",
+            "description": "MRI assessments showed no significant reduction in joint erosion volume in the teriparatide group compared to placebo.",
+            "time_frame": "12 Months",
+            "population": "Data analyzed from participants whose MRIs were successfully processed (n=44).",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Teriparatide",
+                  "description": "Mean joint erosion volume change was +2.3 mm^3."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean joint erosion volume change was +1.2 mm^3."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change in Joint Erosion Volume",
+              "population": "44 participants with MRI data were analyzed.",
+              "units": "cubic millimeter (mm^3)",
+              "param": "Mean Change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              },
+              "class_list": {
+                "class": [
+                  {
+                    "title": "Baseline Measurement",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "End of Study Measurement",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "groups_desc": "No significant difference in joint erosion volume was noted between teriparatide and placebo groups.",
+                  "non_inferiority_type": "Not statistically significant",
+                  "method": "Linear Regression",
+                  "param_type": "Change Score",
+                  "param_value": "p-value = 0.65",
+                  "p_value_desc": "P-value indicates no significant reduction."
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Up to 12 Months",
+        "group_list": {
+          "group": [
+            {
+              "title": "Control Arm",
+              "description": "Events recorded related to safety and adverse reactions with placebo."
+            },
+            {
+              "title": "Teriparatide",
+              "description": "Adverse events include injection site reactions with minor severity (5 total instances)."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total serious adverse events",
+                    "counts": [0, 1]
+                  }
+                }
+              },
+              {
+                "title": "Injection Site Reactions",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Mild local inflammation",
+                    "counts": [3, 2]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "3",
+          "default_assessment": "Non-systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total other adverse events",
+                    "counts": [6, 5]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [2, 3]
+                    },
+                    {
+                      "sub_title": "Diarrhea",
+                      "counts": [1, 2]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The Principal Investigator has full rights to publish findings without restriction."
+      },
+      "point_of_contact": {
+        "name_or_title": "Emily T. Johnson, MD",
+        "organization": "Prestige Medical Center",
+        "email": "emily.johnson@prestigemedical.org"
+      }
+    }
+  }
+}
+```

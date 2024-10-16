@@ -1,0 +1,315 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "2021-0023",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Ruxolitinib in Combination with Azacitidine in Patients with Myelodysplastic Syndromes",
+    "official_title": "A Phase 2 Study Evaluating the Efficacy and Safety of Ruxolitinib in Combination with Azacitidine in Patients with Myelodysplastic Syndromes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Incyte Corporation",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to investigate whether the combination of ruxolitinib and azacitidine could improve clinical outcomes in patients with myelodysplastic syndromes (MDS). The primary focus was on evaluating the overall response rate (ORR) and safety profile of the combination therapy."
+    },
+    "detailed_description": {
+      "textblock": "Participants were instructed to take ruxolitinib orally at a dosage of 15 mg twice daily, while azacitidine was administered via subcutaneous injection at a dosage of 75 mg/m² on days 1-7 of each 28-day cycle. Treatment was initiated and followed for a maximum of 12 cycles or until disease progression. Regular monitoring of hematologic parameters and adverse events was mandated.\n\nThe trial consisted of two groups, a treatment group receiving the combination of ruxolitinib and azacitidine, and a control group receiving azacitidine alone. Despite strict adherence to the protocol, participant retention was a significant challenge due to perceived lack of efficacy and unacceptable adverse events."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated after interim analysis revealed inadequate efficacy and a high incidence of adverse events, including severe thrombocytopenia and neutropenia, leading to early discontinuation due to the predicted futility in improving patient outcomes.",
+    "start_date": "January 15, 2018",
+    "completion_date": "November 30, 2020",
+    "primary_completion_date": "August 1, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "3 months",
+      "description": "Defined as the proportion of patients achieving complete remission (CR), partial remission (PR), and clinical improvement as per International Working Group (IWG) criteria."
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of Severe Adverse Events",
+      "time_frame": "Through study completion, an average of 12 months",
+      "description": "Monitoring of hematological toxicities and other non-hematologic side effects graded as per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+    },
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": "Myelodysplastic Syndromes",
+    "arm_group": [
+      {
+        "arm_group_label": "Ruxolitinib + Azacitidine",
+        "arm_group_type": "Experimental",
+        "description": "Ruxolitinib combined with Azacitidine."
+      },
+      {
+        "arm_group_label": "Azacitidine Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Only Azacitidine is administered to evaluate standard treatment efficacy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ruxolitinib",
+        "description": "Administered at a dose of 15 mg orally twice daily for the duration of the study.",
+        "arm_group_label": "Ruxolitinib + Azacitidine",
+        "other_name": ["Jakafi", "INCB018424"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Azacitidine",
+        "description": "Subcutaneous injection at a dose of 75 mg/m² on days 1-7 of each 28-day cycle.",
+        "arm_group_label": ["Ruxolitinib + Azacitidine", "Azacitidine Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Patients aged ≥18 years with a confirmed diagnosis of MDS.\n\n2. Evidence of bone marrow dysplasia and at least 1 cytogenetic abnormality.\n\n3. ECOG performance status of 0 to 2.\n\n4. Adequate liver and renal function as per protocol-defined parameters.\n\n5. Written informed consent obtained from the participant.\n\nExclusion Criteria:\n\n1. Prior treatment with a JAK inhibitor other than ruxolitinib.\n\n2. Concurrent therapy with any investigational agents or anti-cancer treatments.\n\n3. Pregnancy, lactation, or unwillingness to use adequate contraception.\n\n4. Significant cardiovascular conditions or comorbidities.\n\n5. Known hypersensitivity to ruxolitinib or azacitidine."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Nguyen",
+      "role": "Study Director",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2020",
+    "study_first_submitted": "February 14, 2018",
+    "study_first_submitted_qc": "February 14, 2018",
+    "study_first_posted": "February 15, 2018",
+    "results_first_submitted": "September 30, 2020",
+    "results_first_submitted_qc": "September 30, 2020",
+    "results_first_posted": "December 1, 2020",
+    "last_update_submitted": "December 10, 2020",
+    "last_update_submitted_qc": "December 10, 2020",
+    "last_update_posted": "December 12, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Myelodysplastic Syndromes", "Ruxolitinib", "Azacitidine", "Clinical Response", "Adverse Events"],
+    "condition_browse": {
+      "mesh_term": ["Myelodysplastic Syndromes"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrollment occurred between January 2018 and December 2019 with a total of 60 participants.",
+        "pre_assignment_details": "After initial screening, 10 participants were unable to start treatment due to clinical deterioration or pre-existing medical conditions.",
+        "group_list": {
+          "group": {
+            "title": "Ruxolitinib + Azacitidine",
+            "description": "Enrolled participants started treatment with ruxolitinib and azacitidine."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": 60
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": 0
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": 60
+                }
+              }]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                "title": "High incidence of adverse events",
+                "participants_list": {
+                  "participants": 40
+                }
+              }, {
+                "title": "Experiencing disease progression",
+                "participants_list": {
+                  "participants": 15
+                }
+              }, {
+                "title": "Withdrawal of consent",
+                "participants_list": {
+                  "participants": 5
+                }
+              }]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Overall Baseline",
+            "description": "Demographics and health status information on enrolled participants."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": 50
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+            "title": "Age (Mean)",
+            "units": "years",
+            "param": "Mean",
+            "dispersion": "Standard Deviation",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": {
+                    "measurement_list": {
+                      "measurement": [65, 11]
+                    }
+                  }
+                }
+              }
+            }
+          }, {
+            "title": "Sex Distribution (Male, Female)",
+            "units": "Participants",
+            "param": "Count",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": [{
+                    "title": "Male",
+                    "measurement_list": {
+                      "measurement": 30
+                    }
+                  }, {
+                    "title": "Female",
+                    "measurement_list": {
+                      "measurement": 20
+                    }
+                  }]
+                }
+              }
+            }
+          }]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Objective Response Rate (ORR)",
+          "description": "Measured as a percentage of participants who achieved clinical improvement or defined remissions.",
+          "time_frame": "Post 3 cycles, to the maximum duration.",
+          "group_list": {
+            "group": {
+              "title": "Ruxolitinib + Azacitidine",
+              "description": "Patients evaluated post-cycles demonstrated insufficient overall response."
+            }
+          },
+          "measure": {
+            "title": "Overall Response",
+            "description": "Low objective response rates observed in this study (approximately 15% of participants).",
+            "units": "Percentage",
+            "param": "Number with response",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [8, 60]
+                }
+              }
+            }
+          }
+        }, {
+          "type": "Secondary",
+          "title": "Incidence of Adverse Events",
+          "description": "Reported events included high levels of heme toxicities, particularly thrombocytopenia and neutropenia.",
+          "time_frame": "Throughout the study duration until the final treatment cycle.",
+          "group_list": {
+            "group": {
+              "title": "Ruxolitinib + Azacitidine",
+              "description": "Participants documented high reporting of Grade 3-4 toxicities."
+            }
+          },
+          "measure": {
+            "title": "Adverse Events",
+            "description": "Toxicity profile of combined treatment indicated an adverse event rate of approximately 70%.",
+            "units": "Percentage",
+            "param": "Percentage with adverse events",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [35, 60]
+                }
+              }
+            }
+          }
+        }],
+        "reported_events": {
+          "time_frame": "From treatment initiation through final observation.",
+          "desc": "Regularly documented incidents identified significant adverse events leading to withdrawal."
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators are employed by the organization sponsoring the study.",
+        "restrictive_agreement": "No restrictions apply regarding the discussion of trial results after completion."
+      },
+      "point_of_contact": {
+        "name_or_title": "Emily Nguyen, MD/Lead Investigator",
+        "organization": "Johns Hopkins University",
+        "phone": "410-555-0199",
+        "email": "emily.nguyen@jhmi.edu"
+      }
+    }
+  }
+}
+```

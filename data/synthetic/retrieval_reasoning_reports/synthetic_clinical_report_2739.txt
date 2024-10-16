@@ -1,0 +1,227 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01399867"
+    },
+    "id_info": {
+      "org_study_id": "2010-1234-ABC",
+      "secondary_id": "ABCD-XYZ-001",
+      "nct_id": "NCT01399867"
+    },
+    "brief_title": "Efficacy and Tolerability of Atomoxetine in Adolescents with ADHD and Co-Morbidities",
+    "official_title": "A Phase 2, Double-Blind, Randomized, Placebo-Controlled Trial of Atomoxetine Hydrochloride in Adolescents with Attention Deficit Hyperactivity Disorder (ADHD) and Comorbid Substance Use Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "State University Health System",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "National Institute of Mental Health (NIMH)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "State University Health System",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and tolerability of atomoxetine in treating ADHD symptoms in adolescents aged 12 to 18 with co-existing substance use disorder. The co-occurrence of these conditions poses a significant challenge in treatment approaches, hence the investigation into atomoxetine was warranted. Additionally, the study sought to examine the therapeutic potential while controlling for confounding variables introduced by pre-existing psychiatric conditions."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient sample size due to recruitment challenges against strict eligibility criteria.",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": ["Attention Deficit Hyperactivity Disorder", "Substance Use Disorder"],
+    "arm_group": [
+      {
+        "arm_group_label": "Atomoxetine",
+        "arm_group_type": "Active Comparator",
+        "description": "Arm receiving atomoxetine at a weight-adjusted dose starting at 0.5 mg/kg and titrated to a maximum of 1.8 mg/kg daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Arm receiving placebo matched to atomoxetine capsules."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Atomoxetine",
+        "description": "Administered daily to participants with dose adjusted according to body weight."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo capsules administered daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Male and female adolescents aged 12-18 years.\n- Diagnosis of ADHD according to DSM-5 criteria.\n- Current Substance Use Disorder diagnosis as per DSM-5.\n- ADHD symptom severity rating of at least 1.5 standard deviations above age-adjusted norms.\n\nExclusion Criteria:\n- Prior treatment with atomoxetine or any stimulant medications.\n- Significant medical illnesses affecting participation or adherence to study protocols.\n- History of serious psychiatric disorders requiring hospitalization in the last 12 months."
+      },
+      "gender": "All",
+      "minimum_age": "12 Years",
+      "maximum_age": "18 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jonathan Smith",
+      "role": "Principal Investigator",
+      "affiliation": "State University Health System"
+    },
+    "location": {
+      "facility": {
+        "name": "State University Health System",
+        "address": {
+          "city": "Anytown",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2023",
+    "study_first_submitted": "May 15, 2011",
+    "study_first_posted": "June 1, 2011",
+    "last_update_posted": "July 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "State University Health System",
+      "investigator_full_name": "Dr. Jonathan Smith, PhD"
+    },
+    "condition_browse": {
+      "mesh_term": ["Attention Deficit Disorder with Hyperactivity", "Substance-Related Disorders"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Atomoxetine Hydrochloride"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Despite initial interest, only 15 adolescents consented to participate out of the targeted 150 needed for robust statistical analysis. The recruitment efforts were impeded by strict eligibility cutoffs and patient reluctance to enter a study focused on ADHD and SUD.",
+        "group_list": {
+          "group": {
+            "title": "Atomoxetine",
+            "description": "Adolescents administered atomoxetine."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Study Period",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": "15"}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": "5"}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": "10"}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "description": "The baseline characteristics were recorded but lacked breadth due to low enrollment.",
+        "group_list": {
+          "group": {
+            "title": "Atomoxetine",
+            "description": "Receives atomoxetine."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": "15"
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in ADHD-IV Rating Scale Total Score",
+            "description": "Score assessed by clinician ratings to evaluate ADHD severity before and after the treatment period.",
+            "time_frame": "Measured at baseline and at Week 8.",
+            "group_list": {
+              "group": {
+                "title": "Analysis group",
+                "description": "Atomoxetine group."
+              }
+            },
+            "measure": {
+              "title": "ADHD Rating Scale-IV",
+              "description": "An 18-item tool assessing ADHD symptoms.",
+              "units": "Scale Score"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Rate of adverse effects",
+            "description": "Reported based on participant feedback over the treatment duration.",
+            "time_frame": "Throughout study",
+            "group_list": {
+              "group": {
+                "title": "Atomoxetine",
+                "description": "Nightmares and gastrointestinal side effects reported."
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Atomoxetine treatment group",
+            "description": "No serious adverse events reported—mild gastrointestinal disturbances noted."
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "category_list": {
+            "category": [
+              {
+                "title": "Gastrointestinal Distress",
+                "event_list": {
+                  "event": [{"sub_title": "Nausea", "counts": "5"}]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "limitations_and_caveats": "The study's premature termination was primarily attributable to inadequate recruitment, rendering the sample size insufficient to derive statistically significant results. Additionally, the co-morbidities among participants obscured potential insights into atomoxetine's efficacy, influenced by the heterogeneous baseline severity of ADHD symptoms and confounding variables associated with Substance Use Disorder.",
+      "point_of_contact": {
+        "name_or_title": "Dr. Jonathan Smith",
+        "organization": "State University Health System",
+        "phone": "555-123-4567",
+        "email": "jsmith@university.edu"
+      }
+    }
+  }
+}
+```

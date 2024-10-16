@@ -1,0 +1,155 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02093257"
+    },
+    "id_info": {
+      "org_study_id": "CE0502",
+      "nct_id": "NCT02093257"
+    },
+    "brief_title": "Phase II Trial of Cetuximab Combined With Chemotherapy for Patients With Squamous Cell Carcinoma of the Head and Neck",
+    "official_title": "A Phase II, Multicenter, Open-Label Study of Cetuximab in Combination With Cisplatin and 5-Fluorouracil in Patients With Histologically Confirmed Squamous Cell Carcinoma of the Head and Neck",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Cancer Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Merck KGaA",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "International Cancer Research Institute",
+    "brief_summary": {
+      "textblock": "This study evaluates the efficacy and safety of cetuximab in combination with cisplatin and 5-fluorouracil in patients with advanced squamous cell carcinoma of the head and neck, utilizing a comprehensive pharmacogenetic approach to tailor treatment."
+    },
+    "detailed_description": {
+      "textblock": "This Phase II, open-label trial aims to enroll 100 patients diagnosed with advanced squamous cell carcinoma of the head and neck. Participants will receive cetuximab in conjunction with a chemotherapy regimen comprising cisplatin and 5-fluorouracil (5-FU). The design incorporates extensive pharmacogenetic assessments to evaluate genetic factors affecting treatment response and tolerability. The primary objectives are to determine the clinical efficacy defined by overall response rates and the safety profile of the combination treatment. Secondary outcomes include progression-free survival, quality of life evaluations utilizing the Functional Assessment of Cancer Therapy - Head and Neck (FACT-HN) scale, and the monitoring of specific pharmacogenetic markers related to the efficacy and toxicity of cetuximab."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2014",
+    "completion_date": "April 2020",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (Complete and Partial Responses)",
+      "time_frame": "From baseline to 12 weeks post-induction therapy",
+      "description": "Objective response rate assessed by imaging using RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Up to 1 year",
+        "description": "Measured from the start of therapy to documented disease progression or death."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "At baseline, 12 weeks post-induction therapy, and at 1 year",
+        "description": "Evaluated using the FACT-HN scale to determine changes in patient-reported outcomes."
+      },
+      {
+        "measure": "Incidence of Adverse Events (AEs)",
+        "time_frame": "Throughout treatment and 30 days post-treatment",
+        "description": "Adverse events will be documented according to NCI CTCAE v5.0."
+      }
+    ],
+    "enrollment": "100",
+    "condition": "Squamous Cell Carcinoma of the Head and Neck",
+    "arm_group": {
+      "arm_group_label": "Cetuximab with Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive cetuximab (400 mg/m2 loading dose followed by 250 mg/m2 weekly) combined with cisplatin (100 mg/m2) and 5-fluorouracil (1000 mg/m2) for induction therapy."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cetuximab",
+        "description": "Administered as an intravenous infusion."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Administered as an intravenous infusion."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "5-Fluorouracil",
+        "description": "Administered intravenously over 24 hours on a continuous infusion basis."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed squamous cell carcinoma of the head and neck\n- Unresectable stage III or IV disease\n- Measurable disease per RECIST 1.1\n- ECOG performance status of 0-1\n\nExclusion Criteria:\n- Prior treatment with cetuximab or other EGFR inhibitors\n- Any previous chemotherapy for head and neck cancer\n- Patients with active infections or history of allergic reactions to study drugs\n- Women who are pregnant or lactating"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Marjorie L. Sutherland, MD",
+      "role": "Principal Investigator",
+      "affiliation": "International Cancer Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "General Hospital of Oncology",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Memorial Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10010",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "February 10, 2014",
+    "study_first_posted": "February 14, 2014",
+    "last_update_posted": "April 3, 2020",
+    "keyword": [
+      "Cetuximab",
+      "Head and Neck Cancer",
+      "Cisplatin",
+      "5-Fluorouracil",
+      "EGFR Inhibition"
+    ],
+    "condition_browse": {
+      "mesh_term": "Head and Neck Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Cetuximab",
+        "Cisplatin",
+        "Fluorouracil"
+      ]
+    }
+  }
+}
+```

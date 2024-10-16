@@ -1,0 +1,308 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "CA171-200",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Phase III, Multicenter Study of Ixabepilone Combined With Capecitabine vs. Standard Treatment in Patients With Metastatic Triple-Negative Breast Cancer",
+    "official_title": "A Phase III, Multicenter, Randomized Study to Evaluate the Efficacy and Safety of Ixabepilone Combined With Capecitabine Compared to Docetaxel in Patients With Metastatic Triple-Negative Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "R-Pharm",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "R-Pharm",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to determine whether ixabepilone in combination with capecitabine is more effective than standard docetaxel therapy in improving progression-free survival (PFS) in patients with metastatic triple-negative breast cancer, who have been previously treated with anthracyclines and taxanes. Comprehensive safety and efficacy profiles are also assessed."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2012",
+    "completion_date": "October 2017",
+    "primary_completion_date": "September 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS) as Assessed by RECIST",
+        "time_frame": "From randomization until disease progression or death (up to 24 months)",
+        "description": "PFS is defined as the time from randomization until the first documented progression of disease or death from any cause. RECIST will be used for tumor evaluation."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization until death (up to 24 months)",
+        "description": "OS is defined as the time from randomization to death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Assessed every 6 weeks for the first 12 months, then every 3 months until disease progression.",
+        "description": "The ORR includes the number of participants with complete response (CR) and partial response (PR) as determined by RECIST."
+      },
+      {
+        "measure": "Toxicity Profile According to NCI CTCAE Version 4.0",
+        "time_frame": "Up to 30 days after last dose of study drug",
+        "description": "Adverse events will be recorded and graded according to the NCI CTCAE criteria to document the toxicity of treatment protocols."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": [
+      "Metastatic Triple-Negative Breast Cancer"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Experimental: Ixabepilone + Capecitabine",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive ixabepilone (40 mg/m^2 IV every 3 weeks) combined with capecitabine (2000 mg/m^2 orally, twice daily for 14 days followed by 7 days off)."
+      },
+      {
+        "arm_group_label": "Active Comparator: Docetaxel",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive docetaxel (75 mg/m^2 IV every 3 weeks)."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ixabepilone",
+        "description": "Intravenous infusion of ixabepilone at a dose of 40 mg/m^2 administered over 3 hours every 21 days.",
+        "arm_group_label": "Experimental: Ixabepilone + Capecitabine",
+        "other_name": ["IXEMPRA", "BMS-247550"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Capecitabine",
+        "description": "Oral capecitabine at a dose of 2000 mg/m^2 twice daily for 14 days in a 21-day cycle.",
+        "arm_group_label": "Experimental: Ixabepilone + Capecitabine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Intravenous infusion of docetaxel at a dose of 75 mg/m^2 administered every 21 days.",
+        "arm_group_label": "Active Comparator: Docetaxel"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Histologically confirmed metastatic or locally advanced triple-negative breast cancer.\r\n  - Previous treatment with anthracyclines and taxanes.\r\n  - At least 18 years of age with a performance status of ECOG 0-2.\r\nExclusion Criteria:\r\n  - Prior exposure to ixabepilone or capecitabine.\r\n  - Serious comorbidities that may interfere with treatment or follow-up."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "R-Pharm Study Team",
+      "role": "Study Director",
+      "affiliation": "R-Pharm"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cancer Center of Excellence",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90015",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Oncology Research Institute",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "link": {
+      "url": "http://www.bms.com/clinical_trials/Pages/Investigator_Inquiry_form.aspx",
+      "description": "Investigator Inquiry form"
+    },
+    "verification_date": "February 2023",
+    "study_first_submitted": "August 1, 2011",
+    "study_first_submitted_qc": "August 1, 2011",
+    "study_first_posted": "August 10, 2011",
+    "results_first_submitted": "January 30, 2018",
+    "results_first_submitted_qc": "January 30, 2018",
+    "results_first_posted": "February 15, 2018",
+    "last_update_submitted": "September 10, 2023",
+    "last_update_posted": "September 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Epothilones", "Capecitabine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Experimental: Ixabepilone + Capecitabine",
+              "description": "Participants received ixabepilone + capecitabine."
+            },
+            {
+              "title": "Active Comparator: Docetaxel",
+              "description": "Participants received docetaxel."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "200"
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "200"
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "0"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Experimental: Ixabepilone + Capecitabine",
+              "description": "Effective treatment with manageable toxicity."
+            },
+            {
+              "title": "Active Comparator: Docetaxel",
+              "description": "Standard treatment with expected side effects."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 14.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": "10"
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Neutropenia",
+                    "counts": "8"
+                  }
+                }
+              },
+              {
+                "title": "Cardiac disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Tachycardia",
+                    "counts": "3"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 14.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": "50"
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": "15"
+                    },
+                    {
+                      "sub_title": "Vomiting",
+                      "counts": "10"
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Fatigue",
+                      "counts": "20"
+                    },
+                    {
+                      "sub_title": "Fever",
+                      "counts": "8"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

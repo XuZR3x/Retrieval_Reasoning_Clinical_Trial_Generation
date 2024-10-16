@@ -1,0 +1,214 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT01829567"
+    },
+    "id_info": {
+        "org_study_id": "PACTG 2000",
+        "nct_id": "NCT01829567"
+    },
+    "brief_title": "Randomized Controlled Trial of Atazanavir in ART-Naïve Adolescents with HIV",
+    "official_title": "An Open-Label, Randomized Controlled Trial to Evaluate the Efficacy and Safety of Atazanavir-Based Regimens in HIV-Infected Adolescents Starting Antiretroviral Therapy",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "National Institute of Health (NIH)",
+            "agency_class": "Public"
+        }
+    },
+    "source": "National Institute of Health (NIH)",
+    "oversight_info": {
+        "has_dmc": "Yes"
+    },
+    "brief_summary": {
+        "textblock": "This study investigates the efficacy and safety of atazanavir in HIV-infected adolescents initiating antiretroviral therapy (ART). The hypothesis posits that atazanavir-based regimens will achieve superior virologic suppression and exhibit a favorable safety profile compared to standard ART regimens."
+    },
+    "detailed_description": {
+        "textblock": "In the context of the rising HIV epidemic among adolescents globally, this trial aims to determine the impact of an atazanavir-based regimen on viral load suppression and safety in treatment-naïve subjects aged 12-18 years. Subjects were randomised to receive either atazanavir combined with emtricitabine and tenofovir disoproxil fumarate or a standard regimen of efavirenz, lamivudine, and zidovudine. A total of 600 adolescents from clinical sites in North America, South America, and sub-Saharan Africa were recruited, ensuring population diversity which enhances applicability to various patient demographics.\n\nThe study employed a rigorous monitoring framework to assess drug adherence, adverse events, and virologic response, with blood samples taken at regular intervals. Importantly, the study's design takes advantage of the effective antiviral mechanism of atazanavir, corroborated by earlier trials demonstrating its robust inhibition of HIV-1 protease. The outcomes reported include a substantial reduction in viral load, a lower incidence of severe adverse events, and sustained virologic suppression at 48 weeks."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2013",
+    "completion_date": "December 2017",
+    "primary_completion_date": "November 2017",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Proportion of participants achieving viral load <50 copies/mL at 48 weeks",
+        "time_frame": "Week 48",
+        "description": "The primary endpoint measured the efficacy of atazanavir in achieving virologic suppression in treatment-naïve adolescents."
+    }, {
+        "measure": "Safety profile evaluated through incidence of Grade 3-4 adverse events",
+        "time_frame": "Throughout study duration",
+        "description": "Safety was assessed by monitoring adverse events related to the therapy."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "600",
+    "condition": "HIV Infections",
+    "arm_group": [{
+        "arm_group_label": "Atazanavir Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive atazanavir 400 mg, emtricitabine 200 mg, and tenofovir disoproxil fumarate 300 mg, administered once daily."
+    }, {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receive efavirenz 600 mg, lamivudine 300 mg, and zidovudine 300 mg, administered once daily."
+    }],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Atazanavir",
+        "description": "400 mg orally once daily",
+        "arm_group_label": "Atazanavir Group",
+        "other_name": ["Reyataz"]
+    }, {
+        "intervention_type": "Drug",
+        "intervention_name": "Emtricitabine",
+        "description": "200 mg orally once daily",
+        "arm_group_label": "Atazanavir Group"
+    }, {
+        "intervention_type": "Drug",
+        "intervention_name": "Tenofovir Disoproxil Fumarate",
+        "description": "300 mg orally once daily",
+        "arm_group_label": "Atazanavir Group"
+    }, {
+        "intervention_type": "Drug",
+        "intervention_name": "Efavirenz",
+        "description": "600 mg orally once daily",
+        "arm_group_label": "Control Group"
+    }, {
+        "intervention_type": "Drug",
+        "intervention_name": "Lamivudine",
+        "description": "300 mg orally once daily",
+        "arm_group_label": "Control Group"
+    }, {
+        "intervention_type": "Drug",
+        "intervention_name": "Zidovudine",
+        "description": "300 mg orally twice daily",
+        "arm_group_label": "Control Group"
+    }],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\n\n- HIV-1 infection confirmed by laboratory testing\n- Treatment-naïve\n- Aged 12-18 years\n- CD4 count < 500 cells/mm³\n- Assent from minor with parental consent\n\nExclusion Criteria:\n\n- Previous therapy with antiretrovirals\n- Active acute or chronic hepatitis\n- Uncontrolled psychiatric disorders\n- Pregnancy or breastfeeding\n- Severe concurrent illness that may interfere with compliance with the study protocol."
+        },
+        "gender": "All",
+        "minimum_age": "12 Years",
+        "maximum_age": "18 Years",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Julia R. Robinson, MD",
+        "role": "Study Chair",
+        "affiliation": "Children's Hospital of Philadelphia"
+    },
+    "location": [{
+        "facility": {
+            "name": "Children's Hospital of Philadelphia",
+            "address": {
+                "city": "Philadelphia",
+                "state": "Pennsylvania",
+                "zip": "19104",
+                "country": "United States"
+            }
+        }
+    }, {
+        "facility": {
+            "name": "Hospital del Niño",
+            "address": {
+                "city": "Panama City",
+                "country": "Panama"
+            }
+        }
+    }, {
+        "facility": {
+            "name": "Hospital Nacional de la Criança",
+            "address": {
+                "city": "Rio de Janeiro",
+                "state": "Rio de Janeiro",
+                "zip": "22261-125",
+                "country": "Brazil"
+            }
+        }
+    }, {
+        "facility": {
+            "name": "Universidade de São Paulo",
+            "address": {
+                "city": "São Paulo",
+                "country": "Brazil"
+            }
+        }
+    }, {
+        "facility": {
+            "name": "University of Dodoma",
+            "address": {
+                "city": "Dodoma",
+                "country": "Tanzania"
+            }
+        }
+    }],
+    "location_countries": {
+        "country": ["Brazil", "Panama", "Tanzania", "United States"]
+    },
+    "verification_date": "January 2018",
+    "study_first_submitted": "January 5, 2013",
+    "study_first_submitted_qc": "January 5, 2013",
+    "study_first_posted": "January 15, 2013",
+    "results_first_submitted": "February 20, 2018",
+    "results_first_submitted_qc": "February 20, 2018",
+    "results_first_posted": "March 5, 2018",
+    "last_update_submitted": "February 10, 2020",
+    "last_update_posted": "February 15, 2020",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Atazanavir", "HIV", "Adolescents", "Antiretroviral Therapy"],
+    "condition_browse": {
+        "mesh_term": "HIV Infections"
+    },
+    "intervention_browse": {
+        "mesh_term": ["Atazanavir Sulfate", "Emtricitabine", "Tenofovir Disoproxil Fumarate", "Efavirenz", "Lamivudine", "Zidovudine"]
+    },
+    "clinical_results": {
+        "participant_flow": {
+            "recruitment_details": "600 participants enrolled and randomized across 25 centers in North America, South America, and sub-Saharan Africa over a period of three years.",
+            "pre_assignment_details": "Adolescents with confirmed HIV-1 infection and CD4 counts <500 cells/mm³ were eligible and successfully screened.",
+            "group_list": {
+                "group": [{
+                    "title": "Atazanavir Group",
+                    "description": "Participants receiving atazanavir, demonstrated significantly higher rates of virologic suppression at week 48."
+                }, {
+                    "title": "Control Group",
+                    "description": "Participants who received standard regimens also showed improvements, yet atazanavir groups outperformed in viral load reductions and safety measures."
+                }]
+            },
+            "period_list": {
+                "period": {
+                    "title": "Overall Study",
+                    "milestone_list": {
+                        "milestone": [{
+                            "title": "STARTED",
+                            "participants_list": {
+                                "participants": ["600 participants randomized"]
+                            }
+                        }, {
+                            "title": "COMPLETED",
+                            "participants_list": {
+                                "participants": ["Final data reporting as of February 2018"]
+                            }
+                        }, {
+                            "title": "NOT COMPLETED",
+                            "participants_list": {
+                                "participants": []
+                            }
+                        }]
+                    }
+                }
+            }
+        }
+    }
+}}

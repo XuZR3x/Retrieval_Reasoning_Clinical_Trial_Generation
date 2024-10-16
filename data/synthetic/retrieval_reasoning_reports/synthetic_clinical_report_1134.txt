@@ -1,0 +1,227 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on October 15, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+        "org_study_id": "17452",
+        "secondary_id": "I4Z-XY-JDZQ",
+        "nct_id": "NCT03456789"
+    },
+    "brief_title": "Evaluation of Ramucirumab in Combination With FOLFOX in Patients With Metastatic Gastric Adenocarcinoma",
+    "official_title": "A Phase 2, Randomized, Double-Blind Study of Ramucirumab Plus FOLFOX Versus FOLFOX Alone in Patients With Metastatic Gastric Adenocarcinoma Previously Treated With First-Line Therapy",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "Eli Lilly and Company",
+            "agency_class": "Industry"
+        }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+        "has_dmc": "Yes"
+    },
+    "brief_summary": {
+        "textblock": "The study aimed to assess the efficacy of ramucirumab in combination with the FOLFOX regimen in patients with advanced gastric adenocarcinoma. Despite expectations of improved survival, this trial sought to address concerns over ramucirumab's effectiveness as a combination therapy."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "August 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Randomization to Disease Progression or Death from Any Cause (Overall up to 24 Months)",
+        "description": "PFS was defined as the time from randomization to the first documentation of disease progression as per RECIST v1.1 criteria, or death from any cause."
+    },
+    "secondary_outcome": [
+        {
+            "measure": "Overall Survival (OS)",
+            "time_frame": "Randomization to Death from Any Cause (Overall up to 30 Months)",
+            "description": "OS was defined as the time from randomization to death from any cause. If the participant was alive or lost to follow-up, OS data were censored."
+        },
+        {
+            "measure": "Objective Response Rate (ORR)",
+            "time_frame": "Randomization to Disease Progression (Overall up to 24 Months)",
+            "description": "ORR was calculated as the proportion of participants achieving either a Complete Response (CR) or Partial Response (PR) as defined by RECIST v1.1 from the start of treatment until disease progression."
+        },
+        {
+            "measure": "Adverse Events (AEs)",
+            "time_frame": "From Baseline to End of Study (Overall up to 30 Months)",
+            "description": "The number of participants experiencing AEs, particularly severe adverse events, leading to discontinuation of study medication and overall safety assessments were documented."
+        }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "210",
+    "condition": ["Metastatic Gastric Cancer", "Gastric Adenocarcinoma"],
+    "arm_group": [
+        {
+            "arm_group_label": "Ramucirumab + FOLFOX",
+            "arm_group_type": "Experimental",
+            "description": "Participants received ramucirumab (8 mg/kg IV Q2W) combined with FOLFOX: Oxaliplatin (85 mg/m² IV Day 1), Leucovorin (400 mg/m² IV Day 1), and 5-Fluorouracil (5-FU) (400 mg/m² bolus, then 2400 mg/m² continuous infusion over 46 hours) every 2 weeks."
+        },
+        {
+            "arm_group_label": "Placebo + FOLFOX",
+            "arm_group_type": "Placebo Comparator",
+            "description": "Participants received placebo alongside FOLFOX therapy as per the regimen stated above."
+        }
+    ],
+    "intervention": [
+        {
+            "intervention_type": "Biological",
+            "intervention_name": "Ramucirumab",
+            "description": "8 mg/kg IV Q2W",
+            "arm_group_label": "Ramucirumab + FOLFOX",
+            "other_name": ["LY3009806", "IMC-1121B"]
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Placebo",
+            "description": "Administered IV",
+            "arm_group_label": "Placebo + FOLFOX"
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Oxaliplatin",
+            "description": "85 mg/m² IV Day 1",
+            "arm_group_label": ["Placebo + FOLFOX", "Ramucirumab + FOLFOX"]
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Leucovorin",
+            "description": "400 mg/m² IV Day 1",
+            "arm_group_label": ["Placebo + FOLFOX", "Ramucirumab + FOLFOX"]
+        },
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "5-Fluorouracil (5-FU)",
+            "description": "5-FU 400 mg/m² bolus, followed by 2400 mg/m² IV over 46 hours",
+            "arm_group_label": ["Placebo + FOLFOX", "Ramucirumab + FOLFOX"]
+        }
+    ],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed metastatic gastric adenocarcinoma.\r\n- Patients must have received first-line treatment and progressed.\r\n- ECOG PS of 0-1.\r\n- Adequate organ function as defined by specific laboratory parameters.\r\n- Participants must be able to comply with study treatment and follow-up.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with ramucirumab or anti-angiogenic agents.\r\n- Major surgery within 28 days prior to enrollment.\r\n- Known CNS metastases or leptomeningeal disease.\r\n- Pregnancy or breastfeeding.\r\n- Any condition that may interfere with the study or complicate the patient’s safety."
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+        "role": "Study Director",
+        "affiliation": "Eli Lilly and Company"
+    },
+    "location": [{
+        "facility": {
+            "name": "Multiple Investigative Sites",
+            "address": {
+                "city": "Various",
+                "state": "Various",
+                "zip": "N/A",
+                "country": "United States"
+            }
+        }
+    }],
+    "location_countries": {
+        "country": "United States"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "February 20, 2018",
+    "study_first_submitted_qc": "March 15, 2018",
+    "study_first_posted": "March 16, 2018",
+    "results_first_submitted": "September 12, 2021",
+    "results_first_submitted_qc": "September 12, 2021",
+    "results_first_posted": "October 12, 2021",
+    "last_update_submitted": "September 24, 2021",
+    "last_update_submitted_qc": "September 24, 2021",
+    "last_update_posted": "October 12, 2021",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Ramucirumab", "FOLFOX", "Metastatic Gastric Cancer"],
+    "condition_browse": {
+        "mesh_term": "Gastric Neoplasms"
+    },
+    "intervention_browse": {
+        "mesh_term": "Ramucirumab"
+    },
+    "clinical_results": {
+        "participant_flow": {
+            "group_list": {
+                "group": [{
+                    "title": "Ramucirumab + FOLFOX",
+                    "description": "Participants receiving this regimen experienced a median PFS of "
+                }, {
+                    "title": "Placebo + FOLFOX",
+                    "description": "Participants receiving placebo treatment experienced a comparable median PFS."
+                }]
+            },
+            "period_list": [{
+                "title": "Overall Study",
+                "milestone_list": {
+                    "milestone": [{
+                        "title": "STARTED",
+                        "participants_list": {
+                            "participants": [null, null]
+                        }
+                    }, {
+                        "title": "Received Any Study Drug",
+                        "participants_list": {
+                            "participants": [null, null]
+                        }
+                    }, {
+                        "title": "COMPLETED",
+                        "participants_list": {
+                            "participants": [null, null]
+                        }
+                    }, {
+                        "title": "NOT COMPLETED",
+                        "participants_list": {
+                            "participants": [null, null]
+                        }
+                    }]
+                },
+                "drop_withdraw_reason_list": {
+                    "drop_withdraw_reason": [{
+                        "title": "Adverse Event",
+                        "participants_list": {
+                            "participants": [null, null]
+                        }
+                    }, {
+                        "title": "Physician Decision",
+                        "participants_list": {
+                            "participants": [null, null]
+                        }
+                    }, {
+                        "title": "Lost to Follow-Up",
+                        "participants_list": {
+                            "participants": [null, null]
+                        }
+                    }]
+                }
+            }]
+        },
+        "baseline": {
+            "population": "All randomized participants who received any study drug.",
+            "group_list": {
+                "group": [{
+                    "title": "Ramucirumab + FOLFOX",
+                    "description": "Participants exhibited a wide range of responses and tolerability, with many"
+                }, {
+                    "title": "Placebo + FOLFOX",
+                    "description": "This group showed a similar range of outcome variability, indicating significant"
+                }]
+            }
+        }
+    }
+}}

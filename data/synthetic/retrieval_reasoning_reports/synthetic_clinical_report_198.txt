@@ -1,0 +1,125 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02761488"
+    },
+    "id_info": {
+      "org_study_id": "QUETIAPINE-XYZ-2021",
+      "nct_id": "NCT02761488"
+    },
+    "brief_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Evaluating Quetiapine for Chronic Insomnia in Adults",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy and Safety of Quetiapine for the Management of Chronic Insomnia in Adults Aged 18-65",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of quetiapine in improving sleep quality and reducing insomnia symptoms in adults aged 18 to 65 over an 8-week treatment period, compared to a placebo."
+    },
+    "detailed_description": {
+      "textblock": "1.1 Background: Chronic insomnia is a prevalent disorder characterized by difficulty in falling asleep or maintaining sleep, leading to significant impairment in daytime functioning. Although quetiapine has demonstrated efficacy as an antipsychotic, its use for insomnia remains controversial, necessitating a rigorous investigation.\n\n1.2 Rationale for the Study: Preliminary evidence suggested quetiapine may have sedative properties beneficial for managing insomnia. However, conflicting data regarding its safety and efficacy prompted the need for a well-structured trial. This study investigates whether quetiapine yields a statistically significant improvement in sleep quality, as measured by the Pittsburgh Sleep Quality Index (PSQI), when compared to placebo.\n\n2. STUDY OBJECTIVES\n2.1 Primary Objective: To assess the change from baseline in the total PSQI score at the endpoint between the quetiapine and placebo groups at the conclusion of the 8-week treatment period.\n\n2.2 Secondary Objectives: To evaluate the frequency and severity of adverse events, changes in daytime sleepiness as evaluated by the Epworth Sleepiness Scale (ESS), and overall patient satisfaction with sleep post-treatment.\n\n3. STUDY DESIGN AND PROCEDURES\n3.1 Overall Study Design: This is a multicenter, randomized, double-blind, placebo-controlled trial. Approximately 200 adults diagnosed with chronic insomnia will be recruited across several sites.\n\n3.2 Randomization and Treatment: Participants will be randomized to receive either quetiapine 50 mg nightly or placebo for 8 weeks. Treatment compliance will be monitored via pill counts and patient self-reports.\n\n4. OUTCOME AND VARIABLES\n4.1 Primary Variable: Change in PSQI score from baseline to week 8. Higher PSQI scores indicate worse sleep quality, and a significant decrease signifies improvement.\n4.2 Secondary Variables: Assessment of adverse events, ESS scores, and patient-reported satisfaction levels.\n\n5. STUDY MANAGEMENT AND STATISTICAL ANALYSIS\n5.1 Data Analysis: Data will be analyzed using intention-to-treat analysis with a focus on comparing differences in the primary outcome measure across groups using ANCOVA, adjusting for baseline PSQI scores.\n\n6. STUDY STATUS AND RATIONALE FOR TERMINATION\n6.1 Overall Status: The study has been terminated due to insufficient efficacy demonstrated in interim analyses, where quetiapine failed to show a statistically significant reduction in PSQI scores compared to placebo (p > 0.05).\n\n6.2 Adverse Events Profile: Increased incidence of sedation and weight gain were noted in the quetiapine arm compared to placebo, resulting in significant dropout due to tolerability issues. \n\n6.3 Study Design Limitations: The open-label nature of supplementary qualitative data regarding participant experiences may have biased expectations and contributed to variable responses.","overall_status": "Terminated",
+    "why_stopped": "Insufficient Efficacy and High Dropout Rates due to Adverse Events",
+    "start_date": "March 2021",
+    "completion_date": "September 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Pittsburgh Sleep Quality Index (PSQI)",
+      "time_frame": "8 weeks",
+      "description": "Primary efficacy measure assessing the change from baseline to 8 weeks in sleep quality."
+    },
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Chronic Insomnia",
+    "arm_group": [
+      {
+        "arm_group_label": "Quetiapine",
+        "arm_group_type": "Experimental",
+        "description": "Quetiapine 50 mg nightly for 8 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered nightly for 8 weeks."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Quetiapine",
+      "description": "Quetiapine 50 mg nightly for 8 weeks.",
+      "arm_group_label": "Quetiapine",
+      "other_name": "Seroquel"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Adults aged 18-65 years.\n2. Diagnosis of chronic insomnia as defined by the DSM-V criteria.\n3. Ability to provide informed consent.\n\nExclusion Criteria:\n1. Current comorbid psychiatric conditions that may confound sleep assessment.\n2. History of severe adverse reactions to quetiapine.\n3. Pregnancy or breastfeeding.\n4. Significant medical illness requiring active management.\n5. Concurrent use of other psychoactive medications."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Avery J. Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Research Institute",
+        "address": {
+          "city": "Anytown",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "October 2024",
+    "study_first_submitted": "January 15, 2021",
+    "study_first_submitted_qc": "January 15, 2021",
+    "study_first_posted": "January 20, 2021",
+    "last_update_submitted": "September 15, 2023",
+    "last_update_submitted_qc": "September 15, 2023",
+    "last_update_posted": "September 30, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Chronic Insomnia",
+      "Quetiapine",
+      "Sleep Quality"
+    ],
+    "condition_browse": {
+      "mesh_term": "Insomnia"
+    },
+    "intervention_browse": {
+      "mesh_term": "Quetiapine Fumarate"
+    }
+  }
+}
+```

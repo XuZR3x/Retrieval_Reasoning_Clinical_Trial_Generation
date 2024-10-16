@@ -1,0 +1,325 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "IRB00123456",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Insulin Glargine Versus Regular Insulin in the Control of Hyperglycemia Among Hospitalized Patients with Type 2 Diabetes",
+    "acronym": "INSULIN-CONTROL",
+    "official_title": "A Randomized Clinical Trial to Evaluate the Efficacy and Safety of Insulin Glargine in Controlling Hyperglycemia in Hospitalized Patients with Type 2 Diabetes Compared to Regular Insulin",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Health Sciences",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Health Innovations Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Health Sciences",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Elevated blood glucose levels in hospitalized patients with type 2 diabetes are linked with increased postoperative complications, including infections and mortality. The advent of insulin glargine for glucose management offers a potential advancement over traditional sliding-scale insulin therapy. This trial aims to compare the effects of a basal-bolus regimen using insulin glargine and rapid-acting insulin on glycemic control in hospitalized patients, against a control group receiving regular insulin using a sliding scale. We hypothesize that insulin glargine will yield superior blood glucose control while minimizing the incidence of hypoglycemic events."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2012",
+    "completion_date": "February 2014",
+    "primary_completion_date": "December 2013",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Mean Blood Glucose Levels",
+      "time_frame": "Days 2 through 10 of hospitalization",
+      "description": "Change in mean blood glucose levels, comparing insulin glargine and regular insulin therapies in the inpatient setting."
+    },
+    "secondary_outcome": {
+      "measure": "Rate of Hypoglycemic Events",
+      "time_frame": "Days 2 through 10 of hospitalization",
+      "description": "Count of hypoglycemic episodes (defined as blood glucose < 70 mg/dL) across both treatment arms."
+    },
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": [
+      "Diabetes Mellitus, Type 2",
+      "Inpatient Hyperglycemia"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Insulin glargine administered once daily with supplemental rapid-acting insulin as needed for meals."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Regular insulin managed via a sliding scale administered four times daily, according to blood glucose readings."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin Glargine",
+        "description": "Insulin glargine administered once daily subcutaneously.",
+        "arm_group_label": "1",
+        "other_name": "Lantus"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Regular Insulin",
+        "description": "Regular insulin administered per sliding scale protocol four times daily.",
+        "arm_group_label": "2",
+        "other_name": "Novolin R"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rapid-Acting Insulin",
+        "description": "Rapid-acting insulin administered subcutaneously immediately before meals as required.",
+        "arm_group_label": "1",
+        "other_name": "Humalog"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged between 18 and 80 years with a documented diagnosis of type 2 diabetes.\n\n2. Hospitalized for elective or emergency surgery with blood glucose > 140 mg/dL upon admission.\n\n3. Expected length of hospital stay of at least two days.\n\nExclusion Criteria:\n\n1. History of diabetic ketoacidosis or hyperosmolar hyperglycemic state within the prior year.\n\n2. Significant renal impairment (creatinine > 1.5 mg/dL).\n\n3. Current treatment with long-acting insulin or other non-insulin injectable antidiabetic medications.\n\n4. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James Anderson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Health Sciences"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University Hospital",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Health Center of Innovations",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Anderson J, Smith R, Liu J, Tompkins B, Gonzalez R. Efficacy and Safety of Insulin Glargine in the Management of Hyperglycemia in Hospitalized Patients with Type 2 Diabetes: A Randomized Clinical Trial. Journal of Diabetes Research. 2015 Jan;2015:678734. doi: 10.1155/2015/678734.",
+      "PMID": "25672765"
+    },
+    "verification_date": "March 2014",
+    "study_first_submitted": "October 10, 2010",
+    "study_first_submitted_qc": "October 12, 2010",
+    "study_first_posted": "October 18, 2010",
+    "results_first_submitted": "April 11, 2014",
+    "results_first_posted": "May 15, 2014",
+    "last_update_submitted": "April 15, 2014",
+    "last_update_posted": "May 15, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Health Sciences",
+      "investigator_full_name": "James Anderson",
+      "investigator_title": "Professor of Medicine"
+    },
+    "keyword": [
+      "insulin glargine",
+      "type 2 diabetes",
+      "inpatient management",
+      "hyperglycemia"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Type 2",
+        "Hyperglycemia"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Insulin",
+        "Insulin Glargine",
+        "Insulin, Long-Acting"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 300 hospitalized patients with type 2 diabetes were screened and enrolled.`,
+        "pre_assignment_details": "All enrolled patients were admitted with hyperglycemia, and applicable inclusion/exclusion criteria were strictly adhered to.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glargine Group",
+              "description": "Patients assigned to receive insulin glargine with rapid-acting insulin as necessary."
+            },
+            {
+              "title": "Regular Insulin Group",
+              "description": "Patients assigned to receive regular insulin according to a sliding scale."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glargine Group",
+              "description": "Received insulin glargine once daily."
+            },
+            {
+              "title": "Regular Insulin Group",
+              "description": "Managed with regular insulin sliding scale."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [150, 150]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Mean Blood Glucose Levels",
+            "description": "Comparison of mean blood glucose levels post-treatment.",
+            "time_frame": "Days 2 through 10 of hospitalization",
+            "population": "All randomized subjects",
+            "measure": {
+              "title": "Mean Blood Glucose Levels",
+              "description": "Analyzed mean blood glucose levels in both treatment groups.",
+              "units": "mg/dL",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [150, 150]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Rate of Hypoglycemic Events",
+            "description": "Analysis of hypoglycemic episodes during hospitalization.",
+            "time_frame": "Days 2 through 10 of hospitalization",
+            "population": "All randomized subjects",
+            "measure": {
+              "title": "Rate of Hypoglycemic Events",
+              "description": "Count of episodes occurring in each treatment arm.",
+              "units": "Episodes",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [12, 35]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout the hospitalization period.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glargine Group",
+              "description": "Recording of adverse events in patients treated with insulin glargine."
+            },
+            {
+              "title": "Regular Insulin Group",
+              "description": "Recording of adverse events in patients treated with regular insulin."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total serious adverse events",
+                    "counts": [1, 4]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "MedDRA",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": {
+              "title": "Total other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total other adverse events",
+                  "counts": [23, 56]
+                }
+              }
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is no agreement that restricts the PI's rights to publish trial results."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Research Coordinator",
+        "organization": "University of Health Sciences",
+        "email": "crc@uhs.edu"
+      }
+    }
+  }
+}
+```

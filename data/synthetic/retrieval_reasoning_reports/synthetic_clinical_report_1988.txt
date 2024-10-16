@@ -1,0 +1,182 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03067359"
+    },
+    "id_info": {
+      "org_study_id": "BUP-DP-001",
+      "nct_id": "NCT03067359"
+    },
+    "brief_title": "Investigating Buprenorphine for the Treatment of Chronic Pain in Patients with Limited Therapeutic Options (TERMINATED)",
+    "official_title": "A Multicenter, Randomized, Placebo-Controlled Trial of Buprenorphine for the Relief of Chronic Pain in Patients with Limited Therapeutic Options",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaCeutics Co.",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Institute for Pain Research",
+        "agency_class": "Non-Profit"
+      }
+    },
+    "source": "PharmaCeutics Co.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The primary objective of this study was to evaluate the efficacy of buprenorphine in reducing chronic pain compared to placebo in patients with limited therapeutic alternatives. Secondary objectives included the assessment of safety and tolerability."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to inadequate subject population and high dropout rates associated with adverse event profiles.",
+    "start_date": "March 2017",
+    "completion_date": "March 2018",
+    "primary_completion_date": "January 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Pain Severity as Measured by Numeric Rating Scale (NRS)",
+      "time_frame": "Baseline and 12 weeks",
+      "description": "Assessment of average pain intensity over the last 7 days on a scale of 0 (no pain) to 10 (worst pain imaginable)."
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of Adverse Events",
+      "time_frame": "Throughout the study duration",
+      "description": "Frequency of reported adverse events, with particular emphasis on severe gastrointestinal and central nervous system effects."
+    },
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": ["Chronic Pain", "Pain Management"],
+    "arm_group": [
+      {
+        "arm_group_label": "Buprenorphine",
+        "arm_group_type": "Experimental",
+        "description": "Buprenorphine administered at a dose of 0.6 mg sublingually twice daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered sublingually twice daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Buprenorphine",
+        "description": "Sublingual administration of buprenorphine at a dose of 0.6 mg twice daily.",
+        "arm_group_label": "Buprenorphine",
+        "other_name": ["BUP", "Buprenex"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo sublingual film administered twice daily.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \r\n- Adults aged 18-75 years with a diagnosis of chronic pain. \r\n- Pain score of 4 or higher on the Numeric Rating Scale (NRS) despite current regimen.\r\n- Patients with limited therapeutic options due to ineffective or intolerant responses to standard analgesics. \r\n\r\nExclusion Criteria: \r\n- History of substance abuse or dependence. \r\n- Significant renal or hepatic impairment. \r\n- Patients on concomitant medications that alter the pharmacokinetics of buprenorphine. \r\n- Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "removed_countries": {
+      "country": "N/A"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "January 10, 2017",
+    "study_first_submitted_qc": "January 10, 2017",
+    "study_first_posted": "January 12, 2017",
+    "last_update_submitted": "February 5, 2018",
+    "last_update_posted": "February 8, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_title": "Principal Investigator",
+      "investigator_full_name": "Dr. John Q. Chronic, MD",
+      "investigator_affiliation": "PharmaCeutics Co."
+    },
+    "keyword": ["buprenorphine", "chronic pain", "adverse events"],
+    "condition_browse": {
+      "mesh_term": ["Pain", "Chronic Pain"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Buprenorphine"
+    },
+    "reported_events": {
+      "time_frame": "During the study, all adverse events were closely monitored and reported.",
+      "serious_events": {
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [3, 2]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Severe Nausea and Vomiting",
+                  "counts": [4, 1]
+                }
+              }
+            },
+            {
+              "title": "Nervous system disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Dizziness and Lightheadedness",
+                  "counts": [5, 3]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "2",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [10, 4]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Constipation", "counts": [6, 2]},
+                  {"sub_title": "Diarrhea", "counts": [3, 0]}
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

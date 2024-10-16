@@ -1,0 +1,366 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02731989"
+    },
+    "id_info": {
+      "org_study_id": "PT-1506001",
+      "secondary_id": "PT1536",
+      "nct_id": "NCT02731989"
+    },
+    "brief_title": "Cardiovascular Risk Management in Type 2 Diabetes Using Pioglitazone",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy of Pioglitazone in Reducing Cardiovascular Events in Patients With Type 2 Diabetes at High Cardiovascular Risk",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Toronto",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Takeda Pharmaceuticals America, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Toronto",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of pioglitazone in reducing the incidence of major cardiovascular events among patients with type 2 diabetes mellitus at high risk for cardiovascular complications, while also assessing its impact on glycemic control and metabolic parameters."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES\n\n1. To determine the effect of pioglitazone on the composite primary endpoint of recurrent myocardial infarction, stroke, and cardiovascular death compared to placebo in patients with type 2 diabetes at high cardiovascular risk.\n\n2. To assess the changes in hemoglobin A1c and other markers of metabolic syndrome over the study period.\n\n3. To evaluate the tolerability and safety profile of pioglitazone during long-term use (up to 4 years).\n\nSECONDARY OBJECTIVES\n\n1. To explore the effects of pioglitazone on inflammatory markers and endothelial function as secondary endpoints related to cardiovascular health."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2016",
+    "completion_date": "April 2020",
+    "primary_completion_date": "January 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+      "measure": "Composite of Recurrent Myocardial Infarction, Stroke, or Cardiovascular Death",
+      "time_frame": "5 years",
+      "description": "The primary efficacy endpoint is the occurrence of any of the following: non-fatal myocardial infarction, non-fatal stroke, or cardiovascular death."
+    }],
+    "secondary_outcome": [{
+      "measure": "Change in HbA1c",
+      "time_frame": "Baseline and annually up to 4 years",
+      "description": "Measurements of hemoglobin A1c levels at baseline and subsequent yearly intervals."
+    }, {
+      "measure": "Change in markers of inflammation (hs-CRP)",
+      "time_frame": "Baseline and annually up to 4 years",
+      "description": "Assessment of high-sensitivity C-reactive protein levels at baseline and annually."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "2500",
+    "condition": ["Type 2 Diabetes", "Cardiovascular Disease"],
+    "arm_group": [{
+      "arm_group_label": "Pioglitazone",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive pioglitazone at a dosage of 45 mg daily."
+    }, {
+      "arm_group_label": "Placebo",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants will receive a placebo matched to the pioglitazone tablet."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "pioglitazone",
+      "description": "45 mg per day for 4 years",
+      "arm_group_label": "Pioglitazone"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "placebo",
+      "description": "An inactive substance administered daily for 4 years",
+      "arm_group_label": "Placebo"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Males and females aged 40 years or older.\n- Documented diagnosis of type 2 diabetes mellitus.\n- At least one additional cardiovascular risk factor (hypertension, dyslipidemia, smoking).\n\nExclusion Criteria:\n\n- Recent history of severe hypoglycemia or hospitalization.\n- Known contraindications to pioglitazone (including heart failure).\n- Concurrent participation in another clinical trial."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James M. Shapiro, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Toronto"
+    },
+    "verification_date": "February 2023",
+    "study_first_submitted": "February 20, 2016",
+    "study_first_submitted_qc": "March 3, 2016",
+    "study_first_posted": "March 15, 2016",
+    "results_first_submitted": "April 10, 2023",
+    "results_first_submitted_qc": "April 25, 2023",
+    "results_first_posted": "May 11, 2023",
+    "last_update_submitted": "April 10, 2023",
+    "last_update_submitted_qc": "April 10, 2023",
+    "last_update_posted": "May 11, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "University of Toronto"
+    },
+    "keyword": ["pioglitazone", "diabetes", "cardiovascular disease", "insulin resistance", "secondary prevention"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2", "Cardiovascular Diseases"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Pioglitazone"
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Recruitment was conducted at 50 clinical sites across North America, Europe, and Australia from March 2016 to December 2019.",
+        "pre_assignment_details": "Participants meeting inclusion criteria were randomized to pioglitazone or placebo using a computer-generated randomization schedule.",
+        "group_list": {
+          "group": {
+            "title": "Pioglitazone",
+            "description": "Participants receiving pioglitazone at 45 mg daily."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "First enrolled May 2016"
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "Completed April 2020"
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Pioglitazone",
+            "description": "Participants receiving pioglitazone at 45 mg daily."
+          },
+          "composite": {
+            "title": "Overall Population",
+            "description": "All enrolled participants receiving treatment."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [1250, 1250] // assuming balanced groups
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Body Mass Index (BMI)",
+              "units": "kg/m²",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Composite of Recurrent Myocardial Infarction, Stroke, or Cardiovascular Death",
+            "time_frame": "5 years",
+            "group_list": {
+              "group": [{
+                  "title": "Pioglitazone",
+                  "description": "Participants receiving pioglitazone."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Participants receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Composite of Recurrent Events",
+              "description": "Cumulative incidence of composite events between groups.",
+              "units": "participants",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [56, 79] // assuming events recorded per group
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "Cox Regression",
+                  "param_type": "Hazard Ratio (HR)",
+                  "param_value": "0.71",
+                  "ci_percent": "95",
+                  "ci_n_sides": "2-Sided",
+                  "ci_lower_limit": "0.55",
+                  "ci_upper_limit": "0.91",
+                  "p_value": "<0.01"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in HbA1c",
+            "time_frame": "Baseline and annually up to 4 years",
+            "group_list": {
+              "group": [{
+                  "title": "Pioglitazone",
+                  "description": "Participants receiving pioglitazone."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Participants receiving placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change from Baseline in HbA1c",
+              "description": "Mean change in HbA1c from baseline to final assessment.",
+              "units": "percent",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [1200, 1200] // both groups analyzed
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "ANOVA",
+                  "param_type": "Mean Difference",
+                  "param_value": "-1.2",
+                  "p_value": "<0.001"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events data collected during follow-up (4 years).",
+        "group_list": {
+          "group": [{
+              "title": "Pioglitazone",
+              "description": "Participants receiving pioglitazone."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants receiving placebo."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": [{
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [25, 35]
+                  }
+                }
+              },
+              {
+                "title": "Cardiac Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Heart Failure",
+                    "counts": [10, 17]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "category_list": {
+            "category": [{
+                "title": "General Disorders",
+                "event_list": {
+                  "event": [{
+                      "sub_title": "Edema",
+                      "counts": [20, 13]
+                    },
+                    {
+                      "sub_title": "Excessive Weight Gain",
+                      "counts": [15, 10]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Sarah Richmond, MD",
+        "organization": "University of Toronto, Faculty of Medicine",
+        "phone": "416-555-0199",
+        "email": "sarah.richmond@utoronto.ca"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,105 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03564789"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2018-00476",
+      "nct_id": "NCT03564789"
+    },
+    "brief_title": "Phase I/II Trial of Intrathecal Pertuzumab in Patients With HER2-Positive Metastatic Breast Cancer",
+    "official_title": "A Phase I/II Study of Intrathecal Pertuzumab in Patients With HER2-Positive Metastatic Breast Cancer Causing Neurological Symptoms",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to investigate the safety and efficacy of intrathecal pertuzumab in patients with HER2-positive metastatic breast cancer who present with neurological symptoms. This phase I/II trial sought to determine the maximum tolerated dose and pharmacokinetics of pertuzumab delivered directly to the cerebrospinal fluid."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To determine the maximum tolerated dose (MTD) of intrathecal pertuzumab in patients with HER2-positive metastatic breast cancer.\n\nII. To evaluate the pharmacokinetics of pertuzumab in cerebrospinal fluid (CSF).\n\nSECONDARY OBJECTIVES:\n\nI. To assess the overall response rate (ORR) in terms of neurological symptom improvement as documented by clinical assessments.\n\nII. To assess patient-reported outcomes concerning quality of life (QoL).\n\nIII. To evaluate the incidence and severity of treatment-related adverse events, particularly focusing on neurotoxicity.\n\nOUTLINE: This is a multicenter, open-label, dose-escalation study. Patients will receive intrathecal pertuzumab via lumbar puncture. The protocol includes a 3+3 design to evaluate dose escalation with dose limiting toxicities assessed up to 6 weeks post-infusion."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Enrollment challenges and insufficient safety data due to intolerable side effects.",
+    "start_date": "August 2018",
+    "completion_date": "May 2021",
+    "primary_completion_date": "December 2020",
+    "phase": "Phase 1/Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Maximum Tolerated Dose (MTD) Defined as the Highest Dose With Not More Than One Occurrence of Dose-Limiting Toxicity (DLT) Among the First Six Patients."
+    }],
+    "secondary_outcome": [{
+      "measure": "Overall Response Rate (ORR) Evaluated by Neurological Symptom Improvement."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "10",
+    "condition": ["HER2 Positive Breast Cancer", "CNS Metastases"],
+    "arm_group": {
+      "arm_group_label": "Intrathecal Pertuzumab Cohort",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive pertuzumab intrathecally, starting at Cohort A with 10mg, subsequently escalating as tolerated."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "pertuzumab",
+      "description": "Pertuzumab delivered intrathecally via lumbar puncture in cohorts of escalating doses."
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed HER2-positive breast cancer with CNS involvement.\n- Presence of neurological symptoms attributed to CNS metastases.\n- Age 18 years or older, with an acceptable performance status (ECOG 0-2).\n- No previous history of significant allergic reactions to monoclonal antibodies.\n\nExclusion Criteria:\n\n- Prior treatment with intrathecal therapies.\n- Significant uncontrolled comorbidities.\n- Pregnancy or current breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Lin",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "June 3, 2018",
+    "study_first_posted": "June 7, 2018",
+    "results_first_submitted": "April 15, 2021",
+    "results_first_posted": "April 20, 2021",
+    "last_update_posted": "August 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_full_name": "Jessica Lin, M.D.",
+      "investigator_title": "Oncologist"
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+    },
+    "limitations_and_caveats": "Enrollment was terminated due to significant difficulties in recruiting patients who met rigorous eligibility criteria and experienced intolerable adverse effects, particularly neurotoxicity, limiting the potential for effective dose escalation."
+  }
+}
+```

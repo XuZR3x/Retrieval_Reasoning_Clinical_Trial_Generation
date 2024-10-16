@@ -1,0 +1,286 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 8, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2022-0578",
+      "secondary_id": "NCI-2021-01234",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Plerixafor in Combination with G-CSF for Stem Cell Mobilization in Patients with Multiple Myeloma",
+    "official_title": "Phase II Study Evaluating the Efficacy of Plerixafor and G-CSF vs G-CSF Alone in Mobilizing Hematopoietic Stem Cells in Multiple Myeloma Patients Prior to Autologous Stem Cell Transplantation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cleveland Clinic",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Cleveland Clinic",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the combination of plerixafor and G-CSF for mobilizing hematopoietic stem cells in patients with previously treated multiple myeloma. Despite initial expectations, the trial was terminated due to inadequate patient enrollment and suboptimal efficacy results relative to standard care."
+    },
+    "detailed_description": {
+      "textblock": "The trial aimed to determine if adding plerixafor to a G-CSF mobilization regimen would enhance the yield of CD34+ stem cells for patients with multiple myeloma. Patients were randomized into two arms: one receiving G-CSF alone and the other receiving G-CSF plus plerixafor. The primary outcome measure was the rate of achieving at least 5 x 10^6 CD34+ cells/kg within two days of leukapheresis.\n\nThe trial faced significant challenges, including slow patient accrual, attributed to stringent eligibility criteria that limited participation. Additionally, interim analysis raised concerns regarding the lack of a significant superiority of plerixafor as compared to G-CSF alone, as both groups exhibited comparable stem cell mobilization rates. This limited the perceived value of adding plerixafor to treatment regimens. \n\nMoreover, patients reported adverse events, including neutropenic fever and thrombocytopenia, leading to safety concerns and reluctance in patient recruitment. Additional emergent therapies in the landscape further complicated study viability, as clinicians increasingly opted for protocols perceived as safer and with improved recovery outcomes.\n\nStudy oversight determined that the mechanistic understanding of plerixafor did not adequately align with the variability in patient responses, which impeded optimizing the treatment protocol for more effective outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Patient Enrollment, Lack of Distinct Efficacy Advantage",
+    "start_date": "January 2015",
+    "completion_date": "April 2022",
+    "primary_completion_date": "January 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of Participants Achieving Target Cell Collection of 5 x 10^6 CD34+ Cells/kg",
+      "time_frame": "Within 2 days of leukapheresis",
+      "description": "The primary endpoint is to evaluate the number of participants achieving the cell threshold using the two different mobilization strategies."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Comparison of Overall Response Rates in Both Treatment Arms",
+        "time_frame": "Monitoring until end of study, approximately 24 months",
+        "description": "To assess differences in high CD34+ stem cell mobilization rates and measure response to subsequent transplant."
+      },
+      {
+        "measure": "Adverse Events Reported During Study",
+        "time_frame": "Throughout the study duration (approximately 15 months)",
+        "description": "To analyze safety profiles associated with each treatment arm, including incidence and severity of adverse events."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Control Arm: G-CSF Only",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive G-CSF SC once daily from Days 1 to 8."
+      },
+      {
+        "arm_group_label": "Experimental Arm: Plerixafor and G-CSF",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive G-CSF SC once daily from Days 1 to 7 and plerixafor SC on Days 4 to 7."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "filgrastim",
+        "description": "Administered subcutaneously once daily for eligible participants.",
+        "arm_group_label": ["Control Arm: G-CSF Only", "Experimental Arm: Plerixafor and G-CSF"],
+        "other_name": ["Neupogen"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "plerixafor",
+        "description": "Administered subcutaneously on designated days to experimental group only.",
+        "arm_group_label": "Experimental Arm: Plerixafor and G-CSF",
+        "other_name": ["Mozobil"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Diagnosis of multiple myeloma, classified based on International Myeloma Working Group standards.\n- Patients must have received at least 2 cycles of lenalidomide and be considered for autologous stem cell transplantation.\n- Must meet specific laboratory values prior to mobilization, including white blood cell count, neutrophil count, and renal function.\n\nExclusion Criteria:\n\n- Prior history of stem cell transplantation or mobilization failures.\n- Active central nervous system involvement or recent systemic therapies that may interfere with the protocol."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "70 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John Smith, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Cleveland Clinic Taussig Cancer Institute"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Cleveland Clinic",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2022",
+    "study_first_submitted": "November 15, 2014",
+    "study_first_submitted_qc": "November 15, 2014",
+    "study_first_posted": "November 18, 2014",
+    "results_first_submitted": "February 3, 2021",
+    "results_first_submitted_qc": "February 25, 2021",
+    "results_first_posted": "March 3, 2021",
+    "last_update_submitted": "April 21, 2022",
+    "last_update_posted": "April 23, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Multiple Myeloma",
+      "Stem Cell Mobilization",
+      "Plerixafor",
+      "G-CSF",
+      "Hematopoietic Stem Cells"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Multiple Myeloma",
+        "Non-Hodgkin Lymphoma"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Plerixafor",
+        "Filgrastim"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Control Arm: G-CSF Only",
+              "description": "Patients received G-CSF SC once daily on Days 1 to 8."
+            },
+            {
+              "title": "Experimental Arm: Plerixafor and G-CSF",
+              "description": "Patients received G-CSF SC once daily from Days 1 to 7 and plerixafor SC on Days 4 to 7."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Ability to Reach Target Collection of 5 x 10^6 CD34+ Cells/kg",
+            "description": "Evaluation of participants achieving the target collection threshold of CD34+ cells/kg.",
+            "time_frame": "Within 2 days of leukapheresis",
+            "population": "All registered participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Control Arm",
+                  "description": "Control group utilizing G-CSF."
+                },
+                {
+                  "title": "Experimental Arm",
+                  "description": "Experimental group implementing plerixafor and G-CSF."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Proportion of Participants Achieving Collection Goal",
+              "description": "Measured proportion of participants who successfully collected the target CD34+ cells/kg.",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout study duration.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Control Arm: G-CSF Only",
+              "description": "Adverse events reported from G-CSF group."
+            },
+            {
+              "title": "Experimental Arm: Plerixafor and G-CSF",
+              "description": "Adverse events noted during combined treatment."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": null
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "limitations_and_caveats": "The study was terminated owing to inadequate recruitment and insufficient efficacy outcomes, with a limited ability to draw conclusive data.",
+      "point_of_contact": {
+        "name_or_title": "Dr. John Doe, MD",
+        "organization": "Cleveland Clinic",
+        "phone": "216-444-1234",
+        "email": "doe.john@clevelandclinic.org"
+      }
+    }
+  }
+}
+```

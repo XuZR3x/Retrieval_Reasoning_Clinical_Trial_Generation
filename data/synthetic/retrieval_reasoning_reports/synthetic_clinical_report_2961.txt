@@ -1,0 +1,187 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04512345"
+    },
+    "id_info": {
+      "org_study_id": "ACCRU-2020-003",
+      "nct_id": "NCT04512345"
+    },
+    "brief_title": "Evaluating Apixaban in the Management of Venous Thromboembolism in Oncology Patients",
+    "official_title": "A Multi-center, Randomized Controlled Trial Assessing the Efficacy and Safety of Apixaban in Reducing Venous Thromboembolism Among Cancer Patients: A Phase III Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Academic Cancer Research Group",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Academic Cancer Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the safety and effectiveness of apixaban as an anticoagulant for the prevention of venous thromboembolism (VTE) in high-risk oncology patients. Given its pharmacological profile that selectively inhibits Factor Xa, apixaban may provide enhanced therapeutic outcomes compared to traditional anticoagulants. The trial utilizes a validated risk stratification tool to enroll high-risk patients, contributing to significant insights into apixaban's role in the prevention of VTE.",
+      "textblock_2": "Participants will be randomly assigned to receive either apixaban or standard therapy with dalteparin, allowing for comparative analysis of efficacy in preventing VTE."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective of this trial is to evaluate the rate of major bleeding at 6 months post-treatment initiation. Secondary objectives include assessing the recurrence of VTE and any clinically relevant non-major bleeding events. With a robust design characterized by a randomized, double-blind approach, the trial seeks to mitigate biases and enhance the scientific validity of outcomes.\r\n\r\nPatient recruitment will focus on individuals diagnosed with metastatic or locally advanced cancer and at elevated risk for VTE based on a specific risk assessment tool, ensuring the study population reflects those most likely to benefit from intervention. Outcome assessments will leverage data collection through patient-centered questionnaires to evaluate quality of life, providing comprehensive insights into treatment tolerability.",
+      "textblock_2": "A stringent follow-up schedule will monitor safety profiles, enabling early detection of adverse events. These safety protocols will be key to clinically determining the practical applicability of apixaban compared to existing standards of care."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 15, 2021",
+    "completion_date": "January 30, 2024",
+    "primary_completion_date": "December 31, 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of major bleeding events in patients treated with apixaban",
+      "time_frame": "6 months",
+      "description": "Measured as the rate of patients experiencing major bleeding episodes, including fatal events."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of Venous Thromboembolism recurrence",
+        "time_frame": "6 months",
+        "description": "Includes assessment of deep vein thrombosis and pulmonary embolism recurrences, as well as clinically relevant non-major bleeding events."
+      },
+      {
+        "measure": "Quality of life assessments through validated questionnaires",
+        "time_frame": "Up to 6 months post-treatment",
+        "description": "Evaluated using surveys administered to patients, allowing for analysis of treatment impact on daily functioning."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "600",
+    "condition": [
+      "Venous Thromboembolism",
+      "Cancer"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I (apixaban)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive apixaban 10 mg orally twice daily for the first week, followed by 5 mg orally twice daily for the next six months."
+      },
+      {
+        "arm_group_label": "Arm II (dalteparin)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive dalteparin 200 IU/kg/day subcutaneously for the first 30 days, followed by 150 IU/kg/day subcutaneously for the next six months."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "description": "Administered orally.",
+        "arm_group_label": "Arm I (apixaban)",
+        "other_name": ["Eliquis"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dalteparin",
+        "description": "Administered subcutaneously.",
+        "arm_group_label": "Arm II (dalteparin)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Confirmed diagnosis of cancer with increased risk for venous thromboembolism.\r\n\r\n  -  At least one incident of VTE within the past 6 months or presence of significant risk factors for VTE.\r\n\r\n  -  Patient must be over 18 years of age and provide informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Severe active bleeding or high risk of bleeding complications.\r\n\r\n  -  Use of anticoagulants in the 7 days prior to randomization.\r\n\r\n  -  Life expectancy of less than 3 months due to cancer-related prognosis.\r\n\r\n  -  Pregnancy or planned pregnancy within the trial duration."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Tran, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Academic Cancer Research Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55902",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "August 10, 2020",
+    "study_first_posted": "August 11, 2020",
+    "last_update_submitted": "April 15, 2024",
+    "last_update_posted": "April 20, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Cancer",
+        "Venous Thromboembolism"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Apixaban",
+        "Dalteparin"
+      ]
+    }
+  }
+}
+```

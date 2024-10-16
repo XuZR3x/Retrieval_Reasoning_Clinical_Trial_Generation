@@ -1,0 +1,345 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "16089",
+      "secondary_id": ["I3R-MC-XYZO"],
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "A Study of Ramucirumab and Chemotherapy in Advanced Gastric Cancer",
+    "official_title": "Multicenter, Randomized, Double-Blind Phase 2 Study of Ramucirumab in Combination with Chemotherapy for Patients with Advanced Gastric and Gastroesophageal Junction Adenocarcinoma: Efficacy and Safety Assessment",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study seeks to evaluate the potential benefits of adding ramucirumab to standard chemotherapy regimens for patients with advanced gastric adenocarcinoma in terms of progression-free survival, overall survival, and safety."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2018",
+    "completion_date": "April 2022",
+    "primary_completion_date": "March 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Randomization to Radiographic Document of Progression or Death (Up to 25 Months)",
+      "description": "PFS is measured from randomization to the first occurrence of disease progression (defined as a ≥20% increase in the sum of diameters of target lesions) or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Randomization to Date of Death (Up to 31 Months)",
+        "description": "OS is defined as the time from randomization to death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Randomization to Disease Progression (Up to 25 Months)",
+        "description": "ORR is defined as the percentage of participants achieving a complete response (CR) or partial response (PR) as assessed by RECIST v1.1."
+      },
+      {
+        "measure": "Incidence of Adverse Events (AEs)",
+        "time_frame": "Baseline through Study Completion (Up to 31 Months)",
+        "description": "A summary of treatment-emergent adverse events will be collected, focusing on grades 3-5 AEs and SAEs as per CTCAE criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": ["Metastatic Gastric Adenocarcinoma", "Gastroesophageal Junction Adenocarcinoma"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive ramucirumab (8 mg/kg IV every 2 weeks) in combination with standard chemotherapy (5-FU, oxaliplatin, and leucovorin) every 14 days."
+      },
+      {
+        "arm_group_label": "Placebo + Chemotherapy",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive a placebo in combination with the same chemotherapy regimen without ramucirumab."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "8 mg/kg IV administered every 14 days",
+        "arm_group_label": "Ramucirumab + Chemotherapy",
+        "other_name": ["IMC-1121B", "Cyramza"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered IV every 14 days",
+        "arm_group_label": "Placebo + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "85 mg/m² IV on Day 1 every 14 days",
+        "arm_group_label": ["Placebo + Chemotherapy", "Ramucirumab + Chemotherapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "5-Fluorouracil",
+        "description": "400 mg/m² bolus on Day 1 and continuous 2400 mg/m² over 48 hours",
+        "arm_group_label": ["Placebo + Chemotherapy", "Ramucirumab + Chemotherapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "400 mg/m² IV on Day 1 every 14 days",
+        "arm_group_label": ["Placebo + Chemotherapy", "Ramucirumab + Chemotherapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed advanced adenocarcinoma of the stomach or gastroesophageal junction.\r\n- No prior systemic treatments for metastatic disease.\r\n- ECOG performance status 0-1.\r\n- Adequate organ function.\r\n- Life expectancy ≥12 weeks.\r\n- Informed consent provided.\r\n\r\nExclusion Criteria:\r\n\r\n- Known HER2-positive status.\r\n- History of significant gastrointestinal bleeding or perforation.\r\n- Active infection or uncontrolled medical condition.\r\n- Pregnancy or lactating females.\r\n- Major surgery within 4 weeks prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "For further inquiries, contact clinical study team",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [{
+        "facility": {
+          "name": "Clinical Research Site 1",
+          "address": {
+            "city": "City A",
+            "state": "State A",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Clinical Research Site 2",
+          "address": {
+            "city": "City B",
+            "state": "State B",
+            "zip": "67890",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "May 2022",
+    "study_first_submitted": "December 12, 2017",
+    "study_first_submitted_qc": "January 9, 2018",
+    "study_first_posted": "January 11, 2018",
+    "results_first_submitted": "April 11, 2022",
+    "results_first_submitted_qc": "April 20, 2022",
+    "results_first_posted": "April 28, 2022",
+    "last_update_submitted": "May 1, 2022",
+    "last_update_submitted_qc": "May 1, 2022",
+    "last_update_posted": "May 5, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["gastric cancer", "gastroesophageal junction", "ramucirumab", "chemotherapy"],
+    "condition_browse": {
+      "mesh_term": "Gastric Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ramucirumab", "Oxaliplatin", "5-Fluorouracil"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Completers are defined as participants who experienced disease progression, death, or withdrew from the study.",
+        "group_list": {
+          "group": [{
+              "title": "Ramucirumab + Chemotherapy",
+              "description": "Combination of ramucirumab with chemotherapy. Data showed no significant improvement in PFS compared to placebo."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "Standard chemotherapy without ramucirumab. Results indicated no clinical improvement in patient outcomes."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                  "title": "Lack of Efficacy",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "All randomized participants who received either treatment.",
+        "group_list": {
+          "group": [{
+              "title": "Ramucirumab + Chemotherapy",
+              "description": "Participants receiving ramucirumab did not demonstrate a statistically significant improvement in clinical response."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "Participants receiving placebo exhibited comparable outcomes with high rates of adverse effects."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Efficacy Rate (ORR)",
+              "units": "Percentage",
+              "param": "Number",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Ramucirumab + Chemotherapy",
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      },
+                      {
+                        "title": "Placebo + Chemotherapy",
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Adverse Event Incidence",
+              "units": "Participants",
+              "param": "Count",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Any Treatment-related Adverse Event",
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      },
+                      {
+                        "title": "Grade 3-5 Adverse Event Incidence",
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [{
+              "type": "Primary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "PFS evaluation revealed no statistically significant difference between study arms with a median survival rate unaffected by treatment.",
+              "time_frame": "Up to 25 Months",
+              "population": "ITT population: all participants were analyzed.",
+              "group_list": {
+                "group": [{
+                    "title": "Ramucirumab + Chemotherapy",
+                    "description": "Mediated results indicated that PFS was unmodified despite expectations."
+                  },
+                  {
+                    "title": "Placebo + Chemotherapy",
+                    "description": "Responses confirmed previous postulates that such combinations yield similar outcomes."
+                  }
+                ]
+              },
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Objective Response Rate (ORR)",
+              "description": "ORR demonstrated limited therapeutic benefit, as well as heightened adverse events leading to significant discontinuation rates.",
+              "time_frame": "Up to 25 Months",
+              "population": "ITT population: categorized under treatment arms."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

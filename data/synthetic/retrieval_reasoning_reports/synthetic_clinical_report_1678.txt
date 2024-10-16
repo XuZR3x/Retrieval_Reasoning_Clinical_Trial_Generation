@@ -1,0 +1,131 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02572856"
+    },
+    "id_info": {
+      "org_study_id": "TBK-2014-001",
+      "secondary_id": ["CDR0000423036", "NCI-2014-01234"],
+      "nct_id": "NCT02572856"
+    },
+    "brief_title": "Investigating Trabectedin in Patients With Advanced Sarcomas",
+    "official_title": "A Phase II Study of Trabectedin in Patients With Advanced, Relapsed or Refractory Sarcomas",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Group",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Oncology Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial aims to evaluate the efficacy and safety of trabectedin in patients diagnosed with advanced, relapsed, or refractory sarcomas. The study seeks to establish a therapeutic benefit from trabectedin compared to current standard treatments."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. Assess the overall response rate (ORR) in patients treated with trabectedin for advanced sarcomas.\n\nII. Evaluate the safety profile including adverse events associated with trabectedin.\n\nIII. Analyze pharmacokinetic parameters in this patient population.\n\nOUTLINE:\n\nEligible patients receive trabectedin intravenously over a 3-hour period on Day 1 of each 21-day treatment cycle until disease progression or unacceptable toxicity occurs. Patients will be evaluated for response every two cycles. Follow-up will occur for up to 2 years post-treatment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study was halted due to low recruitment numbers and insufficient evidence demonstrating efficacy. Only 10 patients were enrolled, leading to inconclusive data regarding the effectiveness of trabectedin in the targeted cohort.",
+    "start_date": "December 2014",
+    "completion_date": "June 2016",
+    "primary_completion_date": "January 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 6 months",
+      "description": "ORR defined as the proportion of patients achieving a complete or partial response per RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 1 year",
+        "description": "PFS defined as the time from treatment start until disease progression or death, whichever comes first."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Throughout the study duration",
+        "description": "Monitoring for all grade 3 and 4 adverse events."
+      },
+      {
+        "measure": "Pharmacokinetic Analysis",
+        "time_frame": "During the first cycle of treatment",
+        "description": "Collected blood samples at predefined intervals to assess drug levels and pharmacodynamics."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "10",
+    "condition": "Advanced, Relapsed or Refractory Sarcomas",
+    "arm_group": [{
+      "arm_group_label": "Trabectedin Treatment Arm",
+      "arm_group_type": "Experimental",
+      "description": "Participants receive trabectedin IV over 3 hours on Day 1 of each 21-day cycle."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "trabectedin",
+      "description": "1.5 mg/m² administered intravenously over 3 hours on Day 1 of each 21-day treatment cycle."
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Patients aged 18 years or older with histologically confirmed advanced sarcomas.\n  - Measurable disease as per RECIST criteria.\n  - Prior chemotherapy or targeted therapy allowed, provided a minimum of 4 weeks elapsed since last treatment.\n  - ECOG performance status of 0-1.\n\nExclusion Criteria:\n\n  - Patients with previous exposure to trabectedin.\n  - Patients with symptomatic central nervous system metastases.\n  - Significant comorbid conditions that would impede patient survival or compliance."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Rachel Smith, MD",
+      "role": "Study Chair",
+      "affiliation": "Oncology Research Group"
+    },
+    "location": [{
+      "facility": {
+        "name": "Comprehensive Cancer Center of Georgia",
+        "address": {
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30303",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "October 1, 2014",
+    "study_first_submitted_qc": "October 15, 2014",
+    "study_first_posted": "October 20, 2014",
+    "last_update_submitted": "June 30, 2016",
+    "last_update_posted": "July 5, 2016",
+    "keyword": [
+      "Trabectedin",
+      "Soft Tissue Sarcoma",
+      "Chemotherapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Sarcoma",
+        "Soft Tissue Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Trabectedin"
+    }
+  }
+}
+```

@@ -1,0 +1,380 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02553162"
+    },
+    "id_info": {
+      "org_study_id": "GS-US-312-0123",
+      "nct_id": "NCT02553162"
+    },
+    "brief_title": "Phase 2 Study of Idelalisib in Combination with Veneteclax for Relapsed Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase 2 Study to Evaluate the Efficacy and Safety of Idelalisib in Combination with Veneteclax in Patients with Relapsed Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Gilead Sciences",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Gilead Sciences",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the combination therapy of idelalisib, a selective PI3Kδ inhibitor, and venetoclax, a BCL-2 inhibitor, in patients with relapsed chronic lymphocytic leukemia (CLL). The primary objective is to determine the overall response rate (ORR) and assess safety and tolerability."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2016",
+    "completion_date": "December 2020",
+    "primary_completion_date": "January 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 36 Months",
+      "description": "The ORR was defined as the percentage of participants achieving a complete response (CR) or partial response (PR) according to the International Workshop on Chronic Lymphocytic Leukaemia (IWCLL) criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Up to 36 Months",
+        "description": "Progression-free survival (PFS) was defined as the time from treatment initiation to the first documentation of disease progression or death from any cause."
+      },
+      {
+        "measure": "Duration of Response",
+        "time_frame": "Up to 36 Months",
+        "description": "Duration of response (DOR) was defined as the time from the first documented CR or PR to the first documentation of disease progression or death."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Up to 36 Months",
+        "description": "Assessment of treatment-emergent adverse events (AEs) using the Common Terminology Criteria for Adverse Events (CTCAE)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "185",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": [
+      {
+        "arm_group_label": "Idelalisib + Venetoclax",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive idelalisib 150 mg orally twice daily combined with venetoclax, initiated at a dose of 20 mg and escalated to 400 mg daily based on tolerability."
+      },
+      {
+        "arm_group_label": "Observational Control",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will be monitored without immediate therapeutic intervention for disease progression."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Idelalisib",
+        "description": "150 mg tablets administered orally twice daily for combination therapy.",
+        "arm_group_label": "Idelalisib + Venetoclax",
+        "other_name": ["Zydelig", "GS-1101", "CAL-101"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Venetoclax",
+        "description": "Daily oral administration, starting with a gradual ramp-up to minimize tumor lysis risk and then standard maintenance doses.",
+        "arm_group_label": "Idelalisib + Venetoclax",
+        "other_name": ["Venclexta"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria:\r\n\r\n  -  Histologically confirmed relapsed CLL.\r\n\r\n  -  Age \u2265 18 years.\r\n\r\n  -  Previous treatment with at least one line of therapy.\r\n\r\n  -  Measurable disease.\r\n\r\n  -  ECOG performance status of 0-2.\r\n\r\n  -  Adequate renal and hepatic function as defined by protocol.\r\n\r\n  -  Ability to provide informed consent.\r\n\r\nKey Exclusion Criteria:\r\n\r\n  -  Previous exposure to idelalisib or venetoclax.\r\n\r\n  -  Active central nervous system involvement.\r\n\r\n  -  Uncontrolled infections or significant cardiovascular disease.\r\n\r\n  -  Serious concomitant medical conditions.\r\n\r\n  -  Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Gilead Study Director",
+      "role": "Study Director",
+      "affiliation": "Gilead Sciences"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of California, San Francisco",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94115",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "February 10, 2016",
+    "study_first_submitted_qc": "February 12, 2016",
+    "study_first_posted": "February 14, 2016",
+    "results_first_submitted": "January 15, 2021",
+    "results_first_submitted_qc": "January 17, 2021",
+    "results_first_posted": "February 1, 2021",
+    "last_update_submitted": "February 18, 2021",
+    "last_update_posted": "February 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Idelalisib", "Venetoclax", "Chronic Lymphocytic Leukemia", "BCL-2 Inhibition", "PI3K Inhibition"],
+    "condition_browse": {
+      "mesh_term": ["Chronic Lymphocytic Leukemia", "Leukemia, Lymphocytic, Chronic, B-Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Idelalisib", "Venetoclax"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Qualified external researchers may request IPD for this study after study completion.",
+      "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)"],
+      "ipd_time_frame": "18 months after study completion",
+      "ipd_access_criteria": "A secured external environment with username, password, and RSA code.",
+      "ipd_url": "http://www.gilead.com/research/disclosure-and-transparency"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were enrolled at multiple academic sites across the United States. The first participant was screened on April 15, 2016. The final study visit took place on December 10, 2020.",
+        "pre_assignment_details": "205 participants were screened for eligibility, with 185 qualifying for randomization.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Idelalisib + Venetoclax",
+              "description": "Idelalisib combined with venetoclax was provided as described."
+            },
+            {
+              "title": "Observational Control",
+              "description": "Control subjects received standard monitoring without therapeutic intervention."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "Started",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Completed",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Not Completed",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Withdrawn Consent",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Lost to Follow-Up",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "The intent-to-treat (ITT) population included all randomized participants, ensuring representation across diverse demographics.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Idelalisib + Venetoclax",
+              "description": "Participants received a regimen consisting of idelalisib 150 mg orally and escalating doses of venetoclax."
+            },
+            {
+              "title": "Control Group",
+              "description": "Participants were monitored without receiving investigational treatment."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [null, null]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Count of Participants",
+              "param": "Number",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [null, null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "ORR is defined as the percentage of participants achieving CR or PR.",
+            "time_frame": "Up to 36 Months",
+            "population": "Participants in the ITT set who received the study intervention.",
+            "measure": {
+              "title": "Overall Response Rate (ORR)",
+              "population": "ITT population",
+              "units": "percentage of participants",
+              "param": "Number",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival",
+            "description": "PFS is measured as the time from treatment initiation until progression or death.",
+            "time_frame": "Up to 36 Months",
+            "population": "ITT population",
+            "measure": {
+              "title": "Progression-Free Survival",
+              "population": "Participants in the ITT Analysis Set.",
+              "units": "months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse Events: Start of Treatment to End of Treatment (up to 60 months)",
+        "desc": "The frequency and severity of adverse events were evaluated using the Common Terminology Criteria for Adverse Events (CTCAE).",
+        "group_list": {
+          "group": [
+            {
+              "title": "Idelalisib + Venetoclax",
+              "description": "Participants treated with the combination therapy."
+            },
+            {
+              "title": "Observational Control",
+              "description": "Participants receiving standard observation."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,89 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03490123"
+        },
+        "id_info": {
+            "org_study_id": "Warfarin-VALVE-2023",
+            "nct_id": "NCT03490123"
+        },
+        "brief_title": "Warfarin for Patients with Mechanical Heart Valves: A Randomized Controlled Trial (WHV-RCT)",
+        "official_title": "Effectiveness and Safety of Warfarin in Patients with Mechanical Heart Valves: A Multicenter Randomized Controlled Study",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Institutes of Health (NIH)",
+                "agency_class": "Government"
+            }
+        },
+        "source": "National Institutes of Health (NIH)",
+        "overall_status": "Completed",
+        "start_date": "March 15, 2018",
+        "completion_date": "August 2023",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Double"
+        },
+        "condition": [
+            "Atrial Fibrillation",
+            "Thromboembolism",
+            "Mechanical Heart Valve"
+        ],
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Warfarin",
+            "description": "Administered daily with an individualized dosage to maintain INR levels between 2.5 and 3.5."
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n- Adult patients aged 18-80 years with a mechanical heart valve.\n- Documented history of atrial fibrillation or prior thrombotic events.\n- Ability to comply with frequent INR monitoring.\n\nExclusion Criteria:\n- Active bleeding disorders or history of bleeding complications.\n- Current participation in other anticoagulation-related clinical trials.\n- Significant renal or hepatic dysfunction.",
+                "gender": "All",
+                "minimum_age": "18 Years",
+                "maximum_age": "80 Years",
+                "healthy_volunteers": "No"
+            }
+        },
+        "overall_official": {
+            "last_name": "John H. Doe",
+            "role": "Principal Investigator",
+            "affiliation": "Johns Hopkins University"
+        },
+        "brief_summary": {
+            "textblock": "This multicenter, randomized controlled trial evaluates the effectiveness of warfarin in preventing thromboembolic events in patients with mechanical heart valves, emphasizing patient safety and optimal therapeutic outcomes."
+        },
+        "detailed_description": {
+            "textblock": "Background:\n\nPatients with mechanical heart valves are known to have an increased risk of thromboembolism, which necessitates the use of anticoagulation therapy. Warfarin has been a cornerstone treatment; however, optimal dosing and monitoring protocols have become paramount due to the potential risks associated with anticoagulation, particularly concerning bleeding events.\n\nStudy Design:\n\nA total of 300 patients across 24 centers participated, with robust selection criteria ensuring that only those at high risk for thromboembolism were included. The trial utilized a double-blind design to enhance data integrity, employing randomization to assign patients to either the warfarin group or a control group receiving standard anticoagulation therapy.\n\nMonitoring and Dosage Adjustments:\n\nPatients receiving warfarin underwent monthly INR monitoring and dose adjustments aimed to maintain levels between 2.5 and 3.5. This dedication to real-time monitoring was integral in minimizing adverse bleeding incidents, which are often associated with over-anticoagulation. Innovations such as smartphone-app for compliance and reminder notifications were utilized to improve patient adherence to treatment protocols.\n\nOutcome Measures:\n\nPrimary outcomes included the rate of thromboembolic complications and major bleeding events, while secondary outcomes assessed all-cause mortality and quality of life parameters. The multi-dimensional assessment framework facilitated a comprehensive evaluation of warfarin’s therapeutic impact.\n\nStudy Findings:\n\nThe trial demonstrated that patients treated with warfarin exhibited a statistically significant reduction in thromboembolic events compared to the control group, leading to an enhanced survival rate that aligns with previously established literature. Moreover, rates of major bleeding events were maintained at a low threshold predominantly attributed to rigorous monitoring and protocol adherence. This comprehensive approach established warfarin's continued efficacy as a leading anticoagulant in this high-risk population."
+        },
+        "primary_outcome": {
+            "measure": "Incidence of thromboembolic and major bleeding events",
+            "time_frame": "12 months",
+            "description": "The total incidence of thromboembolic events and major bleeding events over a 12-month period."
+        },
+        "secondary_outcome": {
+            "measure": "Patient quality of life measures",
+            "time_frame": "12 months",
+            "description": "Changes in patient-reported outcomes using validated quality of life questionnaires."
+        },
+        "number_of_arms": "2",
+        "arm_group": [
+            {
+                "arm_group_label": "Warfarin Group",
+                "arm_group_type": "Active Comparator",
+                "description": "Patients receiving warfarin therapy with individualized INR monitoring."
+            },
+            {
+                "arm_group_label": "Control Group",
+                "arm_group_type": "Active Comparator",
+                "description": "Patients receiving standard anticoagulant therapy."
+            }
+        ]
+    }
+}
+```

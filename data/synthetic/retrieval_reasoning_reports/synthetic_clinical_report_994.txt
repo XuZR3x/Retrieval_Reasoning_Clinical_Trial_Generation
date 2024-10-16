@@ -1,0 +1,219 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on September 2, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+        },
+        "id_info": {
+            "org_study_id": "ECOG-ACRIN E1234",
+            "nct_id": "NCT01234567"
+        },
+        "brief_title": "Examining the Efficacy of Perioperative Fluorouracil in Patients with Stage III Colon Cancer",
+        "official_title": "Phase III Randomized Trial Evaluating Perioperative 5-Fluorouracil in Combination with Leucovorin for Patients with Stage III Colon Cancer Post-Surgery",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Eastern Cooperative Oncology Group (ECOG)",
+                "agency_class": "Other"
+            },
+            "collaborators": [
+                {
+                    "agency": "National Cancer Institute (NCI)",
+                    "agency_class": "NIH"
+                },
+                {
+                    "agency": "SWOG Cancer Research Network",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "Eastern Cooperative Oncology Group",
+        "overall_status": "Terminated",
+        "why_stopped": "The study was terminated due to insufficient patient accrual and increased toxicity profiles observed.",
+        "start_date": "January 15, 2010",
+        "completion_date": "December 12, 2014",
+        "primary_completion_date": "June 2013",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Overall survival rate of patients with Stage III colon cancer after perioperative treatment",
+            "time_frame": "5 years from the date of randomization",
+            "description": "Defined as the proportion of patients alive 5 years post-randomization."
+        },
+        "secondary_outcomes": [
+            {
+                "measure": "Disease-free survival rate in Stage III patients",
+                "time_frame": "5 years from randomization",
+                "description": "Time from randomization to recurrence of any invasive disease."
+            },
+            {
+                "measure": "Rate of grade 3 or higher adverse events",
+                "time_frame": "During treatment and up to 30 days post-treatment",
+                "description": "Evaluation of adverse events based on CTCAE version 4.0."
+            }
+        ],
+        "enrollment": "360",
+        "condition": "Stage III Colon Cancer",
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Fluorouracil",
+                "description": "Continuous intravenous infusion of fluorouracil for 7 days post-surgery, followed by leucovorin for 6 months."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n- Histologically confirmed Stage III colon cancer\n- Patients must have undergone curative surgical resection\n- Age 18 years or older\n- Performance status of ECOG 0-2\n\nExclusion Criteria:\n- History of other malignancies within the last 5 years\n- Previous treatment with fluorouracil or other systemic therapies for colon cancer\n- Current pregnancy or lactation\n- Severe, uncontrolled medical conditions"
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "John Smith, MD",
+            "role": "Principal Investigator",
+            "affiliation": "ECOG-ACRIN Cancer Research Group"
+        },
+        "location": {
+            "facility": {
+                "name": "Some Cancer Center",
+                "address": {
+                    "city": "Some City",
+                    "state": "Some State",
+                    "zip": "12345",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "August 2023",
+        "study_first_submitted": "January 10, 2010",
+        "study_first_posted": "January 20, 2010",
+        "results_first_submitted": "March 10, 2016",
+        "results_first_posted": "April 15, 2016",
+        "last_update_posted": "August 23, 2023",
+        "reporting_events": {
+            "desc": "Adverse events reported demonstrated significant gastrointestinal toxicity. Patients encountered severe dose-limiting toxicities, leading to treatment modifications.",
+            "group_list": [
+                {
+                    "title": "Perioperative Fluorouracil",
+                    "description": "Fluorouracil administration post-surgery revealed overlaps with toxicity of other regimens."
+                }
+            ]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": {
+                        "title": "Fluorouracil Group",
+                        "description": "Received fluorouracil as per protocol."
+                    }
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": [
+                            { "title": "STARTED", "participants_list": { "participants": "360 patients were enrolled." } },
+                            { "title": "COMPLETED", "participants_list": { "participants": "Not applicable; no primary outcome data collected due to early termination." } },
+                            { "title": "NOT COMPLETED", "participants_list": { "participants": "Study was terminated primarily due to poor accrual rates and unacceptable toxicity." } }
+                        ]
+                    }
+                }
+            },
+            "baseline": {
+                "population": "All enrolled patients",
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": { "count": [null, null, null] }
+                    }
+                },
+                "measure_list": {
+                    "measure": [
+                        {
+                            "title": "Age",
+                            "units": "Years",
+                            "param": "Median",
+                            "dispersion": "Range",
+                            "class_list": { "class": { "category_list": { "category": { "measurement_list": { "measurement": null } } } } }
+                        },
+                        {
+                            "title": "Sex/Gender, Customized",
+                            "units": "Participants",
+                            "param": "Count of Participants",
+                            "class_list": {
+                                "class": [
+                                    { "title": "Female", "category_list": { "category": { "measurement_list": { "measurement": null } } } },
+                                    { "title": "Male", "category_list": { "category": { "measurement_list": { "measurement": null } } } }
+                                ]
+                            }
+                        }
+                    ]
+                },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Overall Survival Rate",
+                        "description": "No significant difference in the overall survival rate between arms was observed.",
+                        "time_frame": "5 years post-randomization",
+                        "population": "All randomized patients",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Fluorouracil",
+                                    "description": "Comparison of survival rates yielded no discernible improvement."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Overall Survival Rate",
+                            "description": "Kaplan-Meier estimates indicated a failure to achieve the targeted survival outcomes.",
+                            "population": "All randomized patients",
+                            "units": "percent alive",
+                            "param": "Number",
+                            "dispersion": "Confidence Interval",
+                            "analyzed_list": { "analyzed": { "units": "Participants", "scope": "Measure", "count_list": { "count": [null, null] }}},
+                            "class_list": { "class": { "category_list": { "category": { "measurement_list": { "measurement": null }}}}}}},
+                    {
+                        "type": "Secondary",
+                        "title": "Adverse Event Rate",
+                        "description": "High incidence of Grade 3 or higher adverse events presenting during study.",
+                        "time_frame": "During treatment phase",
+                        "population": "Patients who received treatment",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Fluorouracil",
+                                    "description": "Patients exhibited overlapping toxicities due to combination regimens."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Adverse Event Rate",
+                            "description": "Critical analysis files revealed unacceptable rates to continue the trial.",
+                            "population": "Patients experienced treatment-related adverse events.",
+                            "units": "percentage of participants",
+                            "param": "Number",
+                            "dispersion": "Confidence Interval",
+                            "analyzed_list": { "analyzed": { "units": "Participants", "scope": "Measure", "count_list": { "count": [null, null] }}},
+                            "class_list": { "class": { "category_list": { "category": { "measurement_list": { "measurement": null }}}}}}
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
+```

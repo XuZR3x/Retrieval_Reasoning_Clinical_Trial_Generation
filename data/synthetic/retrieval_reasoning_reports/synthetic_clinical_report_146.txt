@@ -1,0 +1,153 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03245678"
+    },
+    "id_info": {
+      "org_study_id": "PROTECT",
+      "nct_id": "NCT03245678"
+    },
+    "brief_title": "Efficacy and Safety of Peginterferon Alfa-2a in Combination with Antiviral Agents in Patients with Chronic Hepatitis B",
+    "official_title": "A Randomized, Multicenter, Double-Blinded, Phase 3 Trial of Peginterferon Alfa-2a Combined with Entecavir and HBV Vaccination in Patients with Chronic Hepatitis B",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Institute",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy, safety, and tolerability of peginterferon alfa-2a in combination with entecavir and HBV vaccination in a well-defined cohort of patients with chronic hepatitis B. The trial emphasized comprehensive monitoring and assessed multiple endpoints to quantify treatment outcomes."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, randomized, double-blinded, phase 3 trial evaluated peginterferon alfa-2a in conjunction with entecavir and HBV vaccination for treating chronic hepatitis B. Participants were subjected to rigorous selection criteria, and treatment effects were assessed through a series of endpoints, focusing on sustained virological response and HBsAg seroclearance."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2017",
+    "completion_date": "November 2021",
+    "primary_completion_date": "October 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of HBsAg Seroclearance",
+      "time_frame": "72 weeks post-treatment",
+      "description": "The rate of HBsAg seroclearance was assessed in participants who received the combination therapy versus those treated with entecavir monotherapy at week 72."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "HBsAg Seroconversion Rate",
+        "time_frame": "72 weeks post-treatment",
+        "description": "Measured as the percentage of patients achieving HBsAg seroconversion at week 72."
+      },
+      {
+        "measure": "Change in HBsAg Level",
+        "time_frame": "Baseline, 24, 48, and 72 weeks",
+        "description": "Change in HBsAg levels from baseline to assess the kinetics of the response to treatment."
+      },
+      {
+        "measure": "Quality of Life Score",
+        "time_frame": "Baseline and 72 weeks",
+        "description": "Evaluated using the EQ-5D scale to determine the impact of treatment on overall well-being."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Chronic Hepatitis B",
+    "arm_group": [
+      {
+        "arm_group_label": "Combination Therapy Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive peginterferon alfa-2a (180 mcg subcutaneously weekly for 48 weeks) combined with entecavir (0.5 mg daily) and HBV vaccination (Euvax B 20 mcg at weeks 0, 4, 12)."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receive entecavir monotherapy (0.5 mg daily) for 48 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Peginterferon alfa-2a",
+        "description": "Subcutaneous injection of 180 mcg once weekly for 48 weeks.",
+        "arm_group_label": ["Combination Therapy Group"],
+        "other_name": "Pegasys"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Entecavir",
+        "description": "Daily oral administration of 0.5 mg for 48 weeks.",
+        "arm_group_label": ["Combination Therapy Group", "Control Group"],
+        "other_name": "Baraclude"
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "HBV Vaccination",
+        "description": "20 mcg HBV vaccination administered intramuscularly at weeks 0, 4, and 12.",
+        "arm_group_label": ["Combination Therapy Group"],
+        "other_name": "Euvax B"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18-70 years.\n\n2. Documented HBsAg positivity for more than 6 months.\n\n3. Undetectable HBV DNA levels (<20 IU/mL).\n\n4. No prior treatment with interferons or nucleos(t)ide analogs within the last 6 months.\n\n5. Written informed consent provided.\n\nExclusion Criteria:\n\n1. Co-infection with hepatitis C or D.\n\n2. Evidence of decompensated liver disease.\n\n3. Pregnant or breastfeeding women.\n\n4. Any active malignancy or major comorbidities affecting treatment adherence."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "70 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Samuel T. Zhang, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Global Health Institute Research Center",
+        "address": {
+          "city": "Boston",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "July 1, 2017",
+    "study_first_submitted_qc": "July 3, 2017",
+    "study_first_posted": "July 5, 2017",
+    "last_update_submitted": "January 10, 2022",
+    "last_update_submitted_qc": "January 10, 2022",
+    "last_update_posted": "January 12, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Health Institute",
+      "investigator_full_name": "Samuel T. Zhang",
+      "investigator_title": "MD"
+    },
+    "keyword": ["chronic hepatitis B", "Pegasys", "HBV vaccination", "Entecavir"],
+    "condition_browse": {
+      "mesh_term": ["Hepatitis B", "Hepatitis B, Chronic"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Peginterferon alfa-2a", "Entecavir"]
+    }
+  }
+}
+```

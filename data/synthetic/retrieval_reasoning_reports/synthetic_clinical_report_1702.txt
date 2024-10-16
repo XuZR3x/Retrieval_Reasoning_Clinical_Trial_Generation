@@ -1,0 +1,475 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02547374"
+    },
+    "id_info": {
+      "org_study_id": "TT-2415",
+      "nct_id": "NCT02547374"
+    },
+    "brief_title": "A Trial of Tivozanib in Combination With Immunotherapy for Advanced Renal Cell Carcinoma",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Tivozanib Combined With Immunotherapy in Treating Patients With Advanced Renal Cell Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Clinical Oncology Group",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "AVEO Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Clinical Oncology Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the combination of tivozanib with immune checkpoint inhibitors for patients with advanced renal cell carcinoma (RCC). This trial aimed to determine the efficacy and safety of the anti-angiogenic agent tivozanib in enhancing the therapeutic effect of immunotherapy."
+    },
+    "detailed_description": {
+      "textblock": "This clinical trial will enroll patients diagnosed with advanced RCC who have not previously received systemic therapy. Patients will be randomized to receive either tivozanib in combination with a PD-1 inhibitor or the PD-1 inhibitor alone. The primary objective is to assess the overall response rate (ORR) as determined by RECIST v1.1 at 6 months. Secondary objectives include evaluation of progression-free survival (PFS), overall survival (OS), and the safety profile of the combination regimen."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Due to insufficient enrollment and safety concerns",
+    "start_date": "April 2015",
+    "completion_date": "August 2017",
+    "primary_completion_date": "June 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "6 months",
+      "description": "Measured by the proportion of patients achieving complete response (CR) or partial response (PR) based on RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years",
+        "description": "Time from randomization until disease progression or death from any cause, whichever occurs first."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 2 years",
+        "description": "Time from randomization until death from any cause."
+      },
+      {
+        "measure": "Adverse Event Incidence",
+        "time_frame": "Up to 30 days after the last treatment",
+        "description": "Frequency of adverse events as assessed by CTCAE v4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Renal Cell Carcinoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Tivozanib + Immunotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive tivozanib at a dose of 1.5 mg daily for the first 21 days of a 28-day cycle in combination with a PD-1 inhibitor."
+      },
+      {
+        "arm_group_label": "Immunotherapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive only the PD-1 inhibitor without tivozanib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tivozanib",
+        "description": "Daily oral administration for the first 21 days of each 28-day cycle.",
+        "arm_group_label": "Tivozanib + Immunotherapy",
+        "other_name": ["AV-951"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "PD-1 Inhibitor",
+        "description": "Received as per standard dosing guidelines for the immunotherapy agent used in the trial.",
+        "arm_group_label": ["Tivozanib + Immunotherapy", "Immunotherapy Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed advanced RCC defined as Stage III or IV disease\r\n- Patients must have measurable disease as per RECIST v1.1\r\n- Adequate organ function and performance status (ECOG 0-2)\r\n- No prior systemic therapy for advanced RCC.\r\n- Female patients of childbearing potential must use adequate contraception.\r\n\r\nExclusion Criteria:\r\n- Previous treatment with VEGF-targeted agents or IMST therapies for RCC\r\n- Uncontrolled hypertension (systolic BP > 140 mmHg)\r\n- High risk of serious cardiovascular diseases\r\n- Active infection or other malignancies\r\n- Known hypersensitivity to any of the treatment agents or excipients."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Matthew Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "Clinical Oncology Group"
+    },
+    "location": {
+      "facility": {
+        "name": "Clinical Oncology Group Research Center",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "March 2018",
+    "study_first_submitted": "February 14, 2015",
+    "study_first_submitted_qc": "February 14, 2015",
+    "study_first_posted": "February 22, 2015",
+    "results_first_submitted": "November 8, 2017",
+    "results_first_submitted_qc": "December 12, 2017",
+    "results_first_posted": "December 26, 2017",
+    "last_update_submitted": "February 20, 2018",
+    "last_update_submitted_qc": "February 20, 2018",
+    "last_update_posted": "February 25, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Clinical Oncology Group",
+      "investigator_full_name": "Dr. Matthew Johnson"
+    },
+    "keyword": ["Tivozanib", "Renal Cell Carcinoma", "Immunotherapy", "Cancer", "VEGF Inhibitor"],
+    "condition_browse": {
+      "mesh_term": "Renal Cell Carcinoma"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Tivozanib", "Tyrosine Kinase Inhibitors"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Tivozanib + Immunotherapy",
+              "description": "Participants received tivozanib in conjunction with a PD-1 inhibitor."
+            },
+            {
+              "title": "Immunotherapy Alone",
+              "description": "Participants received treatment with a PD-1 inhibitor only."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Terminated due to significant safety concerns and inadequate trial enrollment."]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Tivozanib + Immunotherapy",
+                "description": "Participants received tivozanib in conjunction with a PD-1 inhibitor."
+              },
+              {
+                "title": "Immunotherapy Alone",
+                "description": "Participants received treatment with a PD-1 inhibitor only."
+              },
+              {
+                "title": "Total",
+                "description": "Total of all reporting groups"
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [null, null, null]
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Age Distribution",
+                  "units": "years",
+                  "param": "Mean",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "< 40",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          },
+                          {
+                            "title": "40-60",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          },
+                          {
+                            "title": "> 60",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex: Female, Male",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "Female",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          },
+                          {
+                            "title": "Male",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "ECOG Performance Status",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "ECOG 0",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          },
+                          {
+                            "title": "ECOG 1",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          },
+                          {
+                            "title": "ECOG 2",
+                            "measurement_list": {
+                              "measurement": [null, null, null]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "outcome_list": {
+            "outcome": [
+              {
+                "type": "Primary",
+                "title": "Overall Response Rate (ORR)",
+                "description": "Defined by the proportion of patients achieving CR or PR by RECIST v1.1 criteria.",
+                "time_frame": "6 months",
+                "population": "Assessing patients who completed treatment as per protocol.",
+                "group_list": {
+                  "group": [
+                    {
+                      "title": "Tivozanib + Immunotherapy",
+                      "description": "Assessment of ORR in participants receiving tivozanib."
+                    },
+                    {
+                      "title": "Immunotherapy Alone",
+                      "description": "Assessment of ORR in participants receiving immunotherapy without tivozanib."
+                    }
+                  ]
+                },
+                "measure": {
+                  "title": "Overall Response Rate (ORR)",
+                  "description": "Results indicating CR or PR for all enrolled subjects over the specified timeframe.",
+                  "population": "Overall treated population.",
+                  "units": "Percentage",
+                  "param": "Numbers",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [null, null]
+                      }
+                    },
+                    "class_list": {
+                      "class": {
+                        "category_list": {
+                          "category": {
+                            "measurement_list": {
+                              "measurement": [null, null]
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "reported_events": {
+            "time_frame": "From first dose to 30 days post last dose.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Tivozanib + Immunotherapy",
+                  "description": "Monitoring of safety and adverse events in participants receiving tivozanib."
+                },
+                {
+                  "title": "Immunotherapy Alone",
+                  "description": "Monitoring of safety and adverse events in participants receiving PD-1 inhibitor only."
+                }
+              ]
+            },
+            "serious_events": {
+              "default_vocab": "CTCAE (4.0)",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total Serious Adverse Events",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total incidents",
+                        "counts": [null, null]
+                      }
+                    }
+                  },
+                  {
+                    "title": "Hypertension",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Serious adverse events related to hypertension",
+                        "counts": [null, null]
+                      }
+                    }
+                  },
+                  {
+                    "title": "Cardiac Events",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Serious adverse cardiac events",
+                        "counts": [null, null]
+                      }
+                    }
+                  }
+                ]
+              },
+              "other_events": {
+                "frequency_threshold": "0",
+                "default_vocab": "CTCAE (4.0)",
+                "default_assessment": "Non-systematic Assessment",
+                "category_list": {
+                  "category": [
+                    {
+                      "title": "Total Non-Serious Events",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Total non-serious events recorded",
+                          "counts": [null, null]
+                        }
+                      }
+                    },
+                    {
+                      "title": "Gastrointestinal Events",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Nausea and diarrhea incidents",
+                          "counts": [null, null]
+                        }
+                      }
+                    },
+                    {
+                      "title": "Fatigue Incidents",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Overall fatigue occurrences",
+                          "counts": [null, null]
+                        }
+                      }
+                    },
+                    {
+                      "title": "Dermatological Reactions",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Rash and skin reactions",
+                          "counts": [null, null]
+                        }
+                      }
+                    },
+                    {
+                      "title": "Others",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Miscellaneous adverse events",
+                          "counts": [null, null]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "certain_agreements": {
+            "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+            "restrictive_agreement": "The investigator may publish trial related findings after review by the sponsor, with potential publication delays not exceeding 60 days."
+          },
+          "point_of_contact": {
+            "name_or_title": "Dr. Matthew Johnson",
+            "organization": "Clinical Oncology Group",
+            "phone": "555-0123",
+            "email": "johnson@cononcologygroup.org"
+          }
+        }
+      }
+    }
+  }
+}
+```

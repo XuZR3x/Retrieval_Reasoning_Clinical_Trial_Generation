@@ -1,0 +1,419 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02987071"
+    },
+    "id_info": {
+      "org_study_id": "BUP-2020",
+      "nct_id": "NCT02987071"
+    },
+    "brief_title": "Efficacy and Safety of Buprenorphine for Treatment-Resistant Depression in Older Adults",
+    "official_title": "A Multi-Center, Randomized, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Buprenorphine in Patients With Treatment-Resistant Depression Aged 60 and Older",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this clinical trial is to assess the efficacy, safety, and tolerability of buprenorphine in a population of older adults (aged 60 years and above) diagnosed with treatment-resistant depression (TRD). "
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to significant protocol deviations, high discontinuation rates due to adverse effects, and the inability to achieve intended patient stratification.",
+    "start_date": "March 2017",
+    "completion_date": "October 2019",
+    "primary_completion_date": "August 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Montgomery-Asberg Depression Rating Scale (MADRS) Score",
+      "time_frame": "Baseline and week 12",
+      "description": "Evaluation of the change in mean MADRS scores from baseline to week 12 to quantify the antidepressant effects of buprenorphine compared to placebo."
+    },
+    "secondary_outcome": [{
+        "measure": "Change in Anxiety Levels as Measured by the Generalized Anxiety Disorder Scale (GAD-7)",
+        "time_frame": "Baseline and week 12",
+        "description": "Assessment of the change in severity of anxiety symptoms using the GAD-7 scale."
+      },
+      {
+        "measure": "Rate of Adverse Events Leading to Treatment Discontinuation",
+        "time_frame": "Throughout study duration",
+        "description": "Monitoring of the number of participants who discontinue treatment due to adverse effects."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": ["Depression", "Major Depressive Disorder"],
+    "arm_group": [{
+        "arm_group_label": "Buprenorphine Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive buprenorphine at a low dose titrated weekly (0.2 mg/day to 2.0 mg/day) for 12 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive matched placebo for 12 weeks."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Buprenorphine",
+        "description": "Low-dose buprenorphine administered sublingually."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo administered sublingually."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:  \n   - Male or female aged 60 years or older.  \n   - Diagnosis of Major Depressive Disorder (MDD) with treatment-resistant criteria.  \n   - Montgomery-Asberg Depression Rating Scale (MADRS) score ≥ 15 at screening.  \n   - Established relationship with a primary care physician.  \n   - Adequate medical stability as determined by the investigator. \n\nExclusion Criteria:  \n   - Concurrent diagnosis of bipolar disorder or psychotic disorder.  \n   - History of substance abuse disorder within the past year.  \n   - High risk of suicidal ideation as determined by the investigator.  \n   - Significant cardiac or hepatic impairment."
+      },
+      "gender": "All",
+      "minimum_age": "60 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "removed_countries": {
+      "country": "None"
+    },
+    "verification_date": "August 2019",
+    "study_first_submitted": "February 15, 2017",
+    "study_first_submitted_qc": "February 15, 2017",
+    "study_first_posted": "February 28, 2017",
+    "last_update_submitted": "October 10, 2019",
+    "last_update_submitted_qc": "October 10, 2019",
+    "last_update_posted": "October 15, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "University of California, San Francisco",
+      "investigator_full_name": "Dr. Emily Chang",
+      "investigator_title": "Professor of Psychiatry"
+    },
+    "keyword": ["Buprenorphine", "Treatment-Resistant Depression", "Older Adults"],
+    "condition_browse": {
+      "mesh_term": ["Depression", "Depressive Disorder", "Depressive Disorder, Major"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Buprenorphine"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Out of 120 participants screened, 100 were enrolled and randomized to receive either buprenorphine or placebo.",
+        "group_list": {
+          "group": [{
+              "title": "Buprenorphine",
+              "description": "Received buprenorphine treatment."
+            },
+            {
+              "title": "Placebo",
+              "description": "Received placebo treatment."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [{
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [100, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [55, 45]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [45, 0]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [{
+                    "title": "Adverse Events",
+                    "participants_list": {
+                      "participants": [30, 0]
+                    }
+                  },
+                  {
+                    "title": "Non-Compliance",
+                    "participants_list": {
+                      "participants": [12, 0]
+                    }
+                  },
+                  {
+                    "title": "Protocol Deviation",
+                    "participants_list": {
+                      "participants": [3, 0]
+                    }
+                  }
+                ]
+              }
+            }
+          }]
+        }
+      },
+      "baseline": {
+        "population": "Participants were randomized to treatment groups before data analysis, examining primary and secondary outcomes based on intention-to-treat principles.",
+        "group_list": {
+          "group": [{
+              "title": "Buprenorphine",
+              "description": "Subjects receiving buprenorphine."
+            },
+            {
+              "title": "Placebo",
+              "description": "Subjects receiving placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [55, 45]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [72, 71]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [29, 15]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [26, 30]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Change in MADRS Score",
+            "description": "Mean change calculated from the MADRS scores from baseline to week 12.",
+            "time_frame": "week 12",
+            "group_list": {
+              "group": [{
+                  "title": "Buprenorphine",
+                  "description": "Mean change: -3.5"
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean change: -1.2"
+                }
+              ]
+            },
+            "measure": {
+              "title": "MADRS Score Change",
+              "units": "points",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [55, 45]
+                  }
+                }
+              },
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [3.5, 1.2]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Rate of Adverse Events",
+            "description": "Assessment of adverse events leading to treatment discontinuation.",
+            "time_frame": "Throughout study duration",
+            "group_list": {
+              "group": [{
+                  "title": "Buprenorphine",
+                  "description": "Patients experiencing AEs: 30"
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Patients experiencing AEs: 15"
+                }
+              ]
+            },
+            "measure": {
+              "title": "Adverse Events Count",
+              "units": "Count",
+              "param": "Count of Participants",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [30, 15]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were monitored throughout the trial, noting both serious and non-serious events.",
+        "group_list": {
+          "group": [{
+              "title": "Buprenorphine",
+              "description": "Notable AEs included severe abdominal pain and cardiac events."
+            },
+            {
+              "title": "Placebo",
+              "description": "No serious AEs reported."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_assessment": "Systematic Assessment for Serious AEs.",
+          "category_list": {
+            "category": [{
+                "title": "Total",
+                "event_list": {
+                  "event": [{
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [5, 0]
+                  }]
+                }
+              },
+              {
+                "title": "Cardiac Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Myocardial Infarction",
+                    "counts": [3, 0]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Severe Abdominal Pain",
+                    "counts": [2, 0]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, non-serious AEs",
+                    "counts": [25, 5]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": [{
+                    "sub_title": "Nausea",
+                    "counts": [10, 2]
+                  },
+                  {
+                    "sub_title": "Constipation",
+                    "counts": [9, 1]
+                  }]
+                }
+              },
+              {
+                "title": "Neurological Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Dizziness",
+                    "counts": [8, 2]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NO agreement that restricts the PI's rights to discuss or publish trial results."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Emily Chang",
+        "organization": "University of California, San Francisco",
+        "phone": "415-555-0123",
+        "email": "echang@ucsf.edu"
+      }
+    }
+  }
+}
+```

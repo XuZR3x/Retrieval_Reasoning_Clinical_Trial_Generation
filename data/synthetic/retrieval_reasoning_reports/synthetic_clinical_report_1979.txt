@@ -1,0 +1,291 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01123547"
+    },
+    "id_info": {
+      "org_study_id": "CT-2011-01",
+      "nct_id": "NCT01123547"
+    },
+    "brief_title": "Oxaliplatin, Gemcitabine and Pembrolizumab in Advanced Pancreatic Cancer",
+    "official_title": "A Phase II Study of Oxaliplatin Combined with Gemcitabine and Pembrolizumab in Patients with Advanced Pancreatic Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme Corp.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The objective of this clinical study is to evaluate the safety and efficacy of the combination of oxaliplatin, gemcitabine, and pembrolizumab in subjects with advanced pancreatic cancer who have not received prior systemic therapy. The study aims to identify potential biomarkers that may predict beneficial responses to treatment."
+    },
+    "detailed_description": {
+      "textblock": "Background:\r\nThe combination of oxaliplatin and gemcitabine has shown promise in preclinical models for the treatment of pancreatic cancer, while pembrolizumab is an established checkpoint inhibitor. The hypothesis of this study is that the addition of pembrolizumab may enhance the therapeutic effect of oxaliplatin and gemcitabine.\r\n\r\nPhases of the Study:\r\nThis is a single-arm, open-label, Phase II trial that investigates the efficacy of the three-drug combination.\r\n\r\nRecruitment and Eligibility:\r\nEligible patients must have histologically confirmed diagnosis of advanced pancreatic adenocarcinoma with measurable disease, an ECOG performance status of 0-1, and acceptable hematologic and organ functions. A total of 60 participants were planned for enrollment.\r\n\r\nStudy Design:\r\nPatients receiving oxaliplatin (85 mg/m² IV on day 1), gemcitabine (1000 mg/m² IV on days 1 and 8), and pembrolizumab (200 mg IV on day 1) for each 21-day cycle. Treatment cycles were to be repeated until disease progression, unacceptable toxicity, or voluntary withdrawal. Tumor responses were evaluated every two cycles.\r\n\r\nCorrelative Studies:\r\nPatients were subjected to tumor biopsies at baseline and during treatment to analyze potential biomarkers correlated with treatment responses including PD-L1 expression.\r\n\r\nExpected Outcomes:\r\nThe primary endpoint was the overall response rate (ORR), while the secondary endpoints included progression-free survival (PFS) and overall survival (OS)."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Difficulty in patient accrual and observed lack of efficacy.",
+    "start_date": "September 2010",
+    "completion_date": "October 2015",
+    "primary_completion_date": "October 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "After 2 treatment cycles",
+      "description": "Assessing the number of participants with a confirmed complete response or partial response as per RECIST criteria."
+    },
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From start of treatment to disease progression or death",
+      "description": "Estimate the median time to progression."
+    }, {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From start of treatment until death from any cause",
+      "description": "Estimate median overall survival time."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "23",
+    "condition": "Pancreatic Cancer",
+    "arm_group": {
+      "arm_group_label": "Oxaliplatin + Gemcitabine + Pembrolizumab",
+      "arm_group_type": "Experimental",
+      "description": "Oxaliplatin 85 mg/m² IV, Gemcitabine 1000 mg/m² IV days 1 and 8, Pembrolizumab 200 mg IV on Day 1"
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Oxaliplatin",
+      "description": "85 mg/m² IV on Day 1",
+      "arm_group_label": "Oxaliplatin + Gemcitabine + Pembrolizumab",
+      "other_name": "Eloxatin"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Gemcitabine",
+      "description": "1000 mg/m² IV on Days 1 and 8",
+      "arm_group_label": "Oxaliplatin + Gemcitabine + Pembrolizumab",
+      "other_name": "Gemzar"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Pembrolizumab",
+      "description": "200 mg IV on Day 1",
+      "arm_group_label": "Oxaliplatin + Gemcitabine + Pembrolizumab",
+      "other_name": "Keytruda"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Patients ≥ 18 years old with histologically confirmed, unresectable, advanced pancreatic adenocarcinoma.\r\n- Measurable disease per RECIST 1.1.\r\n- ECOG performance status 0-1.\r\n- Adequate organ function: ANC ≥ 1,500 cells/mm³, platelets ≥ 100,000 cells/mm³, bilirubin ≤ 1.5 × ULN.\r\n- No prior chemotherapy for advanced disease.\r\n\r\nExclusion Criteria:\r\n- Previous treatment with oxaliplatin, gemcitabine, or any immune checkpoint inhibitors.\r\n- Unresolved toxicities from prior therapies.\r\n- Active autoimmune disease requiring systemic treatment.\r\n- Psychiatric condition precluding informed consent."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily R. Lutz, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "UCSF Helen Diller Family Comprehensive Cancer Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94158",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2020",
+    "study_first_submitted": "April 14, 2010",
+    "study_first_submitted_qc": "April 15, 2010",
+    "study_first_posted": "April 20, 2010",
+    "results_first_submitted": "November 30, 2015",
+    "results_first_submitted_qc": "December 1, 2015",
+    "results_first_posted": "April 12, 2016",
+    "last_update_submitted": "April 20, 2020",
+    "last_update_submitted_qc": "April 21, 2020",
+    "last_update_posted": "April 22, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Pancreatic Cancer",
+      "Oxaliplatin",
+      "Gemcitabine",
+      "Pembrolizumab"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Pancreatic Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Gemcitabine",
+        "Oxaliplatin",
+        "Pembrolizumab"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Recruitment was initiated in June 2010 but faced significant delays due to difficulties in patient accrual.",
+        "pre_assignment_details": "23 patients were screened, but only 5 met the eligibility criteria, leading to early termination of the trial."
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Oxaliplatin + Gemcitabine + Pembrolizumab",
+            "description": "Combination therapy with oxaliplatin, gemcitabine, and pembrolizumab."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Full Range",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Region of Enrollment",
+              "units": "participants",
+              "param": "Number",
+              "class_list": {
+                "class": {
+                  "title": "United States",
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Overall Response Rate (ORR)",
+          "description": "The ORR was calculated as the proportion of participants achieving a complete or partial response as per RECIST criteria.",
+          "time_frame": "After 2 treatment cycles, when data were to be analyzed.",
+          "population": "All patients treated were included in this analysis.",
+          "group_list": {
+            "group": {
+              "title": "Oxaliplatin + Gemcitabine + Pembrolizumab",
+              "description": "Combination therapy with oxaliplatin, gemcitabine, and pembrolizumab."
+            }
+          },
+          "measure": {
+            "title": "Overall Response Rate (ORR)",
+            "description": "Calculated as the percentage of participants who achieved a complete or partial response as per RECIST criteria.",
+            "units": "Participants",
+            "param": "Number",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": null
+                }
+              }
+            },
+            "class_list": {
+              "class": [
+                {
+                  "title": "Complete response",
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Partial response",
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

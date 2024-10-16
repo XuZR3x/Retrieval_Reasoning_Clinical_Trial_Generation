@@ -1,0 +1,131 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+        },
+        "id_info": {
+            "org_study_id": "NeuroProtect Trial",
+            "nct_id": "NCT01234567"
+        },
+        "brief_title": "Evaluating the Efficacy of Rasagiline in Patients with Advanced Amyotrophic Lateral Sclerosis",
+        "official_title": "A Multicentric, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Rasagiline in Patients with Advanced Amyotrophic Lateral Sclerosis",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "NeuroScience Development Ltd.",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "Cortex Pharma Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "NeuroScience Development Ltd.",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study aimed to investigate whether Rasagiline could provide symptomatic relief and potentially impact disease progression in patients with advanced ALS. The hypothesis was predicated on preclinical data suggesting neuroprotective properties of Rasagiline.",
+            "objectives": {
+              "primary_objective": "To assess the clinical efficacy of Rasagiline as measured by the ALS Functional Rating Scale-Revised (ALSFRS-R) compared to placebo.",
+              "secondary_objectives": "To evaluate quality of life through the ALSQOL, change in vital capacity, and adverse events."
+            }
+        },
+        "study_design": {
+            "type": "Phase 2",
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Triple (Participant, Care Provider, Investigator)"
+        },
+        "number_of_patients": "85",
+        "treatment_studied": {
+            "rasagiline": {
+                "presentation": "2 mg tablets",
+                "dosage": "2 mg/day orally"
+            },
+            "placebo": {
+                "presentation": "Inactive tablet",
+                "dosage": "2 mg/day orally"
+            }
+        },
+        "eligibility": {
+            "criteria": {
+                "inclusion": [
+                    "Age 21-80 years",
+                    "Clinical diagnosis of ALS according to El Escorial criteria",
+                    "Able to provide informed consent"
+                ],
+                "exclusion": [
+                    "Requirement for tracheostomy",
+                    "History of other neurodegenerative conditions",
+                    "Unstable serious medical conditions"
+                ]
+            },
+            "gender": "All",
+            "minimum_age": "21 Years",
+            "maximum_age": "80 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Insufficient enrollment and data loss during follow-up",
+        "start_date": "March 2011",
+        "completion_date": "December 2014",
+        "primary_completion_date": "December 2013",
+        "study_first_submitted": "January 10, 2011",
+        "study_first_posted": "January 12, 2011",
+        "last_update_posted": "January 20, 2014",
+        "primary_outcome": {
+            "measure": "Change in ALSFRS-R score",
+            "time_frame": "Difference from baseline to Month 12"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Change in Vital Capacity",
+                "time_frame": "From baseline to Month 12"
+            },
+            {
+                "measure": "Quality of Life using ALSQOL",
+                "time_frame": "From baseline to Month 12"
+            },
+            {
+                "measure": "Adverse Events report",
+                "time_frame": "Throughout the study period"
+            }
+        ],
+        "number_of_arms": "2",
+        "arm_group": [
+            {
+                "arm_group_label": "Rasagiline",
+                "arm_group_type": "Experimental"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator"
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Rasagiline",
+                "description": "2 mg orally once daily"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Placebo orally once daily"
+            }
+        ],
+        "overall_analysis": {
+            "conclusive_findings": "Despite an initial hypothesis of neuroprotective effects, the trial did not demonstrate significant clinical efficacy for rasagiline compared to the placebo. Participant diversity, particularly across disease stages, hindered the establishment of statistically robust outcomes.",
+            "contributing_factors": [
+                "The patient population demonstrated significant heterogeneity in disease progression, contributing to variances in outcome measures.",
+                "The short treatment span of 12 months likely limited the detection of prolonged effects or late-onset adverse reactions.",
+                "Challenges in recruitment led to a lower than anticipated sample size, weakening the statistical power to detect significant differences."
+            ]
+        }
+    }
+}
+```

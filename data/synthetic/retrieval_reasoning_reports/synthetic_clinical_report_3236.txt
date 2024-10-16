@@ -1,0 +1,181 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "GLOO001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Multicenter Trial of Insulin Glulisine Versus Insulin Aspart in Patients With Type 2 Diabetes Mellitus for Glycemic Control",
+    "official_title": "A Multicenter, Randomized, Open-Label Trial to Compare the Efficacy and Safety of Insulin Glulisine Versus Insulin Aspart in Patients With Type 2 Diabetes Mellitus: A Focused Analysis on Treatment Adherence and Glycemic Outcomes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Sanofi",
+    "brief_summary": {
+      "textblock": "The primary purpose of this study is to compare the change in HbA1c levels from baseline to week 24 between patients receiving insulin glulisine and those receiving insulin aspart in a real-world setting."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment and suboptimal efficacy outcomes",
+    "start_date": "March 2011",
+    "completion_date": "December 2013",
+    "primary_completion_date": "December 2013",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in HbA1c from baseline to week 24",
+      "time_frame": "24 weeks",
+      "description": "The change in glycosylated hemoglobin (HbA1c) indicates the primary efficacy outcome, reflecting long-term glycemic control."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Self-reported treatment satisfaction (DTSQs)",
+        "time_frame": "Week 0 and Week 24"
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "Throughout the study duration"
+      },
+      {
+        "measure": "Self-measured blood glucose levels (SMBG)",
+        "time_frame": "At baseline, weekly during treatment, and at study conclusion"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "40",
+    "condition": "Diabetes Mellitus, Type 2",
+    "arm_group": [
+      {
+        "arm_group_label": "Insulin Glulisine",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive insulin glulisine administered subcutaneously at mealtimes, alongside a basal insulin regimen."
+      },
+      {
+        "arm_group_label": "Insulin Aspart",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive insulin aspart administered subcutaneously at mealtimes, also alongside a basal insulin regimen."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin glulisine",
+        "description": "Insulin glulisine administered three times a day at mealtimes, with a regimen customized for individual needs.",
+        "arm_group_label": "Insulin Glulisine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin aspart",
+        "description": "Insulin aspart administered three times a day at mealtimes as an active comparator.",
+        "arm_group_label": "Insulin Aspart"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Diagnosis of Type 2 Diabetes Mellitus for at least one year.\n- Current treatment with a long-acting insulin and stable oral antihyperglycemic agents.\n- HbA1c levels between 7.0% and 10.0% at screening.\n\nExclusion Criteria:\n\n- History of diabetic ketoacidosis in the last six months.\n- Severe hypersensitivity to either insulin glulisine or insulin aspart.\n- Percent body weight change of more than 5% within the last three months."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Laura Smith, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Sanofi"
+    },
+    "location": {
+      "facility": {
+        "name": "Sanofi Clinical Research Centre",
+        "address": {
+          "city": "New York",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "February 10, 2011",
+    "study_first_submitted_qc": "February 11, 2011",
+    "study_first_posted": "February 15, 2011",
+    "last_update_submitted": "January 5, 2024",
+    "last_update_submitted_qc": "January 6, 2024",
+    "last_update_posted": "January 7, 2024",
+    "responsible_party": {
+      "name_title": "Dr. Laura Smith",
+      "organization": "Sanofi"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Type 2"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Insulin",
+        "Insulin Glargine",
+        "Insulin Aspart",
+        "Insulin Glulisine"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study commenced with the aim of enrolling 200 patients across 15 centers. Due to substantial challenges with participant recruitment, only 40 patients were eventually enrolled, leading to termination.",
+        "pre_assignment_details": "A total of 300 participants were screened, with only 40 eventually randomized."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glulisine",
+              "description": "Experimental group"
+            },
+            {
+              "title": "Insulin Aspart",
+              "description": "Active comparator group"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in HbA1c Levels",
+            "population": "Analysis performed on the Total Participant Population.",
+            "measure": "The average changes in HbA1c levels denote the primary measure of efficacy, reported in percentage form."
+          },
+          {
+            "type": "Secondary",
+            "title": "Self-reported Treatment Satisfaction",
+            "population": "Analysis performed on the Total Participant Population.",
+            "measure": "Utilization of the DTSQs to assess treatment satisfaction differences between groups."
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events Reported",
+            "population": "Analysis performed on the Total Participant Population.",
+            "measure": "Instance and description of all reported adverse events throughout the study duration."
+          }
+        ]
+      }
+    }
+  }
+}
+```

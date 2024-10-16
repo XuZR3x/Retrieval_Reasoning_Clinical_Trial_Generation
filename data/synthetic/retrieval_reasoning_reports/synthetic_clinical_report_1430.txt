@@ -1,0 +1,126 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03548976"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2018-00349",
+      "nct_id": "NCT03548976"
+    },
+    "brief_title": "Combination of Pertuzumab and Anlotinib in Treating Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Pertuzumab in Combined Treatment With Anlotinib in Patients With Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Peking University Cancer Hospital & Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Innovent Biologics, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Peking University Cancer Hospital & Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study evaluates the efficacy and safety of pertuzumab in conjunction with anlotinib in patients with advanced non-small cell lung cancer (NSCLC) previously treated with platinum-based chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the overall response rate (ORR) of patients with advanced NSCLC treated with the combination of pertuzumab and anlotinib.\n\nII. To evaluate the safety profile of the combined regimen in this patient population.\n\nSECONDARY OBJECTIVES:\n\nI. To determine progression-free survival (PFS) and overall survival (OS).\n\nII. To explore the relationship between genetic markers (e.g., EGFR mutations) and treatment efficacy.\n\nIII. To analyze the impact on quality of life through validated assessment tools.\n\nThis is a multicenter, single-arm phase II clinical trial in which eligible patients will receive pertuzumab intravenously (IV) and anlotinib orally for a duration specified in the dosing protocol. The regimen is expected to continue until disease progression or unacceptable toxicity occurs."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate enrollment and safety concerns due to overlapping toxicities",
+    "start_date": "June 2018",
+    "completion_date": "October 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase II",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "CT imaging every 6 weeks during treatment",
+      "description": "The proportion of patients with a confirmed ORR defined as complete response (CR) or partial response (PR) per RECIST 1.1 criteria."
+    }],
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From the start of treatment until disease progression or death",
+      "description": "Median time without disease progression as assessed by CT scans."
+    }, {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From initiation of treatment until death from any cause",
+      "description": "Time from start of treatment to death."
+    }, {
+      "measure": "Safety Profile of Pertuzumab-Anlotinib Combination",
+      "time_frame": "Throughout the study period",
+      "description": "Monitoring the incidence and severity of adverse events related to the treatment."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": ["Non-Small Cell Lung Cancer"],
+    "arm_group": {
+      "arm_group_label": "Cohort A: Pertuzumab plus Anlotinib",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive pertuzumab IV and oral anlotinib daily for the duration specified in the study protocol."
+    },
+    "intervention": [{
+      "intervention_type": "Biological",
+      "intervention_name": "Pertuzumab",
+      "description": "Administered IV."
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Anlotinib",
+      "description": "Administered orally."
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed advanced non-small cell lung cancer (NSCLC).\n- Patients must be previously treated with at least one line of platinum-based chemotherapy.\n- At least one measurable lesion according to RECIST criteria.\n- ECOG performance status of 0-2.\n- Life expectancy of at least three months.\n\nExclusion Criteria:\n\n- Prior treatment with pertuzumab or anlotinib.\n- Uncontrolled intercurrent illness, including symptomatic congestive heart failure.\n- History of other malignancy within the last 5 years (except non-melanoma skin cancer)."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Ling Xu",
+      "role": "Principal Investigator",
+      "affiliation": "Peking University Cancer Hospital & Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Peking University Cancer Hospital & Institute",
+        "address": {
+          "city": "Beijing",
+          "state": "Beijing",
+          "zip": "100142",
+          "country": "China"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "China"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "April 2, 2018",
+    "study_first_submitted_qc": "April 3, 2018",
+    "study_first_posted": "April 4, 2018",
+    "results_first_submitted": "May 5, 2021",
+    "results_first_posted": "June 1, 2021",
+    "last_update_submitted": "April 20, 2021",
+    "last_update_posted": "April 25, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "limitations_and_caveats": "Challenges in attaining appropriate patient enrollment due to strict inclusion criteria led to inadequate sample size, ultimately compromising the ability to assess efficacy and safety outcomes adequately. Multiple participants experienced overlapping toxicities notably severe diarrhea and significant skin rash, invoking substantial safety concerns and prompting the discontinuation of the study."
+  }
+}
+```

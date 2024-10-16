@@ -1,0 +1,165 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02716291"
+    },
+    "id_info": {
+      "org_study_id": "2020-0025",
+      "secondary_id": "U01AI123456",
+      "nct_id": "NCT02716291"
+    },
+    "brief_title": "Methotrexate for Treatment of Severe Psoriasis",
+    "official_title": "A Randomized, Double-blind, Placebo-controlled Trial of Methotrexate for the Treatment of Severe Psoriasis: Efficacy and Safety Assessment",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Institute of Allergy and Infectious Diseases (NIAID)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of methotrexate in patients with severe psoriasis who have had inadequate responses to current standard therapies. With an increasing prevalence of psoriasis and limited treatment options, methotrexate has been proposed as an alternative. This trial specifically investigates its safety, tolerability, and potential benefit relative to placebo."
+    },
+    "detailed_description": {
+      "textblock": "Background: Methotrexate is a cornerstone in the management of various inflammatory conditions, including psoriasis. Recent studies have raised questions regarding its efficacy and tolerability, particularly in patients who have not responded to other therapies. This randomized, double-blind, placebo-controlled trial evaluates whether weekly methotrexate administration can achieve significant skin clearance compared to placebo in adults with moderate to severe psoriasis, gauged through standardized scoring methods over 24 weeks.\n\nObjectives: The primary objective is to compare the rate of achieving PASI 75 (Psoriasis Area Severity Index) response at 24 weeks between methotrexate and placebo groups. Secondary objectives include evaluating the safety profile, frequency of adverse events, and quality of life metrics as assessed by dermatology-specific questionnaires.\n\nDesign: The study will randomly assign 200 adults with severe psoriasis to receive either methotrexate (up to 25 mg/week) or matching placebo for a period of 24 weeks. Participants will be monitored biweekly for adverse events, clinical response, and laboratory parameters, including liver function tests and complete blood counts. The trial is designed with an interim analysis to assess futility and safety profiles.\n\nInclusion/Exclusion Criteria: Eligible participants must be between 18 and 65 years of age, with a diagnosis of moderate to severe plaque psoriasis for longer than six months. Exclusion criteria encompass prior exposure to systemic therapies for psoriasis, history of significant hepatic disease, or current active infections.\n\nProjected Accrual: The aim is to enroll 200 participants across multiple sites over a 2-year period."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2020",
+    "completion_date": "December 2021",
+    "primary_completion_date": "November 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Participants Achieving PASI 75 Response",
+      "time_frame": "24 weeks",
+      "description": "The percentage of participants achieving a 75% reduction in the PASI score from baseline."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "From randomization to trial end (24 weeks)",
+        "description": "Quantification of the frequency and severity of adverse events, specifically hematologic and hepatic abnormalities."
+      },
+      {
+        "measure": "Quality of Life Assessment Scores",
+        "time_frame": "24 weeks",
+        "description": "Changes in patients' quality of life measured by dermatology-specific quality-of-life metrics, such as the DLQI (Dermatology Life Quality Index)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Psoriasis",
+    "arm_group": [
+      {
+        "arm_group_label": "Methotrexate",
+        "arm_group_type": "Experimental",
+        "description": "Methotrexate: 25 mg weekly administered subcutaneously."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo: Matching subcutaneous injection once weekly."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Methotrexate",
+        "description": "Single-agent therapy at a dosage of 25 mg administered subcutaneously once weekly for 24 weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered subcutaneously once weekly for 24 weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Clinically diagnosed with moderate to severe plaque psoriasis for at least 6 months.\n  - PASI score of at least 12 at screening. \n  - Ability to provide informed consent and comply with the study protocol.\n\nExclusion Criteria:\n\n  - History of significant adverse reactions to methotrexate.\n  - Concurrent treatment with systemic therapies for psoriasis within 3 months prior to screening.\n  - Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "UCSF Medical Center",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Stanford Hospital",
+          "address": {
+            "city": "Stanford",
+            "state": "California",
+            "zip": "94305",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "January 1, 2020",
+    "study_first_posted": "January 15, 2020",
+    "last_update_posted": "January 20, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of California, San Francisco",
+      "investigator_full_name": "Jane Doe, MD",
+      "investigator_title": "Clinical Researcher"
+    },
+    "keyword": [
+      "Psoriasis",
+      "Methotrexate",
+      "Inflammation",
+      "Adverse Events"
+    ],
+    "condition_browse": {
+      "mesh_term": "Psoriasis"
+    },
+    "intervention_browse": {
+      "mesh_term": "Methotrexate"
+    },
+    "limitations_and_caveats": "The trial was terminated due to suboptimal efficacy, as the obtained PASI responses did not significantly differ between treatment and placebo groups. Ineffective patient stratification led to a heterogeneous cohort, complicating outcome assessments. Furthermore, high incidences of adverse events triggered concerns over treatment tolerability, culminating in dose interruptions and reduced patient adherence to methotrexate therapy.",
+    "point_of_contact": {
+      "name_or_title": "Dr. Jane Doe",
+      "organization": "University of California, San Francisco",
+      "phone": "(415) 555-0199",
+      "email": "jdoe@ucsf.edu"
+    }
+  }
+}
+```

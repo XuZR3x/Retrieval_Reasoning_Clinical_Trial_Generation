@@ -1,0 +1,214 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "2018-005678-34",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Evaluating Buprenorphine for Chronic Pain Management in Adults",
+    "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Buprenorphine in Patients with Chronic Pain Conditions",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Wayfarer Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Wayfarer Pharmaceuticals, Inc.",
+    "overall_status": "Completed",
+    "start_date": "January 15, 2019",
+    "completion_date": "December 12, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Numeric Rating Scale (NRS) Pain Intensity Scores from Baseline to Week 12",
+      "time_frame": "12 weeks",
+      "description": "Assessment of pain intensity using an 11-point NRS scale (0 = no pain, 10 = unbearable pain) at baseline and at the end of the 12-week intervention period."
+    },
+    "number_of_arms": "2",
+    "enrollment": "310",
+    "condition": "Chronic Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Buprenorphine Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received buprenorphine sublingual spray (0.4 mg) administered three times daily."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received an identical placebo spray administered three times daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Buprenorphine",
+        "description": "Buprenorphine sublingual spray (0.4 mg per application), administered three times daily.",
+        "arm_group_label": "Buprenorphine Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo-matching spray, administered three times daily.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18 to 75 with chronic pain conditions\n- Average pain score ≥4 on the NRS at screening\n- Capable of providing informed consent\n\nExclusion Criteria:\n\n- Significant liver or renal impairment\n- History of substance use disorder\n- Current pregnancy or lactation period",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Amelia Rhodes",
+      "role": "Principal Investigator",
+      "affiliation": "Wayfarer Pharmaceuticals, Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "Multicenter Research Network",
+        "address": {
+          "city": "Various",
+          "state": "Multiple States",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "December 10, 2018",
+    "study_first_posted": "January 5, 2019",
+    "results_first_submitted": "April 30, 2021",
+    "results_first_posted": "May 15, 2021",
+    "last_update_posted": "May 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Chronic Pain", "Buprenorphine", "Pain Management", "Randomized Controlled Trial"],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients were recruited from various outpatient facilities between January 2019 and June 2020.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Buprenorphine Group",
+              "description": "Participants received buprenorphine sublingual spray (0.4 mg) three times daily."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants received placebo spray three times daily."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": [310]}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": [310]}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": [0]}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Intention-to-treat (ITT) population included all enrolled participants.",
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in NRS Pain Intensity Scores",
+            "description": "Comparison of NRS pain scores between the buprenorphine and placebo groups over 12 weeks.",
+            "time_frame": "Baseline and 12 weeks",
+            "population": "Intention-to-treat",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Buprenorphine Group",
+                  "description": "Received buprenorphine (0.4 mg TID)."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Received placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "NRS Pain Intensity Score Change",
+              "units": "Unitless NRS",
+              "param": "Mean change from baseline",
+              "dispersion": "Standard Deviation"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From the first dose to the follow-up visit (Week 12).",
+        "group_list": {
+          "group": [
+            {
+              "title": "Buprenorphine Group",
+              "description": "Total adverse events monitored included nausea, headache, and dizziness."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Adverse events were similarly recorded."
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are not employed by the sponsoring organization.",
+        "restrictive_agreement": "No agreement restricts the PI's right to discuss or publish trial results."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Esther Textor, Clinical Research Coordinator",
+        "organization": "Wayfarer Pharmaceuticals, Inc.",
+        "phone": "123-456-7890",
+        "email": "esther.textor@wayfarerpharma.com"
+      }
+    }
+  }
+}
+```

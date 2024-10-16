@@ -1,0 +1,141 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "1357924680",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Dexmedetomidine for Enhanced Recovery After Cardiac Surgery",
+    "official_title": "The Role of Dexmedetomidine in Perioperative Management to Improve Postoperative Outcomes in Patients Undergoing Cardiac Surgery: A Randomized-Controlled Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Healthcare Innovations",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of Healthcare Innovations",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "The study aims to evaluate the efficacy of dexmedetomidine in the postoperative setting for patients undergoing elective cardiac surgeries. The primary hypothesis posits that continuous intraoperative infusion of dexmedetomidine reduces the overall opioid consumption and improves recovery parameters compared to a control group receiving traditional analgesic regimens."
+    },
+    "detailed_description": {
+      "textblock": "This randomized controlled trial was conducted at the University Hospital, involving 100 patients undergoing elective cardiac surgery. The participants were randomized to receive either dexmedetomidine at a continuous infusion rate of 0.3 mcg/kg/hour during surgery or standard intravenous saline as a control. The inclusion criteria were patients aged 40-80 years, ASA class II-III, with no history of respiratory depression or significant cardiovascular comorbidities. \n\nThe primary outcomes assessed included total opioid consumption within 48 hours post-surgery, incidence of postoperative pain measured via the Numeric Rating Scale (NRS), and duration of stay in the post-anesthesia care unit (PACU). Secondary outcomes included assessment of sedation levels using the Richmond Agitation Sedation Scale (RASS), incidence of adverse events, and overall patient satisfaction scores. \n\nSafety monitoring was performed throughout the study, with vigilance for adverse events such as bradycardia, hypotension, and excessive sedation. Statistical analysis was performed using intention-to-treat methodology, with a significance level set at p<0.05."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2021",
+    "completion_date": "September 1, 2022",
+    "primary_completion_date": "July 1, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+      "measure": "Total Opioid Consumption in Milligrams",
+      "time_frame": "48 hours post-surgery",
+      "description": "Total morphine equivalent dosage consumed by participants as documented in the patient's medication records, measured in milligrams."
+    }],
+    "secondary_outcome": [{
+      "measure": "Postoperative Pain Scores on Numeric Rating Scale (0-10)",
+      "time_frame": "At 24, 48, and 72 hours post-surgery",
+      "description": "Pain levels assessed using the NRS at regular intervals following surgery."
+    }, {
+      "measure": "Duration of PACU Stay in Hours",
+      "time_frame": "Measured from the end of surgery to discharge from PACU",
+      "description": "Time duration in hours spent in post-anesthesia care unit."
+    }, {
+      "measure": "Incidence of Adverse Events",
+      "time_frame": "Throughout the perioperative period",
+      "description": "Monitoring and recording any adverse events related to dexmedetomidine use."
+    }, {
+      "measure": "Patient Satisfaction Score",
+      "time_frame": "At discharge from PACU",
+      "description": "Patient-reported satisfaction with pain management assessed using a dedicated questionnaire."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": "Pain, Postoperative",
+    "arm_group": [{
+      "arm_group_label": "Dexmedetomidine Group",
+      "arm_group_type": "Experimental",
+      "description": "Participants received a continuous infusion of dexmedetomidine at 0.3 mcg/kg/hour during surgical procedures."
+    }, {
+      "arm_group_label": "Control Group",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants received intravenous normal saline instead of dexmedetomidine."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Dexmedetomidine",
+      "description": "Continuous intravenous infusion of dexmedetomidine at 0.3 mcg/kg/hour during surgery.",
+      "arm_group_label": "Dexmedetomidine Group"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Normal Saline",
+      "description": "Intravenous infusion of normal saline as a control intervention.",
+      "arm_group_label": "Control Group"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  -  Patients aged 40-80 years undergoing elective cardiac surgery.\n  -  ASA II-III classification.\n  -  No significant respiratory or cardiovascular comorbidities.\n\nExclusion Criteria:\n  -  History of respiratory depression.\n  -  Pregnancy or lactation.\n  -  Severe liver or renal impairment."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James McAllister",
+      "role": "Principal Investigator",
+      "affiliation": "University of Healthcare Innovations"
+    },
+    "location": {
+      "facility": {
+        "name": "University Hospital",
+        "address": {
+          "city": "Healthcare City",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "January 12, 2021",
+    "study_first_submitted_qc": "January 15, 2021",
+    "study_first_posted": "January 20, 2021",
+    "last_update_submitted": "August 2023",
+    "last_update_posted": "September 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Healthcare Innovations",
+      "investigator_full_name": "James McAllister, MD",
+      "investigator_title": "Associate Professor of Anesthesiology"
+    },
+    "keyword": ["Dexmedetomidine", "Cardiac Surgery", "Pain Management", "Postoperative Recovery"],
+    "intervention_browse": {
+      "mesh_term": "Dexmedetomidine"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

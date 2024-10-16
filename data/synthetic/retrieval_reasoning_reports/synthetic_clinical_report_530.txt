@@ -1,0 +1,528 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02240123"
+    },
+    "id_info": {
+      "org_study_id": "ETOP 3-16 / PROGNOSIS",
+      "secondary_id": ["2014-001234-23", "PROGNOSIS"],
+      "nct_id": "NCT02240123"
+    },
+    "brief_title": "Erlotinib with Trastuzumab in Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Multinational Phase II Study Evaluating Erlotinib in Combination with Trastuzumab in Patients with Advanced Non-Small Cell Lung Cancer Harboring EGFR Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "European Thoracic Oncology Platform",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "International Society for Lung Cancer Research",
+        "agency_class": "Other"
+      }
+    },
+    "source": "European Thoracic Oncology Platform",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the efficacy and safety of erlotinib in conjunction with trastuzumab in patients with advanced non-small cell lung cancer (NSCLC) with confirmed EGFR mutations. Given the challenges in prognosis for patients with NSCLC, particularly those exhibiting the T790M mutation, there is a critical need for optimized treatment regimens that target these specific pathways."
+    },
+    "detailed_description": {
+      "textblock": "Rationale: Research indicates that NSCLC patients with EGFR mutations often exhibit resistance to standard therapies. By concurrently administering erlotinib with trastuzumab, which targets HER2 pathways, this trial aims to mitigate resistance mechanisms and extend progression-free survival rates. The trial further seeks to stratify patients based on their EGFR mutation types, particularly isolating those with the T790M mutation to tailor the therapy more effectively.\n\nObjectives: \n1. Evaluate progression-free survival in cohorts provided erlotinib and trastuzumab therapy. Primary endpoint: maximum level of inhibition in tumor growth.\n2. Analyze correlation between BRCA1 and AEG-1 mRNA expression levels and clinical outcomes, and integrate pharmacokinetic evaluations to optimize dosage protocols based on observed drug metabolism patterns.\n3. Monitor treatment safety by extensive evaluation of adverse events and quality of life metrics during trial period.\n\nDesign: This is an international, open-label phase II trial comprised of two parallel arms focusing on patients with advanced, treatment-resistant non-squamous lung cancer. Participants are expected to have documented EGFR mutations confirmed via centralized testing."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2015",
+    "completion_date": "March 2020",
+    "primary_completion_date": "January 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From enrollment until documented progression or death, assessed up to 24 months.",
+      "description": "PFS is defined as the time from enrollment until disease progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From enrollment until death due to any cause, assessed up to 24 months.",
+        "description": "Overall survival defined as time from enrollment to death."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Assessed every 8 weeks during treatment until progression or end of study.",
+        "description": "The proportion of patients achieving a complete or partial response."
+      },
+      {
+        "measure": "Disease Control Rate (DCR)",
+        "time_frame": "From enrollment until the end of treatment, assessed up to 24 months.",
+        "description": "Defined as the proportion of patients with response or stable disease lasting at least 24 weeks."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Assessed throughout the trial period until 30 days post-treatment.",
+        "description": "Characterizing and grading adverse events according to NCI CTCAE v4 guidelines."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Non-Small-Cell Lung Carcinoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Erlotinib plus Trastuzumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive efroitinib 150 mg p.o. daily in combination with trastuzumab 6 mg/kg IV every 21 days."
+      },
+      {
+        "arm_group_label": "Erlotinib",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive erlotinib 150 mg p.o. daily only."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Erlotinib",
+        "description": "Erlotinib administered at a dose of 150 mg p.o. daily.",
+        "arm_group_label": ["Erlotinib plus Trastuzumab","Erlotinib"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Trastuzumab",
+        "description": "Trastuzumab administered at a dose of 6 mg/kg intravenous every 21 days.",
+        "arm_group_label": ["Erlotinib plus Trastuzumab"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients aged 18 years or older.\n- Histologically or cytologically confirmed non-squamous NSCLC with activating EGFR mutations.\n- Stage IIIB or IV disease not amenable to curative treatment.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n- Measurable disease according to RECIST v1.1 criteria.\n\nExclusion Criteria:\n\n- Previous treatment with any EGFR inhibitors.\n- Significant cardiovascular disease or history of thromboembolism within past year.\n- Patient with known history of hypersensitivity to erlotinib or trastuzumab.\n- Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Helena Resende, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Hospital de Câncer de Barretos"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Hospital de Câncer de Barretos",
+          "address": {
+            "city": "Barretos",
+            "state": "São Paulo",
+            "zip": "14784-400",
+            "country": "Brazil"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Universidade de São Paulo - Hospital das Clínicas",
+          "address": {
+            "city": "São Paulo",
+            "zip": "01306-903",
+            "country": "Brazil"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Brazil", "Portugal", "Italy", "Spain", "Germany"]
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "October 10, 2014",
+    "study_first_submitted_qc": "October 10, 2014",
+    "study_first_posted": "October 15, 2014",
+    "results_first_submitted": "March 20, 2020",
+    "results_first_submitted_qc": "April 30, 2020",
+    "results_first_posted": "May 5, 2020",
+    "last_update_submitted": "March 15, 2021",
+    "last_update_posted": "March 16, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "non-small cell lung cancer",
+      "EGFR mutations",
+      "advanced lung cancer",
+      "erlotinib",
+      "trastuzumab"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Erlotinib Hydrochloride", "Trastuzumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 150 patients were enrolled by August 2019 across 30 research sites, with complete data collected from all participants for efficacy analysis.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Erlotinib plus Trastuzumab",
+              "description": "150 patients received erlotinib and trastuzumab."
+            },
+            {
+              "title": "Erlotinib only",
+              "description": "150 patients received only erlotinib."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "A diverse cohort of 150 patients with a balanced representation of genders and multiple ethnicities.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Erlotinib plus Trastuzumab",
+              "description": "Patients treated with combination therapy."
+            },
+            {
+              "title": "Erlotinib",
+              "description": "Patients receiving monotherapy."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [75, 75]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Inter-Quartile Range",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [61, 55]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [45, 30]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [30, 45]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "ECOG Performance Status",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "ECOG 0",
+                        "measurement_list": {
+                          "measurement": [25, 25]
+                        }
+                      },
+                      {
+                        "title": "ECOG 1",
+                        "measurement_list": {
+                          "measurement": [30, 35]
+                        }
+                      },
+                      {
+                        "title": "ECOG 2",
+                        "measurement_list": {
+                          "measurement": [20, 15]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Time from enrollment until progression or death.",
+            "time_frame": "Up to 24 months.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Erlotinib plus Trastuzumab",
+                  "description": "Median PFS was reported with supportive data."
+                },
+                {
+                  "title": "Erlotinib",
+                  "description": "Median PFS was less compared to combination arm."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "Time from enrollment until death from any cause.",
+            "time_frame": "Up to 24 months.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Erlotinib plus Trastuzumab",
+                  "description": "OS benefit noted in treatment group."
+                },
+                {
+                  "title": "Erlotinib",
+                  "description": "Comparative data shows diminished survival in monotherapy."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "Percentage of patients achieving CR or PR.",
+            "time_frame": "Up to 24 months.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Erlotinib plus Trastuzumab",
+                  "description": "Higher rates of tumor response recorded."
+                },
+                {
+                  "title": "Erlotinib",
+                  "description": "Response rates notable but lower than combination."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "Report of all treatment-related adverse events.",
+            "time_frame": "Assess throughout treatment until 30 days follow-up.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Erlotinib plus Trastuzumab",
+                  "description": "Monitoring indicated acceptable toxicity profiles."
+                },
+                {
+                  "title": "Erlotinib",
+                  "description": "Adverse occurrences sufficiently documented."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Across the study until the final treatment follow-up (max 24 months).",
+        "desc": "Comprehensive recording of all treatment-emergent adverse events carefully collected for safety analysis.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Erlotinib plus Trastuzumab",
+              "description": "Adverse events included but restrictions identified amongst subjects."
+            },
+            {
+              "title": "Erlotinib",
+              "description": "Monitoring showed seriousness of events but overall management effective."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "NCI CTCAE Version 4.",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Total all-cause mortality",
+                      "counts": [3, 5]
+                    },
+                    {
+                      "sub_title": "Total serious adverse events",
+                      "counts": [10, 8]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [15, 12]
+                    },
+                    {
+                      "sub_title": "Vomiting",
+                      "counts": [9, 7]
+                    },
+                    {
+                      "sub_title": "Diarrhea",
+                      "counts": [13, 10]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Respiratory disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Dyspnea",
+                      "counts": [8, 5]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Dermatological events",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Rash",
+                      "counts": [18, 14]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_vocab": "NCI CTCAE Version 4.",
+            "default_assessment": "Non-systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total other adverse events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": [30, 25]
+                    }
+                  }
+                },
+                {
+                  "title": "Eye disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Conjunctivitis",
+                      "counts": [5, 3]
+                    }
+                  }
+                },
+                {
+                  "title": "Vascular disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Hypertension",
+                      "counts": [12, 9]
+                    }
+                  }
+                },
+                {
+                  "title": "Cardiac disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Atrial fibrillation",
+                      "counts": [6, 4]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "Investigators maintain freedom to publish results without permission from the sponsoring organization."
+        },
+        "point_of_contact": {
+          "name_or_title": "Clara Valerio",
+          "organization": "European Thoracic Oncology Platform",
+          "phone": "+41 44 754 92 33",
+          "email": "clara.valerio@etop-eu.org"
+        }
+      }
+    }
+  }
+}
+```

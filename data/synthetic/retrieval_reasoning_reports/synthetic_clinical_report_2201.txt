@@ -1,0 +1,146 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03928461"
+    },
+    "id_info": {
+      "org_study_id": "CR201946",
+      "secondary_id": ["RIVAROXHEP3001", "2020-001246-30"],
+      "nct_id": "NCT03928461"
+    },
+    "brief_title": "A Study to Evaluate the Efficacy and Safety of Rivaroxaban in Patients With Acute Heparin-Induced Thrombocytopenia",
+    "official_title": "A Randomized, Multicenter, Phase 3, Open-Label Study to Evaluate the Efficacy and Safety of Rivaroxaban Compared With Standard Therapy in Patients With Acute Heparin-Induced Thrombocytopenia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "ABC Clinical Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "ABC Clinical Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess whether rivaroxaban is a safe and effective treatment for patients diagnosed with acute heparin-induced thrombocytopenia (HIT). Patients were randomized to receive rivaroxaban or standard anticoagulation treatment to evaluate outcomes related to thromboembolic events and bleeding complications."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, open-label study enrolled adult patients diagnosed with suspected or confirmed HIT. Following a screening period of 14 days, participants received either rivaroxaban (15 mg twice daily) or standard therapy for a period of up to 30 days. The primary objective was to assess the incidence of new thromboembolic events (venous and arterial), while secondary objectives included measuring the rate of major bleeding as defined by the International Society on Thrombosis and Haemostasis (ISTH). Data collection was scheduled to continue until the completion of treatment or the occurrence of a primary endpoint."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate Patient Population and High Incidence of Adverse Events",
+    "start_date": "March 12, 2020",
+    "completion_date": "April 22, 2022",
+    "primary_completion_date": "February 15, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of new symptomatic venous and arterial thromboembolism",
+      "time_frame": "30 days",
+      "description": "This outcome assesses the rate of new thromboembolic events, including both venous and arterial events occurring within the treatment period."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of symptomatic venous and arterial thromboembolism",
+        "time_frame": "30 days",
+        "description": "This secondary endpoint evaluates symptomatic thromboembolic events and includes assessment of major bleeding events during the treatment period."
+      },
+      {
+        "measure": "Number of major bleeding events as per ISTH criteria",
+        "time_frame": "30 days",
+        "description": "Major bleeding incidents were assessed to evaluate the safety profile of rivaroxaban compared to standard therapy."
+      },
+      {
+        "measure": "Duration to platelet recovery",
+        "time_frame": "30 days",
+        "description": "This measure determines the time taken for platelet counts to return to normal thresholds in patients with confirmed HIT."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "Heparin-Induced Thrombocytopenia",
+    "arm_group": [
+      {
+        "arm_group_label": "Rivaroxaban",
+        "arm_group_type": "Experimental",
+        "description": "Patients received rivaroxaban at a dose of 15 mg orally twice daily for the study duration."
+      },
+      {
+        "arm_group_label": "Standard Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received standard therapy for HIT management as per established guidelines."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rivaroxaban",
+        "description": "Rivaroxaban 15 mg was administered orally twice daily for up to 30 days.",
+        "arm_group_label": "Rivaroxaban"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Therapy",
+        "description": "Standard therapy was administered as per clinical practice guidelines for HIT management.",
+        "arm_group_label": "Standard Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adult patients (aged 18 and older) diagnosed with HIT and with an intermediate to high clinical probability as determined by the 4T’s score.\r\n- Patients must have consented to participate in the trial.\r\n\r\nExclusion Criteria:\r\n- Patients with severe renal impairment (creatinine clearance <30 mL/min).\r\n- Presence of ongoing active bleeding or high bleeding risk conditions.\r\n- Any history of thrombosis requiring anticoagulation therapy other than for the current episode of HIT."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "ABC Clinical Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "ABC Hospital",
+          "address": {
+            "city": "Cityville",
+            "state": "Example State",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "January 10, 2020",
+    "study_first_submitted_qc": "January 10, 2020",
+    "study_first_posted": "January 15, 2020",
+    "last_update_submitted": "April 22, 2022",
+    "last_update_submitted_qc": "April 22, 2022",
+    "last_update_posted": "April 23, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Rivaroxaban", "Heparin-Induced Thrombocytopenia", "Thromboembolism", "Major Bleeding"],
+    "condition_browse": {
+      "mesh_term": "Thrombocytopenia"
+    },
+    "intervention_browse": {
+      "mesh_term": "Rivaroxaban"
+    }
+  }
+}
+```

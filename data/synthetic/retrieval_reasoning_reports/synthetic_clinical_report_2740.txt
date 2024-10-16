@@ -1,0 +1,311 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02000123"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2013-00456",
+      "secondary_id": ["ASC-077", "CDR0000700051", "N01-CM60534"],
+      "nct_id": "NCT02000123"
+    },
+    "brief_title": "Vorinostat in Combination With Pembrolizumab in Patients With Metastatic Triple-Negative Breast Cancer (TNBC)",
+    "official_title": "A Phase II Trial of Vorinostat and Pembrolizumab in Patients With Metastatic Triple-Negative Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial is examining the effects of vorinostat in combination with pembrolizumab in treating patients with metastatic triple-negative breast cancer (TNBC). The hypothesis is that vorinostat may enhance the anti-tumor effects of pembrolizumab by altering tumor microenvironment and immune response. Prior studies indicated that vorinostat's potential to induce tumor cell death might synergistically increase response rates in TNBC, a disease with limited treatment options."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVE:\nI. To determine the objective response rate (ORR) to the combination therapy in patients with metastatic TNBC.\n\nSECONDARY OBJECTIVES:\nI. To assess progression-free survival (PFS) and overall survival (OS) in response to treatment.\nII. To evaluate adverse events associated with vorinostat when used in conjunction with pembrolizumab.\nIII. To elucidate pharmacokinetic interactions between vorinostat and pembrolizumab.\nIV. To identify molecular biomarkers predictive of response to therapy.\n\nOUTLINE: This is a multicenter, non-randomized study. Patients receive oral vorinostat daily for 14 days, followed by intravenous pembrolizumab on day 1 of each 28-day cycle. Treatment continues for up to 2 years in the absence of disease progression or unacceptable toxicity. Tumor biopsies are performed at baseline and after the first 14 days of treatment for correlative biomarker studies."
+    },
+    "overall_status": "Terminated",
+    "completion_date": "December 2021",
+    "start_date": "December 2013",
+    "primary_completion_date": "October 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate Assessed by Response Evaluation Criteria in Solid Tumors (RECIST 1.1)",
+      "time_frame": "Up to 2 years",
+      "description": "ORR determined as the proportion of patients achieving a complete or partial response according to RECIST criteria."
+    },
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From treatment initiation until disease progression or death, assessed up to 2 years",
+      "description": "PFS will be calculated using the Kaplan-Meier method."
+    }, {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From treatment initiation to death from any cause, assessed up to 2 years",
+      "description": "OS will also be estimated using the Kaplan-Meier method."
+    }, {
+      "measure": "Incidence of Adverse Events",
+      "time_frame": "Up to 2 years",
+      "description": "Adverse events categorized by CTCAE version 5.0 will be documented."
+    }, {
+      "measure": "Pharmacokinetic Analysis",
+      "time_frame": "At baseline and day 14 of treatment",
+      "description": "Serum levels of vorinostat and pembrolizumab will be assessed to identify drug interactions."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "35",
+    "condition": ["Triple-Negative Breast Cancer", "Metastatic Breast Cancer"],
+    "arm_group": {
+      "arm_group_label": "Vorinostat with Pembrolizumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive vorinostat orally once daily for the first 14 days of each cycle, followed by pembrolizumab administered intravenously on day 1 of each cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "vorinostat",
+        "description": "Patients will receive vorinostat orally for 14 days of each 28-day cycle.",
+        "other_name": ["L-001079038", "SAHA", "Zolinza"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "pembrolizumab",
+        "description": "Patients will receive pembrolizumab intravenously on day 1 of each cycle.",
+        "other_name": ["Keytruda"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed diagnosis of metastatic triple-negative breast cancer.\n- At least one measurable lesion as per RECIST 1.1.\n- ECOG performance status 0-1.\n- Previous treatment with chemotherapy for metastatic disease is allowed, but not during the study.\n- Adequate hematologic and organ function.\n\nExclusion Criteria:\n- Known brain metastases or untreated central nervous system disease.\n- Previous treatment with vorinostat or other HDAC inhibitors.\n- Receipt of investigational agents within 30 days prior to enrollment.\n- Active autoimmune disease requiring treatment.\n- Significant cardiovascular or pulmonary disease."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Evanthia Galanis",
+      "role": "Principal Investigator",
+      "affiliation": "Mayo Clinic"
+    },
+    "location": [{
+      "facility": {
+        "name": "Mayo Clinic",
+        "address": {
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Cleveland Clinic",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "October 2021",
+    "study_first_submitted": "December 12, 2013",
+    "study_first_posted": "December 21, 2013",
+    "last_update_submitted": "November 10, 2021",
+    "last_update_posted": "November 20, 2021",
+    "results_first_submitted": "January 15, 2022",
+    "results_first_posted": "February 5, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Vorinostat with Pembrolizumab",
+            "description": "Patients received the combination therapy as specified in the intervention."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": "35"
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": "35"
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": "0"
+                }
+              }]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Vorinostat with Pembrolizumab",
+              "description": "Patients received vorinostat orally once daily for 14 days followed by pembrolizumab."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": "35"
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [{
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Range 28-78"
+            }, {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                      "title": "Female",
+                      "measurement_list": {
+                        "measurement": "28"
+                      }
+                    }, {
+                      "title": "Male",
+                      "measurement_list": {
+                        "measurement": "7"
+                      }
+                    }]
+                  }
+                }
+              }
+            }]
+          }
+        },
+        "outcome_list": {
+          "outcome": [{
+            "type": "Primary",
+            "title": "Objective Response Rate",
+            "description": "Assess the response using RECIST criteria.",
+            "time_frame": "At 6 months",
+            "population": "Patients treated with the intervention",
+            "measure": {
+              "title": "Objective Response Rate",
+              "description": "Percentage of patients achieving CR or PR.",
+              "units": "percentage",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "count": "8",
+                  "population": "23%"
+                }
+              }
+            }
+          }, {
+            "type": "Secondary",
+            "title": "Progression-Free Survival",
+            "description": "Calculated using Kaplan-Meier methods.",
+            "time_frame": "Up to 2 years",
+            "measure": {
+              "title": "Progression-Free Survival",
+              "units": "months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "count": {
+                    "median": "3.5",
+                    "confidence_interval": "2.1 - 4.8"
+                  }
+                }
+              }
+            }
+          }],
+          "reported_events": {
+            "group_list": {
+              "group": {
+                "title": "Reported Adverse Events",
+                "description": "Documented adverse events occurring in trial participants."
+              }
+            },
+            "serious_events": {
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [{
+                  "title": "Total Serious Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Serious Adverse Events",
+                      "counts": "15"
+                    }
+                  }
+                }]
+              }
+            },
+            "other_events": {
+              "frequency_threshold": "5",
+              "default_assessment": "Systematic Assessment",
+              "category_list": [{
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Diarrhea",
+                    "counts": "8"
+                  }
+                }
+              }, {
+                "title": "Metabolism and Nutrition Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Blood Glucose Increased",
+                    "counts": "7"
+                  }
+                }
+              }]
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

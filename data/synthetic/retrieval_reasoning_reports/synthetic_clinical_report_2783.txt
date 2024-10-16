@@ -1,0 +1,183 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 14, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04012345"
+    },
+    "id_info": {
+      "org_study_id": "TIC-3000",
+      "nct_id": "NCT04012345"
+    },
+    "brief_title": "Efficacy of Ticagrelor in Reducing Cardiovascular Events in Patients with Stable Coronary Artery Disease",
+    "acronym": "TIC-3000",
+    "official_title": "A Phase 3, Randomized, Double-Blind, Multicenter Study Assessing the Efficacy of Ticagrelor Compared to Clopidogrel in Reducing Cardiovascular Events in Patients with Stable Coronary Artery Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cardiovascular Research Institute",
+    "brief_summary": {
+      "textblock": "The objective of this study was to evaluate the efficacy of Ticagrelor versus Clopidogrel in reducing major adverse cardiovascular events (MACE) in patients with stable Coronary Artery Disease (CAD). It particularly aimed to assess the performance and platelet inhibition differential effect of Ticagrelor due to its reversible mechanism of action, which is hypothesized to allow for more flexible dosing and improved outcomes in the target population."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2021",
+    "completion_date": "May 2023",
+    "primary_completion_date": "February 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Reduction in the incidence of MACE defined as cardiovascular death, myocardial infarction, and stroke.",
+      "time_frame": "Follow-up at 12 months post-randomization.",
+      "description": "The primary endpoint evaluated the comparative incidence of MACE between treatment groups—Ticagrelor versus Clopidogrel—using intention-to-treat analysis. The treatment effect was assessed statistically using logistic regression models to control for potential confounders."
+    },
+    "secondary_outcome": {
+      "measure": "Comparison of platelet aggregation inhibition measured by Light Transmittance Aggregometry (LTA) at baseline and post-treatment.",
+      "time_frame": "Assessment at 6 weeks after initiation of treatment.",
+      "description": "This secondary analysis aimed to quantify the degree of platelet aggregation inhibition achieved by Ticagrelor compared to Clopidogrel, especially examining patients previously classified as non-responders to Clopidogrel, thus validating ticagrelor's enhanced pharmacodynamics."
+    },
+    "number_of_arms": "2",
+    "enrollment": "400",
+    "condition": "Stable Coronary Artery Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Ticagrelor Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving Ticagrelor 90 mg twice daily combined with low-dose aspirin."
+      },
+      {
+        "arm_group_label": "Clopidogrel Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receiving Clopidogrel 75 mg once daily combined with low-dose aspirin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ticagrelor",
+        "description": "Administered orally at 90 mg twice daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Administered orally at 75 mg once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Aspirin",
+        "description": "Administered orally at 81 mg daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Patients aged 40 years or older with a diagnosis of stable CAD.\r\n- Current treatment with aspirin and medically managed for at least 3 months before screening.\r\n- Patients must provide informed consent and comply with protocol requirements.\r\nExclusion Criteria:\r\n- Any history of acute coronary syndrome within 6 months prior to screening.\r\n- Known hypersensitivity to study medications or their components.\r\n- Active bleeding disorders or ongoing anticoagulant therapy. \r\n- History of noncompliance with medications or study protocol."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Catherine Lang, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Cardiovascular Research Institute"
+      },
+      {
+        "last_name": "Michael White, Ph.D.",
+        "role": "Study Director",
+        "affiliation": "Cardiovascular Research Institute"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Institute Clinical Site",
+        "address": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "country": "Canada"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Canada"
+    },
+    "verification_date": "May 2023",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_submitted_qc": "March 10, 2021",
+    "study_first_posted": "March 15, 2021",
+    "last_update_submitted": "August 2023",
+    "last_update_submitted_qc": "August 2023",
+    "last_update_posted": "August 30, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Ticagrelor",
+      "Clopidogrel",
+      "Stable Coronary Artery Disease",
+      "Myocardial Blood Flow",
+      "Cardiovascular Events"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Coronary Artery Disease", "Cardiovascular Diseases"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ticagrelor", "Clopidogrel", "Aspirin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Ticagrelor Group",
+              "description": "Enrolled participants who received Ticagrelor."
+            },
+            {
+              "title": "Clopidogrel Group",
+              "description": "Enrolled participants who received Clopidogrel."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [
+                      {"group": "Ticagrelor Group", "participants": 200},
+                      {"group": "Clopidogrel Group", "participants": 200}
+                    ]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [
+                      {"group": "Ticagrelor Group", "participants": 185},
+                      {"group": "Clopidogrel Group", "participants": 180}
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

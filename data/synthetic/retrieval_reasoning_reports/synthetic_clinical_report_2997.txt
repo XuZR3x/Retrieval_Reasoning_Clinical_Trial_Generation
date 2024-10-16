@@ -1,0 +1,163 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02456789"
+    },
+    "id_info": {
+      "org_study_id": "CI2014-CAR-LV-01",
+      "secondary_id": "CARVE-Heart",
+      "nct_id": "NCT02456789"
+    },
+    "brief_title": "Evaluation of Carvedilol in Enhancing Cardiac Function Among Patients With Advanced Heart Failure",
+    "acronym": "CARVE-Heart",
+    "official_title": "A Multicenter, Double-Blind, Randomized Trial of Carvedilol in Patients With Advanced Heart Failure and Left Ventricular Ejection Fraction < 30%",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "HeartCare Research Group, Inc.",
+        "agency_class": "Industry"
+      },
+      "collaborator": [
+        {
+          "agency": "National Heart, Lung, and Blood Institute (NHLBI)",
+          "agency_class": "NIH"
+        },
+        {
+          "agency": "Mayo Clinic",
+          "agency_class": "Academic"
+        }
+      ]
+    },
+    "source": "HeartCare Research Group, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this clinical trial is to investigate the efficacy of carvedilol in improving cardiac function in patients with advanced heart failure characterized by severely reduced left ventricular ejection fraction (LVEF < 30%). It is theorized that the multifaceted pharmacological properties of carvedilol will result in enhanced myocardial efficiency, reduced oxidative stress, and subsequent improvement in patient outcomes."
+    },
+    "detailed_description": {
+      "textblock": "Following rigorous patient selection criteria, including the diagnosis of idiopathic dilated cardiomyopathy and specified LVEF thresholds, eligible participants received carvedilol with structured dose titration protocols over a 12-month period. This approach aimed to ensure optimal therapeutic levels and maximize patient compliance while monitoring for adverse effects. Primary outcomes measured included change in LVEF via echocardiography and alterations in myocardial gene expression using advanced molecular techniques. Secondary outcomes also evaluated reductions in hospitalization rates due to heart failure exacerbations."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2015",
+    "completion_date": "August 2019",
+    "primary_completion_date": "July 2019",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Left Ventricular Ejection Fraction (LVEF) (%)",
+      "time_frame": "Baseline, 12 months",
+      "description": "The primary outcome is the change in LVEF from baseline at 12 months assessed through echocardiography. An improvement of ≥8% in LVEF is deemed clinically significant."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Hospitalization Rates for Heart Failure",
+        "time_frame": "6 months, 12 months",
+        "description": "The number of hospitalizations due to worsening heart failure will be recorded at 6 and 12 months."
+      },
+      {
+        "measure": "Changes in Myocardial Gene Expression",
+        "time_frame": "Baseline, 6 months, 12 months",
+        "description": "Assessment of changes in myocardial gene expression using quantitative PCR to elucidate the molecular mechanism underlying carvedilol's efficacy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Advanced Heart Failure",
+    "arm_group": [
+      {
+        "arm_group_label": "Carvedilol Treatment",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants in this group will receive carvedilol titrated to a maximum of 25 mg twice daily for 12 months, monitored for both efficacy and safety."
+      },
+      {
+        "arm_group_label": "Placebo Treatment",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants in this group will receive a placebo matched to carvedilol regimen for 12 months."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carvedilol",
+        "description": "Administered in a dose escalation manner starting from 3.125 mg up to 25 mg twice daily based on patient tolerability."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo taken twice daily for 12 months."
+      }
+    ],
+    "eligibility": {
+      "study_pop": {
+        "textblock": "Patients diagnosed with advanced heart failure (NYHA Class III to IV) with LVEF < 30%."
+      },
+      "sampling_method": "Probability Sample",
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Adults aged 18-85 years.\n2. A documented diagnosis of idiopathic dilated cardiomyopathy.\n3. LVEF < 30% confirmed by echocardiography within 60 days prior to enrollment.\n4. Clinically stable with prescribed heart failure medications for at least 4 weeks.\n5. Informed consent signed.\n\nExclusion Criteria:\n1. History of contraindications to beta-adrenergic blockade.\n2. Concurrent severe systemic illness.\n3. Uncontrolled hypertension.\n4. Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "85 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elizabeth Parker, MD",
+      "role": "Principal Investigator",
+      "affiliation": "HeartCare Research Group, Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "HeartCare Institute",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90017",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": [
+      {
+        "citation": "Parker E, Chung J, Greenbaum N, et al. Efficacy of Carvedilol in Advanced Heart Failure: A Multi-center Study. J Cardiol. 2021;12(6):45-58.",
+        "PMID": "34567890"
+      }
+    ],
+    "verification_date": "October 2023",
+    "study_first_submitted": "May 1, 2014",
+    "study_first_posted": "June 5, 2014",
+    "results_first_submitted": "September 15, 2019",
+    "results_first_posted": "October 10, 2019",
+    "last_update_posted": "November 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Carvedilol",
+      "Heart Failure",
+      "Beta-Blocker",
+      "LVEF"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Heart Failure",
+        "Idiopathic Dilated Cardiomyopathy"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Carvedilol"
+    }
+  }
+}
+```

@@ -1,0 +1,304 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 10, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03345678"
+    },
+    "id_info": {
+      "org_study_id": "20345",
+      "secondary_id": ["I3Y-MC-JPKL", "2017-001234-23"],
+      "nct_id": "NCT03345678"
+    },
+    "brief_title": "A Study of Abemaciclib in Patients With Previously Treated HR+ HER2- Metastatic Breast Cancer",
+    "official_title": "A Randomized Phase 3 Study Assessing Abemaciclib in Combination With Tamoxifen Versus Docetaxel in Patients With HR+ HER2- Metastatic Breast Cancer Who Have Received Prior Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of abemaciclib in combination with tamoxifen compared to docetaxel in patients with HR+ HER2- metastatic breast cancer who had been previously treated."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2018",
+    "completion_date": "February 10, 2022",
+    "primary_completion_date": "October 15, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "Yes",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From randomization to death from any cause (up to 30 months)",
+      "description": "Measured as the duration from randomization to the date of death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression Free Survival (PFS)",
+        "time_frame": "From randomization to the date of investigator-determined progression or death from any cause (up to 30 months)",
+        "description": "PFS defined by RECIST 1.1 criteria, measuring the time from randomization to the first occurrence of disease progression or death."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From randomization to the date of progression (up to 30 months)",
+        "description": "Defined as the proportion of participants achieving complete or partial response as per RECIST v1.1."
+      },
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "From date of first documented response to disease progression or death (up to 30 months)",
+        "description": "Measured in participants who achieved CR or PR, indicating the length of time the response lasts."
+      },
+      {
+        "measure": "Adverse Events (AEs)",
+        "time_frame": "Up to 36 months post-randomization",
+        "description": "Recording of all treatment-emergent adverse events using CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "278",
+    "condition": "Hormone Receptor-Positive HER2-Negative Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Abemaciclib + Tamoxifen",
+        "arm_group_type": "Experimental",
+        "description": "Abemaciclib 150 mg administered orally every 12 hours plus tamoxifen 20 mg administered orally daily."
+      },
+      {
+        "arm_group_label": "Docetaxel",
+        "arm_group_type": "Active Comparator",
+        "description": "Docetaxel 75 mg/m² administered intravenously on day 1 of a 21-day cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Abemaciclib",
+        "description": "Administered orally",
+        "arm_group_label": ["Abemaciclib + Tamoxifen"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tamoxifen",
+        "description": "Administered orally",
+        "arm_group_label": ["Abemaciclib + Tamoxifen"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Administered intravenously",
+        "arm_group_label": ["Docetaxel"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed HR+ HER2- breast cancer diagnosed as stage IV.\r\n- Progressed on or following at least one line of endocrine therapy.\r\n- Have evidence of measurable disease.\r\n- Performance status of 0 to 1 per ECOG scale.\r\n- Adequate organ function.\r\n\r\nExclusion Criteria:\r\n- Previous treatment with any CDK 4/6 inhibitors.\r\n- Clinically significant cardiovascular disease.\r\n- Active uncontrolled infection.\r\n- Known CNS metastases."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "February 5, 2018",
+    "study_first_submitted_qc": "February 7, 2018",
+    "study_first_posted": "February 12, 2018",
+    "results_first_submitted": "November 21, 2020",
+    "results_first_submitted_qc": "November 23, 2020",
+    "results_first_posted": "January 5, 2021",
+    "last_update_submitted": "August 28, 2024",
+    "last_update_submitted_qc": "August 29, 2024",
+    "last_update_posted": "August 30, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Abemaciclib", "Breast Cancer", "Hormone Receptor Positive"],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Abemaciclib", "Tamoxifen", "Docetaxel"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Anonymized individual patient-level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.",
+      "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)", "Clinical Study Report (CSR)"],
+      "ipd_time_frame": "Available 6 months after primary publication.",
+      "ipd_access_criteria": "Research proposals must be approved by an independent review panel.",
+      "ipd_url": "https://vivli.org/"
+    },
+    "provided_document_section": {
+      "provided_document": [{
+        "document_type": "Study Protocol",
+        "document_date": "November 29, 2017",
+        "document_url": "https://cdn.clinicaltrials.gov/large-docs/60/NCT03345678/Prot_000.pdf"
+      }]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Participants who completed the study were defined at any time post-randomization.",
+        "group_list": {
+          "group": [{
+            "title": "Abemaciclib + Tamoxifen",
+            "description": "Received combination treatment."
+          }, {
+            "title": "Docetaxel",
+            "description": "Received docetaxel treatment."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "Started",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }, {
+                "title": "Completed",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+              "title": "Abemaciclib + Tamoxifen",
+              "description": "Combination treatment."
+            },
+            {
+              "title": "Docetaxel",
+              "description": "Single-agent treatment."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Progression Free Survival (PFS)",
+            "description": "The combination of abemaciclib showed no significant advantage in PFS compared to docetaxel.",
+            "time_frame": "Up to 30 months.",
+            "population": "Randomized participants.",
+            "group_list": {
+              "group": [{
+                  "title": "Abemaciclib + Tamoxifen",
+                  "description": "Efficacy measured but no significant improvement observed."
+                },
+                {
+                  "title": "Docetaxel",
+                  "description": "Standard of care for comparison."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "The OS results in the experimental arm did not show superiority over the control group.",
+            "time_frame": "Overall study duration.",
+            "population": "All randomized participants.",
+            "group_list": {
+              "group": [{
+                  "title": "Abemaciclib + Tamoxifen",
+                  "description": "Median OS did not differ significantly."
+                },
+                {
+                  "title": "Docetaxel",
+                  "description": "Standard treatment yielded better survival rates."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events (AEs)",
+            "description": "An unexpected safety profile with increased AEs led to trial discontinuation, particularly in the abemaciclib group.",
+            "time_frame": "Throughout the study.",
+            "population": "Participants completing treatment phase.",
+            "group_list": {
+              "group": [{
+                  "title": "Abemaciclib + Tamoxifen",
+                  "description": "Higher incidence of serious AEs noted."
+                },
+                {
+                  "title": "Docetaxel",
+                  "description": "Lower overall adverse event rates."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,147 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT00099999"
+    },
+    "id_info": {
+        "org_study_id": "XYZ-12345",
+        "nct_id": "NCT00099999"
+    },
+    "brief_title": "Lidocaine Patch in Managing Complex Regional Pain Syndrome",
+    "official_title": "A Phase II Randomized, Double-Blind, Placebo-Controlled Trial of a 5% Lidocaine Patch for the Treatment of Complex Regional Pain Syndrome (CRPS)",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "International Pain Management Institute",
+            "agency_class": "Other"
+        }
+    },
+    "source": "International Pain Management Institute",
+    "oversight_info": {
+        "has_dmc": "Yes"
+    },
+    "brief_summary": {
+        "textblock": "Complex Regional Pain Syndrome (CRPS) is characterized by continuous, severe pain that typically follows an injury. Preliminary data suggests that a lidocaine patch may help reduce pain symptoms associated with this condition. However, it is not clear whether the use of a lidocaine patch will lead to significant pain relief compared to placebo."
+    },
+    "detailed_description": {
+        "textblock": "OBJECTIVES: \n- To evaluate the efficacy of the lidocaine patch in reducing pain intensity compared to a placebo in patients diagnosed with CRPS.\n\nOUTLINE: This is a randomized, double-blind, placebo-controlled study of a lidocaine patch in patients with CRPS. Participants will be randomized to receive either a 5% lidocaine patch or a placebo patch to be applied continuously for 12 hours a day over 12 weeks.\n\nPatents' pain will be assessed using a Numeric Rating Scale (NRS), and efficacy will be evaluated through patient-reported outcomes related to pain severity, functional capacity, and quality of life. \n\nPROJECTED ACCRUAL: A total of 150 participants with CRPS will be enrolled in this study across multiple centers."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and recruitment challenges",
+    "start_date": "January 2018",
+    "completion_date": "December 2019",
+    "primary_completion_date": "July 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+        "measure": "Pain intensity reduction measured by Numeric Rating Scale (NRS)",
+        "time_frame": "Measured weekly for 12 weeks from baseline"
+    },
+    "secondary_outcome": [
+        {
+            "measure": "Functional improvement as measured by the Brief Pain Inventory (BPI)",
+            "time_frame": "Measured at baseline, week 6, and week 12"
+        },
+        {
+            "measure": "Quality of life assessed by the SF-36 questionnaire",
+            "time_frame": "Measured at baseline and week 12"
+        }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": ["Complex Regional Pain Syndrome", "Chronic Pain"],
+    "arm_group": [
+        {
+            "arm_group_label": "Lidocaine Patch",
+            "arm_group_type": "Experimental",
+            "description": "Participants will receive a 5% lidocaine patch applied to the painful area for 12 hours daily."
+        },
+        {
+            "arm_group_label": "Placebo Patch",
+            "arm_group_type": "Placebo Comparator",
+            "description": "Participants will receive a sham patch that does not contain lidocaine, applied for the same duration."
+        }
+    ],
+    "intervention": [
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Lidocaine Patch",
+            "arm_group_label": "Lidocaine Patch"
+        },
+        {
+            "intervention_type": "Other",
+            "intervention_name": "Placebo Patch",
+            "arm_group_label": "Placebo Patch"
+        }
+    ],
+    "eligibility": {
+        "criteria": {
+            "textblock": "INCLUSION CRITERIA:\n- Diagnosis of Complex Regional Pain Syndrome (CRPS) as per clinical criteria\n- Ages 18 to 75 years\n\nEXCLUSION CRITERIA:\n- Previous medical history of systemic autonomous dysfunction or significant psychiatric disorder\n- Pregnancy or breastfeeding\n- Known hypersensitivity to local anesthetics\n- Current use of other topical analgesics in the affected area"
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": [
+        {
+            "last_name": "Alice Thompson, MD",
+            "role": "Principal Investigator",
+            "affiliation": "International Pain Management Institute"
+        }
+    ],
+    "location": [
+        {
+            "facility": {
+                "name": "International Pain Management Institute",
+                "address": {
+                    "city": "New York",
+                    "state": "New York",
+                    "zip": "10001",
+                    "country": "United States"
+                }
+            }
+        },
+        {
+            "facility": {
+                "name": "City Hospital",
+                "address": {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "zip": "90001",
+                    "country": "United States"
+                }
+            }
+        }
+    ],
+    "location_countries": {
+        "country": "United States"
+    },
+    "results_reference": {
+        "citation": "Thompson A, Jones B, Williams C. A failed trial of lidocaine for CRPS: analysis of recruitment challenges and intervention efficacy. Pain Management Journal 2021; 15(3):112-121.",
+        "PMID": "12345678"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "December 15, 2017",
+    "study_first_submitted_qc": "December 20, 2017",
+    "study_first_posted": "December 22, 2017",
+    "last_update_submitted": "January 10, 2021",
+    "last_update_posted": "January 15, 2021",
+    "responsible_party": {
+        "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": ["lidocaine", "CRPS", "nerve pain", "topical analgesics"],
+    "condition_browse": {
+        "mesh_term": ["Complex Regional Pain Syndrome", "Neuropathic Pain"]
+    },
+    "intervention_browse": {
+        "mesh_term": ["Lidocaine", "Topical Anesthetics"]
+    }
+}}

@@ -1,0 +1,202 @@
+{"clinical_study": { 
+	"required_header": { 
+		"download_date": "ClinicalTrials.gov processed this data on August 29, 2024", 
+		"link_text": "Link to the current ClinicalTrials.gov record.", 
+		"url": "https://clinicaltrials.gov/ct2/show/NCT02884851" 
+	}, 
+	"id_info": { 
+		"org_study_id": "RMD-HIV-2023", 
+		"nct_id": "NCT02884851" 
+	}, 
+	"brief_title": "A Phase II Study of Romidepsin in Combination With Antibody Immunotherapy in HIV-infected Adults", 
+	"official_title": "Phase II Evaluation of Romidepsin Plus Vacc-4x in HIV-infected Adults With Suppressed Viral Load: Assessing Safety and Viral Reservoir Dynamics", 
+	"sponsors": { 
+		"lead_sponsor": { 
+			"agency": "National Institutes of Health (NIH)", 
+			"agency_class": "Government" 
+		}, 
+		"collaborator": { 
+			"agency": "Bionor Immuno AS", 
+			"agency_class": "Industry" 
+		} 
+	}, 
+	"source": "National Institutes of Health (NIH)", 
+	"overall_status": "Completed", 
+	"start_date": "February 1, 2022", 
+	"completion_date": "May 30, 2024", 
+	"primary_completion_date": "December 31, 2023", 
+	"phase": "Phase 2", 
+	"study_type": "Interventional", 
+	"has_expanded_access": "No", 
+	"study_design_info": { 
+		"allocation": "Randomized", 
+		"intervention_model": "Parallel Assignment", 
+		"primary_purpose": "Treatment", 
+		"masking": "Double (Participant, Investigator)" 
+	}, 
+	"primary_outcome": [ 
+		{ 
+			"measure": "Reduction in Total HIV-1 DNA Levels Relative to Baseline", 
+			"time_frame": "Measured at Days 105 and 161", 
+			"description": "Total HIV-1 DNA will be measured in peripheral blood mononuclear cells (PBMCs) through quantitative PCR (qPCR) post-intervention compared to baseline values." 
+		}, 
+		{ 
+			"measure": "Number of Participants With Adverse Events (AEs)", 
+			"time_frame": "From Day 0 up to 28 days post final treatment administration", 
+			"description": "Adverse events will be monitored and graded according to the DAIDS AE Grading Table." 
+		} 
+	], 
+	"secondary_outcome": [ 
+		{ 
+			"measure": "Change in CD4+ and CD8+ T-cell Response Markers", 
+			"time_frame": "Measured at Day 0 and 28 days after last intervention", 
+			"description": "Expressions of activation markers (CD38 and HLA-DR) on CD4+ and CD8+ T-cells will be analyzed by flow cytometry." 
+		}, 
+		{ 
+			"measure": "Viral load suppression status", 
+			"time_frame": "Evaluated at baseline, Day 28 post-treatment and Day 161", 
+			"description": "Percentage of participants maintaining HIV RNA levels below 50 copies/mL will be assessed." 
+		} 
+	], 
+	"number_of_arms": "2", 
+	"enrollment": "80", 
+	"condition": "HIV Infection", 
+	"arm_group": [ 
+		{ 
+			"arm_group_label": "Romidepsin + Vacc-4x", 
+			"arm_group_type": "Experimental", 
+			"description": "Participants receiving a combination therapy of romidepsin administered intravenously at a dose of 5 mg/m² on Days 0, 7, and 14, and Vacc-4x administered subcutaneously on Days 0, 28, and 56." 
+		}, 
+		{ 
+			"arm_group_label": "Placebo + Vacc-4x", 
+			"arm_group_type": "Placebo Comparator", 
+			"description": "Participants receiving placebo administered intravenously on Days 0, 7, and 14 alongside Vacc-4x administered subcutaneously on Days 0, 28, and 56." 
+		} 
+	], 
+	"intervention": [ 
+		{ 
+			"intervention_type": "Drug", 
+			"intervention_name": "Romidepsin", 
+			"description": "Administered via intravenous infusion on specified days to activate latent HIV-1 reservoirs.", 
+			"arm_group_label": ["Romidepsin + Vacc-4x"], 
+			"other_name": ["Istodax", "Depsipeptide"] 
+		}, 
+		{ 
+			"intervention_type": "Drug", 
+			"intervention_name": "Vacc-4x", 
+			"description": "Peptide-based therapeutic vaccine administered intradermally to elicit immune response against HIV-1.", 
+			"arm_group_label": ["Romidepsin + Vacc-4x", "Placebo + Vacc-4x"], 
+			"other_name": ["Vacc-10", "Vacc-11", "Vacc-12", "Vacc-13"] 
+		}, 
+		{ 
+			"intervention_type": "Drug", 
+			"intervention_name": "Placebo", 
+			"description": "Sodium chloride for injection, administered intravenously on specified days as a comparator.", 
+			"arm_group_label": ["Placebo + Vacc-4x"], 
+			"other_name": ["0.9% Sodium Chloride"] 
+		} 
+	], 
+	"eligibility": { 
+		"criteria": { 
+			"textblock": "Inclusion Criteria:\r\n\r\n  1. Adults aged 18 and older with confirmed HIV-1 infection and currently on effective ART for a minimum of 1 year.\r\n\r\n  2. Documented HIV-1 RNA levels < 50 copies/mL for at least 12 months prior to study entry.\r\n\r\n  3. CD4+ T-cell count >= 350 cells/mm³.\r\n\r\nExclusion Criteria:\r\n\r\n  1. Active opportunistic infections or malignancies.\r\n\r\n  2. Current use of any investigational agents or other confounding therapies.\r\n\r\n  3. Significant cardiovascular, renal, or hepatic comorbidities, or known hypersensitivity to romidepsin." 
+		}, 
+		"gender": "All", 
+		"minimum_age": "18 Years", 
+		"maximum_age": "N/A", 
+		"healthy_volunteers": "No" 
+	}, 
+	"overall_official": { 
+		"last_name": "Robert J. Cotsakis, MD", 
+		"role": "Principal Investigator", 
+		"affiliation": "University Medical Center" 
+	}, 
+	"location": { 
+		"facility": { 
+			"name": "University Medical Center", 
+			"address": { 
+				"city": "New York", 
+				"state": "New York", 
+				"zip": "10001", 
+				"country": "United States" 
+			} 
+		} 
+	}, 
+	"location_countries": { 
+		"country": "United States" 
+	}, 
+	"clinical_results": { 
+		"participant_flow": { 
+			"recruitment_details": "Recruitment commenced on February 1, 2022, and concluded on November 30, 2022, with ongoing follow-up until late May 2024.", 
+			"pre_assignment_details": "A total of 102 subjects were screened for eligibility, of which 80 subjects were successfully enrolled across both arms." 
+		}, 
+		"baseline": { 
+			"group_list": { 
+				"group": [ 
+					{ 
+						"title": "Romidepsin + Vacc-4x", 
+						"description": "Participants receiving combination therapy of romidepsin and Vacc-4x." 
+					}, 
+					{ 
+						"title": "Placebo + Vacc-4x", 
+						"description": "Participants receiving placebo and Vacc-4x." 
+					} 
+				] 
+			}, 
+			"analyzed_list": { 
+				"analyzed": { 
+					"units": "Participants", 
+					"scope": "Overall", 
+					"count_list": { 
+						"count": [45, 35] 
+					} 
+				} 
+			}, 
+			"measure_list": { 
+				"measure": [{ 
+					"title": "Age Summary", 
+					"units": "Years", 
+					"param": "Mean", 
+					"dispersion": "Standard Deviation", 
+					"class_list": { 
+						"class": { 
+							"analyzed_list": { 
+								"analyzed": { 
+									"units": "Participants", 
+									"scope": "Overall", 
+									"count_list": { 
+										"count": [45, 35] 
+									} 
+								}, 
+								"category_list": { 
+									"category": { 
+										"measurement_list": { 
+											"measurement": [48.3, 47.2] 
+										} 
+									} 
+								} 
+							} 
+						} 
+					} 
+				}] 
+			} 
+		}, 
+		"outcome_list": { 
+			"outcome": [ 
+				{ 
+					"type": "Primary", 
+					"title": "Change in Total HIV-1 DNA Levels", 
+					"description": "Change in total HIV-1 DNA levels from baseline to Day 161 will quantify the reduction in the latent reservoir.", 
+					"time_frame": "Baseline and Day 161", 
+					"measure": {"title": "Total HIV-1 DNA Reduction", "description": "Percentage change in total HIV-1 DNA measured in copies/10^6 CD4+ T-cells.", "units": "Percentage", "param": "Mean", "dispersion": "95% Confidence Interval", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Measure", "count_list": { "count": [null, null] } }, "class_list": {"class": [{"title": "Romidepsin + Vacc-4x", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Class", "count_list": { "count": [null, null] }}}, "category_list": {"category": {"measurement_list": {"measurement": [81.7]}}}}, {"title": "Placebo + Vacc-4x", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Class", "count_list": { "count": [null, null] }}}, "category_list": {"category": {"measurement_list": {"measurement": [36.5]}}}}]}}}, 
+				}, 
+				{ 
+					"type": "Secondary", 
+					"title": "Number of Participants With AEs", 
+					"description": "Monitoring adverse events to assess safety profile associated with treatment.", 
+					"time_frame": "From Day 0 up to 28 days post final treatment administration", 
+					"measure": {"title": "Incidence of Adverse Events", "description": "The proportion of participants reporting any AEs and SAEs will be documented.", "units": "participants", "param": "Number", "analyzed_list": {"analyzed": {"units": "Participants", "scope": "Measure", "count_list": { "count": [20, 15] }}}, "class_list": {"class": [{"title": "Romidepsin + Vacc-4x", "analyzed_list": {"analyzed": {"units": "Participants", "scope": = "Class", "count_list": { "count": [ null, null ] }} }, "category_list": {"category": {"measurement_list": {"measurement": [40]}}}}, {"title": "Placebo + Vacc-4x", "analyzed_list": {"analyzed": {"units": "Participants", "scope": = "Class", "count_list": { "count": [ null, null ] }} }, "category_list": {"category": {"measurement_list": {"measurement": [30]}}}}]}} 
+				} 
+			] 
+		} 
+	} 
+}}

@@ -1,0 +1,172 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01589654"
+    },
+    "id_info": {
+      "org_study_id": "NCT-2011-00943",
+      "nct_id": "NCT01589654"
+    },
+    "brief_title": "Entinostat Combined with Pembrolizumab in Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of SNDX-275 in Combination with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer (NSCLC) Who Have Progressed on Prior Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Synergy Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Synergy Pharmaceuticals",
+    "brief_summary": {
+      "textblock": "This phase II trial is endorsed to evaluate the efficacy of entinostat in combination with pembrolizumab for patients with advanced non-small cell lung cancer (NSCLC) who have shown the disease progression despite prior systemic therapy. The rationale behind this study is that entinostat may enhance the antitumor activity of pembrolizumab through epigenetic modification of immune response."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To investigate the overall response rate (ORR) as per RECIST v1.1 criteria in patients treated with entinostat in combination with pembrolizumab.\n\nSECONDARY OBJECTIVES:\n\nI. To assess progression-free survival (PFS) among patients undergoing this combination treatment.\nII. To evaluate the safety profile and incidence of adverse events (AEs) associated with the therapy over the study period.\nIII. To analyze changes in tumor-infiltrating lymphocytes and biomarkers pre- and post-treatment.\n\nOUTLINE: This study includes a single-arm design leading to a unified evaluation of the intervention.\nPatients receive entinostat orally on days 1, 8, and 15 combined with pembrolizumab on day 1 of a 28-day cycle. Treatment will continue until disease progression or intolerable AEs are reported."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was discontinued primarily due to significant recruitment challenges that could not be surmounted, coupled with suboptimal observed efficacy and substantial treatment-related adverse events leading to concerns about safety.",
+    "start_date": "October 2012",
+    "completion_date": "June 2015",
+    "primary_completion_date": "June 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR) as per RECIST v1.1",
+      "time_frame": "Determined at the 6-month evaluation post-treatment initiation",
+      "description": "ORR is evaluated by calculating the proportion of patients with a best overall response of complete response (CR) or partial response (PR), lasting at least 4 weeks from the date of response."
+    },
+    "secondary_outcome": [{
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the start of treatment until the occurrence of disease progression or death, assessed up to 12 months",
+        "description": "PFS is calculated as the time from treatment initiation to the earliest date of documented disease progression or death."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Evaluated from the start of treatment until 30 days after the last dose of the drug",
+        "description": "Adverse events are recorded and graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) v4.03."
+      },
+      {
+        "measure": "Molecular Biomarker Analysis",
+        "time_frame": "Assessed at baseline and following treatment initiation using tumor samples",
+        "description": "Assessments provide insight into the correlation between histone acetylation and clinical response using imaging and tissue-analysis methodologies."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": ["Advanced Non-Small Cell Lung Cancer", "Recurrent NSCLC"],
+    "arm_group": {
+      "arm_group_label": "Treatment (entinostat, pembrolizumab)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive entinostat orally on days 1, 8, and 15 in combination with pembrolizumab administered intravenously on day 1 of each cycle."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "entinostat",
+        "description": "Administered orally",
+        "arm_group_label": "Treatment (entinostat, pembrolizumab)",
+        "other_name": ["HDAC inhibitor SNDX-275"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "pembrolizumab",
+        "description": "Administered intravenously",
+        "arm_group_label": "Treatment (entinostat, pembrolizumab)",
+        "other_name": ["Keytruda"]
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "laboratory biomarker analysis",
+        "description": "Correlative studies",
+        "arm_group_label": "Treatment (entinostat, pembrolizumab)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Confirmed diagnosis of advanced NSCLC with disease progression post-chemotherapy;\n  - Availability of a tumor biopsy kit for histological confirmation;\n  - Required baseline laboratory values are within established range;\n  - WHO performance status < 2;\n  - Patient is ≥ 18 years of age;\n  - Informed consent provided.\n\nExclusion Criteria:\n\n  - Known brain metastases unless treated and stable;\n  - History or presence of any other malignancy;\n  - Prior treatment with any HDAC inhibitors;\n  - Pregnant or nursing females;\n  - Any known allergic reactions to components of study medications;\n  - Uncontrolled active infection requiring systemic therapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jonathan Reed",
+      "role": "Principal Investigator",
+      "affiliation": "Mayo Clinic"
+    },
+    "location": [{
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins University/Sidney Kimmel Comprehensive Cancer Center",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2015",
+    "study_first_submitted": "December 12, 2012",
+    "study_first_submitted_qc": "December 15, 2012",
+    "study_first_posted": "December 20, 2012",
+    "results_first_submitted": "June 29, 2015",
+    "results_first_submitted_qc": "July 15, 2015",
+    "results_first_posted": "August 1, 2015",
+    "last_update_submitted": "April 20, 2016",
+    "last_update_posted": "April 22, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Non-Small-Cell Lung", "Pulmonary Neoplasm"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Entinostat", "Pembrolizumab", "Histone Deacetylase Inhibitors"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "The trial aimed to enroll up to 60 patients across multiple sites but was unable to reach this target due to recruitment and compliance issues subsequent to the performance of the study.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (Entinostat and Pembrolizumab)",
+            "description": "Participants received a regimen of entinostat and pembrolizumab in accordance with the established therapeutic protocol."
+          }
+        }
+      },
+      "reported_events": {
+        "desc": "An extensive array of treatment-emergent adverse events (TEAEs) were documented throughout the trial, with significant rates of fatigue, gastrointestinal disturbances, and hematological irregularities occurring among enrolled patients.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (Entinostat and Pembrolizumab)",
+            "description": "An overview of TEAEs reveals alarming toxicity profiles leading to adjustments in eligibility criteria and dosing."
+          }
+        }
+      }
+    }
+  }
+}
+```

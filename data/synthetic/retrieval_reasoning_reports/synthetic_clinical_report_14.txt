@@ -1,0 +1,212 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03698572"
+    },
+    "id_info": {
+      "org_study_id": "IM101-061",
+      "nct_id": "NCT03698572"
+    },
+    "brief_title": "Evaluation of Abatacept in Patients With Systemic Lupus Erythematosus",
+    "official_title": "A Phase 2B, Randomized, Double-Blind, Placebo-Controlled Trial to Investigate the Efficacy and Safety of Abatacept in Patients With Active Systemic Lupus Erythematosus",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Bristol-Myers Squibb",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the clinical efficacy and safety of abatacept in improving the management of systemic lupus erythematosus. It specifically targets patients with active arthralgia and/or arthritis concomitant with corticosteroid therapy. Patients receiving background immunosuppressive therapy will undergo a taper leading up to the trial."
+    },
+    "detailed_description": {
+      "textblock": "Clinical observation of the intervention group will be carried out over 6 months, with an additional 6-month extended observation phase. The therapeutic efficacy will be assessed through established indices including BILAG and SLEDAI."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2019",
+    "completion_date": "June 2023",
+    "primary_completion_date": "March 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Participants Achieving BILAG C Improvement from Baseline",
+      "time_frame": "6 months",
+      "description": "Improvements in disease activity are measured using the British Isles Lupus Assessment Group (BILAG) index. A significant improvement is defined as at least one baseline BILAG 'A' score improving to 'B', 'C', or resolution, alongside all pre-existing 'B' scores improving to 'C' or resolution."
+    },
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Systemic Lupus Erythematosus",
+    "arm_group": [
+      {
+        "arm_group_label": "Abatacept Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receiving 125 mg subcutaneous doses of abatacept weekly."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receiving matching placebo injections weekly."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Abatacept",
+        "arm_group_label": "Abatacept Group"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Documented diagnosis of Systemic Lupus Erythematosus as per ACR criteria.\n2. Active arthritis defined by at least 4 swollen joints and 4 tender joints.\n3. Male and female patients aged 18-65.\n\nExclusion Criteria:\n1. Current treatment with significant immunosuppressive agents, unless treatment is withdrawn 4 weeks prior to screening.\n2. Known hypersensitivity to abatacept or any excipients.\n3. Active malignancy or significant viral infections.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Johnson",
+      "role": "Study Director",
+      "affiliation": "Bristol-Myers Squibb"
+    },
+    "location": [{
+        "facility": {
+          "name": "Lupus Center of Excellence",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94105",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Rheumatology Practice",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60614",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "June 2023",
+    "results_first_submitted": "June 15, 2023",
+    "results_first_posted": "September 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Lupus Erythematosus, Systemic"
+    },
+    "intervention_browse": {
+      "mesh_term": "Abatacept"
+    },
+    "clinical_results": {
+      "reported_events": {
+        "time_frame": "6 months follow-up after treatment initiation.",
+        "group_list": {
+          "group": [{
+              "title": "Abatacept Group",
+              "description": "Participants receiving abatacept."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving placebo."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 25.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": [{
+              "title": "Total",
+              "event_list": {
+                "event": [{
+                    "sub_title": "Total, all-cause mortality",
+                    "counts": [0, 1]
+                  },
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [10, 4]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Immunological events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Infusion reactions",
+                  "counts": [15, 2]
+                }
+              }
+            }
+          ]
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 25.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": [{
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [25, 10]
+                }
+              }
+            },
+            {
+              "title": "Infectious events",
+              "event_list": {
+                "event": [{
+                    "sub_title": "Upper respiratory infection",
+                    "counts": [20, 5]
+                  },
+                  {
+                    "sub_title": "Urinary tract infection",
+                    "counts": [16, 5]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "reason_for_failure": {
+        "detailed_explanation": [
+          "The patient population enrolled presented considerable heterogeneity in disease manifestations, which hindered the ability to draw clear conclusions about the uniform effectiveness of abatacept across diverse disease characteristics.",
+          "A stringent primary endpoint measure, BILAG, introduced a high bar for demonstrating response, ultimately underestimating the real benefits that may accrue from abatacept treatment in patients with gradual improvements.",
+          "An inherent design flaw necessitated the tapering of background immunosuppressants, potentially precipitating clinical deterioration of underlying disease manifestations prior to the initiation of abatacept treatment, undermining therapeutic evaluation.",
+          "Participation attrition due to non-responder status significantly affected the power of the trial, resulting in an inadequate representation of the treatment's efficacy.",
+          "The study's timeframe may not have been sufficient to capture the chronic and progressive nature of systemic lupus erythematosus, limiting the ability to assess potential delayed therapeutic benefits of abatacept."
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,169 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03567983"
+        },
+        "id_info": {
+            "org_study_id": "HCC-APRI021",
+            "nct_id": "NCT03567983"
+        },
+        "brief_title": "Evaluation of Aprepitant for the Management of Nausea and Vomiting in Patients Receiving Moderately Emetogenic Chemotherapy",
+        "official_title": "A Phase III Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy and Safety of Aprepitant for the Prevention of Nausea and Vomiting in Patients Undergoing Moderately Emetogenic Chemotherapy",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Heidelberg University Hospital",
+                "agency_class": "Academic"
+            }
+        },
+        "source": "Heidelberg University Hospital",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to determine the efficacy of aprepitant compared to placebo in preventing nausea and vomiting in patients receiving moderately emetogenic chemotherapy."
+        },
+        "detailed_description": {
+            "textblock": "This randomized-controlled trial explored the addition of aprepitant to standard antiemetic regimens in patients who were treated for various types of cancer with moderately emetogenic chemotherapy regimens. Outcomes included both the prevention of vomiting and management of associated symptoms."
+        },
+        "overall_status": "Terminated",
+        "start_date": "May 2018",
+        "completion_date": "September 2021",
+        "primary_completion_date": "August 2021",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "The percentage of patients experiencing no vomiting episodes during the 120-hour period post-chemotherapy initiation",
+            "time_frame": "120 hours"
+        },
+        "secondary_outcome": [{
+            "measure": "Assessment of nausea severity using a VAS scale",
+            "time_frame": "Days 1 to 5"
+        }, {
+            "measure": "Incidence of adverse events related to aprepitant treatment",
+            "time_frame": "28 days post-treatment"
+        }],
+        "number_of_arms": "2",
+        "enrollment": "400",
+        "condition": "Nausea and Vomiting",
+        "arm_group": [{
+            "arm_group_label": "Aprepitant Group",
+            "arm_group_type": "Experimental",
+            "description": "Reception of aprepitant 125 mg on Day 1, followed by 80 mg on Days 2 and 3, alongside standard antiemetic therapy."
+        }, {
+            "arm_group_label": "Placebo Group",
+            "arm_group_type": "Placebo Comparator",
+            "description": "Administration of placebo capsules on Days 1-3 alongside standard antiemetic therapy."
+        }],
+        "intervention": [{
+            "intervention_type": "Drug",
+            "intervention_name": "Aprepitant",
+            "description": "125 mg on Day 1 and 80 mg on Days 2-3 of chemotherapy",
+            "arm_group_label": "Aprepitant Group"
+        }, {
+            "intervention_type": "Drug",
+            "intervention_name": "Placebo",
+            "description": "Placebo capsule taken on Days 1-3 of chemotherapy",
+            "arm_group_label": "Placebo Group"
+        }],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n1. Adults aged 18-75 with a diagnosis of cancer requiring moderately emetogenic chemotherapy.\n2. Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\n3. Consent to participate in the study.\n\nExclusion Criteria:\n\n1. Pregnant or lactating women.\n2. Treatment with investigational drugs within 30 days prior to enrollment.\n3. History of hypersensitivity to aprepitant or its components.\n4. Patients with severe hepatic impairment.\n5. Previous severe complications related to chemotherapy."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Christoph Müller, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Heidelberg University Hospital"
+        },
+        "location": {
+            "facility": {
+                "name": "Heidelberg University Hospital",
+                "address": {
+                    "city": "Heidelberg",
+                    "zip": "69115",
+                    "country": "Germany"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "Germany"
+        },
+        "verification_date": "September 2021",
+        "study_first_submitted": "March 28, 2018",
+        "study_first_posted": "April 5, 2018",
+        "last_update_submitted": "September 8, 2021",
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Heidelberg University Hospital",
+            "investigator_full_name": "Christoph Müller",
+            "investigator_title": "Medical Oncologist"
+        },
+        "intervention_browse": {
+            "mesh_term": ["Aprepitant", "Cisplatin", "Etoposide"]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": [{
+                        "title": "Aprepitant Group",
+                        "description": "Received aprepitant with standard antiemetics"
+                    }, {
+                        "title": "Placebo Group",
+                        "description": "Received placebo with standard antiemetics"
+                    }]
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [{
+                                "title": "STARTED",
+                                "participants_list": {
+                                    "participants": [200, 200]
+                                }
+                            }, {
+                                "title": "COMPLETED",
+                                "participants_list": {
+                                    "participants": [150, 130]
+                                }
+                            }, {
+                                "title": "TERMINATED",
+                                "participants_list": {
+                                    "participants": [0, 0]
+                                }
+                            }]
+                        }
+                    }
+                }
+            },
+            "reported_events": {
+                "time_frame": "28 days following initial dose administration",
+                "desc": "Adverse events recorded included nausea severity and emetic episodes.",
+                "group_list": {
+                    "group": [{
+                        "title": "Aprepitant Group",
+                        "description": "Reported a significant number of adverse events relating to gastrointestinal disturbances."
+                    }, {
+                        "title": "Placebo Group",
+                        "description": "Fewer reports of adverse events were noted compared to the aprepitant group."
+                    }]
+                }
+            }
+        }
+    }
+}
+```

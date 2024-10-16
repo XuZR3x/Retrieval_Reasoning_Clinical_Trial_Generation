@@ -1,0 +1,203 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03678912"
+    },
+    "id_info": {
+      "org_study_id": "17482",
+      "secondary_id": "I4B-JD-GFSH",
+      "nct_id": "NCT03678912"
+    },
+    "brief_title": "Efficacy of Ramucirumab in Combination with S-1 and Oxaliplatin in Patients with Advanced Gastric Adenocarcinoma",
+    "official_title": "A Multicenter, Double-Blind, Randomized Phase 2 Study Investigating the Efficacy and Safety of Ramucirumab in Combination with S-1 and Oxaliplatin versus Placebo in Patients with Advanced Gastric or Gastroesophageal Junction Adenocarcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the effectiveness of ramucirumab added to a regimen of S-1 and oxaliplatin in patients with advanced gastric or gastroesophageal junction adenocarcinoma. This trial primarily assessed progression-free survival (PFS) against a placebo control."
+    },
+    "overall_status": "Completed",
+    "start_date": "December 2018",
+    "completion_date": "January 2023",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization until documented progression or death from any cause (up to 24 months)",
+      "description": "PFS was assessed using RECIST v1.1 criteria. Progression was defined as a 20% increase in the sum of the diameters of target lesions or the appearance of new lesions."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization until death from any cause (up to 28 months)",
+        "description": "Overall survival was the time from randomization until death from any cause. Data was censored for participants who were alive or lost to follow-up."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Up to 24 months",
+        "description": "The ORR was measured as the proportion of participants achieving a complete or partial response as per RECIST criteria derived from imaging assessments at regular intervals."
+      },
+      {
+        "measure": "Safety Profile - Adverse Events (AEs)",
+        "time_frame": "From baseline until discontinuation of treatment or until the end of the study (up to 28 months)",
+        "description": "The incidence and severity of AEs were recorded, including serious adverse events and those leading to discontinuation."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "186",
+    "condition": ["Metastatic Gastric Adenocarcinoma", "Gastroesophageal Junction Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "S-1/Oxaliplatin + Ramucirumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ramucirumab at 8 mg/kg IV on Day 1 of the 21-day cycle, in conjunction with S-1 80-120 mg/day orally and oxaliplatin 100 mg/m² IV."
+      },
+      {
+        "arm_group_label": "S-1/Oxaliplatin + Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo on Day 1 of the 21-day cycle, alongside the same regimen as the experimental group."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "Administered intravenously at 8 mg/kg on Day 1 of a 21-day cycle.",
+        "arm_group_label": ["S-1/Oxaliplatin + Ramucirumab"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered IV",
+        "arm_group_label": "S-1/Oxaliplatin + Placebo"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "S-1",
+        "description": "Administered orally (80-120 mg/day) from Days 1 to 14 of each cycle.",
+        "arm_group_label": ["S-1/Oxaliplatin + Ramucirumab", "S-1/Oxaliplatin + Placebo"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "Administered IV at 100 mg/m² on Day 1 of each cycle.",
+        "arm_group_label": ["S-1/Oxaliplatin + Ramucirumab", "S-1/Oxaliplatin + Placebo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed metastatic gastric or gastroesophageal junction adenocarcinoma.\r\n- No prior systemic therapy for advanced disease and measurable disease per RECIST v1.1.\r\n- Performance Status ECOG 0-1 and adequate organ functions.\r\n- Life expectancy of at least 12 weeks.\r\n- Informed consent provided."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Study Director",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Research Hospital A",
+          "address": {
+            "city": "City A",
+            "state": "State A",
+            "zip": "12345",
+            "country": "Country A"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Research Hospital B",
+          "address": {
+            "city": "City B",
+            "state": "State B",
+            "zip": "67890",
+            "country": "Country B"
+          }
+        }
+      }
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "completion_details": "Participants were categorized based on treatment received and documented progress.",
+        "group_list": {
+          "group": [
+            {
+              "title": "S-1/Oxaliplatin + Ramucirumab",
+              "description": "Participants who received the regimen along with ramucirumab."
+            },
+            {
+              "title": "S-1/Oxaliplatin + Placebo",
+              "description": "Participants who received standard therapy without ramucirumab."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Median PFS was achieved but did not meet statistical significance for improvement over placebo (p=0.812).",
+            "time_frame": "From randomization to documented progression or death.",
+            "population": "ITT population consisted of all randomized participants who received study drug.",
+            "group_list": [
+              {
+                "title": "S-1/Oxaliplatin + Ramucirumab",
+                "description": "Independent review board assessed PFS, leading to a median of 6.5 months (95% CI: 5.0 – 8.0)."
+              },
+              {
+                "title": "S-1/Oxaliplatin + Placebo",
+                "description": "Median PFS recorded at 6.6 months (95% CI: 4.5 – 8.2)."
+              }
+            ]
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "No significant difference observed in ORR between groups, 18% in Ramucirumab group versus 16% in the placebo group.",
+            "time_frame": "From treatment initiation until progression or data cut-off."
+          },
+          {
+            "type": "Safety",
+            "title": "Adverse Events",
+            "description": "The treatment arm exhibited higher rates of serious adverse events contributing to treatment discontinuation (30% vs. 15% in placebo)."
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are not under affiliation with the sponsor.",
+      "restrictive_agreement": "The sponsor retains review rights prior to publication but cannot mandate changes."
+    },
+    "point_of_contact": {
+      "name_or_title": "Chief Medical Officer",
+      "organization": "Eli Lilly and Company",
+      "phone": "800-545-5979"
+    }
+  }
+}
+```

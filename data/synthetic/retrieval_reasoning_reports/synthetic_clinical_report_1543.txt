@@ -1,0 +1,221 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01112345"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2015-03001",
+      "secondary_id": ["NCI-2015-03001", "CP20-0820", "I5B-JE-JAEJ"],
+      "nct_id": "NCT01112345"
+    },
+    "brief_title": "Cixutumumab in Combination with Chemotherapy for Advanced Solid Tumors",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Cixutumumab Combined with Standard Chemotherapy Protocol in Patients with Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      },
+      "collaborator": []
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this Phase II study is to evaluate the efficacy and safety of cixutumumab (IMC-A12) combined with standard chemotherapy in patients with advanced solid tumors that have progressed following standard therapy. The trial will employ a dose-escalation strategy to assess the maximum tolerated dose and monitor patient responses."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center, open-label Phase II study will involve a cohort of patients diagnosed with various forms of advanced solid tumors, such as metastatic breast cancer, non-small cell lung cancer, and pancreatic cancer. After screening and enrollment, participants will receive cixutumumab administered intravenously at escalating doses in combination with a tailored chemotherapy regimen that includes agents such as carboplatin and paclitaxel.\n\nPrimary endpoints include overall response rate evaluated by RECIST criteria, while secondary endpoints will focus on progression-free survival, quality of life assessments, and safety profiles via Common Terminology Criteria for Adverse Events (CTCAE) version 4.0. \n\nTo ensure the robustness of the data collected, the trial will adapt a phased approach and will actively engage approximately 150 participants across multiple institutions, allowing for a diverse demographic representation. Rigorous pharmacodynamic evaluations will be performed, including monitoring serum levels of insulin-like growth factors to elucidate the therapeutic effects of cixutumumab."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2011",
+    "completion_date": "August 2016",
+    "primary_completion_date": "April 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall response rate (CR + PR) evaluated by RECIST",
+      "time_frame": "Up to 12 months",
+      "description": "The primary outcome is the proportion of patients who achieve a complete or partial response based on standardized imaging assessments."
+    },
+    "secondary_outcomes": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "From the start of treatment to the time of progression or death, assessed up to 24 months",
+        "description": "Overall duration of time during and after treatment in which the patient lives without disease progression."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "Up to 12 months",
+        "description": "Safety and tolerability will be assessed according to the total incidence of adverse events classified by CTCAE version 4.0."
+      },
+      {
+        "measure": "Pharmacokinetics including serum IGF-1 levels",
+        "time_frame": "Prior to each dose and at multiple time points thereafter (0.5, 1, 2, 4, 8 hours post-dose)",
+        "description": "Assessment of cixutumumab pharmacokinetics and mechanism of action."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "150",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": {
+      "arm_group_label": "Cixutumumab and Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Participants receive IV cixutumumab in combination with a standard chemotherapy protocol every 21 days."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cixutumumab",
+        "description": "Administered IV, anti-IGF-1R monoclonal antibody.",
+        "arm_group_label": "Cixutumumab and Chemotherapy",
+        "other_name": ["IMC-A12", "LY3012217"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Given IV as part of the chemotherapy regimen.",
+        "arm_group_label": "Cixutumumab and Chemotherapy",
+        "other_name": ["Paraplatin"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Given IV as part of the chemotherapy regimen.",
+        "arm_group_label": "Cixutumumab and Chemotherapy",
+        "other_name": ["Taxol"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed advanced solid tumor that has failed to respond to or progressed on previous therapies.\n- No limit on prior treatment regimens; however, patients must be off therapy for at least 4 weeks prior to enrolling.\n- Eastern Cooperative Oncology Group (ECOG) performance status 0-1 with life expectancy exceeding three months.\n- Robust hematologic parameters: ANC > 1,200/mcL, platelets > 100,000/mcL, and hemoglobin > 9 mg/dL before starting treatment.\n- Archive biopsy samples are available for correlative studies.\n\nExclusion Criteria:\n- Active uncontrolled infections or significant cardiovascular diseases including heart failure or unstable angina.\n- Pregnancy or breastfeeding is contraindicated.\n- Evidence of active CNS metastases or previous exposure to IGF-1R inhibitors."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University/Sidney Kimmel Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins University/Sidney Kimmel Cancer Center",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "February 19, 2010",
+    "study_first_posted": "March 05, 2010",
+    "results_first_submitted": "September 14, 2016",
+    "results_first_posted": "October 05, 2016",
+    "last_update_posted": "October 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Antibodies, Monoclonal", "Cixutumumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Approximately 175 patients were screened, with 150 ultimately enrolled into the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Cixutumumab + Chemotherapy",
+              "description": "Received designated treatment regimen based on the randomized assignment to cixutumumab with chemotherapy."
+            }
+          ]
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Adverse Events",
+              "participants_list": {"participants": [40]}
+            },
+            {
+              "title": "Withdrawal by Participant",
+              "participants_list": {"participants": [12]}
+            },
+            {
+              "title": "Physician Decision",
+              "participants_list": {"participants": [8]}
+            },
+            {
+              "title": "Death unrelated to study treatment",
+              "participants_list": {"participants": [5]}
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Cixutumumab + Chemotherapy",
+              "description": "Received IV cixutumumab alongside standard chemotherapeutic protocol."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Baseline",
+            "count_list": {
+              "count": [150]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate",
+            "description": "Measured by percentage of patients achieving CR/PR based on RECIST criteria.",
+            "time_frame": "Up to 12 months",
+            "population": "All enrolled patients who received treatment."
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Event Frequency",
+            "description": "Incidence of ≥Grade 3 adverse events evaluated according to CTCAE criteria.",
+            "time_frame": "Up to 12 months",
+            "population": "All enrolled patients."
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival Rate",
+            "description": "Calculated from the first day of treatment to disease progression or death.",
+            "time_frame": "From first dose until event or end of study, up to 24 months.",
+            "population": "All enrolled patients."
+          }
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,341 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "TRAB-MESO-003",
+      "secondary_id": ["CDR0001234567", "NCT-TRAB-2023"],
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Efficacy of Trabectedin in Patients With Advanced Malignant Mesothelioma",
+    "official_title": "A Phase II Clinical Trial of Trabectedin in Patients With Unresectable Malignant Mesothelioma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaMar",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Memorial Sloan Kettering Cancer Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "PharmaMar",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial investigates the efficacy of trabectedin in patients with unresectable malignant mesothelioma, focusing on overall survival and progression-free survival. This study aims to determine the therapeutic benefit of trabectedin, following indications of limited efficacy observed in previous trials."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES: \nI. To evaluate the overall survival (OS) in patients with unresectable malignant mesothelioma receiving trabectedin.\nII. To determine the progression-free survival (PFS) in this cohort.\n\nSECONDARY OBJECTIVES: \nI. To investigate the tolerability and toxicity profile of trabectedin.\nII. To assess the patient-reported outcomes and quality of life changes throughout the treatment phase.\n\nOUTLINE: This multicenter trial involved the administration of trabectedin as an intravenous infusion over 3 hours on day 1 of a 21-day treatment cycle. The study accrued 30 patients over the course of 18 months before termination due to insufficient enrollment and adverse observations related to safety."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Enrollment was halted due to inadequate patient numbers (only 30 enrolled) and significant occurrences of dose-limiting toxicities resulting in withdrawal from the trial. Lack of sufficient statistical power made conclusive efficacy evaluation impossible.",
+    "start_date": "March 2019",
+    "completion_date": "December 2020",
+    "primary_completion_date": "December 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Up to 2 years",
+      "description": "The overall survival will be defined as the time between the first administration of trabectedin and the date of death, evaluated through regular follow-ups."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years",
+        "description": "The progression-free survival will be measured as the duration from enrollment to the date of documented disease progression or death."
+      },
+      {
+        "measure": "Quality of Life (QoL)",
+        "time_frame": "Up to 2 years",
+        "description": "QoL will be assessed using validated questionnaires throughout the treatment course."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": ["Malignant Mesothelioma"],
+    "arm_group": [
+      {
+        "arm_group_label": "Trabectedin Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive trabectedin IV over 3 hours on day 1 every 21 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "trabectedin",
+        "description": "1.5 mg/m² administered intravenously over approximately 3 hours on Day 1 of each 21-day treatment cycle.",
+        "other_name": ["Ecteinascidin", "Yondelis"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed malignant mesothelioma not amenable to curative surgery.\n- At least one measurable lesion by CT scan (minimum size: 15 mm).\n- Age ≥ 18 years and performance status ECOG 0-1.\n- Adequate hematological, renal, and liver function.\n\nExclusion Criteria:\n- Prior systemic chemotherapy or radiotherapy within 30 days of enrollment.\n- Pregnant or lactating women.\n- Known central nervous system metastases.\n- History of allergy to trabectedin or excipients."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Lee M. Krug, MD",
+      "role": "Study Chair",
+      "affiliation": "Memorial Sloan Kettering Cancer Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Massachusetts General Hospital Cancer Center",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02114",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Brigham and Women's Hospital",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Dana-Farber Cancer Institute",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Memorial Sloan-Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10021",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "December 12, 2018",
+    "study_first_posted": "January 15, 2019",
+    "last_update_submitted": "January 18, 2021",
+    "last_update_posted": "February 1, 2021",
+    "keyword": ["trabectedin", "malignant mesothelioma", "phase II trial"],
+    "condition_browse": {
+      "mesh_term": ["Malignant Mesothelioma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trabectedin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 30 patients were enrolled, but due to the early termination of the clinical trial, no treatment group assignments were conducted.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Trabectedin Treatment Group",
+              "description": "Patients were planned to receive trabectedin IV on day 1 of a 21-day cycle, but only 30 patients were enrolled before study termination."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [30]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [0]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Enrollment terminated due to insufficient patient numbers.",
+                  "participants_list": {
+                    "participants": [30]
+                  }
+                },
+                {
+                  "title": "High incidence of dose-limiting toxicities necessitating trial cessation.",
+                  "participants_list": {
+                    "participants": [30]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Trabectedin Treatment Group",
+              "description": "Trabectedin IV administered for malignant mesothelioma."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups"
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [30, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [53, 12]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [14]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [16]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival (OS)",
+            "description": "OS was measured from the start of trabectedin treatment until death.",
+            "time_frame": "To date, only 30 patients enrolled; results not evaluable due to study termination.",
+            "population": "No evaluable outcomes obtained from the trial."
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS measures were not taken due to early termination of the study.",
+            "time_frame": "Not applicable due to cessation of patient enrollment and treatment."
+          }
+        ]
+      },
+      "reported_events": {
+        "desc": "Trial was terminated due to insufficient enrollment and significant doses of toxicities.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Trabectedin Treatment Group",
+              "description": "No adverse events specifically recorded due to insufficient patient follow-up."
+            }
+          ]
+        },
+        "serious_events": {
+          "event_list": [
+            {
+              "sub_title": "Dose-limiting toxicities",
+              "counts": [5]
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "1",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total Adverse Events",
+                  "counts": [30]
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+``` 
+
+This format adheres to the specified structure while providing unique details and maintaining professional, precise language suitable for reports on clinical trials, particularly with emphasis on reasons noted for the trial failures of trabectedin.

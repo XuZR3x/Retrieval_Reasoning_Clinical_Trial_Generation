@@ -1,0 +1,585 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03807398"
+    },
+    "id_info": {
+      "org_study_id": "AV-951-19-204",
+      "nct_id": "NCT03807398"
+    },
+    "brief_title": "Exploring the Efficacy and Safety of Tivozanib in Combination with Pembrolizumab in Patients with Advanced Urothelial Carcinoma",
+    "official_title": "A Phase II Study of Tivozanib in Combination with Pembrolizumab in Patients with Advanced Urothelial Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Northwestern University",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Merck & Co., Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Northwestern University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study examines the combined effect of tivozanib, a selective VEGF receptor tyrosine kinase inhibitor, with pembrolizumab, an anti-PD-1 immune checkpoint inhibitor, in treating patients with advanced urothelial carcinoma who have previously undergone treatment. The study aims to evaluate the safety, tolerability, and therapeutic efficacy of the combination therapy."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To establish the overall response rate (ORR) defined as the proportion of patients who achieve a complete response (CR) or partial response (PR) as per RECIST 1.1 criteria, evaluated at 24 weeks.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To determine progression-free survival (PFS) and overall survival (OS) for patients treated with tivozanib in combination with pembrolizumab.\r\n\r\nII. To evaluate safety and tolerability by assessing the frequency and severity of adverse events.\r\n\r\nOUTLINE:\r\n\r\nPatients will receive tivozanib orally once daily for 21 days followed by a 7-day rest period (1 cycle = 28 days) concurrently with pembrolizumab administrated intravenously every 3 weeks until disease progression or unacceptable toxicity. After completion of study treatment, patients are followed for survival for up to 2 years."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 15, 2020",
+    "completion_date": "May 22, 2023",
+    "primary_completion_date": "January 30, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Evaluated at 24 weeks",
+      "description": "ORR is defined as the sum of the number of patients with complete response (CR) plus those with partial response (PR) according to RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "Kaplan-Meier method will estimate PFS from study entry to disease progression or death."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 24 months",
+        "description": "OS is defined from the time treatment starts until death from any cause."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Throughout the treatment period and up to 30 days post-treatment.",
+        "description": "Adverse events will be assessed using the NCI CTCAE v5.0, focusing on both frequency and severity."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": [
+      "Advanced Urothelial Carcinoma"
+    ],
+    "arm_group": {
+      "arm_group_label": "Tivozanib and Pembrolizumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive tivozanib orally daily for the first 21 days of each cycle combined with pembrolizumab administered intravenously every 3 weeks."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Tivozanib",
+        "description": "Administered orally once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Administered intravenously every 3 weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Patients with histologically confirmed advanced urothelial carcinoma who are not candidates for curative local therapy.\r\n- Measurable disease as defined by RECIST 1.1.\r\n- ECOG performance status of 0-1.\r\n- Must have received at least one prior system-based therapy.\r\n- Patients must provide written informed consent prior to any study-related procedure.\r\n\r\nExclusion Criteria:\r\n\r\n- Active autoimmune disease requiring systemic treatment.\r\n- History of symptomatic central nervous system metastases.\r\n- Any significant cardiac disorders.\r\n- Ongoing or recent serious infections requiring systemic antibiotics.\r\n- Pregnant or lactating women, or unwilling to use effective contraception."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Maria Jones, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Northwestern University"
+    },
+    "location": [{
+        "facility": {
+          "name": "Northwestern Memorial Hospital",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60611",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of Chicago Medical Center",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60637",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2023",
+    "study_first_submitted": "March 1, 2020",
+    "study_first_submitted_qc": "March 1, 2020",
+    "study_first_posted": "April 20, 2020",
+    "results_first_submitted": "June 15, 2023",
+    "results_first_submitted_qc": "June 15, 2023",
+    "results_first_posted": "June 30, 2023",
+    "last_update_submitted": "June 22, 2023",
+    "last_update_submitted_qc": "June 22, 2023",
+    "last_update_posted": "July 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Northwestern University",
+      "investigator_full_name": "Maria Jones, MD",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Urothelial Carcinoma",
+      "Tivozanib",
+      "Pembrolizumab",
+      "Phase II"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma, Urothelial"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Tyrosine Kinase Inhibitors",
+        "Nivolumab",
+        "Tivozanib"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study opened for enrollment on April 15, 2020, with 60 subjects registered and treated according to the protocol. It was closed to additional enrollment on May 1, 2023.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (Tivozanib plus Pembrolizumab)",
+            "description": "Patients received tivozanib and pembrolizumab as per study design, evaluated over the course of treatment."
+          }
+        },
+        "period_list": {
+          "period": [{
+              "title": "Initial Treatment Cycle",
+              "milestone_list": {
+                "milestone": [{
+                    "title": "Treatment Started",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "Treatment Completed",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Follow-Up",
+              "milestone_list": {
+                "milestone": [{
+                  "title": "Follow-up Started",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Tivozanib and Pembrolizumab",
+            "description": "Patients received tivozanib orally once daily for 21 days and pembrolizumab intravenously every 3 weeks."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age Distribution",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "<= 65 years",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "66-75 years",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": ">= 76 years",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex Distribution",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Race Distribution",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Caucasian",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "African American",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Hispanic",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Asian",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Other",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [{
+              "type": "Primary",
+              "title": "Overall Response Rate (ORR)",
+              "description": "Defined as the sum of patients achieving a complete (CR) or partial response (PR) as observed using RECIST 1.1.",
+              "time_frame": "Evaluated at 24 weeks",
+              "population": {
+                "title": "The population includes all enrolled participants treated.",
+                "description": "Overall response outcomes will be evaluated for all subjects treated with the combination therapy."
+              },
+              "group_list": {
+                "group": {
+                  "title": "Combination Treatment",
+                  "description": "Tivozanib plus Pembrolizumab regimen"
+                }
+              },
+              "measure": {
+                "title": "Overall Response Rate (ORR)",
+                "description": "The ORR defined by the presence of either CR or PR achieved as documented through imaging and clinical assessment.",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [{
+                          "title": "CR",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "PR",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "SD",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "PD",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "Measured from the start of treatment until the first documented progression or death, whichever occurs first.",
+              "time_frame": "Up to 24 months",
+              "population": {
+                "title": "All enrolled participants treated.",
+                "description": "PFS will be evaluated based on updated radiologic and clinical assessments."
+              },
+              "group_list": {
+                "group": {
+                  "title": "Symptom Assessment",
+                  "description": "Evaluation of tumor burden and associated symptoms throughout treatment."
+                }
+              },
+              "measure": {
+                "title": "Progression-Free Survival (PFS)",
+                "description": "PFS defined as the duration from the initiation of treatment to disease progression or death.",
+                "units": "Months",
+                "param": "Estimated Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [{
+                          "title": "0-3 Months",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "4-6 Months",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "7-12 Months",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Adverse Events Evaluation",
+              "description": "Frequency and nature of treatment-related adverse events collected during treatment.",
+              "time_frame": "During treatment and for 30 days post-treatment.",
+              "population": {
+                "description": "All enrolled participants are included in the adverse events assessment."
+              },
+              "group_list": {
+                "group": {
+                  "title": "Adverse Events Monitoring",
+                  "description": "Using NCI's CTCAE criteria for grading."
+                }
+              },
+              "measure": {
+                "title": "Adverse Events Rate",
+                "description": "The number of participants reporting adverse events classified by severity.",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": [{
+                      "title": "Grade 1",
+                      "description": "Mild events"
+                    },
+                    {
+                      "title": "Grade 2",
+                      "description": "Moderate events"
+                    },
+                    {
+                      "title": "Grade 3",
+                      "description": "Severe events"
+                    },
+                    {
+                      "title": "Grade 4",
+                      "description": "Life-threatening events"
+                    },
+                    {
+                      "title": "Grade 5",
+                      "description": "Fatal events"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Adverse events collected at each cycle and monthly follow-up data for up to 24 months.",
+          "group_list": {
+            "group": {
+              "title": "Treatment Adverse Events Monitoring",
+              "description": "Overview of treatment-related events documented in the trial."
+            },
+            "serious_events": {
+              "default_vocab": "CTCAE (v5.0)",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [{
+                    "title": "Total AEs",
+                    "event_list": {
+                      "event": [{
+                          "sub_title": "Total serious events",
+                          "counts": null
+                        },
+                        {
+                          "sub_title": "Total all-cause mortality",
+                          "counts": null
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Cardiovascular Disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Myocardial infarction",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "Gastrointestinal Disorders",
+                    "event_list": {
+                      "event": [{
+                          "sub_title": "Diarrhea",
+                          "counts": null
+                        },
+                        {
+                          "sub_title": "Nausea",
+                          "counts": null
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            "other_events": {
+              "frequency_threshold": "0",
+              "default_vocab": "CTCAE (v5.0)",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [{
+                    "title": "Total Other AEs",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Emerging therapy-related side effects",
+                        "counts": null
+                      }
+                    }
+                  },
+                  {
+                    "title": "Hematologic Disorders",
+                    "event_list": {
+                      "event": [{
+                          "sub_title": "Anemia",
+                          "counts": null
+                        },
+                        {
+                          "sub_title": "Thrombocytopenia",
+                          "counts": null
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

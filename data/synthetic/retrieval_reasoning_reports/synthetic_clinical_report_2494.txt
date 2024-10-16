@@ -1,0 +1,219 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "20220091",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Etanercept in Patients With Chemotherapy-Induced Mucositis",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Etanercept in Patients With Mucositis Following Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Medicine",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Medicine Clinical Trials Unit",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the efficacy of etanercept in reducing the severity of chemotherapy-induced mucositis in patients undergoing treatment for cancer. The study sought to determine the impact of etanercept on clinical outcomes such as oral pain and the incidence of severe mucositis."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Termination was due to difficulties in patient recruitment and high attrition rates, as well as challenges in monitoring consistent efficacy markers across diverse patient populations.",
+    "start_date": "January 15, 2022",
+    "completion_date": "May 30, 2023",
+    "primary_completion_date": "May 30, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Mucositis Severity Score at Week 8",
+      "time_frame": "Week 8",
+      "description": "The mucositis severity will be assessed using the Oral Mucositis Rating Scale (OMRS), with a focus on changes in the severity from baseline post-chemotherapy."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Pain Score as Measured by the Visual Analog Scale (VAS)",
+        "time_frame": "Weeks 1, 4, and 8",
+        "description": "Participants will rate their level of oral pain using a visual analog scale from 0 (no pain) to 10 (worst pain imaginable)."
+      },
+      {
+        "measure": "Incidence of Related Adverse Events",
+        "time_frame": "Throughout the study period",
+        "description": "The frequency of any adverse events related to etanercept treatment will be monitored and documented."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "40",
+    "condition": "Chemotherapy-Induced Mucositis",
+    "arm_group": [
+      {
+        "arm_group_label": "Etanercept Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 2.5 mg of etanercept in 20 cc of mouthwash administered every 6 hours starting one day prior to chemotherapy and continuing throughout the chemotherapy treatment."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants in the control group received a placebo mouthwash, also administered every 6 hours under the same schedule as the experimental group."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etanercept",
+        "description": "Etanercept 2.5 mg in mouthwash form administered sublingually.",
+        "arm_group_label": "Etanercept Group",
+        "other_name": "Enbrel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo mouthwash administered under similar conditions as the etanercept group.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adult patients aged 18 years or older diagnosed with various malignancies eligible for chemotherapy\n- Scheduled to receive chemotherapy treatment expected to induce mucositis\n\nExclusion Criteria:\n\n- History of allergic reactions to etanercept or other TNF inhibitors\n- Concurrent use of other investigational products related to mucositis treatment\n- Patients with active oral infections at the time of enrollment\n- Any pre-existing medical condition that would interfere with assessments"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "University of Medicine"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University of Medicine Cancer Center",
+          "address": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62701",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "link": {
+      "url": "http://www.universityofmedicine.edu/clinicaltrials",
+      "description": "University of Medicine Clinical Trials website"
+    },
+    "reference": {
+      "citation": "Smith J, Doe J, Johnson R. Evaluation of Etanercept in Patients With Chemotherapy-Induced Oral Mucositis: A Pilot Study. J Clin Oncol. 2023;41(10):1250-1258. doi: 10.1200/JCO.2023.41.10.1250."
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "November 20, 2021",
+    "study_first_posted": "December 1, 2021",
+    "results_first_submitted": "February 15, 2023",
+    "results_first_posted": "March 1, 2023",
+    "last_update_posted": "August 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Chemotherapy",
+      "Mucositis",
+      "Etanercept",
+      "Tumor Necrosis Factor",
+      "Pain",
+      "Toxicity"
+    ],
+    "condition_browse": {
+      "mesh_term": "Mucositis"
+    },
+    "intervention_browse": {
+      "mesh_term": "Etanercept"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study was conducted across multiple clinical sites but faced significant recruitment challenges leading to the premature termination of the trial. Only 40 participants were enrolled across two sites.",
+        "pre_assignment_details": "Participants were randomly assigned to either the etanercept or control group. However, the study experienced a high attrition rate, with numerous participants withdrawing due to side effects and dissatisfaction with treatment.",
+        "milestone_list": {
+          "milestone": [
+            {
+              "title": "STARTED",
+              "participants_list": {
+                "participants": null
+              }
+            },
+            {
+              "title": "COMPLETED",
+              "participants_list": {
+                "participants": null
+              }
+            },
+            {
+              "title": "NOT COMPLETED",
+              "participants_list": {
+                "participants": null
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Participant characteristics were diverse, and significant variations in baseline mucositis severity were observed. The lack of homogeneity in the sample further complicated efficacy analyses.",
+        "group_list": {
+          "group": {
+            "title": "Etanercept and Placebo Groups",
+            "description": "The enrolled participants received either the etanercept mouthwash or placebo as outlined in the methodology."
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Clinical Efficacy of Etanercept Mouthwash in Treating Chemotherapy-Induced Mucositis",
+            "description": "Assessment of the mucositis severity using the OMRS demonstrated insufficient improvement in the etanercept arm compared to the placebo.",
+            "time_frame": "Measured at baseline and at 8-week follow-up."
+          },
+          {
+            "type": "Secondary",
+            "title": "Safety Profile of Etanercept in a Cancer Population",
+            "description": "The trial recorded a higher than expected incidence of treatment-related adverse events, leading to higher withdrawal rates.",
+            "time_frame": "Throughout the study duration",
+          }
+        ]
+      }
+    }
+  }
+}
+```

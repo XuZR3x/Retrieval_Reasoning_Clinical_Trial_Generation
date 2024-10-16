@@ -1,0 +1,157 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02585736"
+    },
+    "id_info": {
+      "org_study_id": "NN2211-2021",
+      "nct_id": "NCT02585736"
+    },
+    "brief_title": "Evaluation of Liraglutide on Endothelial Function and Glycemic Control in Obese Adults with Type 2 Diabetes",
+    "official_title": "Evaluation of Liraglutide on Endothelial Function and Glycemic Control in Obese Adults with Type 2 Diabetes: A 24-week Randomized, Double-blind, Placebo-controlled Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novo Nordisk A/S",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novo Nordisk A/S",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to assess the efficacy of liraglutide in improving endothelial function and glycemic control metrics in an obese diabetic population. It was hypothesized that liraglutide would provide significant improvements compared to placebo and that these effects would be measurable over a 24-week period."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated prematurely due to inadequate participant recruitment, high dropout rates related to gastrointestinal disturbances, and inconclusive results on primary and secondary endpoints.",
+    "start_date": "January 10, 2016",
+    "completion_date": "September 15, 2018",
+    "primary_completion_date": "September 15, 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Acetylcholine (ACh)-Mediated Forearm Blood Flow at Week 24",
+      "time_frame": "Baseline, Week 24",
+      "description": "This measure assessed endothelial function via forearm venous occlusion plethysmography to detect changes in blood flow."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Glycosylated Hemoglobin (HbA1c)",
+        "time_frame": "Baseline, Week 24",
+        "description": "Assess the percentage change in HbA1c to quantify improvements in glycemic control."
+      },
+      {
+        "measure": "Change in Body Weight",
+        "time_frame": "Baseline, Week 24",
+        "description": "Determine the percentage change in body weight as an indicator of liraglutide's metabolic effects."
+      },
+      {
+        "measure": "Incidence of Hypoglycemic Events",
+        "time_frame": "Weeks 0-24",
+        "description": "Document any major or minor hypoglycemic events during the treatment period to assess safety."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "55",
+    "condition": ["Diabetes Mellitus, Type 2", "Obesity"],
+    "arm_group": [
+      {
+        "arm_group_label": "Liraglutide 1.8 mg",
+        "arm_group_type": "Experimental",
+        "description": "Subcutaneous administration of liraglutide 1.8 mg once daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Subcutaneous placebo administered once daily."
+      },
+      {
+        "arm_group_label": "Active Comparator (Glimepiride)",
+        "arm_group_type": "Active Comparator",
+        "description": "Oral administration of glimepiride 4 mg once daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Liraglutide",
+        "description": "Administered once daily via subcutaneous injection, titrated over the first three weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo administered once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Glimepiride",
+        "description": "Administered orally once daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 40-70 years with a diagnosis of Type 2 diabetes\n- Obese (BMI > 30 kg/m²)\n- HbA1c between 6.5% - 9.0%\n\nExclusion Criteria:\n- Previous treatment with GLP-1 analogues or insulin\n- Major gastrointestinal disorders\n- Uncontrolled hypertension (systolic BP ≥ 140 mmHg or diastolic BP ≥ 90 mmHg)\n- History of significant cardiovascular events"
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "70 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Markus Klein, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Novo Nordisk Research Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Novo Nordisk Investigational Site",
+        "address": {
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55415",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "link": {
+      "url": "http://novonordisk-trials.com",
+      "description": "Clinical Trials at Novo Nordisk"
+    },
+    "results_reference": [
+      {
+        "citation": "Klein M, Divakaran S. The effects of liraglutide on endothelial function and metabolic parameters in type 2 diabetes. Diabetes Care. 2019;42(5):831-839. doi:10.2337/dc18-1509.",
+        "PMID": "30765112"
+      }
+    ],
+    "verification_date": "March 2021",
+    "study_first_submitted": "August 30, 2015",
+    "study_first_submitted_qc": "September 1, 2015",
+    "study_first_posted": "September 3, 2015",
+    "last_update_submitted": "March 15, 2021",
+    "last_update_submitted_qc": "March 15, 2021",
+    "last_update_posted": "March 17, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Liraglutide"
+    }
+  }
+}
+```

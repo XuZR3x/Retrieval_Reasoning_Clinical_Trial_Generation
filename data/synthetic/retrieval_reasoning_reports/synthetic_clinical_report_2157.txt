@@ -1,0 +1,257 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT02515452"
+        },
+        "id_info": {
+            "org_study_id": "1200.92",
+            "nct_id": "NCT02515452"
+        },
+        "brief_title": "Clinical Efficacy and Safety of Afatinib in Patients With NSCLC Harboring EGFR Exon 19 Deletions",
+        "official_title": "An Open-Label, Multicenter, Phase II Study Evaluating the Safety and Efficacy of Afatinib (BIBW 2992) in Patients With Advanced Non-Small Cell Lung Cancer (NSCLC) Bearing EGFR Exon 19 Deletions",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Boehringer Ingelheim",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Boehringer Ingelheim",
+        "brief_summary": {
+            "textblock": "This Phase II study aimed to assess the efficacy and safety profile of afatinib in a selected cohort of patients with advanced NSCLC characterized by EGFR exon 19 deletions. The study adopted a precision medicine approach, incorporating biomarker screening to enhance therapeutic targeting."
+        },
+        "overall_status": "Completed",
+        "start_date": "April 15, 2016",
+        "completion_date": "December 10, 2021",
+        "primary_completion_date": "April 20, 2021",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Objective Response Rate (ORR)",
+            "time_frame": "From first dose administration until disease progression or the last patient visit, up to 60 months.",
+            "description": "ORR defined as the proportion of patients achieving complete response (CR) or partial response (PR) as per RECIST v1.1 criteria, evaluated by independent radiological review."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "From first dosing until disease progression or death, whichever occurred first, up to 60 months.",
+                "description": "PFS defined as the interval from the date of first dose to the date of documented disease progression or death from any cause."
+            },
+            {
+                "measure": "Overall Survival (OS)",
+                "time_frame": "From randomization until death or end of study (up to 60 months).",
+                "description": "Time from first dosing to the date of death from any cause."
+            },
+            {
+                "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+                "time_frame": "From the initiation of treatment until 28 days post treatment completion.",
+                "description": "Recording of all reported TEAEs categorized by severity and relationship to the treatment."
+            },
+            {
+                "measure": "Quality of Life (QOL) as Assessed by EORTC QLQ-C30",
+                "time_frame": "Bi-monthly until progression or 28 days post-treatment end, evaluated up to 60 months.",
+                "description": "QOL assessed via the EORTC QLQ-C30 questionnaire, focusing on functional status and symptom management."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "375",
+        "condition": [
+            "Carcinoma, Non-Small-Cell Lung",
+            "Lung Neoplasms"
+        ],
+        "arm_group": {
+            "arm_group_label": "Afatinib Treatment Group",
+            "arm_group_type": "Experimental",
+            "description": "Patients receive afatinib 40 mg orally once daily."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Afatinib",
+            "description": "Afatinib administered at a dose of 40 mg once daily for each 28-day cycle.",
+            "arm_group_label": "Afatinib Treatment Group"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion criteria include:\r\n1. Confirmed diagnosis of advanced NSCLC with EGFR exon 19 deletion detected via biopsy.\r\n2. Patients previously untreated or with progressive disease post platinum-based chemotherapy.\r\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n4. Patients aged 18 years or older with adequate organ function."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Boehringer Ingelheim",
+            "role": "Study Chair",
+            "affiliation": "Boehringer Ingelheim"
+        },
+        "location": [{
+            "facility": {
+                "name": "Cancer Institute of the University of California",
+                "address": {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "country": "United States"
+                }
+            }
+        }, {
+            "facility": {
+                "name": "Mount Sinai Hospital",
+                "address": {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "United States"
+                }
+            }
+        }, {
+            "facility": {
+                "name": "National Cancer Center Hospital",
+                "address": {
+                    "city": "Tokyo",
+                    "country": "Japan"
+                }
+            }
+        }, {
+            "facility": {
+                "name": "Taipei Medical University Shuang Ho Hospital",
+                "address": {
+                    "city": "New Taipei City",
+                    "country": "Taiwan"
+                }
+            }
+        }],
+        "location_countries": {
+            "country": [
+                "United States",
+                "Japan",
+                "Taiwan"
+            ]
+        },
+        "verification_date": "December 2021",
+        "study_first_submitted": "October 1, 2015",
+        "study_first_posted": "October 15, 2015",
+        "results_first_submitted": "January 10, 2022",
+        "results_first_posted": "February 15, 2022",
+        "last_update_submitted": "January 15, 2022",
+        "last_update_posted": "February 20, 2022",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Carcinoma, Non-Small-Cell Lung",
+                "Lung Neoplasms"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Afatinib"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "Participants were recruited from specialized oncology centers based on specific molecular criteria for EGFR mutations.",
+                "pre_assignment_details": "Eligibility screening ensured that enrolled participants met all inclusion and exclusion criteria before starting treatment.",
+                "group_list": {
+                    "group": {
+                        "title": "Afatinib Treatment",
+                        "description": "Participants received Afatinib 40 mg orally daily throughout the treatment course."
+                    }
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study Period",
+                        "milestone_list": {
+                            "milestone": [{
+                                "title": "STARTED",
+                                "participants_list": {
+                                    "participants": ["Randomized", "Treatment initiated"]
+                                }
+                            }, {
+                                "title": "COMPLETED",
+                                "participants_list": {
+                                    "participants": ["Treatment completed"]
+                                }
+                            }, {
+                                "title": "NOT COMPLETED",
+                                "participants_list": {
+                                    "participants": ["Lost to follow-up", "Adverse event", "Progressive disease"]
+                                }
+                            }]
+                        }
+                    }
+                }
+            },
+            "reported_events": {
+                "time_frame": "From first treatment administration to study completion.",
+                "group_list": {
+                    "group": {
+                        "title": "Afatinib Treatment",
+                        "description": "Longitudinal monitoring of adverse events and serious adverse events reported during the trial."
+                    }
+                },
+                "serious_events": {
+                    "default_vocab": "MedDRA 21.0",
+                    "default_assessment": "Systematic Assessment",
+                    "category_list": [{
+                        "title": "Total",
+                        "event_list": {
+                            "event": [{
+                                "sub_title": "Total serious adverse events",
+                                "counts": null
+                            }]
+                        }
+                    }, {
+                        "title": "Blood and lymphatic system disorders",
+                        "event_list": {
+                            "event": [{
+                                "sub_title": "Neutropenia",
+                                "counts": null
+                            }, {
+                                "sub_title": "Thrombocytopenia",
+                                "counts": null
+                            }]
+                        }
+                    }, {
+                        "title": "Gastrointestinal disorders",
+                        "event_list": {
+                            "event": [{
+                                "sub_title": "Diarrhea",
+                                "counts": null
+                            }, {
+                                "sub_title": "Nausea",
+                                "counts": null
+                            }]
+                        }
+                    }, {
+                        "title": "General disorders",
+                        "event_list": {
+                            "event": [{
+                                "sub_title": "Fatigue",
+                                "counts": null
+                            }, {
+                                "sub_title": "Asthenia",
+                                "counts": null
+                            }]
+                        }
+                    }, {
+                        "title": "Infections and infestations",
+                        "event_list": {
+                            "event": [{
+                                "sub_title": "Pneumonia",
+                                "counts": null
+                            }]
+                        }
+                    }]
+                }
+            }
+        }
+    }
+}
+```

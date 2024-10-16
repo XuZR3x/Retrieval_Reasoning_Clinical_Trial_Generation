@@ -1,0 +1,451 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03014856"
+    },
+    "id_info": {
+      "org_study_id": "16482",
+      "secondary_id": "I4T-JF-HQRZ",
+      "nct_id": "NCT03014856"
+    },
+    "brief_title": "Evaluation of Ramucirumab in Patients With Metastatic Colorectal Cancer",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Study of Ramucirumab Combined With FOLFOX versus FOLFOX Alone in Patients With Metastatic Colorectal Cancer Who Have Failed First-Line Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and safety of administer ramucirumab in conjunction with FOLFOX versus FOLFOX alone in patients exhibiting metastatic colorectal cancer. The study also aimed to evaluate the potential of ramucirumab to enhance overall survival and progression-free survival in this population."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2017",
+    "completion_date": "November 2021",
+    "primary_completion_date": "September 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Randomization to date of first documented disease progression or death from any cause (up to 24 months)",
+      "description": "PFS is defined as the duration from randomization until disease progression based on the RECIST v1.1 criteria or death from any cause, whichever comes first."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Randomization to date of death from any cause (up to 30 months)",
+        "description": "Overall Survival (OS) is defined as the duration from randomization until the date of death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Randomization to documented disease progression (up to 24 months)",
+        "description": "The ORR is calculated based on the proportion of participants achieving a best overall response of complete response (CR) or partial response (PR) according to RECIST v1.1."
+      },
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "From first objective response (CR or PR) to documented disease progression (up to 24 months)",
+        "description": "DoR is measured as the time from the first documentation of CR or PR until disease progression or death."
+      },
+      {
+        "measure": "Number of Participants With Adverse Events (AEs)",
+        "time_frame": "Baseline through treatment discontinuation (up to 30 months)",
+        "description": "Number of participants experiencing treatment-related AEs, including serious adverse events (SAEs), assessed according to the Common Terminology Criteria for Adverse Events (CTCAE)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "210",
+    "condition": ["Metastatic Colorectal Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + FOLFOX",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive FOLFOX therapy (oxaliplatin, leucovorin, 5-FU) in combination with ramucirumab administered intravenously at a dose of 8 mg/kg every two weeks."
+      },
+      {
+        "arm_group_label": "Placebo + FOLFOX",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receive FOLFOX therapy (oxaliplatin, leucovorin, 5-FU) with a placebo administered intravenously, matched to ramucirumab, on a similar schedule."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "Administered intravenously, 8 mg/kg every 14 days.",
+        "arm_group_label": "Ramucirumab + FOLFOX",
+        "other_name": ["IMC-1121B", "LY3009806"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered intravenously on the same schedule as ramucirumab.",
+        "arm_group_label": "Placebo + FOLFOX"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "FOLFOX",
+        "description": "Oxaliplatin, leucovorin, and 5-Fluorouracil regimen, administered as per clinical guidelines.",
+        "arm_group_label": ["Ramucirumab + FOLFOX", "Placebo + FOLFOX"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Histologically confirmed metastatic colorectal cancer.\r\n  - Prior treatment with first-line chemotherapy.\r\n  - Adequate organ function (renal, hepatic, hematological).\r\n  - Eastern Cooperative Oncology Group (ECOG) Performance Status of 0-1.\r\n  - Patients must provide informed consent and comply with study protocol.\r\n\r\nExclusion Criteria:\r\n  - History of hypersensitivity to ramucirumab or any study drugs.\r\n  - Presence of untreated or symptomatic brain metastases.\r\n  - Previous treatment with anti-angiogenic agents other than those specified in the protocol.\r\n  - Major surgery or significant trauma within 28 days prior to randomization."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Site 1",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Site 2",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2021",
+    "study_first_submitted": "January 10, 2017",
+    "study_first_submitted_qc": "January 12, 2017",
+    "study_first_posted": "January 15, 2017",
+    "results_first_submitted": "October 10, 2021",
+    "results_first_submitted_qc": "October 15, 2021",
+    "results_first_posted": "November 1, 2021",
+    "last_update_submitted": "February 20, 2022",
+    "last_update_posted": "March 1, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Colorectal Cancer", "Ramucirumab", "FOLFOX", "Cancer Treatment"],
+    "condition_browse": {
+      "mesh_term": "Colorectal Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ramucirumab", "Oxaliplatin", "Fluorouracil"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Participants were defined as completers if they adhered to the treatment protocol for the primary outcome duration.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + FOLFOX",
+              "description": "Participants received ramucirumab + FOLFOX therapy."
+            },
+            {
+              "title": "Placebo + FOLFOX",
+              "description": "Participants received placebo + FOLFOX therapy."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Received Any Quantity of Study Drug",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Physician Decision",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "population": "Population included all participants randomly assigned who received one or more doses.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Ramucirumab + FOLFOX",
+                "description": "Participants consistently received ramucirumab and FOLFOX according to the treatment protocol."
+              },
+              {
+                "title": "Placebo + FOLFOX",
+                "description": "Participants consistently received placebo and FOLFOX according to the treatment protocol."
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "PFS showed unsuccessful outcomes across treatment arms with minimal differences observed.",
+              "time_frame": "Up to 24 months",
+              "population": "Both treatment arms showed insufficient PFS results with no significant differences.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Ramucirumab + FOLFOX",
+                    "description": "Demonstrated no improvement in PFS."
+                  },
+                  {
+                    "title": "Placebo + FOLFOX",
+                    "description": "Demonstrated similar outcomes in PFS compared to experimental arm."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "PFS",
+                "population": "ITT population: All randomized participants. Censored participants were unable to complete follow-up.",
+                "units": "Months",
+                "param": "Median",
+                "dispersion": "80% Confidence Interval"
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival (OS)",
+              "description": "No significant improvement in OS noted; results were inconclusive between treatment groups.",
+              "time_frame": "Up to 30 months",
+              "population": "Participants showed no marked difference in OS rates.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Ramucirumab + FOLFOX",
+                    "description": "Assessments reflected no significant change in OS."
+                  },
+                  {
+                    "title": "Placebo + FOLFOX",
+                    "description": "National standard of care was upheld without notable variation."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "OS",
+                "population": "ITT population: All randomized participants. Similar censoring rates were observed across both groups.",
+                "units": "Months",
+                "param": "Median",
+                "dispersion": "80% Confidence Interval"
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Objective Response Rate (ORR)",
+              "description": "Findings showed ORR remained low across both arms, reinforcing treatment ineffectiveness.",
+              "time_frame": "Up to 24 months",
+              "population": "IT population encompassed both arms; response rates were barely distinguishable.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Ramucirumab + FOLFOX",
+                    "description": "ORR was ultimately inadequate and did not reach desired thresholds."
+                  },
+                  {
+                    "title": "Placebo + FOLFOX",
+                    "description": "Similar trends were noted with no considerable discrepancies."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "ORR",
+                "population": "All treated participants,
+                "units": "Percentage",
+                "param": "Number",
+                "dispersion": "80% Confidence Interval"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "reported_events": {
+      "desc": "Data sourced from all randomized participants engaging in the trial. Specific event metrics ultimately revealed a detrimental impact on participant retention, primarily influenced by adverse events linked to ramucirumab treatment.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Ramucirumab + FOLFOX",
+            "description": "Participants receiving treatment reported significant adverse events impacting trial integrity."
+          },
+          {
+            "title": "Placebo + FOLFOX",
+            "description": "Adverse event trends were observed but did not surpass those of the treatment group."
+          }
+        ]
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 23.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [30, 32]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Nausea",
+                    "counts": [15, 12]
+                  },
+                  {
+                    "sub_title": "Vomiting",
+                    "counts": [10, 8]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Cardiac disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Hypertension",
+                    "counts": [8, 7]
+                  },
+                  {
+                    "sub_title": "Myocardial Infarction",
+                    "counts": [4, 3]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "other_events": {
+      "frequency_threshold": "10",
+      "default_vocab": "MedDRA 23.0",
+      "default_assessment": "Systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [100, 90]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Metabolism and nutrition disorders",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Decreased appetite",
+                  "counts": [23, 20]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Psychiatric disorders",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Insomnia",
+                  "counts": [12, 11]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The only limitation for publication is the sponsor's review period not exceeding 90 days. The sponsor cannot require changes to the communication and cannot extend the embargo.",
+      "point_of_contact": {
+        "name_or_title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "phone": "800-545-5979"
+      }
+    }
+  }
+}
+```

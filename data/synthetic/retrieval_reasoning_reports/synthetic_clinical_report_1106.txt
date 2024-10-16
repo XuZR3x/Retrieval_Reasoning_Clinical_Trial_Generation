@@ -1,0 +1,136 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT02745728"
+        },
+        "id_info": {
+            "org_study_id": "CCT-19-03",
+            "nct_id": "NCT02745728"
+        },
+        "brief_title": "Axitinib in Non-Small Cell Lung Cancer with Limited Progression",
+        "acronym": "CCT-19-03",
+        "official_title": "A Phase II Study of Axitinib in Patients with Non-Small Cell Lung Cancer Experiencing Limited Progression After First-Line Therapy",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute, USA",
+                "agency_class": "Other"
+            }
+        },
+        "source": "National Cancer Institute, USA",
+        "oversight_info": {
+            "has_dmc": "No"
+        },
+        "brief_summary": {
+            "textblock": "The trial aimed to evaluate the efficacy and safety of axitinib in patients with non-small cell lung cancer (NSCLC) who exhibited limited progression after first-line therapy. The hypothesis was that axitinib could stabilize disease progression and improve overall survival."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "The study was terminated due to insufficient patient recruitment and high rates of adverse events reported, including hypertension.",
+        "start_date": "July 2016",
+        "completion_date": "April 2019",
+        "primary_completion_date": "February 2019",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Overall Survival Rate at 1 Year",
+            "time_frame": "1 year"
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival",
+                "time_frame": "6 months"
+            },
+            {
+                "measure": "Response Rate",
+                "time_frame": "3 months"
+            },
+            {
+                "measure": "Safety and tolerability assessment through adverse event reporting",
+                "time_frame": "Duration of treatment"
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "32",
+        "condition": "Non-Small Cell Lung Cancer",
+        "arm_group": {
+            "arm_group_label": "Axitinib 5 mg BID",
+            "arm_group_type": "Experimental",
+            "description": "Patients received axitinib 5 mg orally twice daily until disease progression or unacceptable toxicity."
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Axitinib",
+            "description": "Axitinib administered at a starting dose of 5 mg twice daily with dosage adjustments for tolerability.",
+            "arm_group_label": "Axitinib 5 mg BID"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n1. Patients must have histologically confirmed non-small cell lung cancer (NSCLC) with limited progression after first-line therapy defined by RECIST.\n2. Age ≥18 years.\n3. ECOG performance status of 0-2.\n4. Adequate organ function as specified by laboratory values.\n5. Written informed consent provided.\n\nExclusion Criteria:\n1. Previous treatment with axitinib.\n2. Major cardiovascular disease including uncontrolled hypertension.\n3. Patients with symptomatic brain metastases or significant pulmonary compromise.\n4. Pregnant or lactating women.\n5. Concurrent treatment with potent CYP450 enzyme inhibitors."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": [
+            {
+                "last_name": "John Doe, MD",
+                "role": "Study Chair",
+                "affiliation": "National Cancer Institute"
+            },
+            {
+                "last_name": "Jane Smith, MD",
+                "role": "Co-Investigator",
+                "affiliation": "Johns Hopkins University"
+            }
+        ],
+        "location": {
+            "facility": {
+                "name": "National Cancer Institute",
+                "address": {
+                    "city": "Bethesda",
+                    "state": "Maryland",
+                    "zip": "20892",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "March 2020",
+        "study_first_submitted": "April 15, 2016",
+        "study_first_submitted_qc": "April 20, 2016",
+        "study_first_posted": "April 22, 2016",
+        "last_update_submitted": "March 10, 2020",
+        "last_update_submitted_qc": "March 10, 2020",
+        "last_update_posted": "March 12, 2020",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": ["NSCLC", "Axitinib", "progression-free survival"],
+        "condition_browse": {
+            "mesh_term": ["Carcinoma, Non-Small-Cell Lung", "Lung Neoplasms"]
+        },
+        "intervention_browse": {
+            "mesh_term": "Axitinib"
+        },
+        "limitations_and_caveats": "The study's premature termination due to insufficient patient recruitment reflects the inherent difficulties in attracting a suitable cohort with specific eligibility criteria. Additionally, the high rate of adverse events, particularly hypertension noted during the study, indicated that axitinib may not have an acceptable therapeutic window in this patient population. Variability in tumor biology may have also contributed to the challenging therapeutic landscape.",
+        "point_of_contact": {
+            "name_or_title": "Sarah Johnson",
+            "organization": "National Cancer Institute",
+            "phone": "301-496-2000",
+            "email": "sjohnson@nci.nih.gov"
+        }
+    }
+}
+```

@@ -1,0 +1,423 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04199006"
+    },
+    "id_info": {
+      "org_study_id": "LAQ-HD-402",
+      "secondary_id": "2019-004679-57",
+      "nct_id": "NCT04199006"
+    },
+    "brief_title": "An Evaluation of Laquinimod in Individuals with Advanced Huntington's Disease",
+    "acronym": "HUNT",
+    "official_title": "A Multinational, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy, Safety, and Tolerability of Laquinimod for Patients with Advanced Huntington's Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Teva Branded Pharmaceutical Products R&D, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Teva Branded Pharmaceutical Products R&D, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of laquinimod in reducing the functional decline in subjects with advanced Huntington's disease over 52 weeks. However, despite a robust trial design, the objectives were not met, leading to the conclusion that laquinimod does not provide the required therapeutic benefit."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2020",
+    "completion_date": "September 30, 2023",
+    "primary_completion_date": "September 25, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change from Baseline in Functional Independence Measure (FIM) Scores at Week 52",
+      "time_frame": "Baseline to Week 52",
+      "description": "The FIM assesses the level of disability and dependence in subjects, with higher scores indicating greater independence. However, the results showed no statistically significant difference in changes from baseline in FIM scores between treatment and control groups."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Time to Loss of Functional Independence as Measured by a 2-Point Decrease in FIM Scores",
+        "time_frame": "Baseline to Week 52",
+        "description": "This measure evaluated the duration until participants demonstrated a clinically relevant decline in functional independence. The analysis confirmed no significant advantage for laquinimod over placebo."
+      },
+      {
+        "measure": "Change in Neuropsychiatric Inventory (NPI) Scores",
+        "time_frame": "Baseline, Week 52",
+        "description": "The NPI assesses neuropsychiatric symptoms in HD patients. No substantial change in scores was observed, suggesting that laquinimod did not ameliorate psychiatric manifestations of Huntington's disease."
+      }
+    ],
+    "other_outcome": [
+      {
+        "measure": "Incidence of Treatment-Related Adverse Events (AEs)",
+        "time_frame": "Baseline up to Week 56",
+        "description": "The incidence of AEs was tracked, with results showing a concerning frequency of serious cardiovascular and psychiatric reactions leading to participant dropout rates significantly exceeding those observed in the placebo cohort."
+      }
+    ],
+    "number_of_arms": "4",
+    "enrollment": "420",
+    "condition": "Huntington's Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Placebo Comparator",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received 3 capsules of matching laquinimod placebo, orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 0.5 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 1 capsule of laquinimod 0.5 mg and 2 capsules of matching placebo, orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 1.0 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 2 capsules of laquinimod 0.5 mg (1.0 mg total) and 1 capsule of matching placebo, orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 1.5 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 3 capsules of laquinimod 0.5 mg (1.5 mg total), orally once daily for 52 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Laquinimod",
+        "description": "Laquinimod capsules will be administered as per specified doses based on the assigned arm.",
+        "arm_group_label": [
+          "Laquinimod 0.5 mg",
+          "Laquinimod 1.0 mg",
+          "Laquinimod 1.5 mg"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching laquinimod placebo will be administered as specified in the respective arms.",
+        "arm_group_label": [
+          "Laquinimod 0.5 mg",
+          "Laquinimod 1.0 mg",
+          "Placebo Comparator"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Participants must have a confirmed diagnosis of Huntington's disease based on genetic testing or clinical criteria.\n- Participants must be 21 to 55 years of age.\n- Participants must demonstrate the capacity to provide informed consent and have a caregiver available for assessments.\n- Participants must have a UHDRS-TMS score of 5 or greater, indicating a level of functional decline.\n- Women of childbearing potential must practice effective contraception.\n\nExclusion Criteria:\n\n- Participants with a history of major cardiovascular events or psychiatric disorders.\n- Prior use of investigational treatments or therapies targeting Huntington's disease.\n- Presence of significant comorbidities affecting safety or study outcomes.\n- Pregnant or lactating women.",
+        "gender": "All",
+        "minimum_age": "21 Years",
+        "maximum_age": "55 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Teva Medical Expert, MD",
+      "role": "Study Director",
+      "affiliation": "Teva Branded Pharmaceutical Products R&D, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12566",
+          "address": {
+            "city": "La Jolla",
+            "state": "California",
+            "zip": "92037",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12565",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90095",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12567",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "Canada",
+        "Czechia",
+        "Germany",
+        "Italy",
+        "Netherlands",
+        "Portugal",
+        "Russian Federation",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    "removed_countries": {
+      "country": [
+        "Czech Republic",
+        "France",
+        "India",
+        "Israel"
+      ]
+    },
+    "verification_date": "April 2024",
+    "study_first_submitted": "August 10, 2019",
+    "study_first_submitted_qc": "August 12, 2019",
+    "study_first_posted": "August 13, 2019",
+    "results_first_submitted": "October 31, 2023",
+    "results_first_submitted_qc": "November 2, 2023",
+    "results_first_posted": "November 5, 2023",
+    "last_update_submitted": "May 5, 2024",
+    "last_update_submitted_qc": "May 7, 2024",
+    "last_update_posted": "May 10, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Huntington's Disease"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 468 participants were screened, with 116 screen failures. 352 participants were enrolled and randomized in a 1:1:1:1 ratio prior to the discontinuation of the high-dose group following safety concerns.",
+        "pre_assignment_details": "Following a recommendation for discontinuation of the 1.5 mg dose group, the study proceeded with the remaining doses and placebo groups.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Placebo",
+              "description": "Participants received 3 capsules of matching laquinimod placebo, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 0.5 mg",
+              "description": "Participants received 1 capsule of laquinimod 0.5 mg and 2 capsules of matching placebo, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 1.0 mg",
+              "description": "Participants received 2 capsules of laquinimod 0.5 mg (1.0 mg total) and 1 capsule of matching placebo, orally once daily for 52 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Received at Least 1 Dose of Study Drug",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Non-Compliance",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Protocol Violation",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Sponsor Requested to Stop Study Drug",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Intent-to-treat (ITT) population included all randomized participants.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Placebo",
+              "description": "Participants received 3 capsules of matching laquinimod placebo, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 0.5 mg",
+              "description": "Participants received 1 capsule of laquinimod 0.5 mg and 2 capsules of matching placebo, orally once daily for 52 weeks."
+            },
+            {
+              "title": "Laquinimod 1.0 mg",
+              "description": "Participants received 2 capsules of laquinimod 0.5 mg (1.0 mg total) and 1 capsule of matching placebo, orally once daily for 52 weeks."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change From Baseline in UHDRS-TMS at Week 52",
+            "description": "The UHDRS-TMS assesses all motor features of HD and measures the progression of motor-related loss of independence.",
+            "time_frame": "Baseline to Week 52",
+            "population": "Full analysis set included participants evaluable for this outcome measure.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Placebo",
+                  "description": "Participants received 3 capsules of matching laquinimod placebo, orally once daily for 52 weeks."
+                },
+                {
+                  "title": "Laquinimod 0.5 mg",
+                  "description": "Participants received 1 capsule of laquinimod 0.5 mg and 2 capsules of matching placebo, orally once daily for 52 weeks."
+                },
+                {
+                  "title": "Laquinimod 1.0 mg",
+                  "description": "Participants received 2 capsules of laquinimod 0.5 mg (total 1.0 mg) and 1 capsule of matching placebo, orally once daily for 52 weeks."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change From Baseline in UHDRS-TMS at Week 52",
+              "description": "Results indicated no significant difference in TMS score changes between laquinimod groups and placebo.",
+              "population": "FAS included participants who received at least 1 dose and had assessments.",
+              "units": "units on a scale",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

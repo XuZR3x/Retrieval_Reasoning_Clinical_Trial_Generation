@@ -1,0 +1,240 @@
+**Failed Clinical Trial of Apixaban**
+
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04012345"
+    },
+    "id_info": {
+      "org_study_id": "APIX-2019",
+      "secondary_id": "NCT04012345",
+      "nct_id": "NCT04012345"
+    },
+    "brief_title": "Evaluation of Apixaban in Patients Undergoing Elective Cardioversion",
+    "acronym": "X-APIX",
+    "official_title": "A Phase IV Study to Evaluate the Efficacy and Safety of Apixaban Versus Warfarin in Patients with Atrial Fibrillation Undergoing Elective Cardioversion",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institutes of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institutes of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to compare the efficacy and safety of apixaban against warfarin in patients with atrial fibrillation scheduled for elective cardioversion. Primary objectives included assessing the rate of stroke and systemic embolism during a 30-day period post-procedure."
+    },
+    "detailed_description": {
+      "textblock": "This study was a multicenter, randomized, open-label trial designed to evaluate apixaban in patients with non-valvular atrial fibrillation who were undergoing elective cardioversion. Despite initial projections, recruitment was below expected thresholds, rendering the trial insufficiently powered to detect statistically meaningful differences in key outcome measures. Concerns surrounding non-adherence due to apixaban's dosing regimen were prevalent, along with increasing reports of bleeding events that raised alarms regarding the safety profile of apixaban compared to traditional vitamin K antagonists. These factors led to difficulties in interpreting results and ultimately contributed to the decision to halt the study."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 20, 2019",
+    "completion_date": "March 15, 2021",
+    "primary_completion_date": "December 30, 2020",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Incidence of Acute Stroke Events",
+        "time_frame": "30 days post cardioversion",
+        "description": "To assess the total number of patients experiencing acute stroke incidents during a 30-day follow-up after elective cardioversion."
+      },
+      {
+        "measure": "Incidence of Major Bleeding Events",
+        "time_frame": "30 days post cardioversion",
+        "description": "To evaluate the incidence of major bleeding events in both arms during the same period."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Patient Adherence Rate",
+        "time_frame": "Throughout the study duration",
+        "description": "To measure adherence to apixaban therapy compared to warfarin, assessed through pill count and patient questionnaires."
+      },
+      {
+        "measure": "Time to Recovery of Sinus Rhythm",
+        "time_frame": "Up to 30 days post-procedure",
+        "description": "To evaluate the time taken to restore normal sinus rhythm post-cardioversion."
+      },
+      {
+        "measure": "Use of Healthcare Resources",
+        "time_frame": "30 days post cardioversion",
+        "description": "To analyze the number of hospital readmissions due to adverse effects or complications related to anticoagulation therapy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": "Atrial Fibrillation",
+    "arm_group": [
+      {
+        "arm_group_label": "Apixaban",
+        "arm_group_type": "Experimental",
+        "description": "Participants received apixaban 5 mg orally twice daily for 30 days following cardioversion."
+      },
+      {
+        "arm_group_label": "Warfarin",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received warfarin adjusted according to INR results for 30 days post-cardioversion."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "description": "5 mg orally twice a day for 30 days after cardioversion.",
+        "arm_group_label": "Apixaban"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Warfarin",
+        "description": "Dosage adjusted based on INR levels for 30 days post-cardioversion.",
+        "arm_group_label": "Warfarin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Men and women aged 18-85 years with a documented diagnosis of non-valvular atrial fibrillation indicated for elective cardioversion.\n- Written informed consent obtained.\n\nExclusion Criteria:\n- Patients with severe renal impairment (CrCl < 30 ml/min).\n- Active bleeding or contraindications to anticoagulation.\n- Known hypersensitivity to apixaban or warfarin.\n- Participation in other clinical trials involving investigational products within 30 days prior to screening."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "85 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Mary Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiology Division, Academic Medical Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Academic Medical Institute",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cardiology Specialized Clinic",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "Italy", "Japan"]
+    },
+    "verification_date": "May 2023",
+    "study_first_submitted": "February 10, 2019",
+    "study_first_posted": "March 15, 2019",
+    "results_first_submitted": "April 15, 2021",
+    "results_first_posted": "April 30, 2021",
+    "last_update_submitted": "August 15, 2023",
+    "last_update_posted": "August 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Atrial Fibrillation"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Apixaban", "Warfarin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Apixaban",
+              "description": "Participants received apixaban as per protocol."
+            },
+            {
+              "title": "Warfarin",
+              "description": "Participants were administered warfarin under standard care practices."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["250 participants treated with Apixaban", "250 participants treated with Warfarin"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["125 completed on Apixaban", "130 completed on Warfarin"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["125 withdrew from Apixaban", "120 withdrew from Warfarin"]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "From randomization to 30 days after the last cardioversion attempt.",
+        "desc": "Events recorded include acute stroke events, major bleeding, and adverse events classified as serious. The safety dataset included all trial participants, with systematic assessment of bleeding episodes monitored throughout the course."
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 19.1",
+        "default_assessment": "Non-systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Cardiovascular Events",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Acute Stroke", "counts": [5, 7]},
+                  {"sub_title": "Major Bleeding Events", "counts": [15, 10]}
+                ]
+              }
+            },
+            {
+              "title": "Other Events",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Gastrointestinal Bleeding", "counts": [8, 3]},
+                  {"sub_title": "Acute Myocardial Infarction", "counts": [4, 6]}
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+``` 
+
+This report presents a comprehensive overview of a failed clinical trial assessing the efficacy and safety of apixaban compared to warfarin in patients with atrial fibrillation undergoing elective cardioversion. Key reasons for failure included insufficient patient recruitment, non-adherence issues, safety profile concerns, and variability in patient response, leading to inconclusive findings and difficulty in establishing robust therapeutic recommendations.

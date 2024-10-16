@@ -1,0 +1,146 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "MEMPDD-2024",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Memantine in Patients With Mixed Dementia",
+    "official_title": "Phase II Multicenter Randomized Controlled Trial of Memantine for Cognitive and Behavioral Improvement in Patients With Mixed Dementia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Neurodegeneration Network",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Cognition Research Institute",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Neurodegeneration Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial investigates the efficacy of memantine as a therapeutic agent for cognitive decline and behavioral symptoms in individuals diagnosed with mixed dementia, inclusive of Alzheimer's disease and vascular contributions. The study aims to determine the impact of memantine on cognitive function and related neuropsychiatric symptoms over a six-month treatment period."
+    },
+    "detailed_description": {
+      "textblock": "The presence of mixed dementia represents a complex interplay of neurodegenerative pathology, where excitotoxicity is believed to play a significant role in disease progression. Memantine, an NMDA receptor antagonist, is hypothesized to mitigate the impact of excitotoxicity, thus preserving neuronal function and cognitive abilities in this patient population.\n\nThe trial will enroll 100 participants aged 60 years and older, diagnosed with mixed dementia based on National Institute on Aging criteria, and exhibiting symptoms reflected in the Neuropsychiatric Inventory scores. Participants will receive memantine at an initial dose of 5 mg once daily, titrated to a maintenance dose of 20 mg daily over the course of 12 weeks. Outcome measures will include changes in cognitive function assessed by the Mini-Mental State Examination (MMSE) and neuropsychiatric symptoms evaluated through the Neuropsychiatric Inventory - Clinician Version.\n\nInclusion criteria will be meticulously defined to ensure participant selection reflects those predominantly affected by mixed dementia, facilitating a targeted therapeutic approach. Adverse events and treatment-related safety will be closely monitored throughout the study duration with oversight provided by a dedicated data monitoring committee."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "March 2021",
+    "primary_completion_date": "February 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change in cognitive function assessed by Mini-Mental State Examination (MMSE)",
+      "time_frame": "Baseline, 3 months, 6 months"
+    },
+    "secondary_outcome": {
+      "measure": "Change in behavioral symptoms measured by the Neuropsychiatric Inventory - Clinician Version",
+      "time_frame": "Baseline, 3 months, 6 months"
+    },
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": "Mixed Dementia, Alzheimer's Disease with vascular contributions",
+    "arm_group": [
+      {
+        "arm_group_label": "MEMANTINE",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "PLACEBO",
+        "arm_group_type": "Placebo Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Memantine",
+        "description": "Oral administration starting at 5 mg/day, escalated to 20 mg/day",
+        "arm_group_label": "MEMANTINE"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Oral tablet matching memantine doses",
+        "arm_group_label": "PLACEBO"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Age 60 years or older\n2. Clinical diagnosis of mixed dementia\n3. Neuropsychiatric Inventory total score of ≥ 10\n4. Ability to provide informed consent or have a legally authorized representative\n\nExclusion Criteria:\n\n1. Uncontrolled medical comorbidities\n2. History of significant adverse reactions to memantine\n3. Other major neurodegenerative disorder\n4. Recent major stroke or significant changes in health status\n5. Women of childbearing potential not using effective contraception"
+      },
+      "gender": "All",
+      "minimum_age": "60 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "location": {
+      "facility": [
+        {
+          "name": "Neurodegeneration Treatment Center",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94103",
+            "country": "United States"
+          }
+        },
+        {
+          "name": "Cognition Research Institute",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02114",
+            "country": "United States"
+          }
+        }
+      ]
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "December 15, 2018",
+    "study_first_submitted_qc": "December 16, 2018",
+    "study_first_posted": "January 5, 2019",
+    "last_update_submitted": "March 1, 2021",
+    "last_update_submitted_qc": "March 2, 2021",
+    "last_update_posted": "March 5, 2021",
+    "responsible_party": {
+      "name_title": "Dr. Emily Rodriguez, MD",
+      "organization": "Global Neurodegeneration Network"
+    },
+    "keyword": [
+      "Mixed Dementia",
+      "Memantine",
+      "Cognitive Decline",
+      "Neuropsychiatric Symptoms"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Dementia",
+        "Alzheimer Disease",
+        "Mixed Dementia"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Memantine"
+    }
+  }
+}
+```

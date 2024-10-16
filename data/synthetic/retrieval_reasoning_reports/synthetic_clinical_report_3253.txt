@@ -1,0 +1,146 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03892042"
+    },
+    "id_info": {
+      "org_study_id": "TXA2024",
+      "nct_id": "NCT03892042"
+    },
+    "brief_title": "Evaluation of Tranexamic Acid in Patients Undergoing Total Hip Arthroplasty",
+    "official_title": "A Randomized Control Trial Assessing the Effect of Tranexamic Acid on Perioperative Blood Loss in Total Hip Arthroplasty: A Multicenter Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cleveland Clinic",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cleveland Clinic",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the impact of tranexamic acid on blood loss and transfusion requirements in patients undergoing total hip arthroplasty. Considering the anticipated high rate of enrollment and clinical significance of findings, this study aimed to explore the hypothesis that tranexamic acid decreases postoperative hemorrhage."
+    },
+    "detailed_description": {
+      "textblock": "Total hip arthroplasty (THA) is associated with significant blood loss, which can lead to the necessity of blood transfusions, thus increasing the risk of adverse events. Tranexamic acid has been proposed as a hemostatic agent to attenuate this hemorrhage. However, previous studies have indicated that complex study designs and inadequate recruitment strategies have hindered conclusive results in similar trials. The current investigation seeks to determine the efficacy of tranexamic acid in a population reflecting the diversity and complexities expected in standard clinical practice."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient enrollment and operational challenges due to complex protocols.",
+    "start_date": "January 2019",
+    "completion_date": "December 2020",
+    "primary_completion_date": "June 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Total Blood Loss (mL)",
+      "time_frame": "During the first 48 hours post surgery",
+      "description": "Quantification of blood loss as measured by drainage and hemoglobin levels."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Need for Blood Transfusion",
+        "time_frame": "Postoperative day 5",
+        "description": "Documenting any transfusion requirements within the postoperative period."
+      },
+      {
+        "measure": "Complications related to Surgery",
+        "time_frame": "30 days post surgery",
+        "description": "Monitoring for any adverse events associated with surgery, including infections or thromboembolic events."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "34",
+    "condition": ["Total Hip Arthroplasty", "Blood Loss"],
+    "arm_group": [
+      {
+        "arm_group_label": "Tranexamic Acid",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive tranexamic acid administered both preoperatively and intraoperatively."
+      },
+      {
+        "arm_group_label": "Control",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive saline solution as a placebo."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tranexamic Acid",
+        "description": "1 gram intravenous tranexamic acid preoperatively and 1 gram at the closure of the surgical site.",
+        "arm_group_label": "Tranexamic Acid",
+        "other_name": "Cyklokapron"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "1 gram intravenous saline at the same time points as the intervention group.",
+        "arm_group_label": "Control"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adults aged 18 years and older scheduled for elective total hip arthroplasty.\n\n  -  Patients with a history of osteoarthritis or similar degenerative conditions qualifying for the surgery.\n\nExclusion Criteria:\n\n  -  History of thromboembolic disease or current anticoagulant therapy.\n\n  -  Known allergies to tranexamic acid.\n\n  -  Significant comorbidities that would impair recovery.\n\n  -  Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Laura B. Simons, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Cleveland Clinic"
+      },
+      {
+        "last_name": "James M. Eldridge, PhD",
+        "role": "Co-Investigator",
+        "affiliation": "Cleveland Clinic"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Cleveland Clinic",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "November 15, 2018",
+    "study_first_posted": "March 1, 2019",
+    "last_update_posted": "January 15, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Cleveland Clinic",
+      "investigator_full_name": "Laura B. Simons",
+      "investigator_title": "MD"
+    },
+    "keyword": ["tranexamic acid", "total hip arthroplasty", "blood loss", "transfusion"],
+    "condition_browse": {
+      "mesh_term": ["Hemorrhage", "Hip Fractures", "Arthroplasties, Replacement, Hip"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Tranexamic Acid"
+    }
+  }
+}
+```

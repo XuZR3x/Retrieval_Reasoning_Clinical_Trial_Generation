@@ -1,0 +1,129 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "TOPOTECAN-COMBO-001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Phase II Study Evaluating Topotecan in Combination with Pembrolizumab for Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "Phase II Study Evaluating the Efficacy and Safety of Topotecan in Combination with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Research Network",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Oncology Research Network",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The main objective of this study is to evaluate the efficacy and safety of Topotecan in combination with Pembrolizumab in patients diagnosed with advanced Non-Small Cell Lung Cancer (NSCLC) who have received prior chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "Despite the advent of immunotherapy, advanced Non-Small Cell Lung Cancer remains a challenging entity in oncology with limited therapeutic options following standard chemotherapy regimens. Topotecan, a topoisomerase I inhibitor, has shown promise in various hematologic malignancies and in the treatment of certain solid tumors. Our hypothesis posits that the combination of Topotecan and Pembrolizumab will yield improved clinical outcomes due to enhanced immune modulation against tumor cells.\n\nHowever, preliminary results indicate that the pharmacokinetic profile of Topotecan might not be favorable when combined with checkpoint inhibitors like Pembrolizumab, leading to insufficient therapeutic efficacy coupled with pronounced myelosuppression, thereby compromising patient safety. Furthermore, the patient pool harbored extensive treatment histories, diminishing their overall treatment sensitivity and skewing efficacy data due to heterogeneity in the response.\n\nThe lack of effective biomarkers for patient stratification resulted in a non-selective patient recruitment process, which likely diluted treatment effects across the cohort. Additionally, the trial's dose escalation strategy for Topotecan and Pembrolizumab may have miscalibrated the dosing levels, leading to heightened toxicity without a demonstrable augmentation in anti-tumoral effects. These adverse events included significant gastrointestinal toxicity and hematological complications, significantly impairing patient retention and trial feasibility."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2010",
+    "completion_date": "December 2015",
+    "primary_completion_date": "June 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Assessment of overall response rate as defined by RECIST criteria.",
+      "time_frame": "Up to 24 months post-treatment"
+    }],
+    "secondary_outcome": [{
+      "measure": "Determination of progression-free survival and overall survival rates.",
+      "time_frame": "Up to 24 months post-treatment"
+    }, {
+      "measure": "Evaluation of adverse events incidence and severity.",
+      "time_frame": "Throughout the study duration"
+    }],
+    "number_of_arms": "1",
+    "enrollment": "80",
+    "condition": ["Non-Small Cell Lung Cancer", "Lung Neoplasm"],
+    "arm_group": {
+      "arm_group_label": "1",
+      "arm_group_type": "Experimental",
+      "description": "Treatment with Topotecan in combination with Pembrolizumab."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Topotecan",
+      "description": "Administration of 1.5 mg/m² IV on days 1-3 every 21 days.",
+      "arm_group_label": "1",
+      "other_name": "Hycamtin"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Pembrolizumab",
+      "description": "Administration of 200 mg IV every 3 weeks.",
+      "arm_group_label": "1",
+      "other_name": "Keytruda"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adult patients, aged 18 years and older, with a histologically confirmed diagnosis of advanced Non-Small Cell Lung Cancer.\n\n  -  Patients must have experienced disease progression following first-line chemotherapy.\n\n  -  Adequate organ function, defined as the following:\n    -  Absolute neutrophil count ≥ 1500/mm³\n    -  Platelet count ≥ 100,000/mm³\n    -  Hemoglobin ≥ 9 g/dL\n    -  Creatinine ≤ 1.5 mg/dL\n\n  -  Patients must provide written informed consent.\n\nExclusion Criteria:\n\n  -  History of severe hypersensitivity reactions to Pembrolizumab or Topotecan.\n\n  -  Any uncontrolled medical condition that would interfere with protocol adherence.\n\n  -  Pregnancy or breastfeeding.\n\n  -  Patients with other malignancies concurrently or within the past 3 years (excluding non-melanoma skin cancer)."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Tran, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Oncology Research Network"
+    },
+    "location": {
+      "facility": {
+        "name": "Oncology Clinical Trials Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94107",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2015",
+    "study_first_submitted": "October 20, 2009",
+    "study_first_submitted_qc": "October 21, 2009",
+    "study_first_posted": "October 22, 2009",
+    "last_update_submitted": "January 12, 2016",
+    "last_update_submitted_qc": "January 12, 2016",
+    "last_update_posted": "January 13, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Topotecan", "Pembrolizumab", "Lung Cancer", "Combination Therapy"],
+    "condition_browse": {
+      "mesh_term": [
+        "Lung Neoplasms",
+        "Carcinoma, Non-Small Cell Lung"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Topotecan", "Pembrolizumab"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

@@ -1,0 +1,209 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "SSL-2020",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Effectiveness of Warfarin in Chronic Venous Insufficiency",
+    "official_title": "A Randomized Control Trial to Evaluate the Efficacy of Warfarin in Patients with Chronic Venous Insufficiency (CVI)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Maxwell Institute of Cardiovascular Research",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Maxwell Institute of Cardiovascular Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Chronic venous insufficiency (CVI) affects millions worldwide, contributing to morbidity and impaired quality of life. This trial aimed to determine if anticoagulation with warfarin can significantly improve clinical outcomes in patients with CVI, focusing on symptom relief and incidence of complications."
+    },
+    "detailed_description": {
+      "textblock": "Chronic venous insufficiency (CVI) is characterized by inappropriate venous dilatation leading to increased venous pressure and consequent complications. Anticoagulation has theoretical benefits in this context by reducing thrombus formation and improving venous outflow. Despite these assumptions, prior studies yielded inconsistent results, suggesting a potential failure of warfarin in this domain. The current trial aimed to recruit 200 patients with a diagnosis of CVI for a 6-month intervention, with an even distribution into warfarin and placebo groups. A primary endpoint of symptomatic improvement as measured by the VAS (Visual Analog Scale) and secondary endpoints evaluating the incidence of thrombosis were pre-defined objectives."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate patient recruitment and concerns regarding safety outcomes.",
+    "start_date": "January 2011",
+    "completion_date": "July 2012",
+    "primary_completion_date": "July 2012",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Care Provider)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Symptom Severity as Measured by VAS",
+      "time_frame": "Measured at baseline, 3 months, and 6 months.",
+      "description": "The effectiveness of warfarin in reducing symptoms of CVI was assessed using the VAS scale."
+    },
+    "secondary_outcome": [{
+      "measure": "Incidence of Venous Thromboembolism (VTE)",
+      "time_frame": "Assessed throughout the study and until 6 months post-treatment.",
+      "description": "The number of participants who developed VTE during the study period was recorded."
+    }, {
+      "measure": "Quality of Life Scale",
+      "time_frame": "Measured at baseline, 3 months, and at study exit (6 months).",
+      "description": "Changes in quality of life scores assessed via questionnaires."
+    }, {
+      "measure": "Adverse Events Related to Bleeding",
+      "time_frame": "Monitoring over the entire treatment duration.",
+      "description": "All reported instances of major and minor bleeding from baseline to completion."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "34",
+    "condition": "Chronic Venous Insufficiency",
+    "arm_group": [{
+      "arm_group_label": "Warfarin",
+      "arm_group_type": "Active Comparator",
+      "description": "Participants in the warfarin arm received daily doses adjusted to maintain INR levels of 2-3."
+    }, {
+      "arm_group_label": "Placebo",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants in the placebo arm received a matching placebo."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Warfarin",
+      "description": "Anticoagulation with warfarin administered orally at a target INR of 2.0-3.0.",
+      "arm_group_label": "Warfarin"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "arm_group_label": "Placebo"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n - Age 18 or older.\r\n - Documented chronic venous insufficiency with clinical symptoms (pain, swelling).\r\n - Informed consent capacity.\r\n - ECG and lab tests confirming no contraindications to anticoagulation.\r\n\r\nExclusion Criteria:\r\n\r\n - Current pregnancy or lactation.\r\n - Active malignancy.\r\n - Known bleeding disorders.\r\n - Recent major surgery (within 6 months).\r\n - Prior treatment with direct oral anticoagulants."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Eleanor Hayes",
+      "role": "Principal Investigator",
+      "affiliation": "Maxwell Institute of Cardiovascular Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Maxwell Cardiovascular Center",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2014",
+    "study_first_submitted": "November 15, 2010",
+    "study_first_posted": "November 20, 2010",
+    "last_update_submitted": "April 1, 2014",
+    "last_update_posted": "April 2, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Venous Insufficiency", "Thromboembolism"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Warfarin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patient recruitment initiated in January 2011, but the trial was terminated in July 2012 due to insufficient enrollment attributed to safety concerns and competition from other direct oral anticoagulants.",
+        "pre_assignment_details": "Following identification and screening, a 2-week lead time was incorporated to allow for adequate baseline assessment prior to randomization."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+            "title": "Warfarin",
+            "description": "Subjects receiving warfarin for the treatment of CVI."
+          }, {
+            "title": "Placebo",
+            "description": "Subjects receiving placebo."
+          }]
+        },
+        "population": "34 subjects were enrolled ultimately; analysis limited due to early termination."
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Change in Symptom Severity as Measured by VAS",
+          "description": "Change in symptom severity measured by VAS.",
+          "group_list": {
+            "group": [{
+              "title": "Warfarin",
+              "description": "Subjects receiving warfarin."
+            }, {
+              "title": "Placebo",
+              "description": "Subjects receiving placebo."
+            }]
+          }
+        }, {
+          "type": "Secondary",
+          "title": "Incidence of Venous Thromboembolism (VTE)",
+          "description": "Incidence of VTE in both arms.",
+          "group_list": {
+            "group": [{
+              "title": "Warfarin",
+              "description": "Subjects receiving warfarin."
+            }, {
+              "title": "Placebo",
+              "description": "Subjects receiving placebo."
+            }]
+          }
+        }],
+        "reported_events": {
+          "time_frame": "Throughout the study duration.",
+          "group_list": {
+            "group": [{
+              "title": "Warfarin",
+              "description": "Bleeding events reported."
+            }, {
+              "title": "Placebo",
+              "description": "Adverse events monitored."
+            }]
+          },
+          "serious_events": {
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [{
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Serious adverse events",
+                    "counts": [2, 1]
+                  }
+                }
+              }]
+            }
+          }
+        }
+      },
+      "limitations_and_caveats": "The study's termination was primarily due to inadequate recruitment, which was influenced by competing anticoagulants and concerns regarding the safety profile of warfarin, coupled with insufficient clarity around clinical endpoints.",
+      "point_of_contact": {
+        "name_or_title": "Dr. Eleanor Hayes",
+        "organization": "Maxwell Institute of Cardiovascular Research",
+        "phone": "212-555-0123",
+        "email": "eleanor.hayes@maxwellinstitute.edu"
+      }
+    }
+  }
+}
+```

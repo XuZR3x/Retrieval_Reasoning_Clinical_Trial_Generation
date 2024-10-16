@@ -1,0 +1,141 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03234567"
+    },
+    "id_info": {
+      "org_study_id": "CIGE025A2308",
+      "nct_id": "NCT03234567"
+    },
+    "brief_title": "Evaluation of Omalizumab in Patients with Moderate-Severe Allergic Asthma",
+    "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Trial to Assess the Efficacy and Safety of Omalizumab in Patients with Moderate to Severe Allergic Asthma Uncontrolled on High-Dose Inhaled Corticosteroids",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Acme Pharmaceuticals Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Acme Pharmaceuticals Inc.",
+    "brief_summary": {
+      "textblock": "The primary objective of this trial was to investigate the efficacy and safety of omalizumab in reducing asthma exacerbations in patients with moderate to severe allergic asthma."
+    },
+    "detailed_description": {
+      "textblock": "Patients receiving stable doses of high-dose inhaled corticosteroids for at least 6 months were randomized to receive either omalizumab or placebo for 52 weeks in addition to their existing regimen. Omalizumab was administered via subcutaneous injection, with dosing determined by total IgE levels and body weight. The study aimed to elucidate the impact of omalizumab on exacerbation rates, pulmonary function, and health-related quality of life measures."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "March 2022",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Frequency of asthma exacerbations requiring oral corticosteroids",
+      "time_frame": "52 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Forced Expiratory Volume in 1 second (FEV1)",
+        "time_frame": "Baseline, 26 weeks, and 52 weeks"
+      },
+      {
+        "measure": "Quality of Life improvement measured by Asthma Quality of Life Questionnaire (AQLQ)",
+        "time_frame": "Baseline and 52 weeks"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "720",
+    "condition": "Allergic Asthma",
+    "arm_group": [
+      {
+        "arm_group_label": "Omalizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants in this group received subcutaneous omalizumab every 2 or 4 weeks based on a pre-established dosing table correlated with their baseline IgE levels."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants in this group received matching placebo injections administered every 2 or 4 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Omalizumab",
+        "description": "Administered subcutaneously based on patient body weight and serum IgE levels.",
+        "arm_group_label": "Omalizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 18 to 65 years with documented moderate to severe allergic asthma.\r\n- High-dose inhaled corticosteroids (≥800 µg/day of budesonide or equivalent) for the past 6 months.\r\n- Total IgE levels between 30 and 700 IU/ml.\r\n\r\nExclusion Criteria:\r\n- Previous treatment with omalizumab.\r\n- History of anaphylaxis or hypersensitivity reactions to omalizumab.\r\n- Severe co-morbid respiratory or cardiovascular disease.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Jane Doe",
+      "role": "Study Director",
+      "affiliation": "Acme Pharmaceuticals Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University Hospital",
+          "address": {
+            "city": "City A",
+            "state": "State A",
+            "country": "Country A"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Community Health Center",
+          "address": {
+            "city": "City B",
+            "state": "State B",
+            "country": "Country B"
+          }
+        }
+      }
+      // Additional centers would be listed here
+    ],
+    "location_countries": {
+      "country": "Multiple countries"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "March 15, 2018",
+    "study_first_submitted_qc": "March 17, 2018",
+    "study_first_posted": "March 20, 2018",
+    "last_update_submitted": "April 30, 2022",
+    "last_update_submitted_qc": "May 1, 2022",
+    "last_update_posted": "May 2, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Omalizumab", "IgE", "Allergic Asthma", "Exacerbation"],
+    "condition_browse": {
+      "mesh_term": "Asthma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Omalizumab"
+    }
+  }
+}
+```

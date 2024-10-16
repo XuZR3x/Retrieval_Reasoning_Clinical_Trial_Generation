@@ -1,0 +1,132 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01387455"
+    },
+    "id_info": {
+      "org_study_id": "ONC-2023-138",
+      "secondary_id": ["CDR0000120546", "NCI-2023-00667"],
+      "nct_id": "NCT01387455"
+    },
+    "brief_title": "Docetaxel Combined With Tailored Chemotherapy for Patients With Recurrent Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Docetaxel Followed by Individualized Chemotherapy Based on Molecular Profiling in Patients With Recurrent Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Comprehensive Cancer Network",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Merck & Co.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Comprehensive Cancer Network",
+    "brief_summary": {
+      "textblock": "This Phase II clinical trial evaluates the efficacy of docetaxel in combination with individualized chemotherapy regimens tailored according to identified molecular markers RRM1 and ERCC1 in patients with recurrent non-small cell lung cancer (NSCLC). The hypothesis posits that this personalized approach would maximize therapeutic outcomes while minimizing toxicity."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\n1. Assess the overall response rate of docetaxel followed by tailored chemotherapy regimens in patients with recurrent NSCLC.\r\n\r\n2. Evaluate the safety profile of this treatment regimen by monitoring toxicities per Common Terminology Criteria for Adverse Events (CTCAE) version 4.0.\r\n\r\nOUTLINE:\r\n\r\n- Phase I: Patients receive docetaxel IV on day 1 at a dosage of 75 mg/m². Following an assessment of treatment response, patients are divided into groups based on expression levels of RRM1 and ERCC1.\r\n- Phase II: Patients receive individualized chemotherapy regimens tailored to their tumor’s molecular profile, comprising combinations of either gemcitabine or carboplatin alongside the original docetaxel administration. Cycles repeat every 21 days in the absence of progression or unacceptable toxicity.\r\n\r\nPatients are monitored and followed-up every two months for one year post-treatment completion."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2011",
+    "primary_completion_date": "August 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of patients with an objective response (complete and partial response)",
+      "time_frame": "Up to 2 years"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "Up to 24 months"
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "Up to 24 months"
+      },
+      {
+        "measure": "Quality of life assessment using the EORTC QLQ-C30 scale",
+        "time_frame": "Up to 24 months"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "100",
+    "condition": "Recurrent Non-Small Cell Lung Cancer",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Administered intravenously at a dose of 75 mg/m² on day 1.",
+        "other_name": ["Taxotere"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "description": "Individualized dose based on molecular profiling.",
+        "other_name": ["Gemzar"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Individualized dose based on molecular profiling.",
+        "other_name": ["Paraplatin"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically or cytologically confirmed diagnosis of recurrent non-small cell lung cancer (NSCLC).\r\n- Documented progression after at least one line of prior chemotherapy.\r\n- Measurable disease per RECIST version 1.1.\r\n- RRM1 and ERCC1 molecular expressions must be assessed prior to enrollment.\r\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n- Adequate hepatic function (total bilirubin ≤ 1.5 times upper limit of normal, ALT/AST ≤ 2.5 times ULN).\r\n- Age ≥ 18 years and able to provide informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with docetaxel.\r\n- Concurrent or planned treatment with other investigational therapies.\r\n- Significant cardiovascular disease or other major comorbidities that would preclude participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "George T. Roberts",
+      "role": "Principal Investigator",
+      "affiliation": "National Comprehensive Cancer Network"
+    },
+    "location": {
+      "facility": {
+        "name": "NCCN Member Institutions",
+        "address": {
+          "city": "Various Locations",
+          "state": "Multiple States",
+          "zip": "N/A",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2021",
+    "study_first_submitted": "February 15, 2011",
+    "study_first_submitted_qc": "March 03, 2011",
+    "study_first_posted": "March 04, 2011",
+    "last_update_submitted": "October 12, 2021",
+    "last_update_posted": "October 14, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "contact_info": {
+        "name_or_title": "Research Coordinator",
+        "organization": "National Comprehensive Cancer Network",
+        "phone": "+1 202-555-0199",
+        "email": "info@nccn.org"
+      }
+    },
+    "keyword": ["Docetaxel", "Non-Small Cell Lung Cancer", "Molecular Profiles", "Personalized Chemotherapy"]
+  }
+}
+```

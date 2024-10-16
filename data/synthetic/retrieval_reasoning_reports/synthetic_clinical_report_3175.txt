@@ -1,0 +1,225 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03724345"
+        },
+        "id_info": {
+            "org_study_id": "ABC-2019-023",
+            "nct_id": "NCT03724345"
+        },
+        "brief_title": "Evaluating Anastrozole in Premenopausal Breast Cancer Patients Post-Chemotherapy",
+        "official_title": "A Phase II Study to Evaluate the Efficacy of Anastrozole in Post-Chemotherapy Induced Premenopausal Patients with Hormone-Receptor Positive Breast Cancer",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute",
+                "agency_class": "NIH"
+            }
+        },
+        "source": "National Cancer Institute",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to evaluate the efficacy of anastrozole in premenopausal women with hormone-receptor positive breast cancer who have lost ovarian function due to chemotherapy. Previous research indicated that anastrozole's effectiveness is potentially limited in this patient cohort due to complex hormonal dynamics post-chemotherapy. The study hypothesized that by controlling estrogen levels, anastrozole would inhibit tumor growth. However, patient recruitment was critically low."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "The study was terminated after only 45 subjects were enrolled owing to insufficient patient recruitment, which hindered statistical power.",
+        "start_date": "January 2019",
+        "completion_date": "June 2022",
+        "primary_completion_date": "December 2021",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Proportion of Patients Maintaining Estradiol Levels <20 pg/ml at 6 Months",
+            "time_frame": "6 months",
+            "description": "Sustained low estradiol levels will be indicative of effective suppression and potential therapeutic success."
+        },
+        "number_of_arms": "1",
+        "enrollment": "45",
+        "condition": "Breast Cancer",
+        "arm_group": {
+            "arm_group_label": "Anastrozole Treatment",
+            "arm_group_type": "Experimental"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Anastrozole",
+            "description": "1 mg tablet orally once daily for 6 months",
+            "arm_group_label": "Anastrozole Treatment",
+            "other_name": "Arimidex"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n\r\n- Female patients aged 18-55 years.\r\n- Histologically confirmed hormone-receptor positive breast cancer.\r\n- Chemotherapy-induced ovarian failure confirmed by elevated FSH and low estradiol levels.\r\n- No prior treatment with aromatase inhibitors.\r\n\r\nExclusion Criteria:\r\n\r\n- Ovarian removal surgery or any other endocrine therapy prior to enrollment.\r\n- Serious concurrent conditions that might interfere with treatment.",
+                "gender": "Female",
+                "minimum_age": "18 Years",
+                "maximum_age": "55 Years",
+                "healthy_volunteers": "No"
+            }
+        },
+        "overall_official": {
+            "last_name": "Jonathan T. Gitlin, MD",
+            "role": "Principal Investigator",
+            "affiliation": "National Cancer Institute"
+        },
+        "location": [{
+            "facility": {
+                "name": "National Cancer Institute Clinical Center",
+                "address": {
+                    "city": "Bethesda",
+                    "state": "Maryland",
+                    "zip": "20892",
+                    "country": "United States"
+                }
+            }
+        }],
+        "location_countries": {
+            "country": "United States"
+        },
+        "results_reference": {
+            "citation": "Gitlin JT, Chen M, Miller L, et al. Efficacy of Anastrozole in Chemotherapy-Induced Ovarian Failure in Women's Health. Breast Cancer Research and Treatment. 2023; 201(1):97-105.",
+            "PMID": "XYZ123456"
+        },
+        "verification_date": "April 2022",
+        "study_first_submitted": "November 10, 2018",
+        "study_first_submitted_qc": "November 12, 2018",
+        "study_first_posted": "November 15, 2018",
+        "last_update_submitted": "July 25, 2022",
+        "last_update_posted": "August 1, 2022",
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "National Cancer Institute",
+            "investigator_full_name": "Jonathan Gitlin",
+            "investigator_title": "Principal Investigator"
+        },
+        "keyword": "anastrozole, premenopausal breast cancer, estrogen suppression",
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        },
+        "intervention_browse": {
+            "mesh_term": "Anastrozole"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "Participants were recruited from multiple oncology clinics, but encountered significant barriers in patient recruitment.",
+                "pre_assignment_details": "Out of the 45 enrolled, only 32 initiated treatment due to variances in estradiol levels at screening."
+            },
+            "period_list": {
+                "period": {
+                    "title": "Overall Study",
+                    "milestone_list": {
+                        "milestone": [{
+                            "title": "STARTED",
+                            "participants_list": {
+                                "participants": [null]
+                            }
+                        },
+                        {
+                            "title": "COMPLETED",
+                            "participants_list": {
+                                "participants": [null]
+                            }
+                        },
+                        {
+                            "title": "NOT COMPLETED",
+                            "participants_list": {
+                                "participants": [null]
+                            }
+                        }]
+                    }
+                }
+            },
+            "baseline": {
+                "population": "Participants receiving Anastrozole treatment were monitored for hormonal levels and adverse effects.",
+                "group_list": {
+                    "group": [{
+                        "title": "Active Treatment",
+                        "description": "Participants were administered 1 mg of anastrozole daily."
+                    }]
+                },
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": {
+                            "count": [32]
+                        }
+                    }
+                },
+                "measure_list": {
+                    "measure": [{
+                        "title": "Age",
+                        "units": "years",
+                        "param": "Median",
+                        "dispersion": "Range 28-55"
+                    },
+                    {
+                        "title": "Estradiol Levels",
+                        "units": "pg/ml",
+                        "param": "Mean",
+                        "dispersion": "Variance"
+                    }]
+                }
+            },
+            "outcome_list": {
+                "outcome": [{
+                    "type": "Primary",
+                    "title": "Serum Estradiol Levels Post-Treatment",
+                    "description": "Determination of estradiol suppression efficacy after 6 months of anastrozole treatment.",
+                    "time_frame": "6 months",
+                    "population": "Patients completing treatment",
+                    "group_list": {
+                        "group": [{
+                            "title": "Anastrozole Treatment Efficacy",
+                            "description": "Evaluation of serum estradiol levels pre and post-intervention."
+                        }]
+                    }
+                }]
+            },
+            "reported_events": {
+                "group_list": {
+                    "group": [{
+                        "title": "Anastrozole Treatment",
+                        "description": "Anastrozole: 1 mg daily"
+                    }],
+                    "adverse_events": {
+                        "default_vocab": "CTCAE (4.0)",
+                        "category_list": {
+                            "category": [{
+                                "title": "Total Adverse Events",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Total Adverse Events",
+                                        "counts": null
+                                    }
+                                }
+                            }]
+                        }
+                    }
+                }
+            },
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+                "restrictive_agreement": "There is NOT an agreement that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            },
+            "limitations_and_caveats": "Due to insufficient recruitment, the trial was halted prematurely impacting the power to draw definitive conclusions.",
+            "point_of_contact": {
+                "name_or_title": "Dr. Jonathan Gitlin",
+                "organization": "National Cancer Institute Clinical Center",
+                "phone": "301-496-3500",
+                "email": "gitlinj@nih.gov"
+            }
+        }
+    }
+}
+```

@@ -1,0 +1,127 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03012345"
+    },
+    "id_info": {
+      "org_study_id": "AIO-1234",
+      "nct_id": "NCT03012345"
+    },
+    "brief_title": "Cabazitaxel in Patients With Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "official_title": "A Phase II Study of Cabazitaxel in Patients With Advanced Squamous Cell Carcinoma of the Head and Neck After Progression on Platinum-Based Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AIO Studien-gGmbH",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AIO Studien-gGmbH",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the efficacy and safety of cabazitaxel in patients with advanced squamous cell carcinoma of the head and neck (SCCHN) who have had disease progression following prior platinum-based chemotherapy. Despite the rationale for using cabazitaxel in this context, the study was terminated due to insufficient patient enrollment and lack of observable efficacy signals."
+    },
+    "detailed_description": {
+      "textblock": "Cabazitaxel, a taxane derivative, is postulated to exert antitumor effects via its ability to stabilize microtubules. This Phase II investigation was structured as a single-arm trial where participants with confirmed advanced SCCHN received cabazitaxel at a dosage of 25 mg/m² via intravenous infusion every three weeks. The primary endpoint focused on overall response rate, with secondary endpoints assessing progression-free survival, overall survival, and the frequency of adverse events.\r\n\r\nEnrollment was sluggish, with fewer than 10 patients participating over a two-year period which was insufficient to derive statistically significant conclusions about the drug's efficacy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated primarily due to insufficient patient enrollment and a lack of clinically meaningful efficacy signals in the studied population.",
+    "start_date": "March 2017",
+    "completion_date": "February 2021",
+    "primary_completion_date": "December 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "Every 3 cycles (approx. every 9 weeks)",
+      "description": "The overall response rate will be assessed as the proportion of patients exhibiting complete response (CR) or partial response (PR) according to RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Every 3 cycles (approx. every 9 weeks)",
+        "description": "Time from treatment initiation to the first documentation of disease progression or death."
+      },
+      {
+        "measure": "Overall Survival",
+        "time_frame": "At 12 months",
+        "description": "The percentage of patients alive at 12 months from study entry."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "During treatment period",
+        "description": "All adverse events will be recorded and classified according to NCI CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "6",
+    "condition": "Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "arm_group": {
+      "arm_group_label": "Cabazitaxel Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive cabazitaxel 25 mg/m² via intravenous infusion on Day 1 of each 21-day cycle."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Cabazitaxel",
+      "description": "Cabazitaxel 25 mg/m² administered as an intravenous infusion every three weeks until disease progression or unacceptable toxicity."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adult patients (≥ 18 years of age) with histologically confirmed squamous cell carcinoma of the head and neck.\r\n2. Patients must have had disease progression following at least one prior platinum-based chemotherapy regimen.\r\n3. Measurable disease as defined by RECIST 1.1.\r\n4. ECOG performance status 0-2.\r\n5. Adequate organ function as determined by laboratory tests.\r\n\r\nExclusion Criteria:\r\n1. History of severe hypersensitivity to cabazitaxel or other taxanes.\r\n2. Active uncontrolled infection.\r\n3. Prior treatment with another taxane agent.\r\n4. Leptomeningeal disease.\r\n5. Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michael Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "AIO Studien-gGmbH"
+    },
+    "location": {
+      "facility": {
+        "name": "University Hospital Leipzig",
+        "address": {
+          "city": "Leipzig",
+          "state": "Saxony",
+          "zip": "04103",
+          "country": "Germany"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Germany"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "January 12, 2017",
+    "study_first_submitted_qc": "January 15, 2017",
+    "study_first_posted": "January 20, 2017",
+    "last_update_submitted": "February 1, 2021",
+    "last_update_posted": "February 3, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["cabazitaxel", "head and neck cancer", "squamous cell carcinoma", "platinum-resistant"],
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Squamous Cell", "Disease Progression"]
+    }
+  }
+}
+```

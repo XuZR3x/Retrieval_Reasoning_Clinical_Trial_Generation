@@ -1,0 +1,155 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT04123456"
+        },
+        "id_info": {
+            "org_study_id": "NN304-1234",
+            "nct_id": "NCT04123456"
+        },
+        "brief_title": "Evaluation of Insulin Detemir for Glycemic Control in Overweight/Obese Adolescents with Type 2 Diabetes",
+        "acronym": "DIAL", 
+        "official_title": "A 24-week Multicenter, Randomized, Open-label Study of Insulin Detemir in Motivated Adolescents with Type 2 Diabetes Mellitus for Glycemic Control and Weight Management",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Novo Nordisk A/S",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Novo Nordisk A/S",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This trial is conducted in North America. The objective of this study is to assess the effectiveness of insulin detemir on glycemic control and weight management in overweight/obese adolescents with Type 2 Diabetes Mellitus who are currently on oral antidiabetic agents."
+        },
+        "overall_status": "Terminated",
+        "start_date": "January 2020",
+        "completion_date": "April 2021",
+        "primary_completion_date": "April 2021",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Mean Change in HbA1c from Baseline",
+            "time_frame": "Week 0 and Week 24",
+            "description": "To assess the estimated change in HbA1c from baseline to 24 weeks in adolescents using insulin detemir."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Change in Body Weight",
+                "time_frame": "Week 0 and Week 24",
+                "description": "To determine the estimated mean change in body weight from baseline to 24 weeks."
+            },
+            {
+                "measure": "Rate of Treatment-Emergent Adverse Events",
+                "time_frame": "Week 0 to Week 24",
+                "description": "To evaluate the safety of insulin detemir based on adverse events reported during the trial."
+            },
+            {
+                "measure": "Incidence of Hypoglycemic Episodes",
+                "time_frame": "Week 0 to Week 24",
+                "description": "To monitor the number of participants experiencing hypoglycemia during the study."
+            },
+            {
+                "measure": "Change in Fasting Plasma Glucose",
+                "time_frame": "Week 0 and Week 24",
+                "description": "To determine the change in fasting plasma glucose levels from baseline to 24 weeks."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "60",
+        "condition": ["Diabetes", "Diabetes Mellitus, Type 2"],
+        "arm_group": [
+            {
+                "arm_group_label": "Insulin Detemir Treatment",
+                "arm_group_type": "Experimental",
+                "description": "Participants receive subcutaneous insulin detemir for 24 weeks in conjunction with standard care."
+            },
+            {
+                "arm_group_label": "Control Group",
+                "arm_group_type": "Active Comparator",
+                "description": "Participants continue their current oral antidiabetic therapy without adding insulin detemir."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Insulin Detemir",
+                "description": "Insulin detemir will be administered subcutaneously once daily, with the dose tailored to individual insulin requirements."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n\r\n- Male or female adolescents aged 12-18 years with a clinical diagnosis of Type 2 diabetes for at least 6 months and inadequately controlled on maximally tolerated doses of oral antidiabetic medication.\r\n- Body Mass Index (BMI) > 85th percentile adjusted for age and sex.\r\n- HbA1c between 7.0% and 9.5% (with willing informed consent).\r\n\r\nExclusion Criteria:\r\n\r\n- Previous history of severe hypoglycemic episodes unresponsive to treatment.\r\n- History of diabetic ketoacidosis in the past 6 months.\r\n- Receipt of any systemic corticosteroids or medications affecting glucose metabolism within the last 3 months."
+            },
+            "gender": "All",
+            "minimum_age": "12 Years",
+            "maximum_age": "18 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Smith",
+            "role": "Study Director",
+            "affiliation": "Novo Nordisk A/S"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "University Hospital",
+                    "address": {
+                        "city": "San Francisco",
+                        "state": "California",
+                        "zip": "94102",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Children's Hospital",
+                    "address": {
+                        "city": "Boston",
+                        "state": "Massachusetts",
+                        "zip": "02115",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "verification_date": "October 2023",
+        "study_first_submitted": "October 1, 2019",
+        "study_first_submitted_qc": "October 1, 2019",
+        "study_first_posted": "October 15, 2019",
+        "last_update_submitted": "September 30, 2023",
+        "last_update_posted": "October 10, 2023",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": [
+                "Diabetes Mellitus",
+                "Diabetes Mellitus, Type 2"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": "Insulin Detemir"
+        },
+        "limitations_and_caveats": "The trial was terminated due to insufficient participant recruitment, which led to challenges in achieving an appropriate sample size necessary for drawing definitive conclusions about treatment efficacy. Additionally, the combination of ineffective weight management strategies and high incidence of treatment-emergent adverse events contributed to participant dropouts and protocol adherence issues.",
+        "point_of_contact": {
+            "name_or_title": "Clinical Trial Team",
+            "organization": "Novo Nordisk A/S",
+            "email": "clinicaltrials@novonordisk.com"
+        }
+    }
+}
+```

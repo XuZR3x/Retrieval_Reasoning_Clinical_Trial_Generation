@@ -1,0 +1,465 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 18, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2011-02123",
+      "secondary_id": ["NCI-2011-02123", "SWOG-09123", "CDR0001234567", "SWOG-1234", "S1234", "U10CA123456", "U10CA098765"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Cixutumumab and Paclitaxel in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase 2 Study of Anti-IGF-1R Monoclonal Antibody Cixutumumab Combined With Paclitaxel in Patients With Metastatic Non-Small Cell Lung Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial aimed to investigate the safety and efficacy of cixutumumab in combination with paclitaxel in patients with metastatic non-small cell lung cancer (NSCLC). It was hypothesized that the blockade of the IGF-1R pathway could provide a synergistic effect when paired with standard chemotherapeutic agents. However, the study failed to demonstrate a significant improvement in clinical outcomes."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the progression-free survival (PFS) of cixutumumab plus paclitaxel compared to paclitaxel alone in patients with advanced NSCLC.\r\n\r\nII. To assess the overall survival (OS) and response rates associated with the inclusion of cixutumumab in the treatment regimen.\r\n\r\nIII. To evaluate the safety profile of cixutumumab in conjunction with paclitaxel. \r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To identify predictive biomarkers for assessing patient responses to cixutumumab, particularly focusing on IGF-1R expression levels and associated pathways.\r\n\r\nII. To quantify adverse events related to treatment to ascertain tolerability and any potential contraindications. \r\n\r\nOUTLINE: Patients were randomized to receive either paclitaxel alone or in combination with cixutumumab, with treatment cycles continuing until disease progression or unacceptable toxicity occurred.\r\n\r\nArm I: Paclitaxel 80 mg/m^2 IV on days 1, 8, and 15 every 28 days.\r\n\r\nArm II: Cixutumumab 10 mg/kg IV on days 1 and 15 and paclitaxel as in Arm I."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2011",
+    "completion_date": "December 2015",
+    "primary_completion_date": "October 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-free survival",
+      "time_frame": "assessed every 3 months for 2 years after registration",
+      "description": "PFS defined as the time from randomization to the date of progression or death. Kaplan-Meier method used to estimate survival rates."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival",
+        "time_frame": "assessed every 3 months for 2 years after registration",
+        "description": "OS calculated from randomization to death. Kaplan-Meier method utilized for analysis."
+      },
+      {
+        "measure": "Objective response rate",
+        "time_frame": "assessed every 8 weeks while on treatment, then every 3 months for 2 years",
+        "description": "Response defined according to RECIST criteria. Objective response recorded as CR and PR."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": [
+      "Metastatic Non-Small Cell Lung Cancer",
+      "Stage IV Lung Cancer"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I (Paclitaxel)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive paclitaxel IV over 1 hour on days 1, 8, and 15 of every 28-day cycle."
+      },
+      {
+        "arm_group_label": "Arm II (Cixutumumab, Paclitaxel)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive cixutumumab IV over 1 hour on days 1 and 15, in conjunction with paclitaxel."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cixutumumab",
+        "description": "Given IV",
+        "arm_group_label": "Arm II (Cixutumumab, Paclitaxel)",
+        "other_name": [
+          "Anti-IGF-1R Recombinant Monoclonal Antibody IMC-A12",
+          "IMC-A12"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Given IV",
+        "arm_group_label": [
+          "Arm I (Paclitaxel)",
+          "Arm II (Cixutumumab, Paclitaxel)"
+        ],
+        "other_name": [
+          "Taxol",
+          "Paclitaxel Injection"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically or cytologically confirmed non-small cell lung cancer (NSCLC).\r\n- Metastatic disease with measurable lesions.\r\n- Prior systemic therapy with disease progression confirmed.\r\n- Performance status of 0-2 on the ECOG scale.\r\n- Adequate organ function, including leukocyte and platelet counts.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior treatment with cixutumumab or other IGF-1R inhibitors.\r\n- Uncontrolled comorbidities that pose risks for participation.\r\n- Recent major surgery or unresolved toxicity from prior treatments."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Angela Thompson",
+      "role": "Principal Investigator",
+      "affiliation": "ECOG-ACRIN Cancer Research Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Institutes of Health Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2016",
+    "study_first_submitted": "November 15, 2010",
+    "study_first_submitted_qc": "November 15, 2010",
+    "study_first_posted": "November 16, 2010",
+    "results_first_submitted": "March 10, 2015",
+    "results_first_submitted_qc": "March 10, 2015",
+    "results_first_posted": "March 11, 2015",
+    "last_update_submitted": "July 15, 2024",
+    "last_update_posted": "July 16, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Cixutumumab", "Paclitaxel", "Monoclonal Antibodies"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (Paclitaxel)",
+              "description": "Patients receive paclitaxel IV over 1 hour at a dose of 80 mg/m^2."
+            },
+            {
+              "title": "Arm II (Cixutumumab, Paclitaxel)",
+              "description": "Patients receive cixutumumab IV followed by paclitaxel as above."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Lack of Efficacy",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Eligibility based on treatment compliance and measurable disease assessment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (Paclitaxel)",
+              "description": "Standard regimen of paclitaxel administration."
+            },
+            {
+              "title": "Arm II (Cixutumumab, Paclitaxel)",
+              "description": "Combined treatment approach using cixutumumab."
+            },
+            {
+              "title": "Total",
+              "description": "Aggregate of cohort results."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [null, null, null]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [null, null, null]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [null, null, null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Progression-free Survival",
+              "description": "Defined from treatment initiation until documented progression.",
+              "time_frame": "assessed every 3 months for 2 years",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Arm I (Paclitaxel)",
+                    "description": "Standard treatment evaluation."
+                  },
+                  {
+                    "title": "Arm II (Cixutumumab, Paclitaxel)",
+                    "description": "New treatment arm monitoring."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Progression-free Survival Estimate",
+                "description": "Calculated using Kaplan-Meier method by comparing two arms.",
+                "units": "months",
+                "param": "Median",
+                "dispersion": "90% Confidence Interval"
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival",
+              "description": "Calculated from start of treatment to death.",
+              "time_frame": "assessed every 3 months for 2 years",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Arm I (Paclitaxel)",
+                    "description": "Standard evaluation of survival rates."
+                  },
+                  {
+                    "title": "Arm II (Cixutumumab, Paclitaxel)",
+                    "description": "Combined therapy survival analysis."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Mean Overall Survival",
+                "description": "Time from randomization to study exit.",
+                "units": "months",
+                "param": "Average",
+                "dispersion": "90% Confidence Interval"
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Objective Response Rate",
+              "description": "Proportion of patients achieving CR or PR defined by RECIST criteria.",
+              "time_frame": "assessed every 8 weeks",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Arm I (Paclitaxel)",
+                    "description": "Assessing response rates of traditional chemotherapy."
+                  },
+                  {
+                    "title": "Arm II (Cixutumumab, Paclitaxel)",
+                    "description": "Assessing response rates of combination therapy."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Response Rate Percentage",
+                "description": "Calculated as total confirmed responses over total enrolled patients.",
+                "units": "percentage",
+                "param": "Completed",
+                "dispersion": "90% Confidence Interval"
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Arm I (Paclitaxel)",
+                "description": "Monitoring arm focused on standard treatment."
+              },
+              {
+                "title": "Arm II (Cixutumumab, Paclitaxel)",
+                "description": "Monitoring arm focused on new combination therapy."
+              }
+            ]
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE 4.0",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null, null]
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Nausea",
+                        "counts": [null, null]
+                      },
+                      {
+                        "sub_title": "Vomiting",
+                        "counts": [null, null]
+                      },
+                      {
+                        "sub_title": "Diarrhea",
+                        "counts": [null, null]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_vocab": "CTCAE 4.0",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": [null, null]
+                    }
+                  }
+                },
+                {
+                  "title": "Metabolism and nutrition disorders",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Hyperglycemia",
+                        "counts": [null, null]
+                      },
+                      {
+                        "sub_title": "Hypoglycemia",
+                        "counts": [null, null]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo."
+        },
+        "point_of_contact": {
+          "name_or_title": "Study Statistician",
+          "organization": "SWOG Cancer Research Network",
+          "phone": "206-667-8901"
+        }
+      }
+    }
+  }
+}
+```

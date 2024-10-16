@@ -1,0 +1,167 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02065294"
+    },
+    "id_info": {
+      "org_study_id": "VINFIND-2020",
+      "nct_id": "NCT02065294"
+    },
+    "brief_title": "Vinflunine in Combination With Atezolizumab for Advanced Urothelial Carcinoma: A Clinical Trial",
+    "official_title": "A Phase II Study of Vinflunine in Combination With Atezolizumab for Patients With Unresectable Locally Advanced or Metastatic Urothelial Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Federal"
+      },
+      "collaborator": {
+        "agency": "Genentech, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical study aims to evaluate the efficacy and safety of vinflunine in combination with atezolizumab in patients with unresectable locally advanced or metastatic urothelial carcinoma. Given the established role of both agents in treating this malignancy, this trial assesses potential synergistic effects on treatment outcomes."
+    },
+    "detailed_description": {
+      "textblock": "Participants will receive vinflunine as a 320 mg/m² intravenous (IV) infusion, administered every 21 days, in conjunction with atezolizumab at 1200 mg IV every 3 weeks. This combination approach aims to leverage vinflunine's chemotherapeutic action alongside the immune checkpoint inhibition provided by atezolizumab, potentially enhancing overall therapeutic efficacy for advanced urothelial carcinoma."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "September 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "1 year",
+      "description": "Evaluating the percentage of patients experiencing complete or partial response using RECIST v1.1 criteria during the treatment duration."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "1 year",
+        "description": "Duration of time from treatment initiation until disease progression or death."
+      },
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "1 year",
+        "description": "Time between initial response to treatment and first observation of disease progression."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "2 years",
+        "description": "Time from initiation of treatment until death from any cause."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Carcinoma, Transitional Cell",
+    "arm_group": [
+      {
+        "arm_group_label": "Vinflunine + Atezolizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive vinflunine 320 mg/m² IV infusion every 21 days combined with atezolizumab 1200 mg IV every 3 weeks."
+      },
+      {
+        "arm_group_label": "Atezolizumab Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive atezolizumab 1200 mg IV every 3 weeks without vinflunine."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vinflunine",
+        "description": "Vinflunine 320 mg/m² IV infusion every 21 days.",
+        "arm_group_label": "Vinflunine + Atezolizumab",
+        "other_name": "Javlor"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Atezolizumab",
+        "description": "Atezolizumab 1200 mg IV every 3 weeks.",
+        "arm_group_label": "Vinflunine + Atezolizumab",
+        "other_name": "Tecentriq"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Adults aged 18 years or older.\r\n  - Diagnosed with unresectable locally advanced or metastatic urothelial carcinoma.\r\n  - Must have measurable disease as defined by RECIST v1.1.\r\n  - Adequate organ function (liver, renal, and hematological).\r\n  - Patients must provide written informed consent prior to enrollment.\r\n\r\nExclusion Criteria:\r\n  - Prior treatment with vinflunine or atezolizumab.\r\n  - Active autoimmune disease or history of autoimmune disease requiring systemic treatment.\r\n  - Known brain metastases or leptomeningeal involvement.\r\n  - Persistent toxicities (≥ grade 2) from previous treatments.\r\n  - Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah Miller, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Cancer Institute",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2023",
+    "study_first_submitted": "February 15, 2020",
+    "study_first_posted": "February 20, 2020",
+    "last_update_submitted": "August 15, 2023",
+    "last_update_posted": "September 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": ["Urothelial carcinoma", "Vinflunine", "Atezolizumab", "Immunotherapy", "Combination therapy"],
+    "condition_browse": {
+      "mesh_term": ["Urothelial Carcinoma", "Transitional Cell Carcinoma"]
+    }
+  }
+}
+```

@@ -1,0 +1,131 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02018395"
+    },
+    "id_info": {
+      "org_study_id": "CT-01234",
+      "secondary_id": "Carvedilol-Heart-02",
+      "nct_id": "NCT02018395"
+    },
+    "brief_title": "Impact of Carvedilol on Heart Failure Outcomes in Patients With Reduced Ejection Fraction",
+    "acronym": "CARV-HEART",
+    "official_title": "A Randomized Controlled Trial to Assess the Efficacy of Carvedilol in Patients With Heart Failure and Reduced Left Ventricular Ejection Fraction: A Multicenter Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiology Research Group, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Cardiology Research Group, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The aim of this study is to evaluate the effects of carvedilol on clinical outcomes in patients with heart failure and reduced ejection fraction (HFrEF). Carvedilol, a non-selective beta-adrenergic blocker, is hypothesized to improve heart function by simultaneously reducing neurohormonal activation and oxidative stress, fostering a favorable cardiac remodeling process."
+    },
+    "detailed_description": {
+      "textblock": "This randomized controlled clinical trial enrolled 500 patients diagnosed with heart failure and LVEF ≤ 40%. The trial employed rigorous inclusion/exclusion criteria, identifying suitable participants with established symptomatic heart failure. Subjects were allocated to receive either carvedilol or standard therapy for a duration of 12 months. Dosage for carvedilol was initiated at 3.125 mg twice daily, with titration to 25 mg twice daily as tolerated, following a detailed titration protocol to ensure optimal therapeutic levels. Cardiac function was assessed at 3, 6, and 12 months through echocardiography considering LVEF as the primary outcome."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2014",
+    "completion_date": "September 2016",
+    "primary_completion_date": "September 2016",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Left Ventricular Ejection Fraction (LVEF) (%) at 12 months",
+      "time_frame": "12 months",
+      "description": "The primary endpoint is the change in LVEF from baseline to 12 months, assessed by echocardiogram."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Hospitalization due to heart failure exacerbations",
+        "time_frame": "Up to 12 months",
+        "description": "Number of patients hospitalized due to worsening heart failure during the study period."
+      },
+      {
+        "measure": "Quality of Life using the Kansas City Cardiomyopathy Questionnaire (KCCQ)",
+        "time_frame": "6 and 12 months",
+        "description": "Assessment of quality of life at 6 and 12 months, based on KCCQ scores."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": ["Heart Failure", "Reduced Ejection Fraction"],
+    "arm_group": [
+      {
+        "arm_group_label": "Carvedilol Treatment",
+        "description": "Patients receive carvedilol titrated from 3.125 mg to a maximum of 25 mg twice daily."
+      },
+      {
+        "arm_group_label": "Standard Therapy Control",
+        "description": "Patients receive standard therapy for heart failure without the use of carvedilol."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Carvedilol",
+      "description": "Carvedilol administered at doses starting from 3.125 mg twice daily, titrated to a maximum of 25 mg twice daily."
+    },
+    "eligibility": {
+      "study_pop": {
+        "textblock": "Patients aged 18-85 with HFrEF (LVEF ≤ 40%) and symptomatic heart failure."
+      },
+      "sampling_method": "Probability Sample",
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Diagnosis of heart failure with LVEF ≤ 40%.\r\n2. Age 18 years or older.\r\n3. Symptoms of heart failure (NYHA Class II - IV).\r\n4. Signed informed consent.\r\n\r\nExclusion Criteria:\r\n1. Recent myocardial infarction (within 3 months).\r\n2. Severe hepatic or renal impairment.\r\n3. History of hypersensitivity to carvedilol or other beta-blockers.\r\n4. Participation in another clinical trial involving experimental drugs."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "85 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elena M. Popescu, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiology Research Group, Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiology Unit, General University Hospital",
+        "address": {
+          "city": "Edmonton",
+          "state": "Alberta",
+          "zip": "T5K 0J1",
+          "country": "Canada"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Canada"
+    },
+    "verification_date": "October 2023",
+    "study_first_submitted": "October 15, 2013",
+    "study_first_submitted_qc": "October 17, 2013",
+    "study_first_posted": "October 20, 2013",
+    "last_update_submitted": "September 21, 2023",
+    "last_update_submitted_qc": "September 24, 2023",
+    "last_update_posted": "October 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Heart Failure", "Reduced Ejection Fraction", "Carvedilol", "Beta-Blocker", "Cardiac Remodeling"],
+    "condition_browse": {
+      "mesh_term": ["Heart Failure", "Heart Failure, Systolic"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Carvedilol"]
+    }
+  }
+}
+```

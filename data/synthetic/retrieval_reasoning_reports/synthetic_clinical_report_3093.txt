@@ -1,0 +1,205 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567891"
+    },
+    "id_info": {
+      "org_study_id": "NN2273-2089",
+      "nct_id": "NCT04567891"
+    },
+    "brief_title": "Efficacy of Liraglutide for Weight Management and Glycemic Control in Obese Individuals with Type 2 Diabetes",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial Assessing the Efficacy and Safety of Liraglutide for Weight Management and Glycemic Control in Obese Adults with Type 2 Diabetes: A 24-Week Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novo Nordisk A/S",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novo Nordisk A/S",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of liraglutide in aiding weight loss and improving glycemic control in obese adults with type 2 diabetes over a 24-week period. The primary focus was on determining the reduction in body weight and changes in HbA1c."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of significant improvements in primary outcome measures and challenges in recruitment of eligible participants resulted in poor trial progression.",
+    "start_date": "January 15, 2020",
+    "completion_date": "February 05, 2022",
+    "primary_completion_date": "January 25, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change from baseline in body weight",
+      "time_frame": "Week 0 to Week 24",
+      "description": "Weight change assessed at 24 weeks using standard scale."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change from baseline in HbA1c",
+        "time_frame": "Week 0 to Week 24",
+        "description": "Percentage point change in HbA1c measured in laboratory setting."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "Throughout the trial period",
+        "description": "Documentation of any serious or non-serious adverse events experienced by participants."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": ["Diabetes", "Obesity", "Diabetes Mellitus, Type 2"],
+    "arm_group": [
+      {
+        "arm_group_label": "Liraglutide 3.0 mg",
+        "arm_group_type": "Experimental",
+        "description": "Liraglutide administered subcutaneously at a fixed dose of 3.0 mg once daily for 24 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered subcutaneously once daily for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Liraglutide",
+        "description": "Administered via subcutaneous injection, with a flexible dose adjustment based on individual response."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered to ensure blinding."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Obese adults (BMI ≥ 30 kg/m²) aged 18-65\n- Type 2 diabetes diagnosis treated with metformin for at least 3 months\n\nExclusion Criteria:\n\n- History of pancreatitis or pancreatitis symptoms\n- Previous or current treatment with GLP-1 receptor agonists\n- Contraindications to liraglutide or severe coexisting medical conditions"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Greene",
+      "role": "Principal Investigator",
+      "affiliation": "Regional Health Center, Minneapolis"
+    },
+    "location": {
+      "facility": {
+        "name": "Regional Health Center",
+        "address": {
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55403",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2022",
+    "study_first_submitted": "October 12, 2019",
+    "study_first_submitted_qc": "October 15, 2019",
+    "study_first_posted": "November 02, 2019",
+    "last_update_submitted": "January 02, 2022",
+    "last_update_posted": "January 05, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Obesity", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Liraglutide"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Eventual trial conducted at a single site with significant hurdles in recruiting a targeted participant population adequately qualified as per eligibility criteria.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Liraglutide Group",
+              "description": "Participants receiving liraglutide treatment."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving placebo treatment."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Liraglutide Group",
+              "description": "Participants receiving liraglutide treatment."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving placebo treatment."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all participants enrolled in the study."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in Body Weight",
+            "description": "Assessed change in weight from baseline to completion at week 24.",
+            "time_frame": "Week 0 to Week 24"
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in HbA1c",
+            "description": "Percentage change from baseline HbA1c to end of treatment.",
+            "time_frame": "Week 0 to Week 24"
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Adverse Events",
+            "description": "Monitoring and recording every adverse event occurring during the trial.",
+            "time_frame": "Throughout the study period"
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "12 weeks",
+        "desc": "Significant adverse events noted included gastrointestinal disturbances and instances of hypoglycemia, leading to participant concerns regarding treatment tolerance."
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 18.0",
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "Novo Nordisk retains publication rights to prioritize data protection and analysis."
+      },
+      "point_of_contact": {
+        "name_or_title": "Public Access to Clinical Trials",
+        "organization": "Novo Nordisk A/S",
+        "email": "clinicaltrials@novonordisk.com"
+      }
+    }
+  }
+}
+```

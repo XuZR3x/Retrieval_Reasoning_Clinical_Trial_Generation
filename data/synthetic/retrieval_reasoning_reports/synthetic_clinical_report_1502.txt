@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03847509"
+    },
+    "id_info": {
+      "org_study_id": "CR023455",
+      "secondary_id": "DIAMOND",
+      "nct_id": "NCT03847509"
+    },
+    "brief_title": "A Phase III Trial Evaluating the Efficacy and Safety of Darunavir/ritonavir in Combination With an Individually Optimized Background Regimen in Patients With HIV-1 Undetectable Viral Load and Drug Resistance",
+    "official_title": "DIAMOND: A Multi-Center, Open-Label Study to Evaluate the Efficacy and Safety of Darunavir (DRV) Boosted With Ritonavir in Combination With an Optimized Background Regimen in HIV-1 Infected Patients With Prior Treatment Experience and Detectable Viral Load",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Janssen Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Janssen Pharmaceuticals, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to assess the effectiveness of darunavir/ritonavir when combined with an individually optimized background regimen in HIV-1 infected patients with prior treatment experience and detectable viral load. The study seeks to demonstrate sustained virologic response (SVR) and evaluate tolerability profiles over a 48-week period."
+    },
+    "detailed_description": {
+      "textblock": "In this phase III, multicenter, open-label trial, participants with HIV-1 who had experienced treatment failure on their previous regimen and presented with viral loads >50 copies/mL were enrolled. All subjects underwent extensive resistance testing prior to initiating the study regimen, ensuring the incorporation of their treatment history into an individualized optimized background regimen (OBR). The OBR included at least two additional antiretroviral drugs tailored based on resistance profiles. Participants received darunavir 800 mg once daily, boosted with ritonavir 100 mg, for 48 weeks combined with the OBR. The primary endpoint was the proportion of patients achieving undetectable viral loads (<50 copies/mL) at week 48, assessed by FDA snapshot methodology. Secondary endpoints included safety profiles, adverse events reporting, and changes in CD4+ cell counts. Regular virological monitoring every 4 weeks and comprehensive safety assessments supported early intervention for any emergent adverse events or treatment failures."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 2019",
+    "completion_date": "December 2021",
+    "primary_completion_date": "September 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of Patients Achieving Viral Load <50 Copies/mL",
+      "time_frame": "Week 48",
+      "description": "The primary efficacy endpoint was defined as the percentage of enrolled subjects achieving undetectable viral load levels (<50 copies/mL) at 48 weeks of treatment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in CD4+ Cell Count from Baseline to Week 48",
+        "time_frame": "Baseline and Week 48",
+        "description": "Assessment of the change in CD4+ cell count, demonstrating immune reconstitution and treatment efficacy."
+      },
+      {
+        "measure": "Number of Participants with Treatment-Emergent Adverse Events",
+        "time_frame": "Throughout the treatment period",
+        "description": "Monitoring the safety profile of darunavir/ritonavir, focusing on adverse events classified as grade 3 or higher."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "500",
+    "condition": ["HIV", "Infectious"],
+    "arm_group": {
+      "arm_group_label": "1",
+      "arm_group_type": "Experimental",
+      "description": "Darunavir (800 mg) and ritonavir (100 mg) once daily alongside an individually optimized background regimen."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "darunavir",
+        "description": "800 mg once daily for 48 weeks",
+        "arm_group_label": "1"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "ritonavir",
+        "description": "100 mg once daily for 48 weeks",
+        "arm_group_label": "1"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Confirmed HIV-1 infection with documented prior antiretroviral treatment\r\n  - Plasma HIV RNA > 50 copies/mL at screening\r\n  - Willing to provide informed consent and comply with the study protocol\r\n\r\nExclusion Criteria:\r\n\r\n  - Prior treatment with darunavir or participation in another clinical study\n  - Presence of active AIDS defining conditions, or untreated opportunistic infections\r\n  - Severe hepatic impairment or drug hypersensitivity reactions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Chen",
+      "role": "Study Director",
+      "affiliation": "Janssen Pharmaceuticals, Inc."
+    },
+    "location": [{
+        "facility": {
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Miami",
+            "state": "Florida",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "June 15, 2019",
+    "study_first_posted": "June 16, 2019",
+    "results_first_submitted": "December 20, 2021",
+    "results_first_posted": "January 10, 2022"
+  }
+}
+```

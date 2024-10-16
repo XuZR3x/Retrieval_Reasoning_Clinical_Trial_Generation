@@ -1,0 +1,141 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04232678"
+    },
+    "id_info": {
+      "org_study_id": "RAM-442",
+      "nct_id": "NCT04232678"
+    },
+    "brief_title": "Efficacy of Ramipril in Patients with Diabetic Peripheral Neuropathy",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy of Ramipril in Ameliorating Clinical Symptoms and Nerve Function in Patients with Diabetic Peripheral Neuropathy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Research Institute of Diabetes",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Research Institute of Diabetes",
+    "brief_summary": {
+      "textblock": "Diabetic peripheral neuropathy (DPN) is a debilitating complication of diabetes mellitus that leads to significant morbidity due to pain, sensory loss, and impaired mobility. Recent studies suggest that the renin-angiotensin system may contribute to the pathophysiology of DPN.\n\nThis trial investigates the hypothesized benefit of the angiotensin-converting enzyme inhibitor, ramipril, on clinical symptoms and nerve function in patients diagnosed with DPN, thereby potentially offering a novel therapeutic approach beyond current standard care."
+    },
+    "overall_status": "Completed",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change in neuropathic pain severity assessed by the Neuropathic Pain Scale (NPS)"
+      },
+      {
+        "measure": "Change in nerve conduction velocity measured via electromyography (EMG)"
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Change in quality of life measured by the Short Form Health Survey (SF-36)"
+      },
+      {
+        "measure": "Incidence of adverse events related to ramipril use"
+      }
+    ],
+    "enrollment": "150",
+    "condition": "Diabetic Peripheral Neuropathy",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Ramipril"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Diagnosis of type 2 diabetes mellitus for at least 5 years\n  - Diagnosed diabetic peripheral neuropathy characterized by neuropathic pain or sensory loss\n  - Stable diabetes management with no significant changes in medication for the past 3 months\n\nExclusion Criteria:\n\n  - History of renal impairment or significant hepatic disease\n  - Concurrent use of other ACE inhibitors or angiotensin receptor blockers\n  - Pregnant or lactating individuals",
+        "gender": "All",
+        "minimum_age": "30 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Margaret L. O'Connor, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Research Institute of Diabetes"
+    },
+    "location": {
+      "facility": {
+        "name": "Diabetes Research Center",
+        "address": {
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92101",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "O'Connor ML, et al. Ramipril improves clinical symptoms and nerve conduction in patients with diabetic peripheral neuropathy: a randomized controlled trial. Diabetes Care. 2023;46(3):489-495. doi: 10.2337/dc22-0883.",
+      "PMID": "35605693"
+    },
+    "verification_date": "May 2024",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_submitted_qc": "January 16, 2020",
+    "study_first_posted": "January 20, 2020",
+    "last_update_submitted": "April 1, 2024",
+    "last_update_submitted_qc": "April 1, 2024",
+    "last_update_posted": "April 2, 2024",
+    "condition_browse": {
+      "mesh_term": ["Diabetic Peripheral Neuropathy", "Diabetes Mellitus"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Ramipril"
+    },
+    "results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 150 participants were enrolled in a randomized, double-blind, placebo-controlled trial design.",
+        "pre_assignment_details": "Eligible participants were randomly assigned in a double-blind fashion to receive either ramipril or placebo."
+      },
+      "baseline": {
+        "characteristics": {
+          "total": "150",
+          "fusion": {
+            "Group1": {
+              "characteristics_details": "Patients receiving Ramipril, mean age 57, female 60%, mean duration of diabetes 12 years."
+            },
+            "Group2": {
+              "characteristics_details": "Patients receiving placebo, mean age 56, female 55%, mean duration of diabetes 11 years."
+            }
+          }
+        }
+      },
+      "outcome": {
+        "primary": [
+          {
+            "measure": "The average reduction in NPS score was measured at 6 weeks, indicating significant alleviation of neuropathic pain in the Ramipril group vs. placebo (p < 0.01)."
+          },
+          {
+            "measure": "An increase in nerve conduction velocity of 5 m/s was noted at 12 weeks in the Ramipril group, versus no significant change in the placebo group (p < 0.05)."
+          }
+        ],
+        "secondary": [
+          {
+            "measure": "Improvement in the SF-36 scores were significantly higher at 24 weeks in the Ramipril cohort (p < 0.01)."
+          },
+          {
+            "measure": "Adverse events were similar across both groups, affirming Ramipril's favorable safety profile."
+          }
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,318 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT02414638"
+        },
+        "id_info": {
+            "org_study_id": "LTS11556",
+            "secondary_id": "2015-001234-46",
+            "nct_id": "NCT02414638"
+        },
+        "brief_title": "Effectiveness and Safety Evaluation of Sarilumab in Patients with Moderate to Severe Rheumatoid Arthritis Inadequately Controlled by Methotrexate",
+        "acronym": "RHEUM-SAR",
+        "official_title": "A Randomized, Multicenter, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Sarilumab in Patients With Moderate to Severe Rheumatoid Arthritis Inadequately Controlled by Methotrexate",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Sanofi",
+                "agency_class": "Industry"
+            },
+            "collaborator": {
+                "agency": "Regeneron Pharmaceuticals",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Sanofi",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "Primary Objective:\r\n\r\n - To evaluate the clinical efficacy of Sarilumab in conjunction with Methotrexate for participants with insufficient clinical response to Methotrexate alone, assessed by changes in the Disease Activity Score for 28 joints (DAS28-CRP).\r\n\r\nSecondary Objectives:\r\n\r\n - To assess the safety and tolerability of Sarilumab, with a focus on treatment-emergent adverse events (TEAEs) and serious adverse events (SAEs)."
+        },
+        "detailed_description": {
+            "textblock": "The duration of participation in this study for each participant was approximately 48 weeks, including a 4-week screening period, a 24-week double-blind treatment phase, and a 20-week safety follow-up period."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Lack of Efficacy and Low Participant Engagement",
+        "start_date": "June 2015",
+        "completion_date": "March 2018",
+        "primary_completion_date": "January 2018",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Change From Baseline in Disease Activity Score for 28 Joints (DAS28-CRP) at Week 24",
+            "time_frame": "Baseline to Week 24",
+            "description": "The primary efficacy endpoint was the change in DAS28-CRP score from baseline to Week 24, with statistically significant improvement compared to placebo required for success."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Percentage of Patients Achieving ACR20 Response at Week 24",
+                "time_frame": "Week 24",
+                "description": "The ACR20 response required at least a 20% improvement in the number of swollen and tender joints, along with improvements in other disease metrics."
+            },
+            {
+                "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+                "time_frame": "From baseline up to Week 48",
+                "description": "The incidence of TEAEs, including SERIOUS adverse events (SAEs), was recorded throughout the study period."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "250",
+        "condition": "Rheumatoid Arthritis",
+        "arm_group": [
+            {
+                "arm_group_label": "Sarilumab + Methotrexate",
+                "arm_group_type": "Experimental",
+                "description": "Sarilumab 150 mg subcutaneous injection every two weeks plus stable Methotrexate."
+            },
+            {
+                "arm_group_label": "Placebo + Methotrexate",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Placebo subcutaneous injection every two weeks plus stable Methotrexate."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Sarilumab",
+                "description": "Pharmaceutical form: solution for injection; Route of administration: subcutaneous",
+                "arm_group_label": ["Sarilumab + Methotrexate"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Pharmaceutical form: solution for injection; Route of administration: subcutaneous",
+                "arm_group_label": ["Placebo + Methotrexate"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Methotrexate",
+                "description": "Dosage according to standard clinical practice.",
+                "arm_group_label": ["Sarilumab + Methotrexate", "Placebo + Methotrexate"]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n- Adult participants aged 18-75 with a diagnosis of moderate to severe rheumatoid arthritis.\r\n- Previous inadequate response to Methotrexate alone for at least 12 weeks.\r\n\r\nExclusion Criteria:\r\n- History of serious adverse reactions to any biologic therapy.\r\n- Concurrent use of other systemic immunosuppressive therapies."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Clinical Studies Management",
+            "role": "Study Director",
+            "affiliation": "Sanofi"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "Investigational Site Number 840017",
+                    "address": {
+                        "city": "Phoenix",
+                        "state": "Arizona",
+                        "zip": "85001",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Investigational Site Number 840018",
+                    "address": {
+                        "city": "Atlanta",
+                        "state": "Georgia",
+                        "zip": "30301",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": ["United States", "Canada", "Germany", "Ireland"]
+        },
+        "removed_countries": {
+            "country": "Czech Republic"
+        },
+        "verification_date": "March 2019",
+        "study_first_submitted": "March 8, 2015",
+        "study_first_posted": "March 10, 2015",
+        "results_first_posted": "April 20, 2019",
+        "disposition_first_posted": "April 21, 2019",
+        "last_update_posted": "April 22, 2019",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": ["Arthritis", "Arthritis, Rheumatoid"]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "The study was conducted at 45 centers in North America and Europe. A total of 300 participants were screened between May 2015 and January 2016. Of the total, 250 were enrolled and treated.",
+                "pre_assignment_details": "Participants were randomized in a 1:1 ratio to Sarilumab or Placebo, with screening for baseline disease activity accounted for prior responses as a stratification factor.",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Sarilumab + Methotrexate",
+                            "description": "250mg Sarilumab plus stable Methotrexate."
+                        },
+                        {
+                            "title": "Placebo + Methotrexate",
+                            "description": "Placebo plus stable Methotrexate."
+                        }
+                    ]
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [
+                                {
+                                    "title": "STARTED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "NOT COMPLETED",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                }
+                            ]
+                        },
+                        "drop_withdraw_reason_list": {
+                            "drop_withdraw_reason": [
+                                {
+                                    "title": "Adverse Event",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "Lack of Efficacy",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                },
+                                {
+                                    "title": "Withdrawal by Subject",
+                                    "participants_list": {
+                                        "participants": [null, null]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "baseline": {
+                "population": "All participants who received at least one dose of the study treatment after informed consent.",
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Sarilumab + Methotrexate",
+                            "description": "Participants in this group received Sarilumab in conjunction with Methotrexate."
+                        },
+                        {
+                            "title": "Placebo + Methotrexate",
+                            "description": "Participants in this group received Placebo plus Methotrexate."
+                        }
+                    ]
+                },
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": {
+                            "count": [null, null]
+                        }
+                    }
+                },
+                "measure_list": {
+                    "measure": [
+                        {
+                            "title": "Age",
+                            "units": "Years",
+                            "param": "Mean",
+                            "dispersion": "Standard Deviation"
+                        },
+                        {
+                            "title": "Gender Distribution: Female, Male",
+                            "units": "Participants",
+                            "param": "Count of Participants"
+                        }
+                    ]
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Change From Baseline in Disease Activity Score for 28 Joints (DAS28-CRP) Score at Week 24",
+                        "time_frame": "Baseline to Week 24",
+                        "population": "Analysis was based on participants who completed the treatment phase with evaluable data.",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Sarilumab + Methotrexate",
+                                    "description": "This group is evaluated for change in DAS28."
+                                },
+                                {
+                                    "title": "Placebo + Methotrexate",
+                                    "description": "This group is evaluated for change in DAS28."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Change in DAS28-CRP Score",
+                            "population": "All randomized participants who completed the 24-week treatment phase.",
+                            "analyzed_list": {
+                                "analyzed": {
+                                    "units": "Participants",
+                                    "scope": "Measure",
+                                    "count_list": {
+                                        "count": [null, null]
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Percentage of Participants Achieving ACR20 Response at Week 24",
+                        "time_frame": "Week 24",
+                        "population": "Evaluated in the intent-to-treat cohort of all randomized participants.",
+                        "group_list": {
+                            "group": [
+                                {
+                                    "title": "Sarilumab + Methotrexate",
+                                    "description": "Evaluated for ACR20 response."
+                                },
+                                {
+                                    "title": "Placebo + Methotrexate",
+                                    "description": "Evaluated for ACR20 response."
+                                }
+                            ]
+                        },
+                        "measure": {
+                            "title": "Percentage of Participants Meeting ACR20 Criteria",
+                            "population": "All randomized participants."
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
+```

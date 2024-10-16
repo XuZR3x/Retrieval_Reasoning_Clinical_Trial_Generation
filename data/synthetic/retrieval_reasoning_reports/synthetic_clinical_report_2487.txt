@@ -1,0 +1,267 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02402745"
+    },
+    "id_info": {
+      "org_study_id": "C16045",
+      "secondary_id": "U1111-1189-8340",
+      "nct_id": "NCT02402745"
+    },
+    "brief_title": "A Phase 1/2 Study of Ixazomib in Combination With Lenalidomide and Dexamethasone in Patients With Relapsed/Refractory Multiple Myeloma",
+    "official_title": "An Open-Label, Dose-Escalation, Phase 1/2 Study of Ixazomib (MLN9708) Administered in Combination With Lenalidomide and Dexamethasone in Patients With Relapsed/Refractory Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Millennium Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Takeda",
+    "oversight_info": {
+      "has_dmc": "No",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the pharmacokinetic profile of ixazomib in patients with relapsed/refractory multiple myeloma. This study also explored the efficacy and safety of ixazomib when used in conjunction with lenalidomide and dexamethasone, especially focusing on previously treated patients with varying hepatic functionality."
+    },
+    "detailed_description": {
+      "textblock": "The non-randomized, open-label design allowed for a comprehensive evaluation of ixazomib's pharmacokinetic properties in patients experiencing advanced multiple myeloma. Part 1 of the study involved dose escalation to establish the recommended Phase 2 dose (RP2D), while Part 2 assessed the treatment's overall response rate (ORR) utilizing the International Myeloma Working Group (IMWG) criteria.\n\nA total of 72 participants were enrolled, categorized into two distinct treatment cohorts based on previous therapies. The ixazomib dose was escalated, with sequences carefully defined to ensure safety and tolerance. During the study, participants administered ixazomib capsules orally on days 1, 8, and 15 every 28-day cycle in combination with lenalidomide (once daily) and low-dose dexamethasone (on the specified treatment days). The follow-up period extended up to the completion of 12 cycles in the absence of disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 15, 2015",
+    "completion_date": "February 28, 2022",
+    "primary_completion_date": "February 10, 2021",
+    "phase": "Phase 1/Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Phase 1: Recommended Phase 2 Dose (RP2D) of Ixazomib",
+        "time_frame": "Up to Cycle 1 (28 days)",
+        "description": "RP2D was determined from participants' assessments of tolerability, adverse events (AEs), and pharmacokinetic data."
+      },
+      {
+        "measure": "Phase 2: Proportion of Participants with Complete Response (CR) and Very Good Partial Response (VGPR)",
+        "time_frame": "Up to Cycle 12 (approximately 12 months)",
+        "description": "Measured based on IMWG criteria; CR is defined as negative immunofixation and less than 5% plasma cells, while VGPR is the achievement of a greater than 90% reduction in serum M-protein."
+      },
+      {
+        "measure": "Phase 2: Duration of Response (DOR)",
+        "time_frame": "From the date of first documentation of CR or VGPR until progression or death (Up to 12 months)",
+        "description": "DOR calculates the time interval from first documented response to the date of disease progression or death."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Phase 1: Number of Participants Experiencing Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "Baseline up to 30 days post last dose",
+        "description": "Documented incidence of all observed AEs considered treatment-related."
+      },
+      {
+        "measure": "Phase 1: Cmax: Maximum Observed Plasma Concentration for Ixazomib",
+        "time_frame": "Cycle 1, Days 1, 8, 15",
+        "description": "Measure of highest concentration of ixazomib in plasma samples."
+      },
+      {
+        "measure": "Phase 1: Tmax: Time to Reach Cmax for Ixazomib",
+        "time_frame": "Cycle 1, Days 1, 8, 15",
+        "description": "Time to reach peak concentration, measured in hours."
+      },
+      {
+        "measure": "Phase 2: Kaplan-Meier Estimate of Overall Survival at Year 1",
+        "time_frame": "1 year post first dose",
+        "description": "Percentage of participants remaining alive one year after treatment initiation."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "72",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Phase 1: Ixazomib Dose Escalation",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ixazomib via oral capsule, with dosing adjusted based on observed tolerability and pharmacokinetics."
+      },
+      {
+        "arm_group_label": "Phase 2: Ixazomib with Standard Regimen",
+        "arm_group_type": "Experimental",
+        "description": "Continuing participants received the predetermined RP2D of ixazomib along with lenalidomide and dexamethasone tailored based on prior treatment history."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ixazomib",
+        "description": "Ixazomib capsules for oral administration."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lenalidomide",
+        "description": "Lenalidomide capsules."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexamethasone",
+        "description": "Dexamethasone tablets."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Male or female, 18 years or older.\n- Confirmed diagnosis of relapsed or refractory multiple myeloma requiring systemic therapy.\n- Measurable disease as defined by laboratory assessments required.\n- Adequate organ function as specified in the study protocol.\n- Normal hepatic function, or moderate to severe hepatic impairment based on defined criteria.\n\nExclusion Criteria:\n- Previous treatment with ixazomib or any investigational agents targeting proteasome inhibition.\n- Active uncontrolled infections, systemic disease, or any serious underlying medical condition.\n- Pregnant or lactating individuals.\n- Current or history of hypersensitivity to study medications.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Medical Monitor",
+      "role": "Study Director",
+      "affiliation": "Millennium Pharmaceuticals, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Mayo Clinic Cancer Center",
+          "address": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85054",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Regina Elena National Cancer Institute",
+          "address": {
+            "city": "Rome",
+            "country": "Italy"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "April 14, 2014",
+    "study_first_submitted_qc": "April 14, 2014",
+    "study_first_posted": "April 18, 2014",
+    "results_first_submitted": "June 30, 2021",
+    "results_first_submitted_qc": "June 30, 2021",
+    "results_first_posted": "July 20, 2021",
+    "last_update_submitted": "March 15, 2022",
+    "last_update_submitted_qc": "March 15, 2022",
+    "last_update_posted": "March 17, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Multiple Myeloma",
+        "Neoplasms, Plasma Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Dexamethasone",
+        "Lenalidomide",
+        "Ixazomib"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were enrolled at 10 investigative sites across the United States from January 2015 to February 2022.",
+        "pre_assignment_details": "Patients were assigned to dose escalation groups during Phase 1, receiving ixazomib in increasing doses to establish safety and tolerability before proceeding to the Phase 2 portion where a standardized regimen was administered.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Phase 1: Ixazomib Escalation Group",
+              "description": "All participants in Phase 1 received escalating doses of ixazomib alongside lenalidomide and dexamethasone till the determined maximum tolerated dose."
+            },
+            {
+              "title": "Phase 2: Standardized Ixazomib Regimen",
+              "description": "Continuation of treatment in Phase 2 with the established RP2D of ixazomib, lenalidomide, and dexamethasone."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "Phase 1: Dose Escalation Period",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Phase 2: Efficacy Assessment Period",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

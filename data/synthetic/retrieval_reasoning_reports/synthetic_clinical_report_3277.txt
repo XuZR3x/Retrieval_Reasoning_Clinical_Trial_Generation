@@ -1,0 +1,184 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03745190"
+    },
+    "id_info": {
+      "org_study_id": "CIS-CHO-01",
+      "secondary_id": ["EUDRACT-2018-001450-35", "UKCRN-123456", "NCI-2020-12345"],
+      "nct_id": "NCT03745190"
+    },
+    "brief_title": "Cisplatin and Combination Chemotherapy in Treating Patients With Advanced Solid Tumors",
+    "official_title": "A Phase II Multicenter Study Evaluating the Efficacy and Safety of Cisplatin in Combination with Gemcitabine and Lapatinib in Patients with Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "European Organisation for Research and Treatment of Cancer - EORTC",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial aims to evaluate the efficacy and safety of cisplatin in combination with gemcitabine and lapatinib in patients with advanced solid tumors. The study hypothesizes that the synergistic effect of cisplatin with these chemotherapeutic agents will yield improved treatment outcomes compared to conventionally administered therapies."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. Assess the overall response rate (ORR) of cisplatin in conjunction with gemcitabine and lapatinib in patients with advanced solid tumors.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. Determine the progression-free survival (PFS) and overall survival (OS) rates of the treatment regimen.\r\n\r\nII. Evaluate the safety profile and toxicity of cisplatin in combination with gemcitabine and lapatinib.\r\n\r\nIII. Analyze the response based on RECIST criteria, utilizing well-defined eligibility criteria that target specifically histologically confirmed advanced cancers.\r\n\r\nOUTLINE:\r\nPatients will receive intravenous cisplatin on day 1, gemcitabine on days 1 and 8, and oral lapatinib daily from days 1-28 of a 28-day cycle. Treatments will be continued in the absence of disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 1, 2019",
+    "completion_date": "December 15, 2021",
+    "primary_completion_date": "June 15, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "24 weeks",
+      "description": "Overall response rate defined as the percentage of patients achieving confirmed complete or partial responses as per RECIST v1.1."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Median Progression-Free Survival (PFS)",
+        "time_frame": "up to 2 years",
+        "description": "Calculated from the date of treatment initiation to the date of tumor progression or patient death."
+      },
+      {
+        "measure": "Median Overall Survival (OS)",
+        "time_frame": "up to 3 years",
+        "description": "Estimated using the Kaplan-Meier method to encompass the survival time from treatment initiation to death or last follow-up."
+      },
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events",
+        "time_frame": "up to 1 year",
+        "description": "Adverse events will be monitored and classified according to CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "100",
+    "condition": [
+      "Locally Advanced Biliary Cancer",
+      "Advanced Urothelial Carcinoma",
+      "Squamous Cell Carcinoma of the Anus"
+    ],
+    "arm_group": {
+      "arm_group_label": "Treatment (cisplatin, gemcitabine, lapatinib)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive a combination of cisplatin intravenously on day 1, gemcitabine on days 1 and 8, and lapatinib orally daily throughout the cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Administered intravenously on day 1."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "description": "Administered intravenously on days 1 and 8."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lapatinib",
+        "description": "Administered orally daily from days 1 to 28."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed advanced biliary cancer, urothelial carcinoma, or squamous cell carcinoma of the anus.\r\n- Measurable disease as per RECIST 1.1.\r\n- ECOG performance status of 0-2.\r\n- Adequate organ function defined by ANC >= 1,500 cells/mm³, platelets >= 100,000/mm³, and bilirubin <= 1.5 x ULN.\r\n- Informed consent provided.\r\n\r\nExclusion Criteria:\r\n- Previous chemotherapy regimens for metastatic disease within 6 months.\r\n- Known hypersensitivity to cisplatin or other drugs used in the study.\r\n- Active infection or uncontrolled medical conditions.\r\n- Serious concurrent illness that might compromise study participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Claudia M. Solis",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Cancer Institute, Bethesda",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Royal Marsden Hospital",
+          "address": {
+            "city": "Sutton",
+            "zip": "SM2 5PT",
+            "country": "United Kingdom"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "March 5, 2019",
+    "study_first_submitted_qc": "March 7, 2019",
+    "study_first_posted": "March 15, 2019",
+    "last_update_submitted": "January 15, 2022",
+    "last_update_posted": "January 20, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "cisplatin",
+      "advanced solid tumors",
+      "gemcitabine",
+      "lapatinib",
+      "chemotherapy efficacy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Cholangiocarcinoma",
+        "Bladder Neoplasms",
+        "Anal Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Cisplatin",
+        "Gemcitabine",
+        "Lapatinib"
+      ]
+    }
+  }
+}
+```

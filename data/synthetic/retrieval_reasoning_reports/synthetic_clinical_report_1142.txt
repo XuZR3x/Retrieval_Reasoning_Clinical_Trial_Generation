@@ -1,0 +1,158 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04123456"
+    },
+    "id_info": {
+      "org_study_id": "CT-005-019",
+      "nct_id": "NCT04123456"
+    },
+    "brief_title": "Efficacy and Safety of Chlorambucil Combined with Nivolumab in Patients with Relapsed Chronic Lymphocytic Leukemia",
+    "official_title": "A Phase II Randomized Study Assessing the Efficacy and Safety of Chlorambucil in Combination with Nivolumab Compared to Chlorambucil Alone in Patients with Relapsed Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Initiative",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Institutes of Health (NIH)",
+    "brief_summary": {
+      "textblock": "RATIONALE: The combination of chlorambucil and nivolumab was hypothesized to potentially enhance response rates in patients with relapsed Chronic Lymphocytic Leukemia (CLL). However, preliminary insights suggested insufficient therapeutic efficacy compared to conventional standards of care.",
+      "detailed_description": {
+        "textblock": "OBJECTIVES: The primary objective was to determine the overall response rate of the combination treatment versus chlorambucil monotherapy. Secondary objectives included safety profile evaluation, incidence of IRRs, and assessment of patient-reported outcomes. Rigorous criteria for assessing patient response were implemented, yet early analysis indicated a failure to achieve statistically significant improvements in treatment outcomes.\n\nOUTLINE: Patients were randomly assigned to receive either chlorambucil alone or chlorambucil in combination with nivolumab. The regimen involved chlorambucil administered at 0.5 mg/kg on days 1, 8, and 15 of a 28-day cycle and nivolumab at 3 mg/kg on days 1 and 15. Treatment response was assessed every 2 months via bone marrow biopsy combined with flow cytometry analysis.\n\nPROJECTED ACCRUAL: The target was to enroll 150 participants over a two-year period."
+      }
+    },
+    "overall_status": "Terminated",
+    "start_date": "June 2019",
+    "completion_date": "September 2021",
+    "primary_completion_date": "July 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "At 6 months post-treatment initiation",
+      "description": "Measured according to National Cancer Institute criteria assessing complete and partial responses."
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of infusion-related reactions",
+      "time_frame": "During treatment cycles (up to 6 months)",
+      "description": "Assessed based on NCI CTCAE version 4.0 guidelines."
+    },
+    "number_of_arms": "2",
+    "enrollment": "75",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": [
+      {
+        "arm_group_label": "Chlorambucil",
+        "arm_group_type": "Experimental",
+        "description": "Participants received chlorambucil 0.5 mg/kg for 3 doses over 28 days."
+      },
+      {
+        "arm_group_label": "Chlorambucil + Nivolumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants received chlorambucil with added nivolumab 3 mg/kg on designated days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chlorambucil",
+        "description": "Chlorambucil administered orally at a dose of 0.5 mg/kg.",
+        "arm_group_label": ["Chlorambucil", "Chlorambucil + Nivolumab"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab",
+        "description": "Nivolumab administered intravenously at a dose of 3 mg/kg.",
+        "arm_group_label": "Chlorambucil + Nivolumab"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Confirmed diagnosis of relapsed Chronic Lymphocytic Leukemia (CLL).\n2. Previous treatment with at least one but no more than three prior therapies.\n3. Age ≥ 18 years.\n4. ECOG performance status of 0-2.\n5. Adequate hematologic function (ANC ≥ 1,000/µL, platelet count ≥ 75,000/µL).\n6. Informed consent provided.\n\nExclusion Criteria:\n1. Hypersensitivity to either chlorambucil or nivolumab.\n2. Active autoimmune disease requiring systemic treatment.\n3. Previous treatment with a PD-1 or PD-L1 inhibitor.\n4. Significant comorbidity limiting study participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Eleanor Jenkins, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Citywide Medical Center",
+          "address": {
+            "city": "New York",
+            "state": "NY",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Downtown Hematology Clinic",
+          "address": {
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University Hospital",
+          "address": {
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "results_reference": [],
+    "verification_date": "August 2021",
+    "study_first_submitted": "January 15, 2019",
+    "study_first_submitted_qc": "January 17, 2019",
+    "study_first_posted": "January 20, 2019",
+    "last_update_submitted": "September 14, 2021",
+    "last_update_submitted_qc": "September 14, 2021",
+    "last_update_posted": "September 16, 2021",
+    "keyword": [
+      "Chlorambucil",
+      "Nivolumab",
+      "Chronic Lymphocytic Leukemia"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia, Lymphocytic, Chronic, B-Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Chlorambucil",
+        "Nivolumab"
+      ]
+    }
+  }
+}
+```

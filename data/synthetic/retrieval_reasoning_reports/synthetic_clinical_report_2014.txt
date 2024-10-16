@@ -1,0 +1,496 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02986532"
+    },
+    "id_info": {
+      "org_study_id": "ERLT-2021/01",
+      "secondary_id": "2021-001007-32",
+      "nct_id": "NCT02986532"
+    },
+    "brief_title": "Erlotinib with Bevacizumab for Advanced NSCLC Patients with Activating EGFR Mutations",
+    "official_title": "An Open-Label Phase II Study Evaluating the Efficacy of Erlotinib in Combination with Bevacizumab in Patients with Advanced Non-Small Cell Lung Cancer and Activating EGFR Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute for Cancer Research",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Pharmaceutical Research Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Institute for Cancer Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the clinical efficacy of erlotinib combined with bevacizumab in advanced non-small cell lung cancer (NSCLC) patients possessing confirmed activating EGFR mutations. Patients with specific genetic profiles are expected to benefit substantially from the synergistic effects of this combination therapy."
+    },
+    "detailed_description": {
+      "textblock": "Background: The synergistic potential of erlotinib, an EGFR tyrosine kinase inhibitor, with bevacizumab, an angiogenesis inhibitor, has been demonstrated in prior studies, suggesting enhanced outcomes through dual inhibition of tumor growth and vascularization.\n\nObjectives: The primary aim of this trial is to assess progression-free survival (PFS) among patients treated with a combination of erlotinib and bevacizumab. Secondary objectives include overall survival (OS) and evaluation of tumor response rates based on RECIST 1.1 criteria.\n\nMethods: Eligible patients, stratified according to T790M mutation status, received erlotinib at 150 mg daily combined with bevacizumab administered intravenously at 15 mg/kg every 21 days. Safety assessments, biomarker evaluations including BRCA1 and AEG-1 expression, and longitudinal monitoring of EGFR mutation status were integral to the study design."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "December 2023",
+    "primary_completion_date": "September 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival",
+      "time_frame": "Measured from the date of enrollment until date of documented progression or death, up to a maximum of 36 months.",
+      "description": "The time from enrollment until the first occurrence of progression or death, assessed via RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival",
+        "time_frame": "From the date of enrollment to death from any cause, assessed until 36 months.",
+        "description": "Determined by Kaplan-Meier methods, capturing time from enrollment to death."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "From enrollment until the end of treatment, assessed at each imaging visit (every 6 weeks for 6 months).",
+        "description": "Quantitative assessment of responders based on RECIST criteria."
+      },
+      {
+        "measure": "Correlation of Biomarkers with PFS",
+        "time_frame": "Through the trial duration, up to 36 months.",
+        "description": "Evaluate the relationship between BRCA1 and AEG-1 mRNA expression levels and PFS."
+      },
+      {
+        "measure": "Safety Profile Evaluation",
+        "time_frame": "Adverse events monitored throughout study up to 30 days post-treatment completion.",
+        "description": "Graded using NCI CTCAE version 5.0 for assessment of treatment-related side effects."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "120",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Erlotinib plus Bevacizumab",
+      "arm_group_type": "Experimental",
+      "description": "Participants received erlotinib at 150 mg orally daily in combination with intravenous bevacizumab at 15 mg/kg on day 1 of each 21-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Erlotinib",
+        "description": "150 mg orally daily.",
+        "arm_group_label": "Erlotinib plus Bevacizumab",
+        "other_name": "Tarceva"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bevacizumab",
+        "description": "15 mg/kg administered intravenously on day 1 of each 21-day cycle.",
+        "arm_group_label": "Erlotinib plus Bevacizumab",
+        "other_name": "Avastin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18 years or older with a histologically confirmed diagnosis of advanced (Stage III-IV) NSCLC.\n- Confirmed presence of activating EGFR mutations (L858R or exon 19 deletion).\n- ECOG performance status 0-2.\n- Documented progression following at least one prior line of chemotherapy.\n\nExclusion Criteria:\n\n- Patients with a history of hypersensitivity to erlotinib or bevacizumab.\n- Presence of brain metastases not controlled by prior treatment.\n- Concurrent use of other anti-cancer therapies or investigational products.\n- Significant cardiovascular disease, recent thromboembolic events, or active bleeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Margaret S. Hill, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Institute for Cancer Research"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Institute for Cancer Research",
+          "address": {
+            "city": "London",
+            "country": "United Kingdom"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "National Cancer Center",
+          "address": {
+            "city": "Gyeonggi-do",
+            "country": "Korea, Republic of"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Hospital Universitario La Paz",
+          "address": {
+            "city": "Madrid",
+            "country": "Spain"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United Kingdom", "Korea, Republic of", "Spain"]
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "December 5, 2020",
+    "study_first_submitted_qc": "December 6, 2020",
+    "study_first_posted": "December 8, 2020",
+    "results_first_submitted": "January 8, 2024",
+    "results_first_submitted_qc": "January 20, 2024",
+    "results_first_posted": "January 25, 2024",
+    "last_update_submitted": "August 5, 2024",
+    "last_update_submitted_qc": "August 10, 2024",
+    "last_update_posted": "August 12, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Advanced NSCLC",
+      "EGFR Mutations",
+      "Erlotinib",
+      "Bevacizumab"
+    ],
+    "condition_browse": {
+      "mesh_term": "Carcinoma, Non-Small-Cell Lung"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Erlotinib Hydrochloride", "Bevacizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrolled patients from January 2021 to October 2022, 120 eligible participants ultimately received combination therapy.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Erlotinib plus Bevacizumab",
+              "description": "120 patients received 150 mg oral erlotinib plus bevacizumab at 15 mg/kg every 21 days."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "Lost to Follow-up",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Erlotinib plus Bevacizumab",
+              "description": "120 patients received erlotinib together with bevacizumab."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [
+                100,
+                20,
+                null
+              ]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Inter-Quartile Range",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": [
+                        null
+                      ]
+                    },
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [
+                            null
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": [
+                        null
+                      ]
+                    },
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [
+                              null
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [
+                              null
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "ECOG Performance Status",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": [
+                        null
+                      ]
+                    },
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "ECOG PS 0",
+                          "measurement_list": {
+                            "measurement": [
+                              null
+                            ]
+                          }
+                        },
+                        {
+                          "title": "ECOG PS 1",
+                          "measurement_list": {
+                            "measurement": [
+                              null
+                            ]
+                          }
+                        },
+                        {
+                          "title": "ECOG PS 2",
+                          "measurement_list": {
+                            "measurement": [
+                              null
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Progression-Free Survival",
+              "description": "Assessed using the RECIST v1.1 criteria, measuring the time from enrollment until progression or death.",
+              "time_frame": "Measured over a maximum of 36 months.",
+              "group_list": {
+                "group": {
+                  "title": "Erlotinib plus Bevacizumab",
+                  "description": "Assessment of progression-free survival in patients receiving dual therapy."
+                }
+              },
+              "measure": {
+                "title": "Progression-Free Survival",
+                "description": "Time measured from enrollment to documented progression or death.",
+                "units": "months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [
+                        null,
+                        null
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Objective Response Rate",
+              "description": "Based on RECIST v1.1 criteria.",
+              "time_frame": "Monitored continuously until the end of treatment.",
+              "group_list": {
+                "group": {
+                  "title": "Erlotinib plus Bevacizumab",
+                  "description": "Assessment of tumor response in participants."
+                }
+              },
+              "measure": {
+                "title": "Objective Response Rate",
+                "description": "The percentage of participants achieving CR or PR.",
+                "units": "Percentage",
+                "param": "Count of Participants",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [
+                        null,
+                        null
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival",
+              "description": "Time until death from any cause.",
+              "time_frame": "From enrollment until death, assessed up to 36 months.",
+              "group_list": {
+                "group": {
+                  "title": "Erlotinib plus Bevacizumab",
+                  "description": "Survival analysis conducted over the entire follow-up period."
+                }
+              },
+              "measure": {
+                "title": "Overall Survival",
+                "description": "Measured duration from study entry until death.",
+                "units": "months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [
+                        null,
+                        null
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Safety Profile Evaluation",
+              "description": "Record of adverse events evaluated through patient follow-up.",
+              "time_frame": "Continuously until treatment completion.",
+              "group_list": {
+                "group": {
+                  "title": "Erlotinib plus Bevacizumab",
+                  "description": "Assessment of treatment tolerability including severe events."
+                }
+              },
+              "measure": {
+                "title": "Adverse Events",
+                "description": "Incidence of AEs gauge through NCI CTCAE V4.",
+                "units": "Count of Events",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [
+                        null,
+                        null
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

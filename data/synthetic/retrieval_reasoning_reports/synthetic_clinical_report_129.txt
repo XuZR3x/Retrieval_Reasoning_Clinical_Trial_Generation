@@ -1,0 +1,447 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03712345"
+    },
+    "id_info": {
+      "org_study_id": "VX18-770-303",
+      "nct_id": "NCT03712345"
+    },
+    "brief_title": "A Study of Ivacaftor in Children Aged 2 to 5 Years with Specific CFTR Gating Mutations",
+    "official_title": "A Phase 3b, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Ivacaftor in Children Aged 2 to 5 Years with Cystic Fibrosis and Specific CFTR Gating Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Vertex Pharmaceuticals Incorporated",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Vertex Pharmaceuticals Incorporated",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and safety of ivacaftor in children with cystic fibrosis aged 2 to 5 years who possess specified CFTR gating mutations. Primary endpoints focused on improvements in lung function and safety profile."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Low enrollment and challenges in efficacy assessments.",
+    "start_date": "January 2019",
+    "completion_date": "June 2021",
+    "primary_completion_date": "February 2021",
+    "phase": "Phase 3b",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Crossover Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Absolute Change From Baseline in Forced Expiratory Volume in 1 Second (FEV1) at Week 8",
+      "time_frame": "Baseline through Week 8",
+      "description": "FEV1 assessed the volume of air exhaled forcibly within the first second, serving as a critical indicator of lung function improvements."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in Lung Clearance Index (LCI) at Week 8",
+        "time_frame": "Baseline and Week 8",
+        "description": "LCI was utilized to evaluate the effectiveness of ivacaftor on ventilatory efficiency within lung functionality."
+      },
+      {
+        "measure": "Cystic Fibrosis Questionnaire-Revised (CFQ-R) Score Changes",
+        "time_frame": "Baseline and Week 8",
+        "description": "The CFQ-R measured health-related quality of life changes in participants; a higher score indicates fewer respiratory symptoms."
+      },
+      {
+        "measure": "Number of Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "time_frame": "Baseline up to Month 6",
+        "description": "Evaluation of safety by tracking AEs and SAEs."
+      },
+      {
+        "measure": "Change in Weight and Body Mass Index (BMI)",
+        "time_frame": "Baseline and Week 8",
+        "description": "Quantitative change in weight and BMI was assessed to determine impacts on metabolic status."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "32",
+    "condition": "Cystic Fibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Ivacaftor",
+        "arm_group_type": "Experimental",
+        "description": "Ivacaftor 150 mg administered orally twice daily for 8 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo matched to ivacaftor taken orally twice daily for 8 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ivacaftor",
+        "arm_group_label": "Ivacaftor",
+        "other_name": ["Kalydeco", "VX-770"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Male or female aged 2 to 5 years, with confirmed diagnosis of CF.\r\n  - Presence of at least one CFTR gating mutation.\r\n  - Must meet FEV1 percentage of predicted normal.\r\n  - Stable CF condition as judged by investigator.\r\n\r\nExclusion Criteria:\r\n\r\n  - Any comorbidity that may confound results or pose additional risks.\r\n  - Recent acute respiratory infection or exacerbation.\r\n  - Abnormal liver function tests at screening.\r\n  - Participation in an investigational drug study within 30 days."
+      },
+      "gender": "All",
+      "minimum_age": "2 Years",
+      "maximum_age": "5 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "address": {
+            "city": "Denver",
+            "state": "Colorado",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Nashville",
+            "state": "Tennessee",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Bristol",
+            "country": "United Kingdom"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "United Kingdom"]
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "January 5, 2019",
+    "study_first_submitted_qc": "January 6, 2019",
+    "study_first_posted": "January 10, 2019",
+    "results_first_submitted": "July 15, 2021",
+    "results_first_submitted_qc": "July 20, 2021",
+    "results_first_posted": "July 25, 2021",
+    "last_update_submitted": "July 20, 2021",
+    "last_update_submitted_qc": "July 20, 2021",
+    "last_update_posted": "July 25, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Cystic Fibrosis", "Fibrosis"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Ivacaftor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "The trial involved two phases over a total of 8 weeks for enrollment; however, only 32 of the target number of participants were enrolled prior to termination.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor",
+              "description": "Ivacaftor 150 mg administered orally twice daily."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo matched to ivacaftor administered orally."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [32, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0, 32]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [32, 0]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Baseline population included all participants who received at least one dose of the study drug.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor",
+              "description": "Ivacaftor participants."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo participants."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [32, 0]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Absolute Change From Baseline in FEV1 After 8 Weeks",
+            "description": "Evaluation of absolute changes in lung function measuring the volume of air exhaled in 1 second.",
+            "time_frame": "Baseline through Week 8",
+            "population": "All randomized participants who received at least one dose.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ivacaftor Group",
+                  "description": "Participants treated with ivacaftor."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Participants treated with placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Absolute Change in FEV1",
+              "population": "Participants who completed the treatment period.",
+              "units": "liters",
+              "param": "Mean Change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [32, 0]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "ANOVA with repeated measures",
+                  "p_value": "0.3114"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Absolute Change in LCI Through 8 Weeks",
+            "description": "Evaluate impacts on lung ventilation efficiency.",
+            "time_frame": "Baseline and Week 8",
+            "population": "All randomized participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ivacaftor Group",
+                  "description": "Participants treated with ivacaftor."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Participants treated with placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Absolute Change in LCI",
+              "units": "index measure",
+              "param": "Mean Change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [32, 0]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Linear Regression",
+                  "p_value": "0.4205"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Number of AEs and SAEs",
+            "description": "Assessment of adverse events arising during the study period.",
+            "time_frame": "Baseline through Month 6",
+            "population": "Safety population.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ivacaftor Group",
+                  "description": "Participants treated with ivacaftor."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Participants treated with placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Number of Participants with AEs",
+              "units": "Participants",
+              "param": "Count",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [32, 0]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Baseline through Month 6",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor Group",
+              "description": "Participants receiving ivacaftor treatment."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving placebo."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Infections and infestations",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Infective pulmonary exacerbation of cystic fibrosis",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Diarrhoea",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [null, null]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "PI is free to publish results after certain criteria; sponsor must review but cannot require changes."
+      },
+      "limitations_and_caveats": "The study experienced significant challenges in patient enrollment and variability in responses, leading to termination. This highlighted the need for adaptable study designs to better gauge efficacy."
+    }
+  }
+}
+```

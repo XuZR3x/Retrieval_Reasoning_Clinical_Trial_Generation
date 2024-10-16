@@ -1,0 +1,244 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "CT-2020-WARF-001",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Assessing the Efficacy of Warfarin for Preventing Recurrent Thromboembolism in Complex Medical Conditions",
+    "official_title": "A Multicenter, Randomized Controlled Trial to Evaluate the Efficacy and Safety of Warfarin Therapy for Extended Venous Thromboembolism (VTE) Prevention in Patients with Comorbid Conditions",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "General Hospital and Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "Federal"
+      }
+    },
+    "source": "General Hospital and Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the efficacy and safety of warfarin in preventing recurrent VTE among patients with complex comorbidities, particularly focusing on populations susceptible to thromboembolic events."
+    },
+    "detailed_description": {
+      "textblock": "Despite the established efficacy of warfarin as an anticoagulant, its application in patients with complex comorbidities remains contentious. This study was designed to recruit patients with conditions such as active cancer, chronic kidney disease, and sickle cell disease to assess the efficacy of warfarin in preventing recurrent VTE episodes compared to a control arm receiving standard care. Recruitment commenced in January 2021; however, persistent challenges emerged, including difficulties in patient accrual, given the apprehension regarding potential bleeding risks associated with warfarin therapy. The study was terminated before reaching the target enrollment due to inadequate sample size, which impaired the statistical power necessary for a comprehensive analysis of outcomes. Moreover, the trial's endpoints, focusing on clinically relevant bleeding incidents and recurrent thromboembolism occurrences, demonstrated that the intended clinical metrics were not applicable in the context of existing therapeutic strategies, particularly given the rising use of direct oral anticoagulants among the target population."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Limited patient recruitment and insubstantial statistical power necessitated premature termination of the trial.",
+    "start_date": "January 2021",
+    "completion_date": "December 2021",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Number of Participants with Recurrent VTE",
+      "time_frame": "Measured over 12 months following randomization",
+      "description": "Comparison of recurrent thromboembolic events in participants receiving warfarin versus those on standard care."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Major and Minor Bleeding Episodes",
+        "time_frame": "Measured at 3, 6, and 12 months post-randomization",
+        "description": "Evaluation of bleeding risks associated with warfarin therapy."
+      },
+      {
+        "measure": "Vascular Complications Including Myocardial Infarction and Stroke",
+        "time_frame": "Observed over the 12 months of treatment",
+        "description": "Incidence of cardiovascular events in the context of anticoagulation therapy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": "Venous Thromboembolism",
+    "arm_group": [
+      {
+        "arm_group_label": "Warfarin",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants in this group received a warfarin regimen tailored to maintain an INR of 2-3."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants in this group received standard care without warfarin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Warfarin",
+        "description": "Daily oral administration aimed at achieving a therapeutic INR of 2-3.",
+        "arm_group_label": "Warfarin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 and older with a diagnosis of active cancer, chronic kidney disease, or sickle cell disease.\n- Documented history of acute VTE, requiring long-term anticoagulation.\n- Capacity to provide informed consent.\n\nExclusion Criteria:\n- Life expectancy < 6 months.\n- Severe liver impairment or contraindications to anticoagulation therapy.\n- Significant bleeding disorders or history of heparin-induced thrombocytopenia.\n- Pregnant or lactating women.\n- Uncontrolled comorbid conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John A. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "General Hospital and Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "General Hospital",
+        "address": {
+          "city": "Metropolis",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_submitted_qc": "January 20, 2020",
+    "study_first_posted": "January 22, 2020",
+    "last_update_submitted": "April 12, 2022",
+    "last_update_submitted_qc": "April 12, 2022",
+    "last_update_posted": "April 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Thromboembolism", "Venous Thromboembolism"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Warfarin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Warfarin",
+              "description": "Participants randomized to receive warfarin therapy."
+            },
+            {
+              "title": "Standard Care",
+              "description": "Participants receiving standard care."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "30 subjects randomized, with 15 in each arm prior to trial termination.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Warfarin",
+                "description": "Subjects received targeted warfarin therapy."
+              },
+              {
+                "title": "Standard Care",
+                "description": "Subjects received standard care without warfarin."
+              },
+              {
+                "title": "Total",
+                "description": "Aggregate of all reporting groups."
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Number of Subjects with Recurrent VTE",
+              "description": "Measurement of recurrent VTE events in both arms.",
+              "time_frame": "12 months post randomization."
+            },
+            {
+              "type": "Secondary",
+              "title": "Incidence of Major and Minor Bleeding Episodes",
+              "description": "Assessment of bleeding complications in both groups.",
+              "time_frame": "At 3, 6, and 12 months."
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Up to 12 months",
+          "group_list": {
+            "group": [
+              {
+                "title": "Warfarin",
+                "description": "Reported adverse events related to warfarin."
+              },
+              {
+                "title": "Standard Care",
+                "description": "Reported events in the control arm."
+              }
+            ]
+          },
+          "serious_events": {
+            "category_list": {
+              "category": {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+        }
+      }
+    }
+  }
+}
+```

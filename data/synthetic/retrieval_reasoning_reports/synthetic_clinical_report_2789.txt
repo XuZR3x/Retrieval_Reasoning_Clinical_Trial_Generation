@@ -1,0 +1,255 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02989985"
+    },
+    "id_info": {
+      "org_study_id": "C16024",
+      "secondary_id": "U1111-1188-1234",
+      "nct_id": "NCT02989985"
+    },
+    "brief_title": "Efficacy and Safety of Ixazomib in Combination with Lenalidomide and Dexamethasone in Newly Diagnosed Multiple Myeloma Patients",
+    "official_title": "A Phase 2 Study to Evaluate the Efficacy and Safety of Orbital Ixazomib in Combination with Lenalidomide and Dexamethasone for Newly Diagnosed Multiple Myeloma Patients: Results from a Dose Escalation Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Millennium Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Takeda",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This randomized, open-label, Phase 2 study aimed to evaluate the efficacy, safety, and tolerability of ixazomib in combination with lenalidomide and dexamethasone in patients with newly diagnosed multiple myeloma. The trial implemented a dose-escalation strategy to optimize ixazomib dosing while ensuring tolerability."
+    },
+    "detailed_description": {
+      "textblock": "This clinical trial involved patients with newly diagnosed multiple myeloma (NDMM) to assess the treatment efficacy of ixazomib combined with lenalidomide and dexamethasone. The study began with a Phase 1 component aimed at establishing the maximum tolerated dose (MTD) and the recommended phase II dose (RP2D) through a systematic dose-escalation approach.\n\nIn total, 120 patients were enrolled across 20 investigative sites in the United States. Participants were assigned to one of three treatment groups based on previously identified safety profiles and pharmacodynamics: 2 mg, 3 mg, and 4 mg of ixazomib. Treatment was administered as follows: ixazomib orally on Days 1, 8, and 15, lenalidomide on Days 1-21, and dexamethasone on Days 1, 8, 15, and 22 of a 28-day cycle.\n\nClinical endpoints included overall response rate (ORR), complete response (CR) rate, very good partial response (VGPR) rate, and safety evaluations monitored throughout the treatment period and during follow-up."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 10, 2015",
+    "completion_date": "July 29, 2020",
+    "primary_completion_date": "January 14, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Percentage of Participants with Complete Response (CR) or Very Good Partial Response (VGPR)",
+        "time_frame": "Up to 12 months after treatment initiation",
+        "description": "The CR was defined per International Myeloma Working Group (IMWG) criteria. VGPR involves a significant reduction of M-protein levels."
+      },
+      {
+        "measure": "Time to Treatment Response",
+        "time_frame": "From the date of initial dose to the first confirmation of treatment response.",
+        "description": "Time to response was defined as the time from the first administration of ixazomib until recorded CR or VGPR."
+      },
+      {
+        "measure": "Safety Profile: Number of Participants with Adverse Events (AEs) and Serious Adverse Events (SAEs)",
+        "time_frame": "Up to 30 days after the last dose of study drug",
+        "description": "Characterization of treatment-emergent AEs, including severity and relationship to the study drug."
+      },
+      {
+        "measure": "Duration of Response (DOR)",
+        "time_frame": "Up to 36 months post treatment initiation",
+        "description": "The DOR is measured from the date of first documented response to the date of disease progression."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From the first dose of treatment until death caused by any reason.",
+        "description": "OS is a critical endpoint for assessing the long-term efficacy of ixazomib treatment."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Pharmacokinetic Measures of Ixazomib: Cmax",
+        "time_frame": "Cycle 1, Day 1 and Day 15",
+        "description": "Maximum plasma concentration (Cmax) of ixazomib after administration."
+      },
+      {
+        "measure": "Pharmacokinetic Measures of Ixazomib: AUC0-24",
+        "time_frame": "Cycle 1, Day 1 and Day 15",
+        "description": "Area under the curve (AUC) for ixazomib over the first 24 hours post-administration."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "120",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Ixazomib 2 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ixazomib 2 mg in combination with standard lenalidomide and dexamethasone."
+      },
+      {
+        "arm_group_label": "Ixazomib 3 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ixazomib 3 mg in combination with standard lenalidomide and dexamethasone."
+      },
+      {
+        "arm_group_label": "Ixazomib 4 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ixazomib 4 mg in combination with standard lenalidomide and dexamethasone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ixazomib",
+        "description": "Ixazomib capsules administered orally.",
+        "arm_group_label": ["Ixazomib 2 mg", "Ixazomib 3 mg", "Ixazomib 4 mg"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lenalidomide",
+        "description": "Lenalidomide capsules administered orally.",
+        "arm_group_label": ["Ixazomib 2 mg", "Ixazomib 3 mg", "Ixazomib 4 mg"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexamethasone",
+        "description": "Dexamethasone tablets administered orally.",
+        "arm_group_label": ["Ixazomib 2 mg", "Ixazomib 3 mg", "Ixazomib 4 mg"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Male or female patients 18 years or older.\n- Documented diagnosis of newly diagnosed multiple myeloma.\n- Measurable disease with at least 1 of the following:\n   Serum M-protein >=1g/dL or urine M-protein >=200mg/24 hours.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n- Acceptance of contraception measures.\n\nExclusion Criteria:\n- Previous treatment for multiple myeloma.\n- Acute or chronic infections requiring antibiotic therapy.\n- Peripheral neuropathy with a severity of Grade 2 or higher.\n- Clinically significant cardiovascular or gastrointestinal conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Research Director",
+      "role": "Study Director",
+      "affiliation": "Millennium Pharmaceuticals, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2021",
+    "study_first_submitted": "January 20, 2015",
+    "study_first_submitted_qc": "January 20, 2015",
+    "study_first_posted": "January 21, 2015",
+    "results_first_submitted": "February 15, 2020",
+    "results_first_submitted_qc": "February 15, 2020",
+    "results_first_posted": "March 10, 2020",
+    "last_update_submitted": "August 15, 2021",
+    "last_update_submitted_qc": "August 15, 2021",
+    "last_update_posted": "September 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Multiple Myeloma",
+        "Neoplasms, Plasma Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Dexamethasone",
+        "Lenalidomide",
+        "Ixazomib"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants participated in the study at 20 investigative locations across the United States from March 10, 2015, to July 29, 2020.",
+        "pre_assignment_details": "Patients with newly diagnosed multiple myeloma were enrolled in one of three treatment arms, receiving varying doses of ixazomib combined with standard therapy.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ixazomib 2 mg",
+              "description": "Ixazomib 2 mg combined with lenalidomide and dexamethasone."
+            },
+            {
+              "title": "Ixazomib 3 mg",
+              "description": "Ixazomib 3 mg combined with lenalidomide and dexamethasone."
+            },
+            {
+              "title": "Ixazomib 4 mg",
+              "description": "Ixazomib 4 mg combined with lenalidomide and dexamethasone."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "Overall Study",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [null, null, null]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [null, null, null]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": [null, null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

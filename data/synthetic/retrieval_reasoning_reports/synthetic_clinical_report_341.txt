@@ -1,0 +1,149 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03467594"
+        },
+        "id_info": {
+            "org_study_id": "TRA-0047",
+            "nct_id": "NCT03467594"
+        },
+        "brief_title": "Impact of Tranexamic Acid on Blood Loss in Spine Surgery",
+        "official_title": "Efficacy of Tranexamic Acid in Reducing Blood Loss and Transfusion Requirement in Patients Undergoing Elective Spine Surgery: A Multicentric Randomized Controlled Trial",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Clinical Research Institute of Spine Surgery",
+                "agency_class": "Other"
+            }
+        },
+        "source": "Clinical Research Institute of Spine Surgery",
+        "oversight_info": {
+            "has_dmc": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study aimed to assess the effectiveness of tranexamic acid in reducing intraoperative blood loss during elective spine surgeries. It was hypothesized that tranexamic acid would significantly decrease perioperative blood loss and the necessity for blood transfusion compared to a control group receiving standard hemostatic measures."
+        },
+        "detailed_description": {
+            "textblock": "Heavy intraoperative bleeding during spine surgery is a major complication that increases morbidity and prolongs hospital stay. Tranexamic acid, an antifibrinolytic agent, has emerged as a potential adjunctive therapy for reducing blood loss in various surgical procedures. This trial aimed to investigate its implementation in elective spine surgeries across several centers. Despite preliminary positive reports from other surgical specialties, recruitment challenges persisted, leading to insufficient data collection and an inability to establish a definitive conclusion about tranexamic acid's efficacy in spine surgery."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Insufficient participant recruitment due to competing treatment protocols and difficulties in follow-up assessment.",
+        "start_date": "April 2018",
+        "completion_date": "March 2020",
+        "primary_completion_date": "February 2020",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Prevention",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Total Intraoperative Blood Loss",
+            "time_frame": "During the surgical procedure (typically 6-8 hours)",
+            "description": "Measured by collecting the blood from the surgical field and via suction devices."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Transfusion Requirement",
+                "time_frame": "Postoperatively within 48 hours",
+                "description": "Documented necessity for blood transfusion based on standard clinical guidelines."
+            },
+            {
+                "measure": "Length of Hospital Stay",
+                "time_frame": "From day of surgery to discharge",
+                "description": "Captured in patient records."
+            },
+            {
+                "measure": "Postoperative Complications",
+                "time_frame": "30 days postoperative",
+                "description": "Complications such as infection, hematoma, and thromboembolic events."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "48",
+        "condition": ["Blood Loss", "Spine Surgery"],
+        "arm_group": [
+            {
+                "arm_group_label": "Tranexamic Acid Group",
+                "arm_group_type": "Experimental",
+                "description": "Patients received 1 g of tranexamic acid intravenously before incision and another 1 g 3 hours postoperatively."
+            },
+            {
+                "arm_group_label": "Control Group",
+                "arm_group_type": "Active Comparator",
+                "description": "Patients received standard care without tranexamic acid, utilizing conventional hemostatic measures during surgery."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Tranexamic Acid",
+                "description": "1 g administered intravenously prior to surgical incision and 1 g postoperatively, infused over 30 minutes."
+            },
+            {
+                "intervention_type": "Procedure",
+                "intervention_name": "Standard Hemostasis",
+                "description": "Employing conventional surgical techniques for bleeding control including cauterization and gauging."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n  -  Adults aged 18-75 years scheduled for elective spine surgery.\r\n  -  Informed consent obtained.\r\n\r\nExclusion Criteria:\r\n  -  Contraindications to tranexamic acid (e.g., history of thromboembolism).\r\n  -  Pregnancy or lactation.\r\n  -  Concurrent use of anticoagulants.\r\n  -  Severe renal impairment (eGFR <30 mL/min).",
+                "gender": "All",
+                "minimum_age": "18 Years",
+                "maximum_age": "75 Years",
+                "healthy_volunteers": "No"
+            }
+        },
+        "overall_official": [
+            {
+                "last_name": "James R. Twyman, MD",
+                "role": "Principal Investigator",
+                "affiliation": "Clinical Research Institute of Spine Surgery"
+            }
+        ],
+        "location": {
+            "facility": {
+                "name": "Spine Surgery Center",
+                "address": {
+                    "city": "Detroit",
+                    "state": "Michigan",
+                    "zip": "48226",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "January 2021",
+        "study_first_submitted": "January 15, 2018",
+        "study_first_posted": "February 10, 2018",
+        "last_update_posted": "September 18, 2020",
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "Clinical Research Institute of Spine Surgery",
+            "investigator_full_name": "James R. Twyman",
+            "investigator_title": "MD"
+        },
+        "keyword": [
+            "tranexamic acid",
+            "spine surgery",
+            "blood loss",
+            "transfusion",
+            "hemostasis"
+        ],
+        "condition_browse": {
+            "mesh_term": ["Blood Loss", "Spinal Diseases"]
+        },
+        "intervention_browse": {
+            "mesh_term": "Tranexamic Acid"
+        }
+    }
+}
+```

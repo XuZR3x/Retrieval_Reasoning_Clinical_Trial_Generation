@@ -1,0 +1,242 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00871234"
+    },
+    "id_info": {
+      "org_study_id": "INSULIN_PUBLIC_2024",
+      "nct_id": "NCT00871234"
+    },
+    "brief_title": "Assessment of Insulin Glargine in Achieving Glycemic Control in Patients With Poorly Controlled Type 2 Diabetes: A Randomized Controlled Trial",
+    "official_title": "A Randomized Controlled Trial Evaluating the Efficacy and Safety of Basal-Bolus Insulin Regimen With Insulin Glargine Versus Sliding Scale Insulin Therapy in Patients With Poorly Controlled Type 2 Diabetes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to evaluate the efficacy and safety of insulin glargine integrated with a basal-bolus insulin regimen compared to traditional sliding scale insulin therapy in achieving glycemic control in patients with poorly controlled type 2 diabetes. Previous studies have indicated that switching to a basal-bolus regimen can significantly improve mean blood glucose concentrations and reduce the risk of hypoglycemic events. We hypothesize that patients on insulin glargine will demonstrate superior glycemic oversight over a 12-week treatment period, as evidenced by changes in HbA1c and mean daily blood glucose levels."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2011",
+    "completion_date": "December 2012",
+    "primary_completion_date": "October 2012",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Glycosylated Hemoglobin (HbA1c)",
+      "time_frame": "Baseline and 12 weeks",
+      "description": "Assessment of change in HbA1c levels from baseline to 12 weeks for each treatment group."
+    },
+    "secondary_outcome": {
+      "measure": "# Participants Experiencing Hypoglycemic Events",
+      "time_frame": "Throughout the 12-week study period",
+      "description": "Tracking the incidence of hypoglycemic events across both treatment arms to evaluate safety and tolerability."
+    },
+    "number_of_arms": "2",
+    "enrollment": "320",
+    "condition": "Diabetes Mellitus, Type 2",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Insulin glargine administered once daily in combination with mealtime rapid-acting insulin as per basal-bolus regimen."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Traditional sliding scale insulin therapy as per protocol, administered three times daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Insulin Glargine",
+        "description": "Insulin glargine administered subcutaneously once daily as part of the basal-bolus regimen.",
+        "arm_group_label": "1",
+        "other_name": "Lantus"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Regular Insulin",
+        "description": "Sliding scale regular insulin administered subcutaneously three times daily.",
+        "arm_group_label": "2",
+        "other_name": "Novolin R"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  1. Adults aged between 18 and 75 years diagnosed with type 2 diabetes mellitus for at least 5 years and poorly controlled (HbA1c > 7.5% at baseline).\n\n  2. Participants actively receiving diabetic treatment with oral anti-diabetic agents or long-acting insulin.\n\n  3. Signed informed consent prior to any study-related procedures.\n\nExclusion Criteria:\n\n  1. Type 1 diabetes mellitus or a history of diabetic ketoacidosis.\n\n  2. Pregnant or lactating women.\n\n  3. Significant comorbidities that may interfere with study outcomes, including severe heart failure, renal impairment (creatinine levels > 1.5 mg/dL), or hospitalizations in the last three months due to complications of diabetes.\n\n  4. Participation in another investigational drug trial within 30 days.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Anna Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "UCSF Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Thompson A, Davis SN, Lotz M, et al. A randomized controlled trial evaluating glycemic control with insulin glargine in patients with type 2 diabetes compared to sliding scale therapy. Diabetologia. 2013 Jul; 56(7): 1557-1566. doi: 10.1007/s00125-013-2871-0.",
+      "PMID": "23716276"
+    },
+    "verification_date": "January 2013",
+    "study_first_submitted": "March 1, 2011",
+    "study_first_posted": "March 7, 2011",
+    "last_update_posted": "January 10, 2013",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "UCSF School of Medicine",
+      "investigator_full_name": "Anna Thompson",
+      "investigator_title": "Assistant Professor"
+    },
+    "keyword": ["insulin glargine", "type 2 diabetes", "glycemic control", "hypoglycemia", "basal-bolus regimen"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Insulin", "Insulin Glargine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "320 patients screened for eligibility, with 320 randomized into either the insulin glargine or sliding scale comparator groups. Of these, 300 patients completed the trial.",
+        "pre_assignment_details": "Screening included comprehensive assessment of eligibility with blood glucose monitoring and HbA1c evaluations.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glargine Group",
+              "description": "Received insulin glargine and rapid-acting insulin. Demonstrated significant reductions in HbA1c at 12 weeks."
+            },
+            {
+              "title": "Sliding Scale Insulin Group",
+              "description": "Underwent treatment with sliding scale insulin therapy with less notable improvements in glycemic control."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glargine",
+              "description": "Values gathered at baseline included mean age, gender ratio, and baseline HbA1c levels."
+            },
+            {
+              "title": "Sliding Scale Insulin",
+              "description": "Comparison group included patients with matching baseline demographics."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [300, 300]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in HbA1c Levels",
+            "description": "Significant improvement in HbA1c levels observed in the insulin glargine group compared to the sliding scale group, with a mean reduction of 1.2%.",
+            "time_frame": "Baseline and 12 weeks",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Insulin Glargine",
+                  "description": "Mean HbA1c change of -1.2%."
+                },
+                {
+                  "title": "Sliding Scale Insulin",
+                  "description": "Mean HbA1c change of -0.5%."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "# Participants Experiencing Hypoglycemic Events",
+            "description": "Lower incidence of hypoglycemic events in the insulin glargine group (12%) compared to the sliding scale insulin group (25%).",
+            "time_frame": "Throughout the 12-week study period",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Insulin Glargine",
+                  "description": "12% experienced hypoglycemic events."
+                },
+                {
+                  "title": "Sliding Scale Insulin",
+                  "description": "25% experienced hypoglycemic events."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout the 12-week study period",
+        "group_list": {
+          "group": [
+            {
+              "title": "Insulin Glargine",
+              "description": "Primary adverse events noted included mild hypoglycemia and transient injection site reactions."
+            },
+            {
+              "title": "Sliding Scale Insulin",
+              "description": "Higher incidence of moderate hypoglycemia and higher variability in blood sugar levels."
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "No agreement exists that restricts the Principal Investigator's rights to discuss or publish trial results."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trial Coordinator",
+        "organization": "UCSF School of Medicine",
+        "email": "clinicaltrials@ucsf.edu"
+      }
+    }
+  }
+}
+```

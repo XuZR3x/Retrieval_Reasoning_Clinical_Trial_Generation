@@ -1,0 +1,126 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567829"
+    },
+    "id_info": {
+      "org_study_id": "STATINDEPRESSION",
+      "nct_id": "NCT04567829"
+    },
+    "brief_title": "Assessment of Simvastatin Efficacy in Major Depressive Disorder",
+    "official_title": "Randomized, Double-Blind, Placebo-Controlled Trial of Simvastatin for the Treatment of Major Depressive Disorder in Adults",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Major depressive disorder (MDD) is a prevalent mental health condition that significantly impacts quality of life. Current therapeutic modalities are not always sufficient, which necessitates the exploration of alternative treatments. Prior preclinical findings demonstrated that simvastatin may possess antidepressant properties, prompting this investigation into its efficacy against depressive symptoms in human subjects. In this study, we aim to ascertain the clinical utility of simvastatin in ameliorating depressive symptoms, particularly focusing on changes in standardized depression scales over a 12-week treatment period. This trial employs a double-blind design to minimize bias across participant, caregiver, and investigator cohorts, with single-site recruitment through psychiatric clinics.",
+    },
+    "overall_status": "Terminated",
+    "start_date": "March 1, 2019",
+    "completion_date": "April 15, 2021",
+    "primary_completion_date": "March 10, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Beck Depression Inventory (BDI)",
+      "time_frame": "Baseline vs week 12 after treatment initiation"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Response rate as measured by a 50% reduction in BDI scores",
+        "time_frame": "Week 12"
+      },
+      {
+        "measure": "Quality of life assessed via WHOQOL-BREF",
+        "time_frame": "Week 12"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "55",
+    "condition": "Major Depressive Disorder",
+    "arm_group": [
+      {
+        "arm_group_label": "Simvastatin",
+        "arm_group_type": "Experimental",
+        "description": "Administered 40 mg of simvastatin orally once daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Administered identical placebo capsule orally once daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Simvastatin",
+        "arm_group_label": "Simvastatin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Age between 18 and 65 years. \n- Diagnosis of MDD according to DSM-5 criteria. \n- BDI score ≥ 20 at screening. \n- Competent to provide informed consent.\n\nExclusion Criteria: \n- Presence of psychotic features or serious suicidality. \n- Current use of contraindicated medications such as other statins or antidepressants. \n- Significant medical comorbidities or unstable medical condition. \n- Pregnant or breastfeeding women.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Jessica Graham, PhD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Psychiatry and Behavioral Sciences",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2021",
+    "study_first_submitted": "January 10, 2019",
+    "study_first_submitted_qc": "January 15, 2019",
+    "study_first_posted": "January 20, 2019",
+    "last_update_submitted": "April 20, 2021",
+    "last_update_submitted_qc": "April 20, 2021",
+    "last_update_posted": "April 25, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Johns Hopkins University"
+    },
+    "limitations_and_caveats": {
+      "textblock": "The trial was terminated prematurely due to challenges regarding participant recruitment, resulting in a total enrollment of 55, insufficient for definitive statistical analysis. Additionally, participant responses showed inherent variability, correlating with genetic factors and comorbid conditions, complicating the interpretation of outcomes. Moreover, predefined efficacy metrics failed to demonstrate a significant improvement from baseline to week 12 in the experimental group.",
+    }
+  }
+}
+```

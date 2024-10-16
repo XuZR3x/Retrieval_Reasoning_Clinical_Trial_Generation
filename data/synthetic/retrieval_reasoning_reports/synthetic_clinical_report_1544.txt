@@ -1,0 +1,334 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02045515"
+    },
+    "id_info": {
+      "org_study_id": "PRO-042376",
+      "secondary_id": ["Reg-2011-1001", "Pandora-01", "NCI-2022-00972"],
+      "nct_id": "NCT02045515"
+    },
+    "brief_title": "Evaluation of Panitumumab in Combination with Novel Immunotherapy for Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study Exploring the Efficacy and Safety of Panitumumab in Combination with Novel Immunotherapy Agents in Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Amgen",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the safety and clinical efficacy of panitumumab combined with novel immunotherapy agents in patients diagnosed with advanced non-small cell lung cancer (NSCLC) previously treated with standard therapies. The primary objective was to assess the objective response rate (ORR) after 12 weeks of combination therapy. Secondary objectives included evaluating progression-free survival (PFS), overall survival (OS), and adverse event profiles."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Patient Enrollment",
+    "start_date": "January 2014",
+    "completion_date": "June 2016",
+    "primary_completion_date": "March 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Parallel Assignment",
+      "intervention_model_description": "Patients received panitumumab in combination with one of two novel immunotherapy agents.",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Approximately 12 weeks",
+      "description": "The primary response was measured by the proportion of participants exhibiting complete or partial responses to therapy, determined via imaging studies according to RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 12 months",
+        "description": "PFS was defined from the date of initiation of treatment to the date of radiographically confirmed disease progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 24 months",
+        "description": "Overall survival was calculated from the date of enrollment until the date of death from any cause."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "8",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Panitumumab plus Immunotherapy Agent A",
+        "arm_group_type": "Experimental",
+        "description": "Panitumumab administered with Immunotherapy Agent A, administered IV every two weeks."
+      },
+      {
+        "arm_group_label": "Panitumumab plus Immunotherapy Agent B",
+        "arm_group_type": "Experimental",
+        "description": "Panitumumab administered with Immunotherapy Agent B, administered IV every two weeks."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Panitumumab",
+      "description": "Panitumumab given intravenously at a loading dose of 9 mg/kg, followed by a maintenance dose of 6 mg/kg every two weeks."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Histologically confirmed advanced non-small cell lung cancer (NSCLC) with measurable disease.\n2. Prior treatment with at least one line of standard therapy, including chemotherapy and/or targeted agents.\n3. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n4. At least 18 years of age.\n\nExclusion Criteria:\n\n1. Received systemic therapy or radiation therapy within 4 weeks prior to enrollment.\n2. Active autoimmune disease requiring immunosuppression.\n3. Known hypersensitivity to panitumumab or other components of the study medication.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Jonathan Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cancer Treatment Center",
+        "address": {
+          "city": "Washington",
+          "state": "District of Columbia",
+          "zip": "20001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2019",
+    "study_first_submitted": "January 15, 2014",
+    "study_first_submitted_qc": "January 18, 2014",
+    "study_first_posted": "January 20, 2014",
+    "last_update_submitted": "March 15, 2016",
+    "last_update_submitted_qc": "March 15, 2016",
+    "last_update_posted": "March 19, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "National Cancer Institute"
+    },
+    "keyword": ["Panitumumab", "advanced non-small cell lung cancer", "immunotherapy", "cancer treatment"],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Panitumumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited between January and October 2014.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Panitumumab plus Immunotherapy Agent A",
+              "description": "Patients receiving panitumumab and immunotherapy agent A via IV administration."
+            },
+            {
+              "title": "Panitumumab plus Immunotherapy Agent B",
+              "description": "Patients receiving panitumumab and immunotherapy agent B via IV administration."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": [
+              {
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [8, 0]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [null, null]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "baseline": {
+        "group_list": [
+          {
+            "title": "Panitumumab plus Immunotherapy Agent A",
+            "description": "Patients receiving panitumumab in combination with Immunotherapy Agent A."
+          },
+          {
+            "title": "Panitumumab plus Immunotherapy Agent B",
+            "description": "Patients receiving panitumumab in combination with Immunotherapy Agent B."
+          },
+          {
+            "title": "Total",
+            "description": "Total of all reporting groups."
+          }
+        ],
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [8, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation", 
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [56.4, "N/A", null]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [3, null, null]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [5, null, null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "Evaluated as the proportion of participants achieving a complete or partial response based on imaging studies.",
+            "time_frame": "Approximately 12 weeks",
+            "population": "Data was compiled from eight enrolled participants.",
+            "group_list": {
+              "group": {
+                "title": "Overall Study",
+                "description": "Data from both treatment arms combined."
+              }
+            },
+            "measure": {
+              "title": "Overall Response Rate (ORR)",
+              "description": "Determined using RECIST criteria for tumor response.",
+              "population": "Data not reported due to insufficient response."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Measured from enrollment to the first documented disease progression or death.",
+            "time_frame": "Up to 12 months",
+            "population": "Predicted PFS rates were not calculated due to small sample size."
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "Calculated from enrollment until death.",
+            "time_frame": "Up to 24 months",
+            "population": "Data not computed due to insufficient analysis."
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": [
+          {
+            "title": "Panitumumab plus Immunotherapy Agent A",
+            "description": "Adverse events recorded for participants."
+          },
+          {
+            "title": "Panitumumab plus Immunotherapy Agent B",
+            "description": "Adverse events recorded for participants."
+          }
+        ],
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [0, 0]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [4, 3]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "limitations_and_caveats": "The study was terminated due to slow patient recruitment. The insufficient enrollment made it impossible to draw meaningful conclusions from the collected data.",
+      "point_of_contact": {
+        "name_or_title": "Dr. Jonathan Smith",
+        "organization": "National Cancer Institute",
+        "phone": "202-555-0170",
+        "email": "jsmith@nci.gov"
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,124 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04098765"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-ET-843",
+      "secondary_id": ["CDR0000456789", "NCI-XYZ-1234"],
+      "nct_id": "NCT04098765"
+    },
+    "brief_title": "Dose Escalation Study of Trabectedin in Patients With Recurrent Advanced Sarcomas",
+    "official_title": "A Phase I Study of Trabectedin in Combination With Standard Chemotherapy in Patients With Recurrent Advanced Sarcoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "brief_summary": {
+      "textblock": "This Phase I study aims to evaluate the safety and dosing of trabectedin when administered in combination with standard chemotherapy regimens in patients with recurrent advanced sarcoma."
+    },
+    "detailed_description": {
+      "textblock": "Objectives of this study include: \nI. To establish the maximum tolerated dose (MTD) of trabectedin in conjunction with standard chemotherapy.\nII. To assess the efficacy of combined treatment using overall survival (OS) and progression-free survival (PFS) as primary outcomes.\nIII. To evaluate pharmacokinetic parameters of trabectedin in conjunction with other agents.\nIV. To monitor the incidence and severity of adverse events associated with the combination therapy.\n\nOutline: This multicenter, open-label study includes patients who have received prior chemotherapy. Patients will be enrolled into sequential cohorts to determine the MTD of trabectedin. Dosage of trabectedin will be escalated progressively, with continuous assessment of tolerability and efficacy.\n\nChemotherapy regimens may include agents such as doxorubicin or ifosfamide depending on the protocols allowed in participating centers."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Enrolment was terminated due to insufficient patient enrollment and safety concerns, with only five patients accrued before halting the study.",
+    "start_date": "June 15, 2019",
+    "completion_date": "January 30, 2021",
+    "primary_completion_date": "December 15, 2020",
+    "phase": "Phase 1",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Maximum Tolerated Dose (MTD) of Trabectedin",
+      "time_frame": "Up to 3 years",
+      "description": "The MTD will be determined based on the incidence of dose-limiting toxicities (DLTs) observed in the first treatment cycle. Patients will be monitored for side effects that may prompt dosage adjustments."
+    },
+    "secondary_outcomes": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 3 years",
+        "description": "OS rates will be calculated from the date of initial treatment until the date of death from any cause."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 3 years",
+        "description": "PFS will be assessed from the date of treatment initiation to the date of progression or death."
+      },
+      {
+        "measure": "Pharmacokinetic Parameters",
+        "time_frame": "From baseline to 24 hours after drug administration",
+        "description": "Pharmacokinetics of trabectedin will be analyzed through blood samples to assess drug absorption, distribution, metabolism, and excretion."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "5",
+    "condition": ["Recurrent Advanced Sarcoma"],
+    "arm_group": [
+      {
+        "arm_group_label": "Trabectedin + Standard Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive trabectedin intravenously over 3 hours in combination with standard chemotherapy on specified cycles."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Trabectedin",
+        "description": "Administered as an intravenous infusion on Day 1 of each treatment cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Histologically confirmed advanced sarcoma with no curative treatment options available. \n- Measurable disease assessed by RECIST criteria. \n- Patients aged 18 years or older. \n- Performance status: ECOG 0-1.\n- Adequate hematologic and hepatic function as per protocol.\n\nExclusion Criteria: \n- Previous exposure to trabectedin. \n- Serious concurrent medical conditions. \n- Active infectious disease. \n- Pregnant or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Pharmaceuticals"
+    },
+    "location": [{
+      "facility": {
+        "name": "ABC Cancer Center",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10010",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "April 1, 2019",
+    "study_first_posted": "April 15, 2019",
+    "last_update_posted": "March 5, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Trabectedin", "advanced sarcoma", "chemotherapy", "Phase I", "oncology"]
+  }
+}
+```

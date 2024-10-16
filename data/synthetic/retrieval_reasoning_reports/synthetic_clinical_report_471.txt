@@ -1,0 +1,144 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00777777"
+    },
+    "id_info": {
+      "org_study_id": "NCT-TRAS-01",
+      "nct_id": "NCT00777777"
+    },
+    "brief_title": "Evaluating Trastuzumab and Everolimus in Patients With Advanced HER2-Positive Breast Cancer",
+    "official_title": "A Phase II Study of Trastuzumab (Herceptin) Combined With Everolimus for Patients With Advanced HER2-Positive Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Trials Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Trials Research Institute",
+    "brief_summary": {
+      "textblock": "This phase II clinical trial aimed to assess the efficacy and safety of trastuzumab in combination with everolimus in patients with HER2-positive breast cancer that has progressed after prior treatment. The focus was to evaluate the rates of clinical response and the safety profile of co-administration over a six-month treatment period."
+    },
+    "detailed_description": {
+      "textblock": "The study included patients with confirmed HER2-positive breast cancer who had previously undergone at least one line of therapy. Participants were randomized to receive either trastuzumab alone or trastuzumab plus everolimus, with the intention to determine whether the addition of everolimus improved clinical outcomes.\n\nThe primary endpoint was the overall clinical response rate at 24 weeks. Secondary objectives included progression-free survival and safety assessment based on the NCI-CTCAE criteria. Pharmacokinetic analyses aimed to explore potential interactions between trastuzumab and everolimus.\n\nPatients were monitored bi-weekly for adverse events and therapeutic response through imaging and clinical evaluation."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was halted by the Data Monitoring Committee due to significant concerns regarding the safety profile which indicated a high incidence of overlapping toxicities detrimental to patient welfare. Furthermore, difficulties in recruiting eligible patients due to stringent criteria reduced expected enrollment numbers.",
+    "start_date": "February 2008",
+    "primary_completion_date": "December 2012",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical Response Rate at 24 Weeks",
+      "time_frame": "24 Weeks",
+      "description": "Measured as the percentage of patients demonstrating objective response to treatment based on RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "24 months",
+        "description": "Duration from the start of treatment until disease progression or death."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Duration of Study Treatment",
+        "description": "Assessed via frequency and severity of adverse events recorded according to NCI CTCAE v4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "63",
+    "condition": "Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I: Trastuzumab Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive trastuzumab (Herceptin) IV weekly for 24 weeks."
+      },
+      {
+        "arm_group_label": "Arm II: Trastuzumab + Everolimus",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive trastuzumab IV weekly and everolimus orally daily for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Trastuzumab",
+        "description": "Administered as an IV infusion at a loading dose followed by weekly maintenance doses.",
+        "arm_group_label": ["Arm I", "Arm II"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Everolimus",
+        "description": "Administered as an oral formulation daily.",
+        "arm_group_label": "Arm II"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed HER2-positive breast cancer.\n- Advanced disease with measurable lesions.\n- Prior treatment with at least one line of systemic therapy.\n- ECOG performance status 0-1.\n\nExclusion Criteria:\n- History of severe hypersensitivity to either agent.\n- Significant comorbid conditions that contraindicate therapy.\n- Pregnant or nursing females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jennifer R. Wells, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Trials Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Metropolitan Comprehensive Cancer Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "North Valley Medical Center",
+          "address": {
+            "city": "Sacramento",
+            "state": "California",
+            "zip": "95814",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2024",
+    "study_first_submitted": "January 15, 2008",
+    "study_first_posted": "February 25, 2008",
+    "last_update_posted": "August 15, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["HER2-positive breast cancer", "trastuzumab", "everolimus"],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trastuzumab", "Everolimus"]
+    }
+  }
+}
+```

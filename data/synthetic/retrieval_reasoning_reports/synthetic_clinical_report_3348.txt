@@ -1,0 +1,257 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04298765"
+    },
+    "id_info": {
+      "org_study_id": "PZB-0820",
+      "secondary_id": "2020-001234-22",
+      "nct_id": "NCT04298765"
+    },
+    "brief_title": "A Phase II Trial Evaluating the Efficacy of Pertuzumab in Combination with Trastuzumab and Aromatase Inhibitors for Advanced HER2-Positive Breast Cancer",
+    "acronym": "HERA",
+    "official_title": "A Randomized, Open-Label, Multi-Center Phase II Study of Pertuzumab in Combination with Trastuzumab and Aromatase Inhibitors in Patients with HER2-Positive and Hormone Receptor-Positive Advanced Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Genentech, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Genentech, Inc.",
+    "oversight_info": {
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II study aims to evaluate the combination of pertuzumab with trastuzumab and aromatase inhibitors in patients diagnosed with advanced HER2-positive and hormone receptor-positive breast cancer. The study seeks to determine the efficacy, safety, and overall outcomes, leveraging the synergistic properties of the treatment regimen."
+    },
+    "detailed_description": {
+      "textblock": "The trial focuses on the assessment of the combined therapeutic effects of pertuzumab, trastuzumab, and aromatase inhibitors, capitalizing on their ability to concurrently target HER2 and hormone-receptor pathways. The study emphasizes a selection strategy prioritizing patients with confirmed HER2-positive status and measurable disease to ensure relevant tumor biology. The multi-center approach enhances patient diversity and robustness of the findings, while comprehensive monitoring protocols are intended to minimize adverse effects and maximize therapeutic efficacy."
+    },
+    "overall_status": "Completed",
+    "start_date": "July 15, 2020",
+    "completion_date": "December 30, 2023",
+    "primary_completion_date": "November 30, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Pathologic Complete Response Rate (pCR)",
+      "time_frame": "At time of surgery, within 3 weeks from the last intravenous therapy",
+      "description": "Pathologic complete response (pCR) will be evaluated as the complete absence of invasive tumor cells in breast and axillary lymph nodes post-treatment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Every 3 cycles until disease progression or completion of treatment, up to 36 months",
+        "description": "The overall response rate (ORR) is defined as the proportion of participants achieving a confirmed complete response (CR) or partial response (PR) as judged by RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From initiation of treatment until disease progression or death, approximately 3 years",
+        "description": "PFS defined as the time from registration to the first documented disease progression or death due to any cause. Assessment is by RECIST v1.1."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "At the time of surgery, within 3 weeks from the last treatment",
+        "description": "CBR will be evaluated as the percentage of participants who achieve CR, PR, or stable disease for 6 months or longer."
+      },
+      {
+        "measure": "Adverse Event Profile (AEP)",
+        "time_frame": "From baseline until 28 days after last study treatment",
+        "description": "An assessment of all adverse events will be conducted using NCI-CTCAE version 5.0; severity and causality will be determined by investigators."
+      },
+      {
+        "measure": "Correlative Biomarker Analysis",
+        "time_frame": "Post-treatment tissue samples will be analyzed for potential predictive biomarkers.",
+        "description": "Tumor and blood samples will be analyzed to investigate potential biomarkers of response and resistance to treatment for further translational research efforts."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "HER2-Positive and Hormone Receptor-Positive Advanced Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Pertuzumab + Trastuzumab + Aromatase Inhibitor",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive pertuzumab 840 mg IV loading dose on Day 1 followed by 420 mg every 3 weeks, trastuzumab 8 mg/kg loading dose on Day 1 followed by 6 mg/kg every 3 weeks, and an oral aromatase inhibitor (letrozole 2.5 mg) daily for a maximum of 12 months."
+      },
+      {
+        "arm_group_label": "Trastuzumab + Aromatase Inhibitor (Control)",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive trastuzumab 8 mg/kg loading dose on Day 1 followed by 6 mg/kg every 3 weeks, and an oral aromatase inhibitor (letrozole 2.5 mg) daily for a maximum of 12 months."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pertuzumab",
+        "description": "Administered as a loading dose of 840 mg IV on Day 1 of the first treatment cycle, followed by a maintenance dose of 420 mg every three weeks.",
+        "arm_group_label": [
+          "Pertuzumab + Trastuzumab + Aromatase Inhibitor"
+        ],
+        "other_name": "Perjeta"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Trastuzumab",
+        "description": "Administered as a loading dose of 8 mg/kg IV on Day 1, followed by 6 mg/kg every three weeks.",
+        "arm_group_label": [
+          "Pertuzumab + Trastuzumab + Aromatase Inhibitor",
+          "Trastuzumab + Aromatase Inhibitor (Control)"
+        ],
+        "other_name": "Herceptin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Letrozole",
+        "description": "Administered orally at a dose of 2.5 mg daily throughout the treatment duration.",
+        "arm_group_label": [
+          "Pertuzumab + Trastuzumab + Aromatase Inhibitor",
+          "Trastuzumab + Aromatase Inhibitor (Control)"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically or cytologically confirmed invasive breast cancer with HER2-positive and hormone receptor-positive status.\r\n- Stage II or III disease, measurable target lesions, and adequate organ function.\r\n- Postmenopausal status defined by age or surgical history.\r\n- ECOG performance status 0-1.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior anti-HER2 therapy, chemotherapy, or radiation for metastatic disease.\r\n- Any uncontrolled comorbidities such as severe cardiovascular conditions or immune disorders.\r\n- Pregnant or breastfeeding women."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Amelia Santos, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Genentech, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University of California, San Francisco",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94143",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic Cancer Center",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Massachusetts General Hospital",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02114",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "February 2024",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_submitted_qc": "January 20, 2020",
+    "study_first_posted": "February 10, 2020",
+    "last_update_submitted": "February 25, 2024",
+    "last_update_submitted_qc": "February 26, 2024",
+    "last_update_posted": "February 28, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms", "Breast Cancer, HER2-Positive"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Pertuzumab", "Trastuzumab", "Aromatase Inhibitors"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 150 participants have been enrolled in the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Pertuzumab + Trastuzumab + Aromatase Inhibitor",
+              "description": "Participants assigned to this arm will receive the full combination regimen."
+            },
+            {
+              "title": "Trastuzumab + Aromatase Inhibitor",
+              "description": "Participants assigned to control will receive trastuzumab and aromatase inhibitors without pertuzumab."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Pathologic Complete Response Rate (pCR)",
+            "description": "Evaluated at surgery, where pCR indicates the absence of invasive cancer.",
+            "time_frame": "At time of surgery, within 3 weeks from last therapy",
+            "population": "ITT population"
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "Defined as the time from treatment initiation to death from any cause.",
+            "time_frame": "Censored for survival analysis at last follow-up",
+            "population": "ITT population"
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Time from treatment initiation to progression or death.",
+            "time_frame": "Censored for survival analysis",
+            "population": "ITT population"
+          }
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,139 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000745678",
+      "secondary_id": ["ABC-234", "XYZ-567"],
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Evaluation of Filgrastim in Combination with Chemotherapy for Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study of Filgrastim in Conjunction with Platinum-Based Chemotherapy in Treating Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University Cancer Center",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University Cancer Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Filgrastim (G-CSF) enhances the mobilization of hematopoietic stem cells, thereby potentially mitigating chemotherapy-induced neutropenia. Utilizing filgrastim alongside chemotherapeutic agents may contribute to improved hematological recovery rates in patients with non-small cell lung cancer (NSCLC), affording them the possibility of undergoing optimal doses of chemotherapy.",
+      "purpose": "This Phase II trial aims to assess the efficacy and safety of filgrastim when given in conjunction with a platinum-based chemotherapy regimen in subjects diagnosed with advanced NSCLC."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n  - To investigate the overall response rate to platinum-based chemotherapy when combined with filgrastim in patients with advanced non-small cell lung cancer.\n  - To evaluate the toxicity profile of filgrastim in conjunction with chemotherapy.\n  - To ascertain the duration of hematological recovery and its correlation with treatment response.\n  - To measure changes in relevant biomarkers of efficacy and toxicity during the treatment period.\n\nOUTLINE:\n  - Patients will receive a standard platinum-based chemotherapy regimen comprising cisplatin or carboplatin doubled with either paclitaxel or gemcitabine.\n  - Filgrastim will be administered subcutaneously at a dosage of 5 mcg/kg daily starting from day 3 of chemotherapy until blood counts recover.\n  - Patients will undergo routine blood tests to monitor for adverse hematological events and assess biomarkers indicative of treatment response.\n  - Follow-up visits will occur every 4 weeks post-treatment initially, transitioning to every 12 weeks until one year has passed."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Poor accrual, high toxicity reports, and lack of efficacy signal.",
+    "start_date": "January 2015",
+    "completion_date": "June 2020",
+    "primary_completion_date": "June 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall response rate",
+      "time_frame": "within 6 months"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Toxicity profile assessment",
+        "time_frame": "10 weeks"
+      },
+      {
+        "measure": "Duration of hematological recovery",
+        "time_frame": "6 months"
+      },
+      {
+        "measure": "Biomarker changes associated with treatment",
+        "time_frame": "6 months"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Filgrastim in combination with chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Administration of filgrastim (5 mcg/kg) with standard chemotherapy agents in patients with advanced non-small cell lung cancer."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "filgrastim",
+        "description": "5 mcg/kg daily starting from day 3 of chemotherapy administration until recovery of blood counts."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "cisplatin",
+        "description": "Standard dosage administered on day 1."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "paclitaxel",
+        "description": "Administered as an intravenous infusion on day 1."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Histologically confirmed non-small cell lung cancer (NSCLC).\n  - Patients must be stage III or IV, with measurable disease.\n  - Must have an ECOG performance status of 0-2.\n  - Adequate bone marrow, liver, and renal function as determined by laboratory tests.\n\nExclusion Criteria:\n  - Prior chemotherapy or radiotherapy for lung cancer.\n  - History of allergic reactions to filgrastim or any component of the regimen.\n  - Active and uncontrolled infections.\n  - Known history of significant cardiac or pulmonary disease.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "University Cancer Center",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62701",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "January 5, 2015",
+    "study_first_submitted_qc": "January 10, 2015",
+    "study_first_posted": "January 15, 2015",
+    "last_update_submitted": "July 1, 2020",
+    "last_update_posted": "July 5, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University Cancer Center",
+      "investigator_full_name": "John Doe",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": ["non-small cell lung cancer", "filgrastim", "chemotherapy", "platinum-based therapy"],
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Non-Small Cell Lung Carcinoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Filgrastim", "Cisplatin", "Paclitaxel"]
+    }
+  }
+}
+```

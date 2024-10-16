@@ -1,0 +1,135 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02233456"
+    },
+    "id_info": {
+      "org_study_id": "NCT02233456",
+      "nct_id": "NCT02233456"
+    },
+    "brief_title": "Oxaliplatin and Pembrolizumab in Patients With Advanced Gastric Cancer",
+    "official_title": "A Phase II Study of Oxaliplatin Combined With Pembrolizumab in Patients With Advanced Gastric Cancer Previously Treated With Platinum-Based Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Cancer Research",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Merck & Co., Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Institute of Cancer Research",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical research study aimed to determine the safety and efficacy of the combination of oxaliplatin and pembrolizumab in participants with advanced gastric cancer who had previously been treated with platinum-based therapies."
+    },
+    "detailed_description": {
+      "textblock": "The treatment intention was to evaluate oxaliplatin in conjunction with pembrolizumab, an immunotherapy agent, for advanced gastric cancer. Treatment cycles comprised of oxaliplatin administered intravenously at a dose of 100 mg/m² on Day 1 and pembrolizumab administered at 200 mg on Day 1 of a 21-day cycle. \n\n Patients were intended to receive treatment for a maximum of 6 cycles unless disease progression occurred or unacceptable toxicity was experienced. The study hypothesized that combining chemotherapy with immunotherapy might enhance the therapeutic effect, providing a comprehensive approach to cancer management. \n\nCorrelative studies aimed to assess predictive biomarker responses through blood and tissue sampling for the evaluation of immune modulation."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and high toxicity rates leading to participant reluctance.",
+    "start_date": "December 2015",
+    "completion_date": "April 2018",
+    "primary_completion_date": "April 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Measured after 3 cycles of treatment",
+      "description": "ORR defined as the percentage of patients achieving a complete or partial response as per RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Duration from the start of treatment until progression or death",
+        "description": "PFS will be assessed through radiographic evaluations every two cycles."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "Throughout the treatment period",
+        "description": "Adverse events will be assessed using NCI Common Terminology Criteria for Adverse Events (CTCAE) v4.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "20",
+    "condition": "Gastric Cancer",
+    "arm_group": {
+      "arm_group_label": "Oxaliplatin + Pembrolizumab",
+      "arm_group_type": "Experimental",
+      "description": "Oxaliplatin administered at 100 mg/m² on Day 1 and Pembrolizumab at 200 mg on Day 1 of a 21-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "100 mg/m² IV on Day 1 of a 21-day cycle",
+        "arm_group_label": "Oxaliplatin + Pembrolizumab",
+        "other_name": "Eloxatin™"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "200 mg IV on Day 1 of a 21-day cycle",
+        "arm_group_label": "Oxaliplatin + Pembrolizumab",
+        "other_name": "Keytruda™"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed advanced gastric cancer, previously treated with platinum-based chemotherapy.\n- Measurable disease defined by RECIST criteria.\n- Zubrod Performance Status of 0-1.\n- Sufficient organ function (blood count, liver function, renal function).\n\nExclusion Criteria:\n- Active central nervous system metastasis.\n- Prior treatment with immune checkpoint inhibitors.\n- History of significant hypersensitivity to any components of the study drugs.\n- Uncontrolled concomitant illnesses that may compromise compliance with the protocol."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alberto Chiappori, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Cancer Research"
+    },
+    "location": {
+      "facility": {
+        "name": "National Institute of Cancer Research",
+        "address": {
+          "city": "Washington",
+          "state": "D.C.",
+          "zip": "20001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2018",
+    "study_first_submitted": "October 22, 2015",
+    "study_first_posted": "November 10, 2015",
+    "last_update_submitted": "May 12, 2018",
+    "last_update_posted": "May 15, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Gastric Cancer", "Oxaliplatin", "Pembrolizumab", "Immunotherapy"],
+    "condition_browse": {
+      "mesh_term": ["Stomach Neoplasms", "Gastric Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Oxaliplatin", "Pembrolizumab"]
+    }
+  }
+}
+```

@@ -1,0 +1,260 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01512345"
+    },
+    "id_info": {
+      "org_study_id": "PREDICT-2020",
+      "secondary_id": "NCI-2011-02107",
+      "nct_id": "NCT01512345"
+    },
+    "brief_title": "Plerixafor in Combination With G-CSF for Stem Cell Mobilization in Patients With Multiple Myeloma",
+    "official_title": "A Randomized, Open-Label, Phase II Study to Evaluate the Efficacy of Plerixafor Combined With Granulocyte Colony-Stimulating Factor (G-CSF) for Stem Cell Mobilization in Patients With Multiple Myeloma Previously Treated With Lenalidomide",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cleveland Clinic Taussig Cancer Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Cleveland Clinic Taussig Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy of plerixafor in conjunction with G-CSF for stem cell mobilization in patients with multiple myeloma who had received lenalidomide. The study sought to improve the mobilization of stem cells but faced significant barriers leading to early termination."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective of this study was to determine if the inclusion of plerixafor would enhance the number of patients achieving a target collection of > 5 x 10^6 CD34+ cells/kg within the first two days of apheresis compared to historical data. Secondary objectives included assessment of mobilization efficiency, duration of apheresis procedures, and characterization of safety profiles.\n\nThe study was designed to randomize participants to receive either G-CSF alone or G-CSF combined with plerixafor over a predetermined schedule. Despite the initial promise, several factors adversely affected the trial outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment, safety concerns, and limited efficacy results",
+    "start_date": "February 2012",
+    "primary_completion_date": "March 2015",
+    "completion_date": "August 2016",
+    "phase": "Phase II",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Crossover Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Patients Reaching CD34+ Cells Target Collection",
+      "time_frame": "Within two days of leukapheresis",
+      "description": "The proportion of subjects achieving the defined mobilization threshold using plerixafor combined with G-CSF compared to historical controls."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Days of Apheresis Required",
+        "time_frame": "Up to 28 days post-treatment",
+        "description": "Comparison of the number of apheresis days between mobilization groups."
+      },
+      {
+        "measure": "Safety and Adverse Event Profiles",
+        "time_frame": "Up to 1 year post-treatment",
+        "description": "Frequency of reported adverse events as classified by the Common Terminology Criteria for Adverse Events (CTCAE)."
+      },
+      {
+        "measure": "Overall Survival Rate",
+        "time_frame": "1 year post-transplant",
+        "description": "Assessing overall survival rates to evaluate long-term outcomes in the mobilization cohorts."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I: G-CSF Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive G-CSF subcutaneously once daily for eight days."
+      },
+      {
+        "arm_group_label": "Arm II: G-CSF Plus Plerixafor",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive G-CSF on days 1-7 and plerixafor on days 4-7."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Filgrastim (G-CSF)",
+        "description": "Administered subcutaneously to enhance stem cell mobilization.",
+        "arm_group_label": "G-CSF Alone and G-CSF Plus Plerixafor",
+        "other_name": ["Neupogen", "G-CSF"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Plerixafor",
+        "description": "Administered subcutaneously to potentiate mobilization efficacy.",
+        "arm_group_label": "G-CSF Plus Plerixafor",
+        "other_name": ["Mozobil", "AMD 3100"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients with a diagnosis of multiple myeloma that have received at least two cycles of lenalidomide therapy.\n- ECOG performance status 0-1.\n- Adequate organ function as defined by criteria set forth in the protocol.\n\nExclusion Criteria:\n- Previous autologous or allogeneic stem cell transplant.\n- Evidence of progressive disease at enrollment.\n- Unable to provide informed consent."
+      },
+      "gender": "All",
+      "minimum_age": "19 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alan K. Artandi, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cleveland Clinic"
+    },
+    "location": {
+      "facility": {
+        "name": "Cleveland Clinic Taussig Cancer Institute",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2018",
+    "study_first_submitted": "January 5, 2012",
+    "study_first_posted": "January 7, 2012",
+    "last_update_posted": "April 12, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Multiple Myeloma",
+      "Plerixafor",
+      "Stem Cell Mobilization",
+      "Lenalidomide",
+      "G-CSF"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Multiple myeloma", "Neoplasms, plasma cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Plerixafor", "G-CSF"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Treatment Groups",
+            "description": "Patients enrolled were divided into two arms; however, low recruitment significantly limited the study's ability to draw conclusions."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [15]
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": [15]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "Participants enrolled and randomized.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Arm I: G-CSF Alone",
+                "description": "G-CSF administered daily."
+              },
+              {
+                "title": "Arm II: G-CSF Plus Plerixafor",
+                "description": "G-CSF plus plerixafor administered as per protocol."
+              }
+            ]
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [58]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [5]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [10]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Percentage of Patients Achieving CD34+ Target Collection",
+              "time_frame": "Within 2 Days Post-Apheresis",
+              "description": "Due to low patient accrual, no significant results were derived concerning the primary outcome as needed enrollment numbers were not met."
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival and Safety",
+              "time_frame": "1 Year Post-Transplant",
+              "description": "No meaningful analysis could be conducted owing to diminutive participant numbers failing to accumulate data pertinent for effective statistical analysis."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

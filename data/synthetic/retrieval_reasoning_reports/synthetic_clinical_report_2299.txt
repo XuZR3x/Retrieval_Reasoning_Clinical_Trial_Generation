@@ -1,0 +1,135 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04012345"
+    },
+    "id_info": {
+      "org_study_id": "EudraCT-2020-001234-85",
+      "nct_id": "NCT04012345"
+    },
+    "brief_title": "Exploration of Afatinib Maintenance Therapy After First-Line Cisplatin-Based Chemotherapy",
+    "acronym": "AFAM-1",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Afatinib as Maintenance Therapy Following First-Line Cisplatin-Based Induction Chemotherapy in Patients With Locally Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Translational Cancer Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Translational Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial aims to evaluate the maintenance efficacy of afatinib in patients with locally advanced squamous cell carcinoma of the head and neck undergoing treatment with cisplatin-based induction chemotherapy. The primary endpoint is progression-free survival compared to a historical control."
+    },
+    "detailed_description": {
+      "textblock": "Patients diagnosed with locally advanced squamous cell carcinoma of the head and neck will receive standard induction chemotherapy with cisplatin and pemetrexed. Those who achieve a confirmed complete response (CR) or partial response (PR) are eligible to enter the maintenance phase with afatinib (40 mg daily) for up to 12 months. This study aims to investigate whether maintaining afatinib therapy post-induction can extend progression-free survival compared to historical data for patients who only underwent induction therapy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient sample size and high incidence of adverse events led to study termination. Enrollment was significantly lower than anticipated, and reported safety data revealed a concerning rate of Grade 3 or higher toxicities, prompting the decision to halt the trial.",
+    "start_date": "March 1, 2020",
+    "completion_date": "Lisa 25, 2023",
+    "primary_completion_date": "March 10, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-free survival",
+      "time_frame": "12 months",
+      "description": "Measured from the start of maintenance therapy until disease progression or death."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival",
+        "time_frame": "24 months",
+        "description": "Evaluated from the start of the study until death from any cause."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "During treatment duration",
+        "description": "Number of participants experiencing serious adverse events as defined by NCI CTCAE Version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "20",
+    "condition": "Locally Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "arm_group": {
+      "arm_group_label": "Afatinib Maintenance Therapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive afatinib 40 mg orally once daily after the induction chemotherapy for a total duration of up to 12 months."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Afatinib",
+        "description": "Oral administration of 40 mg daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Histologically confirmed diagnosis of locally advanced squamous cell carcinoma of the head and neck.\r\n2. Completed at least 2 cycles of cisplatin-based induction chemotherapy.\r\n3. Achieved a CR or PR according to RECIST 1.1.\r\n4. ECOG performance status of 0-1.\r\n5. Adequate organ function: creatinine clearance ≥ 60 mL/min, bilirubin ≤ 1.5 times ULN.\r\n6. Age ≥ 18 years.\r\n7. Signed informed consent.\r\n\r\nExclusion Criteria:\r\n1. Known hypersensitivity to afatinib or any excipients in the formulation.\r\n2. Prior treatment with other EGFR inhibitors.\r\n3. Uncontrolled intercurrent illness including active infection, symptomatic heart failure.\r\n4. Any history of interstitial lung disease.\r\n5. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Translational Cancer Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Translational Cancer Research Institute",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94107",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_submitted_qc": "January 20, 2020",
+    "study_first_posted": "January 25, 2020",
+    "last_update_submitted": "August 20, 2023",
+    "last_update_posted": "August 22, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "contact_info": {
+        "name_or_title": "Emily Wright",
+        "organization": "Translational Cancer Research Institute",
+        "phone": "415-555-1234",
+        "email": "ewright@mail.com"
+      }
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma, Squamous Cell",
+        "Squamous Cell Carcinoma of Head and Neck"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Afatinib"
+      ]
+    },
+    "limitations_and_caveats": "The trial was terminated due to low patient enrollment and a high incidence of adverse events during the maintenance phase, which raised concerns regarding the ongoing safety profile of afatinib in the specified population."
+  }
+}
+```

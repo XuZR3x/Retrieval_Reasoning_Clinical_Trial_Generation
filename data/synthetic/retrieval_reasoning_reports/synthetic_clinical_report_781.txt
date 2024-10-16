@@ -1,0 +1,131 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03045678"
+    },
+    "id_info": {
+      "org_study_id": "20-4556",
+      "nct_id": "NCT03045678"
+    },
+    "brief_title": "Multicenter Trial of Gabapentin for Pain Management in Patients with Chronic Musculoskeletal Pain",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy of Gabapentin for Pain Management in Patients with Chronic Musculoskeletal Pain",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Michigan",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Michigan",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of gabapentin as a treatment for chronic musculoskeletal pain through a randomized, double-blind design. Subjects were to receive either gabapentin or placebo over a 12-week period, with outcomes assessed at regular intervals. Unfortunately, the study was terminated prematurely due to high rates of patient withdrawal and insufficient enrollment."
+    },
+    "detailed_description": {
+      "textblock": "Chronic musculoskeletal pain is a pervasive condition that significantly impacts patients' quality of life. Current treatment modalities often rely heavily on opioids, which carry a substantial risk of dependence and adverse effects. This trial aimed to investigate the hypothesis that gabapentin, known for its potential in managing neuropathic pain, could provide a viable alternative for pain relief without the associated risks of narcotics.\n\nPatients with a diagnosis of chronic musculoskeletal pain were recruited from multiple sites. Participants were to be randomized to receive either gabapentin in incremental dosing up to 1200 mg daily, or placebo, for 12 weeks. Primary outcomes were defined as reductions in pain scores measured via a visual analog scale, while secondary outcomes included patient-reported quality of life assessments and opioid usage monitoring.\n\nDespite this promising rationale, the trial faced significant hurdles. The recruitment strategies employed were insufficient, leading to markedly lower than expected enrollment numbers. Additionally, variability in patient responses to gabapentin may have contributed to difficulties in obtaining conclusive efficacy data.\n\nMoreover, the complexity of the pain mechanisms in chronic musculoskeletal cases may have limited gabapentin's therapeutic effectiveness, suggesting that multi-modal pain management strategies may be necessary. Many enrollees cited diverse expectations regarding analgesic effectiveness that diverged from the study outcomes, leading to participant dissatisfaction and subsequently increased dropout rates.\n\nWhile attempts were made to standardize dosing regimens and monitor adherence closely, the inherent pharmacokinetic variability in gabapentin metabolism among individuals could not be adequately controlled, further hampering the study’s validity and ability to draw reliable conclusions."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and high attrition rates",
+    "start_date": "March 2017",
+    "completion_date": "June 2019",
+    "primary_completion_date": "January 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Average Pain Score Reduction",
+      "time_frame": "12 weeks",
+      "description": "Measured using a visual analog scale from baseline to 12 weeks."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Patient-Reported Outcomes Measurement Information System (PROMIS)",
+        "time_frame": "12 weeks",
+        "description": "Evaluated via chronic pain CAT (Computer Adaptive Test)."
+      },
+      {
+        "measure": "Opioid Use Assessment",
+        "time_frame": "12 weeks",
+        "description": "Assessed through patient self-report on daily opioid use."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "56",
+    "condition": "Chronic Musculoskeletal Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Gabapentin Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive gabapentin up to 1200 mg daily."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive placebo treatment."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Gabapentin",
+      "description": "Gabapentin administered orally, with titration up to 1200 mg daily.",
+      "arm_group_label": "Gabapentin Group",
+      "other_name": "Neurontin"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Aged 18-65 years\n- Diagnosis of chronic musculoskeletal pain (duration >6 months)\n- Able to provide informed consent\n\nExclusion Criteria:\n\n- Presence of severe psychiatric disorders\n- Pregnancy or breastfeeding\n- History of substance use disorder\n- Renal impairment\n- Previous surgical intervention for pain"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Michigan"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Michigan Medical Center",
+        "address": {
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "February 12, 2017",
+    "study_first_posted": "February 15, 2017",
+    "last_update_submitted": "March 22, 2020",
+    "last_update_posted": "March 24, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["chronic pain", "gabapentin", "musculoskeletal", "pain management"],
+    "condition_browse": {
+      "mesh_term": "Chronic Pain"
+    },
+    "intervention_browse": {
+      "mesh_term": "Gabapentin"
+    }
+  }
+}
+```

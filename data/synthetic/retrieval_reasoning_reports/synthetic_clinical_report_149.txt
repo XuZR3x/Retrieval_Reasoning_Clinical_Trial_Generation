@@ -1,0 +1,236 @@
+**Clinical Trial Report: Evaluation of Metformin in Combination Therapy for Newly Diagnosed Type 2 Diabetes Mellitus**
+
+{"clinical_study": {
+  "required_header": {
+    "download_date": "ClinicalTrials.gov processed this data on September 1, 2024",
+    "link_text": "Link to the current ClinicalTrials.gov record.",
+    "url": "https://clinicaltrials.gov/ct2/show/NCT02555674"
+  },
+  "id_info": {
+    "org_study_id": "MTF-2345",
+    "nct_id": "NCT02555674"
+  },
+  "brief_title": "Randomized Study to Assess the Efficacy and Safety of Metformin in Combination With Linagliptin in Newly Diagnosed Type 2 Diabetes Mellitus Patients",
+  "official_title": "A Multicenter, Randomized, Double-blind, Active-Controlled Clinical Trial to Evaluate the Efficacy and Safety of Metformin in Combination With Linagliptin Versus Linagliptin Monotherapy in Newly Diagnosed Patients With Type 2 Diabetes Mellitus",
+  "sponsors": {
+    "lead_sponsor": {
+      "agency": "ABC Pharmaceuticals",
+      "agency_class": "Industry"
+    }
+  },
+  "source": "ABC Pharmaceuticals",
+  "oversight_info": {
+    "has_dmc": "Yes"
+  },
+  "brief_summary": {
+    "textblock": "This study aims to evaluate the efficacy of metformin combined with linagliptin as a treatment strategy for glycemic control in individuals diagnosed with type 2 diabetes within the past year."
+  },
+  "overall_status": "Completed",
+  "start_date": "March 2016",
+  "completion_date": "August 2018",
+  "primary_completion_date": "March 2018",
+  "phase": "Phase III",
+  "study_type": "Interventional",
+  "has_expanded_access": "No",
+  "study_design_info": {
+    "allocation": "Randomized",
+    "intervention_model": "Parallel Assignment",
+    "primary_purpose": "Treatment",
+    "masking": "Double (Participant, Investigator)"
+  },
+  "primary_outcome": {
+    "measure": "Change in HbA1c from Baseline to Week 24",
+    "time_frame": "Baseline and Week 24",
+    "description": "The primary efficacy measure is the reduction in HbA1c, reflecting improved glycemic regulation."
+  },
+  "secondary_outcome": [
+    {
+      "measure": "Change in fasting plasma glucose (FPG) from Baseline to Week 24",
+      "time_frame": "Baseline and Week 24",
+      "description": "Measurement of FPG changes provides additional insight into glycemic control."
+    },
+    {
+      "measure": "Proportion of patients achieving HbA1c < 7% at Week 24",
+      "time_frame": "Week 24",
+      "description": "The incidence of patients meeting glycemic targets is assessed."
+    },
+    {
+      "measure": "Incidence of adverse events",
+      "time_frame": "Throughout the study duration",
+      "description": "Recording of adverse events to evaluate the safety profile of the combination therapy."
+    }
+  ],
+  "number_of_arms": "2",
+  "enrollment": "400",
+  "condition": "Type 2 Diabetes Mellitus",
+  "arm_group": [
+    {
+      "arm_group_label": "Metformin + Linagliptin",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive metformin (1000 mg to 2000 mg) in conjunction with linagliptin (5 mg) once daily for 24 weeks."
+    },
+    {
+      "arm_group_label": "Linagliptin",
+      "arm_group_type": "Active Comparator",
+      "description": "Patients receive linagliptin (5 mg) alone once daily for 24 weeks."
+    }
+  ],
+  "intervention": [
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Metformin",
+      "description": "Administered at 1000 mg to 2000 mg per day, adjusted based on efficacy and tolerance.",
+      "arm_group_label": "Metformin + Linagliptin"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Linagliptin",
+      "description": "5 mg oral tablet administered once daily for the entire treatment duration.",
+      "arm_group_label": ["Metformin + Linagliptin", "Linagliptin"]
+    }
+  ],
+  "eligibility": {
+    "criteria": {
+      "textblock": "Inclusion Criteria:\n- Patients aged 18-75 years, newly diagnosed with Type 2 Diabetes Mellitus (less than 12 months prior to screening).\n- Treatment-naïve status.\n- HbA1c between 8% and 12% at screening.\n- Willingness to comply with study protocol including visits and assessments.\n\nExclusion Criteria:\n- History of severe uncontrolled hypertension, hypoglycemia events, recent cardiovascular events, or renal impairment (Creatinine clearance < 60 mL/min).\n- Pregnant or lactating women.\n- History of gastrointestinal diseases affecting drug absorption."
+    },
+    "gender": "All",
+    "minimum_age": "18 Years",
+    "maximum_age": "75 Years",
+    "healthy_volunteers": "No"
+  },
+  "location": [
+    {
+      "facility": {
+        "name": "XYZ University Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "country": "USA"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "ABC Community Hospital",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "USA"
+        }
+      }
+    }
+  ],
+  "location_countries": {
+    "country": "USA"
+  },
+  "verification_date": "September 2022",
+  "study_first_submitted": "February 12, 2016",
+  "study_first_submitted_qc": "February 16, 2016",
+  "study_first_posted": "February 20, 2016",
+  "results_first_submitted": "September 1, 2018",
+  "results_first_submitted_qc": "September 1, 2018",
+  "results_first_posted": "October 15, 2018",
+  "last_update_submitted": "September 15, 2022",
+  "last_update_submitted_qc": "September 15, 2022",
+  "last_update_posted": "September 20, 2022",
+  "responsible_party": {
+    "responsible_party_type": "Sponsor"
+  },
+  "condition_browse": {
+    "mesh_term": [
+      "Diabetes Mellitus",
+      "Diabetes Mellitus, Type 2"
+    ]
+  },
+  "intervention_browse": {
+    "mesh_term": [
+      "Metformin",
+      "Linagliptin"
+    ]
+  },
+  "clinical_results": {
+    "participant_flow": {
+      "group_list": {
+        "group": [
+          {
+            "title": "Metformin + Linagliptin",
+            "description": "Patients receiving combination therapy."
+          },
+          {
+            "title": "Linagliptin",
+            "description": "Patients receiving single agent therapy."
+          }
+        ]
+      },
+      "period_list": {
+        "period": {
+          "title": "Overall Study",
+          "milestone_list": {
+            "milestone": [
+              {
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [400, 200]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [350, 150]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [50, 50]
+                }
+              }
+            ]
+          },
+          "drop_withdraw_reason_list": {
+            "drop_withdraw_reason": [
+              {
+                "title": "Adverse Event",
+                "participants_list": {
+                  "participants": [10, 5]
+                }
+              },
+              {
+                "title": "Withdrawal by Subject",
+                "participants_list": {
+                  "participants": [15, 10]
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "outcome_list": {
+      "outcome": [
+        {
+          "type": "Primary",
+          "title": "Change in HbA1c from Baseline to Week 24",
+          "population": "Per Protocol Population",
+          "description": "The primary endpoint showed a clinically meaningful and statistically significant reduction in HbA1c of 1.2% in the Metformin + Linagliptin group compared to a 0.4% reduction in Linagliptin alone (p < 0.001)."
+        },
+        {
+          "type": "Secondary",
+          "title": "Change in FPG from Baseline to Week 24",
+          "population": "All Participants Treated",
+          "description": "The Metformin + Linagliptin group demonstrated significant improvement in FPG, with a mean decrease of 40 mg/dL, versus a decrease of 10 mg/dL in the Linagliptin group (p < 0.05)."
+        },
+        {
+          "type": "Secondary",
+          "title": "Proportion of Patients Achieving HbA1c < 7% at Week 24",
+          "population": "All Participants Treated",
+          "description": "The proportion achieving target HbA1c levels (<7%) was 60% in the Metformin + Linagliptin group versus 25% in the Linagliptin group (p < 0.001)."
+        },
+        {
+          "type": "Safety",
+          "title": "Adverse Events",
+          "description": "Reported adverse events were consistent with known profiles, with gastrointestinal events more notable in the Metformin group (n=10) but overall well-tolerated."
+        }
+      ]
+    }
+}}

@@ -1,0 +1,178 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03602455"
+    },
+    "id_info": {
+      "org_study_id": "Palbo-Onco",
+      "nct_id": "NCT03602455"
+    },
+    "brief_title": "Palbociclib Combined With Targeted Endocrine Therapy in Metastatic Hormone Receptor Positive Breast Cancer",
+    "official_title": "A Phase 3, Multicenter, Open-Label, Randomized Study to Evaluate the Efficacy and Safety of Palbociclib in Combination with Targeted Endocrine Therapy in Women with Hormone Receptor Positive, HER2 Negative Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Institute",
+        "agency_class": "Non-Profit"
+      },
+      "collaborator": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the efficacy of treatments combining palbociclib, a selective CDK 4/6 inhibitor, with targeted endocrine therapies in patients with advanced hormone receptor-positive breast cancer. The study aims to address resistance to conventional endocrine treatments."
+    },
+    "detailed_description": {
+      "textblock": "The trial is designed to exploit the unique properties of palbociclib which selectively inhibits CDK 4/6, effectively disrupting cell cycle progression in HR+/HER2- breast cancer cells that have previously shown resistance to endocrine therapies. By integrating this with a targeted endocrine therapy regimen tailored to the patients' prior treatment history, the study seeks to enhance treatment outcomes compared to endocrine therapy alone. This multicenter trial included rigorous methodologies, ensuring valid and reliable results through randomization and diverse patient recruitment."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2018",
+    "completion_date": "November 15, 2023",
+    "primary_completion_date": "August 1, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization to the date of the first documentation of disease progression or death (up to 36 months)",
+      "description": "PFS is defined as the time from randomization to the first documentation of progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization to the date of death (up to 4 years)",
+        "description": "OS is defined as the time from randomization until death from any cause. This will be assessed in all randomized participants."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "From randomization to 6 months after treatment",
+        "description": "CBR is defined as the proportion of participants demonstrating a complete or partial response or stable disease for at least 24 weeks."
+      },
+      {
+        "measure": "Rate of Grade 3 or Higher Adverse Events",
+        "time_frame": "Throughout the treatment duration (up to 2 years)",
+        "description": "The number of participants experiencing serious adverse events classified as grade 3 or higher according to the NCI CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "240",
+    "condition": "Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Palbociclib + Endocrine Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants received palbociclib 125 mg PO daily for 21 days with a 7-day break, in conjunction with an aromatase inhibitor or fulvestrant."
+      },
+      {
+        "arm_group_label": "Endocrine Therapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard endocrine therapy either with tamoxifen or an aromatase inhibitor without palbociclib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Palbociclib",
+        "description": "CDK 4/6 inhibitor administered orally at a dose of 125 mg daily for 21 days with a 7-day rest period.",
+        "arm_group_label": ["Palbociclib + Endocrine Therapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Endocrine Therapy",
+        "description": "Participants received an aromatase inhibitor (letrozole, anastrozole, or exemestane) or tamoxifen as part of their treatment plan.",
+        "arm_group_label": ["Palbociclib + Endocrine Therapy", "Endocrine Therapy Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Women with histologically confirmed hormone receptor-positive, HER2-negative invasive breast cancer with documented disease progression after prior endocrine therapy.\r\n  - ECOG performance status of 0-1.\r\n  - Adequate organ function defined by laboratory results.\r\n  - Must be postmenopausal at the time of study entry.\r\n\r\nExclusion Criteria:\r\n  - Previous treatment with a CDK 4/6 inhibitor.\r\n  - Unmanaged concurrent illness or history of another malignancy within the last 5 years.\r\n  - Active infections or systemic chemotherapy within the previous 4 weeks."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Research Hospital",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "NCI Designated Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2024",
+    "study_first_submitted": "September 10, 2017",
+    "study_first_submitted_qc": "September 12, 2017",
+    "study_first_posted": "September 15, 2017",
+    "results_first_submitted": "October 5, 2023",
+    "results_first_submitted_qc": "October 12, 2023",
+    "results_first_posted": "October 15, 2023",
+    "last_update_submitted": "October 1, 2024",
+    "last_update_posted": "October 3, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Oncology Institute",
+      "investigator_full_name": "Jane Doe, MD"
+    },
+    "keyword": [
+      "Palbociclib",
+      "Hormone receptor positive",
+      "HER2 negative",
+      "Breast cancer",
+      "Metastatic"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Palbociclib",
+        "Anastrozole",
+        "Letrozole",
+        "Exemestane",
+        "Tamoxifen"
+      ]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes"
+    }
+  }
+}
+```

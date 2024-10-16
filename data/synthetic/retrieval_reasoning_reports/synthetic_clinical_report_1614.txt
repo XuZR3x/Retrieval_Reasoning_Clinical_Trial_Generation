@@ -1,0 +1,371 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04582345"
+    },
+    "id_info": {
+      "org_study_id": "DAPA-20-12001",
+      "nct_id": "NCT04582345"
+    },
+    "brief_title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled, Phase II Study to Evaluate the Efficacy and Safety of Dapagliflozin in Patients With Type 2 Diabetes and Chronic Kidney Disease",
+    "official_title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled, Phase II Trial to Assess the Efficacy and Safety of Dapagliflozin Administered to Patients With Type 2 Diabetes and Moderate to Severe Chronic Kidney Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AstraZeneca",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy and safety of dapagliflozin in patients with type 2 diabetes (T2D) having moderate to severe chronic kidney disease (CKD). The pharmacological action of dapagliflozin involves inhibiting SGLT2, leading to enhanced glucose excretion and decreased blood glucose levels, providing valuable treatment for patients struggling with glucose management in the context of CKD."
+    },
+    "detailed_description": {
+      "textblock": "The trial enrolled 500 participants who met the eligibility criteria, consisting of individuals with T2D and varying degrees of CKD, defined as an estimated glomerular filtration rate (eGFR) of <60 mL/min/1.73m². Enrolled patients were randomized into two groups featuring dapagliflozin (10 mg daily) and placebo, while receiving standard diabetes care. The study was conducted across 50 clinical sites, ensuring a diverse participant demographic covering various age groups, ethnic backgrounds, and co-morbid conditions."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 15, 2021",
+    "completion_date": "October 30, 2021",
+    "primary_completion_date": "October 30, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in HbA1c at Week 24",
+      "time_frame": "Baseline and Week 24",
+      "description": "To evaluate the effectiveness of dapagliflozin in reducing HbA1c in participants with T2D and CKD. The analysis will be adjusted for baseline HbA1c."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Fasting Plasma Glucose at Week 24",
+        "time_frame": "Baseline and Week 24",
+        "description": "To assess the impact of dapagliflozin on fasting plasma glucose levels post-treatment at 24 weeks."
+      },
+      {
+        "measure": "Percentage of Participants Achieving HbA1c <7.0% at Week 24",
+        "time_frame": "Baseline and Week 24",
+        "description": "To determine the proportion of participants achieving therapeutic glycemic response at the 24-week mark."
+      },
+      {
+        "measure": "Change in Kidney Function Indicators at Week 24",
+        "time_frame": "Baseline and Week 24",
+        "description": "To monitor any changes in eGFR and proteinuria as secondary endpoints, illustrating the compound effects of dapagliflozin on renal function."
+      },
+      {
+        "measure": "Reduction in Insulin Requirements",
+        "time_frame": "Throughout the treatment period",
+        "description": "To evaluate the reduction in insulin needs during dapagliflozin treatment across participants."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": [
+      "Type 2 Diabetes Mellitus",
+      "Chronic Kidney Disease"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Dapagliflozin Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received dapagliflozin 10 mg orally once daily for 24 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo orally once daily for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dapagliflozin",
+        "description": "10 mg, oral tablet, administered once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Identical tablet, administered once daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 years or older with a confirmed diagnosis of type 2 diabetes.\n2. eGFR between 30 and 60 mL/min/1.73m² at screening.\n3. HbA1c between 7.0% and 10.5% at screening.\n4. Providing informed consent for participation in the study.\n\nExclusion Criteria:\n\n1. History of diabetic ketoacidosis or hyperosmolar hyperglycemic state within the last 6 months.\n2. Severe renal impairment (eGFR <30 mL/min/1.73m²).\n3. Any form of cancer treated within the past five years.\n4. Significant clinically unstable conditions (cardiovascular, liver, or hematologic).\n5. Pregnant or lactating females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Clinical Research Center",
+          "address": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "zip": "30303",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Diabetes Care Clinic",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60604",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Endocrinology Institute",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "link": [],
+    "results_reference": {
+      "citation": "Johnson et al. 'Efficacy and Safety of Dapagliflozin in Patients With Type 2 Diabetes and Chronic Kidney Disease: Results of a Multicenter, Randomized Trial'. Diabetes Therapeutics. 2022.",
+      "PMID": "12345678"
+    },
+    "verification_date": "November 2022",
+    "study_first_submitted": "September 1, 2020",
+    "study_first_submitted_qc": "September 1, 2020",
+    "study_first_posted": "September 15, 2020",
+    "last_update_submitted": "November 10, 2022",
+    "last_update_submitted_qc": "November 10, 2022",
+    "last_update_posted": "November 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Type 2",
+        "Chronic Kidney Disease"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Dapagliflozin"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial was conducted across 50 sites with a total enrollment of 500 participants. Out of these, 450 completed the treatment period. Randomization was stratified based on age and baseline eGFR levels to ensure balanced representation.",
+        "pre_assignment_details": "Participants were screened for eligibility via medical history, physical exams, and laboratory tests (including kidney function tests). Informed consent was obtained prior to participation."
+      },
+      "baseline": {
+        "population": "All randomized participants who received at least one dose of study medication.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Dapagliflozin Treatment",
+              "description": "Participants received dapagliflozin 10 mg orally once daily."
+            },
+            {
+              "title": "Placebo Treatment",
+              "description": "Participants received placebo orally once daily."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [
+                450,
+                250
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change From Baseline in HbA1c at Week 24",
+            "description": "To evaluate the effectiveness of dapagliflozin in reducing HbA1c levels in participants.",
+            "time_frame": "Baseline to Week 24",
+            "population": "All randomized participants who received at least one dose of study medication.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Dapagliflozin Group",
+                  "description": "Dapagliflozin treatment."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Placebo treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Adjusted Mean Change From Baseline in HbA1c",
+              "units": "% of hemoglobin",
+              "param": "Mean",
+              "dispersion": "Standard Error",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [
+                      225,
+                      225
+                    ]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": [
+                  {
+                    "group_id_list": {
+                      "group_id": [
+                        "O1",
+                        "O2"
+                      ]
+                    },
+                    "non_inferiority_type": "Superiority",
+                    "method": "ANCOVA",
+                    "param_type": "Mean Difference (Final Values)",
+                    "param_value": "-1.25",
+                    "ci_percent": "95",
+                    "ci_n_sides": "2-Sided",
+                    "ci_lower_limit": "-1.50",
+                    "ci_upper_limit": "-1.00",
+                    "p_value": "<0.0001"
+                  }
+                ]
+              }
+            }
+          }, 
+          {
+            "type": "Secondary",
+            "title": "Proportion of Participants Achieving HbA1c <7.0% at Week 24",
+            "description": "To assess the therapeutic efficacy of dapagliflozin in achieving target HbA1c levels.",
+            "time_frame": "From Baseline to Week 24",
+            "population": "All randomized participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Efficient Group",
+                  "description": "Participants showing effective treatment."
+                },
+                {
+                  "title": "Inefficient Group",
+                  "description": "Participants not achieving the target."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Percentage of Participants Achieving Target",
+              "units": "Percentage",
+              "param": "Mean",
+              "dispersion": "Standard Error",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [
+                      250,
+                      200
+                    ]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": [
+                  {
+                    "group_id_list": {
+                      "group_id": [
+                        "O1",
+                        "O2"
+                      ]
+                    },
+                    "non_inferiority_type": "Superiority",
+                    "method": "Logistic Regression",
+                    "param_type": "Odds Ratio",
+                    "param_value": "3.2",
+                    "ci_percent": "95",
+                    "ci_n_sides": "2-Sided",
+                    "ci_lower_limit": "2.1",
+                    "ci_upper_limit": "4.1",
+                    "p_value": "<0.0001"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From randomization through 30 days post-treatment.",
+        "desc": "Any adverse events were recorded, including serious adverse events such as hospitalization or severe complications.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Dapagliflozin Group",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Serious Adverse Events",
+                    "counts": "8"
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Placebo Group",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Serious Adverse Events",
+                    "counts": "12"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There exists no agreement that restricts the PI's rights to discuss or publish trial results following the trial completion."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trials Coordinator",
+      "organization": "AstraZeneca",
+      "email": "clinicaltrials@astrazeneca.com"
+    }
+  }
+}
+```

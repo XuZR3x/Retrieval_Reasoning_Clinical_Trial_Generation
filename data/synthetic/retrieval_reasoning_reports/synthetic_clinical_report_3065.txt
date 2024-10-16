@@ -1,0 +1,269 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "1234-5678",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Sorafenib in Patients with Advanced Hepatocellular Carcinoma",
+    "official_title": "A Multicenter, Randomized Phase II Trial Evaluating the Efficacy and Safety of Sorafenib in Patients with Advanced Hepatocellular Carcinoma (HCC) Who Have Received Prior Systemic Therapy: A TARGET Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Cancer Research Consortium",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Sorafenib Manufacturer Corporation",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Cancer Research Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Sorafenib has demonstrated significant antitumor activity in preclinical and clinical studies targeting key signaling pathways in hepatocellular carcinoma (HCC). As both a multikinase inhibitor and an agent that inhibits tumor angiogenesis, sorafenib's mechanism may manifest a pronounced impact on patient prognosis, particularly in those with advanced malignancies. The current trial examines sorafenib's efficacy in a well-defined cohort of advanced HCC patients."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\n  -  To evaluate the objective response rate (ORR) to sorafenib as compared to placebo in patients that previously received systemic therapy for advanced HCC.\n  \n  -  To assess progression-free survival (PFS), overall survival (OS), and safety profile, including dose-limiting toxicities (DLTs).\n\nOUTLINE: This is a randomized, multicenter study involving patients who are stratified based on prior treatment regimens and liver function status (Child-Pugh Class A vs B).\n\n  -  Treatment Arm: Patients receive oral sorafenib at a dose of 400 mg twice daily. Therapy continues until disease progression, unacceptable toxicity, or withdrawal of consent.\n  \n  -  Control Arm: Patients receive oral placebo twice daily for the same duration. Patients in this arm will have the option to switch to sorafenib upon progression.\n\nPATIENT MONITORING: Patients are evaluated for response every 8 weeks using RECIST 1.1 criteria, and adverse events are monitored continuously. A safety review committee oversees protocol adherence and safety outcomes.\n \nPROJECTED ACCRUAL: Roughly 250 patients are anticipated to be enrolled across various centers over a span of 24 months."
+    },
+    "overall_status": "Completed",
+    "start_date": "November 5, 2010",
+    "completion_date": "March 2021",
+    "primary_completion_date": "February 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR) at 12 Weeks",
+      "time_frame": "Measured at 12 weeks post-treatment initiation",
+      "description": "ORR is defined as the proportion of patients who exhibit a complete response (CR) or partial response (PR) according to RECIST criteria at the 12-week assessment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization to progression or death, assessed up to 3 years.",
+        "description": "PFS is defined as the time from randomization to the first occurrence of disease progression or death, whichever occurs first."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization to death, assessed up to 3 years.",
+        "description": "OS is defined as the time from randomization until death from any cause."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Adverse events assessed continuously from the start of treatment until 28 days after the last dose.",
+        "description": "Safety is measured by the incidence of adverse events categorized by the Common Terminology Criteria for Adverse Events (CTCAE) version 4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Hepatocellular Carcinoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Sorafenib Arm",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive sorafenib 400 mg orally twice daily until disease progression or unacceptable toxicity."
+      },
+      {
+        "arm_group_label": "Placebo Arm",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive a matched placebo orally twice daily until disease progression or unacceptable toxicity."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Sorafenib",
+        "description": "Oral administration at a dose of 400 mg twice daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Orally administered matched placebo."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Histologically or cytologically confirmed hepatocellular carcinoma (HCC) not suitable for curative therapy.\r\n\r\n  -  Age ≥ 18 years with a Karnofsky performance status > 60.\r\n\r\n  -  Child-Pugh A classification with well-managed liver function.\r\n\r\n  -  At least one measurable lesion as defined by RECIST 1.1.\r\n\r\n  -  Previous systemic therapy for HCC accepted (e.g., sorafenib or other molecular agents).\r\n\r\nExclusion Criteria:\r\n\r\n  -  Prior treatment with sorafenib in any setting.\r\n\r\n  -  Active infectious disease requiring systemic therapy.\r\n\r\n  -  Uncontrolled hypertension or cardiovascular disease.\r\n\r\n  -  Concurrent investigational therapy or any other malignancy within the last 5 years.\r\n\r\n  -  Significant uncontrolled medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, MD",
+      "role": "Lead Investigator",
+      "affiliation": "Global Cancer Research Consortium"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Metropolitan Cancer Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Advanced Therapeutics Institute",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "October 15, 2010",
+    "study_first_posted": "November 1, 2010",
+    "last_update_posted": "March 5, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Hepatocellular Carcinoma",
+      "Advanced Liver Cancer",
+      "Sorafenib",
+      "Phase II Trial"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma, Hepatocellular",
+        "Liver Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Sorafenib"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Recruitment began in November 2010, with the final patient enrolled by February 2013.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Sorafenib Arm",
+              "description": "Patients treated with sorafenib exhibited significant clinical response."
+            },
+            {
+              "title": "Placebo Arm",
+              "description": "Patients receiving placebo had limited or no response."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Trial Period Overview",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      250
+                    ]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null,
+                      240,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "Analyzed for both efficacy and safety metrics.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Sorafenib",
+                "description": "Preliminary analysis showed improved PFS."
+              },
+              {
+                "title": "Placebo",
+                "description": "Response rates were comparatively diminished."
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Objective Response Rate",
+            "description": "Percentage of patients achieving CR or PR.",
+            "time_frame": "Evaluated at 12 weeks post-randomization.",
+            "measure": {
+              "title": "Objective Response Rate (ORR)",
+              "description": "Defined per RECIST criteria."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Duration until disease progression.",
+            "time_frame": "From randomization to progression assessed up to 36 months.",
+            "measure": {
+              "title": "PFS Duration",
+              "description": "Measured using Kaplan-Meier methodology."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Other Adverse Events",
+            "description": "Incidence of adverse reactions during the trial.",
+            "time_frame": "Assessed from start of treatment until 30 days post last dose.",
+            "measure": {
+              "title": "Adverse Event Incidence",
+              "description": "Categorized by CTCAE version 4.0."
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

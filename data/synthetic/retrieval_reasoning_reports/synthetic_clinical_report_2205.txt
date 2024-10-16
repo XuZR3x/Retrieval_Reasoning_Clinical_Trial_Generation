@@ -1,0 +1,146 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on April 10, 2025",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02718567"
+    },
+    "id_info": {
+      "org_study_id": "Study-Olanzapine-GI-003",
+      "nct_id": "NCT02718567"
+    },
+    "brief_title": "Evaluating the Effect of Olanzapine on Symptoms of Functional Dyspepsia",
+    "official_title": "A Phase 2 Randomized, Placebo-Controlled, Double-Blind Trial of Olanzapine for Symptomatic Relief in Patients With Functional Dyspepsia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Gastroenterology",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "National Institute of Gastroenterology",
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and safety concerns",
+    "start_date": "March 2016",
+    "completion_date": "July 2021",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double-blinding"
+    },
+    "primary_outcome": {
+      "measure": "Change in Symptom Severity Using the Gastrointestinal Symptom Rating Scale (GSRS)",
+      "time_frame": "Baseline to 8 weeks",
+      "description": "Patients will be assessed at baseline and then weekly for 8 weeks to evaluate symptom improvement."
+    },
+    "secondary_outcome": [{
+        "measure": "Change in Quality of Life assessed by the EQ-5D scale",
+        "time_frame": "Baseline to 8 weeks",
+        "description": "Evaluation of overall health-related quality of life."
+      },
+      {
+        "measure": "Percentage of patients reporting adverse events",
+        "time_frame": "Throughout the study",
+        "description": "Monitoring safety profile including metabolic parameters."
+      }
+    ],
+    "enrollment": "15",
+    "condition": "Functional Dyspepsia",
+    "arm_group": [{
+        "arm_group_label": "Olanzapine",
+        "arm_group_type": "Experimental",
+        "description": "Olanzapine administered at 5 mg daily for 8 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered for 8 weeks."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Olanzapine",
+        "description": "5 mg orally once daily for 8 weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo tablet taken orally once daily for 8 weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 to 65 years\n- Diagnosis of functional dyspepsia as defined by Rome IV criteria\n- Symptoms present for at least 3 months\n\nExclusion Criteria:\n- History of gastrointestinal surgeries affecting motility\n- Current psychiatric diagnoses, including schizophrenia and bipolar disorder\n- Recent history of substance abuse or dependency\n- Patients on other medications impacting gastric motility.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Margaret Ellis",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Gastroenterology"
+    },
+    "location": {
+      "facility": {
+        "name": "National Institute of Gastroenterology",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02118",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "December 15, 2015",
+    "study_first_posted": "December 20, 2015",
+    "last_update_posted": "July 1, 2021",
+    "keyword": ["olanzapine", "functional dyspepsia", "gastroparesis", "gastrointestinal symptoms"],
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "description": "Patients were assigned to receive olanzapine or placebo. Significant challenges in recruitment were encountered."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Study Period",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "Started",
+                  "participants_list": {
+                    "participants": 25
+                  }
+                },
+                {
+                  "title": "Completed",
+                  "participants_list": {
+                    "participants": 15
+                  }
+                },
+                {
+                  "title": "Not Completed",
+                  "participants_list": {
+                    "participants": 10
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "limitations_and_caveats": "The trial was substantially affected by recruitment difficulties, resulting in a small sample size. Furthermore, the safety profile of olanzapine raised concerns, impacting patient retention and willingness to continue participation."
+    }
+  }
+}
+```

@@ -1,0 +1,128 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "2023-00123-15",
+      "secondary_id": "2023-123456",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Assessment of Everolimus in Patients with Advanced Neuroendocrine Tumors",
+    "acronym": "NETEVAL",
+    "official_title": "Phase II Study Assessing the Efficacy and Safety of Everolimus in Patients with Advanced Neuroendocrine Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Direction des Travaux Analytiques et de Recherche en Oncologie",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Direction des Travaux Analytiques et de Recherche en Oncologie",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This is a multicenter, open-label, phase II clinical trial designed to evaluate the efficacy and safety of everolimus in patients diagnosed with advanced neuroendocrine tumors. The study aims to enroll approximately 75 patients and assess the 12-month progression-free survival rate (PFS) as the primary outcome measure. The secondary objectives involve evaluating overall survival (OS), response rates, and toxicity profile associated with everolimus treatment."
+    },
+    "overall_status": "Terminated",
+    "start_date": "March 2021",
+    "completion_date": "October 2023",
+    "primary_completion_date": "October 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From enrollment until disease progression or death, up to 12 months",
+      "description": "PFS will be assessed through radiological imaging and clinical evaluation."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From enrollment until the date of death from any cause, up to 24 months",
+        "description": "Recorded survival time until death."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "Evaluated every 3 months until disease progression, up to 24 months",
+        "description": "Based on RECIST 1.1 criteria."
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "From start of treatment until progression or discontinuation, up to 24 months",
+        "description": "Adverse events categorized by CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "42",
+    "condition": "Neuroendocrine Tumors",
+    "arm_group": {
+      "arm_group_label": "Everolimus",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive everolimus orally at a dose of 10 mg once daily."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Everolimus",
+      "description": "Everolimus administered at a dosage of 10 mg orally once daily."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  1. Histologically confirmed diagnosis of advanced neuroendocrine tumors, including carcinoid and pancreatic origin.\r\n  2. Age ≥ 18 years.\r\n  3. Measurable disease per RECIST criteria.\r\n  4. ECOG performance status 0-2.\r\n  5. No ongoing therapeutic interventions for neuroendocrine tumors.\r\n  6. Adequate organ function: creatinine < 1.5 × ULN, bilirubin < 1.5 × ULN, AST/ALT < 2.5 × ULN (or < 5 × ULN in the case of liver involvement).\r\n  7. Written informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  1. Prior treatment with mTOR inhibitors.\r\n  2. Current or prior diagnosis of invasive malignancies within the past 5 years, except non-melanoma skin cancer.\r\n  3. Symptomatic brain metastases or active central nervous system disease.\r\n  4. Significant cardiovascular disease, uncontrolled hypertension, or major organ dysfunction.\r\n  5. Pregnancy or lactation at the time of study enrollment.\r\n  6. Inability to comply with study requirements."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Claire Dupont",
+      "role": "Study Chair",
+      "affiliation": "Direction des Travaux Analytiques et de Recherche en Oncologie"
+    },
+    "location": {
+      "facility": {
+        "name": "Centre Hospitalier Universitaire",
+        "address": {
+          "city": "Lyon",
+          "state": "Auvergne-Rhône-Alpes",
+          "zip": "69003",
+          "country": "France"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "France"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "February 15, 2022",
+    "study_first_submitted_qc": "February 15, 2022",
+    "study_first_posted": "February 20, 2022",
+    "last_update_submitted": "May 10, 2023",
+    "last_update_submitted_qc": "May 10, 2023",
+    "last_update_posted": "May 11, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Neuroendocrine Tumors",
+        "Carcinoid Tumor",
+        "Pancreatic Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Everolimus"
+    }
+  }
+}
+```

@@ -1,0 +1,124 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03304000"
+    },
+    "id_info": {
+      "org_study_id": "A123456",
+      "nct_id": "NCT03304000"
+    },
+    "brief_title": "Efficacy and Tolerability of Asenapine in Patients With Treatment-Resistant Schizophrenia",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Assessing the Efficacy and Safety of Asenapine in Individuals With Treatment-Resistant Schizophrenia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Therapeutics Corp.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Innovative Therapeutics Corp.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Schizophrenia presents significant challenges, particularly in treatment-resistant cases, which necessitate alternative therapeutic options. This study aimed to evaluate the efficacy and safety of asenapine, compared to placebo, in patients diagnosed with treatment-resistant schizophrenia, defined as prior inadequate responses to at least two different antipsychotics. The hypothesis posited that patients would exhibit a measurable decrease in symptoms, as indicated by changes in PANSS scores, after a 12-week treatment period."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Funding constraints and challenges in obtaining adequate patient enrollment due to strict eligibility criteria.",
+    "start_date": "January 15, 2018",
+    "completion_date": "March 8, 2020",
+    "primary_completion_date": "February 28, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change from baseline in PANSS total score at 12 weeks",
+      "time_frame": "Baseline, weeks 4, 8, and 12",
+      "description": "The Positive and Negative Syndrome Scale (PANSS) will be utilized to assess the severity of symptoms associated with schizophrenia."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in clinical global impression (CGI) scores",
+        "time_frame": "Baseline, weeks 4, 8, and 12",
+        "description": "The Clinical Global Impression scale will be used to evaluate the patient's overall state."
+      },
+      {
+        "measure": "Adverse events (AEs) and serious adverse events (SAEs)",
+        "time_frame": "Screening through week 12",
+        "description": "Adverse events will be recorded and monitored to evaluate the safety profile of asenapine."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "65",
+    "condition": "Treatment-Resistant Schizophrenia",
+    "arm_group": [
+      {
+        "arm_group_label": "Asenapine Group",
+        "arm_group_type": "Experimental",
+        "description": "Asenapine 5-10 mg sublingual administered twice daily."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo administered sublingually twice daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Asenapine",
+        "description": "Asenapine 5-10 mg sublingual BID",
+        "arm_group_label": "Asenapine Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo, sublingual tablets matching asenapine",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Diagnosis of treatment-resistant schizophrenia according to DSM-5 criteria.\r\n- Age 18-65 years.\r\n- Current episode of exacerbation lasting at least 4 weeks.\r\n\r\nExclusion Criteria:\r\n- Significant medical conditions or history of non-response to asenapine.\r\n- Pregnant or breastfeeding females.\r\n- History of hypersensitivity to any component of the medication."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": {
+      "facility": {
+        "name": "Innovative Therapeutics Clinical Research Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "March 2020",
+    "study_first_submitted": "November 2, 2017",
+    "study_first_posted": "November 3, 2017",
+    "last_update_posted": "March 10, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Innovative Therapeutics Corp."
+    },
+    "condition_browse": {
+      "mesh_term": "Schizophrenia"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Asenapine"]
+    }
+  }
+}
+```

@@ -1,0 +1,306 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04556432"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000846574",
+      "nct_id": "NCT04556432"
+    },
+    "brief_title": "Ipilimumab for Patients With Unresectable Stage IV Triple-Negative Breast Cancer",
+    "official_title": "A Phase II Study of Ipilimumab in Patients With Unresectable Stage IV Triple-Negative Breast Cancer Following Treatment With Anthracycline and Taxane-Based Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Breast Cancer Research Foundation",
+        "agency_class": "Non-Profit"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "brief_summary": {
+      "textblock": "This phase II trial evaluates the efficacy and safety of ipilimumab in patients with unresectable stage IV triple-negative breast cancer (TNBC) who have previously received anthracycline and taxane-based therapy and demonstrate disease progression."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES: \n\nPrimary\n - Determine the objective response rate (ORR) as per RECIST v1.1 in patients with unresectable stage IV TNBC treated with ipilimumab.\n\nSecondary\n - Evaluate the safety profile of ipilimumab and characterize the incidence of immune-related adverse events (irAEs).\n - Assess progression-free survival (PFS) and overall survival (OS).\n - Explore tumor biomarker expression profiles including PD-L1 and tumor mutational burden (TMB) related to treatment outcomes.\n\nOUTLINE: This is a single-arm, open-label study. Patients receive ipilimumab intravenously on days 1, 15, and 29 of every 84-day cycle for a total of 4 cycles unless disease progression or unacceptable toxicity occurs. Following this, patients will be monitored for an additional year."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and high rate of immune-related adverse events",
+    "start_date": "September 10, 2020",
+    "completion_date": "March 29, 2022",
+    "primary_completion_date": "January 15, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Assessments will be conducted at baseline and every 8 weeks thereafter until disease progression or 24 weeks, whichever occurs first.",
+      "description": "The proportion of participants achieving a complete or partial response according to RECIST v1.1 criteria."
+    },
+    "number_of_arms": "1",
+    "enrollment": "7",
+    "condition": "Triple-Negative Breast Cancer",
+    "arm_group": {
+      "arm_group_label": "Ipilimumab Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Ipilimumab administered intravenously on specified schedule."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Ipilimumab",
+      "description": "Ipilimumab administered intravenously per specified dosing schedule in a treatment cycle.",
+      "arm_group_label": "Ipilimumab Treatment Group"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Histologically confirmed diagnosis of unresectable stage IV triple-negative breast cancer.\n2. Received at least one prior line of systemic therapy including an anthracycline and taxane-based agent, with disease progression following treatment.\n3. Measurable disease as defined by RECIST v1.1 criteria.\n4. ECOG performance status of 0-2.\n5. Adequate organ function, defined by laboratory tests performed within 14 days prior to enrollment.\n\nExclusion Criteria:\n1. Prior treatment with immune checkpoint inhibitors or any investigational agents within 30 days prior to enrollment.\n2. Active autoimmune disease or history of severe immune-related adverse events from prior treatments.\n3. Pregnant or breastfeeding women.\n4. Significant concurrent conditions that could interfere with study assessments or treatment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah Blaze, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "UCSF Helen Diller Family Comprehensive Cancer Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94158",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "August 30, 2020",
+    "study_first_submitted_qc": "September 1, 2020",
+    "study_first_posted": "September 8, 2020",
+    "results_first_submitted": "February 1, 2022",
+    "results_first_submitted_qc": "February 3, 2022",
+    "results_first_posted": "February 7, 2022",
+    "last_update_submitted": "March 1, 2023",
+    "last_update_submitted_qc": "March 1, 2023",
+    "last_update_posted": "March 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of California, San Francisco"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Ipilimumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Due to stringent eligibility criteria and an insufficient patient enrollment rate, only 7 participants were enrolled before termination.",
+        "pre_assignment_details": "7 participants were screened but only 7 were treated.",
+        "group_list": {
+          "group": {
+            "title": "Ipilimumab Treatment Group",
+            "description": "Patients received ipilimumab following prior treatment with anthracycline and taxane."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "7 participants were screened and treated."
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "Study was terminated due to insufficient enrollment."
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "Study failed to achieve recruitment goals due primarily to strict eligibility criteria."
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": {
+            "title": "Adverse Event and Withdrawal",
+            "participants_list": {
+              "participants": "Four participants withdrew due to immune-related adverse events and three due to protocol non-compliance."
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Ipilimumab Treatment Group",
+            "description": "Patients received ipilimumab treatment."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": {
+                "n": 7
+              }
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age Distribution",
+              "units": "Years",
+              "param": "Mean, Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [
+                          {
+                            "title": "All Participants",
+                            "value": "55 ± 12"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex Distribution",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [
+                            {
+                              "value": "7"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Objective Response Rate (ORR)",
+          "description": "The ORR could not be determined due to study termination before sufficient data collection.",
+          "time_frame": "Not applicable due to study termination.",
+          "population": "No analyzes were conducted due to the limited number of participants treated.",
+          "group_list": {
+            "group": {
+              "title": "Ipilimumab Treatment Group",
+              "description": "Ipilimumab was provided to patients to evaluate treatment response."
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "All adverse events occurred during treatment and within 30 days after the last dose.",
+        "desc": "Adverse events included immune-related adverse events that led to discontinuation in 4 participants.",
+        "group_list": {
+          "group": {
+            "title": "Ipilimumab Treatment Group",
+            "description": "Ipilimumab was administered intravenously."
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE (4.0)",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Serious Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Immune-Related Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Grade 3 Colitis",
+                      "counts": null
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": {
+              "title": "Other Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There are no agreements with the sponsor that would limit the PI's freedom to publish results."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Sarah Blaze",
+        "organization": "UCSF Helen Diller Family Comprehensive Cancer Center",
+        "phone": "415-514-1300",
+        "email": "sblaze@ucsf.edu"
+      }
+    }
+  }
+}
+```

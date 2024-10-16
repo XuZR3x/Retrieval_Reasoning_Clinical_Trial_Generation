@@ -1,0 +1,242 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04511111"
+    },
+    "id_info": {
+      "org_study_id": "202332145",
+      "nct_id": "NCT04511111"
+    },
+    "brief_title": "Evaluation of Exenatide Efficacy on Cardiovascular Parameters in Patients With Type 2 Diabetes and Hypertension",
+    "official_title": "A Multicenter, Randomized, Double-blind, Placebo-Controlled Trial to Assess the Effects of Exenatide on Mean 24-Hour Heart Rate and Blood Pressure in Patients With Type 2 Diabetes and Concurrent Hypertension",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "University Medical Center",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the effect of exenatide, administered twice daily, compared to placebo over a 16-week period, on 24-hour heart rate and blood pressure in patients with type 2 diabetes and hypertension. Despite initial promise, the trial faced substantial recruitment challenges."
+    },
+    "detailed_description": {
+      "textblock": "The study enrolled patients diagnosed with type 2 diabetes and hypertension, assessing cardiovascular metrics as primary endpoints. Challenges in participant recruitment led to the trial being underpowered with respect to statistical validity. Only 32 participants were enrolled out of the targeted 100, ultimately resulting in early termination of the study. Key assessments such as the pharmacodynamics of exenatide were not thoroughly evaluated, which raises concerns regarding the conclusions drawn on its efficacy on cardiovascular parameters.\n\nFurthermore, numerous patients faced complications related to existing comorbidities. Concurrent treatments for hypertension complicated the effect analysis of exenatide on heart rate and blood pressure measurements. In-depth dose-response relationship assessments were insufficiently structured, as the trial employed only standard dosages of 5mcg, with adjustments to higher doses lacking justification through initial results. Adverse events, primarily gastrointestinal disturbances such as nausea and vomiting, were prevalent as well, further decreasing compliance and exacerbating dropout rates owing to intolerable side effects."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and retention.",
+    "start_date": "March 2021",
+    "completion_date": "August 2022",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Mean 24-Hour Heart Rate from Baseline to Endpoint",
+      "time_frame": "16 weeks",
+      "description": "Evaluation of change in average heart rate measured over a 24-hour period via continuous monitoring."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Mean 24-Hour Diastolic Blood Pressure from Baseline to Endpoint",
+        "time_frame": "16 weeks",
+        "description": "Assessment of diastolic blood pressure over a 24-hour period using ambulatory blood pressure monitoring."
+      },
+      {
+        "measure": "Change in Mean 24-Hour Systolic Blood Pressure from Baseline to Endpoint",
+        "time_frame": "16 weeks",
+        "description": "Evaluation of systolic blood pressure changes monitored continuously over 24 hours."
+      },
+      {
+        "measure": "Change in Glycated Hemoglobin (HbA1c) from Baseline to Endpoint",
+        "time_frame": "16 weeks",
+        "description": "Determination of HbA1c percentage change post-treatment based on blood samples."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "32",
+    "condition": ["Type 2 Diabetes", "Hypertension"],
+    "arm_group": [
+      {
+        "arm_group_label": "Exenatide Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received subcutaneous injections of 5 mcg exenatide twice daily for the first 8 weeks, followed by 10 mcg twice daily for the remainder of the study."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo subcutaneous injections twice daily, matching the schedule of the experimental group."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "exenatide",
+        "description": "Subcutaneous injection, 5 mcg twice daily for the first 8 weeks, followed by 10 mcg twice daily.",
+        "arm_group_label": "Exenatide Group",
+        "other_name": ["Byetta", "AC2993"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "Subcutaneous injection mimicking the volume of exenatide but without active ingredients.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Diagnosed with type 2 diabetes on stable oral hypoglycemic agents.\n  - Concurrent diagnosis of hypertension with systolic BP >130 mmHg or diastolic BP >80 mmHg.\n  - HbA1c levels between 6.5% and 9.5%.\n\nExclusion Criteria:\n\n  - Previous treatment with exenatide or other GLP-1 agonists.\n  - Significant gastrointestinal disorders that could interfere with pharmacodynamic assessment.\n  - Uncontrolled cardiovascular disease or recent history of hospitalization for cardiac events."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John Doe, MD",
+        "role": "Principal Investigator",
+        "affiliation": "XYZ Pharmaceuticals"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "XYZ Clinical Research Unit",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "January 12, 2021",
+    "study_first_submitted_qc": "February 2, 2021",
+    "study_first_posted": "March 1, 2021",
+    "results_first_submitted": "September 15, 2022",
+    "results_first_submitted_qc": "September 20, 2022",
+    "results_first_posted": "October 1, 2022",
+    "last_update_submitted": "August 25, 2022",
+    "last_update_posted": "August 30, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["exenatide", "cardiovascular", "type 2 diabetes", "hypertension"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Hypertension"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Exenatide"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Exenatide Group",
+              "description": "32 patients enrolled, with non-completion by 12 due to lack of retention."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "32 patients were intended for enrollment, but retention challenges resulted in early cessation of study."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Total Enrollment",
+            "description": "Number of patients enrolled in the trial: 32."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in Mean 24-Hour Heart Rate from Baseline to Endpoint",
+            "time_frame": "16 weeks",
+            "group_list": {
+              "group": {
+                "title": "Insufficient Data Due to Early Termination",
+                "description": "Primary endpoint was not reached due to participant dropout."
+              }
+            },
+            "measure": {
+              "title": "Change in Mean 24-Hour Heart Rate",
+              "units": "beats per minute",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": 0
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

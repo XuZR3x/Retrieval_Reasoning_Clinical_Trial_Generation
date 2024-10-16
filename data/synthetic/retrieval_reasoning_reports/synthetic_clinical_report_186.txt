@@ -1,0 +1,175 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02534680"
+    },
+    "id_info": {
+      "org_study_id": "A7249874",
+      "nct_id": "NCT02534680"
+    },
+    "brief_title": "Exemestane in Combination With Everolimus in ER+ Breast Cancer Patients",
+    "official_title": "A Phase 2 Randomized, Open-Label Study of Exemestane in Combination With Everolimus vs Exemestane Alone in Patients With Estrogen Receptor Positive Locally Advanced or Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AstraZeneca",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The trial aimed to assess the efficacy and safety of exemestane administered in combination with everolimus compared to exemestane alone in patients with ER-positive breast cancer."
+    },
+    "detailed_description": {
+      "textblock": "This study was designed as a Phase 2, multicenter, randomized trial with two arms. Recruitment targets were set at 120 participants; however, the trial experienced significant challenges, notably in patient recruitment, leading to an enrollment of only 47 subjects over a period of 18 months. The combination regimen was hypothesized to enhance therapeutic potential, but the complexities in treatment interactions brought about uncertainty concerning the isolated effect of exemestane."
+    },
+    "overall_status": "Terminated",
+    "termination_reason": "Insufficient recruitment and high treatment cessation rates.",
+    "start_date": "September 20, 2015",
+    "completion_date": "June 1, 2019",
+    "primary_completion_date": "February 15, 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "PFS was defined as the duration from randomization to the earliest documentation of disease progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Approximately 36 months",
+        "description": "OS was assessed as the time from randomization until death from any cause."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "At 12 weeks and then every 8 weeks thereafter",
+        "description": "ORR was evaluated based on RECIST criteria, capturing complete and partial responses."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "47",
+    "condition": "Estrogen Receptor Positive Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Exemestane + Everolimus",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive daily doses of exemestane (25 mg) plus everolimus (10 mg)."
+      },
+      {
+        "arm_group_label": "Exemestane Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive daily doses of exemestane (25 mg) alone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Exemestane",
+        "description": "Taken orally at a dose of 25 mg daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Everolimus",
+        "description": "Taken orally at a dose of 10 mg daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n - Women aged 18 years and older.\r\n - Histologically confirmed ER-positive breast cancer.\r\n - Locally advanced or metastatic disease.\r\n - Measurable disease as per RECIST criteria.\r\n - At least one prior line of therapy.\r\n\r\nExclusion Criteria:\r\n - Previous treatment with everolimus.\r\n - Current use of strong CYP3A4 inhibitors or inducers.\r\n - Uncontrolled intercurrent illness."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clinical Trial Management Team",
+      "role": "Study Director",
+      "affiliation": "AstraZeneca"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "AstraZeneca Clinical Research Site",
+          "address": {
+            "city": "Cambridge",
+            "state": "MA",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "August 1, 2015",
+    "study_first_posted": "September 1, 2015",
+    "results_first_submitted": "April 10, 2021",
+    "results_first_posted": "May 5, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Exemestane", "Everolimus"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Exemestane + Everolimus",
+              "description": "Participants were administered both drugs together."
+            },
+            {
+              "title": "Exemestane Alone",
+              "description": "Participants received exemestane without the addition of everolimus."
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Approximately 24 months for each participant",
+        "desc": "Participants were monitored for adverse events throughout the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Exemestane + Everolimus",
+              "description": "Combination treatment was generally tolerated; however, the discontinuation rate exceeded anticipated thresholds, leading to difficulties in per-protocol analysis."
+            },
+            {
+              "title": "Exemestane Alone",
+              "description": "Exemestane alone saw significant withdrawal rates due to disease progression."
+            }
+          ]
+        }
+      },
+      "primary_data": {
+        "failure_reasons": [
+          "Insufficient Participant Recruitment",
+          "High Rate of Treatment Cessation",
+          "Variability in Study Endpoints"
+        ]
+      }
+    }
+  }
+}
+```

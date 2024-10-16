@@ -1,0 +1,143 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01123456"
+    },
+    "id_info": {
+      "org_study_id": "CLZ-2020-Phase3",
+      "nct_id": "NCT01123456"
+    },
+    "brief_title": "Efficacy and Safety of Cilostazol in Patients with Acute Ischemic Stroke and High Risk of Recurrence (CILOSTROKE Study)",
+    "official_title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled Trial Assessing the Efficacy and Safety of Cilostazol in Patients with Acute Ischemic Stroke and a High Risk of Recurrent Events",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "New Zealand Stroke Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Otsuka Pharmaceutical Co., Ltd.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "New Zealand Stroke Research Institute",
+    "brief_summary": {
+      "textblock": "This clinical trial aims to evaluate the efficacy and safety of cilostazol compared to placebo in patients who have experienced an acute ischemic stroke, particularly focusing on those at high risk for recurrent events."
+    },
+    "detailed_description": {
+      "textblock": "Acute ischemic stroke represents a significant cause of morbidity and mortality worldwide. Although conventional therapies like aspirin are clinically utilized, they do not adequately prevent recurrence in many patients. Cilostazol, a selective phosphodiesterase III inhibitor, has shown promise in enhancing platelet inhibition and possibly improving neurological outcomes.\n\nIn this study, we investigate the hypothesis that cilostazol will reduce the incidence of recurrent cerebrovascular events compared to a placebo in patients with a recent acute ischemic stroke. Utilizing a robust, randomized, double-blind design, patients will be monitored closely over 12 months. The primary endpoint is the rate of recurrent strokes, with secondary endpoints including functional outcomes measured by the modified Rankin Scale (mRS) and safety events related to bleeding complications."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2011",
+    "completion_date": "June 2014",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of recurrent stroke events",
+      "time_frame": "12 months following randomization"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in modified Rankin Scale (mRS) scores",
+        "time_frame": "At baseline, 3, 6, 12 months"
+      },
+      {
+        "measure": "Incidence of major and minor bleeding events",
+        "time_frame": "Throughout the study period (12 months)"
+      },
+      {
+        "measure": "Cerebrovascular event-free survival rate",
+        "time_frame": "1 year"
+      }
+    ],
+    "enrollment": "1200",
+    "condition": "Acute Ischemic Stroke",
+    "arm_group": [
+      {
+        "arm_group_label": "Cilostazol Group",
+        "arm_group_type": "Experimental",
+        "description": "Cilostazol 100 mg twice daily for 12 months"
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo taken twice daily for 12 months"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cilostazol",
+        "description": "Cilostazol 100 mg administered twice daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo matching cilostazol administered twice daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients aged 40-85 years, diagnosed with acute ischemic stroke within the last 72 hours.\n- Patients must have a modified Rankin Scale (mRS) score of 2 or higher prior to the stroke event.\n\nExclusion Criteria:\n- Patients with contraindications to cilostazol, including active bleeding or severe hepatic impairment.\n- Patients who received thrombolysis within the last 24 hours.\n- History of significant cardiac disease, including myocardial infarction in the last 6 months.\n- Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "85 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Leonard W. Johnson, MD, PhD",
+      "role": "Principal Investigator",
+      "affiliation": "New Zealand Stroke Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Auckland City Hospital",
+          "address": {
+            "city": "Auckland",
+            "state": "Auckland Region",
+            "zip": "1010",
+            "country": "New Zealand"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Wellington Regional Hospital",
+          "address": {
+            "city": "Wellington",
+            "state": "Wellington Region",
+            "zip": "6011",
+            "country": "New Zealand"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "New Zealand"
+    },
+    "verification_date": "July 2014",
+    "study_first_submitted": "January 15, 2010",
+    "study_first_posted": "January 17, 2010",
+    "last_update_submitted": "June 1, 2014",
+    "last_update_posted": "June 10, 2014",
+    "keyword": ["cilostazol", "acute ischemic stroke", "recurrent stroke prevention"],
+    "condition_browse": {
+      "mesh_term": ["Ischemic Stroke"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Cilostazol"]
+    }
+  }
+}
+```

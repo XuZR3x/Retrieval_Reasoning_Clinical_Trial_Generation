@@ -1,0 +1,161 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00789012"
+    },
+    "id_info": {
+      "org_study_id": "ABC 2021.018",
+      "secondary_id": ["ABC-4567", "XYZ-2030"],
+      "nct_id": "NCT00789012"
+    },
+    "brief_title": "Efficacy and Safety of Anastrozole in Combination with Chemotherapy in ER-Positive Breast Cancer",
+    "official_title": "A Phase II Study of Anastrozole and Combined Chemotherapy in Hormone-Refractory ER-Positive Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy and safety of anastrozole when administered in combination with chemotherapy in postmenopausal women with estrogen receptor-positive (ER+) breast cancer that has shown resistance to prior endocrine therapy. The primary goal was to measure clinical benefit as determined by progression-free survival and overall response rate. Given the troubling incidence of hormone-refractory cases, this investigational approach sought to ascertain whether anastrozole could enhance the therapeutic outcome when used alongside conventional chemotherapy agents."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was halted prematurely due to significant patient recruitment failures and inconsistent drug efficacy data related to the combined treatment framework.",
+    "start_date": "March 2008",
+    "completion_date": "February 2012",
+    "primary_completion_date": "November 2011",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Factorial Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival at 6 Months",
+      "time_frame": "6 months",
+      "description": "Measured as the time period from treatment initiation until disease progression or death."
+    },
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": "Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A - Anastrozole + Chemotherapy",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "Arm B - Chemotherapy Alone",
+        "arm_group_type": "Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Anastrozole",
+        "description": "1 mg tablet orally once daily concurrent with standard chemotherapy regimen."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chemotherapy",
+        "description": "Dose-dense chemotherapy regimen based on anthracycline and taxane agents."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Females aged 18 years and older.\r\n2. Histologically confirmed ER-positive breast cancer with evidence of metastatic disease.\r\n3. Postmenopausal status confirmed by laboratory or clinical criteria.\r\n4. Prior treatment with at least one endocrine therapy regimen but resistant to hormone therapy.\r\n5. ECOG performance status 0-2.\r\n\r\nExclusion Criteria:\r\n\r\n1. Concurrent use of other investigational agents or therapy.\r\n2. Previous chemotherapy for the metastatic disease.\r\n3. Known hypersensitivity to anastrozole or any of its components.\r\n4. Significant comorbid conditions that could interfere with treatment compliance."
+      },
+      "gender": "Female",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2012",
+    "study_first_submitted": "February 15, 2008",
+    "study_first_submitted_qc": "February 15, 2008",
+    "study_first_posted": "February 20, 2008",
+    "results_first_submitted": "May 1, 2012",
+    "results_first_posted": "June 15, 2012",
+    "last_update_submitted": "April 12, 2012",
+    "last_update_posted": "April 14, 2012",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "National Cancer Institute"
+    },
+    "keyword": [
+      "breast cancer",
+      "anastrozole",
+      "hormone therapy resistance",
+      "chemotherapy",
+      "postmenopausal"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Anastrozole"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The initial recruitment aimed for 150 participants but fell significantly short, ultimately enrolling only 45 subjects due to multiple study-design complexities and unclear outcomes.",
+        "pre_assignment_details": "Of the 45 participants, only 30 received the combined treatment while the remainder was treated with chemotherapy alone."
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Progression-Free Survival at 6 Months",
+          "description": "The percentage of patients without disease progression at 6 months.",
+          "time_frame": "6 months",
+          "values": {
+            "Arm A": "50% of patients",
+            "Arm B": "30% of patients"
+          }
+        }
+      },
+      "reported_events": {
+        "group": {
+          "title": "Anastrozole + Chemotherapy",
+          "description": "Assessment of adverse events showed a higher incidence of grade 3 and 4 toxicities compared to chemotherapy alone."
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "limitations_and_caveats": "The trial was terminated due to lack of participant recruitment and significant safety concerns regarding the combination of anastrozole and chemotherapy."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trials Office",
+      "organization": "National Cancer Institute",
+      "phone": "301-496-1500",
+      "email": "nci-info@nci.nih.gov"
+    }
+  }
+}
+```

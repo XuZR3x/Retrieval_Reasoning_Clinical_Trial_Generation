@@ -1,0 +1,349 @@
+```json
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT02072451"
+    },
+    "id_info": {
+        "org_study_id": "NCT02072451",
+        "secondary_id": [],
+        "nct_id": "NCT02072451"
+    },
+    "brief_title": "Evaluation of Alisertib in Patients With Advanced Soft Tissue Sarcoma",
+    "official_title": "A Phase II Trial of Alisertib (MLN8237) in Patients With Advanced Soft Tissue Sarcomas Following Progression on Standard Therapy",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "National Cancer Institute (NCI)",
+            "agency_class": "NIH"
+        }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+        "has_dmc": "Yes"
+    },
+    "brief_summary": {
+        "textblock": "This phase II trial aimed to evaluate the efficacy and safety of alisertib in patients with advanced soft tissue sarcomas after standard treatment failure. Alisertib is hypothesized to inhibit tumor cell growth by targeting aurora kinases."
+    },
+    "detailed_description": {
+        "textblock": "PRIMARY OBJECTIVES:\r\n1. To evaluate the overall tumor response rate in patients receiving alisertib\r\n2. To assess the safety profile of alisertib in combination with standard care therapies.\r\n\r\nSECONDARY OBJECTIVES:\r\n1. To analyze progression-free survival (PFS) and overall survival (OS).\r\n2. To evaluate the impact of alisertib on quality of life (QoL) using validated instruments.\r\n\r\nOUTLINE:\r\nParticipants received alisertib orally twice daily for seven days followed by a fourteen-day rest period. Cycle lengths were established at 21 days for up to 18 cycles or until disease progression or unacceptable toxicity occurred.\r\n\r\nFollow-up occurred every three months for a duration of 24 months after treatment cessation."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2014",
+    "completion_date": "March 2018",
+    "primary_completion_date": "March 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "N/A",
+        "intervention_model": "Single Group Assignment",
+        "primary_purpose": "Treatment",
+        "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+        "measure": "Confirmed Tumor Response Rate per RECIST 1.1",
+        "time_frame": "Evaluated every 6 weeks until disease progression, assessed up to 12 months",
+        "description": "The primary outcome measure was the proportion of patients demonstrating a confirmed complete or partial response."
+    },
+    "secondary_outcome": [
+        {
+            "measure": "Overall Survival (OS)",
+            "time_frame": "Time from study entry to death assessed up to 2 years",
+            "description": "Estimated using Kaplan-Meier survival analysis."
+        },
+        {
+            "measure": "Progression-Free Survival (PFS)",
+            "time_frame": "Time from enrollment to disease progression or death assessed up to 2 years",
+            "description": "Determined by the Kaplan-Meier method."
+        },
+        {
+            "measure": "Quality of Life Assessment",
+            "time_frame": "At baseline, 3 months, 6 months, and at the end of treatment",
+            "description": "Utilizing EORTC QLQ-C30 scale."
+        }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "100",
+    "condition": [
+        "Advanced Soft Tissue Sarcoma",
+        "Metastatic Sarcoma"
+    ],
+    "arm_group": {
+        "arm_group_label": "Experimental Arm (Alisertib)",
+        "arm_group_type": "Experimental",
+        "description": "Administered Alisertib orally at 50 mg BID for 7 days followed by a 14-day rest period."
+    },
+    "intervention": [
+        {
+            "intervention_type": "Drug",
+            "intervention_name": "Alisertib",
+            "description": "Administered orally.",
+            "arm_group_label": "Experimental Arm (Alisertib)",
+            "other_name": ["MLN8237"]
+        }
+    ],
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\r\n1. Patients must have a histologically confirmed diagnosis of advanced soft tissue sarcoma with measurable disease.\r\n2. No prior treatment for metastatic disease, except for chemotherapy. \r\n3. ECOG performance status of 0-2.\r\n4. Sufficient hematologic function: leukocytes >= 3,000/mm³, absolute neutrophil count >= 1,500/mm³.\r\n5. Participants should be at least 18 years old and provide informed consent.\r\n\r\nExclusion Criteria:\r\n1. Patients who have received systemic therapy or radiation therapy within 4 weeks prior to the study enrollment.\r\n2. Presence of central nervous system metastases.\r\n3. Active infection requiring intravenous antibiotics within 14 days prior to start of treatment.\r\n4. Pregnant or nursing females. \r\n5. Other malignancies within the last five years, except non-melanoma skin cancers."
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Laura Smith",
+        "role": "Principal Investigator",
+        "affiliation": "National Cancer Institute"
+    },
+    "location": [{
+            "facility": {
+                "name": "National Institutes of Health Clinical Center",
+                "address": {
+                    "city": "Bethesda",
+                    "state": "Maryland",
+                    "zip": "20892",
+                    "country": "United States"
+                }
+            }
+        },
+        {
+            "facility": {
+                "name": "Johns Hopkins Hospital",
+                "address": {
+                    "city": "Baltimore",
+                    "state": "Maryland",
+                    "zip": "21287",
+                    "country": "United States"
+                }
+            }
+        }
+    ],
+    "location_countries": {
+        "country": "United States"
+    },
+    "verification_date": "April 2019",
+    "study_first_submitted": "January 15, 2014",
+    "study_first_posted": "February 5, 2014",
+    "last_update_submitted": "April 10, 2019",
+    "last_update_posted": "April 10, 2019",
+    "responsible_party": {
+        "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+        "mesh_term": [
+            "Soft Tissue Sarcoma",
+            "Sarcoma",
+            "Liposarcoma",
+            "Leiomyosarcoma",
+            "Neurofibromatosis"
+        ]
+    },
+    "clinical_results": {
+        "participant_flow": {
+            "recruitment_details": "From February 2014 to June 2016, a total of 100 patients were accrued.",
+            "group_list": {
+                "group": {
+                    "title": "Alisertib Treatment",
+                    "description": "Patients received alisertib treatment according to the specified dose and schedule."
+                }
+            },
+            "period_list": {
+                "period": {
+                    "title": "Overall Study",
+                    "milestone_list": {
+                        "milestone": [
+                            {
+                                "title": "STARTED",
+                                "participants_list": {
+                                    "participants": "Nil"
+                                }
+                            },
+                            {
+                                "title": "COMPLETED",
+                                "participants_list": {
+                                    "participants": "Enrollment finished with 100 participants, but results show <20% response rates across cohorts."
+                                }
+                            },
+                            {
+                                "title": "NOT COMPLETED",
+                                "participants_list": {
+                                    "participants": "The study was terminated prior to achieving meaningful clinical outcomes."
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "baseline": {
+                "group_list": {
+                    "group": {
+                        "title": "Alisertib Treatment",
+                        "description": "Administered alisertib to all participants."
+                    }
+                },
+                "analyzed_list": {
+                    "analyzed": {
+                        "units": "Participants",
+                        "scope": "Overall",
+                        "count_list": {
+                            "count": "100"
+                        }
+                    }
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Percent of Confirmed Tumor Responses",
+                        "description": "Overall confirmed response rate was less than 5%, far below the expected efficacy threshold.",
+                        "time_frame": "Assessed at least every other cycle.",
+                        "population": "All enrolled patients.",
+                        "measure": {
+                            "title": "Confirmed Responses",
+                            "description": "Observed less than 20% of participants showed any response.",
+                            "units": "Percentage"
+                        }
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Overall Survival (OS)",
+                        "description": "Candidates experienced a median OS of 8 months post-treatment.",
+                        "time_frame": "Monitored from enrollment to death.",
+                        "population": "Patients completing at least one cycle.",
+                        "measure": {
+                            "title": "Median OS",
+                            "description": "Mortality observation estimated through Kaplan-Meier analysis.",
+                            "units": "Months"
+                        }
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Adverse Events",
+                        "description": "Corresponded with high-grade toxicity, including frequent grade 4 events leading to treatment cessation.",
+                        "time_frame": "Collected during treatment and follow-up period.",
+                        "population": "All participating patients.",
+                        "measure": {
+                            "title": "Number of Participants Reporting Adverse Events",
+                            "description": "Collection focused on higher-grade toxicities observed.",
+                            "units": "Count"
+                        }
+                    }
+                ]
+            },
+            "reported_events": {
+                "time_frame": "Throughout the treatment period.",
+                "group_list": {
+                    "group": {
+                        "title": "Alisertib Arm",
+                        "description": "Data on adverse events was collected systematically."
+                    }
+                },
+                "serious_events": {
+                    "default_assessment": "Systematic Assessment",
+                    "category_list": {
+                        "category": [
+                            {
+                                "title": "Total",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Total Serious Adverse Events",
+                                        "counts": "62 Grade 3+ events reported."
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Gastrointestinal Disorders",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Nausea",
+                                            "counts": "48% of patients."
+                                        },
+                                        {
+                                            "sub_title": "Vomiting",
+                                            "counts": "32% of patients."
+                                        },
+                                        {
+                                            "sub_title": "Diarrhea",
+                                            "counts": "45% of patients."
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Hematologic Events",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Febrile Neutropenia",
+                                            "counts": "15% of patients."
+                                        },
+                                        {
+                                            "sub_title": "Thrombocytopenia",
+                                            "counts": "20% of patients."
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "title": "Fatigue",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Extreme Fatigue",
+                                        "counts": "39% of participating individuals."
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                "other_events": {
+                    "frequency_threshold": "0",
+                    "default_assessment": "Non-systematic Assessment",
+                    "category_list": {
+                        "category": [
+                            {
+                                "title": "Total, Other Adverse Events",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Fatigue",
+                                        "counts": "Incidence in 39% of the arm."
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Cardiovascular Events",
+                                "event_list": {
+                                    "event": [
+                                        {
+                                            "sub_title": "Heart Palpitations",
+                                            "counts": "10% of patients."
+                                        },
+                                        {
+                                            "sub_title": "Hypotension",
+                                            "counts": "8% of patients."
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "certain_agreements": {
+            "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+            "restrictive_agreement": "There are restrictions on the ability to publicize study results until reviewed by the sponsor."
+        },
+        "point_of_contact": {
+            "name_or_title": "Dr. Laura Smith",
+            "organization": "National Cancer Institute",
+            "phone": "(301) 496-1234",
+            "email": "smithl@nci.nih.gov"
+        }
+    }
+}
+```

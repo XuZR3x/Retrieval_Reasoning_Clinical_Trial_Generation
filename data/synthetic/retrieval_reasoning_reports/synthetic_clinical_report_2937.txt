@@ -1,0 +1,367 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT05074835"
+    },
+    "id_info": {
+      "org_study_id": "OLZ-BD123",
+      "secondary_id": "Eli_2022_Study",
+      "nct_id": "NCT05074835"
+    },
+    "brief_title": "Efficacy and Safety of Olanzapine for Treatment of Acute Mania in Bipolar Disorder",
+    "official_title": "A Multi-center, Randomized, Double-blind, Placebo-controlled Trial to Evaluate the Efficacy and Safety of Olanzapine in Patients with Acute Mania Associated with Bipolar I Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "brief_summary": {
+      "textblock": "The objective of this clinical trial is to evaluate the efficacy of olanzapine, assessed by the Young Mania Rating Scale (YMRS), and its safety profile in patients diagnosed with acute mania associated with bipolar I disorder. The secondary endpoints include assessments of quality of life and functional outcomes measuring the treatment impact."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2022",
+    "completion_date": "December 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change in total YMRS score from baseline to the end of treatment (week 6).",
+        "description": "The primary outcome measures the reduction in manic symptoms as quantified by the Young Mania Rating Scale (YMRS)."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Change in Overall Health Status as measured by the EQ-5D scale.",
+        "description": "Assesses the patient's perceived health outcomes and quality of life during the trial."
+      },
+      {
+        "measure": "Proportion of patients reporting treatment-emergent adverse events.",
+        "description": "Evaluation of the safety profile of olanzapine as compared to placebo."
+      },
+      {
+        "measure": "Change from baseline to endpoint in the Clinical Global Impression – Bipolar (CGI-BP).",
+        "description": "Measures clinical severity and treatment response from both clinician and patient perspectives."
+      }
+    ],
+    "enrollment": "420",
+    "condition": "Bipolar Disorder",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "olanzapine",
+        "description": "Olanzapine administered at a flexible dose of 10-20 mg once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "Identical-looking placebo tablet administered once daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 to 65 years old.\n- A confirmed diagnosis of bipolar I disorder experiencing a manic episode.\n- A baseline YMRS score of 20 or above.\n\nExclusion Criteria:\n- Current substance abuse or history of significant allergies to olanzapine.\n- Comorbid medical conditions that would interfere with study participation.\n- Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Anna Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Eli Lilly and Company Clinical Research"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Eli Lilly Clinical Research Center",
+          "address": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46285",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University Hospital",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "National Health Service Trust",
+          "address": {
+            "city": "London",
+            "zip": "SW1A 2AA",
+            "country": "United Kingdom"
+          }
+        }
+      }
+    ],
+    "verification_date": "January 2023",
+    "results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olanzapine Treatment Group",
+              "description": "Olanzapine administered at flexible dosing (10-20 mg once daily)."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Placebo administered once daily."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [420, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [390, 0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [30, 0]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Adverse Event",
+              "participants_list": {
+                "participants": [5, 6]
+              }
+            },
+            {
+              "title": "Withdrawal by Subject",
+              "participants_list": {
+                "participants": [10, 5]
+              }
+            },
+            {
+              "title": "Lack of Efficacy",
+              "participants_list": {
+                "participants": [10, 4]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olanzapine Treatment Group",
+              "description": "Olanzapine administered at flexible dosing (10-20 mg once daily)."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Placebo administered once daily."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [390, 330]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Race/Ethnicity",
+              "units": "Participants",
+              "param": "Count"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in total YMRS score",
+            "time_frame": "Baseline to 6 weeks",
+            "population": "All randomized patients analyzed on an intention-to-treat basis.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Olanzapine Treatment Group",
+                  "description": "Olanzapine treated patients"
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Placebo treated patients"
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mean change from baseline in YMRS score",
+              "population": "Analyzed via ANCOVA with treatment group as a factor.",
+              "units": "Points",
+              "param": "Change in score",
+              "dispersion": "Standard Error",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [390, 330]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "ANCOVA",
+                  "p_value": "0.001"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in EQ-5D score",
+            "description": "Self-reported health status using EQ-5D.",
+            "time_frame": "Baseline and 6 weeks",
+            "population": "All randomized patients analyzed on an intention-to-treat basis.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Olanzapine Treatment Group",
+                  "description": "Olanzapine treated patients"
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Placebo treated patients"
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change in EQ-5D score",
+              "units": "Utility score",
+              "param": "Change in score",
+              "dispersion": "Standard Error",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [390, 330]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "ANCOVA",
+                  "p_value": "0.045"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olanzapine Treatment Group",
+              "description": "Olanzapine treated patients"
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Placebo treated patients"
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA",
+          "event_list": {
+            "event": [
+              {
+                "sub_title": "Hyperglycemia",
+                "counts": [5, 2]
+              },
+              {
+                "sub_title": "Somnolence",
+                "counts": [8, 6]
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA",
+          "event_list": {
+            "event": [
+              {
+                "sub_title": "Dry Mouth",
+                "counts": [12, 4]
+              },
+              {
+                "sub_title": "Weight Gain",
+                "counts": [15, 3]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

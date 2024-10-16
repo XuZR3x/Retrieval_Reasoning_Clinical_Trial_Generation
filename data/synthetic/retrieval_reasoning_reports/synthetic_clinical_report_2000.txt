@@ -1,0 +1,128 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "Study VFL-002",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Assessing Vinflunine in Advanced Renal Cell Carcinoma (RCC): A Phase II Trial",
+    "official_title": "A Phase II Open-Label Study of Vinflunine in Patients With Advanced Renal Cell Carcinoma After Failure of Standard Treatment (Study VFL-002)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "OncoPharma Ltd.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "OncoPharma Ltd.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study aimed to evaluate the efficacy, safety, and tolerability of vinflunine in patients with advanced renal cell carcinoma (RCC) who have previously undergone treatment with VEGF inhibitors or immune checkpoint inhibitors. The objective was to ascertain the potential of vinflunine as a therapeutic option in a heavily pretreated population."
+    },
+    "detailed_description": {
+      "textblock": "Renal cell carcinoma (RCC) remains a challenging malignancy, particularly in the advanced stage where conventional therapies have limited efficacy. Vinflunine, a vinca-alkaloid, targets microtubule dynamics, yet its application in solid tumors such as RCC has previously been uncharted. This prospective open-label phase II trial was designed to explore vinflunine's potential as a salvage treatment following the failure of at least two lines of systemic therapy.\n\nIn this trial, 100 patients with confirmed histological RCC and previous treatment failure were to receive vinflunine at a dose of 320 mg/m2 every three weeks. The study's primary endpoint was the overall response rate (ORR) assessed by RECIST criteria, while secondary objectives included progression-free survival (PFS), overall survival (OS), and quality of life (QoL) metrics.\n\nDespite the rigorous design, the trial faced significant hurdles. A primary barrier was inadequate patient enrollment, as many eligible participants had transitioned to more efficacious targeted therapies, rendering vinflunine less appealing. Consequently, only 15 participants were enrolled over an extended recruitment period before the study was officially withdrawn due to insufficient enrollment.\n\nAdditionally, initial safety assessments indicated a concerning toxicity profile, including high rates of neutropenia and severe gastrointestinal disturbances, which further dissuaded patient participation. These adverse effects were particularly notable in patients with compromised health states, especially since advanced RCC patients are often older and at higher risk of treatment-related complications.\n\nAn interim analysis of efficacy showcased that none of the participants achieved significant reduction in tumor size, with many demonstrating fast progression of disease. This underscored vinflunine's limited mechanism of action against RCC, similar to experiences noted in other heavily pretreated populations. \n\nThe trial's findings suggest that vinflunine may lack sufficient therapeutic benefit in advanced RCC, indicating that alternatives or combinations may be necessary to enhance treatment efficacy."
+    },
+    "overall_status": "Withdrawn",
+    "start_date": "March 2018",
+    "completion_date": "March 2019",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "During treatment and at 6 months following final dose",
+      "description": "The primary endpoint will be assessed by the percentage of patients achieving complete or partial response according to RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From first dose until disease progression or death",
+        "description": "Defined as the time from the initiation of treatment until the first documented progression, assessed every 6 weeks."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From initiation of treatment until death from any cause or final follow-up",
+        "description": "Measured to assess the median survival duration of the participants."
+      },
+      {
+        "measure": "Quality of Life (QoL) Metrics",
+        "time_frame": "Measured at baseline, during treatment, and at 3 months post-treatment",
+        "description": "Utilizing validated QoL instruments to evaluate the impact of treatment on patient well-being."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Renal Cell Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Vinflunine Monotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients received vinflunine via IV infusion at a dose of 320 mg/m² every three weeks."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "vinflunine",
+        "description": "Vinflunine administered at a dose of 320 mg/m² on Day 1 of each cycle every 3 weeks.",
+        "arm_group_label": "Vinflunine Monotherapy",
+        "other_name": ["Javlor"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Males and females aged 18-75 years with histologically confirmed advanced RCC.\n2. Failed at least two prior systemic therapies, including VEGF inhibitors or immunotherapy.\n3. ECOG performance status of 0-2 with adequate organ function.\n\nExclusion Criteria:\n\n1. Prior treatment with vinca-alkaloids or known hypersensitivity.\n2. Evidence of symptomatic brain metastases or severe cardiovascular comorbidities.\n3. Concurrent participation in another clinical trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Rebecca Smith, MD",
+      "role": "Study Director",
+      "affiliation": "OncoPharma Ltd."
+    },
+    "location": [{
+      "facility": {
+        "name": "Cancer Research Institute",
+        "address": {
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_submitted_qc": "February 20, 2018",
+    "study_first_posted": "February 25, 2018",
+    "last_update_posted": "March 10, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Vinflunine", "Renal Cell Carcinoma", "Advanced Cancer", "Salvage Therapy"],
+    "condition_browse": {
+      "mesh_term": "Renal Cell Carcinoma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Vinflunine"
+    }
+  }
+}
+```

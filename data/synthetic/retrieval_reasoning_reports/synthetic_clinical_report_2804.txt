@@ -1,0 +1,164 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02573142"
+    },
+    "id_info": {
+      "org_study_id": "BEND-2023",
+      "nct_id": "NCT02573142"
+    },
+    "brief_title": "Efficacy of Bendamustine Combined with Carfilzomib and Cyclophosphamide in Patients with Relapsed or Refractory Multiple Myeloma",
+    "official_title": "Phase II Study of Bendamustine in Combination with Carfilzomib and Cyclophosphamide for Patients with Relapsed or Refractory Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Cancer Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": [{
+          "agency": "PharmaCorp",
+          "agency_class": "Industry"
+        },
+        {
+          "agency": "Global Biologics Ltd.",
+          "agency_class": "Industry"
+        }
+      ]
+    },
+    "source": "XYZ Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This is a multi-center Phase II study designed to evaluate the safety and efficacy of bendamustine in combination with carfilzomib and cyclophosphamide in patients with relapsed or refractory multiple myeloma. The trial aims to determine the overall response rate and assess the toxicity profile of this combination."
+    },
+    "detailed_description": {
+      "textblock": "Multiple myeloma remains a challenging malignancy, particularly in patients with relapsed or refractory disease characterized by poor response to conventional therapies. The combination of bendamustine, a potent alkylating agent, with carfilzomib and cyclophosphamide was hypothesized to improve outcomes in this patient population. However, the study faced significant obstacles likely contributing to its overall failure. Notably, patient recruitment was notably inadequate, manifesting in insufficient accrual rates that hindered the study from reaching defined statistical power for conclusions regarding safety and efficacy. Over a 12-month period, efforts to enroll participants yielded unsatisfactory results, necessitating early termination of the trial. Dosage complications arose, predominantly the emergence of dose-limiting toxicities (DLTs), particularly severe myelosuppression, undermining the intended therapeutic framework of the investigational regimen. Despite assumptions that adjunctive myeloid growth factor support could mitigate these adverse effects, the anticipated safety profile remained elusive. Furthermore, the complexity of concurrently administering multiple high-potency agents heightened the risk of cumulative toxicities, deterring patient enrollment and leading to early discontinuation among participants who began treatment. The demographic targeting comprised individuals with marked relapsed or refractory disease, an inherent factor potentially responsible for lower response rates and subsequently poorer treatment outcomes. Add to this the regulatory demands and complexities associated with adverse event reporting; the culmination of these challenges resulted in significant procedural delays, further complicating investigators' ability to monitor safety effectively and optimize patient experiences."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient accrual and dose-limiting toxicities.",
+    "start_date": "April 5, 2021",
+    "completion_date": "March 20, 2023",
+    "primary_completion_date": "January 15, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 24 months",
+        "description": "The primary outcome is the overall response assessed using the International Myeloma Working Group criteria, evaluating the proportion of patients achieving complete response (CR) or partial response (PR)."
+      },
+      {
+        "measure": "Maximum Tolerated Dose (MTD)",
+        "time_frame": "Up to 6 months",
+        "description": "Determination of the maximum tolerated dose of the combination treatment by evaluating adverse events according to CTCAE version 5.0."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From treatment initiation until disease progression, assessed every 3 months for up to 24 months.",
+        "description": "PFS is defined as the duration from the start of treatment until progression of disease or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From study drug administration until death from any cause, assessed up to 24 months.",
+        "description": "OS is measured from the date of first treatment to the date of death."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Multiple Myeloma",
+    "arm_group": {
+      "arm_group_label": "Treatment (Bendamustine, Carfilzomib, Cyclophosphamide)",
+      "arm_group_type": "Experimental",
+      "description": "Patients received bendamustine at 90 mg/m2 IV on days 1 and 4, bobortezomib 1.3 mg/m2 IV on days 1, 4, 8, and 11, and cyclophosphamide 300 mg/m2 IV on day 1 of each 28-day treatment cycle."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Bendamustine",
+        "description": "Bendamustine administered at a starting dose of 90 mg/m2 IV on days 1 and 4 of each cycle.",
+        "arm_group_label": "Treatment (Bendamustine, Carfilzomib, Cyclophosphamide)"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carfilzomib",
+        "description": "Carfilzomib administered at a dose of 1.3 mg/m2 IV on days 1, 4, 8, and 11 of each 28-day cycle.",
+        "arm_group_label": "Treatment (Bendamustine, Carfilzomib, Cyclophosphamide)"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Cyclophosphamide administered IV at 300 mg/m2 on day 1 of each 28-day treatment cycle.",
+        "arm_group_label": "Treatment (Bendamustine, Carfilzomib, Cyclophosphamide)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Histologically confirmed multiple myeloma with evidence of relapsed or refractory disease.\n2. Must have at least one measurable response including serum M-protein > 1 g/dL or urine M-protein > 200 mg/24 hours.\n3. Age ≥ 18 years and ≤ 75 years.\n4. ECOG performance status 0-2.\n5. Patients must have received at least one prior line of treatment.\n\nExclusion Criteria:\n1. Active central nervous system involvement by myeloma.\n2. History of hypersensitivity to bendamustine or any of the other study medications.\n3. Pregnant or breastfeeding women.\n4. Prior toxicities related to previous treatments that exceed grade 2.\n5. Serious concurrent medical conditions that, in the opinion of the investigator, preclude participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Cancer Institute"
+    },
+    "location": [{
+        "facility": {
+          "name": "XYZ Cancer Institute",
+          "address": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62701",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Internation Oncology Center",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60616",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "September 1, 2020",
+    "study_first_posted": "September 2, 2020",
+    "last_update_posted": "March 25, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "XYZ Cancer Institute",
+      "investigator_full_name": "Sherif Farag, MB, BS",
+      "investigator_title": "Study Chair"
+    },
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bendamustine", "Carfilzomib", "Cyclophosphamide"]
+    }
+  }
+}
+```

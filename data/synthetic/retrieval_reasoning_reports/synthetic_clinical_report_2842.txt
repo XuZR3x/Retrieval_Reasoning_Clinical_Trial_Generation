@@ -1,0 +1,242 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00987453"
+    },
+    "id_info": {
+      "org_study_id": "TPV/RTV-2021",
+      "nct_id": "NCT00987453"
+    },
+    "brief_title": "A Multicenter Study of Tipranavir and Ritonavir in HIV-1 Infected Patients",
+    "official_title": "A Multicenter, Randomized, Open-Label Study Evaluating the Efficacy, Safety, and Pharmacokinetics of Tipranavir in Combination with Low Dose Ritonavir in Treatment-Naïve HIV-1 Positive Subjects",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Boehringer Ingelheim",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Boehringer Ingelheim",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the pharmacokinetics, antiviral efficacy, and safety profile of tipranavir when administered in different dosing schedules alongside low-dose ritonavir in treatment-naïve patients diagnosed with HIV-1. Emphasizing optimal dosing regimens and thorough monitoring protocols, this trial seeks to enhance therapeutic outcomes in HIV management."
+    },
+    "overall_status": "Completed",
+    "start_date": "July 2009",
+    "primary_completion_date": "August 2011",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment"
+    },
+    "primary_outcome": {
+      "measure": "Change in Viral Load (log10 Copies/mL) from Baseline to Week 48",
+      "time_frame": "Baseline to Week 48",
+      "description": "Assessment of the reduction in viral load to evaluate the efficacy of the intervention among the study participants."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in CD4+ Cell Count (cells/mm3)",
+        "time_frame": "Week 0 and Week 48",
+        "description": "Measurement of immunological response to antiretroviral therapy."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study period",
+        "description": "Documentation of any adverse effects experienced by patients to determine safety."
+      },
+      {
+        "measure": "Serum Lipid Profile Changes",
+        "time_frame": "Baseline to Week 48",
+        "description": "Evaluation of changes in cholesterol and triglyceride levels."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "150",
+    "condition": "HIV Infections",
+    "arm_group": [
+      {
+        "arm_group_label": "TPV/r 500/200 mg Once Daily",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving tipranavir at a dose of 500 mg combined with ritonavir 200 mg once daily."
+      },
+      {
+        "arm_group_label": "TPV/r 250/100 mg Twice Daily",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving tipranavir at a dose of 250 mg combined with ritonavir 100 mg twice daily."
+      },
+      {
+        "arm_group_label": "TPV/r 500/100 mg Twice Daily",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving tipranavir at a dose of 500 mg combined with ritonavir 100 mg twice daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tipranavir",
+        "arm_group_label": ["TPV/r 500/200 mg Once Daily", "TPV/r 250/100 mg Twice Daily", "TPV/r 500/100 mg Twice Daily"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ritonavir",
+        "description": "Low Dose",
+        "arm_group_label": ["TPV/r 500/200 mg Once Daily", "TPV/r 250/100 mg Twice Daily", "TPV/r 500/100 mg Twice Daily"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA\n\n- Adults aged 18 to 65 years diagnosed with HIV-1 (confirmed by serology).\n- Treatment-naïve with viral load > 5,000 copies/mL and CD4 count > 200 cells/mm³ at screening.\n- Ability and willingness to provide informed consent and undertake study protocol.\n- Capable of complying with all study visits and assessments.\n\nEXCLUSION CRITERIA\n\n- Pregnant or lactating individuals.\n- History of hypersensitivity reactions to any component of the study medication.\n- Serious medical conditions that might interfere with compliance to the study or affect the study's endpoints."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Boehringer Ingelheim",
+      "role": "Study Chair",
+      "affiliation": "Boehringer Ingelheim"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Boehringer Ingelheim Investigational Site",
+          "address": {
+            "city": "Düsseldorf",
+            "country": "Germany"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Boehringer Ingelheim Investigational Site",
+          "address": {
+            "city": "Berlin",
+            "country": "Germany"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Boehringer Ingelheim Investigational Site",
+          "address": {
+            "city": "München",
+            "country": "Germany"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "Germany"
+    },
+    "verification_date": "December 2022",
+    "study_first_submitted": "June 28, 2009",
+    "study_first_posted": "July 2, 2009",
+    "results_first_submitted": "September 20, 2011",
+    "results_first_posted": "October 10, 2011",
+    "last_update_submitted": "December 5, 2022",
+    "last_update_posted": "December 10, 2022",
+    "responsible_party": {
+      "name_title": "Boehringer Ingelheim, Study Chair",
+      "organization": "Boehringer Ingelheim"
+    },
+    "condition_browse": {
+      "mesh_term": "HIV Infections"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Tipranavir", "Ritonavir"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "TPV/r 500/200 mg Once Daily",
+              "description": "100 patients received tipranavir 500 mg plus ritonavir 200 mg once daily."
+            },
+            {
+              "title": "TPV/r 250/100 mg Twice Daily",
+              "description": "50 patients received tipranavir 250 mg plus ritonavir 100 mg twice daily."
+            },
+            {
+              "title": "TPV/r 500/100 mg Twice Daily",
+              "description": "50 patients received tipranavir 500 mg plus ritonavir 100 mg twice daily."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "Lack of Efficacy",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "Loss to Follow-up",
+                  "participants_list": {
+                    "participants": []
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Total Patients",
+              "description": "An overall enrollment of 150 patients across various sites in Germany."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [150]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

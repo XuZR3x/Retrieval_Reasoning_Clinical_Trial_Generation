@@ -1,0 +1,170 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03105887"
+    },
+    "id_info": {
+      "org_study_id": "BIV-PAC-01",
+      "nct_id": "NCT03105887"
+    },
+    "brief_title": "Efficacy of Bivalirudin in High-Risk Cardiac Patients Undergoing Coronary Angioplasty",
+    "official_title": "A Multicenter Randomized Controlled Trial Evaluating the Safety and Efficacy of Bivalirudin Compared to Unfractionated Heparin in High-Risk Patients Undergoing Coronary Angioplasty Procedures",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "HeartCare Clinical Research Group",
+        "agency_class": "Other"
+      }
+    },
+    "source": "HeartCare Clinical Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aims to assess the pharmacokinetics, safety, and efficacy of bivalirudin compared to standard unfractionated heparin in high-risk patients undergoing coronary angioplasty. Given the pharmacodynamic advantages of bivalirudin, including its direct thrombin inhibition, this study will provide insights into its potential as a primary anticoagulant in this population."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2018",
+    "completion_date": "March 2021",
+    "primary_completion_date": "December 2020",
+    "phase": "Phase 2/3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Single (Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Composite of Major Adverse Clinical Events",
+      "time_frame": "30 days",
+      "description": "The composite outcome will include all-cause mortality, reinfarction, urgent target vessel revascularization, stroke, and any major bleeding events."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of Major Bleeding",
+        "time_frame": "30 days",
+        "description": "Incidence of major bleeding events as per TIMI criteria."
+      },
+      {
+        "measure": "Functional Recovery (Change in NYHA Class)",
+        "time_frame": "6 months",
+        "description": "Assessment of functional capacity via New York Heart Association classification changes."
+      }
+    ],
+    "enrollment": "1500",
+    "condition": "High-Risk Coronary Artery Disease",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Bivalirudin",
+      "description": "Bivalirudin administered as a bolus of 0.75 mg/kg followed by a continuous infusion of 1.75 mg/kg/hour during the procedure.",
+      "other_name": "Angiomax"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 18 to 80 years with high-risk features for undergoing percutaneous coronary intervention (PCI) such as prior myocardial infarction, diabetes mellitus, or streptococcal infections.\r\n- Ability to provide informed consent.\r\n- Scheduled to undergo elective or urgent PCI.\r\n\r\nExclusion Criteria:\r\n\r\n- History of severe hypersensitivity or anaphylaxis to bivalirudin or heparin.\r\n- Active bleeding or bleeding diathesis.\r\n- Uncontrolled hypertension (systolic blood pressure >180 mmHg).\r\n- Required concurrent use of anticoagulants other than those in the study protocol."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_submitted_qc": "January 17, 2018",
+    "study_first_posted": "January 20, 2018",
+    "last_update_submitted": "April 15, 2021",
+    "last_update_submitted_qc": "April 15, 2021",
+    "last_update_posted": "April 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "HeartCare Clinical Research Group",
+      "investigator_full_name": "Dr. Alice Johnson"
+    },
+    "keyword": ["Bivalirudin", "Coronary Angioplasty", "Anticoagulation Strategy", "Myocardial Infarction"],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study successfully recruited 1500 patients from 30 centers across the country.",
+        "pre_assignment_details": "Randomized allocation was done (1:1 ratio) to either bivalirudin or unfractionated heparin.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bivalirudin Group",
+              "description": "Patients received bivalirudin with bolus initiation and subsequent infusion as guided."
+            },
+            {
+              "title": "Heparin Group",
+              "description": "Patients received usual care with unfractionated heparin as per standard protocols."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Baseline characteristics were comparable between the two groups, with no significant demographic differences affecting the outcomes assessed.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bivalirudin Group",
+              "description": "Characteristics included a mean age of 65.1 years, with 48% female."
+            },
+            {
+              "title": "Heparin Group",
+              "description": "Characteristics included a mean age of 65.3 years, with 49% female."
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "30 days post intervention",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bivalirudin Group",
+              "description": "Resulted in lower overall composite major adverse events with a significant reduction in the primary endpoint."
+            },
+            {
+              "title": "Heparin Group",
+              "description": "Exhibited higher rates of major bleeding, highlighting bivalirudin's favorable safety profile."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "default_assessment": "Adverse events were systematically reported and assessed for causality.",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total Serious Adverse Events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Cardiac Death",
+                    "counts": [2, 1] // [Bivalirudin, Heparin]
+                  },
+                  {
+                    "sub_title": "Reinfarction",
+                    "counts": [5, 10] // [Bivalirudin, Heparin]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. Alice Johnson",
+        "organization": "HeartCare Clinical Research Group",
+        "phone": "+1-123-456-7890",
+        "email": "alice.johnson@heartcaregrp.org"
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is not an agreement that restricts the PI's rights to discuss or publish trial results."
+      }
+    }
+  }
+}
+```

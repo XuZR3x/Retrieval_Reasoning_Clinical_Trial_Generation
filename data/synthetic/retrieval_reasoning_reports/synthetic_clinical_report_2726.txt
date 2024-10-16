@@ -1,0 +1,218 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02744256"
+    },
+    "id_info": {
+      "org_study_id": "OSV-2020-14",
+      "nct_id": "NCT02744256"
+    },
+    "brief_title": "Evaluation of High-Dose Oseltamivir in Patients With Severe Influenza Infection: A Phase 3 Study",
+    "acronym": "HOSIT",
+    "official_title": "A Randomized, Multi-Center, Double-Blind Trial Assessing the Efficacy and Safety of High-Dose Oseltamivir Versus Standard-Dose Oseltamivir in Patients Hospitalized With Severe Influenza Infection",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Pharmaceutical Research Institute",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Hoffmann-La Roche",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Pharmaceutical Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to determine whether a high-dose regimen of oseltamivir (300 mg) could improve antiviral efficacy compared to the standard dose of oseltamivir (75 mg) in patients hospitalized due to severe influenza infection. Importantly, the trial assessed the influence of high-dose treatment on viral resistance, the incidence of adverse events, and the overall clinical outcomes in this patient population."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment and emergence of viral resistance",
+    "start_date": "March 2020",
+    "completion_date": "January 2021",
+    "primary_completion_date": "January 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of negative RT-PCR detection for influenza at Day 5 post-treatment initiation",
+      "time_frame": "Day 5"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Duration of hospital stay",
+        "time_frame": "Day 1 to Day 30"
+      },
+      {
+        "measure": "Incidence of oseltamivir resistance mutations",
+        "time_frame": "Day 1 to Day 30"
+      },
+      {
+        "measure": "Occurrence of serious adverse events",
+        "time_frame": "During treatment and follow-up period (30 days)"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "56",
+    "condition": "Influenza",
+    "arm_group": [
+      {
+        "arm_group_label": "High-Dose Oseltamivir",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive oseltamivir at a dose of 300 mg orally twice daily for 5 days."
+      },
+      {
+        "arm_group_label": "Standard-Dose Oseltamivir",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive oseltamivir at a standard dose of 75 mg orally twice daily for 5 days."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Oseltamivir",
+      "description": "High-dose (300 mg) or standard-dose (75 mg) administered orally for 5 days",
+      "arm_group_label": [
+        "High-Dose Oseltamivir",
+        "Standard-Dose Oseltamivir"
+      ],
+      "other_name": "Tamiflu"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Adults aged 18 years and older who are hospitalized due to severe influenza infection.\r\n2. Confirmation of influenza infection via RT-PCR or rapid flu test within the previous 48 hours.\r\n3. Patients requiring supplemental oxygen or mechanical ventilation (if needed).\r\n\r\nExclusion Criteria:\r\n\r\n1. Previous treatment with any antiviral agent for influenza in the 72 hours prior to enrollment.\r\n2. Documented oseltamivir resistance prior to enrollment.\r\n3. Known allergy to oseltamivir.\r\n4. Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michael T. Shultz, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Pharmaceutical Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "General Hospital of Saskatchewan",
+          "address": {
+            "city": "Saskatoon",
+            "state": "Saskatchewan",
+            "zip": "S7N 4J8",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Toronto Academic Health Sciences Centre",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M5T 1P5",
+            "country": "Canada"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "Canada"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "February 3, 2020",
+    "study_first_submitted_qc": "February 3, 2020",
+    "study_first_posted": "February 5, 2020",
+    "last_update_submitted": "December 20, 2020",
+    "last_update_submitted_qc": "December 20, 2020",
+    "last_update_posted": "December 22, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "intervention_browse": {
+      "mesh_term": "Oseltamivir"
+    },
+    "reported_events": {
+      "time_frame": "Throughout the study duration (60 days)",
+      "desc": "Reporting safety events revealed a higher incidence of serious adverse events associated with high-dose oseltamivir treatment, contributing to treatment discontinuation in 35% of high-dose participants.",
+      "group_list": {
+        "group": [
+          {
+            "title": "High-Dose Oseltamivir",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Pulmonary complications",
+                  "counts": [7, 2]
+                },
+                {
+                  "sub_title": "Gastrointestinal events",
+                  "counts": [3, 1]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Standard-Dose Oseltamivir",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Nausea and vomiting",
+                  "counts": [2, 0]
+                },
+                {
+                  "sub_title": "Transient lethargy",
+                  "counts": [1, 0]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "serious_events": {
+      "default_vocab": "MedDRA 22.1",
+      "default_assessment": "Systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total serious adverse events",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Hospital readmission",
+                  "counts": [2, 0]
+                },
+                {
+                  "sub_title": "Acute respiratory distress syndrome (ARDS)",
+                  "counts": [1, 0]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Gastrointestinal disturbances",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Severe nausea",
+                  "counts": [3, 0]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

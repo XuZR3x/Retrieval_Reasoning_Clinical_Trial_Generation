@@ -1,0 +1,155 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03521674"
+    },
+    "id_info": {
+      "org_study_id": "SNDX-275-0201",
+      "nct_id": "NCT03521674"
+    },
+    "brief_title": "Trial to Assess the Combination of Entinostat and Nivolumab in Patients With Advanced Solid Tumors",
+    "official_title": "A Phase 1b, Open-Label, Multicenter Study of the Safety and Efficacy of Entinostat in Combination With Nivolumab in Patients With Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Syndax Pharmaceuticals",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Syndax Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The primary aim of this study is to evaluate the safety, tolerability, and preliminary efficacy of entinostat combined with nivolumab in patients with advanced solid tumors, with a specific focus on the modulation of immune response."
+    },
+    "detailed_description": {
+      "textblock": "This is a Phase 1b, open-label, multi-center trial designed to elucidate the potential synergistic effects of entinostat, a histone deacetylase inhibitor, in tandem with nivolumab, an immune checkpoint inhibitor, speculating that their combination could lead to enhanced tumor control through improved immune system activation. Enrollment of up to 50 patients will examine varying dose levels of entinostat alongside a fixed dose of nivolumab administered bi-weekly. Participants will be monitored closely for treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), and efficacy outcomes including objective tumor response rates."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2018",
+    "completion_date": "December 10, 2022",
+    "primary_completion_date": "June 30, 2021",
+    "phase": "Phase 1b",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Incidence of treatment-emergent adverse events (TEAEs)",
+        "time_frame": "From first dose until 30 days post last dose",
+        "description": "Safety data was assessed based on the recording of all AEs occurring from the first dose through 30 days after the last dose, utilizing Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      },
+      {
+        "measure": "Best overall tumor response according to RECIST v1.1 criteria",
+        "time_frame": "Baseline to 12 months post-treatment",
+        "description": "Tumor response rates were assessed through imaging scans at baseline and every 12 weeks thereafter until disease progression."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Pharmacokinetic parameters: Cmax, Tmax, AUC",
+        "time_frame": "During treatment cycles",
+        "description": "Pharmacokinetic data on entinostat and nivolumab concentrations were collected pre-dose, and at 1, 2, and 4 hours post-dose at designated treatment time points to calculate Cmax, Tmax, AUC0-inf, and elimination half-life."
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "From enrollment until death or study closure",
+        "description": "OS was calculated as the time from initial enrollment to death due to any cause."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "50",
+    "condition": ["Advanced Solid Tumors", "Lung Cancer", "Breast Cancer", "Melanoma"],
+    "arm_group": [
+      {
+        "arm_group_label": "Entinostat with Nivolumab",
+        "arm_group_type": "Experimental",
+        "description": "Entinostat administered orally at 5 mg weekly in combination with nivolumab infused at 3 mg/kg every 2 weeks until disease progression or intolerable toxicity."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Entinostat",
+        "description": "Entinostat 5 mg administered orally once weekly.",
+        "arm_group_label": "Entinostat with Nivolumab",
+        "other_name": "SNDX-275"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab",
+        "description": "Nivolumab 3 mg/kg administered intravenously every 14 days.",
+        "arm_group_label": "Entinostat with Nivolumab",
+        "other_name": "Opdivo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Patients aged >= 18 years with histologically or cytologically confirmed advanced solid tumors.\r\n  -  Previous treatments must have been completed and any treatment-related toxicities resolved to = Grade 1 prior to enrollment.\r\n  -  Documented measurable disease per RECIST v1.1 criteria.\r\n  -  EcoG performance status of 0-1 and adequate organ function.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Concurrent malignancies (except non-melanoma skin cancers).\r\n  -  Active autoimmune disease requiring systemic treatment.\r\n  -  Prior exposure to single agent HDAC inhibitors (e.g., entinostat).\r\n  -  Known hypersensitivity or intolerable reactions to nivolumab or other components of the study drugs."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Lisa L. Hynes, MD",
+        "role": "Principal Investigator",
+        "affiliation": "The START Center for Cancer Care"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "The START Center for Cancer Care",
+          "address": {
+            "city": "San Antonio",
+            "state": "Texas",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "February 22, 2018",
+    "study_first_submitted_qc": "February 24, 2018",
+    "study_first_posted": "March 1, 2018",
+    "results_first_submitted": "April 15, 2022",
+    "results_first_submitted_qc": "April 20, 2022",
+    "results_first_posted": "May 1, 2022",
+    "last_update_submitted": "March 30, 2023",
+    "last_update_submitted_qc": "March 30, 2023",
+    "last_update_posted": "April 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Entinostat", "Nivolumab", "Solid Tumors", "Histone Deacetylase Inhibitor"],
+    "condition_browse": {
+      "mesh_term": ["Neoplasms", "Cancer", "Solid Tumors"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Entinostat", "Nivolumab"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No",
+      "ipd_description": "The study data will be maintained securely and will not be available for public sharing."
+    }
+  }
+}
+```

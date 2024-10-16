@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03561814"
+    },
+    "id_info": {
+      "org_study_id": "U1111-1214-6443",
+      "nct_id": "NCT03561814"
+    },
+    "brief_title": "Phase II Study of Afatinib Versus Standard Therapy in Previously Treated NSCLC",
+    "acronym": "AFT-NSCLC",
+    "official_title": "A Randomized, Open-Label, Phase II Study to Evaluate the Efficacy and Safety of Afatinib Compared to Standard Chemotherapy in Patients with Metastatic Non-Small-Cell Lung Cancer (NSCLC) Who Have Progressed on Prior Treatment",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to compare the efficacy of afatinib against standard chemotherapy regimens in patients with metastatic EGFR-mutant NSCLC who have progressed following initial treatment. The primary endpoint is overall survival."
+    },
+    "detailed_description": {
+      "textblock": "This is a randomized, open-label, multicenter, phase II trial designed to assess the effectiveness of afatinib in patients with metastatic non-small-cell lung cancer characterized by EGFR mutations who have experienced disease progression following first-line systemic therapy. Patients will be stratified based on the development of resistance mechanisms and will be assigned to receive either afatinib or a standard regime comprising pemetrexed and carboplatin.\n\nThe study begins with screening eligible participants for EGFR status and prior treatment history. Once enrolled, a 1:1 randomization will be applied, and patients will receive either afatinib (40 mg once daily) or standard chemotherapy every 21 days. Treatment will continue until disease progression, intolerable toxicity, or withdrawal of consent."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Recruitment and High Incidence of Toxicity",
+    "start_date": "April 10, 2018",
+    "completion_date": "December 31, 2019",
+    "primary_completion_date": "December 31, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "Assessed at 6 months and 1 year post-randomization",
+      "description": "The primary endpoint of this trial is to assess the overall survival in both treatment arms."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Assessed at 6 months and 1 year post-randomization",
+        "description": "To evaluate the progression-free survival rates in both groups."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "Assessed every 8 weeks until progression or discontinuation",
+        "description": "To determine the proportion of participants with sustained objective responses."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Continuous safety monitoring throughout the study",
+        "description": "To document and grade adverse events according to NCI CTCAE Version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Non-Small-Cell Lung Cancer with Somatic EGFR Mutations",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Afatinib",
+        "arm_group_type": "Experimental",
+        "description": "Afatinib administered at 40 mg oral daily."
+      },
+      {
+        "arm_group_label": "Arm B: Standard Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Pemetrexed (500 mg/m²) with carboplatin (AUC 5) administered every 21 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Afatinib",
+        "description": "40 mg/daily orally.",
+        "arm_group_label": "Arm A: Afatinib"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "500 mg/m² by IV on Day 1 of every 21-day cycle.",
+        "arm_group_label": "Arm B: Standard Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "AUC 5 by IV on Day 1 of every 21-day cycle.",
+        "arm_group_label": "Arm B: Standard Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed metastatic NSCLC with somatic EGFR mutations.\n2. Patient has progressed on prior treatment with platinum-based chemotherapy or afatinib.\n3. At least one measurable lesion as per RECIST 1.1.\n4. Age ≥ 18 years, ECOG performance status 0-2.\n5. Adequate hematologic and organ function.\n6. Written informed consent obtained.\n\nExclusion Criteria:\n\n1. Prior treatment with any other EGFR inhibitors.\n2. Known hypersensitivity to afatinib or pemetrexed.\n3. Major surgery or extensive radiotherapy within 4 weeks prior to study initiation.\n4. Uncontrolled intercurrent illness."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "verification_date": "June 2020",
+    "study_first_submitted": "April 1, 2018",
+    "study_first_submitted_qc": "April 3, 2018",
+    "study_first_posted": "April 5, 2018",
+    "last_update_submitted": "June 1, 2020",
+    "last_update_submitted_qc": "June 2, 2020",
+    "last_update_posted": "June 3, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Cancer Institute (NCI)",
+      "investigator_full_name": "Dr. Sarah L. Hughes, MD",
+      "investigator_title": "Lead Investigator"
+    },
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Afratinib", "Pemetrexed", "Carboplatin"]
+    }
+  }
+}
+```

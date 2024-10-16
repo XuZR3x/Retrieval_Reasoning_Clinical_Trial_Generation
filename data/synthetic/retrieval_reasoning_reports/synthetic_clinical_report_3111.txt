@@ -1,0 +1,141 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "FTL007",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Evaluation of Fentanyl Efficacy in Managing Postoperative Pain in Patients After Lumbar Surgery",
+    "official_title": "A Phase 3 Randomized Controlled Trial to Assess Efficacy and Safety of Fentanyl in Patients Following Lumbar Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Chronic Pain Research Institute",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Chronic Pain Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the effectiveness and safety of fentanyl administered via a transdermal patch in managing postoperative pain among patients who underwent lumbar surgery. The primary hypothesis was based on the assumption that fentanyl would provide superior analgesia compared to traditional opioid therapies."
+    },
+    "detailed_description": {
+      "textblock": "Despite the growing need for effective postoperative analgesia, findings from this clinical trial indicated a concerning pattern of adverse events, particularly respiratory depression, which proved to significantly impact patient safety and treatment adherence. The study enrolled patients on a randomized basis to receive either fentanyl or standard postoperative analgesics post-lumbar surgery. Initial expectations based on earlier studies promoting fentanyl's analgesic properties were not met, with most patients expressing dissatisfaction regarding pain management effectiveness, contravening the trial's primary efficacy endpoints. Furthermore, the pharmacokinetics of fentanyl did not align with the surgical population's requirements for prolonged analgesia, leading to a lack of sustained pain control and increased rescue medication use. The trial was ultimately terminated after several instances of severe respiratory depression and the subsequent necessity for respiratory support in participants receiving fentanyl, combined with evidence of inadequate pain relief as assessed by validated pain scales."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "High incidence of respiratory depression and insufficient pain control led to trial termination.",
+    "start_date": "March 2018",
+    "completion_date": "September 2019",
+    "primary_completion_date": "August 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Pain intensity measured using the Numerical Rating Scale (NRS)",
+      "time_frame": "From postoperative day 1 to day 7",
+      "description": "The primary endpoint consisted of the assessment of pain levels through a 0-10 NRS where 0 denotes no pain and 10 denotes the worst imaginable pain."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Respiratory rates",
+        "time_frame": "Every 4 hours during the first 48 hours postoperative",
+        "description": "Monitoring patients for respiratory rate abnormalities post fentanyl administration."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "From the initiation of treatment until day 14 postoperative",
+        "description": "Documenting all reported adverse events associated with fentanyl."
+      },
+      {
+        "measure": "Rescue analgesic administration rate",
+        "time_frame": "As required throughout the postoperative period",
+        "description": "To evaluate the necessity of administering additional analgesic medications."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Postoperative Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Fentanyl",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving a transdermal fentanyl patch (25-100 mcg/hour) postoperatively."
+      },
+      {
+        "arm_group_label": "Standard Opioid Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants receiving standard care opioid analgesia including morphine and hydromorphone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fentanyl",
+        "description": "Transdermal fentanyl patch (25-100 mcg/hour) applied postoperatively for pain management.",
+        "arm_group_label": "Fentanyl"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Morphine",
+        "description": "Standard opioid therapy with individualized morphine dosing starting at 2-4 mg every 4 hours as needed.",
+        "arm_group_label": "Standard Opioid Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Adults aged 18 to 80 years undergoing scheduled lumbar surgery.\r\n  - Capable of providing informed consent.\r\n  - Postoperative pain measured ≥4 on the Visual Analog Scale (VAS).\r\n\r\nExclusion Criteria:\r\n  - Known allergy to fentanyl or related compounds.\r\n  - History of respiratory illnesses such as COPD or severe asthma.\r\n  - Prior chronic pain diagnosis or regular opioid use prior to surgery.\r\n  - Any contraindications to transdermal routes of medication."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Martin P. Larocque",
+      "role": "Chief Investigator",
+      "affiliation": "Chronic Pain Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Chronic Pain Research Institute",
+        "address": {
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H3X 2B7",
+          "country": "Canada"
+        }
+      }
+    },
+    "location_countries": {"country": "Canada"},
+    "verification_date": "September 2019",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_submitted_qc": "February 20, 2018",
+    "study_first_posted": "March 1, 2018",
+    "last_update_submitted": "September 12, 2019",
+    "last_update_submitted_qc": "September 12, 2019",
+    "last_update_posted": "September 15, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": ["Postoperative pain", "Lumbar Surgery", "Fentanyl", "Pain Management", "Transdermal Analgesia"],
+    "condition_browse": {
+      "mesh_term": ["Postoperative Pain", "Lumbar Surgery"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fentanyl", "Morphine"]
+    }
+  }
+}
+```

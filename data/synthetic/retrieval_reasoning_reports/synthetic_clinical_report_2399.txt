@@ -1,0 +1,499 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02123456"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2013-02045",
+      "secondary_id": ["NCI-2013-02045", "CCTC-1234", "CDR0000845790"],
+      "nct_id": "NCT02123456"
+    },
+    "brief_title": "Alisertib and Pembrolizumab in Treating Patients With Advanced Sarcoma",
+    "official_title": "Phase II Study of Alisertib in Combination With Pembrolizumab for Patients With Advanced or Metastatic Sarcoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II trial evaluates the safety and efficacy of alisertib in combination with pembrolizumab in patients with advanced or metastatic sarcoma. Alisertib may halt tumor cell proliferation by inhibiting Aurora A kinase, while pembrolizumab is designed to enhance the immune response against cancer cells."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\n1. To determine the response rate of treatment with alisertib and pembrolizumab in patients with advanced or metastatic sarcoma.\n\nSECONDARY OBJECTIVES:\n\n1. To evaluate the safety profile of the combination therapy assessing the frequency and severity of adverse events.\n\n2. To assess progression-free survival (PFS) and overall survival (OS) within this patient population.\n\nOUTLINE:\n\nPatients receive alisertib orally (BID) on days 1-7 and pembrolizumab intravenously on day 1 of each cycle. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity. After completion of study treatment, patients are followed up every 3 months for 2 years."
+    },
+    "overall_status": "Completed",
+    "start_date": "July 15, 2014",
+    "completion_date": "December 30, 2018",
+    "primary_completion_date": "December 1, 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Confirmed Objective Response Rate (Complete and Partial Responses)",
+      "time_frame": "Up to 18 months",
+      "description": "The primary endpoint was defined as the proportion of participants achieving a confirmed complete or partial response according to RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From registration until death or last contact, assessed up to 24 months.",
+        "description": "Overall survival will be calculated using the Kaplan-Meier method."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From registration to disease progression or death, assessed up to 24 months.",
+        "description": "Estimated using the Kaplan-Meier method with the time from registration noted."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "During treatment and up to 6 months after the last treatment received.",
+        "description": "Adverse events will be documented according to NCI CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "48",
+    "condition": [
+      "Advanced Sarcoma",
+      "Metastatic Sarcoma"
+    ],
+    "arm_group": {
+      "arm_group_label": "Treatment (alisertib + pembrolizumab)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive alisertib PO BID on days 1-7 and pembrolizumab IV on day 1 of each 21-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Alisertib",
+        "description": "Given orally",
+        "arm_group_label": "Treatment (alisertib + pembrolizumab)",
+        "other_name": ["Aurora A Kinase Inhibitor MLN8237", "MLN-8237"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Given intravenously",
+        "arm_group_label": "Treatment (alisertib + pembrolizumab)",
+        "other_name": ["Keytruda"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Histologically confirmed advanced or metastatic sarcoma.\n\n2. Measurable disease per RECIST 1.1.\n\n3. ECOG performance status <= 2.\n\n4. Adequate organ function according to laboratory values.\n\n5. Written informed consent must be obtained prior to any study-related procedures."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Erin Callegari",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "May 1, 2014",
+    "study_first_submitted_qc": "May 1, 2014",
+    "study_first_posted": "May 5, 2014",
+    "results_first_submitted": "January 15, 2019",
+    "results_first_submitted_qc": "January 15, 2019",
+    "results_first_posted": "January 25, 2019",
+    "last_update_submitted": "January 30, 2019",
+    "last_update_submitted_qc": "January 30, 2019",
+    "last_update_posted": "January 31, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Sarcoma", "Advanced Sarcoma"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "From July 2014 to June 2016, 48 patients were accrued across five participating sites.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (alisertib + pembrolizumab)",
+            "description": "Patients received alisertib and pembrolizumab, as outlined above."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "Accrued patients who began study treatment.",
+          "group_list": {
+            "group": {
+              "title": "Treatment (alisertib + pembrolizumab)",
+              "description": "Patients received the combination treatment as previously detailed."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "outcome_list": {
+            "outcome": [
+              {
+                "type": "Primary",
+                "title": "Confirmed Objective Response Rate",
+                "description": "Evaluated based on confirmed complete and partial responses per RECIST 1.1.",
+                "time_frame": "Up to 18 months",
+                "group_list": {
+                  "group": {
+                    "title": "Overall",
+                    "description": "Proportion of confirmed responses calculated from the total number of evaluable patients."
+                  }
+                },
+                "measure": {
+                  "title": "Objective Response Rate",
+                  "description": "The number of confirmed responses among evaluable participants.",
+                  "units": "percentage of participants with response",
+                  "param": "Number",
+                  "dispersion": "95% Confidence Interval",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": null
+                      }
+                    }
+                  },
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Secondary",
+                "title": "Overall Survival (OS)",
+                "description": "Based on the time from study registration to death or last known contact.",
+                "time_frame": "Assessed up to 24 months",
+                "group_list": {
+                  "group": {
+                    "title": "Overall",
+                    "description": "Kaplan-Meier estimates of overall survival time."
+                  }
+                },
+                "measure": {
+                  "title": "Overall Survival (OS)",
+                  "description": "Estimated using Kaplan-Meier methods.",
+                  "units": "Months",
+                  "param": "Median",
+                  "dispersion": "95% Confidence Interval",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": null
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Secondary",
+                "title": "Progression-Free Survival (PFS)",
+                "description": "Duration from registration to reported disease progression or death.",
+                "time_frame": "Assessed up to 24 months",
+                "group_list": {
+                  "group": {
+                    "title": "Overall",
+                    "description": "Calculated using the Kaplan-Meier method."
+                  }
+                },
+                "measure": {
+                  "title": "Progression-Free Survival (PFS)",
+                  "description": "Estimated with Kaplan-Meier analysis.",
+                  "units": "Months",
+                  "param": "Median",
+                  "dispersion": "95% Confidence Interval",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": null
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Secondary",
+                "title": "Incidence of Adverse Events",
+                "description": "Adverse events observed through the course of the trial recorded by CTCAE criteria.",
+                "time_frame": "Throughout the treatment duration and up to 6 months after",
+                "group_list": {
+                  "group": {
+                    "title": "Overall",
+                    "description": "Safety and tolerability assessment via adverse events."
+                  }
+                },
+                "measure": {
+                  "title": "Adverse Events",
+                  "description": "Count of patients with adverse events reported.",
+                  "units": "Participants",
+                  "param": "Count",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": null
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "reported_events": {
+            "time_frame": "All Adverse Events (AEs) during treatment (up to 30 days after completion). All Serious Adverse Events (SAEs) within 30 days post-treatment.",
+            "group_list": {
+              "group": {
+                "title": "Overall",
+                "description": "Compilation of adverse event reports."
+              },
+              "serious_events": {
+                "default_vocab": "CTCAE v5.0",
+                "default_assessment": "Non-systematic Assessment",
+                "category_list": {
+                  "category": [
+                    {
+                      "title": "Total",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Total, serious adverse events",
+                          "counts": null
+                        }
+                      }
+                    },
+                    {
+                      "title": "Blood and Lymphatic System Disorders",
+                      "event_list": {
+                        "event": [
+                          {
+                            "sub_title": "Anemia",
+                            "counts": null
+                          },
+                          {
+                            "sub_title": "Febrile Neutropenia",
+                            "counts": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "title": "Gastrointestinal Disorders",
+                      "event_list": {
+                        "event": [
+                          {
+                            "sub_title": "Nausea",
+                            "counts": null
+                          },
+                          {
+                            "sub_title": "Vomiting",
+                            "counts": null
+                          },
+                          {
+                            "sub_title": "Diarrhea",
+                            "counts": null
+                          },
+                          {
+                            "sub_title": "Abdominal Pain",
+                            "counts": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "title": "General Disorders",
+                      "event_list": {
+                        "event": {
+                          "sub_title": "Fatigue",
+                          "counts": null
+                        }
+                      }
+                    },
+                    {
+                      "title": "Infections and Infestations",
+                      "event_list": {
+                        "event": [
+                          {
+                            "sub_title": "Infection",
+                            "counts": null
+                          },
+                          {
+                            "sub_title": "Sepsis",
+                            "counts": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "other_events": {
+                  "frequency_threshold": "0",
+                  "default_vocab": "CTCAE (5.0)",
+                  "default_assessment": "Non-systematic Assessment",
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Total",
+                        "event_list": {
+                          "event": {
+                            "sub_title": "Total, other adverse events",
+                            "counts": null
+                          }
+                        }
+                      },
+                      {
+                        "title": "Blood and Lymphatic System Disorders",
+                        "event_list": {
+                          "event": [
+                            {
+                              "sub_title": "Thrombocytopenia",
+                              "counts": null
+                            },
+                            {
+                              "sub_title": "Neutropenia",
+                              "counts": null
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "certain_agreements": {
+            "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+            "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo."
+          },
+          "point_of_contact": {
+            "name_or_title": "Mark Andrew Dickson M.D.",
+            "organization": "National Cancer Institute",
+            "phone": "(301) 494-1234",
+            "email": "mark.dickson@nci.nih.gov"
+          }
+        }
+      }
+    }
+  }
+}
+```

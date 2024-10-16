@@ -1,0 +1,263 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04223345"
+    },
+    "id_info": {
+      "org_study_id": "2022-0141",
+      "secondary_id": "NCI-2022-00124",
+      "nct_id": "NCT04223345"
+    },
+    "brief_title": "Evaluation of Ruxolitinib Plus Acalabrutinib in Myelofibrosis Patients",
+    "official_title": "A Phase III Clinical Trial Evaluating the Efficacy and Safety of Ruxolitinib in Combination With Acalabrutinib in Patients With Primary Myelofibrosis: A Randomized, Double-Blind Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Acme Oncology Research",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "OncoTech Solutions",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Acme Oncology Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the effectiveness of ruxolitinib combined with acalabrutinib in the treatment of patients with primary myelofibrosis. The design was intended to enhance treatment outcomes through synergistic action but ultimately failed to meet endpoints."
+    },
+    "detailed_description": {
+      "textblock": "Eligible participants had histologically confirmed primary myelofibrosis and inadequate response to the standard treatment. Following a 1:1 randomization, patients received ruxolitinib at a dose of 15 mg twice daily and acalabrutinib 100 mg daily. The study was designed with 28-day cycles, and treatment continued until disease progression or unacceptable toxicity. Monitoring included bone marrow biopsies and regular assessments of spleen size and blood counts at designated intervals. Despite initial optimism regarding efficacy, interim analyses revealed a high failure rate in meeting predefined response criteria."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated prematurely due to collective reasons, namely inadequate efficacy, cumulative toxicity, and insufficient patient monitoring leading to early treatment failure.",
+    "start_date": "January 20, 2020",
+    "completion_date": "July 15, 2021",
+    "primary_completion_date": "March 30, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate (OSR)",
+      "time_frame": "From randomization until death or last follow-up; up to 24 months",
+      "description": "Overall survival is defined as the time from randomization to death from any cause. The 2-year survival rate was analyzed using Kaplan-Meier methodology."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization until disease progression; up to 24 months",
+        "description": "Defined by the earliest date of disease progression via imaging or clinical assessment per the International Working Group criteria."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From randomization until the end of treatment; up to 24 months",
+        "description": "ORR was defined as the rate of complete response (CR) and partial response (PR) among treated patients as assessed by the treating physician."
+      },
+      {
+        "measure": "Incidence of Adverse Events (AEs)",
+        "time_frame": "From first dose until 30 days post-treatment discontinuation; up to 24 months",
+        "description": "Adverse events were graded according to CTCAE v4.0 standards, focusing on serious and grade 3-4 occurrences."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "80",
+    "condition": "Myelofibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Ruxolitinib + Acalabrutinib",
+        "arm_group_type": "Experimental",
+        "description": "Patients received ruxolitinib and acalabrutinib as described."
+      },
+      {
+        "arm_group_label": "Standard Care (ruxolitinib only)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received only ruxolitinib as per their standard treatment protocol."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ruxolitinib",
+        "description": "15 mg taken orally twice a day.",
+        "arm_group_label": ["Ruxolitinib + Acalabrutinib", "Standard Care (ruxolitinib only)"],
+        "other_name": ["Jakafi", "INCB018424"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Acalabrutinib",
+        "description": "100 mg taken orally once a day.",
+        "arm_group_label": "Ruxolitinib + Acalabrutinib",
+        "other_name": ["Calquence"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Histologically confirmed primary myelofibrosis requiring therapeutic intervention.\r\n\r\n  -  Prior ineffective treatments with standard agents or intolerance.\r\n\r\n  -  Age ≥ 18 years.\r\n\r\n  -  Adequate organ function as evidenced by laboratory values.\r\n\r\n  -  Signed informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Active secondary malignancy requiring treatment.\r\n\r\n  -  Known hypersensitivity to either ruxolitinib or acalabrutinib.\r\n\r\n  -  Participation in another clinical trial within 30 days prior to screening.\r\n\r\n  -  Uncontrolled comorbid conditions that may interfere with study assessments."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica W. Lee",
+      "role": "Principal Investigator",
+      "affiliation": "Acme Oncology Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Acme Research Medical Center",
+        "address": {
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92101",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "December 1, 2019",
+    "study_first_submitted_qc": "December 1, 2019",
+    "study_first_posted": "December 5, 2019",
+    "results_first_submitted": "July 29, 2021",
+    "results_first_submitted_qc": "August 5, 2021",
+    "results_first_posted": "August 15, 2021",
+    "last_update_submitted": "July 15, 2022",
+    "last_update_submitted_qc": "July 15, 2022",
+    "last_update_posted": "July 20, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Myelofibrosis", "Ruxolitinib", "Acalabrutinib", "Clinical Trial", "Oncology"],
+    "condition_browse": {
+      "mesh_term": ["Myelofibrosis", "Myeloproliferative Neoplasms"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited from January 2020 to March 2021.",
+        "pre_assignment_details": "Eighty participants were assessed for eligibility, of which 75 were randomized to the intervention groups. Five participants withdrew due to adverse effects prior to treatment initiation."
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Ruxolitinib + Acalabrutinib",
+            "description": "Efficacy and safety were monitored for all randomized subjects."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": 75
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Interquartile Range",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [
+                          61,
+                          29,
+                          82
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [40]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [35]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival Rate (OSR)",
+            "description": "Defined as the time from randomization to death from any cause.",
+            "time_frame": "From randomization until last follow-up",
+            "group_list": {
+              "group": {
+                "title": "Ruxolitinib + Acalabrutinib",
+                "description": "The OSR was not statistically significant compared to historical control with an estimated survival rate of only 40% at 12 months."
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate (ORR)",
+            "description": "Response rates were defined per IWG criteria.",
+            "time_frame": "From randomization until disease progression",
+            "group_list": {
+              "group": {
+                "title": "Ruxolitinib + Acalabrutinib",
+                "description": "A disheartening ORR of 15% as opposed to the pre-study threshold of 30% led to the classification of the intervention as ineffective."
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Adverse Events (AEs)",
+            "description": "Adverse events reported throughout the study period included significant hematological toxicities.",
+            "time_frame": "Up to 2 years",
+            "group_list": {
+              "group": {
+                "title": "Ruxolitinib + Acalabrutinib",
+                "description": "Notably, 60% of participants experienced grade 3-4 toxicities, leading to a high rate of treatment discontinuation."
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

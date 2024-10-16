@@ -1,0 +1,312 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02698712"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-123456",
+      "nct_id": "NCT02698712"
+    },
+    "brief_title": "Failure of Pembrolizumab in Combination with Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Multicenter, Open-Label, Phase II Study Evaluating the Effectiveness of Pembrolizumab Combined with Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer: NCT02698712",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "ABC Cancer Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pharmaceutical Innovation, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "ABC Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This is a multi-center, open-label, single-arm, Phase II study designed to assess the efficacy and safety of pembrolizumab in combination with chemotherapy in patients diagnosed with advanced non-small cell lung cancer (NSCLC)."
+    },
+    "detailed_description": {
+      "textblock": "OUTLINE: The study consists of a multi-center, open-label design.\n\nINVESTIGATIONAL TREATMENT:\n\n- Chemotherapy consisting of carboplatin and paclitaxel, followed by concurrent administration of pembrolizumab (MK-3475) IV every 3 weeks.\n\n- Patients will receive a total of four cycles of chemotherapy followed by maintenance pembrolizumab in eligible patients.\n\nThe primary outcome measure is the overall response rate (ORR), evaluated every 8 weeks using RECIST v1.1 criteria."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient efficacy and increased adverse events",
+    "start_date": "March 15, 2017",
+    "completion_date": "March 12, 2021",
+    "primary_completion_date": "March 15, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "From initiation to the 8-week evaluation",
+      "description": "To determine the percentage of patients who achieve a complete or partial response according to RECIST v1.1."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From initiation of treatment until disease progression or death, up to 24 months",
+        "description": "To evaluate the time until disease progression per RECIST criteria."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From initiation of treatment until death, assessed up to 24 months",
+        "description": "To determine the overall survival rate of patients receiving the combination therapy."
+      },
+      {
+        "measure": "Number of Patients with Adverse Events (AEs)",
+        "time_frame": "From initiation of treatment until 30 days post last dose, up to 24 months",
+        "description": "To evaluate the safety and tolerability of pembrolizumab and chemotherapy."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "75",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Pembrolizumab + Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Consists of pembrolizumab in combination with carboplatin and paclitaxel."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Pembrolizumab (MK-3475) 200 mg IV every 3 weeks.",
+        "arm_group_label": "Pembrolizumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Carboplatin AUC 5 IV on Day 1 of each cycle.",
+        "arm_group_label": "Pembrolizumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Paclitaxel 175 mg/m² IV on Day 1 of each cycle.",
+        "arm_group_label": "Pembrolizumab + Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically or cytologically confirmed advanced NSCLC.\n- At least one measurable lesion per RECIST v1.1.\n- ECOG performance status of 0 or 1.\n- Adequate organ function and laboratory parameters.\n\nExclusion Criteria:\n- Prior systemic therapy for advanced NSCLC.\n- Active autoimmune disease requiring immunosuppressive therapy.\n- Centrally located primary tumors or significant comorbidities that prevent safe delivery of chemotherapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, M.D.",
+      "role": "Study Principal Investigator",
+      "affiliation": "ABC Cancer Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital Cancer Center",
+          "address": {
+            "city": "Metropolis",
+            "state": "IL",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "February 2, 2017",
+    "study_first_submitted_qc": "February 5, 2017",
+    "study_first_posted": "February 10, 2017",
+    "results_first_submitted": "April 5, 2021",
+    "results_first_submitted_qc": "April 10, 2021",
+    "results_first_posted": "April 15, 2021",
+    "last_update_submitted": "April 12, 2021",
+    "last_update_submitted_qc": "April 12, 2021",
+    "last_update_posted": "April 14, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "ABC Cancer Research Institute",
+      "investigator_full_name": "John Smith, MD",
+      "investigator_title": "Lead Researcher"
+    },
+    "keyword": [
+      "Pembrolizumab",
+      "MK-3475",
+      "Chemotherapy",
+      "Non-Small Cell Lung Cancer"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Pembrolizumab"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Chemotherapy",
+            "description": "Subsequent to the enrollment of 75 patients, all were assessed for safety and efficacy outcomes."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "75 participants enrolled."
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "Study discontinued due to insufficient efficacy and increased adverse events."
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Chemotherapy",
+            "description": "Participants received the investigational treatment regimen."
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Range",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": "Age range 50-75 years."
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "ECOG Performance Status",
+              "units": "Participants",
+              "param": "Count",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "0",
+                        "measurement_list": {
+                          "measurement": "45 Participants"
+                        }
+                      },
+                      {
+                        "title": "1",
+                        "measurement_list": {
+                          "measurement": "30 Participants"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Biomarker Status (PD-L1)",
+              "units": "Participants",
+              "param": "Count",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "PD-L1 Positive",
+                        "measurement_list": {
+                          "measurement": "25 Participants"
+                        }
+                      },
+                      {
+                        "title": "PD-L1 Negative",
+                        "measurement_list": {
+                          "measurement": "50 Participants"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Response Rate (ORR)",
+              "description": "No significant improvement in overall response rate compared to historical control.",
+              "time_frame": "Assessed at 8 weeks post initiation.",
+              "group_list": {
+                "group": {
+                  "title": "Assessment",
+                  "description": "No CR or PR observed in 75 enrolled participants."
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Adverse Events",
+              "description": "High incidence of immune-related adverse effects.",
+              "time_frame": "Reported during treatment period.",
+              "group_list": {
+                "group": {
+                  "title": "Safety Analysis",
+                  "description": "Reported AEs included pneumonitis, colitis, and severe fatigue."
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "No statistically significant improvement in PFS compared to standard chemotherapy.",
+              "time_frame": "Evaluated at 8-week intervals.",
+              "group_list": {
+                "group": {
+                  "title": "Duration Analysis",
+                  "description": "Median PFS was 4 months with high rates of progression noted."
+                }
+              }
+            }
+          ]
+        },
+      }
+    }
+  }
+}
+```

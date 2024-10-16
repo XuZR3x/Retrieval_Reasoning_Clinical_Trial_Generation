@@ -1,0 +1,235 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02045693"
+    },
+    "id_info": {
+      "org_study_id": "PRAS-002",
+      "nct_id": "NCT02045693"
+    },
+    "brief_title": "Evaluation of the Efficacy of Prasugrel in Patients Transitioning from Clopidogrel",
+    "official_title": "A Phase 3 Study Comparing Prasugrel with Placebo in Patients Transitioning from Clopidogrel: The TRANSITION Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Clinical Research Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Clinical Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to investigate the efficacy and safety of prasugrel compared to placebo in patients previously treated with clopidogrel prior to percutaneous coronary intervention (PCI). The focus was on measuring improvements in platelet inhibition and overall clinical outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to lack of significant efficacy in target population.",
+    "start_date": "January 2014",
+    "completion_date": "December 2017",
+    "primary_completion_date": "June 2017",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of Platelet Reactivity as Measured by VerifyNow P2Y12 Assay",
+      "time_frame": "At 24 hours and at 7 days post-treatment initiation",
+      "description": "Rate of platelet reactivity was measured using the VerifyNow P2Y12 assay to determine the effectiveness of prasugrel in reducing platelet activation compared to baseline and placebo."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "From baseline through 30 days post-treatment",
+        "description": "Evaluation of TEAEs including significant bleeding events, and their relation to the prasugrel treatment in comparison to placebo."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Acute Coronary Syndrome",
+    "arm_group": [
+      {
+        "arm_group_label": "Prasugrel",
+        "arm_group_type": "Experimental",
+        "description": "Patients who have received clopidogrel will receive a 60mg loading dose of prasugrel followed by a 10mg daily maintenance dose."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive a placebo for 7 days followed by standard care."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prasugrel",
+        "description": "Loading dose administered orally prior to PCI, followed by daily maintenance dose.",
+        "arm_group_label": "Prasugrel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo administered orally for 7 days.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adults aged 18-75 with a diagnosis of ACS who have already received a 600 mg loading dose of clopidogrel 24-48 hours prior to enrollment, and who are candidates for PCI.\r\n2. Signed informed consent obtained.\r\n\r\nExclusion Criteria:\r\n1. Known hypersensitivity to prasugrel or any excipient.\r\n2. History of significant bleeding events within the past 6 months.\r\n3. Clinical conditions affecting drug metabolism and clearance.\r\n4. Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jennifer Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Clinical Research Group"
+    },
+    "location": [{
+      "facility": {
+        "name": "Metro Heart Institute",
+        "address": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60601",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "December 10, 2013",
+    "study_first_posted": "January 15, 2014",
+    "last_update_submitted": "August 1, 2024",
+    "last_update_posted": "August 2, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Prasugrel", "Clopidogrel", "Acute Coronary Syndrome"],
+    "condition_browse": {
+      "mesh_term": ["Acute Coronary Syndrome"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Prasugrel Hydrochloride"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+              "title": "Prasugrel",
+              "description": "Prasugrel loading dose and maintenance therapy group."
+            },
+            {
+              "title": "Placebo",
+              "description": "Control group receiving placebo."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [120, 0]
+                }
+              },
+              {
+                "title": "Received at Least One Dose of Drug",
+                "participants_list": {
+                  "participants": [80, 40]
+                }
+              },
+              {
+                "title": "Discontinued During Study",
+                "participants_list": {
+                  "participants": [20, 10]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [60, 30]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [60, 40]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were reported throughout the study duration.",
+        "desc": "All safety data collected reflect participant responses during the active treatment period.",
+        "group_list": [{
+            "title": "Prasugrel",
+            "description": "Prasugrel cohort’s recorded adverse events."
+          },
+          {
+            "title": "Placebo",
+            "description": "Placebo cohort’s recorded adverse events."
+          }
+        ]
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 18.1",
+        "default_assessment": "Systematic Assessment",
+        "category_list": [{
+            "title": "Total",
+            "event_list": {
+              "event": {
+                "sub_title": "Total Serious Adverse Events",
+                "counts": [5, 2]
+              }
+            }
+          },
+          {
+            "title": "Cardiac Events",
+            "event_list": {
+              "event": [{
+                  "sub_title": "Myocardial infarction",
+                  "counts": [3, 1]
+                },
+                {
+                  "sub_title": "Cardiac arrest",
+                  "counts": [2, 0]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Gastrointestinal Events",
+            "event_list": {
+              "event": [{
+                  "sub_title": "Gastrointestinal hemorrhage",
+                  "counts": [4, 1]
+                },
+                {
+                  "sub_title": "Nausea",
+                  "counts": [2, 1]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "limitations_and_caveats": "The study exhibited limited efficacy, with minimal platelet inhibition detected and high rates of adverse events, resulting in a decision to terminate the study due to insufficient therapeutic benefits and safety concerns surrounding prasugrel in this patient cohort."
+  }
+}
+```

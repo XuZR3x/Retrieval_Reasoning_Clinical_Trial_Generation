@@ -1,0 +1,142 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02563429"
+    },
+    "id_info": {
+      "org_study_id": "BMY-426-12",
+      "nct_id": "NCT02563429"
+    },
+    "brief_title": "Evaluating the Efficacy of Bortezomib in Combination with Immunomodulatory Agents",
+    "official_title": "Phase III, Randomized Study of Bortezomib in Combination with Lenalidomide and Dexamethasone in Patients with Newly Diagnosed Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Bristol-Myers Squibb",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to evaluate the efficacy and safety of the combination therapy of bortezomib, lenalidomide, and dexamethasone in inducing and maintaining response in patients with newly diagnosed multiple myeloma."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 2015",
+    "completion_date": "August 2020",
+    "primary_completion_date": "June 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "At the end of Cycle 6 (approximately 6 months)",
+      "description": "The overall response rate will be assessed using the International Myeloma Working Group criteria to evaluate the induction therapy."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years post-treatment initiation",
+        "description": "The time from treatment initiation to disease progression will be evaluated."
+      },
+      {
+        "measure": "Adverse Events (AEs)",
+        "time_frame": "Up to 30 days after last dose of treatment",
+        "description": "AEs will be assessed and graded according to NCI-CTCAE Version 4.0."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 3 years post-treatment initiation",
+        "description": "The time from enrollment to death from any cause will be recorded."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Bortezomib with Lenalidomide and Dexamethasone",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive bortezomib (1.3 mg/m²) via subcutaneous injection on Days 1, 4, 8, and 11 of a 28-day cycle, alongside lenalidomide and dexamethasone, for a total of 6 cycles followed by maintenance therapy."
+      },
+      {
+        "arm_group_label": "Lenalidomide and Dexamethasone Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive lenalidomide (25 mg) on Days 1-21 and dexamethasone (40 mg) on Days 1, 8, 15, and 22 of a 28-day cycle for 6 cycles, followed by maintenance therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bortezomib",
+        "description": "1.3 mg/m² administered subcutaneously on Days 1, 4, 8, 11 of each 28-day cycle.",
+        "arm_group_label": ["Bortezomib with Lenalidomide and Dexamethasone"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lenalidomide",
+        "description": "25 mg orally on Days 1-21 of each 28-day cycle.",
+        "arm_group_label": ["Bortezomib with Lenalidomide and Dexamethasone", "Lenalidomide and Dexamethasone Alone"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexamethasone",
+        "description": "40 mg orally on Days 1, 8, 15, and 22 of each 28-day cycle.",
+        "arm_group_label": ["Bortezomib with Lenalidomide and Dexamethasone", "Lenalidomide and Dexamethasone Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients with newly diagnosed symptomatic multiple myeloma requiring treatment.\n- Age ≥ 18 years.\n- Measurable disease, with serum M-protein > 1 g/dL or urine M-protein > 200 mg/24 hours.\n- Karnofsky performance status ≥ 70%.\n\nExclusion Criteria:\n\n- Prior treatment for multiple myeloma.\n- Active CNS involvement or other malignancies unless disease free for ≥ 5 years.\n- Significant cardiac dysfunction or other serious medical conditions limiting treatment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Bristol-Myers Squibb"
+    },
+    "location": {
+      "facility": {
+        "name": "Bristol-Myers Squibb Clinical Research Unit",
+        "address": {
+          "city": "New York",
+          "state": "NY",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "April 30, 2015",
+    "study_first_posted": "May 3, 2015",
+    "last_update_posted": "July 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Bristol-Myers Squibb"
+    },
+    "keyword": ["Bortezomib", "Multiple Myeloma", "Lenalidomide", "Dexamethasone", "Combination Therapy"],
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bortezomib", "Lenalidomide", "Dexamethasone"]
+    }
+  }
+}
+```

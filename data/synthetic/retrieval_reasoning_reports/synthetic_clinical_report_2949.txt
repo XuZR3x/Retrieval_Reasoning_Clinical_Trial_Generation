@@ -1,0 +1,401 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03056148"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2013-04582",
+      "secondary_id": ["NCI-2013-04582", "GOG-0231E", "CDR0000741548"],
+      "nct_id": "NCT03056148"
+    },
+    "brief_title": "Alisertib in the Treatment of Advanced Gastrointestinal Stromal Tumors (GISTs) Resistant to Imatinib",
+    "official_title": "Phase II Study of Alisertib (MLN8237) in Patients With Advanced Gastrointestinal Stromal Tumors (GISTs) After Treatment With Imatinib",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      },
+      "collaborator": {
+        "agency": "National Comprehensive Cancer Network (NCCN)",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II clinical trial aims to evaluate the efficacy of alisertib in patients with advanced GISTs who have shown resistance to imatinib treatment. Alisertib, an Aurora A kinase inhibitor, has been tested for its potential to inhibit cancer cell growth by disrupting mitotic processes."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVE:\n\nI. To determine the overall response rate (complete response [CR] + partial response [PR]) in patients with advanced GISTs treated with alisertib as assessed by RECIST 1.1 criteria.\n\nSECONDARY OBJECTIVES:\n\nI. To estimate the median progression-free survival (PFS) in this cohort of patients.\n\nII. To evaluate the safety profile of alisertib, including the frequency and severity of dose-limiting toxicities (DLTs).\n\nIII. To explore the potential correlation of Aurora A expression with therapeutic outcomes.\n\nOUTLINE:\n\nPatients received alisertib orally (PO) twice daily (BID) for 7 consecutive days every 21 days. Following treatment, patients were monitored for response and adverse events every month until disease progression or unacceptable toxicity occurred."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 1, 2014",
+    "completion_date": "July 15, 2018",
+    "primary_completion_date": "December 24, 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "Evaluated every 8 weeks for the first 24 weeks, then every 12 weeks thereafter.",
+      "description": "Response rate defined according to RECIST 1.1 criteria, indicating the proportion of confirmed complete and partial responses among the treated participants."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Evaluated from registration until disease progression or death, assessed up to 18 months.",
+        "description": "Time from treatment initiation until disease progression, utilizing Kaplan-Meier methods for estimation."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "During treatment and up to 30 days after the last treatment.",
+        "description": "Documented incidence of adverse events using NCI CTCAE version 4.0 during treatment cycles."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "45",
+    "condition": [
+      "Gastrointestinal Stromal Tumor",
+      "Resistant GIST"
+    ],
+    "arm_group": {
+      "arm_group_label": "Treatment (alisertib)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive alisertib PO BID on days 1-7, repeating every 21 days in the absence of disease progression or unacceptable toxicity."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Alisertib",
+        "description": "Given PO",
+        "arm_group_label": "Treatment (alisertib)",
+        "other_name": [
+          "MLN8237",
+          "Aurora A Kinase Inhibitor"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Age >= 18 years and able to provide informed consent.\n\n  - Histologically or cytologically confirmed diagnosis of GIST.\n\n  - At least one measurable lesion by RECIST 1.1 standards.\n\n  - Patients must have progressed on or after treatment with imatinib.\n\n  - Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2.\n\n  - Adequate organ function, confirmed by laboratory tests.\n\nExclusion Criteria:\n\n  - History of severe adverse reactions to Aurora kinase inhibitors.\n\n  - Presence of brain metastases or uncontrolled intercurrent diseases.\n\n  - Concurrent treatment with other investigational agents.\n\n  - Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Adrian J. Dobs, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "January 15, 2014",
+    "study_first_submitted_qc": "January 15, 2014",
+    "study_first_posted": "February 1, 2014",
+    "results_first_submitted": "September 12, 2018",
+    "results_first_submitted_qc": "September 21, 2018",
+    "results_first_posted": "October 16, 2018",
+    "last_update_submitted": "November 28, 2021",
+    "last_update_submitted_qc": "November 28, 2021",
+    "last_update_posted": "December 2, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Gastrointestinal Stromal Tumors",
+        "Stromal Neoplasms"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "From February 2014 to May 2016, a total of 45 patients were enrolled in the study.",
+        "group_list": {
+          "group": {
+            "title": "All GIST Patients",
+            "description": "Patients received alisertib, administered as per protocol on specified dosing schedule."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "All GIST Patients",
+              "description": "All patients received alisertib and were evaluated for response and adverse events."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [45]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Interquartile Range",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [64, 70]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [15]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [30]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Overall Response Rate",
+              "description": "Proportion of participants with confirmed complete and partial responses per RECIST.",
+              "time_frame": "Up to 18 months",
+              "measure": {
+                "title": "Overall Response Rate",
+                "description": "Documented as percentage of patients with confirmed responses.",
+                "units": "percentage of participants",
+                "param": "Number",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [8]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "Time from treatment initiation to disease progression or death.",
+              "time_frame": "Assessed every 8 weeks up to 18 months",
+              "measure": {
+                "title": "Progression-Free Survival (PFS)",
+                "description": "Documented in weeks from treatment start.",
+                "units": "Weeks",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [4]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Adverse Events",
+              "description": "Incidence of adverse events graded by NCI CTCAE version 4.0.",
+              "time_frame": "During treatment and up to 30 days after treatment",
+              "population": "All treated participants assessed for this endpoint.",
+              "measure": {
+                "title": "Grade 4 or Higher Adverse Events",
+                "description": "Total count of patients experiencing serious adverse events.",
+                "units": "participants",
+                "param": "Count of Participants",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [12]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Throughout the study duration.",
+          "group_list": {
+            "group": {
+              "title": "All Adverse Events",
+              "description": "All serious and non-serious adverse events reported."
+            }
+          },
+          "serious_events": {
+            "default_vocab": "NCI CTCAE",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total serious adverse events",
+                      "counts": 15
+                    }
+                  }
+                },
+                {
+                  "title": "Blood Disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Anemia",
+                      "counts": 5
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal Disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Diarrhea",
+                      "counts": 7
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "0",
+            "default_vocab": "NCI CTCAE",
+            "default_assessment": "Non-systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total other adverse events",
+                      "counts": 20
+                    }
+                  }
+                },
+                {
+                  "title": "Fatigue",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Fatigue",
+                      "counts": 12
+                    }
+                  }
+                },
+                {
+                  "title": "Nausea and Vomiting",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Nausea",
+                      "counts": 10
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The sponsor has the right to review results communications before public release."
+        },
+        "point_of_contact": {
+          "name_or_title": "Dr. Adrian J. Dobs",
+          "organization": "Johns Hopkins University",
+          "phone": "(410) 955-1234",
+          "email": "adobs@jhmi.edu"
+        }
+      }
+    }
+  }
+}
+```

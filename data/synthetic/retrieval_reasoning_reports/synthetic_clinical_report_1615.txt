@@ -1,0 +1,134 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024", 
+        "link_text": "Link to the current ClinicalTrials.gov record.", 
+        "url": "https://clinicaltrials.gov/ct2/show/NCT03145678"
+    }, 
+    "id_info": {
+        "org_study_id": "Regorafenib-RCC-Study", 
+        "nct_id": "NCT03145678"
+    }, 
+    "brief_title": "Evaluation of Regorafenib as a Second-Line Therapy in Patients with Refractory Metastatic Renal Cell Carcinoma", 
+    "official_title": "A Phase II Randomized Study of Regorafenib Versus Standard Care in Patients with Metastatic Renal Cell Carcinoma Who Have Failed First-Line Treatment", 
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "Renal Oncology Research Group", 
+            "agency_class": "Non-profit"
+        }, 
+        "collaborator": {
+            "agency": "Bayer", 
+            "agency_class": "Industry"
+        }
+    }, 
+    "source": "Renal Oncology Research Group", 
+    "oversight_info": {
+        "has_dmc": "Yes"
+    }, 
+    "brief_summary": {
+        "textblock": "This study aimed to evaluate the efficacy of regorafenib as a second-line treatment in patients with metastatic renal cell carcinoma (mRCC) who failed prior therapy. The study was designed to determine whether regorafenib could improve progression-free survival compared to standard care options."
+    }, 
+    "detailed_description": {
+        "textblock": "Regorafenib, a multi-targeted tyrosine kinase inhibitor, has demonstrated efficacy in various malignancies. This phase II study hypothesized a potential benefit of regorafenib in mRCC patients after standard first-line therapy. However, the trial faced significant methodological challenges and patient enrollment difficulties. \n\nThe study commenced with a population of 200 patients diagnosed with mRCC who experienced progression on first-line treatment. Participants were randomly assigned to receive either regorafenib or the best supportive care (BSC). The primary endpoint was progression-free survival (PFS) assessed at six months post-randomization, while secondary endpoints included overall survival (OS) and adverse event profiles.\n\nDespite initial enthusiasm, the study was fraught with challenges including suboptimal patient accrual resulting in only 65 patients being enrolled over 18 months, well below the target number essential for statistical validity. The heterogeneity in genetic backgrounds of participants further complicated the identification of predictive biomarkers necessary for stratifying treatment responses, leading to inconclusive results concerning regorafenib’s clinical benefit in this setting.\n\nAdditionally, regorafenib exhibited a toxicity profile that raised significant concerns; many patients experienced prohibitive adverse events such as hypertension, liver dysfunction, and gastrointestinal complications, leading to treatment discontinuation in approximately 30% of recipients. Consequently, these safety concerns necessitated a re-evaluation of regorafenib’s place within the treatment landscape of mRCC."
+    }, 
+    "overall_status": "Terminated", 
+    "why_stopped": "Terminated due to insufficient patient accrual, substantial adverse events, and lack of meaningful clinical benefit detected by interim analysis.", 
+    "start_date": "April 2017", 
+    "completion_date": "October 2020", 
+    "primary_completion_date": "March 2020", 
+    "phase": "Phase 2", 
+    "study_type": "Interventional", 
+    "has_expanded_access": "No", 
+    "study_design_info": {
+        "allocation": "Randomized", 
+        "intervention_model": "Parallel Assignment", 
+        "primary_purpose": "Treatment", 
+        "masking": "None (Open Label)"
+    }, 
+    "primary_outcome": {
+        "measure": "Progression-free survival (PFS)", 
+        "time_frame": "Six months post randomization", 
+        "description": "PFS defined as the time from randomization to disease progression or death due to any cause."
+    }, 
+    "secondary_outcome": [
+        {
+            "measure": "Overall survival (OS)", 
+            "time_frame": "12 months", 
+            "description": "Overall survival measured from date of randomization to date of death from any cause."
+        }, 
+        {
+            "measure": "Rate of adverse events", 
+            "time_frame": "Through study completion, an average of 24 months", 
+            "description": "Assessment of adverse events graded by NCI-CTCAE version 4.0."
+        }, 
+        {
+            "measure": "Quality of life (QoL)", 
+            "time_frame": "Pre-treatment, every 3 months for 18 months", 
+            "description": "QoL assessment using validated questionnaires."
+        }
+    ], 
+    "number_of_arms": "2", 
+    "enrollment": "65", 
+    "condition": "Metastatic Renal Cell Carcinoma", 
+    "arm_group": [
+        {
+            "arm_group_label": "Regorafenib", 
+            "arm_group_type": "Experimental", 
+            "description": "Regorafenib 160 mg orally once daily for 21 days in a 28-day cycle."
+        }, 
+        {
+            "arm_group_label": "Best Supportive Care", 
+            "arm_group_type": "Active Comparator", 
+            "description": "Best supportive care only, without additional investigational drugs."
+        }
+    ], 
+    "intervention": [
+        {
+            "intervention_type": "Drug", 
+            "intervention_name": "Regorafenib", 
+            "description": "Regorafenib 160 mg once daily for 21 days of a 28-day cycle for up to 2 cycles, followed by best supportive care."
+        }
+    ], 
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria:\n1. Adults aged 18 years or older with histologically confirmed metastatic renal cell carcinoma. \n2. Patients who have progressed after at least one prior systemic therapy.\n3. ECOG performance status of 0-2.\n4. Adequate organ function as assessed by laboratory tests.\n5. Ability to provide written informed consent.\n\nExclusion Criteria:\n1. Prior treatment with regorafenib.\n2. Concurrent malignancies.\n3. Uncontrolled hypertension or significant cardiovascular diseases.\n4. Active infections, renal impairment, or serious concomitant diseases.\n5. Pregnant or breastfeeding women."
+        }, 
+        "gender": "All", 
+        "minimum_age": "18 Years", 
+        "maximum_age": "N/A", 
+        "healthy_volunteers": "No"
+    }, 
+    "overall_official": [
+        {
+            "last_name": "John Doe, M.D.", 
+            "role": "Principal Investigator", 
+            "affiliation": "Renal Oncology Research Group"
+        }
+    ], 
+    "location": [
+        {
+            "facility": {
+                "name": "City Hospital", 
+                "address": {
+                    "city": "Metropolis", 
+                    "state": "Metropolis State", 
+                    "zip": "54321", 
+                    "country": "United States"
+                }
+            }
+        }
+    ], 
+    "location_countries": {
+        "country": "United States"
+    }, 
+    "verification_date": "February 2024", 
+    "study_first_submitted": "January 23, 2017", 
+    "study_first_posted": "February 2, 2017", 
+    "last_update_posted": "July 15, 2020", 
+    "responsible_party": {
+        "responsible_party_type": "Principal Investigator", 
+        "investigator_affiliation": "Renal Oncology Research Group", 
+        "investigator_full_name": "John Doe", 
+        "investigator_title": "M.D."
+    }, 
+    "keyword": ["regorafenib", "metastatic renal cell carcinoma", "second-line therapy", "clinical trial"]
+}}

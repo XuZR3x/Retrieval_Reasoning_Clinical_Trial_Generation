@@ -1,0 +1,162 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 31, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02048590"
+    },
+    "id_info": {
+      "org_study_id": "DA-202001",
+      "nct_id": "NCT02048590"
+    },
+    "brief_title": "Study of Darbepoetin Alfa in Anemic Patients with Advanced Cancer Undergoing Chemotherapy",
+    "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Trial of Darbepoetin Alfa for the Treatment of Anemia in Patients with Advanced Solid Tumors Undergoing Myelosuppressive Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy and safety of darbepoetin alfa on anemia management in patients with advanced solid tumors undergoing chemotherapy. The design included a screening period of 14 days, followed by an 8-week treatment phase, and assessments of primary and secondary endpoints."
+    },
+    "detailed_description": {
+      "textblock": "The study was designed to enroll approximately 300 patients diagnosed with advanced solid tumors and experiencing anemia. The intervention involved darbepoetin alfa administered via subcutaneous injection at a starting dose of 500 mcg every 2 weeks for a duration of 8 weeks. The primary outcome was the change in hemoglobin levels assessed at weeks 4 and 8 compared to baseline. Secondary outcomes included time to red blood cell transfusion, quality of life assessments using the EORTC QLQ-C30 instrument, and the incidence of adverse events. Despite initial enthusiasm based on prior studies suggesting efficacy, the trial faced challenges predominantly attributable to insufficient patient recruitment and low efficacy demonstration."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated prior to completion due to inadequate patient recruitment, insufficient demonstration of efficacy against initial expectations, and safety concerns arising from adverse events reported during the treatment phase.",
+    "start_date": "March 1, 2014",
+    "completion_date": "July 15, 2016",
+    "primary_completion_date": "July 15, 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Hemoglobin Level from Baseline to Week 8",
+      "time_frame": "Baseline, Week 4, and Week 8",
+      "description": "Change in hemoglobin level measured in grams per deciliter (g/dL), compared to baseline values; analyzed via analysis of variance (ANOVA)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Time to First Red Blood Cell Transfusion",
+        "time_frame": "From baseline up to 8 weeks",
+        "description": "Time until the requirement of the first red blood cell transfusion, documented through patient records."
+      },
+      {
+        "measure": "Quality of Life Score Changes",
+        "time_frame": "Baseline, Weeks 4 and 8",
+        "description": "Quality of life was evaluated using EORTC QLQ-C30 scale, with scores ranging from 0 to 100; higher scores indicate better quality of life."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout study duration",
+        "description": "Documentation of all adverse events classified according to the Common Terminology Criteria for Adverse Events (CTCAE)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "76",
+    "condition": "Anemia in Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Darbepoetin alfa 500 mcg",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving darbepoetin alfa subcutaneously administered at a dose of 500 mcg every 2 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receiving a placebo treatment administered subcutaneously every 2 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Darbepoetin alfa",
+        "description": "Administered via subcutaneous injection at a starting dose of 500 mcg every 2 weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo subcutaneous injection simulating the dosing schedule of darbepoetin alfa."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adult patients aged 18 years or older;\r\n\r\n  - Documented diagnosis of advanced solid tumors with an anticipated need for myelosuppressive chemotherapy;\r\n\r\n  - Presence of anemia defined as hemoglobin < 11 g/dL at screening.\r\n\r\nExclusion Criteria:\r\n\r\n  - Patients with known hypersensitivity to darbepoetin alfa or other erythropoiesis-stimulating agents;\r\n\r\n  - Patients receiving blood transfusions within the last 30 days prior to screening;\r\n\r\n  - Concurrent use of other myeloid growth factors or investigational agents.\r\n\r\n  - Active uncontrolled infection or significant cardiovascular diseases at screening.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Michael Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Clinic",
+          "address": {
+            "city": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }, 
+      {
+        "facility": {
+          "name": "Research Facility XYZ",
+          "address": {
+            "city": "Los Angeles",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cancer Institute",
+          "address": {
+            "city": "Chicago",
+            "zip": "60616",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "September 2024",
+    "study_first_submitted": "February 20, 2014",
+    "study_first_submitted_qc": "February 20, 2014",
+    "study_first_posted": "February 22, 2014",
+    "last_update_submitted": "August 22, 2016",
+    "last_update_submitted_qc": "August 22, 2016",
+    "last_update_posted": "August 24, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Anemia management", "Darbepoetin alfa", "Solid tumors", "Chemotherapy", "Quality of life assessment"],
+    "condition_browse": {
+      "mesh_term": ["Anemia", "Cancer", "Solid Tumors", "Chemotherapy."]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Darbepoetin alfa", "Erythropoietins"]
+    }
+  }
+}
+```

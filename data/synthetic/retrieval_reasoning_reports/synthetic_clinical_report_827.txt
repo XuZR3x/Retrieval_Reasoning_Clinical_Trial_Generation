@@ -1,0 +1,143 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02588980"
+    },
+    "id_info": {
+      "org_study_id": "THA-TAC-2021",
+      "nct_id": "NCT02588980"
+    },
+    "brief_title": "Evaluation of Tacrolimus in Combination With Mycophenolate Mofetil for Prevention of Acute Rejection in Heart Transplant Recipients",
+    "acronym": "TAC-Heart",
+    "official_title": "A Phase IV, Multicenter, Open-Label Study to Evaluate the Safety and Efficacy of Tacrolimus in Combination With Mycophenolate Mofetil for the Prevention of Acute Rejection in Heart Transplant Recipients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiac Transplant Research Society",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cardiac Transplant Research Society",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the effectiveness of tacrolimus in combination with mycophenolate mofetil in preventing acute rejection among heart transplant recipients. The intervention hypothesized that a reduced tacrolimus target level would minimize renal toxicity while preserving cardiac graft function."
+    },
+    "detailed_description": {
+      "textblock": "The primary aim of the study was to evaluate the incidence of acute rejection episodes using a combination regimen of tacrolimus and mycophenolate mofetil in heart transplant recipients. Patients were randomized into two arms, receiving either standard tacrolimus dosing (target trough 10-12 ng/mL) or a reduced dosage targeting lower trough levels (5-7 ng/mL). Despite promising preliminary data, the study faced significant obstacles that impacted patient recruitment and data interpretation.\n\nSpecifically, the lower target range of tacrolimus failed to provide adequate immunosuppression needed to prevent acute rejection, leading to an increased incidence of rejection events in the treatment cohort. Additionally, the strict inclusion criteria—requiring patients to have no prior rejection episodes or significant comorbidities—resulted in low enrollment numbers, compromising the statistical power needed to draw reliable conclusions regarding the efficacy of the intervention.\n\nMoreover, the lack of a robust control group added layers of ambiguity in interpreting the outcomes, as confounding factors significantly influenced the clinical response variable. The trial also documented adverse reactions, including instances of nephrotoxicity and elevated blood pressure, which were prevalent within both arms and resulted in concerns about the long-term safety of tacrolimus in this patient population."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and an increased incidence of acute rejection in the low tacrolimus arm led to trial termination.",
+    "start_date": "October 2021",
+    "completion_date": "September 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase IV",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of biopsy-proven acute rejection at 12 months",
+      "time_frame": "12 months post-transplant"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Patient survival rate",
+        "time_frame": "36 months post-transplant"
+      },
+      {
+        "measure": "Graft survival rate",
+        "time_frame": "36 months post-transplant"
+      },
+      {
+        "measure": "Change in renal function (eGFR)",
+        "time_frame": "12 and 36 months post-transplant"
+      },
+      {
+        "measure": "Frequency of adverse events",
+        "time_frame": "Throughout the study"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "41",
+    "condition": "Heart Transplantation",
+    "arm_group": [
+      {
+        "arm_group_label": "Control Arm (Standard Tacrolimus)",
+        "arm_group_type": "Active Comparator",
+        "description": "Tacrolimus with target trough of 10-12 ng/mL."
+      },
+      {
+        "arm_group_label": "Experimental Arm (Reduced Tacrolimus)",
+        "arm_group_type": "Experimental",
+        "description": "Tacrolimus with target trough of 5-7 ng/mL."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Tacrolimus",
+      "description": "Administered orally to achieve target trough levels.",
+      "arm_group_label": ["Control Arm (Standard Tacrolimus)", "Experimental Arm (Reduced Tacrolimus)"],
+      "other_name": "Prograf"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Adults aged 18 years and older receiving a heart transplant.\n  - Must show no signs of prior acute rejection before enrollment.\n  - Must have agreed to undergo regular biopsies as part of standard post-transplant care.\n\nExclusion Criteria:\n  - Previous heart transplant.\n  - Renal dysfunction at baseline (eGFR < 60 mL/min).\n  - Active infection or malignancy.\n  - Known hypersensitivity to tacrolimus."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Tran, M.D.",
+      "role": "Study Chair",
+      "affiliation": "Cardiac Transplant Research Society"
+    },
+    "location": {
+      "facility": {
+        "name": "General Hospital of Cardiac Medicine",
+        "address": {
+          "city": "London",
+          "state": "United Kingdom",
+          "zip": "E10 8PZ",
+          "country": "United Kingdom"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United Kingdom"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "September 15, 2021",
+    "study_first_submitted_qc": "September 15, 2021",
+    "study_first_posted": "September 20, 2021",
+    "last_update_submitted": "August 10, 2023",
+    "last_update_submitted_qc": "August 10, 2023",
+    "last_update_posted": "August 11, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Tacrolimus",
+      "Heart Transplantation",
+      "Mycophenolate Mofetil",
+      "Immunosuppression",
+      "Acute Rejection"
+    ],
+    "condition_browse": {
+      "mesh_term": "Heart Transplant"
+    },
+    "intervention_browse": {
+      "mesh_term": "Tacrolimus"
+    }
+  }
+}
+```

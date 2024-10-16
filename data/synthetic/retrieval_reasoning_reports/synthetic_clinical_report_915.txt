@@ -1,0 +1,295 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on November 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02014356"
+    },
+    "id_info": {
+      "org_study_id": "D081BC00005",
+      "nct_id": "NCT02014356"
+    },
+    "brief_title": "Investigating the Efficacy of Olaparib in Combination With Chemotherapy for Advanced Gastric Cancer",
+    "official_title": "A Phase III Randomized, Double-blind, Placebo-Controlled Study Evaluating Olaparib in Combination With Chemotherapy Compared to Placebo in Patients With Advanced Gastric Cancer Who Have Failed Prior Treatments",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Initiative",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Oncology Research Initiative",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase III study aims to evaluate the efficacy and safety of olaparib in combination with conventional chemotherapy in patients with advanced gastric cancer who have progressed after initial treatment regimens."
+    },
+    "detailed_description": {
+      "textblock": "The study is a randomized, double-blind, placebo-controlled trial designed to assess the impact of olaparib on overall survival and progression-free survival in patients with advanced gastric cancer, post multiple treatment failures. The study aims to elucidate potential pharmacokinetic interactions and the overall safety profile of olaparib when administered with standard chemotherapy regimens."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 10, 2014",
+    "completion_date": "August 25, 2023",
+    "primary_completion_date": "March 11, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From randomization to the date of death due to any cause, assessed up to 4 years",
+      "description": "Assessment of overall survival duration from randomization until death."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From randomization to first documentation of objective disease progression, followed until data cutoff at 4 years",
+        "description": "Measurement of time until objective progression of disease per RECIST criteria."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Determined every 8 weeks during treatment for 4 years",
+        "description": "Percentage of participants achieving complete or partial response based on RECIST 1.1."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "365",
+    "condition": "Advanced Gastric Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Olaparib + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Olaparib at 300 mg PO BD combined with chemotherapy."
+      },
+      {
+        "arm_group_label": "Placebo + Chemotherapy",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo administered PO BD combined with chemotherapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Olaparib",
+        "description": "300 mg oral dose twice daily, combined with standard chemotherapy regimen.",
+        "arm_group_label": "Olaparib + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered in identical form to olaparib at a dosage of 300 mg orally twice daily.",
+        "arm_group_label": "Placebo + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Chemotherapy",
+        "description": "Standardized intravenous chemotherapy regimen according to established guidelines for advanced gastric cancer.",
+        "arm_group_label": ["Olaparib + Chemotherapy", "Placebo + Chemotherapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: - Confirmed diagnosis of advanced gastric cancer (including gastro-oesophageal junction) with documented progression post first-line therapy. - Patients must be ≥18 years old. - Must possess measurable disease as per RECIST criteria. - Confirmation of adequate organ function and performance status (ECOG ≤ 2). Exclusion Criteria: - More than two prior systemic chemotherapy regimens. - Prior exposure to PARP inhibitors. - Other malignancies, except adequately treated non-melanoma skin cancer. - Known central nervous system metastases or serious uncontrolled medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "99 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Mikihito Nakanishi, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Osaka University Hospital, Japan"
+      },
+      {
+        "last_name": "Yves G. G. Tzeng, MD",
+        "role": "Study Director",
+        "affiliation": "Oncology Research Initiative"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Osaka University Hospital",
+          "address": {
+            "city": "Osaka",
+            "country": "Japan"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Seoul National University Hospital",
+          "address": {
+            "city": "Seoul",
+            "country": "Korea, Republic of"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Shanghai Ruijin Hospital",
+          "address": {
+            "city": "Shanghai",
+            "country": "China"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Taipei Veterans General Hospital",
+          "address": {
+            "city": "Taipei",
+            "country": "Taiwan"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Hong Kong Sanatorium & Hospital",
+          "address": {
+            "city": "Hong Kong",
+            "country": "China"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Japan", "Korea, Republic of", "China", "Taiwan"]
+    },
+    "clinical_results": {
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Olaparib + Chemotherapy",
+              "description": "Combination therapy of olaparib with chemotherapy."
+            },
+            {
+              "title": "Placebo + Chemotherapy",
+              "description": "Placebo control with standard chemotherapy."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total serious adverse events",
+                    "counts": [35, 30]
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Grade 3 or 4 Anaemia",
+                      "counts": [10, 6]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Severe Nausea and Vomiting",
+                      "counts": [15, 11]
+                    },
+                    {
+                      "sub_title": "Gastric Haemorrhage",
+                      "counts": [5, 3]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Fatigue related hospitalization",
+                      "counts": [7, 5]
+                    },
+                    {
+                      "sub_title": "Serious Infection Events",
+                      "counts": [4, 2]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total other adverse events",
+                    "counts": [45, 47]
+                  }
+                }
+              },
+              {
+                "title": "Fatigue",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Prolonged Fatigue",
+                      "counts": [20, 22]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Diarrhoea",
+                      "counts": [12, 9]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Nervous System Disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Dizziness",
+                      "counts": [10, 11]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "adverse_events_profile": "Despite initial optimism for olaparib's efficacy in advanced gastric cancer, the trial ultimately demonstrated insufficient target engagement and inadequate dosing regimens, compounded by a high variability in tumor biology and adverse event profiles that severely impacted treatment compliance.  Overall, the findings suggest that advancing to further confirmatory trials of olaparib in this patient population would likely yield similar unfavorable outcomes."
+    }
+  }
+}
+```

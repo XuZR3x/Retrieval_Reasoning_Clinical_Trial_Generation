@@ -1,0 +1,550 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 28, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03362724"
+    },
+    "id_info": {
+      "org_study_id": "16487",
+      "secondary_id": ["I4Y-MC-JPYK", "2017-003455-32"],
+      "nct_id": "NCT03362724"
+    },
+    "brief_title": "A Study of Abemaciclib (LY2835219) in Combination With Letrozole Versus Letrozole Alone in Patients With Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer",
+    "official_title": "A Randomized, Open-Label, Phase 3 Study of Abemaciclib Plus Letrozole Versus Letrozole Alone in Patients With Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer Who Have Not Received Systemic Therapy for Advanced Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of abemaciclib in combination with letrozole in patients with hormone receptor-positive, HER2-negative metastatic breast cancer compared to letrozole alone. The hypothesis posited that abemaciclib would enhance overall response rates compared to letrozole alone."
+    },
+    "overall_status": "Completed",
+    "start_date": "November 18, 2017",
+    "completion_date": "April 15, 2022",
+    "primary_completion_date": "January 30, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "Yes",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression Free Survival (PFS)",
+      "time_frame": "From Randomization to Objective Progression or Death from Any Cause (Up to 18 Months)",
+      "description": "PFS was defined as the time from randomization to the first documentation of disease progression or death from any cause. Progression status was determined according to RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From Randomization to the First Observed Response (Up to 18 Months)",
+        "description": "ORR was defined as the proportion of participants with a confirmed complete or partial response as per RECIST v1.1."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From Randomization to Death from Any Cause (Up to 36 Months)",
+        "description": "OS was calculated as the time from randomization until death from any cause for all randomized participants."
+      },
+      {
+        "measure": "Quality of Life (QoL) Assessment Using EORTC QLQ-C30",
+        "time_frame": "Baseline, 6 months, 12 months",
+        "description": "The EORTC QLQ-C30 was utilized to evaluate changes in health-related quality of life over time, with higher scores indicating better quality of life."
+      },
+      {
+        "measure": "Adverse Event Profile",
+        "time_frame": "Up to 24 Months",
+        "description": "Monitoring of adverse events was performed to evaluate the safety profile of abemaciclib in combination with letrozole."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "265",
+    "condition": "Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Abemaciclib + Letrozole",
+        "arm_group_type": "Experimental",
+        "description": "Abemaciclib 150 mg administered orally every 12 hours combined with letrozole 2.5 mg taken orally once daily."
+      },
+      {
+        "arm_group_label": "Letrozole Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Letrozole 2.5 mg administered orally once daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Abemaciclib",
+        "description": "Administered orally",
+        "arm_group_label": "Abemaciclib + Letrozole",
+        "other_name": "LY2835219"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Letrozole",
+        "description": "Administered orally",
+        "arm_group_label": ["Abemaciclib + Letrozole", "Letrozole Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Adults aged ≥ 18 years with a confirmed diagnosis of hormone receptor-positive, HER2-negative metastatic breast cancer.\r\n  - Participants must not have previously received systemic therapy for advanced disease.\r\n  - Patients must have measurable disease as per RECIST v1.1.\r\n  - ECOG performance status of 0-1.\r\n  - Adequate organ function and hematological parameters.\r\n\r\nExclusion Criteria:\r\n  - History of hypersensitivity to letrozole or abemaciclib.\r\n  - Uncontrolled central nervous system metastases.\r\n  - Previous treatment with CDK4/6 inhibitors.\r\n  - Pregnant or breastfeeding women."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Lilly Clinical Research Center",
+          "address": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46285",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "link": {
+      "url": "https://trials.lillytrialguide.com/en-US/trial/2Idz4j9uReA4M7ZOv9nW2M",
+      "description": "A Study of Abemaciclib (LY2835219) in Combination With Letrozole or Letrozole Alone in Patients With Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "October 9, 2017",
+    "study_first_submitted_qc": "October 12, 2017",
+    "study_first_posted": "October 25, 2017",
+    "results_first_submitted": "February 28, 2021",
+    "results_first_submitted_qc": "March 1, 2021",
+    "results_first_posted": "March 10, 2021",
+    "last_update_submitted": "January 15, 2023",
+    "last_update_submitted_qc": "January 15, 2023",
+    "last_update_posted": "January 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Aromatase Inhibitors", "Abemaciclib"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.",
+      "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)", "Clinical Study Report (CSR)"],
+      "ipd_time_frame": "Data are available 6 months after the primary publication and approval of the indication studied in the US and EU, whichever is later.",
+      "ipd_access_criteria": "A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.",
+      "ipd_url": "https://vivli.org/"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Trial completers defined as participants that completed treatment or died.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Letrozole",
+              "description": "Abemaciclib 150 mg + Letrozole administered."
+            },
+            {
+              "title": "Letrozole Alone",
+              "description": "Letrozole administered."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Received at Least One Dose of Study Drug",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Lost to Follow-up",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Letrozole",
+              "description": "200 mg Abemaciclib combined with Letrozole."
+            },
+            {
+              "title": "Letrozole Alone",
+              "description": "Letrozole alone administered."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [null, null, null]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [null, null, null]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [null, null, null]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression Free Survival (PFS)",
+            "description": "PFS defined as from randomization to first observed progression or death.",
+            "time_frame": "Up to 18 Months",
+            "population": "All randomized patients.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Abemaciclib + Letrozole",
+                  "description": "Participants receiving abemaciclib and letrozole."
+                },
+                {
+                  "title": "Letrozole Alone",
+                  "description": "Participants receiving letrozole alone."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Median Progression Free Survival (PFS)",
+              "description": "Reported PFS in months.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "Stratified Log-Rank Test",
+                  "p_value": "0.841"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "Calculated from randomization to death.",
+            "time_frame": "Up to 36 Months",
+            "population": "All randomized participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Abemaciclib + Letrozole",
+                  "description": "Participants receiving abemaciclib and letrozole."
+                },
+                {
+                  "title": "Letrozole Alone",
+                  "description": "Participants receiving letrozole alone."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Median Overall Survival (OS)",
+              "description": "Reported OS in months.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "Stratified Log-Rank Test",
+                  "p_value": "0.615"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events Profile",
+            "time_frame": "Up to 24 months",
+            "description": "Monitored to evaluate safety and tolerability.",
+            "population": "All randomized participants",
+            "measure": {
+              "title": "Incidence of Adverse Events",
+              "description": "Total adverse events categorized by type and severity.",
+              "units": "Number",
+              "param": "Count",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [null, null]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Up to 24 months",
+        "population": "All randomized participants receiving at least one dose of study drug.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Abemaciclib + Letrozole",
+              "description": "Participants receiving combination therapy."
+            },
+            {
+              "title": "Letrozole Alone",
+              "description": "Participants receiving letrozole monotherapy."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 23.1",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": [
+                    {"sub_title": "Total aforementioned serious adverse events", "counts": [null, null]},
+                    {"sub_title": "Total deaths", "counts": [null, null]}
+                  ]
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {"sub_title": "Anaemia", "counts": [null, null]},
+                    {"sub_title": "Neutropenia", "counts": [null, null]}
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {"sub_title": "Diarrhoea", "counts": [null, null]},
+                    {"sub_title": "Nausea", "counts": [null, null]}
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 23.1",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {"sub_title": "Total other adverse events", "counts": [null, null]}
+              }
+            },
+            {
+              "title": "General disorders",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Fatigue", "counts": [null, null]},
+                  {"sub_title": "Asthenia", "counts": [null, null]}
+                ]
+              }
+            },
+            {
+              "title": "Nervous system disorders",
+              "event_list": {
+                "event": [
+                  {"sub_title": "Headache", "counts": [null, null]},
+                  {"sub_title": "Dizziness", "counts": [null, null]}
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The sponsor holds limited access to data for communication prior to public dissemination of results."
+      },
+      "point_of_contact": {
+        "name_or_title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "phone": "1-800-545-5979",
+        "email": "ClinicalTrials.gov@lilly.com"
+      }
+    }
+  }
+}
+```

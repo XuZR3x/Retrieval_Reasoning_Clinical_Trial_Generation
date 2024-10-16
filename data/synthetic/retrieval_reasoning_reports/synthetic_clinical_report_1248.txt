@@ -1,0 +1,143 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02148105"
+    },
+    "id_info": {
+      "org_study_id": "Doxorubicin_Collections_2020",
+      "nct_id": "NCT02148105"
+    },
+    "brief_title": "Evaluation of Doxorubicin in Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Multicenter Study to Evaluate the Efficacy and Safety of Doxorubicin in Combination with a Dual Immune Checkpoint Inhibitor in Treatment-Naïve Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Lung Cancer Research Group",
+        "agency_class": "Other"
+      }
+    },
+    "source": "International Lung Cancer Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The primary objective of this study was to evaluate the efficacy of doxorubicin in combination with dual immune checkpoint inhibitors for treatment-naïve patients diagnosed with advanced non-small cell lung cancer (NSCLC)."
+    },
+    "detailed_description": {
+      "textblock": "Background: Advanced non-small cell lung cancer (NSCLC) remains a leading cause of cancer-related mortality worldwide. Despite the introduction of immunotherapy, the standard chemotherapeutic agent doxorubicin has been proposed for integration into treatment regimens involving immune checkpoint inhibitors. The combination was hypothesized to enhance therapeutic efficacy through synergistic effects on tumor microenvironment modulation.\r\n\r\nObjective: This Phase II study aimed to assess the safety and efficacy of doxorubicin in combination with dual immune checkpoint blockade (anti-PD-1 and anti-CTLA-4) in a previously untreated cohort of patients with advanced NSCLC. However, the study faced significant challenges in patient recruitment and interim efficacy analyses, prompting its early termination."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and unfavorable interim efficacy analyses.",
+    "start_date": "June 2014",
+    "completion_date": "December 2019",
+    "primary_completion_date": "June 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall response rate (ORR) of the combination therapy as assessed by RECIST 1.1",
+      "time_frame": "Every 8 weeks for 24 weeks post-treatment initiation"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "Every 8 weeks for 24 weeks post-treatment initiation"
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "Every 3 months for 1 year post-treatment initiation"
+      },
+      {
+        "measure": "Rate of adverse events",
+        "time_frame": "Continuous monitoring throughout the trial duration"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": "Advanced Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Doxorubicin + Immune Checkpoint Inhibitors",
+        "arm_group_type": "Experimental",
+        "description": "Participants received doxorubicin at a dose of 75 mg/m² IV every 21 days combined with anti-PD-1 and anti-CTLA-4 therapy."
+      },
+      {
+        "arm_group_label": "Control Arm: Immune Checkpoint Inhibitors Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard dual therapy with anti-PD-1 and anti-CTLA-4 agents without doxorubicin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Doxorubicin",
+        "description": "Administered at a dose of 75 mg/m² via intravenous infusion every 21 days.",
+        "arm_group_label": ["Doxorubicin + Immune Checkpoint Inhibitors"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Anti-PD-1 and Anti-CTLA-4",
+        "description": "Administered as per standard regimen protocols.",
+        "arm_group_label": ["Doxorubicin + Immune Checkpoint Inhibitors", "Control Arm: Immune Checkpoint Inhibitors Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Newly diagnosed advanced or metastatic non-small cell lung cancer (NSCLC).\r\n- At least one measurable lesion as per RECIST 1.1 criteria.\r\n- ECOG performance status of 0-2.\r\n- No prior systemic treatment for NSCLC.\r\n- Adequate organ function as defined by relevant laboratory values.\r\n\r\nExclusion Criteria:\r\n\r\n- Active central nervous system metastases.\r\n- Uncontrolled comorbidities or infections.\r\n- Previous exposure to doxorubicin or other anthracyclines.\r\n- Impaired cardiac function (LVEF < 50%)."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Maria Garcia, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "International Lung Cancer Research Group"
+    },
+    "location": {
+      "facility": {
+        "name": "Hospital Universitario La Paz",
+        "address": {
+          "city": "Madrid",
+          "country": "Spain"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Spain"
+    },
+    "verification_date": "October 2019",
+    "study_first_submitted": "May 10, 2014",
+    "study_first_posted": "May 15, 2014",
+    "last_update_posted": "December 10, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "responsible_party_affiliation": "International Lung Cancer Research Group"
+    },
+    "keyword": [
+      "Doxorubicin",
+      "Non-Small Cell Lung Cancer",
+      "Immune Checkpoint Inhibitors",
+      "First-Line Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma",
+        "Lung Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Doxorubicin"
+    }
+  }
+}
+```

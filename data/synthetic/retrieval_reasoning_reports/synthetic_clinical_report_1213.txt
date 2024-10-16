@@ -1,0 +1,279 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03412345"
+    },
+    "id_info": {
+      "org_study_id": "15672",
+      "secondary_id": ["RMB-101", "I4D-BC-JK3V"],
+      "nct_id": "NCT03412345"
+    },
+    "brief_title": "A Study of Ramucirumab in Combination With Chemotherapy for Advanced Gastric Cancer",
+    "official_title": "A Randomized, Double-Blind Phase 2 Study Evaluating the Efficacy and Safety of Ramucirumab in Combination With Standard Chemotherapy (Folinic Acid, 5-Fluorouracil, and Oxaliplatin) Versus Placebo in Patients With Advanced Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy of ramucirumab in combination with standard chemotherapy in patients with advanced gastric cancer, with a specific focus on progression-free survival (PFS)."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "August 2021",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Randomization until radiographic evidence of progression or death from any cause (up to 24 months)",
+      "description": "PFS is determined using RECIST v1.1 and defined as the time from randomization to the first documented progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Randomization to death from any cause (up to 36 months)",
+        "description": "OS is defined as the time from randomization to the date of death from any cause. Participants alive at last follow-up will be censored."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Randomization until disease progression (up to 24 months)",
+        "description": "The ORR is the percentage of participants achieving either a complete or partial response according to RECIST v1.1."
+      },
+      {
+        "measure": "Incidence of Adverse Events (AEs)",
+        "time_frame": "Baseline through study completion (up to 36 months)",
+        "description": "Reported are the number of participants experiencing treatment-related AEs, serious AEs, or AEs resulting in discontinuation."
+      },
+      {
+        "measure": "Pharmacokinetics (PK) Profile",
+        "time_frame": "Predose on specified cycles (up to 8 cycles)",
+        "description": "Assessments of minimum serum concentrations of ramucirumab to evaluate dosing adequacy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "210",
+    "condition": ["Advanced Gastric Cancer", "Gastroesophageal Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + mFOLFOX",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive ramucirumab (8 mg/kg IV Q2W) in combination with modified FOLFOX chemotherapy regimen."
+      },
+      {
+        "arm_group_label": "Placebo + mFOLFOX",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receive placebo in combination with the same modified FOLFOX chemotherapy regimen."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "Administered intravenously at a dosage of 8 mg/kg Q2W.",
+        "arm_group_label": "Ramucirumab + mFOLFOX",
+        "other_name": ["IMC-1121B", "LY3009806"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered intravenously with identical frequency as ramucirumab.",
+        "arm_group_label": "Placebo + mFOLFOX"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "Administered intravenously at a standard dosage of 85 mg/m^2 bi-weekly.",
+        "arm_group_label": ["Ramucirumab + mFOLFOX", "Placebo + mFOLFOX"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Leucovorin",
+        "description": "Administered intravenously as part of the mFOLFOX regimen.",
+        "arm_group_label": ["Ramucirumab + mFOLFOX", "Placebo + mFOLFOX"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "5-Fluorouracil",
+        "description": "Administered as part of the mFOLFOX regimen.",
+        "arm_group_label": ["Ramucirumab + mFOLFOX", "Placebo + mFOLFOX"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Confirmed diagnosis of advanced gastric or GE junction adenocarcinoma.\r\n  - Documented disease progression following first-line therapy.\r\n  - ECOG performance status of 0-1.\r\n  - Adequate organ system function.\r\n  - Signed informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  - Previous exposure to ramucirumab or anti-angiogenic agents.\r\n  - CNS metastases or serious intercurrent illnesses.\r\n  - Concurrent malignancies or autoimmune disorders."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "For further information, please contact Lilly clinical studies at 1-877-CTLILLY (1-877-285-4559).",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Multiple investigative sites across the United States and Canada.",
+          "address": {
+            "city": "Various cities across the United States",
+            "state": "Various",
+            "zip": "Various",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States, Canada"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "February 12, 2018",
+    "study_first_submitted_qc": "February 15, 2018",
+    "study_first_posted": "February 20, 2018",
+    "results_first_submitted": "September 12, 2021",
+    "results_first_submitted_qc": "September 15, 2021",
+    "results_first_posted": "September 18, 2021",
+    "last_update_submitted": "March 5, 2022",
+    "last_update_submitted_qc": "March 5, 2022",
+    "last_update_posted": "March 8, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Gastric Adenocarcinoma",
+      "Ramucirumab",
+      "Chemotherapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Gastric Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Ramucirumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + mFOLFOX",
+              "description": "Participants in this arm demonstrated a median PFS of 4.5 months (95% CI: 3.8-5.1) with an intolerable rate of Grade 3/4 AEs reaching 40%. This raised concerns over the long-term sustainability of therapy."
+            },
+            {
+              "title": "Placebo + mFOLFOX",
+              "description": "The placebo cohort reported a median PFS of 4.7 months (95% CI: 4.0-5.4) with milder treatment-related toxicity, but no significant clinical advantage when combining ramucirumab."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": [210, 210]}
+                },
+                {
+                  "title": "RECEIVED ANY QUANTITY OF STUDY DRUG",
+                  "participants_list": {"participants": [200, 190]}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": [150, 145]}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": [60, 50]}
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {"participants": [15, 7]}
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {"participants": [20, 16]}
+                },
+                {
+                  "title": "Physician Decision",
+                  "participants_list": {"participants": [10, 8]}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Intent-to-treat (ITT) population, all randomized participants (n=210).",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + mFOLFOX",
+              "description": "210 randomized; 80% male; Mean Age: 62 years (SD 10.2)."
+            },
+            {
+              "title": "Placebo + mFOLFOX",
+              "description": "210 randomized; 75% male; Mean Age: 64 years (SD 11.5)."
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "desc": "Adverse events were frequently associated with gastrointestinal intolerance, particularly in the ramucirumab group.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + mFOLFOX",
+              "description": "Reported AEs included severe nausea (30%), fatigue (25%), and grade 3-4 hematological toxicity (20%)."
+            },
+            {
+              "title": "Placebo + mFOLFOX",
+              "description": "Adverse events of less severity including mild nausea (15%) and fatigue (10%) were observed."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 21.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [60, 30]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

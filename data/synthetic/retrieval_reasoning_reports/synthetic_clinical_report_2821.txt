@@ -1,0 +1,579 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "US-TCZ-2023",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Tocilizumab in Patients With Moderate to Severe Rheumatoid Arthritis and Inadequate Response to Traditional DMARDs",
+    "official_title": "A Multi-center, Randomized, Double-blind, Placebo-controlled Trial Evaluating the Efficacy and Safety of Tocilizumab Administered in Combination With Traditional DMARDs in Patients With Moderate to Severe Active Rheumatoid Arthritis.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Pharmaceutical Innovations Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Pharmaceutical Innovations Inc.",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of tocilizumab, an IL-6 receptor antagonist, in combination with traditional DMARD therapy in patients with moderate to severe RA who demonstrate an inadequate response to DMARDs. The assessment focuses on clinical response and relevant biomarkers associated with atherogenic risk."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2022",
+    "completion_date": "November 2023",
+    "primary_completion_date": "July 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of Participants Achieving ACR50 Response",
+      "time_frame": "At Week 24",
+      "description": "The primary efficacy endpoint is defined as the proportion of participants meeting the ACR50 criteria at the 24-week mark, thereby demonstrating improved clinical response."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Disease Activity Score 28 (DAS28)",
+        "time_frame": "Baseline to Week 24",
+        "description": "The change from baseline in DAS28 score will be analyzed to evaluate the overall reduction in disease activity."
+      },
+      {
+        "measure": "Change in Small Low-Density Lipoprotein (sLDL) Particle Numbers",
+        "time_frame": "Baseline and Week 24",
+        "description": "Assessment of sLDL particle concentration as a marker of cardiovascular risk, sampled at baseline and post-treatment."
+      },
+      {
+        "measure": "Proportion of Participants Reporting Adverse Events",
+        "time_frame": "Up to Week 24",
+        "description": "The frequency of adverse events including serious adverse events throughout the trial duration."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Rheumatoid Arthritis",
+    "arm_group": [
+      {
+        "arm_group_label": "Tocilizumab 8mg/kg + Traditional DMARDs",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "Placebo + Traditional DMARDs",
+        "arm_group_type": "Placebo Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tocilizumab",
+        "description": "Administered intravenously at a dose of 8 mg/kg every 4 weeks for 24 weeks in combination with stable doses of traditional DMARDs.",
+        "arm_group_label": "Tocilizumab 8mg/kg + Traditional DMARDs"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo administered via intravenous infusion every 4 weeks for 24 weeks alongside traditional DMARDs.",
+        "arm_group_label": "Placebo + Traditional DMARDs"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Traditional DMARDs",
+        "description": "Methotrexate and/or other DMARDs at stable doses tailored to the patient’s prior treatment history, permitted across both arms.",
+        "arm_group_label": ["Placebo + Traditional DMARDs", "Tocilizumab 8mg/kg + Traditional DMARDs"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adult patients aged 18 to 75 years with a diagnosis of rheumatoid arthritis for greater than 6 months.\r\n  - Must have had an inadequate response to one or more traditional DMARDs.\r\n\r\nExclusion Criteria:\r\n\r\n  - A history of significant systemic involvement stemming from RA or other inflammatory diseases.\r\n  - Prior use of biologic agents targeting IL-6 or TNF-alpha, or any targeted synthetic DMARDs within 3 months preceding the study.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital of Rheumatic Diseases",
+          "address": {
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75201",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Advanced Rheumatology Management Center",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02111",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Northeast Clinical Research Institute",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "verification_date": "February 2024",
+    "study_first_submitted": "January 15, 2022",
+    "study_first_submitted_qc": "January 15, 2022",
+    "study_first_posted": "January 20, 2022",
+    "results_first_submitted": "August 1, 2023",
+    "results_first_submitted_qc": "August 1, 2023",
+    "results_first_posted": "August 5, 2023",
+    "last_update_submitted": "February 1, 2024",
+    "last_update_submitted_qc": "February 1, 2024",
+    "last_update_posted": "February 5, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "name_title": "Dr. Emily Mercer",
+      "organization": "Pharmaceutical Innovations Inc."
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Arthritis",
+        "Arthritis, Rheumatoid"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Tocilizumab 8mg/kg + Traditional DMARDs",
+              "description": "In this group, participants received tocilizumab alongside their prescribed DMARD regimen."
+            },
+            {
+              "title": "Placebo + Traditional DMARDs",
+              "description": "Participants received placebo injections while continuing their existing DMARD therapy."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "24-Week Double-Blind Period",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [
+                        null,
+                        null
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Treated With Tocilizumab + DMARDs",
+                    "participants_list": {
+                      "participants": [
+                        null,
+                        null
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Treated With Placebo + DMARDs",
+                    "participants_list": {
+                      "participants": [
+                        null,
+                        null
+                      ]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [
+                        null,
+                        null
+                      ]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": [
+                        null,
+                        null
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Tocilizumab 8mg/kg + Traditional DMARDs",
+              "description": "Participants received tocilizumab alongside their prescribed DMARD regimen."
+            },
+            {
+              "title": "Placebo + Traditional DMARDs",
+              "description": "Participants received placebo while continuing their existing DMARD therapy."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [
+                null,
+                null
+              ]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age (years)",
+              "units": "participants",
+              "param": "Number",
+              "class_list": {
+                "class": [
+                  {
+                    "title": "<55 years",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "\u226555 years",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Sex",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Proportion of Participants Achieving ACR50 Response",
+            "description": "The primary efficacy endpoint is defined as the proportion of participants meeting the ACR50 criteria at the 24-week mark.",
+            "time_frame": "At Week 24",
+            "population": "Participants who met the inclusion criteria and received at least one dose of study medication.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Tocilizumab 8mg/kg + Traditional DMARDs",
+                  "description": "Participants received 8 mg/kg tocilizumab every 4 weeks."
+                },
+                {
+                  "title": "Placebo + Traditional DMARDs",
+                  "description": "Participants received placebo every 4 weeks."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Proportion of Participants Achieving ACR50 Response",
+              "description": "The percentage of patients achieving ACR50 responses indicating a significant reduction in rheumatoid arthritis symptoms.",
+              "population": "Intent to treat (ITT) population.",
+              "units": "Percentage",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in Disease Activity Score 28 (DAS28) from Baseline to Week 24",
+            "description": "Assessment of the change in DAS28 score will reflect overall disease activity.",
+            "time_frame": "Baseline to Week 24",
+            "population": "Participants who received any treatment.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Tocilizumab + Traditional DMARDs",
+                  "description": "Participants received tocilizumab plus DMARDs."
+                },
+                {
+                  "title": "Placebo + Traditional DMARDs",
+                  "description": "Participants received placebo plus DMARDs."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change in Disease Activity Score 28 (DAS28)",
+              "description": "Change in DAS28 score will indicate the effect on disease activity.",
+              "population": "Intent to treat (ITT) population.",
+              "units": "units on a scale",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in Small Low-Density Lipoprotein (sLDL) Particle Numbers",
+            "description": "Evaluation of sLDL levels will provide insights into cardiovascular risk.",
+            "time_frame": "Baseline and Week 24",
+            "population": "Participants across both treatment groups.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Tocilizumab + Traditional DMARDs",
+                  "description": "Evaluation of sLDL changes coincident with tocilizumab administration."
+                },
+                {
+                  "title": "Placebo + Traditional DMARDs",
+                  "description": "Evaluation of sLDL changes during placebo administration."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change in Small Low-Density Lipoprotein (sLDL) Particle Numbers",
+              "description": "Reduction in sLDL will lend insights into cardiovascular health.",
+              "population": "Participants who received studied medication.",
+              "units": "nmol/L",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events documented throughout the trial duration.",
+        "desc": "Safety assessments were made throughout both phases of the study, collecting adverse event incidence.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Tocilizumab + DMARDs",
+              "description": "Safety assessment related to tocilizumab treatment."
+            },
+            {
+              "title": "Placebo + DMARDs",
+              "description": "Safety assessment related to placebo treatment."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA (21.0)",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [
+                    null,
+                    null,
+                    null
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Infections and infestations",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Pneumonia",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  },
+                  {
+                    "sub_title": "Urinary tract infection",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Cardiac disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Myocardial infarction",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  },
+                  {
+                    "sub_title": "Arrhythmia",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "3",
+        "default_vocab": "MedDRA (21.0)",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Diarrhea",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  },
+                  {
+                    "sub_title": "Nausea",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Skin and subcutaneous tissue disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Rash",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  },
+                  {
+                    "sub_title": "Pruritus",
+                    "counts": [
+                      null,
+                      null,
+                      null
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The study results will be made available following the publication of the first major findings, with due respect to confidential information."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trials Coordination",
+        "organization": "Pharmaceutical Innovations Inc.",
+        "phone": "800-555-0199"
+      }
+    }
+  }
+}
+```

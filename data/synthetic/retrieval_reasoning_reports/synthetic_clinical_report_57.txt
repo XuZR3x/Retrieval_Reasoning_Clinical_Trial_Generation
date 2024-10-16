@@ -1,0 +1,124 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02019976"
+    },
+    "id_info": {
+      "org_study_id": "JHU-07-003",
+      "nct_id": "NCT02019976"
+    },
+    "brief_title": "Phase II Study of Cisplatin in Combination With a Novel Immunotherapy Agent in Patients With Advanced Urothelial Carcinoma",
+    "official_title": "Phase II Study of Cisplatin in Combination With Nivolumab in Patients With Advanced Urothelial Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study aimed to evaluate the efficacy of cisplatin in combination with nivolumab in patients with advanced urothelial carcinoma. The objective was to determine whether this combination would improve overall response rates compared to historical controls using cisplatin alone. Unfortunately, the study did not achieve sufficient enrollment to reach the target sample size."
+    },
+    "detailed_description": {
+      "textblock": "Patients with advanced urothelial carcinoma who have not received prior systemic therapy will be enrolled in this study to receive cisplatin in combination with nivolumab. Treatment will occur every 21 days for up to 6 cycles, followed by maintenance therapy with nivolumab until disease progression. The primary outcome measure is the overall response rate evaluated by RECIST criteria. This study intended to enroll 80 patients to achieve sufficient statistical power; however, significant challenges in patient recruitment were encountered. As a result, the trial was prematurely terminated after only 12 patients were enrolled. The complexities of protocol adherence, including the burdens of dual therapy that deterred potential participants, along with the high level of existing treatment options, likely contributed to this low enrollment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient accrual and compliance issues.",
+    "start_date": "June 2015",
+    "completion_date": "April 2018",
+    "primary_completion_date": "April 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "Assessed every 6 weeks during treatment cycles up to 24 weeks",
+      "description": "The primary objective is to determine the overall response rate of the combination therapy as defined by RECIST v1.1."
+    },
+    "secondary_outcome": {
+      "measure": "Progression-Free Survival",
+      "time_frame": "Monitored from the start of treatment until disease progression occurs, up to 12 months",
+      "description": "Progression-free survival will be assessed using imaging at specified intervals."
+    },
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": ["Urothelial Carcinoma", "Bladder Cancer"],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "arm_group_label": "Combination Therapy",
+        "description": "Cisplatin 70 mg/m² IV on day 1 of each cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab",
+        "arm_group_label": "Combination Therapy",
+        "description": "Nivolumab 3 mg/kg IV on day 1 of each cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients must be 18 years of age or older with a confirmed diagnosis of locally advanced or metastatic urothelial carcinoma.\n- No prior systemic therapy for advanced disease is permitted.\n- Measurable disease per RECIST v1.1.\n- Karnofsky performance status >= 70%.\n- Adequate organ function (e.g. ANC >= 1,500/mm³, platelets >= 100,000/mm³).\n\nExclusion Criteria:\n\n- Known hypersensitivity to cisplatin or nivolumab.\n- CNS metastases.\n- Previous treatment with immune-modulating therapy.\n- Significant cardiovascular disease or autoimmune disorders.\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas A. Miller, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2018",
+    "study_first_submitted": "November 15, 2015",
+    "study_first_submitted_qc": "November 16, 2015",
+    "study_first_posted": "November 20, 2015",
+    "last_update_submitted": "May 1, 2018",
+    "last_update_posted": "May 2, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_affiliation": "Johns Hopkins University",
+      "responsible_party_full_name": "Thomas A. Miller, M.D."
+    },
+    "keyword": ["advanced urothelial carcinoma", "cisplatin", "nivolumab", "combination therapy"],
+    "condition_browse": {
+      "mesh_term": "Urothelial Carcinoma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Cisplatin"
+    }
+  }
+}
+```

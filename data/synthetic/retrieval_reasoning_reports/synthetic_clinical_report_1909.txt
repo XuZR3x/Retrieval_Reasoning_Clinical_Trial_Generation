@@ -1,0 +1,199 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02337099"
+    },
+    "id_info": {
+      "org_study_id": "C16020",
+      "secondary_id": "U1111-1190-4375",
+      "nct_id": "NCT02337099"
+    },
+    "brief_title": "Efficacy and Safety Study of Ixazomib with Lenalidomide and Dexamethasone in Newly Diagnosed Multiple Myeloma Patients",
+    "official_title": "A Multi-Center, Open-Label, Phase 1/2 Study of Ixazomib (MLN9708) Administered with Lenalidomide and Dexamethasone in Patients with Newly Diagnosed Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Millennium Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Takeda",
+    "oversight_info": {
+      "has_dmc": "No",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to investigate the efficacy and safety of ixazomib when combined with lenalidomide and dexamethasone in newly diagnosed multiple myeloma patients. The trial employed a two-part design, comprising a dose-escalation phase to determine MTD followed by a confirmation phase to gauge the therapeutic response."
+    },
+    "detailed_description": {
+      "textblock": "In this clinical trial, the investigating team enrolled patients who met the eligibility criteria of newly diagnosed multiple myeloma without prior systemic treatment. The trial design included a comprehensive phase 1, involving a dose escalation of ixazomib to identify the maximum tolerated dose (MTD) and a subsequent phase 2 to evaluate the therapeutic efficacy of the drug in combination with lenalidomide and low-dose dexamethasone. The study included stringent criteria for assessing efficacy based on the IMWG guidelines, significantly increasing the rigor of the outcomes measured.\n\nSpecial consideration was given to the administration of ixazomib as part of a combination regimen, demonstrating its potential for enhanced efficacy and response rates in newly diagnosed patients suffering from multiple myeloma. Participants were assessed for treatment-emergent adverse events and laboratory value abnormalities, ensuring a broad understanding of the safety profile of ixazomib. \n\nThe trial also exemplified adaptability to patient needs by ensuring that the dosing regimen considered hepatic function, tailoring dosages of ixazomib as appropriate based on individual patient liver function assessments. This approach reinforced the principle of personalized medicine within a clinical research context, potentially improving tolerability and efficacy."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 10, 2015",
+    "completion_date": "September 20, 2021",
+    "primary_completion_date": "May 30, 2019",
+    "phase": "Phase 1/Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Phase 1: Maximum Tolerated Dose (MTD)",
+        "time_frame": "Cycle 1 (28 days)",
+        "description": "MTD was assessed based on dose-limiting toxicities observed during the first cycle of therapy, using the criteria established by the NCI."
+      },
+      {
+        "measure": "Phase 2: Overall Response Rate (ORR)",
+        "time_frame": "Up to 12 months post-treatment initiation",
+        "description": "The ORR included patients achieving Complete Response (CR) and Very Good Partial Response (VGPR) as per IMWG guidelines."
+      },
+      {
+        "measure": "Phase 2: Duration of Response (DOR)",
+        "time_frame": "From first response to disease progression (Up to 36 months)",
+        "description": "DOR was calculated as the period from the date of first response confirmation to the date of documented disease progression."
+      },
+      {
+        "measure": "Phase 1: Percentage of Participants Reporting Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "Baseline up to 30 days after last dose of study drug",
+        "description": "The frequency and severity of TEAEs were documented, reflecting the safety profile of ixazomib in combination therapy."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Phase 1: Cmax: Maximum Plasma Concentration for Ixazomib",
+        "time_frame": "Cycle 1, Day 1",
+        "description": "Cmax assessments were performed to evaluate the absorption profile of ixazomib."
+      },
+      {
+        "measure": "Phase 1: AUC(0-∞): Area Under the Plasma Concentration-Time Curve",
+        "time_frame": "Cycle 1, Day 1",
+        "description": "AUC(0-∞) was calculated to understand the overall exposure of participants to ixazomib."
+      },
+      {
+        "measure": "Phase 2: Progression-Free Survival (PFS)",
+        "time_frame": "From initial treatment until progressive disease or death (Up to 36 months)",
+        "description": "PFS was analyzed using Kaplan-Meier methods."
+      },
+      {
+        "measure": "Phase 2: Overall Survival (OS)",
+        "time_frame": "From first dose to death (Up to 36 months)",
+        "description": "OS was determined for all participants receiving ixazomib in the trial."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "80",
+    "condition": "Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Phase 1: Ixazomib Dose Escalation",
+        "arm_group_type": "Experimental",
+        "description": "Participants received escalating doses of ixazomib in combination with lenalidomide and dexamethasone over a 28-day cycle until MTD was determined."
+      },
+      {
+        "arm_group_label": "Phase 2: Ixazomib Combination Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants received the determined RP2D of ixazomib along with lenalidomide and dexamethasone, monitored for therapeutic efficacy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ixazomib",
+        "description": "Oral ixazomib capsules.",
+        "arm_group_label": ["Phase 1: Ixazomib Dose Escalation", "Phase 2: Ixazomib Combination Therapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Lenalidomide",
+        "description": "Oral lenalidomide capsules.",
+        "arm_group_label": ["Phase 1: Ixazomib Dose Escalation", "Phase 2: Ixazomib Combination Therapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexamethasone",
+        "description": "Oral dexamethasone tablets.",
+        "arm_group_label": ["Phase 1: Ixazomib Dose Escalation", "Phase 2: Ixazomib Combination Therapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Male or female patients aged 18 years or older.\n- Newly diagnosed multiple myeloma requiring systemic therapy with measurable disease.\n- Eastern Cooperative Oncology Group (ECOG) performance status 0 to 2.\n- Adequate organ function and laboratory values as defined in study protocol.\n\nExclusion Criteria:\n- Previous systemic treatment for multiple myeloma.\n- Significant concurrent medical illness that may jeopardize study compliance.\n- Known hypersensitivity to ixazomib, lenalidomide, or dexamethasone."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Study Director",
+      "role": "Medical Monitor",
+      "affiliation": "Millennium Pharmaceuticals, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cedars-Sinai Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90048",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2021",
+    "study_first_submitted": "December 22, 2014",
+    "study_first_submitted_qc": "December 29, 2014",
+    "study_first_posted": "January 5, 2015",
+    "results_first_submitted": "August 15, 2021",
+    "results_first_submitted_qc": "August 20, 2021",
+    "results_first_posted": "September 1, 2021",
+    "last_update_submitted": "September 20, 2021",
+    "last_update_submitted_qc": "September 20, 2021",
+    "last_update_posted": "September 21, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ixazomib", "Lenalidomide", "Dexamethasone"]
+    }
+  }
+}
+```

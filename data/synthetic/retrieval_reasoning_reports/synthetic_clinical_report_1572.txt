@@ -1,0 +1,147 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00821456"
+    },
+    "id_info": {
+      "org_study_id": "Trial-2007-008",
+      "secondary_id": "CTRC-IDD-2023",
+      "nct_id": "NCT00821456"
+    },
+    "brief_title": "Anastrozole Treatment Efficacy in Women with Receptor-Positive Breast Cancer",
+    "official_title": "An Open-Label Phase II Study Evaluating the Effect of Anastrozole in Women with Estrogen Receptor Positive Breast Cancer Who Have Experienced Treatment Failure",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy of Anastrozole in women diagnosed with estrogen receptor-positive breast cancer who had previously failed hormonal therapy. It sought to identify objective response rates and progression-free survival in this specific patient population. Complications arising from issues such as insufficient patient recruitment and high variability in hormone serum levels necessitated premature termination of the study."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to insufficient patient recruitment and considerable variability in serum estradiol levels observed, leading to unplanned discontinuations.",
+    "start_date": "April 2008",
+    "completion_date": "April 2010",
+    "primary_completion_date": "October 2009",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate of Anastrozole in Subjects",
+      "time_frame": "6 months",
+      "description": "The primary outcome was determined by the percentage of participants achieving complete or partial response or stable disease after 6 months of treatment."
+    },
+    "number_of_arms": "1",
+    "enrollment": "51",
+    "condition": "Breast Cancer",
+    "arm_group": {
+      "arm_group_label": "Anastrozole Treatment Group",
+      "arm_group_type": "Experimental"
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "anastrozole",
+      "description": "1 mg tablet taken orally once daily",
+      "arm_group_label": "Anastrozole Treatment Group",
+      "other_name": "Arimidex"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Female patients aged 18 years or older\r\n  - Histologically confirmed estrogen receptor-positive breast cancer\r\n  - Patients who have progressed after at least one line of hormonal therapy\r\n  - Measurable disease by RECIST criteria\r\n  - No concurrent systemic treatment for breast cancer\r\n\r\nExclusion Criteria:\r\n\r\n  - Patients receiving any investigational products\r\n  - Prior treatment with anastrozole or other aromatase inhibitors\r\n  - Significant comorbidities that may interfere with treatment or outcome assessment."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Juliet T. Marks, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "Comprehensive Cancer Center, UCSF",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 51 participants were enrolled in the study. However, frequent measurement inconsistencies in serum estradiol levels led to unexpected withdrawals.",
+        "pre_assignment_details": "Only 45 patients initiated treatment with anastrozole, as 6 participants exhibited elevated estradiol levels at screening."
+      },
+      "baseline": {
+        "population": "Patients who qualified for study intervention.",
+        "demographics": {
+          "age": {
+            "median": 57,
+            "range": "38-79"
+          },
+          "ethnicity": {
+            "Caucasian": 60,
+            "African American": 25,
+            "Hispanic": 15
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Effectiveness of Anastrozole on Tumor Response",
+          "description": "The primary outcome was the proportion of patients achieving a clinical response after 6 months of treatment with anastrozole, assessed using RECIST criteria.",
+          "time_frame": "At 6 months post-treatment initiation"
+        }
+      },
+      "reported_events": {
+        "adverse_events": {
+          "total_counts": "Adverse events included fatigue, joint pain, and hot flashes, but were not expressly linked to treatment failure.",
+          "frequency_threshold": 5,
+          "specific_events": {
+            "event": [{
+                "title": "Fatigue",
+                "counts": null
+              },
+              {
+                "title": "Joint Pain",
+                "counts": null
+              },
+              {
+                "title": "Hot Flashes",
+                "counts": null
+              }
+            ]
+          }
+        }
+      },
+      "limitations_and_caveats": "The failure to establish a consistent patient population and the lack of standardization in hormone level assessment limited the results of this study."
+    },
+    "point_of_contact": {
+      "name_or_title": "Academic Coordinator",
+      "organization": "University of California, San Francisco",
+      "phone": "415-476-1000",
+      "email": "contact@ucsf.edu"
+    }
+  }
+}
+```

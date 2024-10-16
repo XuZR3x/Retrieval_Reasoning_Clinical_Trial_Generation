@@ -1,0 +1,333 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01310564"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2011-01674",
+      "secondary_id": [
+        "NCI-2011-01674",
+        "ACRIN 6671",
+        "CDR0000677241",
+        "ECOG-ACRIN 0416",
+        "U10CA037586"
+      ],
+      "nct_id": "NCT01310564"
+    },
+    "brief_title": "Cixutumumab Combined with Chemoradiotherapy for Unresectable Advanced Gastric Cancer",
+    "official_title": "Phase II Study of Cixutumumab (IMC-A12) in Combination with Chemoradiotherapy in Patients with Unresectable Advanced Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study evaluates the efficacy of cixutumumab when combined with chemoradiotherapy in patients with unresectable advanced gastric cancer. Monoclonal antibodies, such as cixutumumab, target the insulin-like growth factor receptor to inhibit tumor growth. This study aims to ascertain its effectiveness alongside conventional treatment modalities."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To assess progression-free survival (PFS) within the first 6 months of treatment in patients receiving cixutumumab in conjunction with chemoradiotherapy.\r\n\r\nII. To evaluate overall survival (OS) at the 1 year mark for the same treatment cohort.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To analyze the treatment response rate based on radiologic assessments according to RECIST criteria.\r\nII. To document the safety and tolerability profile associated with the treatment regimen of cixutumumab and chemoradiotherapy.\r\n\r\nIII. To conduct pharmacodynamic assessments related to IGF-1R modulation and correlate them with clinical outcomes.\r\n\r\nOUTLINE: Patients are randomized to receive cixutumumab intravenously (10 mg/kg) on days 1 and 15, alongside standard chemoradiotherapy consisting of cisplatin and fluorouracil. Treatment courses are delivered every 28 days until documented disease progression or unacceptable toxicity.\r\n\r\nPost-treatment, patients are monitored for adverse effects and progression-free survival every 3 months for 2 years."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2011",
+    "completion_date": "October 2014",
+    "primary_completion_date": "August 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival Rate",
+      "time_frame": "6 months",
+      "description": "Progression-free survival is defined from the date of randomization until progression or death without progression."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival Rate",
+        "time_frame": "1 year",
+        "description": "Defined as the time from randomization until death or last known alive."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "assessed every 8 weeks",
+        "description": "Proportion of patients with complete or partial response as per RECIST criteria."
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Assessed every cycle during treatment",
+        "description": "Incidence and severity of adverse events according to NCI CTCAE criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": [
+      "Unresectable Gastric Adenocarcinoma",
+      "Advanced Gastric Cancer"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I (Cixutumumab + Chemoradiotherapy)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive cixutumumab IV over 1 hour combined with standard chemoradiotherapy."
+      },
+      {
+        "arm_group_label": "Arm II (Chemoradiotherapy Alone)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive chemoradiotherapy without cixutumumab."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cixutumumab",
+        "description": "Administered IV at 10 mg/kg on days 1 and 15 of each cycle.",
+        "arm_group_label": "Arm I (Cixutumumab + Chemoradiotherapy)",
+        "other_name": [
+          "Anti-IGF-1R Monoclonal Antibody IMC-A12",
+          "IMC-A12"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chemoradiotherapy",
+        "description": "Combination regimen of cisplatin and fluorouracil as intravenous therapies.",
+        "arm_group_label": [
+          "Arm I (Cixutumumab + Chemoradiotherapy)",
+          "Arm II (Chemoradiotherapy Alone)"
+        ],
+        "other_name": [
+          "Cisplatin",
+          "Fluorouracil"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Histologically confirmed diagnosis of unresectable advanced gastric cancer.\r\n  - Measurable disease according to RECIST criteria.\r\n  - Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\r\n  - Adequate organ function.\r\n\r\nExclusion Criteria:\r\n\r\n  - Prior treatment involving the IGF pathway or taxanes.\r\n  - Presence of brain metastasis.\r\n  - Severe or uncontrolled medical conditions that would pose undue risk during the trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Eleanor Greene",
+      "role": "Principal Investigator",
+      "affiliation": "ECOG-ACRIN Cancer Research Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Mayo Clinic in Arizona",
+          "address": {
+            "city": "Scottsdale",
+            "state": "Arizona",
+            "zip": "85259",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Stanford Cancer Institute",
+          "address": {
+            "city": "Palo Alto",
+            "state": "California",
+            "zip": "94304",
+            "country": "United States"
+          }
+        }
+      }
+      // additional facilities can be added as needed
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2024",
+    "study_first_submitted": "June 10, 2010",
+    "study_first_submitted_qc": "June 10, 2010",
+    "study_first_posted": "June 11, 2010",
+    "results_first_submitted": "August 15, 2014",
+    "results_first_submitted_qc": "August 15, 2014",
+    "results_first_posted": "August 16, 2014",
+    "last_update_submitted": "August 29, 2024",
+    "last_update_submitted_qc": "August 29, 2024",
+    "last_update_posted": "August 30, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Gastric Neoplasms",
+        "Chemotherapy"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Cixutumumab",
+        "Taxoids",
+        "Monoclonal Antibodies"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "This study was activated on March 2011 and closed to accrual by October 2014, with total enrollment of 120 patients from various locations.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (Cixutumumab + Chemoradiotherapy)",
+              "description": "Patients receive cixutumumab IV and undergo chemoradiotherapy as specified in the trial protocol."
+            },
+            {
+              "title": "Arm II (Chemoradiotherapy Alone)",
+              "description": "Patients solely receive standard chemoradiotherapy."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "TREATED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Lack of Efficacy",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "population": "All enrolled patients eligible for treatment per protocol criteria.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Arm I (Cixutumumab + Chemoradiotherapy)",
+                "description": "Directed treatment with cixutumumab in combination with chemoradiotherapy."
+              },
+              {
+                "title": "Arm II (Chemoradiotherapy Alone)",
+                "description": "Directed treatment with standard chemoradiotherapy."
+              },
+              {
+                "title": "Total",
+                "description": "Combined data from both arms."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [null, null, null]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Full Range",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [null, null, null]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [null, null, null]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [null, null, null]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+              // additional measures can be added if necessary.
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

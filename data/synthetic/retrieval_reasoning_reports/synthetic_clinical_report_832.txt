@@ -1,0 +1,443 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00455987"
+    },
+    "id_info": {
+      "org_study_id": "CCT-081",
+      "nct_id": "NCT00455987"
+    },
+    "brief_title": "Bevacizumab Combined with Standard Chemotherapy in Patients with Metastatic Breast Cancer",
+    "official_title": "A Phase II Randomized, Open-Label Study of Bevacizumab in Combination with Standard Chemotherapy in Patients with Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the effectiveness of bevacizumab when used in combination with standard chemotherapy in patients diagnosed with metastatic breast cancer. It seeks to analyze the overall survival rate and objective response rate in the context of current therapeutic strategies."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To evaluate the overall survival (OS) in patients treated with bevacizumab alongside standard chemotherapy versus chemotherapy alone.\n\nII. To assess the objective response rate (ORR) of the treatment regimen including bevacizumab.\n\nSECONDARY OBJECTIVES:\n\nI. To characterize the safety profile of bevacizumab in combination with chemotherapy by monitoring adverse events and discontinuation rates.\n\nII. To investigate progression-free survival (PFS) in both treatment arms.\n\nOUTLINE: Eligible participants are randomized to receive either:\n\nArm A: Standard chemotherapy (docetaxel and carboplatin) with bevacizumab administered intravenously.\n\nArm B: Standard chemotherapy (docetaxel and carboplatin) without bevacizumab.\n\nPROJECTED ACCRUAL: Approximately 200 patients over a period of two years."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and adverse event prevalence",
+    "start_date": "February 1, 2007",
+    "primary_completion_date": "May 30, 2011",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "Up to 3 years",
+      "description": "Overall survival defined as the time from randomization until the date of death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "Up to 3 years",
+        "description": "Percentage of patients achieving complete or partial response via RECIST criteria."
+      },
+      {
+        "measure": "Progression-free Survival",
+        "time_frame": "Up to 3 years",
+        "description": "Time from randomization until documented disease progression or death."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Throughout the study duration",
+        "description": "Incidence and severity of adverse events categorized via Common Terminology Criteria for Adverse Events (CTCAE)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "78",
+    "condition": "Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Bevacizumab + Docetaxel/Carboplatin",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive docetaxel and carboplatin along with bevacizumab (15 mg/kg IV every 3 weeks)."
+      },
+      {
+        "arm_group_label": "Docetaxel/Carboplatin Alone",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive docetaxel and carboplatin without bevacizumab."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "Intravenous infusion of bevacizumab at a dose of 15 mg/kg on the first day of each treatment cycle.",
+        "arm_group_label": "Bevacizumab + Docetaxel/Carboplatin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "arm_group_label": "Both Arms"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "arm_group_label": "Both Arms"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed metastatic breast cancer.\n- Patients must have received no more than one line of chemotherapy for metastatic disease.\n- Measurable disease per RECIST criteria.\n- ECOG performance status of 0-2.\n- Age ≥ 18 years.\n\nExclusion Criteria:\n\n- History of hypersensitivity to bevacizumab or related drugs.\n- Clinically significant cardiovascular disease including uncontrolled hypertension.\n- Severe gastrointestinal complications.\n- Pregnancy or breastfeeding.\n\nAdditional critical exclusion criteria included patients with heterogeneous tumor profiles that may impact treatment response."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Harris",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Cancer Institute Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "January 11, 2007",
+    "study_first_posted": "January 16, 2007",
+    "results_first_submitted": "December 15, 2012",
+    "results_first_posted": "January 19, 2013",
+    "last_update_submitted": "April 25, 2024",
+    "last_update_posted": "April 27, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms", "Breast Cancer"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bevacizumab", "Docetaxel", "Carboplatin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Bevacizumab + Docetaxel/Carboplatin",
+              "description": "Oral docetaxel and carboplatin in conjunction with intravenous administration of bevacizumab."
+            },
+            {
+              "title": "Docetaxel/Carboplatin Alone",
+              "description": "Patients receiving only chemotherapy without bevacizumab."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [78]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [78]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Total randomized participants",
+        "group_list": {
+          "group": [
+            {
+              "title": "Overall Population",
+              "description": "Patients enrolled across both treatment arms."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [78]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Demographics",
+              "units": "Years",
+              "param": "Mean Age",
+              "dispersion": "N/A",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [78]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival",
+            "description": "Defined as the time from randomization until the date of death.",
+            "time_frame": "Up to 3 years",
+            "population": "All randomized patients",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bevacizumab + Docetaxel/Carboplatin",
+                  "description": "Treated with full regimen."
+                },
+                {
+                  "title": "Docetaxel/Carboplatin Alone",
+                  "description": "Treated with chemotherapy alone."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Overall Survival",
+              "description": "Length of time participants survive after treatment.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "Not Applicable",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [0]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Log rank",
+                  "param_type": "Hazard Ratio",
+                  "param_value": "0.85",
+                  "ci_percent": "95",
+                  "ci_lower_limit": "0.6",
+                  "ci_upper_limit": "1.23",
+                  "estimate_desc": "Comparative analysis indicates a numerical advantage in OS.",
+                  "p_value": "0.39",
+                  "p_value_desc": "Not statistically significant."
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate",
+            "description": "Proportion of patients achieving a complete or partial response.",
+            "time_frame": "Up to 3 years",
+            "population": "All randomized patients",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bevacizumab + Docetaxel/Carboplatin",
+                  "description": "Response rates calculated."
+                },
+                {
+                  "title": "Docetaxel/Carboplatin Alone",
+                  "description": "Response rates calculated."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Percentage of Participants with Objective Response",
+              "description": "Proportion reaching CR or PR.",
+              "units": "Percentage",
+              "param": "Objective Response Rate",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": [0]
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "Incidence of treatment emergent adverse effects monitored throughout the study.",
+            "time_frame": "Throughout study duration",
+            "population": "Safety evaluable patients",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bevacizumab + Docetaxel/Carboplatin",
+                  "description": "Safety events logged."
+                },
+                {
+                  "title": "Docetaxel/Carboplatin Alone",
+                  "description": "Safety events logged."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Total of Adverse Events",
+              "description": "Summary of adverse events recorded.",
+              "units": "Participants",
+              "param": "Number of Participants",
+              "dispersion": "N/A",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": [78]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From enrollment until termination of study",
+        "group_list": {
+          "group": [
+            {
+              "title": "Overall",
+              "description": "Adverse events collated from both arms."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Serious adverse events reported",
+                    "counts": [20, 15]
+                  }
+                }
+              },
+              {
+                "title": "Hypertension",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Incidence of Hypertension Episodes",
+                    "counts": [5, 2]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea and Vomiting Incidents",
+                    "counts": [7, 3]
+                  }
+                }
+              },
+              {
+                "title": "Other Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Cumulative Adverse Events",
+                    "counts": [10, 5]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Other reported events",
+                    "counts": [30, 10]
+                  }
+                }
+              },
+              {
+                "title": "Fatigue",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Reports of Severe Fatigue",
+                    "counts": [5, 2]
+                  }
+                }
+              },
+              {
+                "title": "Cardiovascular Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Severe Cardiac Events",
+                    "counts": [0, 1]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There are no restrictions on the PI's rights to publish results."
+      },
+      "limitations_and_caveats": "The study faced several limitations, including inadequate patient enrollment and a heterogeneous patient population that likely contributed to the unclear efficacy outcomes. The adverse event profile revealed hypertension as a notable cause for treatment discontinuation, severely impacting patient adherence and the ability to draw comprehensive conclusions about the combined therapeutic efficacy."
+    }
+  }
+}
+```

@@ -1,0 +1,462 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02595736"
+    },
+    "id_info": {
+      "org_study_id": "3820-IM-POM-004",
+      "nct_id": "NCT02595736"
+    },
+    "brief_title": "Efficacy and Safety of Pomalidomide in Patients With High-Risk Relapsed Multiple Myeloma",
+    "official_title": "A Phase 2, Multicenter, Open-Label Study to Evaluate the Efficacy and Safety of Pomalidomide in Combination With Dexamethasone in Patients With High-Risk Relapsed Multiple Myeloma Defined by Gene Expression Profiling",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "CureX Therapeutics",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "CureX Therapeutics",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of pomalidomide combined with dexamethasone in patients identified through Gene Expression Profiling (GEP) as high-risk for relapsed multiple myeloma."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 2015",
+    "completion_date": "December 2021",
+    "primary_completion_date": "November 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS) as Determined by Independent Review Committee",
+      "time_frame": "From date of randomization to date of first documented progressive disease or death, up to 36 months",
+      "description": "PFS is defined as the time from the start of treatment until objective disease progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "From the beginning of treatment until progression or death, assessed at 3 months and every 6 months thereafter",
+        "description": "The ORR includes rates of complete response (CR), very good partial response (VGPR), and partial response (PR) as per IMWG criteria."
+      },
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "From the first documented response until progressive disease or death, up to approximately 36 months",
+        "description": "Calculated only for those who met response criteria (CR, VGPR, PR)."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "100",
+    "condition": "Multiple Myeloma",
+    "arm_group": {
+      "arm_group_label": "Pomalidomide Plus Dexamethasone",
+      "arm_group_type": "Experimental"
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pomalidomide",
+        "description": "4 mg of pomalidomide administered orally once daily on Days 1-21 of each 28-day cycle.",
+        "arm_group_label": "Pomalidomide Plus Dexamethasone",
+        "other_name": "CC-4047"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexamethasone",
+        "description": "20 mg oral dexamethasone on Days 1, 8, 15, and 22 of each 28-day cycle, adjusted based on patient age and tolerability.",
+        "arm_group_label": "Pomalidomide Plus Dexamethasone"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Patients aged 18 years or older with confirmed diagnosis of relapsed multiple myeloma.\r\n  - High-risk defined by GEP criteria including abnormal cytogenetics.\r\n  - Participants must have received at least one prior therapy containing lenalidomide.\r\n  - Adequate renal function (creatinine clearance > 45 mL/min).\r\n\r\nExclusion Criteria:\r\n  - Previous treatment with pomalidomide.\r\n  - Peripheral neuropathy greater than grade 2.\r\n  - Active secondary malignancies.\r\n  - Patients receiving immunosuppressive therapy or other investigational therapy within 28 days prior."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "CureX Therapeutics"
+    },
+    "location": {
+      "facility": {
+        "name": "CureX Clinical Research Centre",
+        "address": {
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92101",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "February 11, 2015",
+    "study_first_submitted_qc": "March 2, 2015",
+    "study_first_posted": "March 5, 2015",
+    "results_first_submitted": "December 12, 2021",
+    "results_first_submitted_qc": "January 5, 2022",
+    "results_first_posted": "January 10, 2022",
+    "last_update_submitted": "January 5, 2022",
+    "last_update_submitted_qc": "January 5, 2022",
+    "last_update_posted": "January 10, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Pomalidomide",
+      "Dexamethasone",
+      "Multiple Myeloma",
+      "Gene Expression Profiling"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Multiple Myeloma",
+        "Neoplasms, Plasma Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Pomalidomide",
+        "Dexamethasone"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants underwent a structured screening process to confirm eligibility and high-risk classification through GEP.",
+        "pre_assignment_details": "Out of 100 enrolled participants, 90 completed the study, while 10 withdrew due to adverse events.",
+        "group_list": {
+          "group": {
+            "title": "Pomalidomide and Dexamethasone",
+            "description": "Participants received 4 mg of pomalidomide daily combined with dexamethasone according to a defined schedule over multiple cycles."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Disease Progression",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "Withdrawal of Consent",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Pomalidomide Plus Dexamethasone",
+            "description": "All participants received pomalidomide combined with dexamethasone."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Race (NIH/OMB)",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "White",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Black or African American",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Hispanic or Latino",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Asian",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Others",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "PFS rates at 12 months post-therapy initiation.",
+              "time_frame": "From randomization until disease progression or death.",
+              "population": "All participants",
+              "measure": {
+                "title": "PFS",
+                "description": "PFS calculated using Kaplan-Meier method.",
+                "units": "Months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                },
+                "analysis_list": {
+                  "analysis": {
+                    "group_id_list": {
+                      "group_id": "P1"
+                    },
+                    "method": "Cox proportional hazards model",
+                    "p_value": "0.0025"
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Response Rate (ORR)",
+              "description": "Evaluated using International Myeloma Working Group (IMWG) criteria.",
+              "time_frame": "From initiation of therapy until disease progression.",
+              "population": "Participants with measurable disease",
+              "measure": {
+                "title": "ORR",
+                "description": "Rates of CR, VGPR, and PR assessed at each cycle.",
+                "units": "Percentage",
+                "param": "Percentage of participants responding",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Adverse Events",
+            "description": "Adverse events were monitored throughout the study, with particular care for grade 3 and 4 events."
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total Serious Adverse Events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Anemia",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Neutropenia",
+                      "counts": null
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Infections and infestations",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Pneumonia",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Sepsis",
+                      "counts": null
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Other Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total Other Adverse Events",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Constipation",
+                      "counts": null
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators are employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The results of this study may not be disclosed without written consent from CureX Therapeutics."
+      },
+      "point_of_contact": {
+        "name_or_title": "Emily Johnson",
+        "organization": "CureX Therapeutics",
+        "phone": "123-456-7890",
+        "email": "info@curextherapeutics.com"
+      }
+    }
+  }
+}
+```

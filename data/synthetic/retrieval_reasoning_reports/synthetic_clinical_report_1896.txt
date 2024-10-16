@@ -1,0 +1,154 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03033775"
+    },
+    "id_info": {
+      "org_study_id": "Study-Protocol-001",
+      "nct_id": "NCT03033775"
+    },
+    "brief_title": "Evaluation of Cyclophosphamide Combined with Novel Immunotherapies for Patients with High-Risk B-Cell Non-Hodgkin Lymphoma",
+    "official_title": "A Phase II, Multicenter, Open-Label Study to Assess the Efficacy and Safety of Cyclophosphamide in Combination with Immunotherapeutic Agents in Patients with High-Risk B-Cell Non-Hodgkin Lymphoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of California, San Francisco",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to determine the efficacy and safety of cyclophosphamide administered with novel immunotherapy agents in patients diagnosed with high-risk B-cell Non-Hodgkin lymphoma."
+    },
+    "detailed_description": {
+      "textblock": "This is a Phase II clinical trial designed for patients aged 18 to 75 years with untreated high-risk B-cell Non-Hodgkin Lymphoma, defined by the International Prognostic Index (IPI) score of ≥2. The trial aims to evaluate the combined immunotherapeutic regimen consisting of cyclophosphamide paired with innovative immune modulators, assessing the overall response rate, progression-free survival (PFS), and overall survival (OS). Patients will receive cyclophosphamide at a dose of 750 mg/m² IV on days 1 and 8, combined with immunotherapy agents every 21 days for a total of four cycles."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2018",
+    "completion_date": "February 15, 2022",
+    "primary_completion_date": "December 30, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "6 months",
+      "description": "Defined as the proportion of patients with complete response (CR) or partial response (PR) confirmed by independent radiologic assessment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years",
+        "description": "Measured from the start of treatment until disease progression or death."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 3 years",
+        "description": "Measured from the date of first treatment to the date of death from any cause."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Throughout the treatment period",
+        "description": "Assessment of adverse events related to the intervention, including monitoring for severe toxicities and their management."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "150",
+    "condition": "B-Cell Non-Hodgkin Lymphoma",
+    "arm_group": {
+      "arm_group_label": "Cyclophosphamide + Immunotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients receiving cyclophosphamide combined with immunotherapy agents per treatment protocol."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Administered at 750 mg/m² IV on days 1 and 8 of every 21-day cycle."
+      }
+      // Additional immunotherapy interventions can be listed here if applicable
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed diagnosis of high-risk B-cell Non-Hodgkin lymphoma (NHL).\n- Age 18 to 75 years.\n- IPI score ≥ 2.\n- No prior chemotherapy or immunotherapy for NHL. \n- Adequate organ function.\n- Ability to provide informed consent.\n\nExclusion Criteria:\n- Prior treatment for NHL.\n- Concurrent malignancies or significant systemic illness.\n- Pregnant or breastfeeding.\n- Known HIV or active hepatitis B/C infection."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John A. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "San Francisco General Hospital",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94110",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_posted": "January 20, 2018",
+    "results_first_submitted": "October 5, 2022",
+    "results_first_posted": "November 15, 2022",
+    "last_update_posted": "January 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "B-Cell Non-Hodgkin Lymphoma",
+      "Cyclophosphamide",
+      "Immunotherapy",
+      "Phase II Trial",
+      "High-Risk"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Lymphoma", "Lymphoma, Non-Hodgkin", "Lymphoma, B-Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Cyclophosphamide"]
+    },
+    "reported_events": {
+      "time_frame": "3 years",
+      "desc": "Continuous monitoring for adverse events and grade 3-5 toxicities monitored using NCI-CTCAE criteria will be reported throughout the study duration."
+    },
+    "certain_agreements": {
+      "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is not an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trials Coordinator",
+      "organization": "University of California, San Francisco",
+      "phone": "415-555-0197",
+      "email": "clinicaltrials@ucsf.edu"
+    }
+  }
+}
+```

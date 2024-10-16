@@ -1,0 +1,121 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02567545"
+    },
+    "id_info": {
+      "org_study_id": "P-12345",
+      "nct_id": "NCT02567545"
+    },
+    "brief_title": "Efficacy of Pemetrexed in Combination with Cetuximab in KRAS Wild-Type Non-Small Cell Lung Cancer",
+    "official_title": "Phase II Study of Pemetrexed in Combination with Cetuximab for Patients with KRAS Wild-Type Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy and safety of pemetrexed combined with cetuximab in patients with KRAS wild-type advanced non-small cell lung cancer (NSCLC). Despite the promising hypothesis, the trial was terminated due to lack of efficacy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient efficacy and lack of response in the target population.",
+    "start_date": "July 2015",
+    "completion_date": "December 2017",
+    "primary_completion_date": "August 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate",
+      "time_frame": "Evaluated from baseline until death or last contact, assessed every 3 months for 24 months.",
+      "description": "Overall survival was defined as the time from enrollment until the date of death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Assessed every 3 months until disease progression or death, for up to 24 months."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "Monitored every 6 weeks for the duration of treatment up to 24 months."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Combination Therapy",
+      "arm_group_type": "Experimental"
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "500 mg/m² by intravenous infusion on day 1 of each 21-day cycle",
+        "arm_group_label": "Combination Therapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cetuximab",
+        "description": "400 mg/m² loading dose intravenously, followed by 250 mg/m² weekly",
+        "arm_group_label": "Combination Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically or cytologically confirmed advanced NSCLC with KRAS wild-type.\n- No prior chemotherapy for advanced disease.\n- ECOG performance status 0-2.\n- Measurable lesions according to RECIST.\n- Adequate organ function and life expectancy of at least 12 weeks.\n- Informed consent signed.\n\nExclusion Criteria:\n\n- Prior treatment with pemetrexed or cetuximab.\n- Clinically significant concomitant illnesses that may interfere with protocol treatment.\n- CNS metastasis or active infection.\n- Severe cardiovascular or renal conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michael Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Oncology Research Institute",
+        "address": {
+          "city": "Boston",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2018",
+    "study_first_submitted": "June 10, 2015",
+    "study_first_posted": "June 15, 2015",
+    "last_update_posted": "January 15, 2018",
+    "responsible_party": {
+      "name_title": "Chief Medical Officer",
+      "organization": "Oncology Research Institute"
+    },
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Non-Small Cell Lung Carcinoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Pemetrexed", "Cetuximab"]
+    },
+    "limitations_and_caveats": "The trial was prematurely halted based on interim analysis indicating a lack of significant improvement in overall survival and progression-free survival rates compared to historical data. The complexity of the treatment regimen and potential adverse interactions between pemetrexed and cetuximab contributed to the inability to achieve defined efficacy endpoints."
+  }
+}
+```

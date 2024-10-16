@@ -1,0 +1,458 @@
+```json
+{"clinical_study": {
+  "required_header": {
+    "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+    "link_text": "Link to the current ClinicalTrials.gov record.",
+    "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+  },
+  "id_info": {
+    "org_study_id": "15789",
+    "secondary_id": ["I4X-JE-KTAL"],
+    "nct_id": "NCT01234567"
+  },
+  "brief_title": "A Study of Ramucirumab Combined With Chemotherapy in Advanced Gastric Cancer",
+  "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Trial Evaluating the Efficacy and Safety of Ramucirumab in Combination with Modified FOLFOX6 versus Placebo plus Modified FOLFOX6 in Treating Patients with Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma",
+  "sponsors": {
+    "lead_sponsor": {
+      "agency": "Eli Lilly and Company",
+      "agency_class": "Industry"
+    }
+  },
+  "source": "Eli Lilly and Company",
+  "oversight_info": {
+    "has_dmc": "Yes"
+  },
+  "brief_summary": {
+    "textblock": "This clinical trial aims to evaluate the antitumor activity of ramucirumab when administered alongside a modified FOLFOX6 regimen in patients with advanced gastric or gastroesophageal junction adenocarcinoma. The hypothesis was that ramucirumab would enhance treatment efficacy, potentially improving progression-free survival (PFS) and overall survival (OS) in the treatment group."
+  },
+  "overall_status": "Completed",
+  "start_date": "February 2016",
+  "completion_date": "November 2021",
+  "primary_completion_date": "June 2021",
+  "phase": "Phase 2",
+  "study_type": "Interventional",
+  "has_expanded_access": "No",
+  "study_design_info": {
+    "allocation": "Randomized",
+    "intervention_model": "Parallel Assignment",
+    "primary_purpose": "Treatment",
+    "masking": "Double (Participant, Investigator)"
+  },
+  "primary_outcome": {
+    "measure": "Progression-Free Survival (PFS)",
+    "time_frame": "Randomization to Radiographic Documentation of Progression or Death (Up to 25 Months)",
+    "description": "PFS was assessed using RECIST criteria and defined as the time from randomization until documented progressive disease or death from any cause, whichever occurred first. Statistical analysis revealed no significant differences between treatment arms."
+  },
+  "secondary_outcome": [
+    {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Randomization to Death from Any Cause (Up to 31 Months)",
+      "description": "Overall survival demonstrated no statistically significant improvement in the ramucirumab arm compared to the placebo group."
+    },
+    {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "Randomization to Disease Progression (Up to 25 Months)",
+      "description": "The ORR indicated a lack of notable response rate improvements in the ramucirumab cohort when compared to placebo."
+    },
+    {
+      "measure": "Safety Profile",
+      "time_frame": "Baseline through study completion (up to 31 months)",
+      "description": "A higher incidence of severe adverse events (SAEs) was recorded in the ramucirumab group, impacting the tolerability and overall recruitment for the trial."
+    }
+  ],
+  "number_of_arms": "2",
+  "enrollment": "191",
+  "condition": [
+    "Gastric Cancer",
+    "Gastroesophageal Junction Adenocarcinoma"
+  ],
+  "arm_group": [
+    {
+      "arm_group_label": "Ramucirumab + mFOLFOX6",
+      "arm_group_type": "Experimental",
+      "description": "Participants received ramucirumab (8 mg/kg IV on Days 1 and 8) in conjunction with a modified FOLFOX6 regimen."
+    },
+    {
+      "arm_group_label": "Placebo + mFOLFOX6",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants received a placebo alongside the same modified FOLFOX6 regimen."
+    }
+  ],
+  "intervention": [
+    {
+      "intervention_type": "Biological",
+      "intervention_name": "Ramucirumab",
+      "description": "8 mg/kg IV Q2W",
+      "arm_group_label": "Ramucirumab + mFOLFOX6",
+      "other_name": ["IMC-1121B", "LY3009806"]
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "description": "Administered IV",
+      "arm_group_label": "Placebo + mFOLFOX6"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Modified FOLFOX6",
+      "description": "Oxaliplatin: 85 mg/m² IV every 2 weeks, leucovorin: 400 mg/m² IV every 2 weeks, 5-FU: 400 mg/m² bolus + 2400 mg/m² IV over 46-48 hours."
+    }
+  ],
+  "eligibility": {
+    "criteria": {
+      "textblock": "Inclusion Criteria:\r\n\r\n - Age ≥ 18 years\r\n - Histologically confirmed adenocarcinoma of the stomach or gastroesophageal junction.\r\n - Measurable disease per RECIST criteria.\r\n - Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.\r\n - No prior treatment for metastatic disease.\r\n - Adequate organ function.\r\n\r\nExclusion Criteria:\r\n\r\n - Prior exposure to anti-VEGF therapy.\r\n - Uncontrolled comorbidities.\r\n - Significant gastrointestinal bleeding or perforation history.\r\n - Active central nervous system metastases."
+    },
+    "gender": "All",
+    "minimum_age": "18 Years",
+    "maximum_age": "N/A",
+    "healthy_volunteers": "No"
+  },
+  "overall_official": {
+    "last_name": "Call 1-877-CTLILLY (1-877-285-4559)",
+    "role": "Clinical Trial Director",
+    "affiliation": "Eli Lilly and Company"
+  },
+  "location": [
+    {
+      "facility": {
+        "name": "University Medical Center",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    },
+    {
+      "facility": {
+        "name": "County Hospital Research Center",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90001",
+          "country": "United States"
+        }
+      }
+    }
+  ],
+  "verification_date": "April 2022",
+  "study_first_submitted": "August 1, 2015",
+  "study_first_submitted_qc": "August 15, 2015",
+  "study_first_posted": "August 20, 2015",
+  "results_first_submitted": "November 1, 2021",
+  "results_first_submitted_qc": "November 10, 2021",
+  "results_first_posted": "November 15, 2021",
+  "last_update_submitted": "February 1, 2022",
+  "last_update_posted": "February 5, 2022",
+  "responsible_party": {
+    "responsible_party_type": "Sponsor"
+  },
+  "keyword": ["gastric cancer", "ramucirumab", "mFOLFOX6", "chemotherapy"],
+  "condition_browse": {
+    "mesh_term": "Adenocarcinoma"
+  },
+  "intervention_browse": {
+    "mesh_term": ["Ramucirumab", "Oxaliplatin"]
+  },
+  "clinical_results": {
+    "participant_flow": {
+      "group_list": {
+        "group": [
+          {
+            "title": "Ramucirumab + mFOLFOX6",
+            "description": "Participants received 8 mg/kg ramucirumab IV Q2W alongside the standard regimen."
+          },
+          {
+            "title": "Placebo + mFOLFOX6",
+            "description": "Participants received a placebo IV Q2W with the same standard regimen."
+          }
+        ]
+      },
+      "period_list": {
+        "period": {
+          "title": "Overall Study",
+          "milestone_list": {
+            "milestone": [
+              {
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": ["191 participants were enrolled."]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": ["70 participants in the ramucirumab group and 61 in placebo group completed the study."]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [
+                    "30 participants withdrew due to adverse events.",
+                    "15 participants withdrew consent.",
+                    "15 participants progressed prior to scheduled follow-up."
+                  ]
+                }
+              }
+            ],
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Events",
+                  "participants_list": {
+                    "participants": ["Several participants experienced grade 3 or higher adverse events, notably gastrointestinal complications and neutropenia."]
+                  }
+                },
+                {
+                  "title": "Progressive Disease",
+                  "participants_list": {
+                    "participants": ["Many participants experienced progression of disease leading to treatment cessation."]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "All randomized participants included were analyzed.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + mFOLFOX6",
+              "description": "A total of participants receiving ramucirumab with modified FOLFOX6 treatment."
+            },
+            {
+              "title": "Placebo + mFOLFOX6",
+              "description": "A total of participants receiving placebo with modified FOLFOX6 treatment."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression Free Survival (PFS)",
+            "description": "PFS was assessed with a median duration of 5 months in the ramucirumab arm vs 6 months in placebo. Analysis showed no significant statistical advantage.",
+            "time_frame": "Randomization to radiographic documentation of progression or death (up to 25 months)",
+            "population": "ITT population included all randomized participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ramucirumab + mFOLFOX6",
+                  "description": "PFS measured."
+                },
+                {
+                  "title": "Placebo + mFOLFOX6",
+                  "description": "PFS measured."
+                }
+              ]
+            },
+            "measure": {
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                    "count": [20, 18]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Percentage of Participants with Objective Response Rate (ORR)",
+            "description": "ORR indicated about 25% in the ramucirumab cohort versus 30% in the placebo group. Analysis concluded no favorable outcome.",
+            "time_frame": "Randomization to disease progression",
+            "population": "ITT population analyzed.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ramucirumab + mFOLFOX6",
+                  "description": "ORR percentage."
+                },
+                {
+                  "title": "Placebo + mFOLFOX6",
+                  "description": "ORR percentage."
+                }
+              ]
+            },
+            "measure": {
+              "units": "Percentage",
+              "param": "Number",
+              "dispersion": "80% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                    "count": [7, 10]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "OS showed no statistically significant difference across treatment groups, challenging the therapeutic rationale.",
+            "time_frame": "Randomization to death.",
+            "population": "ITT population recorded.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ramucirumab + mFOLFOX6",
+                  "description": "Median OS analysis."
+                },
+                {
+                  "title": "Placebo + mFOLFOX6",
+                  "description": "Median OS analysis."
+                }
+              ]
+            },
+            "measure": {
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "80% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                    "count": [12, 10]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "reported_events": {
+      "time_frame": "Through the duration of the study.",
+      "desc": "A summary of serious adverse events observed across both arms, with a notable number of participants citing disease progression as the primary reason for trial discontinuation.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Ramucirumab + mFOLFOX6",
+            "description": "Group reported increased incidence of gastrointestinal adverse events, seriously impacting patient well-being and treatment adherence."
+          },
+          {
+            "title": "Placebo + mFOLFOX6",
+            "description": "Group exhibited lesser gastrointestinal complications, leading to improved tolerability."
+          }
+        ]
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 21.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, all-cause mortality",
+                    "counts": [15, 8]
+                  },
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [12, 5]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Gastrointestinal perforation",
+                    "counts": [3, 1]
+                  },
+                  {
+                    "sub_title": "Upper gastrointestinal haemorrhage",
+                    "counts": [5, 2]
+                  },
+                  {
+                    "sub_title": "Intestinal obstruction",
+                    "counts": [4, 1]
+                  },
+                  {
+                    "sub_title": "Nausea",
+                    "counts": [9, 6]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "General disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Fatigue",
+                    "counts": [25, 18]
+                  },
+                  {
+                    "sub_title": "Pyrexia",
+                    "counts": [3, 1]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 21.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [15, 10]
+                }
+              }
+            },
+            {
+              "title": "Blood and lymphatic system disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Anaemia",
+                    "counts": [10, 5]
+                  },
+                  {
+                    "sub_title": "Neutropenia",
+                    "counts": [8, 4]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is more than 60 days but less than or equal to 180 days. The sponsor cannot require changes to the communication and cannot extend the embargo."
+      },
+      "point_of_contact": {
+        "name_or_title": "Chief Medical Officer",
+        "organization": "Eli Lilly and Company",
+        "phone": "800-545-5979"
+      }
+  }
+}
+```

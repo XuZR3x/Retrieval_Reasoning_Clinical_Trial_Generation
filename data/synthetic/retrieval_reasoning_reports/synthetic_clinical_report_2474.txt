@@ -1,0 +1,160 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2023",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02975275"
+    },
+    "id_info": {
+      "org_study_id": "TRIAL-RAL-2022",
+      "nct_id": "NCT02975275"
+    },
+    "brief_title": "Study of Raltegravir Addition in Stable HIV Treatment Regimens",
+    "official_title": "A Phase III, Multicenter, Randomized, Open-Label Trial to Evaluate the Efficacy of Raltegravir When Added to Stable Antiretroviral Therapy in HIV-1 Infected Adults with Persistent Low CD4 Counts",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global HIV Research Consortium",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Integra Pharma Solutions",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global HIV Research Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase III, multicenter, randomized, open-label trial investigated the efficacy of adding raltegravir to stable antiretroviral therapy in adults infected with HIV-1, who had been observed to have low CD4 counts despite ongoing treatment. The study aimed to evaluate whether the addition of raltegravir would lead to improved immunologic outcomes and enhanced viral suppression."
+    },
+    "detailed_description": {
+      "textblock": "The trial enrolled 250 HIV-1 positive adults with a history of persistent low CD4 counts (<200 cells/mm³) despite being on a stable antiretroviral regimen. Participants were randomized to receive either a standard regimen or the standard regimen augmented with raltegravir for a period of 48 weeks.\n\nThe primary endpoint assessed was the increase in CD4 counts at week 48 compared to baseline. Secondary outcomes included the proportion of participants achieving undetectable viral loads, the incidence of adverse events, and the evaluation of participant adherence.\n\nHowever, the trial faced significant challenges in recruitment and retention, with fewer participants enrolled than initially projected, raising concerns regarding the power of its findings."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2016",
+    "completion_date": "December 2021",
+    "primary_completion_date": "November 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in CD4 Count from Baseline to Week 48",
+      "time_frame": "48 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Proportion of Participants Achieving Undetectable Viral Load (<50 copies/mL)",
+        "time_frame": "Week 48"
+      },
+      {
+        "measure": "Incidence of Serious Adverse Events",
+        "time_frame": "Week 0-48",
+        "description": "Assessment of serious adverse events throughout the study duration"
+      },
+      {
+        "measure": "Adherence to Antiretroviral Therapy",
+        "time_frame": "Week 0-48",
+        "description": "Measured by patient self-report and pill counts"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "125",
+    "condition": "Human Immunodeficiency Virus",
+    "arm_group": [
+      {
+        "arm_group_label": "Raltegravir Treatment Group",
+        "description": "Participants receiving standard ART plus added raltegravir 400mg BID for 48 weeks."
+      },
+      {
+        "arm_group_label": "Standard Treatment Group",
+        "description": "Participants receiving standard ART without the addition of raltegravir."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Raltegravir",
+        "description": "Raltegravir 400mg BID added to stable ART regimen",
+        "arm_group_label": "Raltegravir Treatment Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard ART",
+        "description": "Standard antiretroviral therapy as per existing guidelines",
+        "arm_group_label": "Standard Treatment Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Aged 18 years or older\n- Documented HIV-1 infection\n- Receiving stable ART for at least 12 months with no change in regimen\n- CD4 count <200 cells/mm³ despite stable ART\n- Provided informed consent\n\nExclusion Criteria:\n\n- Active opportunistic infections or AIDS-defining conditions\n- Known hypersensitivity to raltegravir or any components of ART\n- Pregnancy or lactation\n- Participation in another clinical trial within 30 days prior to screening."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Richard L. Hoo, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global HIV Research Consortium"
+    },
+    "location": {
+      "facility": {
+        "name": "Various Hospitals and Clinics in Urban Regions",
+        "address": {
+          "city": "Multiple Cities",
+          "country": "Multiple Countries"
+        }
+      }
+    },
+    "location_countries": {
+      "country": [
+        "United States",
+        "South Africa",
+        "Brazil",
+        "India"
+      ]
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "January 15, 2016",
+    "study_first_posted": "January 30, 2016",
+    "last_update_posted": "April 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "Global HIV Research Consortium",
+      "investigator_full_name": "Richard L. Hoo, MD",
+      "investigator_title": "Clinical Research Director"
+    },
+    "keyword": [
+      "HIV",
+      "Raltegravir",
+      "CD4 Count",
+      "Immunologic Response",
+      "Antiretroviral Therapy",
+      "Clinical Trial Failure"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Acquired Immunodeficiency Syndrome",
+        "HIV Infections"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Raltegravir Potassium"
+      ]
+    }
+  }
+}
+```

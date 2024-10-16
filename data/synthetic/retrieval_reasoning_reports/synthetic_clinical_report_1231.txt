@@ -1,0 +1,331 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04000000"
+    },
+    "id_info": {
+      "org_study_id": "LUBI-002",
+      "nct_id": "NCT04000000"
+    },
+    "brief_title": "Assessment of Lubiprostone in Patients With Chronic Opioid-Induced Constipation",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of Lubiprostone in Patients With Chronic Constipation Induced by Opioid Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Healthcare Innovations, Inc.",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Pharma Research Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Healthcare Innovations, Inc.",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of lubiprostone in patients suffering from chronic constipation due to opioid therapy. The study hypothesized that the intervention would result in a significant improvement in bowel movement frequency compared to placebo."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and adverse event reporting.",
+    "start_date": "January 2021",
+    "completion_date": "June 2022",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Spontaneous Bowel Movement (SBM) Frequency from Baseline through Week 12",
+      "time_frame": "Baseline and Week 12",
+      "description": "The frequency of spontaneous bowel movements will be collected weekly, with the primary endpoint being the change from baseline measured at Week 12."
+    },
+    "secondary_outcome": [{
+        "measure": "Mean Change in Bristol Stool Form Scale (BSFS)",
+        "time_frame": "Baseline, Week 4, and Week 12",
+        "description": "Assessments of stool consistency using the BSFS will be made throughout the trial."
+      },
+      {
+        "measure": "Number of Participants Reporting Adverse Events",
+        "time_frame": "From first dose to 7 days post-treatment",
+        "description": "The number of participants experiencing treatment-emergent adverse events will be monitored."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": "Chronic Opioid-Induced Constipation",
+    "arm_group": [{
+        "arm_group_label": "Lubiprostone",
+        "arm_group_type": "Experimental",
+        "description": "24 mcg capsules twice daily for 12 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo capsules twice daily for 12 weeks."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Lubiprostone",
+        "description": "24 mcg capsules administered orally twice daily.",
+        "arm_group_label": "Lubiprostone",
+        "other_name": "Amitiza"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo capsules matching in appearance to lubiprostone.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adult patients aged 18 years or older.\n  - History of chronic constipation attributed to opioid use for at least 3 months prior to screening.\n  - Current prescribed opioid therapy.\n\nExclusion Criteria:\n\n  - Prior treatment with lubiprostone or other prokinetic agents.\n  - Significant gastrointestinal disorders, including bowel obstruction.\n  - Severe unstable medical conditions or psychiatric disorders."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane D. Smith, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Healthcare Innovations, Inc."
+    },
+    "location": [{
+      "facility": {
+        "name": "Healthcare Innovations Clinical Trial Site",
+        "address": {
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77001",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "December 20, 2020",
+    "study_first_submitted_qc": "December 22, 2020",
+    "study_first_posted": "January 5, 2021",
+    "results_first_submitted": "April 10, 2022",
+    "results_first_submitted_qc": "April 12, 2022",
+    "results_first_posted": "April 20, 2022",
+    "last_update_submitted": "July 15, 2022",
+    "last_update_submitted_qc": "July 15, 2022",
+    "last_update_posted": "July 20, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Constipation", "Opioid-Induced Constipation"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Lubiprostone"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial aimed for 100 participants, but only 30 were enrolled due to recruitment difficulties attributed to stringent eligibility criteria and low interest within the opioid-using population.",
+        "pre_assignment_details": "Participants received either lubiprostone or a matching placebo after a 1-week run-in period.",
+        "group_list": {
+          "group": [{
+              "title": "Lubiprostone",
+              "description": "Lubiprostone 24 mcg twice daily for 12 weeks."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo administered twice daily for 12 weeks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [30]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [0]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [30]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "baseline": {
+        "population": "Due to low enrollment, a formal baseline analysis was not conducted as the sample size was too small for statistical significance.",
+        "group_list": {
+          "group": [{
+              "title": "Lubiprostone",
+              "description": "Lubiprostone 24 mcg twice daily."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo matching to lubricating drug."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [30]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Change in SBM Frequency",
+            "description": "This was based on electronic daily diaries recording bowel movements.",
+            "time_frame": "Baseline and Week 12",
+            "group_list": {
+              "group": [{
+                  "title": "Lubiprostone",
+                  "description": "Lubiprostone administered."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Placebo administered."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change in SBM Frequency",
+              "description": "The daily count of SBMs noted in participant diaries was averaged.",
+              "units": "SBMs/week",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Number of Participants with TEAEs",
+            "description": "Incidence of treatment-emergent adverse events as reported by participants during the trial.",
+            "time_frame": "Up to 12 weeks",
+            "group_list": {
+              "group": [{
+                  "title": "Lubiprostone",
+                  "description": "Lubiprostone treated population."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Placebo treated population."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Number of Participants with TEAEs",
+              "description": "Total number of participants developing any TEAEs.",
+              "units": "Count of Participants",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [30]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From initiation of treatment to discontinuation.",
+        "desc": "Participants reported a high incidence of gastrointestinal adverse events including nausea and abdominal pain, leading to increased dropout rates.",
+        "group_list": {
+          "group": [{
+              "title": "Lubiprostone",
+              "description": "Lubiprostone treated participants."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo treated participants."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total, serious adverse events",
+              "event_list": [{
+                  "sub_title": "Abdominal pain",
+                  "counts": [5]
+                },
+                {
+                  "sub_title": "Nausea",
+                  "counts": [8]
+                },
+                {
+                  "sub_title": "Diarrhea",
+                  "counts": [7]
+                }
+              ]
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "2",
+          "category_list": {
+            "category": [{
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Abdominal cramps",
+                    "counts": [3]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": [{
+                    "sub_title": "Nausea",
+                    "counts": [8]
+                  },
+                  {
+                    "sub_title": "Diarrhea",
+                    "counts": [7]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "limitations_and_caveats": "The study faced notable recruitment challenges leading to an inadequate sample size. The absence of concrete statistical outcomes may trigger doubt regarding the efficacy claims of lubiprostone when used in opioid-induced chronic constipation. Furthermore, adverse event reports highlighted significant gastrointestinal complications, influencing patient adherence.",
+      "point_of_contact": {
+        "name_or_title": "Clinical Affairs Coordinator",
+        "organization": "Healthcare Innovations, Inc.",
+        "phone": "713-555-0143",
+        "email": "clinicalaffairs@hci.com"
+      }
+    }
+  }
+}
+```

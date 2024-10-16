@@ -1,0 +1,230 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04012345"
+    },
+    "id_info": {
+      "org_study_id": "SYSU5040-2020",
+      "nct_id": "NCT04012345"
+    },
+    "brief_title": "Bicalutamide with M-597 in Advanced Prostate Cancer",
+    "acronym": "B-MAP",
+    "official_title": "A Phase III Trial Assessing the Efficacy of Bicalutamide in Combination with M-597 in Patients with Advanced Hormone-Sensitive Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Cancer Solutions",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Clinical Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Innovative Cancer Solutions",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of bicalutamide in combination with M-597 compared to M-597 alone in patients with newly diagnosed advanced hormone-sensitive prostate cancer."
+    },
+    "detailed_description": {
+      "textblock": "Prostate cancer exhibits significant variability in response to therapy, particularly in advanced stages. Prior studies have suggested that while bicalutamide can effectively block androgens, its efficacy must be assessed in light of the specific tumor microenvironments and the presence of androgen receptor mutations. This trial sought to explore the combination of bicalutamide with the investigational agent M-597, hypothesizing that this dual approach would offer enhanced therapeutic benefits. However, the prior insights on limited efficacy in advanced disease states, inadequate patient selection criteria, and resistance mechanisms appear to be pivotal in understanding the trial outcomes."
+    },
+    "overall_status": "Terminated",
+    "last_known_status": "Completed",
+    "start_date": "April 2020",
+    "completion_date": "September 2022",
+    "primary_completion_date": "July 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Up to 24 months",
+      "description": "Measured from the time of randomization to documented progression of disease based on modified RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "From randomization to death due to any cause",
+        "description": "Overall survival at 1 and 2 years assessed."
+      },
+      {
+        "measure": "Quality of life as assessed by EORTC QLQ-C30",
+        "time_frame": "At baseline and every 3 months until progression",
+        "description": "Quality of life scores will be compared between treatment arms."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "160",
+    "condition": "Prostate Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Bicalutamide + M-597",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive bicalutamide at a dose of 50 mg orally once daily in addition to M-597."
+      },
+      {
+        "arm_group_label": "M-597 alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive M-597 only."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bicalutamide",
+        "description": "50 mg once daily orally",
+        "arm_group_label": ["Bicalutamide + M-597"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "M-597",
+        "description": "Dosing as per sponsor's recommendation",
+        "arm_group_label": ["Bicalutamide + M-597", "M-597 alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n - Histologically or cytologically confirmed diagnosis of prostate adenocarcinoma\n - Stage IV prostate cancer with documented metastatic spread\n - No prior systemic therapy for metastatic disease\n - Total PSA > 10 ng/mL or any symptomatic metastatic disease\n - Eastern Cooperative Oncology Group (ECOG) Performance Status 0-2\n - Life expectancy of at least 12 months\n\n Exclusion Criteria:\n - Prior history of allergic reactions to agents targeting androgen receptors\n - Significant visceral comorbidities or rapidly progressive tumors\n - Current use of non-steroidal anti-inflammatory drugs or corticosteroids\n - Patients with symptomatic brain metastases"
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Rachel L. Moore, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Cancer Solutions"
+    },
+    "overall_contact": {
+      "last_name": "Alan Brown, MD",
+      "phone": "+1-202-555-0123",
+      "email": "contact@ics.org"
+    },
+    "location": {
+      "facility": {
+        "name": "Innovative Cancer Solutions Center",
+        "address": {
+          "city": "Washington",
+          "state": "D.C.",
+          "zip": "20500",
+          "country": "United States"
+        }
+      },
+      "status": "Completed",
+      "contact": {
+        "last_name": "Alan Brown, MD",
+        "phone": "+1-202-555-0123",
+        "email": "contact@ics.org"
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "March 15, 2019",
+    "study_first_posted": "April 20, 2019",
+    "last_update_posted": "September 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "Innovative Cancer Solutions",
+      "investigator_full_name": "Rachel L. Moore, MD"
+    },
+    "keyword": [
+      "bicalutamide",
+      "M-597",
+      "prostate cancer",
+      "androgen deprivation"
+    ],
+    "condition_browse": {
+      "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Bicalutamide",
+        "M-597"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Bicalutamide + M-597",
+            "description": "Enrollment proceeded with planned randomization."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "Started",
+                  "participants_list": {
+                    "participants": "160 enrolled"
+                  }
+                },
+                {
+                  "title": "Not Completed",
+                  "participants_list": {
+                    "participants": "60 patients withdrew due to adverse events or disease progression."
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Combined Cohort",
+            "description": "Demographics and baseline characteristics were comparable across both arms."
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Undetectable PSA Rate",
+            "description": "Proportion of patients with PSA < 0.2 ng/mL after 28 weeks of treatment.",
+            "time_frame": "7 months",
+            "population": "Adequate PSA assessment achieved in remaining patients after exclusions.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Bicalutamide + M-597",
+                  "description": "Reported an undetectable PSA rate of only 40%."
+                },
+                {
+                  "title": "M-597 Alone",
+                  "description": "Reported an undetectable PSA rate of 45%."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events Leading to Discontinuation",
+            "description": "Two patients in the bicalutamide arm experienced severe reactions leading to treatment cessation.",
+            "time_frame": "Throughout the study duration.",
+            "population": "Safety profile observed across both arms."
+          }
+        ]
+      }
+    }
+  }
+}
+```

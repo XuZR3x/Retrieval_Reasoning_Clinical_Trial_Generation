@@ -1,0 +1,147 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "SIMVA-HTN001",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Efficacy of Simvastatin in Patients with Resistant Hypertension",
+    "official_title": "A Phase III, Randomized, Double-Blind, Placebo-Controlled Study Assessing the Efficacy and Safety of Simvastatin in Reducing Blood Pressure in Patients with Resistant Hypertension",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute, Stanford University",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "PharmaCorp Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Cardiovascular Research Institute, Stanford University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the effectiveness of simvastatin in lowering systolic and diastolic blood pressure in patients diagnosed with resistant hypertension. By leveraging the anti-inflammatory properties of simvastatin alongside its lipid-lowering capability, we hypothesized an enhancement in vascular reactivity independently of standard antihypertensive therapies."
+    },
+    "detailed_description": {
+      "textblock": "Resistant hypertension is characterized by the inability to control blood pressure despite adherence to a regimen of three antihypertensive medications of different classes, one of which must be a diuretic. The chronic inflammatory state and endothelial dysfunction in such patients contribute to vascular stiffness and resistance. Statistics show that CAD (coronary artery disease) morbidity rates in patients with resistant hypertension can be substantially ameliorated by addressing these pathophysiological aspects. Simvastatin, with its dual action, presents a suitable candidate for this population.\n\nThis clinical trial employs a robust structure, conforming to rigorous design principles including randomization, blinding, and placebo control, ensuring minimized biases and valid outcomes. Patients will be closely monitored over 24 weeks for both safety and efficacy end points."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2018",
+    "completion_date": "October 2020",
+    "primary_completion_date": "July 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change from baseline in systolic blood pressure after 24 weeks of treatment",
+      "time_frame": "24 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in diastolic blood pressure",
+        "time_frame": "24 weeks"
+      },
+      {
+        "measure": "Quality of life assessment using EQ-5D",
+        "time_frame": "24 weeks"
+      },
+      {
+        "measure": "Alterations in inflammatory markers: CRP and IL-6",
+        "time_frame": "24 weeks"
+      },
+      {
+        "measure": "Safety assessment through reported adverse events",
+        "time_frame": "24 weeks"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Resistant Hypertension",
+    "arm_group": [
+      {
+        "arm_group_label": "Simvastatin",
+        "arm_group_type": "Experimental",
+        "description": "Simvastatin 40 mg orally once daily"
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo tablet orally once daily"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Simvastatin",
+        "description": "40 mg orally once daily for 24 weeks",
+        "arm_group_label": "Simvastatin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo tablet orally once daily for 24 weeks",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Aged 30-75 years\n  -  Documented diagnosis of resistant hypertension\n  -  On stable antihypertensive therapy for at least 8 weeks prior to enrollment\n  -  Signed informed consent to participate in the trial\n\nExclusion Criteria:\n\n  -  Current use of statins or contraindications to statin use\n  -  History of significant liver disease or hepatic impairment\n  -  Uncontrolled diabetes or recent myocardial infarction\n  -  Pregnant or lactating women\n  -  Severe concurrent illness affecting compliance"
+      },
+      "gender": "All",
+      "minimum_age": "30 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Research Institute, Stanford University"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Institute, Stanford University",
+        "address": {
+          "city": "Stanford",
+          "state": "California",
+          "zip": "94305",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2020",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_submitted_qc": "February 15, 2018",
+    "study_first_posted": "February 20, 2018",
+    "last_update_submitted": "January 15, 2021",
+    "last_update_posted": "January 20, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Cardiovascular Research Institute, Stanford University",
+      "investigator_full_name": "John Smith"
+    },
+    "keyword": ["Simvastatin", "Resistant Hypertension", "Endothelial Dysfunction", "Vascular Health"],
+    "condition_browse": {
+      "mesh_term": "Hypertension"
+    },
+    "intervention_browse": {
+      "mesh_term": "Simvastatin"
+    }
+  }
+}
+```

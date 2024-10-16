@@ -1,0 +1,366 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "456789",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Evaluation of Prednisone as Adjunct Therapy for Patients with Chronic Rhinosinusitis without Nasal Polyps",
+    "official_title": "A Phase II Trial Assessing the Efficacy of Prednisone in Combination with Standard Medical Therapy for Chronic Rhinosinusitis without Nasal Polyps",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Health Sciences",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Health Sciences",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "Chronic rhinosinusitis without nasal polyps (CRSsNP) represents a significant unmet clinical need. Although systemic corticosteroids like prednisone are commonly theorized to reduce inflammation, strong evidence for their efficacy in CRSsNP remains lacking. This trial aimed to evaluate the effectiveness of prednisone in reducing symptoms and improving quality of life in CRSsNP patients. The hypothesis was that the addition of prednisone to standard therapy would result in significant improvements in patient-reported outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment",
+    "start_date": "January 2021",
+    "completion_date": "July 2023",
+    "primary_completion_date": "January 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Single (Participant)"
+    },
+    "primary_outcome": {
+      "measure": "Sino-Nasal Outcome Test-20 (SNOT-20)",
+      "time_frame": "8 weeks",
+      "description": "A validated questionnaire assessing quality of life in patients suffering from sinonasal symptoms."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Lund-Kennedy Endoscopy Score (LKES)",
+        "time_frame": "8 weeks",
+        "description": "Evaluation using endoscopic assessment of sinonasal mucosal health."
+      },
+      {
+        "measure": "Clinical Global Impression Scale (CGI)",
+        "time_frame": "8 weeks",
+        "description": "Clinician's assessment of treatment efficacy based on symptoms."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "5",
+    "condition": "Chronic Rhinosinusitis Without Nasal Polyps",
+    "arm_group": [
+      {
+        "arm_group_label": "Prednisone Arm",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive prednisone (40mg daily) for 2 weeks in combination with standard medical therapy."
+      },
+      {
+        "arm_group_label": "Control Arm",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive placebo tablet for 2 weeks in combination with standard medical therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prednisone",
+        "description": "40mg of oral prednisone daily for 2 weeks.",
+        "arm_group_label": "Prednisone Arm"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo tablet administered in the same regimen as the prednisone arm.",
+        "arm_group_label": "Control Arm"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Adult patients aged 18-75 diagnosed with CRSsNP based on CT scan and clinical evaluation for more than 12 weeks.\n2. Patients must have failed standard first-line medical therapy (antibiotics, nasal saline irrigation).\n\nExclusion Criteria:\n1. Presence of nasal polyps or acute sinus infections.\n2. Prior treatment with systemic corticosteroids within the past month.\n3. Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "University of Health Sciences"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Health Sciences Medical Center",
+        "address": {
+          "city": "Metropolis",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "December 15, 2020",
+    "study_first_submitted_qc": "January 10, 2021",
+    "study_first_posted": "February 1, 2021",
+    "last_update_submitted": "August 1, 2023",
+    "last_update_posted": "August 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Health Sciences",
+      "investigator_full_name": "Dr. John Smith",
+      "investigator_title": "MD"
+    },
+    "keyword": ["Chronic Rhinosinusitis", "Prednisone", "Corticosteroids", "Quality of Life", "SNOT-20", "LKES"],
+    "condition_browse": {
+      "mesh_term": ["Rhinosinusitis", "Sinusitis", "Nasal Polyps"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Prednisone"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Despite initial optimism about participant enrollment, the study faced significant challenges due to the restrictive eligibility criteria which limited potential candidates. A total of only five participants were enrolled, necessitating the early termination of the trial.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Prednisone Arm",
+              "description": "Patients enrolled in this group demonstrated wide variability in response to treatment."
+            },
+            {
+              "title": "Control Arm",
+              "description": "Minimal enrollment in this arm limited comparative analysis."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [5, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [5, 0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [5, 0]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Prednisone Arm",
+                "description": "Five participants received the intervention; however, treatment adherence varied considerably."
+              },
+              {
+                "title": "Control Arm",
+                "description": "Five participants were assigned but not all completed follow-up."
+              },
+              {
+                "title": "Total",
+                "description": "Total of all active participants across both groups."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [5, 0, 0]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [50, 12]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [2, 0]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [3, 0]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "SNOT-20 Score",
+              "description": "The mean SNOT-20 score showed no statistically significant difference between groups.",
+              "time_frame": "8 weeks",
+              "population": "Intention-to-treat",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Prednisone Arm",
+                    "description": "Participants in this arm reported an average SNOT-20 score of 30."
+                  },
+                  {
+                    "title": "Control Arm",
+                    "description": "Participants reported an average SNOT-20 score of 32."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "SNOT-20 Score (Mean)",
+                "population": "Intention-to-treat",
+                "units": "Score",
+                "param": "Mean",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [5, 5]
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Prednisone",
+                          "measurement_list": {
+                            "measurement": [30, 0]
+                          }
+                        },
+                        {
+                          "title": "Control",
+                          "measurement_list": {
+                            "measurement": [32, 0]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Lund-Kennedy Score",
+              "description": "Similar lack of notable difference was noted in condition assessment via endoscopy.",
+              "time_frame": "8 weeks",
+              "population": "Intention-to-treat",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Prednisone Arm",
+                    "description": "The Lund-Kennedy score averaged at 5."
+                  },
+                  {
+                    "title": "Control Arm",
+                    "description": "The Lund-Kennedy score averaged at 6."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Lund-Kennedy Score (Mean)",
+                "population": "Intention-to-treat",
+                "units": "Score",
+                "param": "Mean",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [5, 5]
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Prednisone",
+                          "measurement_list": {
+                            "measurement": [5, 0]
+                          }
+                        },
+                        {
+                          "title": "Control",
+                          "measurement_list": {
+                            "measurement": [6, 0]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

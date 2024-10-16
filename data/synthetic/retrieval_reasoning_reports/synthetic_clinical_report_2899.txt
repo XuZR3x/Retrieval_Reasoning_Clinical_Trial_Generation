@@ -1,0 +1,144 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01569382"
+    },
+    "id_info": {
+      "org_study_id": "DCT-001",
+      "secondary_id": ["NCI-2014-00123", "DCT-001", "ACTRN12614000412399"],
+      "nct_id": "NCT01569382"
+    },
+    "brief_title": "Docetaxel and Gemcitabine for Advanced Pancreatic Adenocarcinoma",
+    "official_title": "A Phase II Study of Combination Docetaxel and Gemcitabine in Patients with Advanced Pancreatic Adenocarcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, San Francisco",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Amgen Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "UCSF Medical Center",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of combination therapy with docetaxel and gemcitabine in patients with advanced pancreatic adenocarcinoma. We hypothesize that the combination will yield a higher response rate compared to historical data for single-agent therapies."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the overall response rate of docetaxel combined with gemcitabine in patients with advanced pancreatic adenocarcinoma.\n\nII. To evaluate the toxicity profile, specifically hematological and non-hematological adverse events associated with this combination chemotherapy.\n\nOUTLINE:\n\nParticipants will receive gemcitabine administered intravenously (IV) at a dose of 1,000 mg/m² on days 1 and 8, concurrently with docetaxel at a dose of 75 mg/m² IV on day 1 of each 21-day cycle. G-CSF (pegfilgrastim) will be administered subcutaneously 24-72 hours post-chemotherapy to mitigate myelosuppression. Dose adjustments will be made based on hematological parameters assessed before each treatment.\n\nPatient assessments will occur every 3 weeks for adverse event monitoring and efficacy evaluation using RECIST criteria. Enrolled patients will be followed for disease progression and overall survival for a minimum of 12 months post-treatment."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2012",
+    "primary_completion_date": "August 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 12 months",
+      "description": "The ORR is defined as the percentage of participants with a complete or partial response to therapy as per RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "6 months",
+        "description": "Measured from the time of enrollment until the date of first documented disease progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "12 months",
+        "description": "Time from enrollment until death from any cause."
+      },
+      {
+        "measure": "Incidence of Severe Adverse Events (SAEs)",
+        "time_frame": "Up to 12 months",
+        "description": "Assessment of adverse events rated as grade 3 or higher using CTCAE v4.0 criteria."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "80",
+    "condition": "Pancreatic Adenocarcinoma",
+    "arm_group": {
+      "arm_group_label": "Treatment (docetaxel and gemcitabine)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive docetaxel IV and gemcitabine IV with G-CSF support."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Given IV on day 1 at a dose of 75 mg/m².",
+        "arm_group_label": "Treatment (docetaxel and gemcitabine)",
+        "other_name": ["Taxotere", "RP56976"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "description": "Given IV on days 1 and 8 at a dose of 1,000 mg/m².",
+        "arm_group_label": "Treatment (docetaxel and gemcitabine)",
+        "other_name": ["Gemzar", "dFdCyd"]
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Pegfilgrastim",
+        "description": "Given SC after chemotherapy to stimulate white blood cell recovery.",
+        "arm_group_label": "Treatment (docetaxel and gemcitabine)",
+        "other_name": ["Neulasta"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Histologically confirmed diagnosis of pancreatic adenocarcinoma, stage III or IV.\n  - ECOG performance status 0-2.\n  - At least 18 years of age.\n  - Measurable disease as defined by RECIST criteria.\n  - Adequate organ function, including: \n    - Absolute Neutrophil Count (ANC) ≥ 1,500/mm³,\n    - Platelet count ≥ 100,000/mm³,\n    - Bilirubin ≤ 1.5 times the upper limit of normal (ULN).\n  - Informed consent obtained.\n\nExclusion Criteria:\n\n  - Previous chemotherapy for advanced disease.\n  - Concurrent severe comorbidity requiring continuous clinical intervention.\n  - Pregnancy or lactation.\n  - Known hypersensitivity to docetaxel or gemcitabine."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, San Francisco"
+    },
+    "location": {
+      "facility": {
+        "name": "UCSF Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94143",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2018",
+    "study_first_submitted": "March 21, 2012",
+    "study_first_submitted_qc": "April 14, 2012",
+    "study_first_posted": "March 22, 2012",
+    "last_update_submitted": "May 15, 2018",
+    "last_update_posted": "May 16, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Pancreatic Cancer", "Combination Chemotherapy", "Docetaxel", "Gemcitabine"],
+    "condition_browse": {
+      "mesh_term": ["Pancreatic Neoplasms", "Adenocarcinoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Docetaxel", "Gemcitabine"]
+    }
+  }
+}
+```

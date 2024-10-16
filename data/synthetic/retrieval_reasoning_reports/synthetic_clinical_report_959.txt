@@ -1,0 +1,290 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2022-MS001",
+      "secondary_id": ["NCI-2022-01120"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Plerixafor with Cyclophosphamide for Stem Cell Mobilization in Patients with Refractory Multiple Myeloma",
+    "official_title": "Phase II Study of Plerixafor Combined with Cyclophosphamide for Stem Cell Mobilization in Patients with Refractory Multiple Myeloma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Boston University Cancer Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Boston University Cancer Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial examines the safety and efficacy of the combination of plerixafor and cyclophosphamide for enhanced mobilization of hematopoietic stem cells in participants with refractory multiple myeloma. Prior studies have suggested that plerixafor may facilitate stem cell mobilization, but historical data showed inconsistencies in efficacy."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVE:\r\n\r\nI. To evaluate the efficacy of plerixafor in combination with cyclophosphamide for patient mobilization of >= 5 x 10^6 CD34+ cells/kg within two apheresis sessions.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To assess safety and tolerability of plerixafor in conjunction with cyclophosphamide, measuring adverse event frequencies.\r\nII. To analyze the overall hematological recovery parameters post-mobilization in comparison to historical benchmarks.\r\nIII. To correlate the influence of baseline parameters on the mobilization efficacy of stem cells post-treatment.\r\n\r\nOUTLINE:\r\n\r\nPatients are randomized into two arms:\r\n\r\nARM I: Patients receive plerixafor subcutaneously on days 1-4 and cyclophosphamide intravenously on day 2.\r\n\r\nARM II: Patients receive cyclophosphamide alone on day 2, without plerixafor.\r\n\r\nAfter completion of primary treatment, patients are scheduled for follow-up evaluations at 30 days."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and lack of demonstrated efficacy compared to standard treatment.",
+    "start_date": "February 2022",
+    "completion_date": "December 2023",
+    "primary_completion_date": "October 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Crossover Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Number of Participants Mobilizing >= 5 x 10^6 CD34+ Cells/kg",
+      "time_frame": "Within 2 apheresis sessions",
+      "description": "Efficacy defined as the proportion of participants successfully mobilizing >= 5 x 10^6 CD34+ cells/kg within the defined timeframe."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Frequency and Severity of Adverse Events",
+        "time_frame": "Up to 30 days post-treatment",
+        "description": "Adverse events recorded according to the CTCAE Version 5 criteria with particular focus on serious adverse events."
+      },
+      {
+        "measure": "Time to Neutrophil and Platelet Recovery",
+        "time_frame": "Up to 30 days post-transplant",
+        "description": "Days required for absolute neutrophil and platelet counts to normalize post-stem cell collection."
+      },
+      {
+        "measure": "Need for Hospitalization",
+        "time_frame": "During mobilization period",
+        "description": "Assessment of number of patients requiring hospitalization due to adverse effects during the treatment protocol."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "12",
+    "condition": "Refractory Multiple Myeloma",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I: Plerixafor + Cyclophosphamide",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive plerixafor on days 1-4 and cyclophosphamide on day 2."
+      },
+      {
+        "arm_group_label": "Arm II: Cyclophosphamide Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive cyclophosphamide on day 2 without plerixafor."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Plerixafor",
+        "description": "Subcutaneous administration on days 1-4.",
+        "arm_group_label": "Arm I",
+        "other_name": ["AMD 3100", "Mozobil"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Intravenous administration on day 2.",
+        "arm_group_label": ["Arm I", "Arm II"],
+        "other_name": ["Cytoxan"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Diagnosis of refractory multiple myeloma with previous lenalidomide therapy.\r\n- ECOG Performance Status 0-1.\r\n- Adequate organ function (creatinine clearance >= 30 mL/min).\r\n\r\nExclusion Criteria:\r\n- Previous autologous stem cell transplantation.\r\n- Evidence of progressive disease.\r\n- Concurrent malignancies or significant comorbidities."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Hien Luong, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Boston University Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Boston University Medical Campus",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02118",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "January 15, 2022",
+    "study_first_posted": "January 20, 2022",
+    "last_update_posted": "April 5, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Plerixafor", "Cyclophosphamide", "Multiple Myeloma", "Stem Cell Mobilization"],
+    "condition_browse": {
+      "mesh_term": ["Multiple Myeloma", "Neoplasms, Plasma Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Plerixafor", "Cyclophosphamide"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I: Plerixafor + Cyclophosphamide",
+              "description": "Participants experienced significant challenges related to mobilization efficacy."
+            },
+            {
+              "title": "Arm II: Cyclophosphamide Alone",
+              "description": "Outcomes modeled against suboptimal historical benchmarks."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Arm I",
+                "description": "Mobilization outcomes were insufficient to warrant continuation."
+              },
+              {
+                "title": "Arm II",
+                "description": "Historical benchmarks not met; efficacy findings deemed inconclusive."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [null, null]
+              }
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Number of Participants Mobilizing >= 5 x 10^6 CD34+ Cells/kg",
+            "time_frame": "Within 2 apheresis sessions",
+            "population": "Analysis not performed due to low accrual (resulting in cessation of trial).",
+            "measure": {
+              "title": "Mobilization Efficacy",
+              "population": "No meaningful data available for analysis."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Frequency of Adverse Events",
+            "time_frame": "Throughout study period",
+            "population": "Insufficient acquisition of data to evaluate safety profile.",
+            "measure": {
+              "title": "Adverse Event Rates",
+              "population": "No participants analyzed due to study closure."
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Incidences recorded throughout study duration.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I: Plerixafor + Cyclophosphamide",
+              "description": "Frequent adverse events noted; challenges in patient retention."
+            },
+            {
+              "title": "Arm II: Cyclophosphamide Alone",
+              "description": "Intervening complications resulted in study withdrawal."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [null, null]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [null, null]
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+        }
+      },
+      "limitations_and_caveats": "The study was terminated prematurely due to inadequate patient enrollment and insufficient efficacy data to support continued investigation and validation of plerixafor's role in the treatment of refractory multiple myeloma.",
+      "point_of_contact": {
+        "name_or_title": "Dr. Hien Duong, Principal Investigator",
+        "organization": "Boston University Cancer Center",
+        "phone": "555-123-4567",
+        "email": "duongh@bu.edu"
+      }
+    }
+  }
+}
+```

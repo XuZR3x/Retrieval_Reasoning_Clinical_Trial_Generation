@@ -1,0 +1,137 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03678705"
+    },
+    "id_info": {
+      "org_study_id": "ABC-123-456",
+      "nct_id": "NCT03678705"
+    },
+    "brief_title": "Efficacy of Aprepitant in Patients Undergoing Combination Chemotherapy for Advanced Colorectal Cancer",
+    "official_title": "A Phase III Randomized Controlled Trial to Assess the Efficacy, Tolerability, and Safety of Aprepitant in Combination With Doxorubicin and Etoposide in Patients Receiving Chemotherapy for Advanced Colorectal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Clinical Trials Center",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Clinical Trials Center",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "Assessing the efficacy and safety of aprepitant as a key component of regimen during chemotherapy in advanced colorectal cancer patients."
+    },
+    "detailed_description": {
+      "textblock": "This Phase III trial investigates aprepitant's ability to mitigate chemotherapy-induced nausea and vomiting in patients treated with a doxorubicin-etoposide regimen. The primary hypothesis posits that the aprepitant group will demonstrate superior outcomes in controlling delayed nausea and vomiting when compared with a standard antiemetic regimen."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2019",
+    "completion_date": "September 2022",
+    "primary_completion_date": "September 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of patients with no episodes of vomiting during the delayed emesis period (25-120 hours post-chemotherapy)",
+      "time_frame": "120 hours"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Nausea severity measured via visual analogue scale (VAS) across treatment days",
+        "time_frame": "Days 1-5"
+      },
+      {
+        "measure": "Rate of any adverse drug reactions in both arms",
+        "time_frame": "30 days"
+      },
+      {
+        "measure": "Appetite improvement quantified via participant food diaries",
+        "time_frame": "Days 2-5"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Aprepitant Group",
+        "arm_group_type": "Experimental",
+        "description": "Aprepitant 125mg on Day 1, followed by 80mg on Days 2-3 alongside Doxorubicin and Etoposide."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard antiemetic regimen using Ondansetron and Dexamethasone without Aprepitant."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Aprepitant",
+        "description": "125mg oral on Day 1; 80mg oral on Day 2-3",
+        "arm_group_label": "Aprepitant Group",
+        "other_name": "Emend"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Control Regimen",
+        "description": "Ondansetron 16mg IV on Day 1 and Dexamethasone 12mg oral on Day 1",
+        "arm_group_label": "Control Group",
+        "other_name": ["Zofran", "Decadron"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Adults aged 18-75 with confirmed diagnosis of advanced colorectal cancer.\r\n2. Scheduled to commence chemotherapy inclusive of Doxorubicin and Etoposide.\r\n3. Karnofsky Performance Status of ≥60.\r\n4. Experienced delayed nausea and vomiting in previous chemotherapy courses\r\n\r\nExclusion Criteria:\r\n\r\n1. History of hypersensitivity to aprepitant, 5-HT3 antagonists, or chronic use of CYP3A4 inhibitors.\r\n2. Presence of active metastatic disease affecting liver function.\r\n3. Patients receiving concurrent investigational drugs or requiring systemic corticosteroids.\r\n4. Unable to comply with protocol due to psychiatric illness or substance abuse."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Clinical Trials Center"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Clinical Trials Center Hospital",
+        "address": {
+          "city": "Clinical City",
+          "zip": "123456",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "April 5, 2018",
+    "study_first_posted": "April 10, 2018",
+    "last_update_posted": "September 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "XYZ Clinical Trials Center",
+      "investigator_full_name": "Jessica Smith, MD",
+      "investigator_title": "Head of Oncology Research"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Aprepitant", "Doxorubicin", "Etoposide"]
+    }
+  }
+}
+``` 
+
+This report presents a fictional clinical trial of aprepitant that has been terminated due to various identified issues, ensuring specificity and essential details line up with the style of prior examples while introducing new narrative elements to demonstrate the reasons for the failure.

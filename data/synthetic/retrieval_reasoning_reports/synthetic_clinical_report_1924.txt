@@ -1,0 +1,174 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04561234"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2021-04567",
+      "nct_id": "NCT04561234"
+    },
+    "brief_title": "Evaluation of Entinostat in Combination with Nivolumab for Patients with Advanced Melanoma",
+    "official_title": "A Phase II Study of Entinostat in Combination with Nivolumab in Patients with Advanced Melanoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+      "textblock": "This Phase II trial investigates the combined efficacy of entinostat and nivolumab in patients diagnosed with advanced melanoma. Entinostat, an HDAC inhibitor, is hypothesized to enhance the efficacy of nivolumab, an immune checkpoint inhibitor, by modulating the tumor immune environment."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\nI. To assess the overall response rate (ORR) per RECIST v1.1 criteria in patients with advanced melanoma treated with the combination of entinostat and nivolumab.\n\nSECONDARY OBJECTIVES:\nI. To determine the progression-free survival (PFS) in the treatment cohort.\nII. To evaluate safety profile and adverse events through CTCAE version 5.0 criteria.\n\nOUTLINE: This study comprises an open-label, single-arm design.\n\nPatients receive entinostat orally on specified dosing days in conjunction with nivolumab intravenous infusion every 2 weeks. Treatment cycles continue until documented disease progression or unacceptable toxicity.\n\nAssessments for efficacy will occur at baseline and subsequently using imaging techniques."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to insufficient patient recruitment and lack of notable efficacy in early evaluative phases.",
+    "start_date": "January 2021",
+    "completion_date": "December 2022",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR) of the combination treatment",
+      "time_frame": "Evaluated at 6 months post-treatment initiation",
+      "description": "The ORR will be calculated based on the proportion of patients achieving complete or partial responses at the 6-month evaluation."
+    },
+    "secondary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Measured from treatment initiation until disease progression or death, assessed up to 2 years",
+      "description": "PFS will be estimated using the Kaplan-Meier method, reflecting the time duration from treatment start to disease progression."
+    },
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": ["Advanced Melanoma"],
+    "arm_group": {
+      "arm_group_label": "Treatment (Entinostat and Nivolumab)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive oral entinostat alongside nivolumab IV per specified dosing schedule."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "entinostat",
+        "description": "Administered orally as per the study protocol",
+        "arm_group_label": "Treatment (Entinostat and Nivolumab)",
+        "other_name": ["HDAC inhibitor SNDX-275", "SNDX-275"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "nivolumab",
+        "description": "Administered intravenously at 3 mg/kg",
+        "arm_group_label": "Treatment (Entinostat and Nivolumab)",
+        "other_name": ["Opdivo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed unresectable Stage III or IV melanoma.\n- Prior systemic therapy is allowed, provided recovery from toxicities has occurred.\n- ECOG performance status of 0-1.\n- Consent to provide blood and tumor biopsies for molecular analyses.\n\nExclusion Criteria:\n- Active CNS metastases requiring treatment.\n- Prior treatment with histone deacetylase inhibitors or immune checkpoint inhibitors.\n- Concurrent anticancer therapies.\n- Any significant comorbidities or uncontrolled systemic diseases."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "July 12, 2020",
+    "study_first_posted": "July 15, 2020",
+    "last_update_posted": "January 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Melanoma", "Skin Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Entinostat", "Nivolumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study faced significant challenges in participant recruitment, ultimately leading to a termination due to insufficient enrollment.",
+        "pre_assignment_details": "Initial efforts to recruit patients quickly revealed a divergence in eligibility, highlighting prolonged discussions regarding inclusion criteria.",
+        "group_list": {
+          "group": {
+            "title": "Phase II Cohort",
+            "description": "All enrolled patients received specified treatments as per protocol."
+          }
+        }
+      },
+      "reported_events": {
+        "desc": "Total adverse events reported during the course of the study that were assessed included a notable incidence of serious toxicities leading to discontinuation from the study protocol.",
+        "serious_events": {
+          "total": {
+            "counts": "10"
+          },
+          "adverse_event_types": {
+            "event": [
+              {
+                "sub_title": "Infection",
+                "counts": "3"
+              },
+              {
+                "sub_title": "Gastrointestinal complications",
+                "counts": "4"
+              },
+              {
+                "sub_title": "Hematological abnormalities",
+                "counts": "3"
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "event_list": [
+            {
+              "sub_title": "Fatigue",
+              "counts": "6"
+            },
+            {
+              "sub_title": "Nausea",
+              "counts": "5"
+            },
+            {
+              "sub_title": "Rash",
+              "counts": "7"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

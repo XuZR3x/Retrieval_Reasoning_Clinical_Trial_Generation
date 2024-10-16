@@ -1,0 +1,276 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04256789"
+    },
+    "id_info": {
+      "org_study_id": "251897415",
+      "nct_id": "NCT04256789"
+    },
+    "brief_title": "The Impact of Exenatide on Cardiovascular Parameters in Overweight Patients with Type 2 Diabetes Mellitus: A Randomized Control Trial",
+    "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Effects of Exenatide on Cardiovascular Outcomes in Overweight Patients with Type 2 Diabetes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Pharmaceuticals Inc.",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Pharmaceuticals Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the impact of exenatide administration on cardiovascular parameters such as heart rate variability, blood pressure, and lipid profiles among overweight patients diagnosed with Type 2 Diabetes Mellitus. The hypothesis was that exenatide would lead to significant improvements in these cardiovascular metrics compared to placebo."
+    },
+    "detailed_description": {
+      "textblock": "The trial was designed as a multicenter study involving 15 clinical sites across North America. Eligible participants were to be randomly assigned to receive either exenatide (10 mcg BID) or placebo for a duration of 24 weeks. The primary endpoints included changes in mean 24-hour heart rate and blood pressure metrics, alongside secondary measures of lipid metabolism. Given prior trends, it was also crucial to assess any gastrointestinal side effects potentially linked to exenatide treatment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Termination due to inadequate patient recruitment and high dropout rates attributed to adverse events.",
+    "start_date": "January 2020",
+    "completion_date": "June 2021",
+    "primary_completion_date": "March 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Mean 24-hour Heart Rate from Baseline to Endpoint",
+      "time_frame": "24 weeks",
+      "description": "Measured through continuous Holter monitoring, with the intent to assess modulation of heart rate variability."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Daytime Systolic Blood Pressure",
+        "time_frame": "24 weeks",
+        "description": "Systolic blood pressure measured through an ambulatory blood pressure monitor."
+      },
+      {
+        "measure": "Change in Cardiovascular Risk Factors (LDL, HDL, Triglycerides)",
+        "time_frame": "24 weeks",
+        "description": "Changes measured by standard lipid profile tests at baseline and endpoint."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "24 weeks",
+        "description": "Quantification of AEs reported during the trial period, monitored via regular clinical assessments."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "36",
+    "condition": "Type 2 Diabetes Mellitus",
+    "arm_group": [
+      {
+        "arm_group_label": "Exenatide Treatment Arm",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 10 mcg of exenatide subcutaneously twice daily."
+      },
+      {
+        "arm_group_label": "Placebo-Controlled Arm",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo injections equivalent in volume to the exenatide treatment."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "exenatide",
+        "description": "Subcutaneous injection, administered as 10 mcg BID.",
+        "arm_group_label": "Exenatide Treatment Arm",
+        "other_name": ["Byetta", "AC2993"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Subcutaneous injection, volume equivalent to active injection.",
+        "arm_group_label": "Placebo-Controlled Arm"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 18 to 75 years.\r\n- Diagnosed with Type 2 Diabetes Mellitus and treated with stable doses of metformin.\r\n- BMI between 27 kg/m^2 and 35 kg/m^2.\r\n- HbA1c levels between 7.0% and 10.0%.\r\n\r\nExclusion Criteria:\r\n\r\n- Previous treatment with exenatide or other GLP-1 analogs.\r\n- Significant cardiovascular disease within the past 6 months.\r\n- History of severe gastrointestinal disorders.\r\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John Doe, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Global Pharmaceuticals Inc."
+      },
+      {
+        "last_name": "Jane Smith, PhD",
+        "role": "Study Coordinator",
+        "affiliation": "Cardiovascular Research Institute"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Heart Center Research Facility",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Diabetes and Endocrinology Clinic",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "June 2023",
+    "study_first_submitted": "October 10, 2019",
+    "study_first_submitted_qc": "October 15, 2019",
+    "study_first_posted": "October 20, 2019",
+    "results_first_submitted": "July 30, 2021",
+    "results_first_posted": "August 5, 2021",
+    "last_update_submitted": "June 18, 2023",
+    "last_update_posted": "July 25, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Type 2 Diabetes",
+      "Exenatide",
+      "Cardiovascular Health",
+      "Heart Rate Variability",
+      "Diabetes Management"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Exenatide"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Exenatide Treatment Arm",
+              "description": "Participants received 10 mcg exenatide subcutaneously twice daily."
+            },
+            {
+              "title": "Placebo-Controlled Arm",
+              "description": "Participants received placebo injections equivalent in volume to the exenatide treatment."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [36]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [36]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Exenatide Treatment Arm",
+              "description": "Participants received 10 mcg of exenatide subcutaneously twice daily."
+            },
+            {
+              "title": "Placebo-Controlled Arm",
+              "description": "Participants received placebo injections equivalent in volume to the exenatide treatment."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [5, 1]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "3",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [10, 2]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [6, 1]
+                    },
+                    {
+                      "sub_title": "Vomiting",
+                      "counts": [3, 0]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

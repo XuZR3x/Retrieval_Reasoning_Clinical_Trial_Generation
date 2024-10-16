@@ -1,0 +1,191 @@
+```json
+{
+   "clinical_study": {
+      "required_header": {
+         "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+         "link_text": "Link to the current ClinicalTrials.gov record.",
+         "url": "https://clinicaltrials.gov/ct2/show/NCT04598765"
+      },
+      "id_info": {
+         "org_study_id": "NCI-2020-00300",
+         "nct_id": "NCT04598765"
+      },
+      "brief_title": "Entinostat Combined With Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer",
+      "official_title": "Phase II Study Evaluating the Efficacy of Entinostat in Combination With Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer",
+      "sponsors": {
+         "lead_sponsor": {
+            "agency": "National Cancer Institute (NCI)",
+            "agency_class": "NIH"
+         }
+      },
+      "source": "National Cancer Institute (NCI)",
+      "brief_summary": {
+         "textblock": "This phase II trial is designed to investigate the efficacy of entinostat when administered alongside pembrolizumab in patients diagnosed with advanced non-small cell lung cancer (NSCLC). The study seeks to measure the tumor response rates and assess overall survival improvements related to this combination therapy."
+      },
+      "detailed_description": {
+         "textblock": "PRIMARY OBJECTIVES:\n\nI. To determine the overall response rate (ORR) to the combination of entinostat and pembrolizumab in participants with advanced NSCLC.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate progression-free survival (PFS) among treated participants.\n\nII. To assess the safety profile and tolerability of entinostat when combined with pembrolizumab.\n\nIII. To analyze changes in molecular biomarkers, including PD-L1 expression and histone modifications, in pre- and post-treatment tumor tissue.\n\nOUTLINE: This multicenter, non-randomized study includes participants receiving entinostat orally on days 1 and 8 and pembrolizumab intravenously every 21 days until disease progression or intolerable toxicity.\n\nUpon conclusion of treatment, participants will be followed for survival status, with clinical evaluations conducted every three months for up to five years."
+      },
+      "overall_status": "Terminated",
+      "start_date": "December 2020",
+      "completion_date": "September 2023",
+      "primary_completion_date": "March 2023",
+      "phase": "Phase 2",
+      "study_type": "Interventional",
+      "has_expanded_access": "No",
+      "study_design_info": {
+         "allocation": "N/A",
+         "intervention_model": "Single Group Assignment",
+         "primary_purpose": "Treatment",
+         "masking": "None (Open Label)"
+      },
+      "primary_outcome": {
+         "measure": "Overall Response Rate (ORR)",
+         "time_frame": "At 6 months evaluation",
+         "description": "The ORR is determined based on the proportion of participants demonstrating a confirmed complete or partial response per RECIST v1.1 criteria."
+      },
+      "secondary_outcome": {
+         "measure": "Progression-Free Survival (PFS)",
+         "time_frame": "From the start of treatment until documented disease progression or death (assessed over a timeframe of up to 3 years).",
+         "description": "PFS is defined as the time from commencement of treatment to the earliest point of observed disease progression."
+      },
+      "number_of_arms": "1",
+      "enrollment": "35",
+      "condition": ["Non-Small Cell Lung Cancer", "Stage IV Lung Cancer"],
+      "arm_group": {
+         "arm_group_label": "Experimental Treatment (Entinostat and Pembrolizumab)",
+         "arm_group_type": "Experimental",
+         "description": "Patients receive oral entinostat on days 1 and 8, combined with intravenous pembrolizumab every 3 weeks. Treatment continues until the time of disease progression or the emergence of intolerable side effects."
+      },
+      "intervention": [
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "entinostat",
+            "description": "Administered orally on days 1 and 8.",
+            "arm_group_label": "Experimental Treatment (Entinostat and Pembrolizumab)",
+            "other_name": ["SNDX-275", "HDAC inhibitor"]
+         },
+         {
+            "intervention_type": "Drug",
+            "intervention_name": "pembrolizumab",
+            "description": "Administered intravenously every 21 days.",
+            "arm_group_label": "Experimental Treatment (Entinostat and Pembrolizumab)"
+         }
+      ],
+      "eligibility": {
+         "criteria": {
+            "textblock": "Inclusion Criteria:\n\n- Patients must have histologically or cytologically confirmed stage IV NSCLC.\n- At least one measurable lesion per RECIST 1.1 criteria.\n- Previous systemic therapy permitted, provided it has been completed at least 4 weeks prior.\n- ECOG performance status 0-1.\n\nExclusion Criteria:\n\n- Active autoimmune disease requiring systemic treatment.\n- Prior treatment with a histone deacetylase inhibitor or PD-1/PD-L1 monoclonal antibody.\n- Brain metastases not stable for at least 3 months.\n- Uncontrolled intercurrent illness, including ongoing infections or psychiatric conditions affecting compliance."
+         },
+         "gender": "All",
+         "minimum_age": "18 Years",
+         "maximum_age": "N/A",
+         "healthy_volunteers": "No"
+      },
+      "overall_official": {
+         "last_name": "Michael Tran",
+         "role": "Principal Investigator",
+         "affiliation": "National Cancer Institute"
+      },
+      "location": [{
+         "facility": {
+            "name": "National Cancer Institute",
+            "address": {
+               "city": "Bethesda",
+               "state": "Maryland",
+               "zip": "20892",
+               "country": "United States"
+            }
+         }
+      }],
+      "location_countries": {
+         "country": "United States"
+      },
+      "verification_date": "June 2023",
+      "study_first_submitted": "October 15, 2020",
+      "study_first_submitted_qc": "October 20, 2020",
+      "study_first_posted": "October 25, 2020",
+      "results_first_submitted": "March 30, 2023",
+      "results_first_posted": "April 10, 2023",
+      "last_update_submitted": "June 30, 2023",
+      "last_update_posted": "July 1, 2023",
+      "responsible_party": {
+         "responsible_party_type": "Sponsor"
+      },
+      "condition_browse": {
+         "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+      },
+      "intervention_browse": {
+         "mesh_term": ["Entinostat", "Pembrolizumab", "Histone Deacetylase Inhibitors"]
+      },
+      "clinical_results": {
+         "participant_flow": {
+            "recruitment_details": "This study enrolled 35 participants but faced substantial challenges with patient turnout, leading to a premature termination.",
+            "pre_assignment_details": "Eligible patients consented to participation prior to treatment commencement but only a fraction completed the planned treatment."
+         },
+         "reported_events": {
+            "desc": "Participants encountered various adverse events, including serious reactions such as pneumonitis and elevated liver enzymes that necessitated careful monitoring.",
+            "group_list": {
+               "group": {
+                  "title": "Experimental Treatment (Entinostat and Pembrolizumab)",
+                  "description": "This cohort experienced considerable dropout rates, primarily due to adverse effects and the difficulties inherent in patient compliance."
+               }
+            }
+         },
+         "serious_events": {
+            "total": {
+               "event_list": {
+                  "event": {
+                     "sub_title": "Total, serious adverse events",
+                     "counts": "10"
+                  }
+               }
+            },
+            "blood_and_lymphatic_system_disorders": {
+               "event_list": {
+                  "event": {
+                     "sub_title": "Anemia",
+                     "counts": "4"
+                  }
+               }
+            },
+            "gastrointestinal_disorders": {
+               "event_list": {
+                  "event": {
+                     "sub_title": "Nausea",
+                     "counts": "6"
+                  }
+               }
+            },
+            "general_disorders": {
+               "event_list": {
+                  "event": {
+                     "sub_title": "Fatigue",
+                     "counts": "8"
+                  }
+               }
+            }
+         },
+         "other_events": {
+            "category": {
+               "total": {
+                  "event_list": {
+                     "event": {
+                        "sub_title": "Total, other adverse events",
+                        "counts": "18"
+                     }
+                  }
+               }
+            }
+         }
+      },
+      "certain_agreements": {
+         "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+         "restrictive_agreement": "The study results are subject to a publication agreement restricting dissemination without prior sponsor approval."
+      },
+      "point_of_contact": {
+         "name_or_title": "Dr. Jessica Moore, MD, Study Coordinator",
+         "organization": "National Cancer Institute",
+         "email": "jmoore@nci.nih.gov"
+      }
+   }
+}
+```

@@ -1,0 +1,187 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03485127"
+    },
+    "id_info": {
+      "org_study_id": "AV-951-SAFETY-001",
+      "nct_id": "NCT03485127"
+    },
+    "brief_title": "Phase 2 Study of Tivozanib in Combination with Pembrolizumab in Patients with Metastatic Non-Small Cell Lung Cancer",
+    "official_title": "A Phase 2, Open-Label, Multi-Center Study to Evaluate the Safety and Efficacy of Tivozanib Combined with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AVEO Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Merck & Co., Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AVEO Pharmaceuticals, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the safety, tolerability, and preliminary efficacy of tivozanib combined with pembrolizumab in patients with metastatic non-small cell lung cancer (NSCLC) who have previously received at least one line of therapy. The combination aims to enhance anti-tumor response by leveraging tivozanib's selective inhibition of VEGFRs alongside pembrolizumab's PD-1 blockade."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To determine the safety and tolerability of tivozanib in combination with pembrolizumab in patients with metastatic NSCLC.\n\nSECONDARY OBJECTIVES:\n\nI. To evaluate the overall response rate (ORR) and progression-free survival (PFS) of the combination therapy in this patient population.\n\nII. To assess the pharmacodynamic effects of tivozanib on biomarkers related to VEGF signaling and immune modulation.\n\nOUTLINE:\n\nParticipants will receive tivozanib orally once daily for 21 days in a 28-day cycle, alongside pembrolizumab administered intravenously at a fixed dose every three weeks, continuing until disease progression or unacceptable toxicity occurs. After completing the study treatment, participants will be followed up every 3 months for 2 years."
+    },
+    "overall_status": "Completed",
+    "start_date": "September 5, 2018",
+    "completion_date": "December 30, 2021",
+    "primary_completion_date": "October 15, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Dose-Limiting Toxicities (DLTs) in the first 28-day treatment cycle",
+      "time_frame": "During the first cycle of treatment starting from the first dose until 28 days",
+      "description": "DLTs will be defined as any adverse event that is grade 3 or higher according to NCI CTCAE version 5.0 and attributed to the study intervention."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR) as assessed by RECIST 1.1 criteria",
+        "time_frame": "Assessed at the end of every 2 cycles of treatment (approximately every 8 weeks) up to 12 months",
+        "description": "ORR will be calculated as the percentage of participants exhibiting a complete response (CR) or partial response (PR) based on imaging studies."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months from the initiation of treatment",
+        "description": "PFS will be defined as the time from the date of treatment initiation to the date of disease progression or death from any cause."
+      },
+      {
+        "measure": "Evaluation of biomarker changes in circulating immune cells and VEGF markers",
+        "time_frame": "Baseline, prior to each cycle of treatment, and at treatment discontinuation",
+        "description": "Blood samples will be collected to analyze the correlation between treatment response and changes in biomarkers related to immune activation and VEGF signaling."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": [
+      "Non-Small Cell Lung Cancer",
+      "Stage IV Non-Small Cell Lung Cancer"
+    ],
+    "arm_group": {
+      "arm_group_label": "Treatment (Tivozanib and Pembrolizumab)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive tivozanib orally and pembrolizumab intravenously in combination for the study."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tivozanib",
+        "description": "Tivozanib (1.5 mg) administered orally once daily for 21 days followed by a 7-day rest period.",
+        "arm_group_label": "Treatment (Tivozanib and Pembrolizumab)",
+        "other_name": "AV-951"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Pembrolizumab (200 mg) administered intravenously every 3 weeks.",
+        "arm_group_label": "Treatment (Tivozanib and Pembrolizumab)",
+        "other_name": "Keytruda"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients must be ≥18 years of age with histologically confirmed metastatic NSCLC.\n- Must have received at least one line of systemic therapy.\n- Measurable disease as defined by RECIST 1.1.\n- ECOG performance status of 0-1.\n- Adequate organ function, including renal, hepatic, and hematological parameters.\n- Provide written informed consent.\n\nExclusion Criteria:\n\n- Previously treated with tivozanib or pembrolizumab.\n- Active autoimmune disease or systemic immunosuppressive therapy.\n- Symptomatic brain metastases or other uncontrolled conditions.\n- History of significant cardiovascular events within the past 6 months.\n- Participation in another clinical trial involving investigational agents within 30 days prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jonathan K. Harder, MD",
+      "role": "Principal Investigator",
+      "affiliation": "AVEO Pharmaceuticals, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cleveland Clinic Taussig Cancer Institute",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Massachusetts General Hospital",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02114",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "March 19, 2018",
+    "study_first_submitted_qc": "March 19, 2018",
+    "study_first_posted": "March 23, 2018",
+    "results_first_submitted": "February 10, 2022",
+    "results_first_submitted_qc": "February 10, 2022",
+    "results_first_posted": "February 28, 2022",
+    "last_update_submitted": "December 5, 2023",
+    "last_update_submitted_qc": "December 5, 2023",
+    "last_update_posted": "December 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "AVEO Pharmaceuticals, Inc.",
+      "investigator_full_name": "Jonathan K. Harder",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Non-Small Cell Lung Cancer",
+      "Tivozanib",
+      "Pembrolizumab",
+      "Phase 2",
+      "VEGFR Inhibition"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Lung Neoplasms",
+        "Carcinoma, Non-Small-Cell Lung"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Tyrosine Kinase Inhibitors",
+        "Nivolumab",
+        "Tivozanib"
+      ]
+    }
+  }
+}
+```

@@ -1,0 +1,193 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02711480"
+    },
+    "id_info": {
+      "org_study_id": "DOVI001",
+      "nct_id": "NCT02711480"
+    },
+    "brief_title": "Evaluation of Dovitinib in Patients With Advanced Solid Tumors",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Dovitinib (TKI258) in Patients With Advanced Solid Tumors, Focusing on Pharmacodynamic Biomarkers and Tumor Response",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Research Group",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Research Center",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II clinical trial investigates the therapeutic impact of dovitinib on patients diagnosed with advanced solid tumors. The multi-center trial aims to assess the drug's efficacy in inhibiting growth signaling pathways critical in tumor development."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\n1. To evaluate the overall response rate (ORR) to dovitinib in patients with advanced solid tumors, targeting the inhibition of VEGF and PDGF pathways.\n\n2. To assess progression-free survival (PFS) after 6 months of treatment.\n\nSECONDARY OBJECTIVES:\n\n1. To analyze the safety profile of dovitinib, recording adverse events using the Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0.\n\n2. To study pharmacokinetic parameters including maximum plasma concentration (Cmax) and area under the concentration-time curve (AUC) to correlate with therapeutic outcomes.\n\n3. To identify potential biomarkers associated with treatment response and tolerance.\n\nOUTLINE:\n\nPatients receive oral dovitinib dosed at 500 mg per day over a 5-day treatment cycle, followed by 2 days of rest. Treatment cycles repeat every 7 days for a maximum of 1 year, unless disease progression or unacceptable toxicity occurs. After treatment discontinuation, patients are followed for an additional 30 days."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2016",
+    "completion_date": "January 15, 2019",
+    "primary_completion_date": "October 30, 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Every 6 weeks until disease progression or treatment cessation (up to 12 months)",
+        "description": "The percentage of patients exhibiting complete (CR) or partial response (PR) assessed via RECIST 1.1 criteria."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the time of first dose until disease progression or death (up to 12 months)",
+        "description": "Measured from the date of randomization to that of objective tumor progression or death, reflecting treatment efficacy."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Adverse Events Recorded",
+        "time_frame": "Until 30 days after the last dose",
+        "description": "Frequency and severity of adverse events graded according to CTCAE Version 5.0."
+      },
+      {
+        "measure": "Pharmacokinetic Parameters: Cmax and AUC",
+        "time_frame": "Week 4 (or Cycle 2), post-first dose, and Cycle 3 for further evaluations.",
+        "description": "To correlate drug exposure with treatment response and side effects."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "75",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": [{
+        "arm_group_label": "Dovitinib Treatment Arm",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive 500 mg of dovitinib by mouth once daily for 5 consecutive days, followed by a 2-day rest each week."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "dovitinib",
+        "description": "500 mg oral dosing, 5 days on/2 days off schedule.",
+        "arm_group_label": "Dovitinib Treatment Arm",
+        "other_name": ["TKI258"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Age: 18 years or older.\n- Histologically or cytologically confirmed diagnosis of advanced solid tumors.\n- At least one measurable target lesion according to RECIST 1.1.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1.\n- Adequate hematologic, hepatic, and renal function.\n\nExclusion Criteria:\n\n- Previous systemic therapy for current malignancy.\n- Evidence of significant comorbid conditions including cardiac pathology.\n- Pregnant or nursing females.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Thomas Chen",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Oncology Research Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2019",
+    "study_first_submitted": "February 1, 2016",
+    "study_first_posted": "February 5, 2016",
+    "results_first_submitted": "November 10, 2018",
+    "results_first_posted": "December 15, 2018",
+    "last_update_posted": "January 31, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_full_name": "Dr. Thomas Chen",
+      "investigator_title": "Principal Investigator"
+    },
+    "condition_browse": {
+      "mesh_term": ["Solid Tumors", "Carcinoma", "Neoplasms"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+              "title": "Dovitinib Treatment Arm",
+              "description": "All enrolled patients received dovitinib 500 mg daily in an open-label protocol."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [75]
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [75]
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [0]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "Proportion of patients demonstrating CR and PR.",
+            "time_frame": "Every 6 weeks until disease progression or treatment cessation.",
+            "group_list": {
+              "group": [{
+                  "title": "Dovitinib Treatment Arm",
+                  "description": "Dovitinib administered orally."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "Time from study entry until tumor progression.",
+            "time_frame": "Calculated until disease progression or censoring.",
+            "group_list": {
+              "group": [{
+                  "title": "Dovitinib Treatment Arm",
+                  "description": "Dovitinib administered orally."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

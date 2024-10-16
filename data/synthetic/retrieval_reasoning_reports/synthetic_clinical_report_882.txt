@@ -1,0 +1,442 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01516787"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2011-04572",
+      "secondary_id": [
+        "N1A-042",
+        "CDR0000724508",
+        "U10CA021202"
+      ],
+      "nct_id": "NCT01516787"
+    },
+    "brief_title": "Vorinostat in Combination With Cisplatin for Treating Patients With Refractory Solid Tumors",
+    "official_title": "A Phase II Study of Vorinostat in Combination With Cisplatin in Patients With Refractory Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II trial investigates the efficacy and tolerability of vorinostat combined with cisplatin in patients with refractory solid tumors. Vorinostat, an HDAC inhibitor, aims to enhance the chemotherapeutic effect of cisplatin by altering tumor cell survival mechanisms."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVE:\n\nI. To evaluate the objective response rate of vorinostat when administered with cisplatin in patients with refractory solid tumors.\n\nSECONDARY OBJECTIVES:\n\nI. To assess progression-free survival (PFS) and overall survival (OS) rates in treated patients.\nII. To characterize the safety profile and toxicity of the vorinostat and cisplatin combination.\nIII. To explore potential pharmacokinetic interactions between vorinostat and cisplatin when co-administered.\n\nOUTLINE: This is a multicenter, open-label study.\n\nPatients receive oral vorinostat daily on days 1-21 in combination with intravenous cisplatin on day 10 of a 28-day cycle. Treatment continues for up to six cycles or until disease progression or intolerable toxicity occurs.\n\nAfter completion of study therapy, patients are followed for 3 years."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate efficacy and adverse toxicity profile leading to trial cessation.",
+    "start_date": "March 2012",
+    "completion_date": "March 2015",
+    "primary_completion_date": "March 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR) as Assessed by RECIST 1.1",
+      "time_frame": "Up to 4 years",
+      "description": "The objective response rate is defined as the proportion of patients with a confirmed complete or partial response according to the RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Up to 4 years",
+        "description": "Measured from the start of treatment until disease progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival",
+        "time_frame": "Up to 4 years",
+        "description": "Time from study enrollment to death from any cause."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Up to 4 years",
+        "description": "Adverse events will be recorded and graded according to the Common Terminology Criteria for Adverse Events (CTCAE), version 4.0."
+      },
+      {
+        "measure": "Pharmacokinetic Analysis of Vorinostat and Cisplatin",
+        "time_frame": "Cycle 1, Day 1 and Day 10",
+        "description": "Pharmacokinetic parameters will be analyzed to determine potential interactions."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": [
+      "Advanced Solid Tumors",
+      "Refractory Solid Tumors"
+    ],
+    "arm_group": {
+      "arm_group_label": "Arm I (Vorinostat and Cisplatin)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive oral vorinostat daily and intravenous cisplatin according to the established regimen for up to six cycles."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "vorinostat",
+        "description": "Given orally once daily during the treatment cycle.",
+        "arm_group_label": "Arm I (Vorinostat and Cisplatin)",
+        "other_name": [
+          "SAHA",
+          "L-001079038",
+          "Zolinza"
+        ]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "cisplatin",
+        "description": "Administered intravenously on day 10 of the treatment cycle.",
+        "arm_group_label": "Arm I (Vorinostat and Cisplatin)",
+        "other_name": [
+          "Platinol",
+          "Cis-P"
+        ]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed advanced solid tumors with no curative treatment options.\n- Failure to respond to at least one prior chemotherapy.\n- Age >= 18 years.\n- Eastern Cooperative Oncology Group performance status (ECOG PS) 0-2.\n- Adequate organ function and laboratory parameters.\n- Informed consent to participate in the study.\n\nExclusion Criteria:\n\n- Prior treatment with vorinostat.\n- Uncontrolled intercurrent illness.\n- Active CNS or other malignant diseases.\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Patricia Speiser",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Health"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Duke University Medical Center",
+          "address": {
+            "city": "Durham",
+            "state": "North Carolina",
+            "zip": "27710",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "January 20, 2012",
+    "study_first_submitted_qc": "January 20, 2012",
+    "study_first_posted": "January 24, 2012",
+    "last_update_submitted": "April 14, 2023",
+    "last_update_submitted_qc": "April 14, 2023",
+    "last_update_posted": "April 16, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma",
+        "Solid Tumors",
+        "Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Vorinostat",
+        "Cisplatin"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Arm I (Vorinostat and Cisplatin)",
+            "description": "Patients received vorinostat orally and cisplatin intravenously for up to six cycles."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Arm I (Vorinostat and Cisplatin)",
+              "description": "Patients received vorinostat orally and cisplatin intravenously for up to six cycles."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Full Range",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Region of Enrollment",
+                "units": "participants",
+                "param": "Number",
+                "class_list": {
+                  "class": {
+                    "title": "United States",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Objective Response Rate (ORR)",
+              "description": "Measured as the proportion of patients with a confirmed complete or partial response according to RECIST criteria.",
+              "time_frame": "Up to 4 years",
+              "population": "Patients that started treatment.",
+              "group_list": {
+                "group": {
+                  "title": "Arm I (Vorinostat and Cisplatin)",
+                  "description": "Patients received vorinostat orally and cisplatin intravenously for up to six cycles."
+                }
+              },
+              "measure": {
+                "title": "Objective Response Rate (ORR)",
+                "description": "Measured as the proportion of patients with a confirmed complete or partial response according to RECIST criteria.",
+                "units": "percentage of patients",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "Measured from start of treatment to disease progression.",
+              "time_frame": "Up to 4 years",
+              "population": "Patients that started treatment.",
+              "group_list": {
+                "group": {
+                  "title": "Arm I (Vorinostat and Cisplatin)",
+                  "description": "Patients received vorinostat orally and cisplatin intravenously for up to six cycles."
+                }
+              },
+              "measure": {
+                "title": "Progression-Free Survival (PFS)",
+                "description": "Measured from start of treatment to disease progression.",
+                "units": "months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "group_list": {
+            "group": {
+              "title": "Arm I (Vorinostat and Cisplatin)",
+              "description": "Patients received vorinostat orally and cisplatin intravenously for up to six cycles."
+            }
+          },
+          "serious_events": {
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Nausea",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Hematologic disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Thrombocytopenia",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Neurological disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Peripheral neuropathy",
+                      "counts": null
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": null
+                    }
+                  }
+                },
+                {
+                  "title": "Fatigue",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Generalized fatigue",
+                      "counts": null
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days."
+        },
+        "point_of_contact": {
+          "name_or_title": "Dr. Mark Deluca",
+          "organization": "National Cancer Institute",
+          "phone": "301-496-2648",
+          "email": "mark.deluca@nih.gov"
+        }
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,232 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03567890"
+    },
+    "id_info": {
+      "org_study_id": "TRAB-ONC-091",
+      "secondary_id": ["NCT03567890", "TRABOVC-910", "NCI-TRB001"],
+      "nct_id": "NCT03567890"
+    },
+    "brief_title": "Efficacy of Trabectedin in Combination with Carboplatin and Paclitaxel in Patients with Recurrent Ovarian Cancer",
+    "official_title": "A Phase II Randomized Study of Trabectedin with Carboplatin and Paclitaxel Versus Carboplatin and Paclitaxel Alone in Subjects with Recurrent Ovarian Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "OncoPharma Inc.",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "OncoPharma Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to evaluate the efficacy and safety of trabectedin in combination with carboplatin and paclitaxel in patients diagnosed with recurrent ovarian cancer previously treated with one line of chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "This randomized, open-label, multi-center Phase II study aims to assess the therapeutic efficacy of trabectedin in combination with carboplatin and paclitaxel compared to carboplatin plus paclitaxel alone in subjects with recurrent ovarian cancer. Patients were stratified based on previous treatment responses and tumor characteristics. An estimated enrollment of 150 patients was targeted to ensure statistical significance. Patients in the experimental arm (Arm A) received trabectedin intravenously on day 1, followed by carboplatin and paclitaxel on days 1 and 8 in each 21-day cycle. Arm B received carboplatin and paclitaxel alone following the same schedule. The study aimed to determine overall response rate, progression-free survival, and safety profiles over a 2-year period."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to insufficient patient enrollment and high rates of adverse events associated with trabectedin.",
+    "start_date": "June 2018",
+    "completion_date": "September 2019",
+    "primary_completion_date": "April 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Up to 2 years",
+      "description": "The proportion of patients achieving either a complete response (CR) or partial response (PR) as assessed by the RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years",
+        "description": "Time from the start of treatment until the date of disease progression or death from any cause."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Up to 2 years",
+        "description": "Characterization of adverse events associated with treatment, including hematological toxicities and other serious adverse events."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "43",
+    "condition": ["Ovarian Neoplasms"],
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Trabectedin + Carboplatin + Paclitaxel",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive trabectedin 1.1 mg/m² IV on day 1, followed by carboplatin and paclitaxel on days 1 and 8 of a 21-day cycle."
+      },
+      {
+        "arm_group_label": "Arm B: Carboplatin + Paclitaxel",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive carboplatin and paclitaxel on days 1 and 8 of a 21-day cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Trabectedin",
+        "description": "Administered IV on day 1 of each cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Administered IV on days 1 and 8 of each cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Administered IV on days 1 and 8 of each cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed recurrent ovarian cancer previously treated with one line of chemotherapy.\n- Measurable disease per RECIST criteria.\n- Age ≥ 18 years, with an ECOG performance status of 0-1.\n- Adequate organ function.\n\nExclusion Criteria:\n- Prior treatment with trabectedin or hypersensitivity to its components.\n- Serious medical conditions preventing participation.\n- Concurrent malignancies except non-melanoma skin cancers."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah L. Mendez, MD",
+      "role": "Principal Investigator",
+      "affiliation": "OncoPharma Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital Cancer Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Hill Top Medical Center",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94101",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "May 15, 2018",
+    "study_first_submitted_qc": "May 16, 2018",
+    "study_first_posted": "May 20, 2018",
+    "results_first_submitted": "September 15, 2019",
+    "results_first_submitted_qc": "September 15, 2019",
+    "results_first_posted": "October 1, 2019",
+    "last_update_submitted": "March 28, 2020",
+    "last_update_submitted_qc": "March 28, 2020",
+    "last_update_posted": "April 1, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Ovarian cancer",
+      "Recurrent Ovarian Cancer",
+      "Trabectedin",
+      "Carboplatin",
+      "Paclitaxel",
+      "Combination therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Neoplasms",
+        "Ovarian Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Trabectedin",
+        "Carboplatin",
+        "Paclitaxel"
+      ]
+    },
+    "reported_events": {
+      "time_frame": "Up to 2 years",
+      "desc": "Major adverse events included a high incidence of serious hematological toxicities, such as severe neutropenia and thrombocytopenia leading to treatment discontinuation."
+    },
+    "serious_events": {
+      "category_list": {
+        "category": [
+          {
+            "title": "Blood and lymphatic system disorders",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Neutropenia",
+                  "counts": [15, 8]
+                },
+                {
+                  "sub_title": "Thrombocytopenia",
+                  "counts": [12, 6]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Infections and infestations",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Febrile Neutropenia",
+                  "counts": [5, 3]
+                },
+                {
+                  "sub_title": "Sepsis",
+                  "counts": [2, 1]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "other_events": {
+      "frequency_threshold": "2",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total, other adverse events",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, all-cause adverse events",
+                "counts": [30, 15]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

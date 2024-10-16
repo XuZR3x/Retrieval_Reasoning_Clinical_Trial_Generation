@@ -1,0 +1,171 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01987654"
+    },
+    "id_info": {
+      "org_study_id": "PMT-2020",
+      "nct_id": "NCT01987654"
+    },
+    "brief_title": "Efficacy of Pemetrexed in Combination with Platinum-based Therapy for Previously Untreated Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "Phase II Trial Evaluating the Efficacy and Safety of Pemetrexed Plus Cisplatin in Patients with Previously Untreated Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Networks",
+        "agency_class": "Non-Profit"
+      },
+      "collaborator": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Oncology Networks",
+    "brief_summary": {
+      "textblock": "This study aims to assess the effectiveness and tolerability of pemetrexed in combination with cisplatin as a first-line treatment option for patients diagnosed with advanced non-small cell lung cancer (NSCLC). The study will incorporate comprehensive supportive care measures, including vitamin supplementation, to mitigate adverse effects and enhance treatment outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 2014",
+    "completion_date": "December 2018",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate",
+      "time_frame": "From the initiation of treatment until death from any cause, assessed over a period of up to 24 months",
+      "description": "The primary endpoint is to determine the overall survival rate in patients treated with pemetrexed combined with cisplatin compared to historic controls treated with cisplatin alone."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from the first dose until the date of disease progression or death, assessed up to 24 months",
+        "description": "PFS will be determined as the time from the initial treatment until imaging showing disease progression, using RECIST criteria."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "Evaluated at 6 and 12 months after treatment initiation",
+        "description": "The objective response rate will be evaluated according to modified RECIST criteria, focusing on confirmed complete and partial responses."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Adverse events tracked every treatment cycle and reported up to 30 days post-treatment",
+        "description": "The safety profile will be determined through tracking the incidence of grade 3 and 4 toxicities, assessed via NCI-CTCAE version 4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Non Small Cell Lung Carcinoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A",
+        "arm_group_type": "Experimental",
+        "description": "Pemetrexed plus Cisplatin: Pemetrexed administered at 500 mg/m2 IV every 21 days alongside Cisplatin at AUC 5, with vitamin B12 and folic acid supplementation."
+      },
+      {
+        "arm_group_label": "Arm B",
+        "arm_group_type": "Active Comparator",
+        "description": "Cisplatin alone: Cisplatin administered at AUC 5 IV every 21 days without pemetrexed."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "500 mg/m2 as an intravenous (IV) infusion, administered once every 21 days, in combination with cisplatin",
+        "arm_group_label": "Arm A",
+        "other_name": "Alimta"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "AUC of 5 IV every 21 days for all patients in Arm A.",
+        "arm_group_label": "Arm A",
+        "other_name": "Platinol"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Diagnosed with advanced, non-squamous NSCLC (stage IIIB/IV). \r\n- Age ≥ 18 years, with an ECOG performance status of 0-2. \r\n- No prior chemotherapy for advanced NSCLC. \r\n- Measurable disease as per RECIST criteria. \r\n- Adequate organ function related to baseline parameters including CBC and liver enzymes.\r\n\r\nExclusion Criteria:\r\n- Presence of centrally located tumors impacting function. \r\n- Previous treatment with investigational agents. \r\n- Known hypersensitivity to pemetrexed or platinum compounds. \r\n- Uncontrolled chronic illnesses or pregnancy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jonathan A. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Oncology Networks"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Global Oncology Networks Headquarters",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "verification_date": "March 2019",
+    "study_first_submitted": "November 14, 2013",
+    "study_first_posted": "November 20, 2013",
+    "last_update_posted": "February 15, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Pemetrexed",
+      "Cisplatin",
+      "Non Small Cell Lung Cancer",
+      "Chemotherapy",
+      "Advanced NSCLC"
+    ],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Pemetrexed",
+        "Cisplatin"
+      ]
+    }
+  }
+}
+```

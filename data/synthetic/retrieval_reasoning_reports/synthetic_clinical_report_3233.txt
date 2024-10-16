@@ -1,0 +1,221 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02076543"
+    },
+    "id_info": {
+      "org_study_id": "54321",
+      "nct_id": "NCT02076543"
+    },
+    "brief_title": "Efficacy and Safety of Duloxetine in Adults with Major Depressive Disorder with a Focus on Recruitment and Retention Challenges",
+    "official_title": "A Randomized, Open-Label Study Evaluating Duloxetine for the Treatment of Major Depressive Disorder in Adults: Challenges in Recruitment and Retention",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Georgia",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study was to evaluate the efficacy and safety of duloxetine among adults diagnosed with major depressive disorder (MDD). Challenges related to recruitment within specific inclusion criteria were anticipated, coupled with the goal of assessing the response to treatment and the overall safety profile of duloxetine. The study would address potential recruitment barriers and examine their impact on clinical outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment due to stringent eligibility criteria and potential misalignment with the target population.",
+    "start_date": "March 2014",
+    "completion_date": "August 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "condition": "Major Depressive Disorder",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "duloxetine"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18-65 with a confirmed diagnosis of MDD.\n- Must have had a Hamilton Depression Rating Scale (HAMD17) score of greater than 18.\n- Able to attend follow-up visits at least every 2 weeks.\n\nExclusion Criteria:\n- History of bipolar disorder, psychotic disorders, or substance use disorders.\n- Current use of any antidepressant medication.\n- Uncontrolled medical conditions or contraindications to duloxetine."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [{
+        "facility": {
+          "address": {
+            "city": "Athens",
+            "state": "Georgia",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "Atlanta",
+            "state": "Georgia",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2016",
+    "study_first_submitted": "January 10, 2014",
+    "study_first_posted": "January 20, 2014",
+    "last_update_posted": "September 25, 2016",
+    "keyword": [
+      "Duloxetine",
+      "Major Depressive Disorder",
+      "Recruitment Challenges"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Depressive Disorder",
+        "Depressive Disorder, Major"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Duloxetine Hydrochloride"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Duloxetine",
+            "description": "Duloxetine administered at 60mg once daily for 12 weeks."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "20"
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "Only 5 participants completed 12 weeks of treatment."
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Adults diagnosed with major depressive disorder, primarily enrolled from outpatient facilities.",
+        "group_list": {
+          "group": {
+            "title": "Duloxetine",
+            "description": "Participants who received duloxetine started at a dose of 60mg daily."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [20]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "<=18 years",
+                        "measurement_list": {
+                          "measurement": "0"
+                        }
+                      },
+                      {
+                        "title": "Between 18 and 65 years",
+                        "measurement_list": {
+                          "measurement": "20"
+                        }
+                      },
+                      {
+                        "title": ">=65 years",
+                        "measurement_list": {
+                          "measurement": "0"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Duloxetine",
+            "description": "Participants experienced treatment-emergent adverse events leading to withdrawal."
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": "5"
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "category_list": {
+            "category": {
+              "title": "Total, other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": "15"
+                }
+              }
+            }
+          }
+        }
+      },
+      "limitations_and_caveats": "This study faced significant recruitment challenges leading to a total of only 20 enrolled participants, with final outcomes being affected by the small sample size and high rate of dropout due to treatment-emergent adverse events.",
+      "point_of_contact": {
+        "name_or_title": "Dr. John Doe, M.D.",
+        "organization": "University of Georgia Department of Psychiatry",
+        "phone": "555-1234",
+        "email": "jdoe@uga.edu"
+      }
+    }
+  }
+}
+```

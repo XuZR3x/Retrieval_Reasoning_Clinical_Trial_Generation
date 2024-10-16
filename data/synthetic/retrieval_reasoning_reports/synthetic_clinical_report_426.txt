@@ -1,0 +1,151 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03512345"
+    },
+    "id_info": {
+      "org_study_id": "BCD-3019-2018",
+      "nct_id": "NCT03512345"
+    },
+    "brief_title": "Clinical Efficacy of Bicalutamide in Combination with Hormonal Therapies in Advanced Prostate Cancer",
+    "acronym": "BACH",
+    "official_title": "A Phase II Randomized Study Evaluating the Efficacy and Safety of Bicalutamide with Novel Hormonal Therapies in Patients with Advanced Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "OncoResearch Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "OncoResearch Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study sought to assess the efficacy and safety of bicalutamide in combination with newer hormonal therapies in patients diagnosed with advanced prostate cancer. It aimed to improve clinical outcomes by leveraging bicalutamide's androgen receptor antagonist properties."
+    },
+    "detailed_description": {
+      "textblock": "Prostate cancer remains a heterogeneous disease, displaying varied responses to therapies based on tumor biology and androgen receptor expression levels. This phase II trial was designed to explore the efficacy of bicalutamide in conjunction with emerging hormonal agents, focusing on the need for superior therapeutic options. Despite preliminary laboratory evidence suggesting potential synergy, the trial was terminated due to failing to meet pre-defined efficacy endpoints within expected clinical timelines."
+    },
+    "overall_status": "Terminated",
+    "last_known_status": "Completed",
+    "start_date": "July 2018",
+    "completion_date": "December 2022",
+    "primary_completion_date": "October 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "28 weeks",
+      "description": "The primary endpoint defined as the rate of participants achieving a >50% decrease in PSA levels post-treatment, assessed using established criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Until disease progression or up to 2 years",
+        "description": "Time from initiation of treatment until confirmatory radiographic evidence of disease progression or clinical deterioration."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "12 months",
+        "description": "Defined as the proportion of participants exhibiting stable disease for 12 months or longer."
+      },
+      {
+        "measure": "Safety Reports",
+        "time_frame": "Up to 2 years",
+        "description": "Routine monitoring for adverse events using the CTCAE v5.0 classifications."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Prostate Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Bicalutamide + Novel Hormonal Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive bicalutamide 150 mg orally once daily in combination with newer hormonal therapy as per designated arm protocol."
+      },
+      {
+        "arm_group_label": "Bicalutamide + Placebo",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive bicalutamide 150 mg orally once daily plus placebo."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bicalutamide",
+        "description": "Administered at 150 mg orally once daily.",
+        "arm_group_label": ["Bicalutamide + Novel Hormonal Therapy", "Bicalutamide + Placebo"],
+        "other_name": ["Casodex", "ICI 176334"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Novel Hormonal Therapy",
+        "description": "Patients received investigational hormonal therapy as determined by randomization protocols.",
+        "arm_group_label": "Bicalutamide + Novel Hormonal Therapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered compounded placebo pill identical to new hormonal therapy, orally.",
+        "arm_group_label": "Bicalutamide + Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed diagnosis of prostate adenocarcinoma with advanced/metastatic disease.\r\n- PSA > 10 ng/mL at screening.\r\n- No prior treatment with bicalutamide, AR-targeted therapy, or chemotherapy.\r\n- ECOG performance status 0-2.\r\n- Age ≥ 18 years.\r\n- Signed informed consent form present.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior history of hypersensitivity or anaphylaxis to bicalutamide.\r\n- Significant cardiovascular disease, uncontrolled hypertension or diabetes.\r\n- Known brain metastases.\r\n- Concurrent malignancies (excluding local skin cancers).\r\n- Planned concurrent immunotherapy or any other cancer-related treatment."
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Amelia Jacobs, MD",
+      "role": "Principal Investigator",
+      "affiliation": "OncoResearch Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "OncoResearch Institute Clinical Trials Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02120",
+          "country": "United States"
+        }
+      },
+      "status": "Completed"
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "May 12, 2018",
+    "study_first_posted": "May 15, 2018",
+    "last_update_posted": "January 26, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "OncoResearch Institute",
+      "investigator_full_name": "Dr. Amelia Jacobs, MD"
+    },
+    "keyword": ["bicalutamide", "hormonal therapy", "prostate cancer", "advanced cancer", "androgen receptor"],
+    "condition_browse": {
+      "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bicalutamide", "Hormone Therapy"]
+    }
+  }
+}
+```

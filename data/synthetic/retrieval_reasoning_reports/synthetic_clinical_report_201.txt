@@ -1,0 +1,239 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03215678"
+    },
+    "id_info": {
+      "org_study_id": "LAQ-HD-202",
+      "secondary_id": "2017-006984-28",
+      "nct_id": "NCT03215678"
+    },
+    "brief_title": "Efficacy and Safety of Laquinimod in Participants With Huntington's Disease",
+    "acronym": "LHD Study",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Laquinimod in Patients With Huntington's Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Teva Branded Pharmaceutical Products R&D, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Teva Branded Pharmaceutical Products R&D, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study sought to assess the efficacy and safety of oral laquinimod in reducing motor symptoms and improving quality of life in patients diagnosed with Huntington's disease. The study was designed to have a primary placebo-controlled phase of 52 weeks, followed by an open-label extension."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 15, 2018",
+    "completion_date": "November 30, 2021",
+    "primary_completion_date": "November 30, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Unified Huntington's Disease Rating Scale Total Motor Score (UHDRS-TMS) After 52 Weeks",
+      "time_frame": "Baseline, Week 52",
+      "description": "The primary outcome measure was determined using the UHDRS-TMS, assessing all motor features of Huntington's disease on a scale from 0 (normal) to 124 (severely impaired). A reduced score indicates better motor function."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Brain Volume as Assessed by MRI",
+        "time_frame": "Baseline, Week 52",
+        "description": "Percentage change in brain volume measured via MRI, focusing on the caudate nucleus as a biomarker for disease progression."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "600",
+    "condition": "Huntington's Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received 3 capsules of placebo orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 0.5 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 1 capsule of laquinimod 0.5 mg and 2 capsules of placebo orally once daily for 52 weeks."
+      },
+      {
+        "arm_group_label": "Laquinimod 1.0 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 2 capsules of laquinimod 0.5 mg and 1 capsule of placebo orally once daily for 52 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Laquinimod",
+        "description": "Laquinimod will be administered as per the dose and schedule specified in the respective arms.",
+        "arm_group_label": ["Laquinimod 0.5 mg", "Laquinimod 1.0 mg"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo matching to laquinimod will be administered as specified in the arms.",
+        "arm_group_label": ["Placebo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Fixed diagnosis of Huntington's disease based on established clinical criteria.\n- Age: 21-55 years.\n- UHDRS-TMS of at least 10 at baseline.\n- Able to provide informed consent or have a legally authorized representative.\n\nExclusion Criteria:\n\n- Use of investigational drugs within 30 days of screening.\n- History of severe adverse reactions to laquinimod.\n- Concurrent medical conditions affecting study participation.\n- Any significant cognitive impairment that interferes with informed consent."
+      },
+      "gender": "All",
+      "minimum_age": "21 Years",
+      "maximum_age": "55 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Teva Medical Expert, M.D.",
+      "role": "Study Director",
+      "affiliation": "Teva Branded Pharmaceutical Products R&D, Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Teva Investigational Site 12566",
+          "address": {
+            "city": "La Jolla",
+            "state": "California",
+            "zip": "92037",
+            "country": "United States"
+          }
+        }
+      }
+      // Additional locations omitted for brevity.
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "Czechia", "Italy", "Spain", "United Kingdom"]
+    },
+    "verification_date": "December 2021",
+    "study_first_submitted": "March 10, 2018",
+    "study_first_posted": "March 15, 2018",
+    "results_first_submitted": "February 15, 2022",
+    "results_first_posted": "February 20, 2022",
+    "disposition_first_submitted": "December 30, 2022",
+    "last_update_submitted": "June 30, 2022",
+    "last_update_posted": "July 5, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Huntington Disease"]
+    },
+    "clinical_results": {
+      "reported_events": {
+        "time_frame": "Baseline to Week 56",
+        "desc": "Safety analysis included all participants who received at least 1 dose of study drug. A significant number of participants experienced adverse events leading to concerns about laquinimod's safety profile."
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 22.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": [25, 30, 35]
+                  },
+                  {
+                    "sub_title": "Total, all-cause mortality",
+                    "counts": [0, 0, 1]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Cardiac disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Acute myocardial infarction",
+                    "counts": [3, 2, 5]
+                  },
+                  {
+                    "sub_title": "Arrhythmia",
+                    "counts": [5, 6, 8]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Nervous system disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Severe headache",
+                    "counts": [10, 12, 15]
+                  },
+                  {
+                    "sub_title": "Seizure",
+                    "counts": [4, 5, 7]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Persistent nausea",
+                    "counts": [6, 3, 4]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA 22.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Infections",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Upper respiratory tract infection",
+                    "counts": [15, 20, 18]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Musculoskeletal disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Joint pain",
+                    "counts": [10, 15, 13]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

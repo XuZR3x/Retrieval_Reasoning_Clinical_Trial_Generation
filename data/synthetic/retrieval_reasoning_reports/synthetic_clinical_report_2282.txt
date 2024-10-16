@@ -1,0 +1,220 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "CD-4732",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Interferon Beta-1a in Patients with Moderate to Severe Psoriasis",
+    "official_title": "A Phase III Multicenter, Randomized, Double-blind, Placebo-controlled Trial to Assess the Efficacy and Safety of Interferon Beta-1a in Patients with Moderate to Severe Plaque Psoriasis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaCorp",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaCorp",
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of Efficacy and Poor Patient Recruitment",
+    "start_date": "January 2012",
+    "completion_date": "March 2015",
+    "primary_completion_date": "January 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of patients achieving 75% improvement from baseline in Psoriasis Area and Severity Index (PASI 75) at week 12.",
+      "time_frame": "12 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change from baseline in Quality of Life Index (DLQI) score at week 12.",
+        "time_frame": "12 weeks"
+      },
+      {
+        "measure": "Proportion of patients with adverse events throughout the treatment period.",
+        "time_frame": "Throughout study duration"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Psoriasis",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Interferon beta-1a",
+      "description": "Interferon beta-1a administered subcutaneously, once weekly"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n - Adults aged 18-65 years with a diagnosis of moderate to severe plaque psoriasis\n\nExclusion Criteria:\n\n - Any other systemic treatments for psoriasis within the last 3 months\n - History of allergic reactions to interferon beta-1a or its constituents\n - Medical contraindications as determined by the investigator"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James H. Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "PharmaCorp"
+    },
+    "location": {
+      "facility": {
+        "name": "Dermatology Clinic, PharmaCorp Research Institute",
+        "address": {
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92101",
+          "country": "USA"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "USA"
+    },
+    "verification_date": "February 2018",
+    "study_first_submitted": "November 25, 2010",
+    "study_first_submitted_qc": "November 26, 2010",
+    "study_first_posted": "December 1, 2010",
+    "last_update_submitted": "February 13, 2018",
+    "last_update_posted": "February 15, 2018",
+    "responsible_party": {
+      "name_title": "PharmaCorp Clinical Trials Department",
+      "organization": "PharmaCorp"
+    },
+    "keyword": [
+      "Psoriasis",
+      "Interferon beta-1a",
+      "PASI 75",
+      "Quality of Life",
+      "Adverse Events"
+    ],
+    "condition_browse": {
+      "mesh_term": "Psoriasis"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Interferons",
+        "Interferon-beta",
+        "Interferon beta-1a"
+      ]
+    },
+    "reported_events": {
+      "time_frame": "Throughout study duration",
+      "desc": "Adverse events included flu-like symptoms, injection site reactions, and elevated liver enzymes, contributing to high dropout rates and withdrawal from follow-ups."
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Interferon beta-1a",
+              "description": "Group received interferon beta-1a treatment."
+            },
+            {
+              "title": "Placebo",
+              "description": "Group received placebo treatment."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [150, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [30, 20]  // High dropouts due to adverse events
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [120, 150]  // High number withdrew from the study
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Interferon beta-1a",
+              "description": "Received interferon beta-1a."
+            },
+            {
+              "title": "Placebo",
+              "description": "Received placebo."
+            },
+            {
+              "title": "Total",
+              "description": "Combined totals of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [150, 150, 300]
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Proportion of patients achieving PASI 75",
+              "description": "Percentage of patients who achieved a PASI 75 response by week 12.",
+              "time_frame": "12 weeks",
+              "population": "By intention to treat analysis.",
+              "measure": {
+                "title": "PASI Response",
+                "description": "Proportion of patients achieving 75% improvement in PASI score.",
+                "units": "Percentage",
+                "param": "Mean",
+                "dispersion": "Standard Deviation"
+              },
+              "analysis_list": {
+                "analysis": [
+                  {
+                    "group_id_list": {
+                      "group_id": [
+                        "IFN",
+                        "Placebo"
+                      ]
+                    },
+                    "groups_desc": "Proportions compared using Chi-square test.",
+                    "p_value": "0.78"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

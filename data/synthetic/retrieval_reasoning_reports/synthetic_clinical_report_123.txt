@@ -1,0 +1,208 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02615239"
+    },
+    "id_info": {
+      "org_study_id": "ECU-TRIAL-202",
+      "nct_id": "NCT02615239"
+    },
+    "brief_title": "Efficacy of Eculizumab in Prevention of Antibody-Mediated Rejection in Kidney Transplantation",
+    "official_title": "A Multicenter, Randomized, Open-label Study to Assess the Efficacy and Safety of Eculizumab for the Prevention of Antibody-Mediated Rejection in Kidney Transplant Recipients with High-risk Anti-HLA Antibodies",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "CureTransplant Biomedics, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "CureTransplant Biomedics, Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "The objective of this trial was to evaluate the efficacy of eculizumab in preventing antibody-mediated rejection (AMR) in kidney transplant recipients identified as high-risk due to their sensitization status."
+    },
+    "detailed_description": {
+      "textblock": "This trial aimed to elucidate the efficacy of eculizumab for preventing AMR in sensitized kidney transplant recipients presenting with elevated donor-specific antibodies (DSA). The trial anticipated that the blockade of terminal complement activation would mitigate the risk of acute humoral rejection. The primary endpoint focused on the incidence of AMR defined through biopsy within the first 12 weeks post-transplantation.\n    \n    Participants were to receive eculizumab 1200 mg immediately before the transplant and 900 mg at 1, 7, 14, and 21 days post-transplantation. The historical control group comprised patients who underwent transplantation under standard immunosuppressive therapy without eculizumab. Given the urgency of ensuring sentinel intervention, timely infusion protocols were established; however, compliance was variably monitored."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Did not achieve statistically significant results in preventing AMR compared to historical controls.",
+    "start_date": "January 15, 2016",
+    "completion_date": "March 10, 2019",
+    "primary_completion_date": "January 12, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Biopsy-Proven Acute Antibody-Mediated Rejection",
+      "time_frame": "12 weeks post-transplantation",
+      "description": "The primary endpoint assessed the number of participants ascertained with surrogate measures of AMR leading to chronic graft dysfunction."
+    },
+    "number_of_arms": "2",
+    "enrollment": "145",
+    "condition": "Antibody-Mediated Rejection",
+    "arm_group": [
+      {
+        "arm_group_label": "Eculizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients in this group received eculizumab administered intravenously following the specified dosing regimen."
+      },
+      {
+        "arm_group_label": "Standard of Care",
+        "arm_group_type": "No Intervention",
+        "description": "Participants in this cohort received standard immunosuppressive therapy without eculizumab for AMR."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Eculizumab",
+      "description": "Eculizumab was administered as an intravenous infusion prior to renal transplantation and subsequently according to the established dosing schedule."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n        1. Adults aged 18 years or older.\n        2. Prior kidney transplant applicants with a confirmed positive T and B cell crossmatch.\n        3. Evidence of high DSA levels prior to transplantation.\n        \n        Exclusion Criteria:\n        1. Positive history of complement deficiencies.\n        2. Recent infections or acute inflammatory diseases.\n        3. Severe underlying cardiovascular or pulmonary conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elisa Thornton, MD",
+      "role": "Lead Investigator",
+      "affiliation": "CureTransplant Biomedics, Inc."
+    },
+    "location": {
+      "facility": {
+        "address": {
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Over the recruitment period from January 2016 to December 2018, a total of 300 potential participants were screened, with 145 being enrolled.",
+        "pre_assignment_details": "Upon assessment, 125 subjects failed screening due to comorbid factors, with 145 proceeding to randomized intervention."
+      },
+      "baseline": {
+        "population": "Safety population of individuals who received at least one dose of study medication.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Eculizumab",
+              "description": "Participants allocated to treatment under eculizumab dosing guidelines."
+            },
+            {
+              "title": "Standard of Care",
+              "description": "Participants underwent conventional management regimens with no introduction of eculizumab."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [
+                null,
+                null,
+                null
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Incidence of Acute AMR",
+          "description": "The trial sought to analyze the occurrence rates of AMR diagnosed via histological review according to Banff criteria.",
+          "time_frame": "12 weeks",
+          "group_list": {
+            "group": [
+              {
+                "title": "Eculizumab",
+                "description": "Participants received the complete dosing schedule of eculizumab."
+              },
+              {
+                "title": "Standard of Care",
+                "description": "Participants were managed under conventional immunosuppression without eculizumab."
+              }
+            ]
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Throughout the entire study and up to 12 months post-transplant.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Eculizumab",
+              "description": "Documentation of adverse events was maintained for eculizumab-treated participants."
+            },
+            {
+              "title": "Standard of Care",
+              "description": "Adverse events occurring derivatively within the standard care arm were recorded distinctly."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 19.1",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Total, all-cause mortality",
+                      "counts": [null, null]
+                    },
+                    {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Anemia",
+                      "counts": [null, null]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "There is an employment agreement with the sponsoring organization.",
+      "restrictive_agreement": "No existing agreement exists restricting the Principal Investigator's ability to publish results post-trial."
+    },
+    "limitations_and_caveats": "The study was limited by potential confounding due to concurrent administration of other immunosuppressive therapies in the intervention cohort. Moreover, reliance on open-label designs may have introduced biases regarding patient-reported outcomes and adverse event reporting."
+  }
+}
+```

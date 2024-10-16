@@ -1,0 +1,150 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04213567"
+    },
+    "id_info": {
+      "org_study_id": "CDR0000865438",
+      "secondary_id": ["XYZ-034", "TTL-456"],
+      "nct_id": "NCT04213567"
+    },
+    "brief_title": "Neoadjuvant Chemotherapy with Filgrastim Support in Patients with Advanced De Novo Breast Cancer",
+    "official_title": "Phase II Trial of Neoadjuvant Chemotherapy Combined with Filgrastim in Patients with Newly Diagnosed Locally Advanced Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Brigham and Women's Hospital",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Brigham and Women's Hospital",
+    "overall_status": "Terminated",
+    "start_date": "January 2021",
+    "completion_date": "April 2023",
+    "primary_completion_date": "April 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Pathological Complete Response Rate",
+      "time_frame": "One year post-treatment"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Hematologic Response Rate",
+        "time_frame": "One month post-treatment"
+      },
+      {
+        "measure": "Overall Survival Rate",
+        "time_frame": "Five years post-treatment"
+      },
+      {
+        "measure": "Infection Rate",
+        "time_frame": "One year post-treatment"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "28",
+    "condition": "Locally Advanced Breast Cancer",
+    "arm_group": {
+      "arm_group_label": "Neoadjuvant Chemotherapy with Filgrastim Support",
+      "arm_group_type": "Experimental",
+      "description": "Administration of neoadjuvant chemotherapy regimen with Filgrastim support for hematopoietic recovery."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "filgrastim",
+        "description": "Daily subcutaneous injection of 5 mcg/kg starting on Day 1 of chemotherapy and continuing until absolute neutrophil count recovery.",
+        "other_name": "Neupogen"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "doxorubicin",
+        "description": "60 mg/m² IV on Day 1 of each cycle.",
+        "other_name": "Adriamycin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "cyclophosphamide",
+        "description": "600 mg/m² IV on Day 1 of each cycle.",
+        "other_name": "Cytoxan"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "docetaxel",
+        "description": "75 mg/m² IV on Day 1 of each cycle.",
+        "other_name": "Taxotere"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Histologically or cytologically confirmed locally advanced breast cancer (Stage IIIA, IIIB, or IIIC).\r\n  -  Age 18 years or older, females only.\r\n  -  Eastern Cooperative Oncology Group (ECOG) performance status 0-2.\r\n  -  Baseline absolute neutrophil count (ANC) of ≥1,500/mm³.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Prior chemotherapy for breast cancer (any modality).\r\n  -  Active infections needing treatment that could complicate recovery.\r\n  -  Comorbidities affecting the liver or kidney functions significantly."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jennifer Lee, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Brigham and Women's Hospital"
+    },
+    "location": {
+      "facility": {
+        "name": "Brigham and Women's Hospital Cancer Center",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "December 15, 2020",
+    "study_first_submitted_qc": "December 15, 2020",
+    "study_first_posted": "January 5, 2021",
+    "last_update_submitted": "May 1, 2023",
+    "last_update_posted": "May 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsored",
+      "investigator_affiliation": "Brigham and Women's Hospital",
+      "investigator_full_name": "Jennifer Lee, MD"
+    },
+    "keyword": ["Breast Cancer", "Filgrastim", "Neoadjuvant Chemotherapy"],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Filgrastim", "Doxorubicin", "Cyclophosphamide", "Docetaxel"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients were recruited from the Brigham and Women's Hospital and surrounding clinics.",
+        "pre_assignment_details": "A total of 30 patients were initially enrolled; however, 28 patients completed the full treatment protocol."
+      },
+      "results": {
+        "summary": "The trial was terminated after identifying insufficient patient accrual and inadequate response rates. The expected hematologic improvement could not be substantiated, ultimately leading to the decision to cease the study."
+      },
+      "adverse_events": {
+        "time_frame": "One year post-enrollment",
+        "event_list": [
+          {"title": "Infection", "count": 8, "grade": "Grade 3"},
+          {"title": "Febrile Neutropenia", "count": 5, "grade": "Grade 3"},
+          {"title": "Nausea and Vomiting", "count": 7, "grade": "Grade 2"}
+        ]
+      }
+    }
+  }
+}
+```

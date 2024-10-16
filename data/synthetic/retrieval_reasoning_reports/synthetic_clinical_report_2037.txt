@@ -1,0 +1,144 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2015-03010",
+      "secondary_id": ["NCI-2015-03010", "P30CA006973", "U01CA123456"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Cixutumumab in Combination With Chemotherapy for Patients With Advanced Solid Tumors",
+    "official_title": "A Phase Ib Study Evaluating the Safety and Efficacy of Cixutumumab Combined With Standard Chemotherapy in Patients With Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This Phase Ib trial investigates the safety, pharmacokinetics, and efficacy of cixutumumab when administered in conjunction with a standard chemotherapy regimen in patients diagnosed with advanced solid tumors. The study aims to determine the maximum tolerated dose (MTD) and evaluate the response rates in a population with limited therapeutic options."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To establish the maximum tolerated dose (MTD) of cixutumumab in combination with standard chemotherapy (e.g., carboplatin and paclitaxel). \r\n\r\nII. To assess the safety profile of the combination therapy, particularly focusing on the incidence of dose-limiting toxicities (DLTs).\r\n\r\nIII. To measure the overall response rate (ORR) in patients receiving cixutumumab plus chemotherapy, as defined by RECIST criteria.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To evaluate the pharmacokinetics of cixutumumab when delivered with chemotherapy.\r\n\r\nII. To explore pharmacodynamic correlations by assessing changes in relevant biomarkers such as IGF-1R expression.\r\n\r\nIII. To study the quality of life parameters in the cohort receiving the combination therapy.\r\n\r\nOUTLINE: The trial consists of a dose-escalation phase followed by an expansion cohort. Patients will receive cixutumumab intravenously (IV) combined with standard chemotherapy. Initial doses of cixutumumab start at 6 mg/kg, administered once every two weeks, followed by adaptation based on the DLT observed in prior participants. Treatment cycles will repeat every 21 days in the absence of disease progression or unacceptable toxicity. \r\n\r\nPatients will be monitored closely for any adverse events, and clinical outcomes will be assessed post-treatment. After therapy completion, patients will be followed for long-term outcomes for a period of up to three years."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2015",
+    "completion_date": "August 2020",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 1b",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Maximum Tolerated Dose (MTD) of Cixutumumab",
+        "time_frame": "Up to 4 weeks",
+        "description": "The MTD will be determined by observing the number of participants who experience DLTs, defined as grade 3 or higher adverse events associated with therapy."
+      },
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 60 weeks",
+        "description": "Calculated as the percentage of participants achieving a complete response (CR) or partial response (PR) per RECIST criteria."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Pharmacokinetics of Cixutumumab",
+        "time_frame": "Prior to infusion and 1, 2, 4, and 8 hours post-infusion during the first cycle",
+        "description": "Key pharmacokinetic parameters including Cmax, Cmin, and AUC will be evaluated."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Up to 54 weeks",
+        "description": "Adverse events will be monitored throughout the study as per the CTCAE criteria."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "45",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": {
+      "arm_group_label": "Cixutumumab + Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive cixutumumab IV plus chemotherapy (carboplatin and paclitaxel) every 21 days."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cixutumumab",
+        "description": "Given IV",
+        "arm_group_label": "Cixutumumab + Chemotherapy",
+        "other_name": ["Anti-IGF-IR Monoclonal Antibody IMC-A12", "IMC-A12"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Given IV",
+        "arm_group_label": "Cixutumumab + Chemotherapy",
+        "other_name": ["CBDCA", "Paraplatin"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Given IV",
+        "arm_group_label": "Cixutumumab + Chemotherapy",
+        "other_name": ["Taxol"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  -  Histopathologically confirmed advanced solid tumor unresponsive to standard treatments or for which no standard treatment exists.\r\n  -  Age ≥ 18 years with ECOG performance status 0-1.\r\n  -  Adequate organ function as defined by standard parameters (i.e., hematologic, renal, hepatic).\r\n  -  Measurable disease as assessed by imaging.\r\n  -  Patients must provide informed consent and be able to comply with study procedures.\r\n\r\nExclusion Criteria:\r\n\r\n  -  Significant comorbidities or uncontrolled concurrent illness.\r\n  -  Previous treatment with cixutumumab or related agents.\r\n  -  Pregnant or breastfeeding women.\r\n  -  Known hypersensitivity to any components of the study drugs.\r\n  -  Major surgery within 28 days prior to study entry."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Study Director",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2020",
+    "study_first_submitted": "June 1, 2015",
+    "study_first_posted": "June 5, 2015",
+    "results_first_submitted": "October 20, 2020",
+    "results_first_posted": "October 25, 2020",
+    "last_update_submitted": "November 15, 2020",
+    "last_update_posted": "November 20, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Solid Tumors", "Malignancy"]
+    },
+    "keyword": ["Cixutumumab", "Advanced Solid Tumors", "Phase Ib Trial"]
+  }
+}
+```

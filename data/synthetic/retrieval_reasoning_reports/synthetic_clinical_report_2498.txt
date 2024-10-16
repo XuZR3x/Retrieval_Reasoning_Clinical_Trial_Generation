@@ -1,0 +1,143 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02847235"
+    },
+    "id_info": {
+      "org_study_id": "TEMSI-2021-05",
+      "nct_id": "NCT02847235"
+    },
+    "brief_title": "Temsirolimus in Combination with Carboplatin and Paclitaxel for Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "Phase II Study of Temsirolimus, Carboplatin, and Paclitaxel in Patients with Unresectable Stage IIIB or IV Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Maxwell Institute of Oncology",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Purdue Pharma L.P.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Maxwell Institute of Oncology",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the efficacy and safety of temsirolimus when combined with carboplatin and paclitaxel in patients diagnosed with advanced non-small cell lung cancer (NSCLC). Prior work indicated potential synergistic effects of temsirolimus in enhancing the anti-tumor response when used alongside conventional chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the overall response rate (ORR) of temsirolimus combined with carboplatin and paclitaxel in patients with advanced NSCLC. \n\nII. To evaluate the progression-free survival (PFS) and overall survival (OS) associated with the treatment regimen.\n\nSECONDARY OBJECTIVES:\n\nI. To determine the safety and tolerability of the combination therapy by monitoring adverse events according to NCI CTCAE v5.0.\n\nOUTLINE:\n\nPatients receive temsirolimus IV over 30 minutes followed by carboplatin IV on day 1 and paclitaxel IV over 3 hours on day 1. Cycles repeat every 21 days in the absence of disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Completed",
+    "start_date": "August 2021",
+    "completion_date": "April 2023",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "3 months",
+        "description": "ORR determined by the sum of complete and partial response rates as defined by RECIST v1.1."
+      },
+      {
+        "measure": "Progression-free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "Time from treatment initiation to the date of first documented progression or death."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 24 months",
+        "description": "Duration from the date of treatment initiation to death due to any cause."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Up to 36 months",
+        "description": "Evaluation of adverse events graded by CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "80",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Temsirolimus + Carboplatin + Paclitaxel",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive temsirolimus IV followed by carboplatin and paclitaxel IV. Treatment cycles repeat every 21 days."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "temsirolimus",
+        "description": "Administered IV as part of the combination regimen.",
+        "other_name": ["Torisel"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "carboplatin",
+        "description": "Administered IV as part of the combination regimen."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "paclitaxel",
+        "description": "Administered IV as part of the combination regimen."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Histologically confirmed NSCLC stage IIIB or IV \n- Measurable disease per RECIST v1.1 criteria \n- Performance status ECOG 0-2 \n- No prior systemic chemotherapy or radiotherapy for this cancer within 4 weeks prior. \n\nExclusion Criteria: \n- Pregnant or nursing women \n- Prior treatment with mTOR inhibitors or hypersensitivity to any of the drugs in the study.\n- Uncontrolled medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Samuel Thompson",
+      "role": "Principal Investigator",
+      "affiliation": "Maxwell Institute of Oncology"
+    },
+    "location": {
+      "facility": {
+        "name": "Maxwell Institute of Oncology",
+        "address": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60614",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "July 5, 2021",
+    "study_first_posted": "July 10, 2021",
+    "last_update_submitted": "March 25, 2023",
+    "last_update_posted": "April 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Temsirolimus", "Non-Small Cell Lung Cancer", "Chemotherapy", "Efficacy", "Safety"],
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Temsirolimus", "Carboplatin", "Paclitaxel"]
+    }
+  }
+}
+```

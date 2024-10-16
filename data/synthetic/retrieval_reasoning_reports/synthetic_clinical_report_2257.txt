@@ -1,0 +1,152 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03812345"
+        },
+        "id_info": {
+            "org_study_id": "ECOG-ACRIN-123",
+            "nct_id": "NCT03812345"
+        },
+        "brief_title": "Phase III Trial of Fluorouracil Combined with Leucovorin in Colorectal Cancer Patients",
+        "official_title": "Phase III Intergroup Randomized Study of Preoperative Chemotherapy with 5-Fluorouracil and Leucovorin in Patients with Resectable Stage II and III Colorectal Cancer",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "ECOG-ACRIN Cancer Research Group",
+                "agency_class": "Other"
+            },
+            "collaborator": [
+                {
+                    "agency": "National Cancer Institute (NCI)",
+                    "agency_class": "NIH"
+                },
+                {
+                    "agency": "SWOG Cancer Research Network",
+                    "agency_class": "Other"
+                }
+            ]
+        },
+        "source": "ECOG-ACRIN Cancer Research Group",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The objective of this study was to evaluate the efficacy of perioperative fluorouracil (5-FU) chemotherapy, combined with leucovorin, in enhancing overall survival in patients diagnosed with resectable Stage II and III colorectal cancer."
+        },
+        "detailed_description": {
+            "textblock": "This multi-institutional, randomized phase III trial aimed to assess the effectiveness and tolerability of 5-FU when administered preoperatively and postoperatively in patients undergoing surgical resection for colorectal cancer. The study faced recruitment challenges that hindered adequate sample size, impacting statistical power. Adverse events, including febrile neutropenia and severe gastrointestinal events, led to patient withdrawals, further complicating outcome assessments."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "The study was terminated due to inadequate patient enrollment and elevated incidence of adverse effects, leading to a lack of sufficient data for efficacy analysis.",
+        "start_date": "January 30, 2019",
+        "completion_date": "July 2021",
+        "primary_completion_date": "April 2021",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "5-Year Overall Survival Rate in Patients Treated with Fluorouracil and Leucovorin",
+            "time_frame": "5 years post-surgery",
+            "description": "Overall survival is defined as the time from randomization to death from any cause, estimated using the Kaplan-Meier method."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Incidence of Severe Adverse Events Related to Fluorouracil",
+                "time_frame": "From randomization until 30 days after last dose of treatment",
+                "description": "Documented incidence of grade 3 or higher adverse events as assessed by CTCAE v4.0."
+            },
+            {
+                "measure": "Disease-free Survival Rate",
+                "time_frame": "5 years post randomization",
+                "description": "Defined as the time from randomization to recurrence or death; evaluated using Kaplan-Meier statistics."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "410",
+        "condition": "Colorectal Cancer",
+        "arm_group": [
+            {
+                "arm_group_label": "Fluorouracil and Leucovorin",
+                "arm_group_type": "Experimental",
+                "description": "Patients received 5-FU intravenously for 5 days and leucovorin on days 1-5 prior to and following surgical resection."
+            },
+            {
+                "arm_group_label": "Control Group",
+                "arm_group_type": "Active Comparator",
+                "description": "Patients received no preoperative chemotherapy and underwent surgical resection followed by standard postoperative management."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Fluorouracil",
+                "description": "5-FU administered at a dose of 600 mg/m^2/day as an intravenous infusion over 24 hours for 5 days."
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Leucovorin",
+                "description": "Leucovorin administered at a dose of 20 mg/m^2 IV during the same period as 5-FU."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n- Adults aged 18 years and older with histologically confirmed colorectal cancer.\r\n- Stages II and III disease amenable to surgical resection.\r\n- ECOG Performance Status 0-2.\r\n- Adequate organ function indicated by baseline lab values.\r\n\r\nExclusion Criteria:\r\n- Patients with previous history of colorectal cancer or other malignancies.\r\n- Significant comorbid conditions that may interfere with planned treatment.\r\n- Patient contraindications to 5-FU or leucovorin."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Robert J. Schmidt, MD",
+            "role": "Principal Investigator",
+            "affiliation": "ECOG-ACRIN Cancer Research Group"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "University of California, San Francisco",
+                    "address": {
+                        "city": "San Francisco",
+                        "state": "California",
+                        "zip": "94143",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "August 2023",
+        "study_first_submitted": "January 10, 2018",
+        "study_first_posted": "February 1, 2018",
+        "last_update_posted": "August 15, 2023",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": [
+            "Colorectal Cancer",
+            "Fluorouracil",
+            "Leucovorin"
+        ],
+        "condition_browse": {
+            "mesh_term": "Colonic Neoplasms"
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Fluorouracil",
+                "Leucovorin"
+            ]
+        }
+    }
+}
+```

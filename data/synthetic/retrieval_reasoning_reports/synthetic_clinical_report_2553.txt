@@ -1,0 +1,138 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "EFV-TB-HIV-Study",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Evaluating the Efficacy of Efavirenz in Combination with Rifampicin in HIV-TB Co-infected Adults",
+    "official_title": "A Randomized, Controlled Trial Assessing the Efficacy and Safety of Efavirenz in HIV-Tuberculosis Co-infected Adults Undergoing Treatment with Rifampicin",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International AIDS Society",
+        "agency_class": "Non-profit"
+      },
+      "collaborator": {
+        "agency": "World Health Organization",
+        "agency_class": "International"
+      }
+    },
+    "source": "International AIDS Society",
+    "brief_summary": {
+      "textblock": "Patients with concurrent HIV and tuberculosis infections frequently require complex treatment regimens. This study aimed to evaluate the safety and efficacy of efavirenz combined with rifampicin compared to standard antitubercular therapy alone in this unique population."
+    },
+    "detailed_description": {
+      "textblock": "This double-blind, randomized, controlled trial involved adults aged 18-60 diagnosed with HIV and active tuberculosis who were eligible for treatment. The trial aimed to investigate the pharmacokinetic interactions of efavirenz with rifampicin and its impact on virologic response as well as treatment adherence. Participants were randomized to receive either a regimen including efavirenz (600mg) along with rifampicin or a standard treatment regimen for tuberculosis without efavirenz. The planned enrollment was 200 subjects, with a primary endpoint assessing the proportion of patients achieving viral suppression at 12 weeks."
+    },
+    "overall_status": "Terminated",
+    "completion_date": "March 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of participants with undetectable HIV viral load after 12 weeks of treatment",
+      "time_frame": "12 weeks post-treatment initiation",
+      "description": "The primary outcome measures the proportion of participants achieving an undetectable HIV viral load as assessed by standard viral load testing."
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of adverse events related to efavirenz and rifampicin",
+      "time_frame": "Throughout the treatment period (up to 12 weeks)",
+      "description": "Secondary outcomes will assess the frequency and severity of adverse events reported by participants."
+    },
+    "enrollment": "100",
+    "condition": ["HIV Infections", "Tuberculosis"],
+    "arm_group": [
+      {
+        "arm_group_label": "Efavirenz Group",
+        "description": "Participants receiving efavirenz (600mg) in combination with rifampicin as part of tuberculosis treatment."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "description": "Participants receiving standard tuberculosis treatment without efavirenz."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Efavirenz",
+        "description": "600 mg once daily in conjunction with standard anti-tuberculosis therapy."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Rifampicin",
+        "description": "Standard dosing according to tuberculosis treatment guidelines."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Adults aged 18-60, HIV positive with a CD4 count <350 cells/mm³. \n- Diagnosed with active tuberculosis and starting treatment. \n- Willing to comply with study procedures.  \n  \nExclusion Criteria: \n- History of severe adverse reactions to efavirenz or rifampicin. \n- Uncontrolled comorbidities or pregnancy. \n- Recent history of non-adherence to antiretroviral therapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "60 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Isabella Caruso, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Institute for Global Health, University of Geneva"
+      },
+      {
+        "last_name": "Mark Thompson, MD, PhD",
+        "role": "Study Chair",
+        "affiliation": "World Health Organization"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Kilimanjaro Christian Medical Centre",
+          "address": {
+            "city": "Moshi",
+            "state": "Kilimanjaro Region",
+            "country": "Tanzania"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Hospital das Clínicas, University of São Paulo",
+          "address": {
+            "city": "São Paulo",
+            "country": "Brazil"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "Tanzania"
+    },
+    "verification_date": "June 2023",
+    "study_first_submitted": "June 20, 2020",
+    "study_first_posted": "July 1, 2020",
+    "last_update_posted": "March 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Efavirenz", "Tuberculosis", "HIV Co-infection", "Drug Interactions"],
+    "condition_browse": {
+      "mesh_term": ["HIV Infections", "Tuberculosis"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Efavirenz", "Rifampicin"]
+    }
+  }
+}
+```

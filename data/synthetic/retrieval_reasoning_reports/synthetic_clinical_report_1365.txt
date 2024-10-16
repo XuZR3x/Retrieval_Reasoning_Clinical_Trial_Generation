@@ -1,0 +1,138 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "PPI-2023-01",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Esomeprazole for the Management of Chemotherapy-Induced Nausea and Vomiting",
+    "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Trial of Esomeprazole to Mitigate Nausea and Vomiting in Breast Cancer Patients Undergoing Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This randomized, double-blind, placebo-controlled trial aimed to evaluate the efficacy of esomeprazole in reducing the incidence of nausea and vomiting among breast cancer patients receiving anthracycline-based chemotherapy regimens. Despite initial promise, the study ultimately failed to demonstrate a statistically significant benefit."
+    },
+    "detailed_description": {
+      "textblock": "The background of this trial was premised on the difficulties faced by cancer patients undergoing chemotherapy, specifically those suffering from chemotherapy-induced nausea and vomiting (CINV). Esomeprazole, a proton pump inhibitor (PPI), was hypothesized to benefit patients by mitigating acid-related discomfort, therefore improving their overall experience during chemotherapy.\n\nThe study enrolled female participants aged 18 years or older, diagnosed with Stage I-III breast cancer, who were set to begin anthracycline chemotherapy. Participants were randomized to receive either esomeprazole 40 mg or placebo daily for the initial five days of each chemotherapy cycle.\n\nHowever, the trial was terminated early due to several critical factors:\n\n1. **Insufficient Efficacy in Managing Nausea and Vomiting:** The primary analysis revealed no statistically significant reduction in emetic episodes or need for rescue antiemetics compared to the placebo group, questioning esomeprazole’s role in CINV management.\n\n2. **Suboptimal Patient Cohort and Sample Size:** The trial's recruitment target was not met, leading to a sample size that lacked the statistical power necessary to draw meaningful conclusions.\n\n3. **Individual Variability in Treatment Response:** Variability was noted in patient responses, with some presenting with underlying conditions that could confound treatment outcomes, further complicating the interpretation of esomeprazole's effectiveness.\n\n4. **Methodological Limitations:** The trial employed subjective assessments for nausea and vomiting, which may have been subject to bias. The primary endpoint depended heavily on patient-reported outcome measures, complicating the objectivity of the results.\n\n5. **Inadequate Addressing of Gastrointestinal Motility Issues:** Given that esomeprazole primarily reduces gastric acid secretion without enhancing motility, patients suffering from nausea related to motility dysfunction may not have benefitted from the treatment.\n\nConsequently, the study could not substantiate the use of esomeprazole as an effective strategy in managing chemotherapy-induced nausea and vomiting in the specified population.",
+      "conclusion": "The findings from this trial highlight the complexities of treating chemotherapy-related symptoms and underline the need for further research into alternative interventions that target the multifactorial nature of CINV."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inconclusive results due to low efficacy and insufficient enrollment.",
+    "start_date": "January 2011",
+    "completion_date": "July 2014",
+    "primary_completion_date": "February 2013",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of emetic episodes",
+      "time_frame": "From commencement of chemotherapy to 7 days post-treatment initiation",
+      "description": "The number of emetic episodes in each participant assessed during the defined time frame."
+    },
+    "number_of_arms": "2",
+    "enrollment": "60",
+    "condition": "Chemotherapy-Induced Nausea and Vomiting",
+    "arm_group": [
+      {
+        "arm_group_label": "Esomeprazole",
+        "arm_group_type": "Experimental",
+        "description": "Participants receiving 40 mg of esomeprazole orally daily for the initial 5 days of each chemotherapy cycle."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receiving a placebo orally daily for the initial 5 days of each chemotherapy cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Esomeprazole",
+        "description": "40 mg oral administration once daily for 5 days during chemotherapy cycles.",
+        "arm_group_label": "Esomeprazole"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Placebo administered orally once daily for 5 days during chemotherapy cycles.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Female patients aged 18 years and older.\n- Diagnosed with Stage I, II, or III breast cancer.\n- Scheduled to receive at least two cycles of anthracycline-based chemotherapy.\n- Signed informed consent.\n\nExclusion Criteria:\n- History of gastrointestinal disorders affecting motility. \n- Pregnant or lactating women.\n- Previous chemotherapy or radiotherapy for any malignancy within 6 months prior to enrollment."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jessica H. Thompson",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "November 15, 2010",
+    "study_first_posted": "January 12, 2011",
+    "results_first_submitted": "August 1, 2014",
+    "last_update_posted": "October 5, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Cancer Institute",
+      "investigator_full_name": "Dr. Jessica H. Thompson",
+      "investigator_title": "Oncologist"
+    },
+    "keyword": [
+      "Chemotherapy",
+      "Nausea",
+      "Vomiting",
+      "Esomeprazole",
+      "Breast Cancer"
+    ],
+    "condition_browse": {
+      "mesh_term": "Nausea"
+    },
+    "intervention_browse": {
+      "mesh_term": "Esomeprazole"
+    }
+  }
+}
+```

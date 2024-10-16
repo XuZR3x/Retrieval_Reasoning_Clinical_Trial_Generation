@@ -1,0 +1,130 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03678100"
+    },
+    "id_info": {
+      "org_study_id": "CT-2018-00156",
+      "nct_id": "NCT03678100"
+    },
+    "brief_title": "Cyclophosphamide vs. Control in Treating Patients with High-Risk Acute Myeloid Leukemia",
+    "official_title": "A Phase II Study of Cyclophosphamide Combined with Targeted Therapy vs. Standard Care in High-Risk Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to examine the efficacy and safety of cyclophosphamide when combined with targeted therapies compared to standard care in patients diagnosed with high-risk acute myeloid leukemia (AML) who have not achieved remission post-induction therapy. The primary hypothesis was that cyclophosphamide addition would enhance remission rates and overall survival."
+    },
+    "detailed_description": {
+      "textblock": "Primary Objectives: \n\nI. To assess the overall response rate (ORR) following treatment with cyclophosphamide combined with targeted therapy in patients with high-risk AML.\n\nII. To evaluate the safety profile of cyclophosphamide in this specific patient population, focusing on the incidence of dose-limiting toxicities (DLTs).\n\nSecondary Objectives: \n\nI. To compare overall survival (OS) and progression-free survival (PFS) between the cyclophosphamide group and the control group receiving standard therapy.\n\nII. To identify any potential pharmacokinetic variability of cyclophosphamide in this cohort, assessing its relationship with therapeutic outcomes.\n\nThis study was terminated prematurely due to several critical factors: low patient accrual proved insufficient to achieve clinically meaningful endpoints, leading to the inability to derive statistically significant conclusions regarding cyclophosphamide's efficacy. Despite the initial interest, recruitment efforts faced challenges due to patient concerns regarding the adverse event profiles of cyclophosphamide, especially concerning nephrotoxicity and immunocompromise, which likely contributed to hesitancy among potential participants. Furthermore, the heterogeneity of the patient population resulted in divergent clinical outcomes across leukemia subtypes, complicating the stratification and interpretation of treatment responses. Due to the absence of defined biomarker signatures for patient selection, the trial suffered from ambiguous therapeutic outcomes that limited the observed clinical relevance. Lastly, significant pharmacokinetic variability related to cyclophosphamide dosing regimens may have also resulted in suboptimal drug exposure, further jeopardizing treatment efficacy. These factors combined ultimately led to a lack of completion of the enrollment target, necessitating the termination of the trial."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient accrual and related safety concerns",
+    "start_date": "January 15, 2019",
+    "completion_date": "July 10, 2021",
+    "primary_completion_date": "October 12, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall response rate (ORR) defined as the proportion of participants achieving complete remission (CR) or partial remission (PR)",
+        "time_frame": "Up to 24 months",
+        "description": "Patients will be assessed based on clinical criteria, including bone marrow analysis and hematologic parameters."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival (OS) defined as the time from randomization to death from any cause",
+        "time_frame": "Up to 2 years",
+        "description": "OS will be calculated using Kaplan-Meier survival curves."
+      },
+      {
+        "measure": "Incidence of dose-limiting toxicities (DLTs)",
+        "time_frame": "Up to 6 months from initiation of treatment",
+        "description": "DLTs will be defined per the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": "High-Risk Acute Myeloid Leukemia",
+    "arm_group": {
+      "arm_group_label": "Treatment Group (Cyclophosphamide + Targeted Therapy)",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive cyclophosphamide IV on days 1-3 in conjunction with targeted therapy. The protocol includes monitoring for potential DLTs and pharmacokinetic assessments."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Given intravenously on days 1-3 as part of the treatment regimen.",
+        "arm_group_label": "Treatment Group (Cyclophosphamide + Targeted Therapy)",
+        "other_name": ["Cytoxan", "CTX", "Endoxan"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Targeted Therapy",
+        "description": "Medications including a combination of monoclonal antibodies administrated concurrently with cyclophosphamide.",
+        "arm_group_label": "Treatment Group (Cyclophosphamide + Targeted Therapy)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n\n- Confirmed diagnosis of high-risk Acute Myeloid Leukemia. \n\n- Age ≥ 18 years. \n\n- Eastern Cooperative Oncology Group (ECOG) performance status 0-2. \n\n- Adequate organ function as defined by laboratory parameters. \n\n- Written informed consent. \n\nExclusion Criteria: \n\n- Prior treatment with cyclophosphamide or similar agents within 3 months of study entry. \n\n- Presence of uncontrolled systemic infections, or active central nervous system involvement. \n\n- Allergies or hypersensitivity to cyclophosphamide or components of targeted therapy."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Elizabeth Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2021",
+    "study_first_submitted": "November 20, 2018",
+    "study_first_posted": "December 1, 2018",
+    "last_update_posted": "August 2, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Cyclophosphamide",
+      "Acute Myeloid Leukemia",
+      "Targeted Therapy",
+      "Chemotherapy"
+    ]
+  }
+}
+```

@@ -1,0 +1,206 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03055496"
+    },
+    "id_info": {
+      "org_study_id": "CLDK378A3107",
+      "secondary_id": "2015-001624-34",
+      "nct_id": "NCT03055496"
+    },
+    "brief_title": "Ceritinib in Patients With ALK-positive Non-small Cell Lung Cancer (NSCLC) Previously Treated With Crizotinib",
+    "official_title": "A Phase III, Multicenter, Open-label, Randomized Study of Ceritinib Versus Chemotherapy in Patients With ALK-positive Non-small Cell Lung Cancer Progressing on Crizotinib",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novartis Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novartis",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "The primary goal of the study was to evaluate the efficacy of ceritinib, specifically focusing on its impact on progression-free survival (PFS) in patients with ALK-positive NSCLC previously treated with crizotinib. To ensure an appropriate patient cohort, all participants underwent rigorous screening to confirm ALK rearrangement using FDA-approved diagnostic assays."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2017",
+    "completion_date": "April 29, 2023",
+    "primary_completion_date": "January 15, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS) as Assessed by Blinded Independent Review Committee (BIRC)",
+      "time_frame": "From randomization until the date of first documented progression or death due to any cause, up to 24 months.",
+      "description": "PFS was defined as the time from randomization to the first evidence of disease progression or death, measured by BIRC using RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 24 months.",
+        "description": "OS was defined as the time from the date of randomization to the date of death from any cause."
+      },
+      {
+        "measure": "Overall Response Rate (ORR) by Investigator Assessment",
+        "time_frame": "Evaluated at 24 weeks.",
+        "description": "ORR was assessed as the proportion of patients exhibiting a complete or partial response as per RECIST 1.1."
+      },
+      {
+        "measure": "Duration of Response (DOR)",
+        "time_frame": "Up to 24 months.",
+        "description": "DOR was defined as the period from the first documented response until disease progression or death."
+      },
+      {
+        "measure": "Disease Control Rate (DCR)",
+        "time_frame": "Up to 24 weeks.",
+        "description": "DCR was determined as the percentage of patients with CR, PR, or stable disease (SD)."
+      },
+      {
+        "measure": "Time to Response (TTR)",
+        "time_frame": "Up to 24 weeks.",
+        "description": "TTR was defined as the time from randomization to the first documented response."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "512",
+    "condition": "ALK-Positive Non-small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Ceritinib",
+        "arm_group_type": "Experimental",
+        "description": "Patients assigned to this arm received ceritinib 750 mg orally once daily in a fasted state."
+      },
+      {
+        "arm_group_label": "Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients in this arm received standard chemotherapy regimens including pemetrexed and carboplatin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ceritinib",
+        "description": "Ceritinib was administered as 150 mg capsules, 750 mg once daily, on an empty stomach.",
+        "arm_group_label": "Ceritinib"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "Pemetrexed was administered at a dose of 500 mg/m2 as an intravenous infusion every 21 days.",
+        "arm_group_label": "Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Carboplatin was administered on Day 1 of the cycle using the AUC of 5-6 for 4 cycles.",
+        "arm_group_label": "Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Confirmed diagnosis of ALK-positive non-small cell lung cancer (NSCLC) based on the results from validated assays.\n2. Patients with stage IIIB or IV disease, previously treated with crizotinib with documented disease progression.\n3. At least one measurable lesion as defined by RECIST 1.1.\n\nExclusion Criteria:\n1. Patients with a history of severe hypersensitivity reactions to ceritinib or excipients.\n2. Patients requiring significant steroid therapy to manage CNS symptoms prior to study entry."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Novartis Pharmaceuticals",
+      "role": "Study Director",
+      "affiliation": "Novartis Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90012",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "Germany", "Japan"]
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "February 10, 2017",
+    "study_first_posted": "February 15, 2017",
+    "last_update_submitted": "January 10, 2024",
+    "last_update_posted": "January 12, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["ALK-positive", "NSCLC", "ceritinib", "progression-free survival", "overall response rate"],
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ceritinib", "Pemetrexed", "Carboplatin"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Novartis ensures that patient-level data from the study will be available to qualified researchers upon request."
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "512 patients were screened and randomized in a 1:1 ratio to receive either ceritinib or chemotherapy.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ceritinib",
+              "description": "Ceritinib 750 mg"
+            },
+            {
+              "title": "Chemotherapy",
+              "description": "Standard chemotherapy regimen"
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were collected from the first dose throughout the treatment period and up to 30 days post-treatment.",
+        "desc": "The total incidence of adverse events and serious adverse events was systematically assessed.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ceritinib",
+              "description": "Incidence of adverse events in the ceritinib group."
+            },
+            {
+              "title": "Chemotherapy",
+              "description": "Incidence of adverse events in the chemotherapy group."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

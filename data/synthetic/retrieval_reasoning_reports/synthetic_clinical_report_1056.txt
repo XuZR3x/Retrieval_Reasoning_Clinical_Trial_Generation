@@ -1,0 +1,137 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04263756"
+    },
+    "id_info": {
+      "org_study_id": "ABC123-XYZ",
+      "nct_id": "NCT04263756"
+    },
+    "brief_title": "Efficacy Study of Pioglitazone in Patients with Diabetic Peripheral Neuropathy",
+    "official_title": "Randomized Double-Blind, Placebo-Controlled Trial of Pioglitazone for the Management of Pain in Diabetic Peripheral Neuropathy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Medical Center",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Medical Center",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy of pioglitazone (30 mg/day) in alleviating pain associated with diabetic peripheral neuropathy (DPN) compared to placebo. DPN affects a substantial proportion of diabetic patients, contributing to impaired quality of life. The trial was structured as a double-blind, placebo-controlled design, enrolling 150 patients diagnosed with DPN. The primary endpoint was the change in pain score measured by the Numeric Rating Scale (NRS) at 12 weeks."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to insufficient statistical power and lack of significant treatment advantages during the interim analysis, with no discernible benefit from pioglitazone compared to placebo.",
+    "start_date": "February 2020",
+    "completion_date": "March 2021",
+    "primary_completion_date": "March 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Numeric Rating Scale (NRS) pain score from baseline",
+      "time_frame": "12 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in the Leeds Assessment of Neuropathic Symptoms and Signs (LANSS) score",
+        "time_frame": "12 weeks"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Diabetic Peripheral Neuropathy",
+    "arm_group": [
+      {
+        "arm_group_label": "Pioglitazone Group",
+        "arm_group_type": "Active Comparator"
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pioglitazone",
+        "description": "30 mg/day orally for 12 weeks",
+        "arm_group_label": "Pioglitazone Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo orally for 12 weeks",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 18-75 years with a diagnosis of type 2 diabetes mellitus.\r\n- Presence of diabetic peripheral neuropathy, as defined by clinical criteria and confirmed by electromyography.\r\n- NRS pain score of at least 4 at screening.\r\n- Stable diabetes treatment regimen for at least 3 months prior to enrollment.\r\n\r\nExclusion Criteria:\r\n\r\n- Known hypersensitivity to pioglitazone.\r\n- Previous participation in another investigational study within the last 3 months.\r\n- History of congestive heart failure or other significant cardiovascular disease.\r\n- Renal impairment (eGFR < 30 mL/min).\r\n- Current treatment with other neuropathic pain medications."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Medical Center"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Medical Center",
+        "address": {
+          "city": "Anytown",
+          "state": "Anystate",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2021",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_submitted_qc": "January 18, 2020",
+    "study_first_posted": "January 21, 2020",
+    "last_update_submitted": "April 10, 2021",
+    "last_update_submitted_qc": "April 10, 2021",
+    "last_update_posted": "April 12, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "XYZ Medical Center"
+    },
+    "keyword": [
+      "Diabetic Peripheral Neuropathy",
+      "Pain Management",
+      "Pioglitazone"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Peripheral Nervous System Diseases"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Pioglitazone"
+    },
+    "reasons_for_failure": {
+      "reason1": "Insufficient statistical power due to low enrollment numbers hindered the ability to achieve conclusive results.",
+      "reason2": "Absence of significant treatment advantages in preliminary analyses led to premature termination of the study.",
+      "reason3": "Narrow therapeutic window associated with pioglitazone's profile complicated the interpretation of efficacy data.",
+      "reason4": "Patient heterogeneity regarding comorbid conditions and concurrent medications further obscured assessment outcomes."
+    }
+  }
+}
+```

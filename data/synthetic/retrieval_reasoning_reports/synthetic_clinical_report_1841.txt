@@ -1,0 +1,169 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01098765"
+    },
+    "id_info": {
+      "org_study_id": "ABC-1234",
+      "secondary_id": ["NCI-2020-03456", "RTOG-ABC", "SWOG-2020-111"],
+      "nct_id": "NCT01098765"
+    },
+    "brief_title": "Efficacy of Bicalutamide in Conjunction with Radiation Therapy for High-Risk Prostate Cancer",
+    "official_title": "A Phase III Randomized Trial of Bicalutamide with Radiation Therapy in Patients with High-Risk Localized Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "The Urology Foundation",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "The Urology Foundation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Androgen deprivation therapy has shown significant promise in the treatment of prostate cancer by inhibiting androgen receptor activation. Bicalutamide, as an androgen receptor antagonist, may augment the effectiveness of radiation therapy by further suppressing tumor proliferation.\r\n\r\nPURPOSE: This trial aims to assess the overall efficacy and safety of bicalutamide combined with radiation therapy in patients diagnosed with high-risk localized prostate cancer."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\r\n\r\nI. To evaluate the efficacy of bicalutamide in combination with radiation therapy in terms of overall survival and progression-free survival compared to radiation therapy alone.\r\n\r\nII. To assess the quality of life of patients receiving bicalutamide alongside radiation therapy utilizing validated assessment tools.\r\n\r\nIII. To determine the impact of bicalutamide on symptomatic control as measured by the frequency of adverse events and need for subsequent treatment interventions.\r\n\r\nOUTLINE: This randomized, multicenter trial involves two treatment arms. Patients will be stratified based on Gleason score, initial PSA levels, and clinical stage:\r\n\r\nArm I: Patients will receive bicalutamide (150 mg orally once daily) combined with radiation therapy (66-70 Gy administered in fractions over 7 weeks).\r\n\r\nArm II: Patients will receive radiation therapy alone.\r\n\r\nThe primary outcome will be analyzed at the 5-year mark, while secondary outcomes will encompass quality of life assessments conducted at baseline, 3 months, and annually thereafter."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2015",
+    "completion_date": "August 15, 2022",
+    "primary_completion_date": "March 15, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival",
+      "time_frame": "5 years from randomization",
+      "description": "Overall survival rates were estimated using the Kaplan-Meier method."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "5 years from randomization",
+        "description": "Measured by the time from randomization to disease progression or death."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "3 months, annually for 5 years",
+        "description": "Utilized the EORTC-QLQ-C30 tool for comprehensive quality of life evaluation."
+      },
+      {
+        "measure": "Symptomatic Control",
+        "time_frame": "5 years from randomization",
+        "description": "Frequency of adverse events recorded, including the need for additional interventions."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "780",
+    "condition": "High-Risk Localized Prostate Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Bicalutamide + Radiation Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Combination of bicalutamide and radiation therapy in treating high-risk localized prostate cancer."
+      },
+      {
+        "arm_group_label": "Radiation Therapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive radiation therapy without additional antiandrogen treatment."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "bicalutamide",
+        "description": "150 mg orally daily for the duration of the treatment protocol.",
+        "arm_group_label": "Bicalutamide + Radiation Therapy",
+        "other_name": ["Casodex"]
+      },
+      {
+        "intervention_type": "Radiation",
+        "intervention_name": "radiation therapy",
+        "description": "66-70 Gy in 33-35 fractions over a period of 7 weeks.",
+        "arm_group_label": ["Bicalutamide + Radiation Therapy", "Radiation Therapy Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Histologically confirmed adenocarcinoma of the prostate, stages T3-T4 or recurrent N0M0 within the past 6 months.\r\n\r\n  - Initial PSA >= 10 ng/mL and a Gleason score of >= 7.\r\n\r\n  - ECOG performance status of 0-2.\r\n\r\n  - Adequate organ function defined by standard hematologic and biochemical parameters.\r\n\r\nExclusion Criteria:\r\n\r\n  - Prior prostate surgery or radiation therapy.\r\n\r\n  - Concurrent systemic chemotherapy or other investigational medical therapies.\r\n\r\n  - Evidence of metastatic disease at study entry.\r\n\r\n  - Serious co-morbidities or other conditions that may impair protocol adherence."
+      },
+      "gender": "Male",
+      "minimum_age": "N/A",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John Smith",
+        "role": "Principal Investigator",
+        "affiliation": "The Urology Foundation"
+      },
+      {
+        "last_name": "Jane Doe",
+        "role": "Study Chair",
+        "affiliation": "National Cancer Institute"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "The Urology Foundation Clinic",
+          "address": {
+            "city": "London",
+            "state": "England",
+            "zip": "EC1A 1BB",
+            "country": "United Kingdom"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "National Cancer Institute",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United Kingdom", "United States"]
+    },
+    "verification_date": "August 2022",
+    "study_first_submitted": "February 10, 2015",
+    "study_first_submitted_qc": "March 10, 2015",
+    "study_first_posted": "March 12, 2015",
+    "results_first_submitted": "April 25, 2022",
+    "results_first_posted": "May 1, 2022",
+    "last_update_submitted": "August 10, 2022",
+    "last_update_posted": "August 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["high-risk localized prostate cancer", "bicalutamide", "radiation therapy"],
+    "condition_browse": {
+      "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Bicalutamide"
+    }
+  }
+}
+```

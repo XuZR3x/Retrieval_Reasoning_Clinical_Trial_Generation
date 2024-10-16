@@ -1,0 +1,129 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02853168"
+    },
+    "id_info": {
+      "org_study_id": "GCO 15-0751",
+      "nct_id": "NCT02853168"
+    },
+    "brief_title": "Phase II Study of Cisplatin and Atezolizumab in Patients With Advanced Urothelial Carcinoma",
+    "official_title": "A Phase II Study of Cisplatin in Combination With Atezolizumab in Patients With Advanced Urothelial Carcinoma Who Have Failed Prior Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, Los Angeles",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Genentech",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of California, Los Angeles",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This is a Phase II trial evaluating the efficacy and safety of cisplatin in combination with atezolizumab in patients with advanced urothelial carcinoma who have failed prior therapies. The trial aims to determine the overall response rate and identify any potential adverse events associated with the combination regimen."
+    },
+    "detailed_description": {
+      "textblock": "This trial will enroll patients diagnosed with advanced urinary tract carcinoma characterized as unresectable or metastatic, which require treatment but have demonstrated disease progression on previous therapies. The combination treatment will consist of cisplatin at a dose of 70 mg/m² IV on day 1, alongside atezolizumab administered every three weeks for a total of six cycles, followed by maintenance therapy with atezolizumab.\n\n **Primary Objective:**\n - To evaluate the overall response rate as defined by RECIST criteria after six cycles of therapy.\n\n **Secondary Objectives:**\n - To assess the safety profile of the cisplatin and atezolizumab combination.\n - To investigate progression-free survival rates in the treated patient cohort.\n - To analyze the expression levels of potential biomarkers correlated with response."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient efficacy observed; high rates of treatment-related adverse events.",
+    "start_date": "October 2016",
+    "completion_date": "March 2019",
+    "primary_completion_date": "January 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "Primary analysis conducted at the end of six cycles of treatment, approximately 18 weeks.",
+      "description": "The overall response rate will be assessed using the Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1."
+    },
+    "secondary_outcome": {
+      "measure": "Safety Assessment",
+      "time_frame": "Adverse events will be recorded continuously throughout the treatment phase and up to 30 days after the last dose.",
+      "description": "All adverse events will be graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+    },
+    "number_of_arms": "1",
+    "enrollment": "32",
+    "condition": ["Urothelial Carcinoma", "Bladder Cancer", "Renal Pelvis Cancer"],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "arm_group_label": "Cisplatin and Atezolizumab",
+        "description": "Cisplatin 70 mg/m² IV on day 1, administered in conjunction with atezolizumab."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Atezolizumab",
+        "arm_group_label": "Cisplatin and Atezolizumab",
+        "description": "Atezolizumab 1200 mg IV every three weeks for six cycles followed by maintenance therapy."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": " **Inclusion Criteria:**\n - Adults ≥ 18 years of age with histologically confirmed unresectable or metastatic urothelial carcinoma.\n - Previous treatment failure or disease progression on at least one line of chemotherapy.\n - Measurable disease as defined by RECIST criteria.\n - Adequate organ function correlated with laboratory parameters.\n\n **Exclusion Criteria:**\n - Prior treatment with atezolizumab or other PD-L1 inhibitors.\n - Patients with active autoimmune diseases requiring systemic treatment.\n - Known history of hypersensitivity to any component of the study drugs.\n - Patients with severe comorbid conditions that would jeopardize safety."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Michael A. Steinberg, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, Los Angeles"
+    },
+    "location": {
+      "facility": {
+        "name": "University of California, Los Angeles",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2019",
+    "study_first_submitted": "August 10, 2016",
+    "study_first_posted": "August 12, 2016",
+    "last_update_submitted": "March 5, 2019",
+    "last_update_posted": "March 7, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "University of California, Los Angeles",
+      "investigator_full_name": "Michael A. Steinberg",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Advanced Urothelial Carcinoma",
+      "Cisplatin",
+      "Atezolizumab",
+      "Combination Chemotherapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Urothelial Carcinoma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Cisplatin"
+    }
+  }
+}
+```

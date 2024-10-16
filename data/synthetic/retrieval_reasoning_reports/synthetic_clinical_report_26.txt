@@ -1,0 +1,229 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04220235"
+    },
+    "id_info": {
+      "org_study_id": "2019-004680-40",
+      "nct_id": "NCT04220235"
+    },
+    "brief_title": "Efficacy and Safety of Pregabalin in Patients with Chronic Post-surgical Pain",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Pregabalin in Patients with Chronic Post-surgical Pain",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the analgesic efficacy and safety of pregabalin over placebo in patients experiencing chronic pain post-surgery. Participants were randomized to receive either pregabalin or matched placebo for a duration of 12 weeks."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2020",
+    "completion_date": "March 2022",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change from Baseline in Pain Intensity on the Numerical Rating Scale (NRS)",
+        "time_frame": "Baseline to Week 12",
+        "description": "Primary objective evaluating the mean change in pain intensity on an 11-point NRS where 0 represents 'no pain' and 10 represents 'worst possible pain'."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Patient's Global Impression of Change (PGIC) Scale",
+        "time_frame": "Week 12",
+        "description": "Secondary objective measuring the patient's perceived overall change in condition. Scored from 1 (very much improved) to 7 (very much worse)."
+      },
+      {
+        "measure": "BPI (Brief Pain Inventory) Pain Severity Score",
+        "time_frame": "Baseline to Week 12",
+        "description": "Assessment of pain severity using BPI, with a scoring range from 0 (no pain) to 10 (worst pain)."
+      },
+      {
+        "measure": "Sleep Interference Score per the Medical Outcomes Study Sleep Scale (MOS-SS)",
+        "time_frame": "Baseline to Week 12",
+        "description": "Change in sleep interference evaluated as an impact of pain on sleep, using a scale from 0 (no interference) to 10 (complete interference)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Chronic Post-surgical Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Pregabalin",
+        "arm_group_type": "Experimental",
+        "description": "Pregabalin administered at a starting dose of 150 mg daily, titrated as needed up to 600 mg/day."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo capsules matching pregabalin administered at the same dosing schedule."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pregabalin",
+        "description": "Investigational pain management drug, administered orally once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Mock drug treatment administered in identical capsules to maintain blinding."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18 and older experiencing chronic pain lasting over 3 months post-surgery.\n- Pain intensity rated at least 4 on the NRS at screening.\n- Ability to comply with study requirements and provide written informed consent.\n\nExclusion Criteria:\n\n- History of allergic reaction to pregabalin or other gabapentinoids.\n- Current ongoing treatment with opioids or any other analgesics for pain management.\n- Neuropathic pain from conditions unrelated to surgery, such as diabetic neuropathy.\n- Pregnant or nursing women, or individuals with severe renal impairment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Alice Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Pharmaceuticals"
+    },
+    "location": [{
+      "facility": {
+        "name": "City Hospital Research Institute",
+        "address": {
+          "city": "Metropolis",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2022",
+    "study_first_submitted": "December 1, 2019",
+    "study_first_submitted_qc": "December 5, 2019",
+    "study_first_posted": "December 10, 2019",
+    "results_first_submitted": "April 1, 2022",
+    "results_first_submitted_qc": "April 15, 2022",
+    "results_first_posted": "May 1, 2022",
+    "last_update_submitted": "May 10, 2022",
+    "last_update_posted": "May 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Pregabalin",
+      "Chronic Pain",
+      "Post-Surgery",
+      "Neuropathic Pain"
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "enrollment": {
+          "participants": 300,
+          "completed": {
+            "pregabalin_group": 148,
+            "placebo_group": 145
+          },
+          "discontinued": {
+            "pregabalin_group": 25,
+            "placebo_group": 30
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "From the date of signing consent until 30 days post-treatment.",
+        "desc": "Participants reported various adverse events throughout the trial."
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [2, 4]
+                }
+              }
+            },
+            {
+              "title": "Nervous system disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Dizziness",
+                  "counts": [3, 5]
+                }
+              }
+            },
+            {
+              "title": "Psychiatric disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Severe depression",
+                  "counts": [2, 1]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "MedDRA",
+        "category_list": {
+          "category": [
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Nausea",
+                  "counts": [12, 10]
+                }
+              }
+            },
+            {
+              "title": "General disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Fatigue",
+                  "counts": [8, 7]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "limitations_and_caveats": {
+      "text": "The study may not have demonstrated significant efficacy due to high variability in participants' reactions to treatment. The relatively small sample size was inadequate to sufficiently capture the full spectrum of common adverse events associated with pregabalin."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trials Department",
+      "organization": "XYZ Pharmaceuticals",
+      "phone": "1-800-555-0199",
+      "email": "clinicaltrials@xyzpharma.com"
+    }
+  }
+}
+```

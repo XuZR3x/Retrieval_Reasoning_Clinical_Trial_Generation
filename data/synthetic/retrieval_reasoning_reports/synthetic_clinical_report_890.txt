@@ -1,0 +1,318 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02876434"
+    },
+    "id_info": {
+      "org_study_id": "MO-2021-005",
+      "nct_id": "NCT02876434"
+    },
+    "brief_title": "Evaluation of Temozolomide with Personalized Treatment Plan in Patients with Recurrent High-Grade Gliomas",
+    "official_title": "A Phase II Trial of Personalized Temozolomide Treatment Based on Methylated MGMT Status in Patients with Recurrent High-Grade Gliomas",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "City of Hope National Medical Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "City of Hope National Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to evaluate the efficacy and safety of temozolomide in combination with personalized treatment regimens based on the methylation status of the MGMT gene. Preliminary data suggests that integrating MGMT assessment may optimize therapeutic outcomes for patients suffering from recurrent high-grade gliomas."
+    },
+    "detailed_description": {
+      "textblock": "This is a randomized Phase II clinical trial designed to assess the effectiveness of a precision medicine approach to temozolomide therapy in patients with recurrent high-grade gliomas. Participants will undergo initial screening for MGMT promoter methylation, and their treatment will be tailored accordingly. Subjects with methylated MGMT will receive standard dosing of temozolomide, while those with unmethylated MGMT will receive a dose-dense schedule. Treatments will be administered for up to 6 cycles, with restaging assessments following every 2 cycles. The primary endpoint will be the overall survival at 12 months, secondary outcomes include progression-free survival and response rates as defined by RECIST criteria, as well as the correlation of MGMT status with treatment response."
+    },
+    "overall_status": "Active, not recruiting",
+    "start_date": "February 2, 2022",
+    "completion_date": "January 15, 2025",
+    "primary_completion_date": "December 15, 2024",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival at 12 Months",
+      "time_frame": "Until death or last follow up, an average of 12 months",
+      "description": "Overall survival defined as the time from randomization until death or last known alive."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Assessed every 2 months until disease progression or initiation of new therapy",
+        "description": "Time from randomization to documented progression or death."
+      },
+      {
+        "measure": "Response Rates",
+        "time_frame": "Evaluated every 2 cycles during treatment",
+        "description": "Defined as the proportion of patients with a complete or partial response as per RECIST criteria."
+      },
+      {
+        "measure": "Effects of MGMT Status on Treatment Response",
+        "time_frame": "Through study completion, an average of 1 year",
+        "description": "Correlation analysis between MGMT methylation status and clinical outcomes."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": [
+      "Glioblastoma Multiforme",
+      "Anaplastic Astrocytoma"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Personalized Temozolomide Treatment (MGMT Methylated)",
+        "arm_group_type": "Experimental",
+        "description": "Patients with methylated MGMT will receive standard oral temozolomide at 150 mg/m² on days 1-5 of each 28-day cycle."
+      },
+      {
+        "arm_group_label": "Dose-Dense Temozolomide Treatment (MGMT Unmethylated)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients with unmethylated MGMT will receive dose-dense temozolomide at 75 mg/m² on days 1-7 and 15-21 of every 28-day cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Temozolomide",
+        "description": "Administered orally; dosed based on MGMT status.",
+        "arm_group_label": [
+          "Personalized Temozolomide Treatment (MGMT Methylated)",
+          "Dose-Dense Temozolomide Treatment (MGMT Unmethylated)"
+        ],
+        "other_name": "Temodar"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Histological confirmation of high-grade glioma (GBM or AA).\r\n\r\n  - Patients must have measurable disease as defined by RECIST criteria.\r\n\r\n  - Age ≥ 18 years.\r\n\r\n  - ECOG performance status 0-2.\r\n\r\n  - Adequate organ function, including liver, renal, and bone marrow.\r\n\r\n  - Signed informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  - Prior chemotherapy or radiation for glioma.\r\n\r\n  - Concurrent malignancies except for non-melanoma skin cancer.\r\n\r\n  - Significant comorbidities that may affect study participation.\r\n\r\n  - Pregnant or breastfeeding females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James B. Yu, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "City of Hope National Medical Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City of Hope National Medical Center",
+          "address": {
+            "city": "Duarte",
+            "state": "California",
+            "zip": "91010",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Keck Medicine of USC",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90089",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "July 15, 2021",
+    "study_first_submitted_qc": "July 20, 2021",
+    "study_first_posted": "July 25, 2021",
+    "results_first_submitted": "February 15, 2025",
+    "results_first_submitted_qc": "February 20, 2025",
+    "results_first_posted": "March 02, 2025",
+    "last_update_submitted": "March 01, 2024",
+    "last_update_posted": "March 05, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Temozolomide",
+      "MGMT Methylation",
+      "Glioblastoma Multiforme"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Glioblastoma",
+        "Anaplastic Astrocytoma"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Temozolomide"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Activated on September 1, 2021, and closed on February 30, 2024, with a total enrollment of 120 participants.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Personalized Temozolomide Treatment (MGMT Methylated)",
+              "description": "Participants with methylated MGMT received standard oral temozolomide."
+            },
+            {
+              "title": "Dose-Dense Temozolomide Treatment (MGMT Unmethylated)",
+              "description": "Participants with unmethylated MGMT received dose-dense temozolomide."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": [
+              {
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": null
+                }
+              },
+              {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": null
+                }
+              },
+              {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": null
+                }
+              }
+            ]
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Personalized Temozolomide Treatment (MGMT Methylated)",
+              "description": "Patients received standard oral temozolomide."
+            },
+            {
+              "title": "Dose-Dense Temozolomide Treatment (MGMT Unmethylated)",
+              "description": "Patients received dose-dense temozolomide."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Ethnicity (NIH/OMB)",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Race (NIH/OMB)",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival at 12 Months",
+            "description": "Overall survival defined as the time from randomization until death or last known alive.",
+            "time_frame": "Assessed continuously until the end of the study."
+          },
+          {
+            "type": "Secondary",
+            "title": "Objective Response Rate",
+            "description": "Percentage of patients achieving a complete or partial response.",
+            "time_frame": "Every 2 months during the treatment period."
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival",
+            "description": "Time from randomization to documented progression of disease.",
+            "time_frame": "Assessed every 2 months until progression."
+          },
+          {
+            "type": "Secondary",
+            "title": "Impact of MGMT Status",
+            "description": "Evaluate how MGMT status correlates with treatment outcomes.",
+            "time_frame": "Throughout the study duration."
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Assessed every 4 weeks during treatment and for 30 days after treatment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Personalized Temozolomide Treatment",
+              "description": "Monitoring for treatment-related adverse events."
+            },
+            {
+              "title": "Dose-Dense Temozolomide Treatment",
+              "description": "Monitoring for treatment-related adverse events."
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Dr. James B. Yu",
+        "organization": "City of Hope National Medical Center",
+        "phone": "626-256-4673",
+        "email": "jyu@coh.org"
+      }
+    }
+  }
+}
+```

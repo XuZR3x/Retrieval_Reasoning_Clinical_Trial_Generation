@@ -1,0 +1,325 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04378965"
+    },
+    "id_info": {
+      "org_study_id": "CLDT600A3005",
+      "nct_id": "NCT04378965"
+    },
+    "brief_title": "Efficacy and Safety of Telbivudine in Patients With Chronic Hepatitis B: A Global Multi-Center Study",
+    "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Active-Controlled Study Evaluating the Efficacy and Safety of Telbivudine Versus Entecavir in Treatment-Naïve Adults with Chronic Hepatitis B",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novartis Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novartis",
+    "brief_summary": {
+      "textblock": "This study aims to directly compare the efficacy and safety of Telbivudine versus Entecavir in a randomized setting, utilizing a robust multicenter design to evaluate treatment-naïve adults diagnosed with chronic hepatitis B infection."
+    },
+    "detailed_description": {
+      "textblock": "This is a Phase 3, randomized, double-blind, active-controlled trial involving 500 participants across various international sites. Participants diagnosed with chronic Hepatitis B were randomized to receive either Telbivudine (600 mg/day) or Entecavir (0.5 mg/day) for 96 weeks. The study's primary endpoint was defined as the proportion of patients achieving a sustained virologic response, indicated by HBV DNA levels consistently below 300 copies/mL at the 96-week mark. Secondary outcomes focused on hepatic function improvement as assessed by ALT normalization and the Child-Turcotte-Pugh (CTP) score assessment of liver function."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2020",
+    "primary_completion_date": "January 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Participants Achieving HBV DNA < 300 Copies/mL",
+      "time_frame": "Week 96",
+      "description": "The percentage of patients achieving HBV DNA levels below 300 copies/mL at the 96-week follow-up."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Normalization of Alanine Transaminase (ALT)",
+        "time_frame": "Weeks 24, 48, 96",
+        "description": "Proportion of patients with normalized ALT levels (< ULN) during the treatment period."
+      },
+      {
+        "measure": "Improvement in Child-Turcotte-Pugh Score",
+        "time_frame": "Baseline, Week 96",
+        "description": "Change in CTP scores, considering stabilization or improvement from baseline values."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": "Chronic Hepatitis B",
+    "arm_group": [
+      {
+        "arm_group_label": "Telbivudine 600 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants received Telbivudine 600 mg orally once daily for up to 96 weeks."
+      },
+      {
+        "arm_group_label": "Entecavir 0.5 mg",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received Entecavir 0.5 mg orally once daily for up to 96 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Telbivudine",
+        "description": "600 mg/day oral tablet for 96 weeks",
+        "arm_group_label": "Telbivudine 600 mg",
+        "other_name": ["LDT600", "Tyzeka"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Entecavir",
+        "description": "0.5 mg/day oral tablet for 96 weeks",
+        "arm_group_label": "Entecavir 0.5 mg"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adult patients aged 18 years or older with a confirmed diagnosis of chronic hepatitis B.\r\n\r\n  - Naïve to any antiviral therapy related to hepatitis B.\r\n\r\n  - Patients must have documented HBV infection confirmed by positive HBV surface antigen (HBsAg) for at least 6 months.\r\n\r\nExclusion Criteria:\r\n\r\n  - Patients with any contraindications to either Telbivudine or Entecavir.\r\n\r\n  - Pregnant or breastfeeding women.\r\n\r\n  - Patients with AIDs or co-infections with Hepatitis C (HCV) or Hepatitis D (HDV).\r\n\r\n  - Significant concurrent liver disease or hepatic decompensation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "New York",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Paris",
+            "country": "France"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novartis Investigative Site",
+          "address": {
+            "city": "Tokyo",
+            "country": "Japan"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States",
+        "France",
+        "Japan",
+        "Germany",
+        "Canada"
+      ]
+    },
+    "results_reference": {
+      "citation": "Smith J, Ogawa N, Zhao L, et al. A Phase 3 Evaluation of the Efficacy and Safety of Telbivudine in Patients with Chronic Hepatitis B: Milestones in Clinical Development. *Journal of Viral Hepatitis*, 2023 Jun; 30(6):123-135. doi: 10.1111/jvh.13600."
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "December 15, 2019",
+    "study_first_posted": "January 5, 2020",
+    "last_update_posted": "August 29, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "organization": "Novartis Pharmaceuticals"
+    },
+    "keyword": [
+      "Telbivudine",
+      "Chronic Hepatitis B",
+      "Antiviral Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Hepatitis B",
+        "Chronic Hepatitis B",
+        "Hepatitis"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Telbivudine",
+        "Entecavir"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "500 patients were screened. A total of 500 participants were randomized into two groups.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Telbivudine 600 mg",
+              "description": "Participants received Telbivudine 600 mg and were monitored over the treatment course."
+            },
+            {
+              "title": "Entecavir 0.5 mg",
+              "description": "Participants received Entecavir 0.5 mg and were monitored over the treatment course."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [500, 500]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [400, 410]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [100, 90]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Telbivudine 600 mg",
+              "description": "Participants with chronic hepatitis B receiving Telbivudine."
+            },
+            {
+              "title": "Entecavir 0.5 mg",
+              "description": "Participants with chronic hepatitis B receiving Entecavir."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Percentage of Participants Achieving HBV DNA < 300 Copies/mL",
+            "description": "The primary outcome showcased the percentage of participants achieving sustained virologic response after 96 weeks.",
+            "time_frame": "Week 96",
+            "population": "Intention-to-treat analysis",
+            "measure": {
+              "title": "HBV DNA < 300 Copies/mL",
+              "description": "Percentage of participants with undetectable HBV DNA levels below specified thresholds after treatment."
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Normalization of ALT Levels",
+            "description": "Assesses the proportion of patients with normal ALT levels throughout the treatment duration.",
+            "time_frame": "Weeks 24, 48, and 96",
+            "population": "Data collected from both treatment groups for comparative analysis."
+          },
+          {
+            "type": "Secondary",
+            "title": "Improvement in CTP Scores",
+            "description": "Percentage change in CTP scores from baseline to the end of treatment indicating liver function status.",
+            "time_frame": "Week 96",
+            "population": "Examined using CTP criteria based on baseline evaluations."
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Adverse Events - Telbivudine Group",
+              "description": "Monitoring of adverse events experienced by the Telbivudine group."
+            },
+            {
+              "title": "Adverse Events - Entecavir Group",
+              "description": "Monitoring of adverse events experienced by the Entecavir group."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total reported",
+                    "counts": [10, 15]
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal Disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Abdominal Pain",
+                      "counts": [5, 8]
+                    },
+                    {
+                      "sub_title": "Nausea",
+                      "counts": [3, 5]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Other Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total reported",
+                    "counts": [20, 25]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is no agreement that restricts the Principal Investigators' rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trials Management",
+        "organization": "Novartis Pharmaceuticals",
+        "phone": "862-778-8300"
+      }
+    }
+  }
+}
+```

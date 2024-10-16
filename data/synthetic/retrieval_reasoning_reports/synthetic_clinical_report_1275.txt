@@ -1,0 +1,148 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 29, 2023",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03865957"
+    },
+    "id_info": {
+      "org_study_id": "ENOX-HEART-001",
+      "nct_id": "NCT03865957"
+    },
+    "brief_title": "Evaluation of Enoxaparin in Patients with Non-ST Elevation Myocardial Infarction (NSTEMI)",
+    "acronym": "ENOX-HEART",
+    "official_title": "Multicenter, Randomized, Double-Blind Study to Assess the Safety and Efficacy of Enoxaparin Versus Unfractionated Heparin in Patients with Non-ST Elevation Myocardial Infarction",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Cardiovascular Research Institute",
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the superiority of enoxaparin over unfractionated heparin in reducing the incidence of major adverse cardiac events (MACE) in patients with non-ST elevation myocardial infarction (NSTEMI) treated with conservative management. The research sought to clarify any potential benefits enoxaparin may possess in this specific cohort."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study terminated due to the inability to demonstrate superiority of enoxaparin over standard treatment; did not meet primary efficacy endpoint.",
+    "start_date": "March 2019",
+    "completion_date": "July 2021",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Major Adverse Cardiac Events (MACE)",
+      "time_frame": "Up to 30 days post randomization"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "All-cause mortality",
+        "time_frame": "Within 30 days"
+      },
+      {
+        "measure": "Major bleeding events according to the TIMI criteria",
+        "time_frame": "During hospitalization"
+      },
+      {
+        "measure": "Change in endogenous thrombin potential",
+        "time_frame": "Baseline and 24 hours post-treatment initiation"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "670",
+    "condition": "Non-ST Elevation Myocardial Infarction",
+    "arm_group": [
+      {
+        "arm_group_label": "A",
+        "arm_group_type": "Experimental",
+        "description": "Enoxaparin at a dosage of 1 mg/kg subcutaneously every 12 hours"
+      },
+      {
+        "arm_group_label": "B",
+        "arm_group_type": "Active Comparator",
+        "description": "Unfractionated heparin administered as a continuous intravenous infusion"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Enoxaparin",
+        "description": "1 mg/kg subcutaneously every 12 hours",
+        "arm_group_label": "A"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Unfractionated Heparin",
+        "description": "IV infusion titrated to activated clotting time (ACT)",
+        "arm_group_label": "B"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adult patients (≥ 18 years) with a diagnosis of NSTEMI based on current guidelines.\r\n  - Patients requiring hospitalization and conservative management approach.\r\n  - Signed informed consent provided.\r\n\r\nExclusion Criteria:\r\n - Previous use of anticoagulants within 48 hours prior to randomization.\r\n - Active bleeding or high risk of bleeding not controlled by medical management.\r\n - Renal insufficiency (Creatinine Clearance <30 mL/min).\r\n - Major comorbid conditions that could interfere with study outcomes."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Samuel R. Thompson",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cardiovascular Research Institute Hospital",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Heart & Vascular Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2021",
+    "study_first_submitted": "February 15, 2019",
+    "study_first_submitted_qc": "February 20, 2019",
+    "study_first_posted": "February 25, 2019",
+    "last_update_submitted": "May 28, 2021",
+    "last_update_submitted_qc": "May 28, 2021",
+    "last_update_posted": "May 29, 2021",
+    "responsible_party": {
+      "name_title": "Trial Transparency Team",
+      "organization": "Cardiovascular Research Institute"
+    },
+    "keyword": [
+      "NSTEMI",
+      "Enoxaparin",
+      "Anticoagulation",
+      "Cardiac Events"
+    ],
+    "intervention_browse": {
+      "mesh_term": "Enoxaparin"
+    }
+  }
+}
+```

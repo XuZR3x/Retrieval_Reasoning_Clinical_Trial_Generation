@@ -1,0 +1,133 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "ABC-2013-00244",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "IXABEPILONE in Patients With Advanced Non-Small Cell Lung Cancer (NSCLC)",
+    "official_title": "Phase II Study of Ixabepilone in Combination With Carboplatin and Pemetrexed in Patients With Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institution for Advanced Cancer Research",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Institution for Advanced Cancer Research",
+    "brief_summary": {
+      "textblock": "This Phase II trial aims to evaluate the efficacy and safety of ixabepilone in combination with carboplatin and pemetrexed in patients with advanced non-small cell lung cancer (NSCLC) who have not received prior chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\nI. To assess the overall response rate (ORR) of the ixabepilone combination therapy in patients with advanced NSCLC. \nII. To evaluate the safety and tolerability of this combination therapy.\n\nOUTLINE: This is a multicenter, open-label study. Eligible patients will receive ixabepilone intravenously on days 1 and 8, along with carboplatin and pemetrexed on day 1 of each 21-day cycle. Treatment will continue for up to 6 cycles in the absence of disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Terminated",
+    "start_date": "November 2013",
+    "primary_completion_date": "October 2016",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall response rate (ORR)",
+      "time_frame": "From study start until disease progression (up to 18 months)",
+      "description": "Determination of ORR using RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "From the start of treatment until the first documentation of disease progression, up to 18 months.",
+        "description": "PFS will be assessed every 6 weeks during therapy."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "Up to 30 days post-treatment.",
+        "description": "Safety assessment will be performed according to NCI CTCAE version 4.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "35",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Combination Therapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive ixabepilone in combination with carboplatin and pemetrexed."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "ixabepilone",
+        "description": "Administered IV on days 1 and 8 of each cycle.",
+        "arm_group_label": "Combination Therapy",
+        "other_name": ["BMS-247550", "Ixempra"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "carboplatin",
+        "description": "Administered IV on day 1 of each cycle.",
+        "arm_group_label": "Combination Therapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "pemetrexed",
+        "description": "Administered IV on day 1 of each cycle.",
+        "arm_group_label": "Combination Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed advanced non-small cell lung cancer (NSCLC).  \n- No prior systemic chemotherapy for advanced disease.  \n- At least one measurable lesion as defined by RECIST v1.1.\n- ECOG performance status 0-2.\n\nExclusion Criteria:\n\n- Significant comorbidities that may interfere with study treatments.\n- Known hypersensitivity to ixabepilone or any component of the study treatments.\n- Pregnant or breastfeeding patients.  \n- Patients with symptomatic brain metastases."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Theresa Chen",
+      "role": "Principal Investigator",
+      "affiliation": "Institution for Advanced Cancer Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Institution for Advanced Cancer Research",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "October 15, 2013",
+    "study_first_submitted_qc": "October 20, 2013",
+    "study_first_posted": "October 25, 2013",
+    "last_update_submitted": "May 29, 2016",
+    "last_update_submitted_qc": "May 29, 2016",
+    "last_update_posted": "June 1, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Advanced NSCLC", "Ixabepilone", "Combination Therapy", "Phase II"],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ixabepilone", "Carboplatin", "Pemetrexed"]
+    }
+  }
+}
+```

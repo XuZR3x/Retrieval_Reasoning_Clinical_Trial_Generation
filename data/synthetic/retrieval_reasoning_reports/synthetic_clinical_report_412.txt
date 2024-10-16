@@ -1,0 +1,205 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2023-0076",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Clofarabine in Combination with Busulfan and Fludarabine in Patients with Relapsed Acute Myeloid Leukemia",
+    "official_title": "A Phase II Randomized Trial Evaluating the Efficacy of Clofarabine Combined with Busulfan and Fludarabine Versus Standard Care in Patients with Relapsed Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Genzyme, a Sanofi Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical study aims to evaluate the combination of clofarabine with busulfan and fludarabine in patients with relapsed acute myeloid leukemia (AML). The primary goal is to ascertain whether this combination can enhance treatment efficacy while maintaining a manageable safety profile."
+    },
+    "detailed_description": {
+      "textblock": "Clofarabine is a purine nucleoside analog which inhibits DNA synthesis in malignant cells, exhibiting robust cytotoxicity in hematologic malignancies. The study design involves administering clofarabine in conjunction with busulfan and fludarabine across sequential cohorts, with both dose-adjustment strategies and adaptive randomization incorporated for maximizing efficacy. The inclusion of comprehensive safety profiling and intensive patient monitoring facilitated through a multi-disciplinary collaborative framework underscores the trial's commitment to optimizing therapeutic outcomes.\n\nParticipants will undergo pre-screening to ensure adherence to stringent eligibility criteria, thereby maximizing tolerable treatment responses and minimizing severe adverse events. The study hypothesis posits that the synergistic effect of this combination can lead to improved response rates compared to standard therapy.\n\nEligible patients will be randomized into two arms: one receiving the combination regimen of clofarabine (10 mg/m² IV on Days 1-4), busulfan (30 mg/m² IV on Days -6 to -3), and fludarabine (30 mg/m² IV on Days -6 to -2), while the control group will receive standard care without clofarabine. Prophylactic measures, including the administration of granulocyte colony-stimulating factor (G-CSF), will be implemented to prevent myelosuppression-related complications.\n\nMonitoring for treatment-related toxicity will occur via regular assessment of blood counts along with vigilant observation for infections. This proactive patient management approach, facilitated by oncologists, specialized nursing staff, and pharmacists, aims to address any emerging side effects promptly."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2023",
+    "completion_date": "April 2026",
+    "primary_completion_date": "April 2026",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "Measured at 30 days post-treatment initiation",
+      "description": "The overall response is assessed based on the presence or absence of complete or partial response as determined by the 2017 European LeukemiaNet criteria."
+    },
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": ["Acute Myeloid Leukemia", "Relapsed AML"],
+    "arm_group": [
+      {
+        "arm_group_label": "Clofarabine + Busulfan + Fludarabine",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive clofarabine IV 10 mg/m² for 4 days, busulfan IV 30 mg/m² for 4 days, and fludarabine IV 30 mg/m² for 4 days."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive standard chemotherapy regimen without clofarabine."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clofarabine",
+        "description": "10 mg/m² IV on Days 1-4.",
+        "arm_group_label": "Clofarabine + Busulfan + Fludarabine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Busulfan",
+        "description": "30 mg/m² IV daily for 4 days.",
+        "arm_group_label": "Clofarabine + Busulfan + Fludarabine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fludarabine",
+        "description": "30 mg/m² IV daily for 4 days.",
+        "arm_group_label": "Clofarabine + Busulfan + Fludarabine"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients aged 18 years or older with histologically confirmed relapsed AML.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n- Adequate organ function as determined by standard laboratory tests.\n- Ability to provide written informed consent.\n\nExclusion Criteria:\n- Prior treatment with clofarabine.\n- Significant comorbidities that contraindicate intensive chemotherapy.\n- Active CNS involvement.\n- Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "February 26, 2023",
+    "study_first_posted": "March 1, 2023",
+    "last_update_posted": "August 1, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_full_name": "Dr. John Smith",
+      "investigator_title": "Professor of Oncology"
+    },
+    "keyword": ["Clofarabine", "Acute Myeloid Leukemia", "Busulfan", "Fludarabine"],
+    "condition_browse": {
+      "mesh_term": ["Leukemia", "Leukemia, Myeloid", "Leukemia, Myeloid, Acute"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Clofarabine", "Busulfan", "Fludarabine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited from February 2023 to March 2026 at Johns Hopkins University.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Experimental Arm",
+              "description": "Clofarabine + Busulfan + Fludarabine"
+            },
+            {
+              "title": "Control Arm",
+              "description": "Standard Care"
+            }
+          ]
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Experimental Arm",
+                "description": "Patients receiving combination treatment."
+              },
+              {
+                "title": "Control Arm",
+                "description": "Patients receiving standard care."
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": {
+          "type": "Primary",
+          "title": "Overall Response Rate",
+          "description": "Percentage of patients achieving complete or partial response.",
+          "time_frame": "30 days post first treatment."
+        }
+      },
+      "reported_events": {
+        "time_frame": "Throughout the treatment period until 30 days post-treatment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Experimental Arm",
+              "description": "Clofarabine + Busulfan + Fludarabine"
+            },
+            {
+              "title": "Control Arm",
+              "description": "Standard Care"
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "default_vocab": "CTCAE (4.0)",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": null
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

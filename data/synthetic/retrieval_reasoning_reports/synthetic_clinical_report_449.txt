@@ -1,0 +1,317 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00729234"
+    },
+    "id_info": {
+      "org_study_id": "ECO-2010-04",
+      "secondary_id": "ESRC110",
+      "nct_id": "NCT00729234"
+    },
+    "brief_title": "Efficacy of Eszopiclone in Treating Insomnia and Anxiety in Patients with Chronic Pain",
+    "official_title": "A Randomized, Placebo-Controlled Study of Eszopiclone for Insomnia and Anxiety in Patients with Chronic Pain",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Duke University",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Sumitomo Pharma America, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Duke University",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of eszopiclone in alleviating insomnia and anxiety symptoms among patients diagnosed with chronic pain. The primary hypothesis is that eszopiclone will significantly improve sleep quality and reduce anxiety metrics compared to placebo."
+    },
+    "detailed_description": {
+      "textblock": "Chronic pain has been shown to have a profound impact on sleep and mental health, often leading to significant comorbidities including insomnia and generalized anxiety disorder. This randomized, placebo-controlled trial sought to determine whether eszopiclone treatment over an 8-week period could effectively address these resultant symptoms in a chronic pain population.\r\n\r\nParticipants eligible for the study were adults aged 25-65 with a diagnosis of chronic pain and concurrent insomnia. Patients were randomized to receive either eszopiclone (3 mg nightly) or matched placebo, accompanied by a strategy for managing chronic pain. Primary outcomes included sleep quality as measured by the Pittsburgh Sleep Quality Index (PSQI) and anxiety levels assessed with the Generalized Anxiety Disorder 7-item (GAD-7) scale."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study terminated due to failure to demonstrate statistically significant efficacy and insufficient participant recruitment.",
+    "start_date": "June 2008",
+    "completion_date": "December 2010",
+    "primary_completion_date": "December 2010",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Pittsburgh Sleep Quality Index (PSQI) Score",
+      "time_frame": "8 weeks",
+      "description": "The PSQI provides a comprehensive measure of sleep quality over the past month, with scores ranging from 0 to 21, where lower scores represent better sleep quality."
+    },
+    "secondary_outcome": [{
+      "measure": "Change in Generalized Anxiety Disorder 7-item Scale (GAD-7) Score",
+      "time_frame": "8 weeks",
+      "description": "The GAD-7 is a 7-item scale that assesses anxiety severity with scores ranging from 0 to 21, where a higher score indicates more severe anxiety."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "26",
+    "condition": ["Chronic Pain", "Insomnia", "Anxiety Disorders"],
+    "arm_group": [{
+      "arm_group_label": "Eszopiclone Group",
+      "arm_group_type": "Experimental",
+      "description": "Participants received eszopiclone 3 mg nightly."
+    }, {
+      "arm_group_label": "Placebo Group",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Participants received matched placebo nightly."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Eszopiclone",
+      "description": "eszopiclone 3 mg administered orally before sleep",
+      "arm_group_label": "Eszopiclone Group",
+      "other_name": "Lunesta"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "description": "matched placebo administered orally before sleep",
+      "arm_group_label": "Placebo Group"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 25-65.\r\n- Chronic pain diagnosis for at least 6 months.\r\n- Insomnia symptoms with a PSQI score > 5.\r\n- Ability to provide informed consent.\r\n\r\nExclusion Criteria:\r\n- Current use of opioid or sedative medications.\r\n- History of substance abuse.\r\n- Uncontrolled psychiatric disorders.\r\n- Significant medical comorbidities."
+      },
+      "gender": "All",
+      "minimum_age": "25 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Duke University"
+    },
+    "location": {
+      "facility": {
+        "name": "Duke University Medical Center",
+        "address": {
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27705",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2022",
+    "study_first_submitted": "July 15, 2008",
+    "study_first_submitted_qc": "July 16, 2008",
+    "study_first_posted": "July 20, 2008",
+    "results_first_submitted": "January 8, 2011",
+    "results_first_submitted_qc": "January 15, 2011",
+    "results_first_posted": "February 2, 2011",
+    "last_update_submitted": "April 5, 2022",
+    "last_update_submitted_qc": "April 5, 2022",
+    "last_update_posted": "April 8, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Duke University"
+    },
+    "keyword": ["chronic pain", "insomnia", "anxiety", "eszopiclone"],
+    "condition_browse": {
+      "mesh_term": ["Chronic Pain", "Insomnia", "Anxiety Disorders"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Eszopiclone"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+            "title": "Eszopiclone Group",
+            "description": "Participants allocated to eszopiclone treatment."
+          }, {
+            "title": "Placebo Group",
+            "description": "Participants allocated to matched placebo."
+          }]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [26, 0]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [0, 0]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+            "title": "Eszopiclone Group",
+            "description": "Treatment with eszopiclone."
+          }, {
+            "title": "Placebo Group",
+            "description": "Treatment with placebo."
+          }]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [4, 2]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+            "title": "Age",
+            "units": "Participants",
+            "param": "Count of Participants",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": [{
+                    "title": "<= 30 years",
+                    "measurement_list": {
+                      "measurement": [1, 2]
+                    }
+                  }, {
+                    "title": "Between 31 and 50 years",
+                    "measurement_list": {
+                      "measurement": [1, 0]
+                    }
+                  }, {
+                    "title": ">= 51 years",
+                    "measurement_list": {
+                      "measurement": [2, 2]
+                    }
+                  }]
+                }
+              }
+            }
+          }]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Pittsburgh Sleep Quality Index (PSQI) Score",
+          "description": "The PSQI evaluated sleep quality over the past month.",
+          "time_frame": "8 weeks",
+          "group_list": {
+            "group": [{
+              "title": "Eszopiclone Group",
+              "description": "Participants received eszopiclone."
+            }, {
+              "title": "Placebo Group",
+              "description": "Participants received placebo."
+            }]
+          },
+          "measure": {
+            "title": "Change in PSQI",
+            "units": "Units on a Scale",
+            "param": "Mean",
+            "dispersion": "Standard Deviation",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [4, 2]
+                }
+              }
+            }
+          }
+        }, {
+          "type": "Secondary",
+          "title": "Generalized Anxiety Disorder 7-item Scale (GAD-7) Score",
+          "description": "Evaluated general anxiety severity over the 8-week period.",
+          "time_frame": "8 weeks",
+          "group_list": {
+            "group": [{
+              "title": "Eszopiclone Group",
+              "description": "Participants received eszopiclone."
+            }, {
+              "title": "Placebo Group",
+              "description": "Participants received placebo."
+            }]
+          },
+          "measure": {
+            "title": "Change in GAD-7",
+            "units": "Units on a Scale",
+            "param": "Mean",
+            "dispersion": "Standard Deviation",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": [4, 2]
+                }
+              }
+            }
+          }
+        }]
+      },
+      "reported_events": {
+        "time_frame": "8 weeks",
+        "group_list": {
+          "group": [{
+            "title": "Eszopiclone Group",
+            "description": "Participants received eszopiclone."
+          }, {
+            "title": "Placebo Group",
+            "description": "Participants received placebo."
+          }]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [0, 0]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA (10.1)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+              "title": "Total, other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "General Adverse Events",
+                  "counts": [3, 1]
+                }
+              }
+            }]
+          }
+        }
+      }
+    }
+  }
+}
+```

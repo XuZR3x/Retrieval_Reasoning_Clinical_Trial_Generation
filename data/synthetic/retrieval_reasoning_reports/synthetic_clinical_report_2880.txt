@@ -1,0 +1,148 @@
+{"clinical_study": {
+    "required_header": {
+        "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+        "link_text": "Link to the current ClinicalTrials.gov record.",
+        "url": "https://clinicaltrials.gov/ct2/show/NCT02072875"
+    },
+    "id_info": {
+        "org_study_id": "Eculizumab-FATE",
+        "nct_id": "NCT02072875"
+    },
+    "brief_title": "Eculizumab for Prophylaxis of Acute Rejection in Kidney Transplantation",
+    "official_title": "A Phase 2, Randomized, Double-Blind Study of Eculizumab for Prophylaxis of Acute Rejection in Sensitized Recipients of Kidney Transplants from Deceased Donors",
+    "sponsors": {
+        "lead_sponsor": {
+            "agency": "Stanford University",
+            "agency_class": "Academic"
+        },
+        "collaborator": {
+            "agency": "Alexion Pharmaceuticals, Inc.",
+            "agency_class": "Industry"
+        }
+    },
+    "source": "Stanford University",
+    "oversight_info": {
+        "has_dmc": "Yes"
+    },
+    "brief_summary": {
+        "textblock": "This study investigates the efficacy and safety of eculizumab in preventing acute rejection in sensitized kidney transplant recipients by targeting the complement pathway."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2014",
+    "completion_date": "September 2019",
+    "primary_completion_date": "June 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+        "allocation": "Randomized",
+        "intervention_model": "Parallel Assignment",
+        "primary_purpose": "Prevention",
+        "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+        "measure": "Composite incidence of acute rejection",
+        "time_frame": "9 weeks post-transplantation",
+        "description": "The primary outcome focused on the composite incidence of biopsy-proven acute rejection, defined as episodes of acute cellular or antibody-mediated rejection within the first 9 weeks post-transplantation."
+    },
+    "secondary_outcome": [
+        {
+            "measure": "Graft survival rates",
+            "time_frame": "12 months post-transplantation"
+        },
+        {
+            "measure": "Serum creatinine levels",
+            "time_frame": "Weekly for 12 months post-transplantation"
+        },
+        {
+            "measure": "Safety profile and adverse events",
+            "time_frame": "Throughout the study duration"
+        },
+        {
+            "measure": "Complement activation markers",
+            "time_frame": "Pre-transplantation and at 1, 4, and 12 months post-transplantation"
+        }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "High-Sensitization Chronic Kidney Disease",
+    "arm_group": [
+        {
+            "arm_group_label": "Eculizumab Treatment",
+            "arm_group_type": "Experimental",
+            "description": "Participants received eculizumab (1200 mg, IV) administered 1 hour prior to transplantation and then at 900 mg on Days 1, 7, 14, 28, and then every two weeks for six doses. "
+        },
+        {
+            "arm_group_label": "Standard Immunosuppression",
+            "arm_group_type": "Control",
+            "description": "Participants received standard care with antimetabolites and corticosteroids with no eculizumab."
+        }
+    ],
+    "intervention": {
+        "intervention_type": "Drug",
+        "intervention_name": "Eculizumab",
+        "other_name": "Soliris",
+        "description": "Eculizumab is administered intravenously to inhibit terminal complement activation."
+    },
+    "eligibility": {
+        "criteria": {
+            "textblock": "Inclusion Criteria: \n- Age 18 to 75 \n- Recipients of the first kidney transplant from a deceased donor \n- Sensitized individuals defined by panel-reactive antibodies ≥ 70% \n- No prior treatment with complement inhibitors \n\nExclusion Criteria: \n- Active infections \n- Comorbid conditions with increased surgical risks \n- History of thrombotic microangiopathy \n- Pregnancy or lactation"
+        },
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+    },
+    "overall_official": {
+        "last_name": "Samuel J. Adams, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Stanford University School of Medicine"
+    },
+    "location": {
+        "facility": {
+            "name": "Stanford University Medical Center",
+            "address": {
+                "city": "Stanford",
+                "zip": "94305",
+                "country": "United States"
+            }
+        }
+    },
+    "location_countries": {
+        "country": "United States"
+    },
+    "reference": [
+        {
+            "citation": "Adams SJ, et al. Eculizumab in High-Risk Kidney Transplantation: A Phase 2 Study of Safety and Efficacy. Transplantation. 2020;104(1):119-122. doi: 10.1097/TP.0000000000003118.",
+            "PMID": "31749334"
+        },
+        {
+            "citation": "Rossetti S, et al. Complement inhibitors in organ transplantation: the future of organ preservation and transplantation. J Transplant. 2021. doi: 10.1155/2021/8856348.",
+            "PMID": "33519552"
+        }
+    ],
+    "verification_date": "August 2024",
+    "study_first_submitted": "January 6, 2014",
+    "study_first_posted": "February 10, 2014",
+    "last_update_submitted": "July 25, 2019",
+    "last_update_posted": "August 1, 2019",
+    "responsible_party": {
+        "responsible_party_type": "Principal Investigator",
+        "investigator_affiliation": "Stanford University",
+        "investigator_full_name": "Samuel J. Adams, MD",
+        "investigator_title": "MD"
+    },
+    "keyword": [
+        "Eculizumab",
+        "Kidney Transplantation",
+        "Acute Rejection",
+        "Complement Inhibition",
+        "Sensitized Recipients"
+    ],
+    "condition_browse": {
+        "mesh_term": ["Kidney Failure", "Chronic Kidney Disease", "Transplant Rejection"]
+    },
+    "intervention_browse": {
+        "mesh_term": "Eculizumab"
+    }
+}}

@@ -1,0 +1,123 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "GOG-98765",
+      "secondary_id": ["NCI-2021-01234", "GOG-98765"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Carboplatin in Combination with Anlotinib for Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Trial of Carboplatin Plus Anlotinib in Patients with Advanced Non-Small Cell Lung Cancer Who Have Progressed on Prior Treatment",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "Federal"
+      },
+      "collaborator": {
+        "agency": "Anlotinib Pharmaceutical Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "brief_summary": {
+      "textblock": "RATIONALE: Carboplatin is a platinum-based chemotherapeutic agent widely used in the treatment of non-small cell lung cancer (NSCLC). However, its efficacy in aggressive tumor phenotypes, such as those with high-level genetic mutations, remains uncertain. Anlotinib, a novel tyrosine kinase inhibitor, may offer an augmenting effect in patients with resistant disease. This study aims to evaluate the efficacy of combined treatment with carboplatin and anlotinib in such populations."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES: \r\n- To assess the overall survival (OS) and progression-free survival (PFS) in patients with advanced NSCLC treated with the combination of carboplatin and anlotinib.\r\n- To evaluate the safety profile and toxicity associated with this regimen.\r\n\r\nOUTLINE: This is an open-label, multicenter, phase II study. Patients must have progressed on prior therapies and have measurable disease. Eligible patients will receive carboplatin at AUC 6 on day 1 combined with anlotinib (12 mg orally once daily) on days 1 to 14 of a 21-day cycle.\r\n\r\nPROJECTED ACCRUAL: A total of 150 patients will be enrolled over 12 months."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2011",
+    "completion_date": "March 2018",
+    "primary_completion_date": "January 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Overall Survival",
+      "time_frame": "Up to 24 months",
+      "description": "Number of participants alive at the end of study. Observations will begin from the initiation of treatment."
+    }],
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival",
+      "time_frame": "Up to 24 months",
+      "description": "The length of time during and after treatment that a patient lives without disease progression."
+    }, {
+      "measure": "Number of Participants With Adverse Events",
+      "time_frame": "Throughout the study treatment duration",
+      "description": "Adverse events will be monitored and graded according to NCI CTCAE v4.0."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "142",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Carboplatin with Anlotinib",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive intravenous carboplatin and oral anlotinib on specified dosing schedules for up to 6 cycles."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Carboplatin",
+      "description": "AUC 6 administered intravenously on day 1 of a 21-day cycle."
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Anlotinib",
+      "description": "12 mg orally once daily administered on days 1-14 of a 21-day cycle."
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed advanced stage NSCLC with measurable disease.\r\n- Patients must have progressed after at least one prior systemic therapy.\r\n- Age ≥ 18 years, with GOG performance status of 0-2.\r\n- Adequate organ function and lab parameters.\r\n\r\nExclusion Criteria:\r\n- Patients with prior treatment comprising platinum-based chemotherapy for NSCLC.\r\n- History of severe allergic reactions to carboplatin or anlotinib.\r\n- Major surgery or other cancer therapies within 4 weeks prior to study entry."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Doe, MD, PhD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "December 1, 2010",
+    "study_first_posted": "January 5, 2011",
+    "last_update_posted": "April 10, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_full_name": "John D. Doe",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": ["Advanced NSCLC", "Carboplatin", "Anlotinib", "Combination Therapy"],
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Carboplatin", "Anlotinib"]
+    }
+  }
+}
+```

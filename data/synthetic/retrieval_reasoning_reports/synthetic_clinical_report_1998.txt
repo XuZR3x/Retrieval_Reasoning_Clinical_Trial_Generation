@@ -1,0 +1,193 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "APX-2024",
+      "secondary_id": "2024-00193-11",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Efficacy and Safety of Apixaban Compared to Standard Care in High-Risk Atrial Fibrillation Patients",
+    "acronym": "APEX",
+    "official_title": "A Phase IV, Multicenter, Randomized, Open-label Trial Comparing Apixaban to Standard Anticoagulation Therapy in High-Risk Patients with Non-Valvular Atrial Fibrillation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Health Sciences",
+        "agency_class": "Academic"
+      },
+      "collaborator": [{
+        "agency": "National Heart, Lung, and Blood Institute",
+        "agency_class": "Government"
+      }]
+    },
+    "source": "University of Health Sciences",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "No",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study was to evaluate the effectiveness and safety of apixaban in patients with non-valvular atrial fibrillation classified as high-risk due to previous thromboembolic events."
+    },
+    "detailed_description": {
+      "textblock": "This study aimed to explore the comparative effectiveness of apixaban against conventional anticoagulation therapy (Vitamin K antagonists and low molecular weight heparins) in preventing thromboembolic events among patients with a history of atrial fibrillation. The primary endpoints centered on the incidence of major bleeding and thromboembolic complications over six months. Recruitment sought to include people with a verified history of complications related to atrial fibrillation, emphasizing the need for effective risk mitigation strategies."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 10, 2021",
+    "completion_date": "December 1, 2022",
+    "primary_completion_date": "November 15, 2022",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Incidence of Major Bleeding Events",
+      "time_frame": "From randomization up to 30 days post-treatment",
+      "description": "Measured the number of participants experiencing major bleeding episodes defined as bleeding requiring transfusion or leading to substantial morbidity."
+    }, {
+      "measure": "Rate of Acute Stroke Events",
+      "time_frame": "From randomization up to 30 days post-treatment",
+      "description": "Evaluated the occurrences of new stroke events, determined by neurologic impairment lasting more than 24 hours."
+    }],
+    "secondary_outcome": [{
+      "measure": "Incidence of Clinically Relevant Non-Major Bleeding",
+      "time_frame": "From randomization up to 30 days post-treatment",
+      "description": "Documented instances of clinically relevant non-major bleeding."
+    }, {
+      "measure": "Adherence Rates to Anticoagulation Therapy",
+      "time_frame": "Throughout the treatment period",
+      "description": "Monitored adherence to prescribed medication regimen, assessed at each follow-up visit."
+    }, {
+      "measure": "Patient-Reported Outcomes Regarding Safety Perception",
+      "time_frame": "Baseline, 3 months, and 6 months",
+      "description": "Assessed patient perceptions of safety and tolerability through validated questionnaires."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "600",
+    "condition": "Non-valvular Atrial Fibrillation",
+    "arm_group": [{
+      "arm_group_label": "Arm 1: Apixaban",
+      "arm_group_type": "Experimental",
+      "description": "Participants received apixaban 5 mg orally, twice daily."
+    }, {
+      "arm_group_label": "Arm 2: Standard Care",
+      "arm_group_type": "Active Comparator",
+      "description": "Participants received standard anticoagulant therapy, which included Warfarin or low molecular weight heparins, dependent on clinical judgment."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Apixaban",
+      "arm_group_label": "Arm 1: Apixaban"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Standard Anticoagulation (Warfarin or LMWH)",
+      "arm_group_label": "Arm 2: Standard Care"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 years and older with a diagnosis of non-valvular atrial fibrillation.\n- History of at least one thromboembolic event (stroke or systemic embolism).\n- Capability to provide informed consent and compliance with study protocols.\n\nExclusion Criteria:\n- Current use of other anticoagulants within 48 hours prior to randomization.\n- Contraindications for anticoagulation therapy, including active bleeding or severe liver impairment.\n- Pregnant or breastfeeding women.\n- Previous participation in other clinical trials involving investigational drugs within the last 30 days."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Health Sciences"
+    },
+    "location": [{
+      "facility": {
+        "name": "University of Health Sciences Hospital",
+        "address": {
+          "city": "Sample City",
+          "state": "Sample State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "February 14, 2020",
+    "study_first_submitted_qc": "February 20, 2020",
+    "study_first_posted": "March 1, 2020",
+    "results_first_submitted": "April 15, 2023",
+    "results_first_submitted_qc": "May 1, 2023",
+    "results_first_posted": "May 15, 2023",
+    "last_update_submitted": "April 20, 2023",
+    "last_update_submitted_qc": "April 20, 2023",
+    "last_update_posted": "April 22, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Atrial Fibrillation"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Apixaban", "Warfarin", "Low Molecular Weight Heparin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Following screening, 900 patients were screened, of which 600 patients were randomized into the two arms (APX: 300, Standard Care: 300)."
+      },
+      "baseline": {
+        "population": "Full analysis population includes all randomized participants.",
+        "group_list": {
+          "group": [{
+            "title": "Apixaban",
+            "description": "Participants receiving apixaban."
+          }, {
+            "title": "Standard Care",
+            "description": "Participants receiving standard anticoagulation therapy."
+          }]
+        }
+      },
+      "reported_events": {
+        "time_frame": "From the first treatment dose until 30 days post-treatment",
+        "desc": "Throughout the treatment, adverse events were recorded, categorized, and analyzed to evaluate safety and tolerability."
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 23.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [{
+            "title": "Total",
+            "event_list": {
+              "event": [{
+                "sub_title": "Total, serious adverse events",
+                "counts": [25, 20]
+              }]
+            }
+          }, {
+            "title": "Cardiac disorders",
+            "event_list": {
+              "event": [{
+                "sub_title": "Acute myocardial infarction",
+                "counts": [5, 2]
+              }]
+            }
+          }]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The sponsor retains the right to review and approve publications for a period not exceeding 60 days prior to public release."
+    },
+    "limitations_and_caveats": "The trial design exhibited limitations in the statistical power necessary to demonstrate the significant differences between apixaban and standard therapy, potentially leading to inconclusive results despite the large sample size."
+  }
+}
+```

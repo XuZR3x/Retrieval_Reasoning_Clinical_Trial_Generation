@@ -1,0 +1,153 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02540291"
+    },
+    "id_info": {
+      "org_study_id": "OPTIMIZE-2",
+      "nct_id": "NCT02540291"
+    },
+    "brief_title": "Optimized Treatment Protocols Utilizing Oxaliplatin for Unresectable Gastric Cancer",
+    "official_title": "Phase II Randomized Study of Oxaliplatin-Based Chemotherapy Combined with Targeted Agents and Radiotherapy in Patients with Unresectable Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Southern California",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Southern California",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of a multi-modal treatment strategy including Oxaliplatin, targeted therapies according to K-Ras status, and concurrent radiotherapy in patients diagnosed with unresectable gastric cancer. The primary objective is to improve overall survival and progression-free survival. Secondary objectives will include assessing response rates and the safety profile of the treatment regimen."
+    },
+    "overall_status": "Completed",
+    "start_date": "October 2015",
+    "completion_date": "September 2021",
+    "primary_completion_date": "January 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall survival (OS) measured from the time of randomization",
+      "time_frame": "24 months",
+      "description": "Time from randomization to death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "24 months",
+        "description": "Time from randomization to progression of disease as defined by RECIST 1.1 criteria."
+      },
+      {
+        "measure": "Clinical response rates (CR, PR)",
+        "time_frame": "at 6 months",
+        "description": "Percentage of patients achieving complete response (CR) or partial response (PR) based on imaging assessments."
+      },
+      {
+        "measure": "Safety and tolerance profile",
+        "time_frame": "Throughout treatment duration and follow-up",
+        "description": "Tracking treatment-related adverse events using CTCAE v5.0 criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Gastric Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Oxaliplatin + Targeted Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Arm A will receive Oxaliplatin 85 mg/m² IV every 2 weeks, alongside a targeted agent such as cetuximab (for K-RAS wild type) or panitumumab, and concurrent radiotherapy at 45 Gy total."
+      },
+      {
+        "arm_group_label": "Arm B: Oxaliplatin + Chemotherapy Only",
+        "arm_group_type": "Active Comparator",
+        "description": "Arm B will receive Oxaliplatin 85 mg/m² IV every 2 weeks in combination with standard chemotherapy agents without targeted therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "Oxaliplatin 85 mg/m² administered intravenously on Day 1 of each 14-day cycle for a total of 8 cycles."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "CETUXIMAB",
+        "description": "Administered to eligible patients with K-RAS wild type at 500 mg/m² IV on Day 1 of each cycle."
+      },
+      {
+        "intervention_type": "Radiation",
+        "intervention_name": "Radiation therapy",
+        "description": "Administered concurrently with chemotherapy at 1.8 Gy/day, 5 days/week for 5 weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed unresectable gastric cancer.\r\n- Age ≥ 18 years.\r\n- K-RAS status determined prior to randomization.\r\n- Measurable disease per RECIST 1.1 criteria.\r\n- Adequate organ function as per study specifications.\r\n- Informed consent provided.\r\n\r\nExclusion Criteria:\r\n- Previous systemic therapy for gastr cancer.\r\n- Active autoimmune disease.\r\n- Cardiac insufficiency or other severe comorbidities.\r\n- Concurrent participation in another clinical trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jacob T. Chang, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Southern California"
+    },
+    "location": {
+      "facility": {
+        "name": "Keck Medical Center",
+        "address": {
+          "city": "Los Angeles",
+          "zip": "90089",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "August 11, 2015",
+    "study_first_posted": "September 15, 2015",
+    "last_update_posted": "September 18, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Gastric Cancer",
+      "Oxaliplatin",
+      "K-Ras",
+      "Targeted Therapy",
+      "Radiation Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Gastric Neoplasms",
+        "Neoplasm Metastasis"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Oxaliplatin",
+        "Cetuximab",
+        "Panitumumab"
+      ]
+    }
+  }
+}
+```

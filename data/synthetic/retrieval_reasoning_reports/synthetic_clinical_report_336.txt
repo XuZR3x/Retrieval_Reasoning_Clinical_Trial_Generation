@@ -1,0 +1,308 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT04563705"
+        },
+        "id_info": {
+            "org_study_id": "BRUTON-020",
+            "nct_id": "NCT04563705"
+        },
+        "brief_title": "Efficacy and Safety of Ibrutinib Combined with Pembrolizumab in Patients with Advanced B-cell Malignancies",
+        "official_title": "A Phase 1b Study to Evaluate the Safety, Pharmacokinetics, and Efficacy of Ibrutinib in Combination with Pembrolizumab in Subjects with Advanced Chronic Lymphocytic Leukemia (CLL) and Diffuse Large B-cell Lymphoma (DLBCL)",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Innovative Cancer Therapies, Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Innovative Cancer Therapies, Inc.",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The primary objective of this study is to assess the safety and efficacy of ibrutinib in conjunction with pembrolizumab in patients suffering from advanced chronic lymphocytic leukemia and diffuse large B-cell lymphoma."
+        },
+        "detailed_description": {
+            "textblock": "This multicenter, open-label, phase 1b trial evaluates the administration of ibrutinib at a dose of 420 mg orally once daily, in combination with pembrolizumab at a dosage of 200 mg intravenously every three weeks. Participants are comprised of those with histologically confirmed chronic lymphocytic leukemia (CLL) or diffuse large B-cell lymphoma (DLBCL) who have received at least one prior line of therapy.\n\nThe study aims to assess the overall response rate (ORR), duration of response (DoR), progression-free survival (PFS), and overall survival (OS). Pharmacokinetic and pharmacodynamic measures will be collected to understand the interaction of ibrutinib with pembrolizumab, specifically focusing on BTK occupancy and the immune response profile."
+        },
+        "overall_status": "Completed",
+        "start_date": "July 1, 2020",
+        "completion_date": "April 15, 2023",
+        "primary_completion_date": "April 15, 2023",
+        "phase": "Phase 1b",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Non-Randomized",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": [{
+                "measure": "Overall Response Rate (ORR) According to IWCLL Criteria",
+                "time_frame": "Evaluated at 24 weeks post-initiation of treatment.",
+                "description": "ORR is defined as the percentage of participants achieving a complete response (CR) or partial response (PR) as per the International Workshop on Chronic Lymphocytic Leukemia criteria."
+            },
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "Assessed every 12 weeks up to 3 years.",
+                "description": "PFS is defined as the time from the start of treatment to disease progression or death from any cause."
+            }
+        ],
+        "secondary_outcome": [{
+                "measure": "Duration of Response (DoR)",
+                "time_frame": "Up to 6 years.",
+                "description": "Duration from the first evidence of response until documented progression or death."
+            },
+            {
+                "measure": "Treatment-Emergent Adverse Events (TEAEs)",
+                "time_frame": "Collected from baseline until 30 days post-treatment.",
+                "description": "An AE is defined as any untoward medical occurrence that arises after the initiation of study intervention."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "120",
+        "condition": ["Chronic Lymphocytic Leukemia", "Diffuse Large B-cell Lymphoma"],
+        "arm_group": [{
+            "arm_group_label": "Ibrutinib and Pembrolizumab Combination Therapy",
+            "arm_group_type": "Experimental",
+            "description": "Patients received ibrutinib 420 mg once daily and pembrolizumab 200 mg IV every three weeks."
+        }],
+        "intervention": [{
+                "intervention_type": "Drug",
+                "intervention_name": "ibrutinib",
+                "description": "Bruton's Tyrosine Kinase inhibitor administered orally.",
+                "arm_group_label": ["Ibrutinib and Pembrolizumab Combination Therapy"],
+                "other_name": "PCI-32765"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "pembrolizumab",
+                "description": "Anti-PD-1 monoclonal antibody administered intravenously.",
+                "arm_group_label": ["Ibrutinib and Pembrolizumab Combination Therapy"],
+                "other_name": "Keytruda"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n1. Adults aged 18 years or older.\n2. Histologically confirmed diagnosis of CLL or DLBCL.\n3. Evidence of advanced disease requiring treatment.\n4. At least one prior line of therapy in CLL or DLBCL.\n5. Adequate hematologic and organ function.\n\nExclusion Criteria:\n1. Prior treatment with ibrutinib or other BTK inhibitors.\n2. Active CNS involvement from lymphoma.\n3. Clinically significant cardiovascular disease.\n4. Ongoing or recent infectious disease that compromises outcomes.\n5. Pregnancy or lactation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Dr. Sarah Thompson",
+            "role": "Study Director",
+            "affiliation": "Innovative Cancer Therapies, Inc."
+        },
+        "location": [{
+                "facility": {
+                    "name": "Johns Hopkins School of Medicine",
+                    "address": {
+                        "city": "Baltimore",
+                        "state": "Maryland",
+                        "zip": "21205",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Mayo Clinic",
+                    "address": {
+                        "city": "Rochester",
+                        "state": "Minnesota",
+                        "zip": "55905",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Cleveland Clinic",
+                    "address": {
+                        "city": "Cleveland",
+                        "state": "Ohio",
+                        "zip": "44195",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "July 2023",
+        "study_first_submitted": "May 20, 2020",
+        "study_first_submitted_qc": "June 15, 2020",
+        "study_first_posted": "June 20, 2020",
+        "results_first_submitted": "April 25, 2023",
+        "results_first_submitted_qc": "June 15, 2023",
+        "results_first_posted": "July 1, 2023",
+        "last_update_submitted": "July 15, 2023",
+        "last_update_submitted_qc": "July 15, 2023",
+        "last_update_posted": "July 20, 2023",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "keyword": ["Ibrutinib", "Pembrolizumab", "Chronic Lymphocytic Leukemia", "Diffuse Large B-cell Lymphoma", "Hematological Malignancies", "Immunotherapy"],
+        "condition_browse": {
+            "mesh_term": ["Chronic Lymphocytic Leukemia", "Lymphoma, Large B-Cell, Diffuse"]
+        },
+        "intervention_browse": {
+            "mesh_term": ["Ibrutinib", "Pembrolizumab"]
+        },
+        "patient_data": {
+            "sharing_ipd": "No"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "description": "Out of 120 enrolled participants, 115 completed the intervention. Primary reasons for withdrawal included adverse effects (n=3), progression of disease (n=2)."
+            },
+            "baseline": {
+                "population": "The study enrolled 120 patients, with a mean age of 61.5 years and a gender distribution of 55% male and 45% female.",
+                "measure_list": {
+                    "measure": [{
+                            "title": "Age",
+                            "units": "Years",
+                            "param": "Mean",
+                            "dispersion": "Standard Deviation",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": {
+                                            "measurement_list": {
+                                                "measurement": [61.5, 12.4]
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "title": "Sex: Female, Male",
+                            "units": "Participants",
+                            "param": "Count of Participants",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": [{
+                                                "title": "Female",
+                                                "measurement_list": {
+                                                    "measurement": [54]
+                                                }
+                                            },
+                                            {
+                                                "title": "Male",
+                                                "measurement_list": {
+                                                    "measurement": [66]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "title": "ECOG Performance Status",
+                            "units": "Participants",
+                            "param": "Count",
+                            "class_list": {
+                                "class": {
+                                    "category_list": {
+                                        "category": [{
+                                                "title": "ECOG 0",
+                                                "measurement_list": {
+                                                    "measurement": [20]
+                                                }
+                                            },
+                                            {
+                                                "title": "ECOG 1",
+                                                "measurement_list": {
+                                                    "measurement": [75]
+                                                }
+                                            },
+                                            {
+                                                "title": "ECOG 2",
+                                                "measurement_list": {
+                                                    "measurement": [25]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "outcome_list": {
+                "outcome": [{
+                        "type": "Primary",
+                        "title": "Overall Response Rate (ORR)",
+                        "description": "Results indicate an ORR of 82%, with 56% achieving CR and an additional 26% achieving PR.",
+                        "time_frame": "Evaluated at 24 weeks post-initiation of treatment."
+                    },
+                    {
+                        "type": "Primary",
+                        "title": "Progression-Free Survival (PFS)",
+                        "description": "The preliminary PFS was recorded at a median of 18 months.",
+                        "time_frame": "Evaluated at each 12-week interval, up to 3 years."
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Treatment-Emergent Adverse Events",
+                        "description": "The most reported TEAEs included thrombocytopenia (23%), diarrhea (20%), and fatigue (18%).",
+                        "time_frame": "Collected throughout the treatment period."
+                    }
+                ]
+            },
+            "reported_events": {
+                "time_frame": "Up to 6 years 11 months",
+                "desc": "Monitoring of serious adverse events and all adverse events was conducted continuously during the study. A total of 12 serious adverse events were reported, primarily attributed to disease progression."
+            },
+            "other_events": {
+                "frequency_threshold": "5",
+                "default_vocab": "MedDRA Version 24.1",
+                "default_assessment": "Systematic Assessment",
+                "category_list": {
+                    "category": [{
+                            "title": "Total",
+                            "event_list": {
+                                "event": {
+                                    "sub_title": "Total, other adverse events",
+                                    "counts": [null, null]
+                                }
+                            }
+                        },
+                        {
+                            "title": "Digestive System Disorders",
+                            "event_list": {
+                                "event": [{
+                                        "sub_title": "Nausea",
+                                        "counts": [null, null]
+                                    },
+                                    {
+                                        "sub_title": "Diarrhea",
+                                        "counts": [null, null]
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            "certain_agreements": {
+                "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+                "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+            },
+            "limitations_and_caveats": "The results should be interpreted with caution due to the small sample size for some cohorts and the heterogeneity of disease characteristics among participants."
+        }
+    }
+}
+```

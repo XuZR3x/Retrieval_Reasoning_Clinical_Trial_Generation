@@ -1,0 +1,192 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03245741"
+    },
+    "id_info": {
+      "org_study_id": "FLV-02034",
+      "nct_id": "NCT03245741"
+    },
+    "brief_title": "Randomized Phase III Study of Fulvestrant Alone Versus Fulvestrant Plus Palbociclib in Postmenopausal Women With ER-Positive Breast Cancer Resistant to Prior Hormonal Therapies",
+    "acronym": "FLV-02034",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase III Study of Fulvestrant Alone vs. Fulvestrant Combined With Palbociclib (Ibrance) in Postmenopausal Women With Estrogen Receptor-positive Breast Cancer Who Have Progressed on Prior Aromatase Inhibitor Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Breast Cancer Study Group",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "International Breast Cancer Study Group",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This phase III study aims to assess the efficacy and safety of fulvestrant in postmenopausal women with hormone receptor-positive (HR+) metastatic breast cancer that has shown resistance to prior aromatase inhibitors. The study seeks to compare the therapeutic benefits of fulvestrant alone versus the combination of fulvestrant and palbociclib on progression-free survival and overall survival rates."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center, randomized, double-blind, placebo-controlled trial enrolled postmenopausal women with hormone receptor-positive metastatic breast cancer. Eligible patients were those who had demonstrated resistance to prior aromatase inhibitor therapies and had not received any estrogen receptor-targeting therapy in the past 6 months. The participants were randomized to receive either fulvestrant (intramuscular injection of 500 mg on Day 1 and Day 15 of Cycle 1, followed by 500 mg on Day 1 of each subsequent cycle) or fulvestrant in combination with palbociclib (125 mg orally daily for 21 days of a 28-day cycle). \n\nThe study meticulously stratified participants based on their ECOG performance status and prior chemotherapy for metastatic disease. Clinical evaluations were conducted every 3 months, utilizing the RECIST criteria for measuring tumor response. The primary endpoint was progression-free survival (PFS), while secondary endpoints included overall survival (OS), clinical benefit rate, and safety profiles. \n\nThe mechanism of fulvestrant as a selective estrogen receptor down-regulator provides a distinct advantage in circumventing resistance mechanisms, thereby enhancing treatment outcomes. Moreover, the addition of palbociclib, an mTOR inhibitor targeting the cyclin-dependent kinases (CDK) involved in cell cycle regulation, allows a dual pathway targeting strategy to improve efficacy in patients who previously exhibited poor responses to hormonal therapy."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 20, 2017",
+    "completion_date": "April 15, 2021",
+    "primary_completion_date": "January 30, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization until the date of first documented disease progression or death from any cause, assessed up to 36 months",
+      "description": "PFS is defined as the time from randomization to the earliest documentation of disease progression or death."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Assessed every 3 months until progression or up to 3 years",
+        "description": "Overall survival is defined as the time from randomization to date of death due to any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "After 580 progression events accrued",
+        "description": "ORR will be calculated as the percentage of participants with a complete or partial response."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "Evaluated every 3 months until progression or up to 3 years",
+        "description": "CBR is defined as the proportion of patients who achieve a complete response, partial response, or stable disease lasting at least 6 months."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "256",
+    "condition": "Hormone Receptor Positive Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Fulvestrant Alone",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients received fulvestrant 500 mg intramuscularly every 28 days."
+      },
+      {
+        "arm_group_label": "Fulvestrant + Palbociclib",
+        "arm_group_type": "Experimental",
+        "description": "Patients received fulvestrant 500 mg combined with palbociclib 125 mg daily for 21 days on a 28-day cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fulvestrant",
+        "description": "Fulvestrant administered intramuscularly, 500 mg on Day 1 and Day 15 of Cycle 1, then Day 1 of each subsequent cycle.",
+        "arm_group_label": ["Fulvestrant Alone", "Fulvestrant + Palbociclib"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Palbociclib",
+        "description": "Palbociclib administered orally, 125 mg once daily for 21 days of each 28-day cycle.",
+        "arm_group_label": "Fulvestrant + Palbociclib"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Key Inclusion Criteria:\r\n\r\n1. Postmenopausal women.\r\n\r\n2. Histologically confirmed ER-positive, HER2-negative metastatic breast cancer.\r\n\r\n3. Documented disease progression on prior aromatase inhibitor therapy.\r\n\r\n4. ECOG Performance Status of 0 or 1.\r\n\r\n5. Patients must provide informed consent and be able to comply with study procedures.\r\n\r\nKey Exclusion Criteria:\r\n\r\n1. Prior treatment with fulvestrant or any CDK inhibitors.\r\n\r\n2. Serious concurrent medical conditions that could impair patient safety or compliance.\r\n\r\n3. Known hypersensitivity to fulvestrant or palbociclib.\r\n\r\n4. Significant hepatic impairment or active severe infections."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica L. Baker, MD",
+      "role": "Principal Investigator",
+      "affiliation": "International Breast Cancer Study Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cancer Research Institute",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "April 14, 2017",
+    "study_first_submitted_qc": "April 19, 2017",
+    "study_first_posted": "April 24, 2017",
+    "results_first_submitted": "July 5, 2021",
+    "results_first_posted": "August 1, 2021",
+    "last_update_submitted": "September 1, 2021",
+    "last_update_posted": "September 5, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Breast Cancer",
+      "Hormone Receptor Positive",
+      "Fulvestrant",
+      "Palbociclib",
+      "Postmenopausal Women",
+      "ER-positive"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fulvestrant", "Palbociclib"]
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Novel data-sharing agreement by Pfizer Inc. ensuring patient-level data will be available upon request."
+    }
+  }
+}
+```

@@ -1,0 +1,133 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "DRC-2023-001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Trastuzumab in Combination With Chemotherapy in Patients With Advanced Gastric Cancer",
+    "official_title": "A Phase II Randomized Study of Trastuzumab Combined With Cisplatin and Capecitabine in HER2-Positive Advanced Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Cancer Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Innovative Cancer Research Institute",
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and adverse event profiles led to an IDMC recommendation for termination.",
+    "start_date": "January 2012",
+    "primary_completion_date": "December 2015",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "12 months",
+      "description": "Percentage of patients achieving complete or partial response as per RECIST v1.1."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "12 months",
+        "description": "Duration from the start of treatment until disease progression or death."
+      },
+      {
+        "measure": "Analysis of safety and tolerability",
+        "time_frame": "12 months",
+        "description": "Evaluation of adverse events using CTCAE v4.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": "Gastric Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Control",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive cisplatin and capecitabine without trastuzumab."
+      },
+      {
+        "arm_group_label": "Experimental",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive trastuzumab in combination with cisplatin and capecitabine."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Trastuzumab",
+        "description": "Trastuzumab administered at a dose of 8 mg/kg IV loading followed by 6 mg/kg IV every 3 weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Cisplatin administered at a dose of 80 mg/m2 IV every 3 weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Capecitabine",
+        "description": "Capecitabine administered at a dose of 1000 mg/m2 orally twice daily for 14 days."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed HER2-positive gastric cancer.\n- ECOG performance status 0-1.\n- Measurable disease according to RECIST v1.1.\n- No prior treatment with trastuzumab, cisplatin, or capecitabine.\n\nExclusion Criteria:\n- Patients with known brain metastases.\n- Previous major surgery or radiotherapy within 4 weeks prior to enrollment.\n- Uncontrolled, significant comorbid conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Cancer Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital",
+          "address": {
+            "city": "Metropolis",
+            "state": "SomeState",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Regional Cancer Center",
+          "address": {
+            "city": "Uptown",
+            "state": "SomeState",
+            "zip": "12346",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "reason_for_failure": {
+      "reason_1": "Enrollment challenges were evident, as only 45 patients were recruited against an expected minimum of 100, highlighting stringent inclusion criteria combined with a lack of awareness and regional disparities.",
+      "reason_2": "The study's design did not sufficiently accommodate the complex mechanisms of action for trastuzumab alongside cisplatin and capecitabine, potentially leading to inadequate therapeutic synergy.",
+      "reason_3": "Primary outcome measures were inadequately defined, resulting in ambiguity when attempting to assess treatment success, ultimately contributing to a lack of clarity regarding clinical benefit.",
+      "reason_4": "Tumor heterogeneity in HER2 expression levels among participants led to a variable treatment response that confounded trial results.",
+      "reason_5": "High rates of adverse events prompted concerns regarding safety and efficacy, resulting in premature termination as the potential risks outweighed any benefits observed."
+    }
+  }
+}
+```

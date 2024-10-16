@@ -1,0 +1,433 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2021-0057",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Clofarabine in Combination With Fludarabine and Low-Dose Cytarabine for Elderly Patients With Acute Myeloid Leukemia",
+    "official_title": "A Phase II Study of Clofarabine Combined With Fludarabine and Low-Dose Cytarabine in Patients Aged 70 Years and Older With Newly Diagnosed Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Pittsburgh Medical Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Genzyme, a Sanofi Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Pittsburgh Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical research study aims to evaluate the efficacy and safety of a novel combination treatment using clofarabine, fludarabine, and low-dose cytarabine in elderly patients presenting with newly diagnosed acute myeloid leukemia (AML). This age group has a unique mortality risk due to both the disease itself and the comorbidities associated with aging."
+    },
+    "detailed_description": {
+      "textblock": "Clofarabine is a purine nucleoside analog that interferes with DNA synthesis, exhibiting synergistic effects when combined with other agents like fludarabine and low-dose cytarabine. Previous investigations have suggested that this combination may enhance overall response rates in elderly patients diagnosed with AML, a demographic often underrepresented in clinical trials. This study's design emphasizes patient selection to include only those aged 70 years and older who meet the specific eligibility criteria, thereby maximizing the likelihood of therapeutic response and minimizing unnecessary exposure to potentially toxic treatments.\n\nThe study employs a multi-step adaptive randomization model, allowing treatment assignment to be adjusted based on early observed outcomes, thus optimizing dosing regimens dynamically throughout the trial. Participants will receive a treatment regimen comprising clofarabine (20 mg/m² IV daily), fludarabine (30 mg/m² IV daily), and low-dose cytarabine (20 mg/m² subcutaneously daily) for 5 consecutive days, every 28 days for a maximum of 6 cycles. \n\nRigorous monitoring protocols are established to track both efficacy and safety, using frequent assessment of hematologic parameters, and disease progression via bone marrow biopsy and imaging techniques at defined intervals. This ensures timely identification of treatment responses and adverse effects, warranting prompt modifications to the treatment regimen if necessary. \n\nEnrolment is projected to include 60 patients across multiple centers, with a dedicated focus on continuous follow-up to assess long-term outcomes and potential relapse rates as part of the study's design."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "December 2023",
+    "primary_completion_date": "November 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Adaptive Randomization",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate",
+      "time_frame": "Evaluated at 4-week intervals during treatment cycles",
+      "description": "Response criteria based on complete remission (CR), partial remission (PR), and overall clinical response defined by a decrease in blast percentage in bone marrow samples and improvement in clinical status."
+    },
+    "number_of_arms": "1",
+    "enrollment": "60",
+    "condition": ["Acute Myeloid Leukemia"],
+    "arm_group": {
+      "arm_group_label": "Clofarabine + Fludarabine + Low-Dose Cytarabine",
+      "arm_group_type": "Experimental",
+      "description": "Clofarabine (20 mg/m² IV daily for 5 days) + Fludarabine (30 mg/m² IV daily for 5 days) + Low-Dose Cytarabine (20 mg/m² subcutaneously daily for 5 days)."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clofarabine",
+        "description": "Clofarabine administered intravenously at a dose of 20 mg/m² daily for 5 days during each treatment cycle.",
+        "arm_group_label": "Clofarabine + Fludarabine + Low-Dose Cytarabine",
+        "other_name": ["Clolar"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fludarabine",
+        "description": "Fludarabine administered intravenously at a dose of 30 mg/m² daily for 5 days during each treatment cycle.",
+        "arm_group_label": "Clofarabine + Fludarabine + Low-Dose Cytarabine",
+        "other_name": ["Fludara"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Low-Dose Cytarabine",
+        "description": "Low-Dose Cytarabine administered subcutaneously at a dose of 20 mg/m² daily for 5 days during each treatment cycle.",
+        "arm_group_label": "Clofarabine + Fludarabine + Low-Dose Cytarabine",
+        "other_name": ["Cytarabine"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Patients aged 70 years or older diagnosed with de novo acute myeloid leukemia (AML) and eligible for no initial intensive chemotherapy.\n\n2. Adequate renal function defined by serum creatinine ≤ 1.5 mg/dL.\n\n3. Eastern Cooperative Oncology Group (ECOG) performance status ≤ 2.\n\n4. Signed informed consent.\n\nExclusion Criteria:\n\n1. Patients who have received any form of prior chemotherapy for AML.\n\n2. History of hypersensitivity to clofarabine, fludarabine, or cytarabine.\n\n3. Presence of active infection requiring systemic treatment.\n\n4. Significant cardiac disease as determined by medical history."
+      },
+      "gender": "All",
+      "minimum_age": "70 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James H. M. Pickering, MD",
+      "role": "Study Chair",
+      "affiliation": "University of Pittsburgh Medical Center"
+    },
+    "location": {
+      "facility": {
+        "name": "University of Pittsburgh Medical Center",
+        "address": {
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "link": {
+      "url": "http://www.upmc.com",
+      "description": "University of Pittsburgh Medical Center's website"
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "November 15, 2020",
+    "study_first_submitted_qc": "November 15, 2020",
+    "study_first_posted": "November 20, 2020",
+    "results_first_submitted": "February 15, 2024",
+    "results_first_submitted_qc": "February 20, 2024",
+    "results_first_posted": "March 1, 2024",
+    "last_update_submitted": "February 28, 2024",
+    "last_update_posted": "March 2, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "University of Pittsburgh Medical Center"
+    },
+    "keyword": [
+      "Clofarabine",
+      "Fludarabine",
+      "Low-Dose Cytarabine",
+      "Acute Myeloid Leukemia",
+      "Elderly Patients"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia",
+        "Leukemia, Myeloid, Acute"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Clofarabine",
+        "Fludarabine",
+        "Cytarabine"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrollment commenced in January 2021 and concluded in October 2022 with 60 eligible participants recruited from the University of Pittsburgh Medical Center and affiliated centers.",
+        "group_list": {
+          "group": {
+            "title": "Clofarabine + Fludarabine + Low-Dose Cytarabine",
+            "description": "Clofarabine, fludarabine, and low-dose cytarabine administered over 5 days in a multi-cycle regimen."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "60"
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "60"
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "0"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Clofarabine + Fludarabine + Low-Dose Cytarabine",
+              "description": "Clofarabine paired with fludarabine and low-dose cytarabine."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [60]
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Age",
+                  "units": "Years",
+                  "param": "Mean",
+                  "dispersion": "± SD",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [75, 1.9]
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex: Female, Male",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "Female",
+                            "measurement_list": {
+                              "measurement": [30]
+                            }
+                          },
+                          {
+                            "title": "Male",
+                            "measurement_list": {
+                              "measurement": [30]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate",
+            "description": "Measure of the percentage of subjects achieving complete remission (CR) or partial remission (PR) following treatment.",
+            "time_frame": "Evaluated at the end of each treatment cycle and after the final cycle.",
+            "population": "All treated subjects.",
+            "measure": {
+              "title": "Percentage of Participants Achieving Response",
+              "description": "Overall response measured as CR and PR rates aimed to quantify treatment success.",
+              "units": "Percentage",
+              "param": "Response Rate",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [70]
+                  }
+                }
+              },
+              "class_list": {
+                "class": [
+                  {
+                    "title": "Complete Remission",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [40]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "Partial Remission",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [30]
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "No Response",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [10]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Toxicity Assessment",
+            "description": "Incidence of grade 3 or higher adverse events as classified by CTCAE.",
+            "time_frame": "Throughout the study and monitored post-treatment at 6 months.",
+            "population": "All treated subjects."
+          }
+        ]
+      }
+    },
+    "reported_events": {
+      "time_frame": "Throughout the treatment period and monitored for 6 months post-treatment.",
+      "group_list": {
+        "group": {
+          "title": "Clofarabine + Fludarabine + Low-Dose Cytarabine",
+          "description": "Efficacy and adverse event reporting."
+        }
+      },
+      "serious_events": {
+        "default_vocab": "CTCAE (4.0)",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total, serious adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, related to treatment",
+                  "counts": [4, 2]
+                }
+              }
+            },
+            {
+              "title": "Hematologic Disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Febrile Neutropenia",
+                    "counts": [6]
+                  },
+                  {
+                    "sub_title": "Severe Thrombocytopenia",
+                    "counts": [3]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Infectious Complications",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Bacterial Infections",
+                    "counts": [5]
+                  },
+                  {
+                    "sub_title": "Viral Infections",
+                    "counts": [2]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "0",
+        "default_vocab": "CTCAE (4.0)",
+        "default_assessment": "Comprehensive Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total, other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, non-serious adverse events",
+                  "counts": [30]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal Disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Nausea",
+                    "counts": [10]
+                  },
+                  {
+                    "sub_title": "Vomiting",
+                    "counts": [5]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "General Disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Fatigue",
+                    "counts": [12]
+                  },
+                  {
+                    "sub_title": "Fever",
+                    "counts": [7]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators are employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement restricting the PI's rights to discuss or publish trial results."
+      },
+      "point_of_contact": {
+        "name_or_title": "James H. M. Pickering, MD",
+        "organization": "University of Pittsburgh Medical Center",
+        "phone": "412-123-4567",
+        "email": "j.pickering@upmc.edu"
+      }
+    }
+  }
+}
+```

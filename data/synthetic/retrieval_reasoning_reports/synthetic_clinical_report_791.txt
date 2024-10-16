@@ -1,0 +1,267 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03567243"
+    },
+    "id_info": {
+      "org_study_id": "NCT03567243",
+      "secondary_id": ["2018-005678-28"]
+    },
+    "brief_title": "Assessment of Nintedanib in Patients With Advanced Idiopathic Pulmonary Fibrosis (IPF)",
+    "official_title": "A Phase III Randomized, Double-Blind Study to Evaluate the Efficacy and Safety of Nintedanib in Patients With Advanced Idiopathic Pulmonary Fibrosis Compared to Standard Care Alone",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Boehringer Ingelheim",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Boehringer Ingelheim",
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of nintedanib in patients with advanced Idiopathic Pulmonary Fibrosis (IPF) when compared to standard care alone. Primary endpoints focused on the change in forced vital capacity (FVC) and overall survival rates over a defined observation period."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 10, 2018",
+    "completion_date": "January 30, 2021",
+    "primary_completion_date": "November 20, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in Forced Vital Capacity (FVC) at Week 24",
+      "time_frame": "Baseline and week 24",
+      "description": "FVC, a key measure of pulmonary function, is assessed to determine the efficacy of nintedanib relative to standard care."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS) from Randomization",
+        "time_frame": "From randomization until the earliest of disease progression or serious adverse events, assessed up to 24 months.",
+        "description": "Overall survival provides insights into the long-term effectiveness and potential mortality implications of the treatment."
+      },
+      {
+        "measure": "Incidence of Serious Adverse Events (SAEs)",
+        "time_frame": "From the start of the treatment until 30 days after the last dose.",
+        "description": "This measure evaluates the safety profile of nintedanib, specifically monitors the severity and occurrence of SAEs during the trial period."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "285",
+    "condition": "Idiopathic Pulmonary Fibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Nintedanib",
+        "arm_group_type": "Experimental",
+        "description": "Patients received nintedanib 150 mg bid in combination with standard supportive care."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received standard supportive care without nintedanib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nintedanib",
+        "description": "Oral administration of nintedanib 150 mg bid."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 40 years or older.\r\n- Clinical diagnosis of advanced IPF based on established diagnostic criteria.\r\n- Forced Vital Capacity (FVC) < 70% predicted at screening.\r\n- Written informed consent obtained.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior treatment with antifibrotic agents.\r\n- Comorbidities including significant cardiac diseases or uncontrolled hypertension.\r\n- Severe hepatic impairment or active liver disease.\r\n- Any contraindications to nintedanib as defined in the prescribing information."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Mark P. Badgett",
+      "role": "Principal Investigator",
+      "affiliation": "Boehringer Ingelheim"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Boehringer Ingelheim Clinical Research Site",
+          "address": {
+            "city": "Ridgefield",
+            "state": "Connecticut",
+            "zip": "06877",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "March 15, 2018",
+    "study_first_posted": "March 20, 2018",
+    "results_first_submitted": "March 10, 2021",
+    "results_first_posted": "March 15, 2021",
+    "last_update_posted": "April 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Fibrosis", "Idiopathic Pulmonary Fibrosis"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Nintedanib"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial enrolled 285 participants, randomized into two groups: nintedanib combined with standard care or standard care alone.",
+        "pre_assignment_details": "Patients were assessed for eligibility at multiple clinical sites. Randomization allocated patients into the two treatment groups."
+      },
+      "baseline": {
+        "population": "Patients who were randomized and received at least one dose of study medication were included in the treated set.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Nintedanib",
+              "description": "150 mg soft gelatin capsules administered bid."
+            },
+            {
+              "title": "Standard Care",
+              "description": "Standardized supportive care without additional medication."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change From Baseline in Forced Vital Capacity (FVC) at Week 24",
+            "description": "Measured change in FVC was not statistically significant between groups.",
+            "time_frame": "Baseline and week 24",
+            "population": "Treated patients",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Nintedanib",
+                  "description": "150 mg soft gelatin capsules bid."
+                },
+                {
+                  "title": "Standard Care",
+                  "description": "Standardized supportive care."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Forced Vital Capacity (FVC)",
+              "units": "Liters",
+              "param": "Mean change",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                    "count": [142, 143]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "No significant difference in overall survival between the nintedanib and standard care groups (p=0.65).",
+            "time_frame": "From randomization until death or last follow-up.",
+            "population": "Treated patients",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Nintedanib",
+                  "description": "Group receiving nintedanib."
+                },
+                {
+                  "title": "Standard Care",
+                  "description": "Group receiving only standard care."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Overall Survival (OS)",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Overall",
+                  "count_list": {
+                    "count": [142, 143]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "serious_events": {
+      "default_vocab": "MedDRA 21.0",
+      "default_assessment": "Systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Total Serious Adverse Events",
+                  "counts": [30, 25]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Gastrointestinal disorders",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Diarrhea",
+                  "counts": [20, 15]
+                },
+                {
+                  "sub_title": "Nausea",
+                  "counts": [10, 5]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "reported_events": {
+      "time_frame": "From first dose until 30 days post-treatment.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Nintedanib",
+            "description": "Adverse events reported in patients receiving nintedanib."
+          },
+          {
+            "title": "Standard Care",
+            "description": "Adverse events monitored in control participants."
+          }
+        ]
+      }
+    },
+    "limitations_and_caveats": "The trial was unable to demonstrate a significant improvement in primary efficacy endpoints, with nintedanib not providing meaningful clinical benefits in terms of FVC change and overall survival relative to standard care. This raises concerns regarding the drug's efficacy in the targeted population of patients with advanced IPF. Additionally, the serious adverse events' profile indicated high concerning rates, leading to complications in patient adherence and trial continuation."
+  }
+}
+```

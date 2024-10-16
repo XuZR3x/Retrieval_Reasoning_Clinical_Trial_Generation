@@ -1,0 +1,192 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04543210"
+    },
+    "id_info": {
+      "org_study_id": "FAS-009",
+      "nct_id": "NCT04543210"
+    },
+    "brief_title": "Randomized Phase II Study of Fulvestrant Combined with Palbociclib in Postmenopausal Women with HR-Positive, HER2-Negative, ER+ Metastatic Breast Cancer",
+    "acronym": "FAS-009",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase II Study Assessing the Efficacy and Safety of Fulvestrant Plus Palbociclib versus Fulvestrant plus Placebo in Postmenopausal Women with Hormone Receptor-Positive, HER2-Negative Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Innovative Oncology Trials",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Innovative Oncology Trials",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This Phase II trial explores the effects of combining Fulvestrant with Palbociclib in postmenopausal women presenting with HR-positive, HER2-negative metastatic breast cancer. This trial monitors and evaluates the efficacy and safety of this therapeutic combination in a population previously resistant to standard endocrine therapies."
+    },
+    "detailed_description": {
+      "textblock": "Postmenopausal women diagnosed with hormone receptor-positive, HER2-negative metastatic breast cancer frequently face therapeutic challenges due to acquired resistance to traditional endocrine agents such as aromatase inhibitors. Fulvestrant, an estrogen receptor antagonist, operates distinctively as a selective estrogen receptor down-regulator (SERD), promoting degradation of the estrogen receptor and limiting estrogen-mediated tumor growth. In conjunction with Palbociclib, a selective cyclin-dependent kinase inhibitor targeting the cell cycle, researchers hypothesize enhanced clinical benefits through dual inhibition of cell proliferation and estrogen receptor signaling.\n\nTrial design utilizes a randomized, double-blind framework where patients are assigned to either the treatment arm (Fulvestrant + Palbociclib) or control arm (Fulvestrant + placebo). This stratified approach enables robust efficacy assessments and patient safety evaluations. A comprehensive biomarker analysis accompanies the study, profiling key parameters such as CDK4/6 pathway activation and estrogen receptor assays to refine patient selection and gauge treatment responsiveness.\n\nPrimary outcomes focus on progression-free survival (PFS) across both cohorts, with secondary objectives including overall survival (OS), overall response rate (ORR), and qualitative assessments of health-related quality of life (HRQoL). At interim analyses, significant therapeutic responses observed in the treatment arm indicate increased clinical benefit relative to the comparator, setting a precedent for further investigations into combination therapeutic strategies in this patient demographic. All patients will be monitored for adverse events to ensure the safety profile of the combined regimen."
+    },
+    "overall_status": "Completed",
+    "start_date": "December 10, 2020",
+    "completion_date": "August 30, 2023",
+    "primary_completion_date": "July 1, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization until the date of first documented disease progression or death due to any cause (up to 24 months)",
+      "description": "PFS is defined as the time from randomization to the earliest date of documented progression or death. Progression is assessed using the Response Evaluation Criteria in Solid Tumors (RECIST v1.1)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization to death from any cause, assessed at 3-month intervals for up to 24 months",
+        "description": "OS is measured as the time from randomization until death from any cause."
+      },
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "At the end of the treatment period (up to 12 months)",
+        "description": "ORR is defined as the proportion of patients experiencing a confirmed complete response (CR) or partial response (PR) per RECIST criteria."
+      },
+      {
+        "measure": "Clinical Benefit Rate (CBR)",
+        "time_frame": "At the end of the treatment period (up to 12 months)",
+        "description": "CBR is defined as the proportion of patients with CR, PR, or stable disease (SD) lasting ≥24 weeks."
+      },
+      {
+        "measure": "Health-Related Quality of Life (HRQoL)",
+        "time_frame": "At baseline, every 3 months during treatment, and 30 days after treatment cessation",
+        "description": "HRQoL is assessed using standardized questionnaires to evaluate the patients' quality of life and treatment burden."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "During the treatment phase and up to 30 days after last dose",
+        "description": "The incidence of treatment-emergent adverse events (TEAEs) will be collected to evaluate the safety of the combination therapy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "180",
+    "condition": "Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Fulvestrant + Palbociclib",
+        "arm_group_type": "Active Comparator",
+        "description": "Fulvestrant 500 mg administered intramuscularly on Day 1 and Day 15 for Cycle 1, followed by Day 1 of subsequent cycles in conjunction with Palbociclib 125 mg orally daily for 21 days of a 28-day cycle."
+      },
+      {
+        "arm_group_label": "Fulvestrant + Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Fulvestrant 500 mg administered intramuscularly on Day 1 and Day 15 for Cycle 1, followed by Day 1 of subsequent cycles in conjunction with a placebo administered orally daily for 21 days of a 28-day cycle."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fulvestrant",
+        "description": "Fulvestrant 500 mg intramuscularly on Day 1 and Day 15 of Cycle 1, thereafter on Day 1 of each cycle for a maximum of 12 cycles.",
+        "arm_group_label": ["Fulvestrant + Palbociclib", "Fulvestrant + Placebo"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Palbociclib",
+        "description": "Palbociclib 125 mg orally, taken once daily for 21 days every 28-day cycle.",
+        "arm_group_label": "Fulvestrant + Palbociclib"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo for Palbociclib, administered orally once daily for 21 days every 28-day cycle.",
+        "arm_group_label": "Fulvestrant + Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Postmenopausal women aged ≥ 18 years with histologically confirmed HR-positive, HER2-negative metastatic breast cancer with disease progression on prior AI therapy.\n  - Must have measurable disease as defined by RECIST v1.1 criteria.\n  - Sufficient organ function as evidenced by laboratory values.\n\nExclusion Criteria:\n\n  - Prior treatment with fulvestrant or any CDK4/6 inhibitor.\n  - Concurrent usage of other anticancer therapies, radiation, or investigational drugs within the past 30 days.\n  - Known hypersensitivity to palbociclib or fulvestrant. \n  - Active central nervous system metastases or other severe comorbidities."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John A. Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Innovative Oncology Trials"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital Research Center",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02110",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "October 1, 2020",
+    "study_first_posted": "October 7, 2020",
+    "last_update_posted": "August 28, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Fulvestrant",
+      "Palbociclib",
+      "mTOR inhibitor",
+      "Hormone receptor-positive",
+      "Metastatic breast cancer"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fulvestrant", "Palbociclib"]
+    }
+  }
+}
+```

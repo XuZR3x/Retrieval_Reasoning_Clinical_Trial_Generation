@@ -1,0 +1,143 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03045678"
+    },
+    "id_info": {
+      "org_study_id": "12345-XYZ",
+      "nct_id": "NCT03045678"
+    },
+    "brief_title": "Dexmedetomidine for the Management of Acute Postoperative Pain in Cardiac Surgery Patients",
+    "official_title": "A Randomized, Double-blind, Placebo-controlled Trial of Dexmedetomidine for Managing Acute Postoperative Pain Following Cardiac Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Healthcare System Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Healthcare System Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to evaluate the efficacy of dexmedetomidine in improving pain management and reducing opioid consumption in patients undergoing cardiac surgery. The hypothesis posited that dexmedetomidine would significantly reduce pain scores without increasing the risk of respiratory complications."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to slow patient enrollment and insufficient statistical power to achieve meaningful results.",
+    "start_date": "March 2016",
+    "completion_date": "January 2019",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Total Opioid Consumption in the First 72 Hours Post-surgery",
+      "time_frame": "72 hours",
+      "description": "Total opioid consumption measured in morphine milligram equivalents (MME) during the first 72 hours post-surgery."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Pain Scores as Measured by Numeric Rating Scale (NRS)",
+        "time_frame": "up to 72 hours post-surgery",
+        "description": "Comparison of pain scores between the dexmedetomidine and placebo groups at multiple time points."
+      },
+      {
+        "measure": "Incidence of Respiratory Complications",
+        "time_frame": "72 hours post-surgery"
+      },
+      {
+        "measure": "Length of ICU Stay",
+        "time_frame": "up to 7 days post-surgery"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": [
+      "Postoperative Pain",
+      "Cardiac Surgery"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Dexmedetomidine",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexmedetomidine",
+        "description": "Loading dose of 1 mcg/kg followed by a continuous infusion at a rate of 0.5 mcg/kg/hour for the duration of ICU stay."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered identical volume of normal saline."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 years and older undergoing elective cardiac surgery\n- Ability to provide informed consent\n- Hospitalized post-surgery in ICU\n\nExclusion Criteria:\n- Known allergy to dexmedetomidine or similar agents\n- Requirement for other sedative medications\n- Severe respiratory compromise at baseline\n- Concurrent enrollment in other clinical trials",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiac Care Center",
+        "address": {
+          "city": "Metropolitan City",
+          "state": "State Abbreviation",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2019",
+    "study_first_submitted": "February 15, 2016",
+    "study_first_submitted_qc": "February 17, 2016",
+    "study_first_posted": "February 20, 2016",
+    "last_update_submitted": "March 10, 2019",
+    "last_update_posted": "March 20, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Healthcare System Institute",
+      "investigator_full_name": "Dr. John Smith, MD",
+      "investigator_title": "Lead Investigator, Anesthesiology"
+    },
+    "keyword": [
+      "Dexmedetomidine",
+      "Cardiac Surgery",
+      "Postoperative Pain"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Postoperative Pain",
+        "Cardiac Surgical Procedures"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Dexmedetomidine"
+      ]
+    }
+  }
+}
+```

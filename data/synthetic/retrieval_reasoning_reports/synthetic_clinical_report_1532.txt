@@ -1,0 +1,220 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "CLONAL-089",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Clopidogrel in Combination with Standard Immunotherapy for Patients with Advanced Melanoma",
+    "acronym": "CLONAL",
+    "official_title": "A Phase II Randomized Double-blind Study to Evaluate the Efficacy of Clopidogrel in Combination with Standard Immunotherapy in Patients with Advanced Melanoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Institute for Cancer Research",
+        "agency_class": "Other"
+      }
+    },
+    "source": "International Institute for Cancer Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Preclinical studies have suggested that platelet activation in the tumor microenvironment could enhance tumor growth and metastasis. This study aimed to determine whether the addition of clopidogrel, a P2Y12 inhibitor, could improve outcomes in patients receiving standard immunotherapy for advanced melanoma. However, recruitment proved challenging and interim analysis indicated a failure to demonstrate significant clinical benefit."
+    },
+    "detailed_description": {
+      "textblock": "Melanoma is characterized by its aggressive nature and resistance to conventional therapies. Recent advances in immunotherapy have shown promising results, yet the tumor microenvironment remains a critical factor influencing treatment outcomes. Data suggest that activated platelets may contribute to tumor progression through the secretion of proangiogenic factors and protection against immune-mediated attack.\n\nThis study was designed as a randomized, double-blind, placebo-controlled trial comparing immunotherapy alone versus immunotherapy with clopidogrel. Patients with unresectable stage III or IV melanoma were enrolled to assess the impact of clopidogrel on progression-free survival (PFS) and overall survival (OS). Based on preclinical models, it was hypothesized that clopidogrel could enhance immunotherapy efficacy by mitigating the procoagulant tumor microenvironment.\n\nDespite the initial promise of the hypothesis, several hurdles emerged during the trial execution. First, inadequate recruitment was experienced due to restrictive eligibility criteria, which required patients not only to present with unresectable melanoma but to have no prior history of anticoagulant therapy. Furthermore, the complex treatment regimen involving multiple agents complicated patient compliance, which ultimately impacted enrollment.\n\nDuring an interim analysis, an insufficient number of events and the inability to ascertain a significant PFS advantage raised concerns regarding clopidogrel's efficacy against the backdrop of standard immunotherapy. In addition, no marked improvement in safety profiles was observed, with an increase in recorded hemorrhagic events that led to patient withdrawals from the study, thus raising safety concerns that further reduced participant enthusiasm for enrollment.\n\nThe study was officially terminated in light of these challenges, leading to questions regarding the broader applicability of clopidogrel in oncological contexts, particularly in the absence of defined pharmacodynamic interactions in patients already receiving immunotherapy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Sustained recruitment problems and lack of demonstrated efficacy.",
+    "start_date": "March 10, 2018",
+    "completion_date": "August 20, 2020",
+    "primary_completion_date": "March 15, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-free survival (PFS)",
+      "time_frame": "up to 12 months",
+      "description": "PFS defined as the time from randomization to disease progression or death from any cause."
+    },
+    "secondary_outcome": [{
+        "measure": "Overall survival (OS)",
+        "time_frame": "up to 12 months",
+        "description": "OS measured from randomization until death from any cause."
+      },
+      {
+        "measure": "Incidence of adverse events",
+        "time_frame": "up to 12 months",
+        "description": "Adverse events classified as serious or non-serious, with a focus on bleeding occurrences."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": [
+      "Melanoma",
+      "Advanced Melanoma",
+      "Unresectable Melanoma"
+    ],
+    "arm_group": [{
+        "arm_group_label": "Clopidogrel + Immunotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients received standard immunotherapy plus clopidogrel 75 mg daily."
+      },
+      {
+        "arm_group_label": "Placebo + Immunotherapy",
+        "arm_group_type": "Comparator",
+        "description": "Patients received standard immunotherapy plus placebo."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Daily administration of clopidogrel 75 mg alongside immunotherapy.",
+        "arm_group_label": "Clopidogrel + Immunotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Daily administration of placebo alongside immunotherapy.",
+        "arm_group_label": "Placebo + Immunotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed advanced melanoma (unresectable stage III or IV).\n- At least 18 years of age.\n- Patients must be able to provide informed consent.\n- No history of significant coagulopathy or bleeding disorders.\n- No previous treatment with anticoagulants or antiplatelet therapy.\n\nExclusion Criteria:\n- Presence of other malignancies within the last 5 years.\n- Patients with renal or hepatic impairment.\n- Pregnant or lactating women.\n- Patients currently participating in other clinical trials."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Lucinda Roarke, MD",
+      "role": "Principal Investigator",
+      "affiliation": "International Institute for Cancer Research"
+    },
+    "location": {
+      "facility": {
+        "name": "International Institute for Cancer Research",
+        "address": {
+          "city": "Geneva",
+          "zip": "1211",
+          "country": "Switzerland"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Switzerland"
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "February 3, 2018",
+    "study_first_posted": "February 15, 2018",
+    "last_update_posted": "March 25, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": [
+      "Clopidogrel",
+      "Immunotherapy",
+      "Melanoma",
+      "Advanced Cancer",
+      "Thrombosis"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Melanoma",
+        "Unresectable Melanoma",
+        "Antineoplastic Agents"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Clopidogrel"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 150 participants were screened; however, only 80 patients were ultimately enrolled due to strict eligibility criteria and difficulties in patient compliance regarding the medication regimen.",
+        "pre_assignment_details": "20 patients were excluded due to previous anticoagulant therapy; 50 patients were not compliant with the study protocol.",
+        "group_list": {
+          "group": [{
+            "title": "Clopidogrel + Immunotherapy",
+            "description": "Patients received daily clopidogrel in combination with standard immunotherapy."
+          }, {
+            "title": "Placebo + Immunotherapy",
+            "description": "Patients received placebo in conjunction with standard immunotherapy."
+          }]
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+              "title": "Clopidogrel + Immunotherapy",
+              "description": "Patients in this group received clopidogrel."
+            },
+            {
+              "title": "Placebo + Immunotherapy",
+              "description": "Patients in this group received placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [80, 70]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [{
+              "title": "Clopidogrel + Immunotherapy",
+              "description": "Adverse events including severe bleeding and complications."
+            },
+            {
+              "title": "Placebo + Immunotherapy",
+              "description": "Adverse events were reported."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_assessment": "Non-systematic Assessment",
+          "category_list": {
+            "category": [{
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Severe adverse events",
+                    "counts": [8, 3]
+                  }
+                }
+              },
+              {
+                "title": "Bleeding events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Major hemorrhagic complications",
+                    "counts": [5, 1]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

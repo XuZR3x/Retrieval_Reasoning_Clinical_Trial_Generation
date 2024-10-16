@@ -1,0 +1,139 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04534567"
+    },
+    "id_info": {
+      "org_study_id": "PROMETHEUS",
+      "nct_id": "NCT04534567"
+    },
+    "brief_title": "Impact of Clopidogrel Dosing on Outcomes in Diverse Patient Populations",
+    "official_title": "A Multi-Center, Randomized, Double-Blind, Controlled Trial Evaluating the Efficacy and Safety of Different Dosing Regimens of Clopidogrel in Patients with Acute Ischemic Stroke and Undergoing Elective Procedures",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Network",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Health Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of varying dosing regimens of clopidogrel, focusing on patient populations undergoing acute ischemic stroke treatment and elective procedures. Aims to explore pharmacogenetic influences on therapeutic responses."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 1, 2021",
+    "completion_date": "December 1, 2023",
+    "primary_completion_date": "December 1, 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Neurological functional improvement measured by the Modified Rankin Scale at 90 days post-treatment",
+      "time_frame": "90 days post-treatment",
+      "description": "Assessment of functional recovery in patients receiving clopidogrel dosing regimens compared to placebo."
+    },
+    "secondary_outcomes": [
+      {
+        "measure": "Incidence of bleeding complications",
+        "time_frame": "30 days post-treatment",
+        "description": "Documentation of both major and minor bleeding events observed during the study period."
+      },
+      {
+        "measure": "CYP2C19 genotype influence on platelet response measured by PRU",
+        "time_frame": "Day 5 post-treatment",
+        "description": "Assessment of pharmacodynamic responses evaluated through the platelet reactivity unit (PRU) to understand genetic impacts on clopidogrel effectiveness."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "360",
+    "condition": "Acute Ischemic Stroke and Elective Procedures",
+    "arm_group": [
+      {
+        "arm_group_label": "900 mg Clopidogrel Loading Dose",
+        "arm_group_type": "Active Comparator",
+        "description": "120 patients will receive a 900 mg loading dose of clopidogrel followed by 75 mg daily for 30 days."
+      },
+      {
+        "arm_group_label": "600 mg Clopidogrel Loading Dose",
+        "arm_group_type": "Active Comparator",
+        "description": "120 patients will receive a 600 mg loading dose of clopidogrel followed by 75 mg daily for 30 days."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "120 patients will receive a matched placebo for the duration of the study following the same treatment schedule."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Subjects will receive clopidogrel in two dosing regimens (600 mg and 900 mg loading dose) with a maintenance dose of 75 mg/day.",
+        "arm_group_label": ["900 mg Clopidogrel Loading Dose", "600 mg Clopidogrel Loading Dose"]
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "A placebo will be administered to the control group to assess relative efficacy and safety compared to active treatments.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Adult patients aged 18 to 80 years with a confirmed diagnosis of acute ischemic stroke or patients scheduled for elective invasive procedures with a need for antiplatelet therapy.\r\n\r\n2. Patients must have a valid CYP2C19 genetic profile available (determined as ultrarapid, extensive, or poor metabolizers).\r\n\r\n3. Informed consent signed by the patient or legally authorized representative.\r\n\r\nExclusion Criteria:\r\n\r\n1. Known allergy or hypersensitivity to clopidogrel.\r\n\r\n2. History of recurrent bleeding disorders or major trauma within the past 3 months.\r\n\r\n3. Patients currently receiving other anticoagulant therapy or partaking in another clinical trial.\r\n\r\n4. Chronic renal failure, liver disease, or severe heart failure.\r\n\r\n5. Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Amir K. Ghanem, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Network"
+    },
+    "location": {
+      "facility": {
+        "name": "Multiple Sites — Global Health Network",
+        "address": {
+          "city": "Global",
+          "country": "Multi-national"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Various"
+    },
+    "verification_date": "December 2023",
+    "study_first_submitted": "October 15, 2020",
+    "study_first_submitted_qc": "October 16, 2020",
+    "study_first_posted": "October 22, 2020",
+    "last_update_submitted": "December 15, 2023",
+    "last_update_submitted_qc": "December 15, 2023",
+    "last_update_posted": "December 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Health Network",
+      "investigator_full_name": "Amir K. Ghanem",
+      "investigator_title": "Lead Research Fellow"
+    },
+    "condition_browse": {
+      "mesh_term": ["Stroke", "Elective Procedures", "Clopidogrel"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Clopidogrel"]
+    }
+  }
+}
+```

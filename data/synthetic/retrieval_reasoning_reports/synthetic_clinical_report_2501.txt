@@ -1,0 +1,582 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01634567"
+    },
+    "id_info": {
+      "org_study_id": "NN1250-3764",
+      "secondary_id": [
+        "2012-002347-37",
+        "U1111-1129-0453"
+      ],
+      "nct_id": "NCT01634567"
+    },
+    "brief_title": "A Study Assessing the Effect of Insulin Degludec on Glycemic Control in Type 2 Diabetes",
+    "official_title": "A 52-week Multicenter, Open-label, Randomized Trial Evaluating the Efficacy and Safety of Insulin Degludec Compared to Insulin Glargine in Patients With Type 2 Diabetes Mellitus Previously Treated With Oral Antidiabetic Medications",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novo Nordisk A/S",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Novo Nordisk A/S",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "Conducted across multiple centers in North America and Europe, this trial aimed to evaluate the comparative efficacy and safety of insulin degludec (IDeg) versus insulin glargine (IGlar) over a period of 52 weeks in a cohort of type 2 diabetes patients currently on oral antidiabetic agents. The primary endpoint focused on changes in glycosylated hemoglobin (HbA1c) from baseline to 52 weeks."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to the lack of sufficient efficacy data and recruitment challenges.",
+    "start_date": "May 2012",
+    "completion_date": "October 2013",
+    "primary_completion_date": "September 2013",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Glycosylated Hemoglobin (HbA1c)",
+      "time_frame": "Week 52",
+      "description": "Change from baseline in HbA1c at week 52."
+    },
+    "secondary_outcome": {
+      "measure": "Change in Body Weight",
+      "time_frame": "Week 52",
+      "description": "Change from baseline in body weight after 52 weeks of treatment."
+    },
+    "number_of_arms": "2",
+    "enrollment": "278",
+    "condition": [
+      "Diabetes",
+      "Diabetes Mellitus, Type 2"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "IDeg 3 times weekly (3TW)",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "IGlar once daily (OD)",
+        "arm_group_type": "Active Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "insulin degludec",
+        "description": "Insulin degludec will be administered subcutaneously once daily.",
+        "arm_group_label": "IDeg 3 times weekly (3TW)"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "insulin glargine",
+        "description": "Insulin glargine will be administered subcutaneously once daily.",
+        "arm_group_label": "IGlar once daily (OD)"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18-75 years with a clinical diagnosis of type 2 diabetes mellitus.\n- HbA1c levels between 7.5% to 10.5% at screening.\n- Patients on stable doses of metformin alone or in combination with other OADs for a minimum of 3 months prior to screening.\n\nExclusion Criteria:\n\n- Recent (within 1 year) cardiovascular event (myocardial infarction, stroke).\n- Severe hypoglycemia events requiring medical assistance in the past year.\n- Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Global Clinical Registry (GCR, 1567)",
+      "role": "Chief Investigator",
+      "affiliation": "Novo Nordisk A/S"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Novo Nordisk Investigational Site",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Novo Nordisk Investigational Site",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "zip": "M5C 2T2",
+            "country": "Canada"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "Canada",
+        "United States",
+        "Germany",
+        "France",
+        "United Kingdom"
+      ]
+    },
+    "link": {
+      "url": "http://novonordisk-trials.com",
+      "description": "Clinical Trials at Novo Nordisk"
+    },
+    "results_reference": {
+      "citation": "Smith J, Johnson K, Brown L, et al. Efficacy and Safety of Insulin Degludec in Type 2 Diabetes A Non-inferiority Trial. Diabetes Care. 2022 Mar;45(3):584-590. doi: 10.2337/dc21-1234.",
+      "PMID": "34654567"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "March 1, 2012",
+    "study_first_posted": "March 15, 2012",
+    "last_update_posted": "April 3, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Diabetes Mellitus",
+        "Diabetes Mellitus, Type 2"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Insulin",
+        "Insulin Glargine",
+        "Insulin Degludec"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial was conducted at 35 centers across North America and Europe, enrolling a total of 278 participants. The trial faced challenges in patient recruitment, particularly due to stringent inclusion criteria and geographical differences in diabetes care practices.",
+        "group_list": {
+          "group": [
+            {
+              "title": "IDeg 3TW",
+              "description": "Insulin degludec administered subcutaneously once daily."
+            },
+            {
+              "title": "IGlar OD",
+              "description": "Insulin glargine administered subcutaneously once daily."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {
+                    "participants": [
+                      "Termination due to lack of sufficient efficacy data and recruitment challenges."
+                    ]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Lack of Efficacy",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Protocol Violation",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Withdrawal Criteria",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "title": "Unclassified",
+                  "participants_list": {
+                    "participants": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "IDeg 3TW",
+                "description": "Participants administered Insulin degludec once daily."
+              },
+              {
+                "title": "IGlar OD",
+                "description": "Participants administered Insulin glargine once daily."
+              },
+              {
+                "title": "Total",
+                "description": "Total of all reporting groups"
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [
+                  null,
+                  null,
+                  null
+                ]
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [
+              {
+                "title": "Age",
+                "units": "years",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": [
+                              null,
+                              null,
+                              null
+                            ]
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": [
+                              null,
+                              null,
+                              null
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Glycosylated Hemoglobin (HbA1c)",
+                "units": "percentage of glycosylated hemoglobin",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "title": "Body Weight",
+                "units": "kg",
+                "param": "Mean",
+                "dispersion": "Standard Deviation",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "outcome_list": {
+            "outcome": [
+              {
+                "type": "Primary",
+                "title": "Change in Glycosylated Hemoglobin (HbA1c)",
+                "description": "Change from baseline in HbA1c after 52 weeks of treatment",
+                "time_frame": "Week 52",
+                "population": "Full analysis set included all randomized subjects with no missing data imputed.",
+                "group_list": {
+                  "group": [
+                    {
+                      "title": "IDeg 3TW",
+                      "description": "Insulin degludec administered."
+                    },
+                    {
+                      "title": "IGlar OD",
+                      "description": "Insulin glargine administered."
+                    }
+                  ]
+                },
+                "measure": {
+                  "title": "Change in Glycosylated Hemoglobin (HbA1c)",
+                  "description": "Change from baseline in HbA1c after 52 weeks of treatment",
+                  "population": "The Full analysis set included all randomized subjects with imputed missing data.",
+                  "units": "percentage of glycosylated hemoglobin",
+                  "param": "Mean",
+                  "dispersion": "Standard Deviation",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [
+                          null,
+                          null
+                        ]
+                      }
+                    }
+                  },
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [
+                              null,
+                              null
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "type": "Secondary",
+                "title": "Change in Body Weight",
+                "description": "Change from baseline in body weight after 52 weeks of treatment",
+                "time_frame": "Week 52",
+                "population": "The Full analysis set included all randomized subjects with imputed missing data.",
+                "group_list": {
+                  "group": [
+                    {
+                      "title": "IDeg 3TW",
+                      "description": "Insulin degludec administered."
+                    },
+                    {
+                      "title": "IGlar OD",
+                      "description": "Insulin glargine administered."
+                    }
+                  ]
+                },
+                "measure": {
+                  "title": "Change in Body Weight",
+                  "description": "Change from baseline in body weight after 52 weeks of treatment",
+                  "population": "The Full analysis set included all randomized subjects with imputed missing data.",
+                  "units": "kg",
+                  "param": "Mean",
+                  "dispersion": "Standard Deviation",
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Measure",
+                      "count_list": {
+                        "count": [
+                          null,
+                          null
+                        ]
+                      }
+                    }
+                  },
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [
+                              null,
+                              null
+                            ]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          "reported_events": {
+            "time_frame": "Adverse events were collected during the 52-week study duration.",
+            "desc": "The safety analysis set includes all subjects who received at least one dose of the investigational product or its comparator. Adverse events leading to discontinuation were noted.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "IDeg 3TW",
+                  "description": "Insulin degludec administered."
+                },
+                {
+                  "title": "IGlar OD",
+                  "description": "Insulin glargine administered."
+                }
+              ]
+            },
+            "serious_events": {
+              "default_vocab": "MedDRA 13.0",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total, serious adverse events",
+                        "counts": [0, 0]
+                      }
+                    }
+                  },
+                  {
+                    "title": "Metabolism and nutrition disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Severe hypoglycemia",
+                        "counts": [null, null]
+                      }
+                    }
+                  },
+                  {
+                    "title": "Cardiac disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Angina pectoris",
+                        "counts": [null, null]
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            "other_events": {
+              "frequency_threshold": "5",
+              "default_vocab": "MedDRA 13.0",
+              "default_assessment": "Systematic Assessment",
+              "category_list": {
+                "category": [
+                  {
+                    "title": "Total",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Total, other adverse events",
+                        "counts": [null, null]
+                      }
+                    }
+                  },
+                  {
+                    "title": "Gastrointestinal disorders",
+                    "event_list": {
+                      "event": {
+                        "sub_title": "Nausea",
+                        "counts": [null, null]
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "certain_agreements": {
+            "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+            "restrictive_agreement": "Novo Nordisk maintains the right to be informed of any investigator plans for publication and to review any scientific paper, presentation, communication or other information concerning the investigation described in this protocol."
+          },
+          "point_of_contact": {
+            "name_or_title": "Clinical Research Department",
+            "organization": "Novo Nordisk A/S",
+            "email": "clinicaltrials@novonordisk.com"
+          }
+        }
+      }
+    }
+}
+```

@@ -1,0 +1,216 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03054697"
+    },
+    "id_info": {
+      "org_study_id": "DOV-RO-2017",
+      "nct_id": "NCT03054697"
+    },
+    "brief_title": "Efficacy and Safety of Dovitinib in Patients With Locally Advanced or Metastatic Renal Cell Carcinoma",
+    "official_title": "An Open-Label, Non-Randomized, Multi-Center Phase II Study to Evaluate the Efficacy and Safety of Dovitinib (TKI258) in Patients With Locally Advanced or Metastatic Renal Cell Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Novartis Pharmaceuticals",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Novartis",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial investigates the effects of dovitinib on patients with locally advanced or metastatic renal cell carcinoma (RCC). Given its targeted action against RTK pathways critical for cancer proliferation and angiogenesis, dovitinib may provide a significant therapeutic benefit for this cohort."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\n1. To evaluate the overall response rate (ORR) in patients with locally advanced or metastatic renal cell carcinoma receiving dovitinib.\n\n2. To determine the progression-free survival (PFS) at 6 months among study participants.\n\nSECONDARY OBJECTIVES:\n\n1. To assess overall survival (OS) in this patient population.\n\n2. To evaluate the objective tumor response according to Response Evaluation Criteria in Solid Tumors (RECIST 1.1).\n\n3. To characterize the safety and tolerability profile of dovitinib.\n\n4. To assess biomarker alterations in circulating tumor DNA (ctDNA) pre- and post-treatment."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2017",
+    "completion_date": "November 20, 2020",
+    "primary_completion_date": "May 18, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "From randomization to assessment at 6 months",
+      "description": "The proportion of patients achieving complete or partial response as assessed by RECIST 1.1."
+    }],
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization to the first occurrence of disease progression or death, assessed at 6 months.",
+      "description": "PFS will be defined as the time from the start of treatment until documented progression or death."
+    },
+    {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Time from randomization until death from any cause, approximately 1 year.",
+      "description": "Survival data will be analyzed using the Kaplan-Meier method."
+    },
+    {
+      "measure": "Safety Profile Assessed by CTCAE",
+      "time_frame": "Until 30 days post-treatment",
+      "description": "Adverse events will be graded per Common Terminology Criteria for Adverse Events (CTCAE) v5.0."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "75",
+    "condition": ["Renal Cell Carcinoma", "Kidney Cancer"],
+    "arm_group": [{
+        "arm_group_label": "Dovitinib Treatment Cohort",
+        "arm_group_type": "Experimental",
+        "description": "Patients with locally advanced or metastatic RCC will receive dovitinib administered orally at a dose of 500 mg daily, on a schedule of 5 days on and 2 days off."
+      }
+    ],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "dovitinib",
+      "description": "500 mg orally once a day for 5 days followed by 2 days off in a 7-day cycle.",
+      "arm_group_label": ["Dovitinib Treatment Cohort"],
+      "other_name": "TKI258"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed renal cell carcinoma, locally advanced (Stage III) or metastatic (Stage IV).\n- Patients with at least one measurable lesion as per RECIST 1.1.\n- ECOG performance status of 0 or 1.\n- Adequate renal function: serum creatinine ≤ 1.5 x upper limit of normal (ULN).\n- Patients must provide written informed consent.\n\nExclusion Criteria:\n\n- History of central nervous system metastases.\n- Previous systemic therapies for RCC.\n- Severe uncontrolled medical conditions.\n- Pregnant or nursing females. Women of childbearing potential must use effective contraception."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Novartis Pharmaceuticals",
+      "role": "Study Director",
+      "affiliation": "Novartis Pharmaceuticals"
+    },
+    "location": [{
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2020",
+    "study_first_submitted": "February 10, 2017",
+    "study_first_posted": "February 15, 2017",
+    "results_first_submitted": "December 20, 2020",
+    "results_first_posted": "January 10, 2021",
+    "last_update_posted": "February 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "organization": "Novartis Pharmaceuticals"
+    },
+    "keyword": ["dovitinib", "renal cell carcinoma", "TKI258", "inhibitor", "cancer", "targeted therapy"],
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Renal Cell", "Neoplasm, Kidney"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+              "title": "Dovitinib Treatment Cohort",
+              "description": "Participants received dovitinib 500 mg orally once daily in a 5 days on and 2 days off schedule."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": [{
+                "title": "Started",
+                "participants_list": {
+                  "participants": [75]
+                }
+              },
+              {
+                "title": "Completed",
+                "participants_list": {
+                  "participants": [75]
+                }
+              },
+              {
+                "title": "Not Completed",
+                "participants_list": {
+                  "participants": [0]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "reported_events": {
+        "time_frame": "Adverse events collected throughout the study duration.",
+        "group_list": {
+          "group": [{
+              "title": "Dovitinib Treatment Cohort",
+              "description": "Participants were monitored for treatment-emergent adverse events."
+            }
+          ]
+        },
+        "serious_events": {
+          "total": {
+            "counts": {
+              "serious_adverse_events": [3]
+            }
+          },
+          "adverse_events": {
+            "total_count": [15],
+            "common_events": {
+              "Fatigue": [5],
+              "Nausea": [4],
+              "Hypertension": [3]
+            }
+          }
+        },
+        "other_events": {
+          "total": {
+            "counts": {
+              "other_adverse_events": {
+                "total": [10],
+                "details": [
+                  "Diarrhea",
+                  "Peripheral edema",
+                  "Headache"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

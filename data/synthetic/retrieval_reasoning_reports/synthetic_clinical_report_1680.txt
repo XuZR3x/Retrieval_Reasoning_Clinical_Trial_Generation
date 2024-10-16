@@ -1,0 +1,147 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on December 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "XYZ-1234",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Interferon Beta-1a in Patients With Autoimmune Encephalitis",
+    "acronym": "CEREBRO",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy and Safety of Interferon Beta-1a in Patients With Autoimmune Encephalitis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Biopharma Research Consortium",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Biopharma Research Consortium",
+    "brief_summary": {
+      "textblock": "The study aims to assess the efficacy and safety of interferon beta-1a in maintaining clinical improvement in patients diagnosed with autoimmune encephalitis. The hypothesis is that interferon beta-1a may modulate the immune response sufficiently to maintain improvement in symptoms."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Lack of Efficacy and Poor Recruitment",
+    "start_date": "March 2015",
+    "completion_date": "July 2018",
+    "primary_completion_date": "March 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of patients maintaining clinical improvement without relapse at week 24",
+      "time_frame": "24 weeks"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in the Modified Rankin Scale (mRS) score from baseline to week 24",
+        "time_frame": "24 weeks"
+      },
+      {
+        "measure": "Proportion of patients free of adverse events associated with treatment",
+        "time_frame": "Throughout the study period"
+      },
+      {
+        "measure": "Change in neuropsychological assessment scores",
+        "time_frame": "Week 24"
+      }
+    ],
+    "enrollment": "58",
+    "condition": "Autoimmune Encephalitis",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Subcutaneous administration of interferon beta-1a, 44 mcg, three times a week."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Subcutaneous administration of placebo, three times a week."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Interferon beta-1a",
+      "description": "Subcutaneously administered, three times a week"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Participants aged 18-75 years with a diagnosis of autoimmune encephalitis confirmed by cerebrospinal fluid (CSF) analysis and MRI findings.\n- Patients must have entered clinical remission or improvement following initial treatment with immunotherapy.\n\nExclusion Criteria:\n- Patients with contraindications to interferon therapy, including significant liver dysfunction or prior history of severe allergic reactions to interferons.\n- Concurrent use of other immunomodulatory drugs or ongoing infection."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jonathan Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Biopharma Research Consortium"
+    },
+    "location": {
+      "facility": {
+        "name": "Neuroscience Clinical Trials Unit",
+        "address": {
+          "city": "Cambridge",
+          "state": "Massachusetts",
+          "zip": "02139",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2019",
+    "study_first_submitted": "February 15, 2015",
+    "study_first_posted": "March 5, 2015",
+    "last_update_posted": "August 10, 2019",
+    "responsible_party": {
+      "name_title": "John Doe, PhD",
+      "organization": "Global Biopharma Research Consortium"
+    },
+    "keyword": [
+      "Autoimmune Encephalitis",
+      "Interferon beta-1a",
+      "Clinical Improvement",
+      "Immunotherapy"
+    ],
+    "condition_browse": {
+      "mesh_term": "Autoimmune Encephalitis"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Interferons",
+        "Interferon-beta",
+        "Interferon beta-1a"
+      ]
+    },
+    "factors_contributing_to_failure": [
+      {
+        "factor": "Limited patient recruitment hindered the potential sample size necessary for robust statistical analysis."
+      },
+      {
+        "factor": "The complex pathophysiology of autoimmune encephalitis may limit the efficacy of interferon beta-1a in varying patient cohorts."
+      },
+      {
+        "factor": "Inherent limitations in the pharmacodynamic response of interferon beta-1a in modulating the immune system, leading to variable efficacy."
+      },
+      {
+        "factor": "Additional adverse events in some patients, including flu-like symptoms, may have resulted in higher dropout rates."
+      },
+      {
+        "factor": "Lack of tailored biomarker strategies to identify patient populations that may benefit more effectively from treatment."
+      }
+    ]
+  }
+}
+```

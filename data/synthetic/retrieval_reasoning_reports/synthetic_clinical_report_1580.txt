@@ -1,0 +1,384 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02050168"
+    },
+    "id_info": {
+      "org_study_id": "FINGO-2020",
+      "nct_id": "NCT02050168"
+    },
+    "brief_title": "Efficacy and Safety of Fingolimod in Adult Patients with Chronic Inflammatory Demyelinating Polyradiculoneuropathy",
+    "official_title": "A Randomized, Double-blind, Placebo-controlled, Parallel-group Study to Evaluate the Efficacy and Safety of Fingolimod 0.5 mg Administered Orally Once Daily Versus Placebo in Patients with Chronic Inflammatory Demyelinating Polyradiculoneuropathy (CIDP)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaCell",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaCell",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of fingolimod in the treatment of chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) compared to placebo over a treatment duration of 12 months."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, randomized, double-blind, placebo-controlled study enrolled 150 patients diagnosed with CIDP as per EFNS/PNS criteria. Participants were randomly assigned to receive either oral fingolimod 0.5 mg daily or matching placebo over the course of one year. The primary endpoint was the time to first confirmed worsening on the adjusted INCAT Disability Scale at Month 12. Secondary endpoints included changes in grip strength, functional ability measured via R-ODS, and evaluation of safety and tolerability through adverse event reports."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 1, 2021",
+    "completion_date": "December 15, 2022",
+    "primary_completion_date": "December 15, 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Time to First Confirmed Worsening on the Adjusted INCT Disability Scale",
+      "time_frame": "12 months",
+      "description": "Measured by adjusted INCAT Disability Scale. Confirmed worsening defined as increase by 1 or more points from baseline."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline for Grip Strength (Dominant Hand)",
+        "time_frame": "Baseline, 6 months, 12 months",
+        "description": "Grip strength measured with vigorimeter; negative change from baseline indicates deterioration."
+      },
+      {
+        "measure": "Change From Baseline for R-ODS",
+        "time_frame": "Baseline, 6 months, 12 months",
+        "description": "Raw summed score translated to a centile metric score ranging from 0 (severe disability) to 100 (no disability)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Chronic Inflammatory Demyelinating Polyradiculoneuropathy",
+    "arm_group": [
+      {
+        "arm_group_label": "Fingolimod 0.5 mg",
+        "arm_group_type": "Experimental",
+        "description": "Oral administration of fingolimod 0.5 mg once daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Oral administration of matching placebo once daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fingolimod",
+        "description": "0.5 mg oral capsules administered once daily.",
+        "arm_group_label": "Fingolimod 0.5 mg",
+        "other_name": "Gilenya"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo capsules administered once daily.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18 to 75 years with a clinical diagnosis of CIDP, meeting EFNS/PNS criteria.\n\n- Patients exhibiting disability as defined by an adjusted INCAT Disability Scale score between 1 and 9 at screening.\n\n- Patients requiring prior treatments with IVIg or corticosteroids.\n\nExclusion Criteria:\n\n- Other chronic demyelinating neuropathies such as MMN or DADS.\n\n- Prior treatments with high-dose immunosuppressive agents within 6 months prior to randomization.\n\n- Significant cardiovascular abnormalities or other serious medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "PharmaCell Staff",
+      "role": "Study Director",
+      "affiliation": "PharmaCell"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "PharmaCell Research Center",
+          "address": {
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75201",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Neuroscience Clinic",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94103",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "November 15, 2020",
+    "study_first_posted": "December 1, 2020",
+    "last_update_posted": "April 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "chronic inflammatory demyelinating polyradiculoneuropathy",
+      "Fingolimod",
+      "CIDP"
+    ],
+    "condition_browse": {
+      "mesh_term": "Polyradiculoneuropathy, Chronic Inflammatory Demyelinating"
+    },
+    "intervention_browse": {
+      "mesh_term": "Fingolimod Hydrochloride"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 225 patients were screened for the study; 150 were randomly assigned to one of the two treatment arms.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Fingolimod",
+              "description": "0.5 mg of fingolimod administered orally once daily."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo capsules administered orally once daily."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Lack of Efficacy",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": [null, null]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "population": "The full analysis set, which included all participants who were assigned randomly to receive treatment.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Fingolimod",
+                "description": "Participants received Fingolimod 0.5 mg orally once daily."
+              },
+              {
+                "title": "Placebo",
+                "description": "Participants received matching placebo to Fingolimod orally once daily."
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Time to First Confirmed Worsening on INCAT Disability Scale",
+              "description": "Time until the first confirmed increase of 1 or more points on the INCAT Disability Scale from baseline.",
+              "time_frame": "12 months",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Fingolimod",
+                    "description": "Fingolimod group."
+                  },
+                  {
+                    "title": "Placebo",
+                    "description": "Placebo group."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Time to First Confirmed Worsening",
+                "units": "Days",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "p_value": "0.276"
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Change from Baseline for Grip Strength (Dominant Hand)",
+              "description": "Measured grip strength using a vigorimeter; change indicates improvement or deterioration.",
+              "time_frame": "Baseline, 6 months, 12 months",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Fingolimod",
+                    "description": "Fingolimod group."
+                  },
+                  {
+                    "title": "Placebo",
+                    "description": "Placebo group."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Grip Strength Change",
+                "units": "kPa",
+                "param": "Mean Change",
+                "dispersion": "Standard Deviation"
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "Throughout the 12 months of study participation.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Fingolimod",
+                "description": "Fingolimod group."
+              },
+              {
+                "title": "Placebo",
+                "description": "Placebo group."
+              }
+            ]
+          },
+          "serious_events": {
+            "default_assessment": "Systematic assessment of adverse events.",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Serious Adverse Events",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Cardiovascular Events",
+                        "counts": [5, 2]
+                      },
+                      {
+                        "sub_title": "Infection-Related Events",
+                        "counts": [6, 3]
+                      },
+                      {
+                        "sub_title": "Neurological Events",
+                        "counts": [4, 1]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "title": "Infections",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Pneumonia",
+                        "counts": [3, 2]
+                      },
+                      {
+                        "sub_title": "Cellulitis",
+                        "counts": [2, 0]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Non-Serious Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Headache",
+                      "counts": [15, 8]
+                    }
+                  }
+                },
+                {
+                  "title": "Other Adverse Events",
+                  "event_list": {
+                    "event": [
+                      {
+                        "sub_title": "Fatigue",
+                        "counts": [7, 5]
+                      },
+                      {
+                        "sub_title": "Arthralgia",
+                        "counts": [6, 3]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "The Principal Investigator is employed by PharmaCell.",
+          "restrictive_agreement": "The sponsor does not restrict publication of the trial results."
+        },
+        "point_of_contact": {
+          "name_or_title": "Study Director",
+          "organization": "PharmaCell",
+          "phone": "888-555-0184",
+          "email": "contact@pharmacell.com"
+        }
+      }
+    }
+  }
+}
+```

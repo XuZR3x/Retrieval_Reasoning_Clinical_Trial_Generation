@@ -1,0 +1,174 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "CORE-NCT01234567",
+      "secondary_id": ["NCI-2012-04785", "CDR0000467632"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Phase III Study of Pegfilgrastim in Combination with Dose-Dense Chemotherapy for Patients with Stage II and III Non-Small Cell Lung Cancer",
+    "official_title": "Phase III Trial of Pegfilgrastim Combined with Dose-Dense Cytotoxic Regimen in Patients with Stage II and III Non-Small Cell Lung Cancer: A Randomized Controlled Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "David Geffen School of Medicine at UCLA",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "David Geffen School of Medicine at UCLA",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Pegfilgrastim, a long-acting form of granulocyte-colony stimulating factor (G-CSF), has been investigated for its role in reducing the incidence of chemotherapy-induced neutropenia, thereby allowing for the administration of optimized chemotherapy doses without interruption. The study aims to test whether the combination of pegfilgrastim with a dose-dense chemotherapy regimen enhances treatment efficacy and improves patient outcomes in non-small cell lung cancer (NSCLC). \n\nPURPOSE: The primary objective of this Phase III trial is to evaluate the efficacy of pegfilgrastim in conjunction with a dose-dense regimen of cisplatin and gemcitabine in improving overall survival (OS) rates compared to standard chemotherapy alone."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES: \n\nPrimary \n- To determine if pegfilgrastim combined with cisplatin and gemcitabine dose-dense chemotherapy affects overall survival in patients with stage II and III NSCLC compared to chemotherapy without pegfilgrastim.\n\nSecondary \n- To assess the impact of pegfilgrastim on the rate of chemotherapy-induced neutropenia and related complications.\n- To evaluate the quality of life (QoL) among participants during treatment.\n- To analyze adverse events using standardized toxicity grading (e.g., CTCAE v4.0).\n\nOUTLINE: This is a multicenter, double-blind, randomized controlled trial. Participants are stratified by ECOG performance status and stage of disease. Patients are randomized to one of two treatment arms: \n- Arm A: Pegfilgrastim (subcutaneous injection) administered 24 hours post-chemotherapy in conjunction with intravenous cisplatin and gemcitabine administered every 14 days.\n- Arm B: Placebo followed by intravenous cisplatin and gemcitabine administered under the same schedule as Arm A.\n\nAll patients are assessed for overall survival, adverse events, quality of life metrics, and disease response every 8 weeks during treatment and every 6 months thereafter for 5 years."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2011",
+    "primary_completion_date": "July 2014",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Overall survival (OS)",
+      "time_frame": "5 years"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of chemotherapy-induced neutropenia",
+        "time_frame": "During treatment and observed up to 60 days post-therapy"
+      },
+      {
+        "measure": "Quality of life assessed by EORTC QLQ-C30",
+        "time_frame": "Every 3 months during treatment and annually thereafter for 5 years"
+      },
+      {
+        "measure": "Adverse events categorized by the CTCAE v4.0",
+        "time_frame": "Throughout the study period"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "600",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Pegfilgrastim + Dose-Dense Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving pegfilgrastim in conjunction with cisplatin and gemcitabine"
+      },
+      {
+        "arm_group_label": "Placebo + Dose-Dense Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receiving placebo alongside cisplatin and gemcitabine"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "pegfilgrastim",
+        "arm_group_label": "Pegfilgrastim + Dose-Dense Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "cisplatin",
+        "arm_group_label": ["Pegfilgrastim + Dose-Dense Chemotherapy", "Placebo + Dose-Dense Chemotherapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "gemcitabine",
+        "arm_group_label": ["Pegfilgrastim + Dose-Dense Chemotherapy", "Placebo + Dose-Dense Chemotherapy"]
+      },
+      {
+        "intervention_type": "Procedure",
+        "intervention_name": "dose-dense chemotherapy",
+        "arm_group_label": ["Pegfilgrastim + Dose-Dense Chemotherapy", "Placebo + Dose-Dense Chemotherapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "DISEASE CHARACTERISTICS:\n\n- Histologically confirmed diagnosis of stage II or III non-small cell lung cancer (NSCLC) without distant metastases.\n- Measurable disease, defined as at least one lesion >20 mm on imaging.\n\nPATIENT CHARACTERISTICS:\n- Age ≥ 18 years.\n- ECOG performance status 0-2.\n- Adequate organ function including WBC > 3,000/mm³ and platelet count > 100,000/mm³.\n- No history of serious hemorrhage or current infection. \n\nPRIOR CONCURRENT THERAPY:\n- No prior chemotherapy or radiotherapy for the current diagnosis.\n- No concurrent treatment with other investigational agents."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "David Geffen School of Medicine at UCLA"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "UCLA Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90095",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "City of Hope National Medical Center",
+          "address": {
+            "city": "Duarte",
+            "state": "California",
+            "zip": "91010",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "County of Los Angeles Comprehensive Cancer Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90059",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "October 2, 2010",
+    "study_first_submitted_qc": "October 2, 2010",
+    "study_first_posted": "October 10, 2010",
+    "last_update_submitted": "August 1, 2024",
+    "last_update_submitted_qc": "August 1, 2024",
+    "last_update_posted": "August 3, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["stage II lung cancer", "stage III lung cancer", "pegfilgrastim", "chemotherapy", "non-small cell lung cancer"],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Cisplatin", "Gemcitabine", "Pegfilgrastim"]
+    }
+  }
+}
+```

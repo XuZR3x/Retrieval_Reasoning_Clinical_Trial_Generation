@@ -1,0 +1,151 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 10, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02014867"
+    },
+    "id_info": {
+      "org_study_id": "2020-CLOF-PR-001",
+      "nct_id": "NCT02014867"
+    },
+    "brief_title": "Combination Therapy of Clofarabine and Dasatinib in Patients With Resistant Acute Lymphoblastic Leukemia",
+    "official_title": "A Phase II Study of Clofarabine and Dasatinib to Overcome Resistance in Acute Lymphoblastic Leukemia With Residual Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Pennsylvania",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Pennsylvania",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of clofarabine in combination with dasatinib in patients diagnosed with relapsed or refractory acute lymphoblastic leukemia (ALL) who have documented minimal residual disease (MRD) but are unable to proceed to hematopoietic stem cell transplantation (HSCT) due to disease persistence."
+    },
+    "detailed_description": {
+      "textblock": "Clofarabine, known for its efficacy as a chemotherapy agent, when combined with dasatinib, aims to enhance the cytotoxic effects against leukemic cells with MRD. This trial intends to explore whether this combination can sufficiently reduce MRD levels in patients to facilitate timely HSCT. Specifically, patients will be monitored for toxicity, response rates at predefined intervals, and overall survival compared to historical controls."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Patient Enrollment and Dose-Related Toxicity",
+    "start_date": "January 2015",
+    "completion_date": "December 2018",
+    "primary_completion_date": "July 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Reduction in Minimal Residual Disease (MRD)",
+      "time_frame": "Observed at Day 28 and Day 56 post-treatment initiation",
+      "description": "Determination of the number of patients achieving a significant reduction in MRD (<0.01% leukemic blasts) as assessed by flow cytometry."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Toxicity Profile Assessment",
+        "time_frame": "Ongoing throughout treatment, analyzed at Day 28 and Day 56",
+        "description": "Frequency and severity of adverse events using the NCI CTCAE version 4.0."
+      },
+      {
+        "measure": "Rate of Progression to HSCT",
+        "time_frame": "Within 60 days post-treatment completion",
+        "description": "Healthcare provider-reported eligibility for HSCT based on achieving target MRD levels."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "10",
+    "condition": [
+      "Acute Lymphoblastic Leukemia",
+      "Minimal Residual Disease"
+    ],
+    "arm_group": {
+      "arm_group_label": "Clofarabine and Dasatinib Treatment Arm",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive clofarabine (30mg/m2 IV on Days 1-5) in conjunction with dasatinib (100mg orally daily) for up to 28 days in a single cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clofarabine",
+        "description": "Administered as 30 mg/m2 IV on Days 1-5 of the treatment cycle.",
+        "arm_group_label": "Clofarabine and Dasatinib Treatment Arm",
+        "other_name": ["Clolar"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dasatinib",
+        "description": "Administered orally at a dose of 100 mg daily throughout the treatment cycle.",
+        "arm_group_label": "Clofarabine and Dasatinib Treatment Arm",
+        "other_name": ["Sprycel"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "A. Inclusion Criteria:\r\n1. Patients must be between 1 and 30 years of age.\r\n2. Diagnosis of acute lymphoblastic leukemia (ALL) with residual disease post last therapy.\r\n3. Evidence of MRD via flow cytometry.\r\n4. Appropriate organ function (Murcia criteria) and consent obtained.\r\n\r\nB. Exclusion Criteria:\r\n1. History of prior allogeneic stem cell transplantation.\r\n2. Known hypersensitivity to dasatinib or clofarabine.\r\n3. Presence of CNS leukemia.\r\n4. Major comorbidities limiting study compliance or safety." 
+        },
+        "gender": "All",
+        "minimum_age": "1 Year",
+        "maximum_age": "30 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Rebecca Hartman, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Pennsylvania"
+    },
+    "location": {
+      "facility": {
+        "name": "Perelman Center for Advanced Medicine, University of Pennsylvania",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2019",
+    "study_first_submitted": "November 20, 2014",
+    "study_first_submitted_qc": "December 5, 2014",
+    "study_first_posted": "December 21, 2014",
+    "last_update_submitted": "September 12, 2019",
+    "last_update_posted": "September 14, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": [
+      "Clofarabine",
+      "Dasatinib",
+      "Acute Lymphoblastic Leukemia",
+      "MRD Positive",
+      "Leukemia"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Leukemia",
+        "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Clofarabine",
+        "Dasatinib"
+      ]
+    }
+  }
+}
+```

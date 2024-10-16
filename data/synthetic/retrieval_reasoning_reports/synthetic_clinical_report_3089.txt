@@ -1,0 +1,152 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03654722"
+    },
+    "id_info": {
+      "org_study_id": "EudraCT No. 2018-000104-28",
+      "nct_id": "NCT03654722"
+    },
+    "brief_title": "A Phase II Study of Afatinib in Combination with Carboplatin and Pemetrexed in Chemotherapy-Naive Patients with Advanced Non-Small Cell Lung Cancer (NSCLC)",
+    "official_title": "A Randomized, Open-label, Phase II Study Evaluating the Efficacy and Safety of Afatinib in Combination with Carboplatin and Pemetrexed in Chemotherapy-Naive Patients with Advanced Non-Small Cell Lung Cancer and EGFR Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute of Oncology Research",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Institute of Oncology Research",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "No",
+      "is_fda_regulated_device": "No",
+      "is_us_export": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of afatinib in combination with carboplatin and pemetrexed in chemotherapy-naive patients diagnosed with advanced non-small cell lung cancer (NSCLC) harboring EGFR mutations, focusing on progression-free survival."
+    },
+    "detailed_description": {
+      "textblock": "This open-label, randomized phase II trial enrolled patients with histologically confirmed advanced NSCLC exhibiting somatic EGFR mutations (del19, L858R). Eligible participants, having not received prior chemotherapy, were randomized into two treatment arms: Arm A received afatinib (40 mg daily) plus carboplatin (AUC 5) and pemetrexed (500 mg/m²) every 21 days for four cycles, followed by maintenance therapy with afatinib, while Arm B underwent carboplatin and pemetrexed alone. The study aimed to evaluate the primary endpoint of progression-free survival at 6 months."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Recruitment challenges and excessive adverse events led to early termination.",
+    "start_date": "March 1, 2018",
+    "completion_date": "April 30, 2021",
+    "primary_completion_date": "October 30, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "6 months",
+      "description": "The duration from randomization until disease progression or death from any cause, assessed via radiographic imaging according to RECIST 1.1."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "12 months",
+        "description": "Calculated from the date of randomization to death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "60 days post-treatment completion",
+        "description": "Proportion of patients with a confirmed complete or partial response as assessed by RECIST 1.1."
+      },
+      {
+        "measure": "Quality of Life (QoL)",
+        "time_frame": "Measured at baseline and every 3 months",
+        "description": "Assessed via EORTC QLQ-C30 questionnaire."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Throughout the treatment duration",
+        "description": "Incidence and severity of adverse events graded according to the US NCI-CTCAE version 4.03."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Non-Small Cell Lung Cancer with Somatic EGFR Mutations",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Afatinib + Carboplatin + Pemetrexed",
+        "arm_group_type": "Experimental",
+        "description": "Combination therapy with afatinib (40 mg/day), carboplatin (AUC 5), and pemetrexed (500 mg/m²)."
+      },
+      {
+        "arm_group_label": "Arm B: Carboplatin + Pemetrexed",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard treatment with carboplatin (AUC 5) and pemetrexed (500 mg/m²)."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Afatinib",
+        "description": "40 mg/day orally in combination with chemotherapy.",
+        "arm_group_label": "Arm A: Afatinib + Carboplatin + Pemetrexed"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Intravenous, administered as AUC 5 every 21 days.",
+        "arm_group_label": "Arm A: Afatinib + Carboplatin + Pemetrexed"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "Intravenous, administered as 500 mg/m² on Day 1 of each 21-day cycle.",
+        "arm_group_label": "Arm A: Afatinib + Carboplatin + Pemetrexed"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  1. Histologically confirmed diagnosis of NSCLC with documented somatic EGFR mutation.\r\n  2. Chemotherapy-naive patients with Stage IIIB/IV disease.\r\n  3. At least one measurable lesion per RECIST 1.1.\r\n  4. Age ≥18 years with an ECOG performance status of <2.\r\n  5. Adequate organ and marrow resources.\r\n\r\n  Exclusion Criteria:\r\n  1. Prior treatment with chemotherapeutics or EGFR inhibitors.\r\n  2. Significant interstitial lung disease.\r\n  3. Known hypersensitivity to afatinib or components of the chemotherapy regimen.\r\n  4. Concurrent malignancies except for non-melanoma skin cancer.\r\n  5. Active infection with HBV, HCV, or HIV."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Anna Swanson",
+      "role": "Principal Investigator",
+      "affiliation": "Institute of Oncology Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Institute of Oncology Research",
+        "address": {
+          "city": "Lugano",
+          "country": "Switzerland"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Switzerland"
+    },
+    "verification_date": "June 2021",
+    "study_first_submitted": "January 10, 2018",
+    "study_first_posted": "January 15, 2018",
+    "last_update_submitted": "June 1, 2021",
+    "last_update_posted": "June 7, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Non-Small-Cell Lung", "Neoplasms, Experimental"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Afatinib", "Carboplatin", "Pemetrexed"]
+    }
+  }
+}
+```

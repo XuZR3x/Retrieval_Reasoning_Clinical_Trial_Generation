@@ -1,0 +1,126 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02598143"
+    },
+    "id_info": {
+      "org_study_id": "STUDY-12345",
+      "nct_id": "NCT02598143"
+    },
+    "brief_title": "Efficacy and Safety Evaluation of Tacrolimus in Patients with Refractory Lupus Nephritis",
+    "acronym": "REFINE",
+    "official_title": "A Multicenter, Open-label Study to Evaluate the Efficacy and Safety of Tacrolimus for the Treatment of Refractory Lupus Nephritis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to assess the efficacy and safety of tacrolimus as an adjunct therapy in patients with refractory lupus nephritis who had shown inadequate response to conventional immunosuppressive therapy. Patients were to receive tacrolimus as a primary treatment, while closely monitoring improvement in kidney function and reduction in disease activity."
+    },
+    "detailed_description": {
+      "textblock": "The REFINE study was designed to evaluate the clinical outcomes associated with the addition of tacrolimus to patients with lupus nephritis who were resistant to standard steroid-based therapies. The intervention was postulated to enhance renal function and decrease proteinuria through targeted immunosuppression. However, during the early recruitment phase, a significant proportion of potential subjects declined participation due to stringent eligibility requirements, which included the condition of refractoriness to prior immunosuppressant therapy. This limiting criterion severely impacted patient enrollment numbers.\n\nAdditionally, existing literature has indicated variability in tacrolimus dosing protocols, creating a challenging environment for standardization across multiple sites involved in the trial. A consensus on appropriate therapeutic windows specific to this patient population was lacking, contributing to difficulties in achieving adequately maintained drug levels. Consequently, this may have resulted in both underdosing and overdosing of participants, increasing the risks associated with treatment failure and adverse effects.\n\nUltimately, patient safety concerns were raised, and an unanticipated elevation in renal toxicity and adverse events such as severe gastrointestinal disturbances led to the decision to halt the trial prior to full enrollment."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study terminated due to poor patient recruitment and safety concerns regarding renal toxicity.",
+    "start_date": "November 2015",
+    "completion_date": "June 2019",
+    "primary_completion_date": "March 2019",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Kidney Function (measured by eGFR)",
+      "time_frame": "24 weeks",
+      "description": "Percentage of patients demonstrating a significant improvement in eGFR from baseline."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Reduction in Proteinuria",
+        "time_frame": "12 weeks",
+        "description": "Change from baseline in urine protein to creatinine ratio."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "24 weeks",
+        "description": "Assessment of adverse events through monitoring of clinical symptoms and laboratory tests."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "24 weeks",
+        "description": "Change in quality of life measured by validated questionnaires."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "15",
+    "condition": "Lupus Nephritis",
+    "arm_group": {
+      "arm_group_label": "Tacrolimus Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients receiving tacrolimus therapy orally."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Tacrolimus",
+      "description": "Oral administration of tacrolimus with dose adjustments based on therapeutic drug monitoring.",
+      "arm_group_label": "Tacrolimus Treatment Group",
+      "other_name": ["Prograf", "FK506"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Age ≥ 18 years\n  - Diagnosis of systemic lupus erythematosus with renal involvement\n  - Refractory lupus nephritis as defined by inadequate response to standard immunosuppressive therapies\n\nExclusion Criteria:\n  - Known hypersensitivity to tacrolimus\n  - Active infection requiring systemic treatment\n  - History of malignancy within the last 5 years\n  - Pregnancy or lactation"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Health"
+    },
+    "location": {
+      "facility": {
+        "name": "NIH Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2020",
+    "study_first_submitted": "October 12, 2015",
+    "study_first_submitted_qc": "October 15, 2015",
+    "study_first_posted": "October 16, 2015",
+    "last_update_submitted": "March 23, 2020",
+    "last_update_submitted_qc": "March 23, 2020",
+    "last_update_posted": "March 24, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Tacrolimus", "Refractory Lupus Nephritis", "Immunosuppression", "Kidney Function"],
+    "condition_browse": {"mesh_term": ["Nephritis", "Lupus Nephritis"]},
+    "intervention_browse": {"mesh_term": "Tacrolimus"}
+  }
+}
+```

@@ -1,0 +1,183 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT03947551"
+        },
+        "id_info": {
+            "org_study_id": "LIRA-2022",
+            "nct_id": "NCT03947551"
+        },
+        "brief_title": "Assessment of the Efficacy and Safety of Liraglutide in Patients with Inadequately Controlled Type 2 Diabetes Mellitus",
+        "official_title": "A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Liraglutide in Patients with Type 2 Diabetes Mellitus Not Optimally Controlled on Metformin Alone",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Lira Pharma Inc.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Lira Pharma Inc.",
+        "oversight_info": {
+            "has_dmc": "No"
+        },
+        "brief_summary": {
+            "textblock": "This trial aimed to investigate the effectiveness and safety of liraglutide as a monotherapy in patients who have been unable to achieve adequate glycemic control with metformin alone. It included multiple parameters to evaluate glycemic control and cardiovascular risk factors over a 24-week period."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Inadequate recruitment strategies led to insufficient enrollment of eligible participants, as stringent criteria deterred potential subjects.",
+        "start_date": "March 1, 2022",
+        "completion_date": "August 10, 2023",
+        "primary_completion_date": "April 30, 2023",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Change from baseline in HbA1c at week 24",
+            "time_frame": "Baseline and week 24",
+            "description": "To determine the efficacy of liraglutide in reducing HbA1c levels among the treatment group compared to placebo."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Change in Body Weight from baseline to week 24",
+                "time_frame": "Baseline and week 24",
+                "description": "To assess the impact of liraglutide on body weight reduction in the intervention group compared to placebo."
+            },
+            {
+                "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+                "time_frame": "Throughout 24 weeks",
+                "description": "To monitor all adverse effects associated with liraglutide treatment compared to the placebo group."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "45",
+        "condition": ["Diabetes", "Diabetes Mellitus, Type 2"],
+        "arm_group": [
+            {
+                "arm_group_label": "Liraglutide",
+                "arm_group_type": "Experimental",
+                "description": "Participants received 1.2 mg of liraglutide subcutaneously once daily."
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Participants received a matched placebo subcutaneously once daily."
+            }
+        ],
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Liraglutide",
+                "description": "Liraglutide administered subcutaneously at a dose of 1.2 mg once daily."
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Placebo identical in appearance to liraglutide, administered subcutaneously once daily."
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n  -  Informed consent obtained prior to any trial-related activities.\n  -  Diagnosed with Type 2 diabetes mellitus for at least 6 months.\n  -  Aged between 40 to 70 years.\n  -  HbA1c levels between 7.0% and 9.0% inclusive while on metformin therapy.\n\nExclusion Criteria:\n\n  -  Previous treatment with GLP-1 receptor agonists.\n  -  Any cardiovascular disease requiring treatment.\n  -  History of pancreatitis or pancreatic disease.\n  -  Known hypersensitivity to liraglutide or any excipient."
+            },
+            "gender": "All",
+            "minimum_age": "40 Years",
+            "maximum_age": "70 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "John Smith, MD",
+            "role": "Principal Investigator",
+            "affiliation": "Lira Research Center"
+        },
+        "location": {
+            "facility": {
+                "name": "Lira Research Center",
+                "address": {
+                    "city": "San Francisco",
+                    "state": "California",
+                    "zip": "94105",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "February 2024",
+        "study_first_submitted": "January 11, 2022",
+        "study_first_submitted_qc": "January 11, 2022",
+        "study_first_posted": "January 12, 2022",
+        "last_update_submitted": "July 2, 2023",
+        "last_update_submitted_qc": "July 2, 2023",
+        "last_update_posted": "July 4, 2023",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+        },
+        "intervention_browse": {
+            "mesh_term": ["Liraglutide"]
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "The trial was anticipated to enroll 200 participants; however, only 45 subjects were recruited due to strict inclusion criteria and high dropout rates.",
+                "pre_assignment_details": "Eligible subjects were randomized to receive either liraglutide or placebo in a 1:1 ratio."
+            },
+            "baseline": {
+                "group_list": {
+                    "group": [
+                        {
+                            "title": "Liraglutide",
+                            "description": "All subjects received liraglutide 1.2 mg once daily."
+                        },
+                        {
+                            "title": "Placebo",
+                            "description": "All subjects received placebo once daily."
+                        },
+                        {
+                            "title": "Total",
+                            "description": "Total of all reporting groups."
+                        }
+                    ]
+                }
+            },
+            "outcome_list": {
+                "outcome": [
+                    {
+                        "type": "Primary",
+                        "title": "Change in HbA1c Level",
+                        "description": "Change in HbA1c levels from baseline to week 24 indicated no significant difference between liraglutide and placebo groups (p = 0.468).",
+                        "time_frame": "Week 0, week 24",
+                        "population": "Full analysis set."
+                    },
+                    {
+                        "type": "Secondary",
+                        "title": "Number of Adverse Events",
+                        "description": "Approximately 30% of subjects reported significant adverse events leading to discontinuation and concerns regarding treatment safety.",
+                        "time_frame": "Weeks 0-24",
+                        "population": "Safety population."
+                    }
+                ]
+            }
+        },
+        "certain_agreements": {
+            "pi_employee": "The Principal Investigator is not an employee of the organization sponsoring the study.",
+            "restrictive_agreement": "The sponsor has the right to postpone publication for up to 60 days following trial completion to protect intellectual property."
+        },
+        "point_of_contact": {
+            "name_or_title": "Clinical Trials Office",
+            "organization": "Lira Pharma Inc.",
+            "email": "clinicaltrials@lirapharma.com"
+        }
+    }
+}
+```

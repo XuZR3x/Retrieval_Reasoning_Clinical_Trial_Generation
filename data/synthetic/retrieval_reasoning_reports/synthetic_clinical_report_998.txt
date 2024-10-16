@@ -1,0 +1,137 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02234815"
+    },
+    "id_info": {
+      "org_study_id": "2021-Paediatric-BMT-05",
+      "nct_id": "NCT02234815"
+    },
+    "brief_title": "Evaluation of Fludarabine in Combination with Standard Conditioning Regimen in Pediatric Patients Undergoing Hematopoietic Stem Cell Transplantation",
+    "official_title": "A Multicenter, Randomized, Placebo-Controlled Phase II Trial Evaluating Fludarabine in the Pre-Transplant Conditioning Regimen for Pediatric Patients with Hematological Malignancies",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aimed to assess the efficacy and safety of incorporating fludarabine into the standard conditioning regimen for pediatric patients requiring hematopoietic stem cell transplantation (HSCT) due to hematological malignancies. Investigators sought to analyze the potential benefits in terms of disease control and response rates while monitoring for associated toxicities and adverse events."
+    },
+    "detailed_description": {
+      "textblock": "Through a randomized approach, patients were assigned either to the intervention group receiving fludarabine as part of their conditioning regimen or to the control group which received standard therapy without fludarabine. The trial aimed to elucidate the efficacy markers, including overall survival and disease-free survival, as well as to clarify the safety profile concerning severe adverse reactions, including infections and hematological toxicity.\r\n\r\nThe overall design was structured to allow for comprehensive monitoring regarding graft-versus-host disease (GvHD), a significant complication associated with HSCT, intending to address timely interventions for the management of such adverse outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Significant toxicity and inadequate enrollment.",
+    "start_date": "March 2018",
+    "completion_date": "January 2021",
+    "primary_completion_date": "October 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of severe adverse events",
+      "time_frame": "48 weeks post-transplant",
+      "description": "To evaluate the incidence of severe adverse events related to the administration of fludarabine compared to standard preparative regimen."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival Rate",
+        "time_frame": "1 year post-transplant",
+        "description": "To assess the overall survival rate in pediatric patients receiving fludarabine versus those receiving only standard conditioning."
+      },
+      {
+        "measure": "Graft-versus-Host Disease (GvHD) Incidence",
+        "time_frame": "72 weeks post-transplant",
+        "description": "To characterize the incidence of GvHD in both groups after HSCT."
+      }
+    ],
+    "enrollment": "35",
+    "condition": ["Hematological Malignancies", "Acute Lymphoblastic Leukemia", "Myelodysplastic Syndromes"],
+    "arm_group": [
+      {
+        "arm_group_label": "Fludarabine + Standard Conditioning",
+        "arm_group_type": "Experimental",
+        "description": "Pediatric patients receiving fludarabine in conjunction with cyclophosphamide and total body irradiation as part of their conditioning regimen."
+      },
+      {
+        "arm_group_label": "Standard Conditioning Alone",
+        "arm_group_type": "Control",
+        "description": "Pediatric patients receiving cyclophosphamide and total body irradiation without fludarabine."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fludarabine",
+        "description": "Fludarabine administered as part of the conditioning regimen prior to hematopoietic stem cell transplantation."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Cyclophosphamide administered as part of the conditioning regimen.",
+        "arm_group_label": ["Fludarabine + Standard Conditioning", "Standard Conditioning Alone"]
+      },
+      {
+        "intervention_type": "Radiation",
+        "intervention_name": "Total Body Irradiation (TBI)",
+        "description": "Total body irradiation utilized in the preparative regimen for all participants.",
+        "arm_group_label": ["Fludarabine + Standard Conditioning", "Standard Conditioning Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Pediatric patients aged 1-18 years with a diagnosis of hematological malignancy for which HSCT is indicated.\r\n2. Adequate organ function as defined by specific laboratory parameters.\r\n3. Informed consent provided by the guardian or legal representative.\r\n\r\nExclusion Criteria:\r\n\r\n1. History of uncontrolled infections pre-transplant.\r\n2. Prior HSCT or chemotherapy within 30 days of enrollment.\r\n3. Severe concurrent illnesses or medical conditions potentially influencing the study outcomes."
+      },
+      "gender": "All",
+      "minimum_age": "1 Year",
+      "maximum_age": "18 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Karen L. Smith, MD",
+        "role": "Principal Investigator",
+        "affiliation": "National Institute of Health"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "National Institute of Health Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2021",
+    "study_first_submitted": "October 15, 2017",
+    "study_first_posted": "October 20, 2017",
+    "results_first_submitted": "January 10, 2021",
+    "results_first_posted": "January 12, 2021",
+    "last_update_posted": "February 8, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Pediatric Hematology", "Hematopoietic Stem Cell Transplantation", "Fludarabine", "Graft-versus-Host Disease", "TBI"]
+  }
+}
+```

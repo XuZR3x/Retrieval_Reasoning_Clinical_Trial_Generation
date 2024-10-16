@@ -1,0 +1,214 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "OSLT-002-13",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluation of Oseltamivir in Influenza Patients with Pre-existing Conditions",
+    "official_title": "A Multi-Center, Randomized, Controlled Study to Evaluate the Efficacy of Standard Dose Oseltamivir in Adults with Influenza and Pre-existing Conditions.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Hoffmann-La Roche",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of standard dose oseltamivir (75 mg BID for 5 days) in adults diagnosed with influenza, specifically focusing on those with underlying comorbidities such as diabetes mellitus and chronic obstructive pulmonary disease (COPD). The primary hypothesis was that oseltamivir would improve recovery time from influenza symptoms in this subset. The study also sought to monitor the development of oseltamivir-resistant strains of the influenza virus."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and safety concerns regarding viral resistance development.",
+    "start_date": "January 2014",
+    "completion_date": "December 2016",
+    "primary_completion_date": "December 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Time to resolution of influenza symptoms",
+      "time_frame": "Measured from Day 1 to Day 14 after treatment initiation"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Proportion of patients developing oseltamivir-resistant virus",
+        "time_frame": "Evaluated at Day 7 and Day 14 post-treatment"
+      },
+      {
+        "measure": "Rates of severe adverse events",
+        "time_frame": "Colleted over 30 days post-treatment initiation"
+      },
+      {
+        "measure": "Duration of hospitalization",
+        "time_frame": "From Day 1 to discharge"
+      },
+      {
+        "measure": "Clinical safety assessments",
+        "time_frame": "Conducted at Day 1 and Day 14"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": "Influenza with Comorbidities",
+    "arm_group": [
+      {
+        "arm_group_label": "Standard Dose Oseltamivir",
+        "arm_group_type": "Experimental",
+        "description": "Subjects received oseltamivir 75 mg BID for 5 days."
+      },
+      {
+        "arm_group_label": "Placebo-Controlled Arm",
+        "arm_group_type": "Active Comparator",
+        "description": "Subjects received placebo matched to oseltamivir for 5 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oseltamivir",
+        "description": "Standard dosing of oseltamivir (75 mg BID) orally for 5 days.",
+        "arm_group_label": ["Standard Dose Oseltamivir"],
+        "other_name": "Tamiflu"
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Placebo matched to oseltamivir orally for 5 days.",
+        "arm_group_label": ["Placebo-Controlled Arm"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 to 65.\n2. Documented diagnosis of influenza within the past 48 hours.\n3. Presence of pre-existing conditions such as diabetes mellitus, COPD, or hypertension.\n4. Signed informed consent form.\n\nExclusion Criteria:\n\n1. Pregnant or breastfeeding women.\n2. Previous antiviral treatment within 2 weeks before screening.\n3. Chronic renal disease requiring dialysis.\n4. History of severe hypersensitivity to oseltamivir.\n5. Patients who, in the opinion of investigators, are unlikely to comply with study procedures.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Research Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Redwood Health Center",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94110",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2017",
+    "study_first_submitted": "December 22, 2013",
+    "study_first_submitted_qc": "January 2, 2014",
+    "study_first_posted": "January 5, 2014",
+    "last_update_submitted": "February 14, 2017",
+    "last_update_posted": "February 15, 2017",
+    "responsible_party": {
+      "name_title": "John Doe MD",
+      "organization": "Global Health Research Institute"
+    },
+    "keyword": "Influenza, Oseltamivir, Pre-existing conditions",
+    "condition_browse": {
+      "mesh_term": "Influenza, Human"
+    },
+    "intervention_browse": {
+      "mesh_term": "Oseltamivir"
+    },
+    "reported_events": {
+      "time_frame": "Day 1 to Day 30 post-treatment",
+      "desc": "Monitoring of safety and adverse events among participants.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Total",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [null, null]
+                },
+                {
+                  "sub_title": "Total fatalities",
+                  "counts": [null, null]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Viral Resistance",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Oseltamivir resistance confirmation",
+                  "counts": [null, null]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "other_events": {
+      "frequency_threshold": "5",
+      "default_vocab": "MedDRA",
+      "default_assessment": "Systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Influenza Symptoms",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Persisting symptoms beyond Day 14",
+                  "counts": [null, null]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Gastrointestinal Disorders",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Nausea",
+                  "counts": [null, null]
+                },
+                {
+                  "sub_title": "Vomiting",
+                  "counts": [null, null]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,130 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03254710"
+    },
+    "id_info": {
+      "org_study_id": "2021-VinPNE",
+      "nct_id": "NCT03254710"
+    },
+    "brief_title": "Vinorelbine in Combination With Immunotherapy in Advanced Solid Tumors",
+    "acronym": "VIN-IMMO",
+    "official_title": "A Phase II Study of Vinorelbine in Combination With Immunotherapy for Patients With Advanced Solid Tumors: Evaluation of Efficacy and Safety",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institut Paoli-Calmettes",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Institut Paoli-Calmettes",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The aim of this Phase II study is to evaluate the efficacy and safety of vinorelbine when combined with novel immunotherapeutic agents in patients diagnosed with advanced solid tumors, focusing on the potential for enhanced antitumor activity and improved patient outcomes."
+    },
+    "detailed_description": {
+      "textblock": "This interventional study plans to enroll approximately 80 patients with advanced solid tumors who have failed prior therapies. Patients will receive vinorelbine at a dose of 60 mg/m² administered intravenously on Days 1 and 8 of each 21-day cycle, combined with a specified immunotherapy agent appropriate for their tumor type, dosed according to established protocols for that agent.\n\nInclusion criteria will focus on patients aged 18 years and older with histologically confirmed tumors, with measurable disease as per RECIST 1.1 criteria, and an Eastern Cooperative Oncology Group (ECOG) performance status of 0-2. Competing systemic diseases, prior exposure to vinorelbine, and other forms of chemotherapy or immunotherapy will serve as primary exclusion factors. The study will incorporate robust biomarker assessments alongside clinical endpoints, such as objective response rate (ORR), progression-free survival (PFS), and overall survival (OS).\n\nThe study’s innovative design integrates mathematical modeling to tailor vinorelbine dosing to specific patient profiles, enhancing the potential for personalized medicine applications in oncology."
+    },
+    "overall_status": "Ongoing",
+    "start_date": "May 1, 2022",
+    "completion_date": "Expected: September 30, 2025",
+    "primary_completion_date": "Expected: September 30, 2024",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Measured at 12 weeks after treatment initiation.",
+        "description": "ORR is defined as the proportion of patients achieving either a complete response (CR) or partial response (PR) as determined by independent radiologic review according to RECIST 1.1."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Monitored from the time of treatment initiation until disease progression or death (up to 24 months).",
+        "description": "PFS is the duration from treatment initiation to the date of documented progression or death, whichever comes first."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Measured from the date of treatment initiation to the date of death from any cause (up to 36 months).",
+        "description": "OS is defined as the time from treatment start until the date of death, with participants who are alive censored at the date of last follow-up."
+      },
+      {
+        "measure": "Safety Profile Assessment",
+        "time_frame": "Evaluated throughout the study (up to 36 months).",
+        "description": "Adverse events will be reported and graded according to the Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "80",
+    "condition": "Solid Tumors",
+    "arm_group": {
+      "arm_group_label": "Vinorelbine + Immunotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive vinorelbine in combination with an appropriate immunotherapy agent."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Vinorelbine",
+      "arm_group_label": "Vinorelbine + Immunotherapy"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients (male or female) aged ≥18 years.\n\n- Histologically confirmed advanced solid tumors (who have failed prior treatments).\n\n- Measurable disease according to RECIST 1.1 criteria.\n\n- ECOG performance status of 0-2.\n\nExclusion Criteria:\n\n- Prior treatment with vinorelbine.\n\n- Uncontrolled significant comorbidities.\n\n- Concurrent malignancies.\n\n- Uncontrolled infections."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Marie Lefevre",
+      "role": "Principal Investigator",
+      "affiliation": "Institut Paoli-Calmettes"
+    },
+    "location": {
+      "facility": {
+        "name": "Institut Paoli-Calmettes",
+        "address": {
+          "city": "Marseille",
+          "zip": "13005",
+          "country": "France"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "France"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "March 15, 2022",
+    "study_first_submitted_qc": "March 20, 2022",
+    "study_first_posted": "March 22, 2022",
+    "last_update_submitted": "August 10, 2024",
+    "last_update_submitted_qc": "August 10, 2024",
+    "last_update_posted": "August 12, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Solid Tumors",
+        "Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Vinorelbine"
+    }
+  }
+}
+```

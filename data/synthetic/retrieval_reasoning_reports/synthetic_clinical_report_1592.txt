@@ -1,0 +1,406 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "SITA-2",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Sitagliptin for Enhanced Glycemic Control in Patients with Type 2 Diabetes: A Multicenter Study",
+    "official_title": "A Phase III Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy and Safety of Sitagliptin in Patients with Type 2 Diabetes Mellitus Inadequately Controlled by Metformin Alone",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Health Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme LLC",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Health Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of sitagliptin administered at a dosage of 100 mg once daily for 24 weeks in patients with Type 2 Diabetes Mellitus (T2DM) currently receiving metformin therapy. The primary hypothesis posits that sitagliptin will significantly reduce HbA1c levels from baseline compared to placebo, with safety measured through the incidence of adverse events."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2018",
+    "completion_date": "January 2021",
+    "primary_completion_date": "November 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change From Baseline in HbA1c Levels at 24 Weeks",
+        "time_frame": "Baseline and Week 24"
+      },
+      {
+        "measure": "Incidence of Participants with Adverse Events",
+        "time_frame": "Up to Week 26"
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in Fasting Plasma Glucose (FPG) at 24 Weeks",
+        "time_frame": "Baseline and Week 24"
+      },
+      {
+        "measure": "Change From Baseline in 2-hour Post-Meal Glucose Levels at 24 Weeks",
+        "time_frame": "Baseline and Week 24"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "500",
+    "condition": "Type 2 Diabetes Mellitus",
+    "arm_group": [
+      {
+        "arm_group_label": "Sitagliptin",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive sitagliptin 100 mg once daily along with a stable dose of metformin for 24 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive matching placebo once daily along with a stable dose of metformin for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Sitagliptin",
+        "description": "Sitagliptin administered at 100 mg once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered once daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Patients over 18 years of age with a diagnosis of T2DM.\r\n  - HbA1c levels between 6.5% to 9.0% at screening.\r\n  - On stable metformin dosage (≥1500 mg/day) for at least 10 weeks.\r\n  - Informed consent obtained prior to participation.\r\n\r\nExclusion Criteria:\r\n  - History of type 1 diabetes or previous use of DPP-4 inhibitors.\r\n  - Active liver disease or cancer within the past 5 years.\r\n  - Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Tanaka",
+      "role": "Principal Investigator",
+      "affiliation": "National Health Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Multiple centers across North America",
+        "address": {
+          "city": "Various",
+          "state": "N/A",
+          "zip": "N/A",
+          "country": "USA"
+        }
+      }
+    },
+    "link": {
+      "url": "https://www.nih.gov/",
+      "description": "Related Info"
+    },
+    "verification_date": "September 2021",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_posted": "February 1, 2018",
+    "results_first_submitted": "February 15, 2021",
+    "results_first_posted": "March 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Type 2 Diabetes Mellitus",
+      "Sitagliptin",
+      "Metformin",
+      "Blood Glucose Control"
+    ],
+    "condition_browse": {
+      "mesh_term": "Diabetes Mellitus, Type 2"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Sitagliptin Phosphate",
+        "Metformin"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Sitagliptin",
+              "description": "Sitagliptin 100 mg plus metformin."
+            },
+            {
+              "title": "Placebo",
+              "description": "Matching placebo plus metformin."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "Started",
+                  "participants_list": {
+                    "participants": [500, null]
+                  }
+                },
+                {
+                  "title": "Completed",
+                  "participants_list": {
+                    "participants": [480, null]
+                  }
+                },
+                {
+                  "title": "Not Completed",
+                  "participants_list": {
+                    "participants": [20, null]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": [7, null]
+                  }
+                },
+                {
+                  "title": "Lack of Efficacy",
+                  "participants_list": {
+                    "participants": [2, null]
+                  }
+                },
+                {
+                  "title": "Lost to Follow-up",
+                  "participants_list": {
+                    "participants": [5, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Sitagliptin",
+              "description": "Patients on sitagliptin."
+            },
+            {
+              "title": "Placebo",
+              "description": "Patients on placebo."
+            },
+            {
+              "title": "Total",
+              "description": "Combined group."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [500, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "HbA1c",
+              "units": "Percent",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Gender: Male, Female",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change From Baseline in HbA1c Levels at 24 Weeks",
+            "time_frame": "Baseline and Week 24",
+            "population": "Full Analysis Set.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Sitagliptin",
+                  "description": "Sitagliptin 100 mg once daily."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Placebo once daily."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change From Baseline in HbA1c Levels",
+              "units": "Percentage",
+              "param": "Mean Difference",
+              "dispersion": "95% Confidence Interval",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [280, 220]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "method": "ANCOVA",
+                  "param_type": "Mean Difference",
+                  "param_value": "-0.82",
+                  "ci_lower_limit": "-1.02",
+                  "ci_upper_limit": "-0.62",
+                  "p_value": "<0.001"
+                }
+              }
+            }
+          },
+          {
+            "type": "Primary",
+            "title": "Incidence of Adverse Events",
+            "time_frame": "Up to Week 26",
+            "population": "All patients as treated.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Sitagliptin",
+                  "description": "Sitagliptin 100 mg."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Matching placebo."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Number of Participants with Adverse Events",
+              "units": "Participants",
+              "param": "Count",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [90, 110]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "method": "Fisher's Exact Test",
+                  "p_value": "0.045"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Sitagliptin",
+              "description": "Adverse events reported during the trial."
+            },
+            {
+              "title": "Placebo",
+              "description": "Adverse events reported during the trial."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total events",
+                    "counts": [5, 8]
+                  }
+                }
+              },
+              {
+                "title": "Cardiac Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Myocardial infarction",
+                    "counts": [1, 2]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "category_list": {
+            "category": [
+              {
+                "title": "Gastrointestinal Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Diarrhea",
+                    "counts": [10, 12]
+                  }
+                }
+              },
+              {
+                "title": "Infections",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Upper respiratory tract infection",
+                    "counts": [15, 9]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

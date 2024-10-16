@@ -1,0 +1,194 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04101214"
+    },
+    "id_info": {
+      "org_study_id": "PBC-2021",
+      "nct_id": "NCT04101214"
+    },
+    "brief_title": "Assessment of Palbociclib Combined With Endocrine Therapy in Patients With Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer",
+    "official_title": "Phase 2 Study Evaluating the Efficacy and Safety of Palbociclib in Combination With Standard Endocrine Therapy in Advanced Hormone Receptor-Positive, HER2-Negative Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Network",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pfizer",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Research Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial investigates the effectiveness and safety of palbociclib when combined with either letrozole or tamoxifen in patients diagnosed with hormone receptor-positive, HER2-negative breast cancer. The goal is to establish whether palbociclib, as a cyclin-dependent kinase 4/6 inhibitor, can enhance progression-free survival and decrease endocrine resistance."
+    },
+    "detailed_description": {
+      "textblock": "Palbociclib works by specifically inhibiting cyclin-dependent kinases 4 and 6, resulting in the halting of tumor cell proliferation. This is crucial for patients whose cancers have shown resistance to standard endocrine therapies. Participants will be randomized to receive either palbociclib in combination with an endocrine treatment or the endocrine treatment alone. Rigorous trial design and comprehensive safety monitoring will ensure the collection of robust data regarding the effectiveness of the therapeutic regimen."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 15, 2020",
+    "completion_date": "October 10, 2023",
+    "primary_completion_date": "April 15, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From the date of randomization until disease progression, assessed over a 24-month period.",
+      "description": "PFS is defined as the time from randomization to the documentation of progression or death, whichever occurs first. The assessment of progression will be based on objective visualization methods as per RECIST criteria, ensuring the study’s integrity."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Through study completion, up to 2 years.",
+        "description": "The ORR is defined as the proportion of patients achieving a complete or partial response according to RECIST 1.1 criteria during the treatment period."
+      },
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "From the date of administration of the first study drug until 30 days after the last dose.",
+        "description": "Assessment of both serious and non-serious TEAEs will allow for the evaluation of the safety profile of palbociclib when combined with endocrine therapy."
+      },
+      {
+        "measure": "Duration of Response (DR)",
+        "time_frame": "From the first documentation of an objective response to disease progression or death, whichever occurs first.",
+        "description": "The DR will provide insight into the sustainability of response to the treatment regimen."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "260",
+    "condition": "Hormone Receptor-Positive Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A",
+        "arm_group_type": "Experimental",
+        "description": "Participants in this arm will receive palbociclib in combination with either letrozole or tamoxifen for the duration of the study."
+      },
+      {
+        "arm_group_label": "Arm B",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants in this arm will receive the standard endocrine therapy (letrozole or tamoxifen) without palbociclib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Palbociclib",
+        "description": "Palbociclib administered at 125 mg orally once daily for 21 days followed by 7 days off in a 28-day cycle.",
+        "arm_group_label": "Arm A"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Letrozole",
+        "description": "Letrozole administered at 2.5 mg orally once daily.",
+        "arm_group_label": "Arm A"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tamoxifen",
+        "description": "Tamoxifen administered at 20 mg orally once daily.",
+        "arm_group_label": "Arm A"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Letrozole",
+        "description": "Letrozole administered at 2.5 mg orally once daily.",
+        "arm_group_label": "Arm B"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tamoxifen",
+        "description": "Tamoxifen administered at 20 mg orally once daily.",
+        "arm_group_label": "Arm B"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 18 years or older with a confirmed diagnosis of hormone receptor-positive and HER2-negative breast cancer.\r\n- Participants must have measurable disease and progression following standard endocrine therapy.\r\n- ECOG performance status of 0 or 1 at screening.\r\n- Adequate hematologic, hepatic, and renal function.\r\n- Prior chemotherapy permitted if completed 6 months prior to enrollment.\r\n\r\nExclusion Criteria:\r\n- History of allergic reactions to palbociclib or its components.\r\n- Active CNS metastases or serious coagulopathy at the time of enrollment.\r\n- Currently on treatment with strong CYP3A inhibitors/inducers.\r\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Network"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "January 10, 2020",
+    "study_first_posted": "February 1, 2020",
+    "last_update_submitted": "July 25, 2024",
+    "last_update_posted": "July 30, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Palbociclib",
+      "Breast Cancer",
+      "Estrogen Receptor Positive",
+      "HER2 Negative"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Palbociclib", "Letrozole", "Tamoxifen"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

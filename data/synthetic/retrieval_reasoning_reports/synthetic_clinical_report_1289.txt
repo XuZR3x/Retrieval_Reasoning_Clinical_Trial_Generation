@@ -1,0 +1,137 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "ENOXA_2022",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Evaluation of Enoxaparin Therapy in Patients with Acute Pulmonary Embolism",
+    "acronym": "ENOXPE",
+    "official_title": "A Randomized, Open-Label, Multicenter Study to Assess the Efficacy of Enoxaparin Compared to Unfractionated Heparin in Patients with Acute Pulmonary Embolism",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Institute",
+        "agency_class": "Non-profit"
+      }
+    },
+    "source": "Global Health Institute",
+    "brief_summary": {
+      "textblock": "The primary objective was to determine whether enoxaparin provides superior efficacy in preventing recurrent venous thromboembolism compared to unfractionated heparin (UFH) in patients diagnosed with acute pulmonary embolism (PE).\n\nThe secondary endpoint aimed to evaluate the safety of enoxaparin concerning major bleeding events during the treatment period."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Met protocol-defined stopping rule for futility based on inadequate efficacy outcomes.",
+    "start_date": "January 2020",
+    "completion_date": "June 2022",
+    "primary_completion_date": "May 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of recurrent venous thromboembolism",
+      "time_frame": "During the first 90 days post-treatment"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of major bleeding",
+        "time_frame": "During hospitalization and within 30 days post-treatment"
+      },
+      {
+        "measure": "Composite of mortality due to PE or bleeding complications",
+        "time_frame": "At day 90"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "540",
+    "condition": "Acute Pulmonary Embolism",
+    "arm_group": [
+      {
+        "arm_group_label": "A",
+        "arm_group_type": "Experimental",
+        "description": "Enoxaparin: 1 mg/kg subcutaneously every 12 hours for 7 days, followed by 1 mg/kg once daily."
+      },
+      {
+        "arm_group_label": "B",
+        "arm_group_type": "Active Comparator",
+        "description": "Unfractionated Heparin: initial bolus of 80 IU/kg IV followed by continuous infusion of 18 IU/kg/hour."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Enoxaparin",
+        "description": "1 mg/kg SC every 12 hours for 7 days, followed by 1 mg/kg once daily.",
+        "arm_group_label": "A"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Unfractionated Heparin",
+        "description": "UFH 80 IU/kg IV bolus followed by 18 IU/kg/hour infusion.",
+        "arm_group_label": "B"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Adults aged 18 years or older with a confirmed diagnosis of acute pulmonary embolism based on imaging studies.\n2. Patients requiring anticoagulation therapy as per standard clinical guidelines.\n3. Written informed consent provided by the patient or legally authorized representative.\n\nExclusion Criteria:\n1. Previous treatment with anticoagulants within the past 48 hours.\n2. Active bleeding or a history of significant bleeding complications.\n3. Renal impairment with creatinine clearance <30 mL/min.\n4. Known hypersensitivity to heparin or enoxaparin.\n5. Pregnant or breastfeeding females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Alexandre Girard",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cardiology Department, Global Health Institute",
+          "address": {
+            "city": "Brussels",
+            "country": "Belgium"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Emergency Medicine Unit, Central Hospital",
+          "address": {
+            "city": "Berlin",
+            "country": "Germany"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Belgium", "Germany"]
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "October 15, 2019",
+    "study_first_submitted_qc": "October 20, 2019",
+    "study_first_posted": "October 30, 2019",
+    "last_update_submitted": "July 15, 2022",
+    "last_update_submitted_qc": "July 16, 2022",
+    "last_update_posted": "July 17, 2022",
+    "responsible_party": {
+      "name_title": "Trial Sponsor Team",
+      "organization": "Global Health Institute"
+    },
+    "keyword": ["Pulmonary Embolism", "Enoxaparin", "Anticoagulation Therapy"],
+    "intervention_browse": {
+      "mesh_term": "Enoxaparin"
+    }
+  }
+}
+```

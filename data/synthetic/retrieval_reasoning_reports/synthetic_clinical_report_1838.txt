@@ -1,0 +1,158 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 25, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567123"
+    },
+    "id_info": {
+      "org_study_id": "BUPI-1001",
+      "nct_id": "NCT04567123"
+    },
+    "brief_title": "Efficacy and Safety of Bupivacaine Combined with Gabapentin for Pain Management in Surgery",
+    "official_title": "A Randomized Double-Blind Controlled Trial to Evaluate the Efficacy and Safety of Bupivacaine Combined with Gabapentin in Postoperative Pain Management Following Major Abdominal Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Oslo",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Oslo",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the combined analgesic effect of bupivacaine and gabapentin administered preoperatively for patients undergoing major abdominal surgery. The integration of gabapentin is hypothesized to enhance bupivacaine's analgesic efficacy, reducing postoperative pain and opioid consumption."
+    },
+    "detailed_description": {
+      "textblock": "The trial will enroll 100 patients aged 18-65 years undergoing elective major abdominal surgeries. Participants will be randomized into two groups: Group B (control) receiving bupivacaine 0.25% at a dose of 3 mg/kg, and Group BG receiving the same dose of bupivacaine coupled with oral gabapentin at a dose of 300 mg administered 1 hour prior to surgery. Postoperative assessments will include pain intensity monitored using the 11-point Numeric Pain Rating Scale (NRS) at multiple intervals (0, 2, 6, 12, and 24 hours post-surgery), as well as evaluation of opioid consumption and occurrence of adverse effects."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 2021",
+    "completion_date": "March 2023",
+    "primary_completion_date": "February 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Postoperative pain levels",
+      "time_frame": "24 hours post-surgery",
+      "description": "Postoperative pain levels will be measured using the Numeric Pain Rating Scale (NRS) at designated intervals."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Total opioid consumption",
+        "time_frame": "24 hours post-surgery",
+        "description": "Total morphine consumption measured in milligrams."
+      },
+      {
+        "measure": "Sedation levels",
+        "time_frame": "24 hours post-surgery",
+        "description": "Sedation will be assessed using the Ramsay Sedation Scale at specified time points."
+      },
+      {
+        "measure": "Incidence of adverse effects",
+        "time_frame": "Within the first 24 hours postoperative",
+        "description": "Assessment of adverse effects such as nausea, vomiting, respiratory depression, and allergic reactions."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": "Postoperative Pain Management",
+    "arm_group": [
+      {
+        "arm_group_label": "Bupivacaine Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Preoperative administration of bupivacaine 0.25% at 3 mg/kg."
+      },
+      {
+        "arm_group_label": "Bupivacaine-Gabapentin Group",
+        "arm_group_type": "Experimental",
+        "description": "Preoperative administration of bupivacaine 0.25% at 3 mg/kg with oral gabapentin 300 mg."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bupivacaine",
+        "description": "Bupivacaine 0.25% administered preoperatively at a dose of 3 mg/kg.",
+        "arm_group_label": [
+          "Bupivacaine Group",
+          "Bupivacaine-Gabapentin Group"
+        ],
+        "other_name": "Marcaine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gabapentin",
+        "description": "Oral gabapentin administered preoperatively at a dosage of 300 mg.",
+        "arm_group_label": "Bupivacaine-Gabapentin Group",
+        "other_name": "Neurontin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adult patients aged 18-65\n- Scheduled for elective major abdominal surgery\n\nExclusion Criteria:\n- History of hypersensitivity to bupivacaine or gabapentin\n- Current use of opioids or other analgesics\n- Renal impairment\n- Pregnant or breastfeeding women"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Olav Hansen",
+      "role": "Principal Investigator",
+      "affiliation": "University of Oslo"
+    },
+    "location": {
+      "facility": {
+        "name": "Oslo University Hospital",
+        "address": {
+          "city": "Oslo",
+          "country": "Norway"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Norway"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "February 25, 2021",
+    "study_first_submitted_qc": "March 1, 2021",
+    "study_first_posted": "March 5, 2021",
+    "last_update_submitted": "January 15, 2023",
+    "last_update_posted": "February 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Oslo",
+      "investigator_full_name": "Olav Hansen",
+      "investigator_title": "Associate Professor of Anesthesiology"
+    },
+    "keyword": [
+      "Bupivacaine",
+      "Gabapentin",
+      "Postoperative Pain Management",
+      "Abdominal Surgery"
+    ],
+    "condition_browse": {
+      "mesh_term": "Postoperative Pain"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Bupivacaine",
+        "Gabapentin"
+      ]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

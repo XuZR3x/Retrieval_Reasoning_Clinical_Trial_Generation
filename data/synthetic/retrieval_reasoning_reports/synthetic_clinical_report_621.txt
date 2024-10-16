@@ -1,0 +1,199 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "AI567-123",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Atazanavir in Diverse HIV Populations",
+    "official_title": "A Multicenter, Randomized, Controlled Trial Evaluating the Efficacy and Safety of Atazanavir in Treatment-Naive HIV Patients Across Multiple Continents",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Initiatives Coalition",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Institute of Health (NIH)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Global Health Initiatives Coalition",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to determine the efficacy and safety of atazanavir in a diverse cohort of treatment-naive HIV-infected individuals from various geographical regions including Africa, Asia, and the Americas."
+    },
+    "detailed_description": {
+      "textblock": "The trial enrolled participants from diverse ethnic and socioeconomic backgrounds, ensuring a representative analysis of atazanavir's performance in real-world conditions. Participants were randomly assigned into two treatment arms—one receiving atazanavir and the other receiving a standard of care regimen including alternative antiretroviral agents. Randomization was stratified by baseline plasma HIV-1 RNA levels, enhancing the reliability of treatment comparisons.\n\nRegular monitoring for adverse events, including serious adverse events (SAEs), was implemented using established protocols, thereby allowing for a clear and comprehensive assessment of the drug's safety profile throughout the study duration.\n\nThe structured follow-up, which extended beyond trial completion, permitted long-term safety assessments and ensured continuous patient care, facilitating access to atazanavir for participants post-study."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2010",
+    "completion_date": "December 2015",
+    "primary_completion_date": "December 2015",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Proportion of Participants Achieving Viral Suppression (HIV-1 RNA <50 Copies/mL)",
+        "time_frame": "At week 48 after treatment initiation",
+        "description": "The primary outcome is the proportion of participants achieving viral suppression, assessed through plasma viral load measurements."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1400",
+    "condition": "HIV Infections",
+    "arm_group": [
+      {
+        "arm_group_label": "Atazanavir",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive atazanavir (400 mg once daily) as part of their ART regimen."
+      },
+      {
+        "arm_group_label": "Standard of Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive a regimen consisting of alternative antiretroviral drugs that are standard in HIV treatment."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Atazanavir",
+        "description": "400 mg taken orally once daily",
+        "arm_group_label": "Atazanavir",
+        "other_name": "Reyataz"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Antiretroviral Therapy",
+        "description": "Recommended combination of NRTIs and NNRTIs",
+        "arm_group_label": "Standard of Care"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- HIV-1 infection confirmed by laboratory testing\n- Treatment-naive with no prior use of antiretroviral therapy\n- Willingness to use barrier contraception throughout the trial\n- Aged 18 years or older\n\nExclusion Criteria:\n- Patients with prior experience of antiretroviral therapy or complicating medical conditions that may interfere with study participation\n- Positive pregnancy test at screening"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Maria L. Torres, MD",
+      "role": "Study Chair",
+      "affiliation": "Global Health Initiatives Coalition"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Global Health Research Center, Johannesburg",
+          "address": {
+            "city": "Johannesburg",
+            "state": "Gauteng",
+            "zip": "2000",
+            "country": "South Africa"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Clinical Research Unit, Pune",
+          "address": {
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zip": "411001",
+            "country": "India"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Brazilian Institute of AIDS Research, Sao Paulo",
+          "address": {
+            "city": "Sao Paulo",
+            "state": "Sao Paulo",
+            "zip": "01000-000",
+            "country": "Brazil"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "American University of the Caribbean, Miami",
+          "address": {
+            "city": "Miami",
+            "state": "Florida",
+            "zip": "33101",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "South Africa",
+        "India",
+        "Brazil",
+        "United States"
+      ]
+    },
+    "reference": [
+      {
+        "citation": "Smith JA, Doe R. A landmark study on HIV medications: Progress in Research. J Antivir Ther. 2015;20(1):12-19.",
+        "PMID": "12345678"
+      },
+      {
+        "citation": "Johnson L, White A. Drug efficacy in diverse populations: A meta-analysis. AIDS Res Hum Retroviruses. 2014;30(4):546-555.",
+        "PMID": "87654321"
+      }
+    ],
+    "verification_date": "January 2023",
+    "study_first_submitted": "June 15, 2009",
+    "study_first_posted": "July 1, 2009",
+    "results_first_submitted": "March 12, 2016",
+    "results_first_posted": "April 15, 2016",
+    "last_update_posted": "March 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "HIV Treatment",
+      "Atazanavir",
+      "Antiretroviral Therapy"
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "1400 participants were enrolled across 12 clinical sites in 4 different countries over a period of 6 months from January 2010 to June 2010.",
+        "pre_assignment_details": "All enrolled participants met the eligibility criteria and were randomized into the two arms of the study."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Atazanavir",
+              "description": "Atazanavir administered orally at 400 mg once daily."
+            },
+            {
+              "title": "Standard of Care",
+              "description": "Standard antiretroviral therapy tailored based on local guidelines."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

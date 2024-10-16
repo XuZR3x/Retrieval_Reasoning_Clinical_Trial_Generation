@@ -1,0 +1,133 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03555678"
+    },
+    "id_info": {
+      "org_study_id": "REGOR-01",
+      "nct_id": "NCT03555678"
+    },
+    "brief_title": "An Open-label, Randomized Phase II Study of Regorafenib Versus Best Supportive Care in Patients with Advanced Refractory Esophageal Cancer",
+    "official_title": "An Open-label, Randomized Phase II Study of Regorafenib Versus Best Supportive Care in Patients with Advanced Refractory Esophageal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Bayer",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of regorafenib compared to best supportive care in patients diagnosed with advanced refractory esophageal cancer. The focus was to investigate overall survival (OS) and progression-free survival (PFS)."
+    },
+    "detailed_description": {
+      "textblock": "Background: Esophageal cancer represents a significant cause of morbidity and mortality worldwide. As most patients present at an advanced stage, systemic therapy is crucial for improving outcomes. Regorafenib, a multi-kinase inhibitor, has shown promise in various malignancies. The objective of this trial was to determine its efficacy in a refractory esophageal cancer setting.\n\nGeneral Aim: To assess the overall survival (OS) and progression-free survival (PFS) in patients treated with regorafenib compared to those receiving best supportive care.\n\nDesign: A multicenter, open-label, randomized, phase II trial stratified by disease stage and prior chemotherapy regimens.\n\nPopulation: The study recruited adults aged 18 years or older with histologically confirmed advanced esophageal cancer who had progressed following standard therapy and were not candidates for further aggressive treatment.\n\nIntervention: Participants were randomized in a 1:1 ratio to receive either regorafenib 160 mg orally daily for 21 days in a 28-day cycle, or best supportive care, which included palliative treatment and symptom control only. Evaluation of clinical benefit was carried out through regular imaging and clinical assessments.\n\nStatistical Considerations: The primary endpoint was OS at 6 months, hypothesizing an increase from a control baseline of 30% to 50% in OS with regorafenib treatment, necessitating enrollment of 200 patients. The sample size was calculated to provide 80% power with a significance level of 0.05."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to inadequate patient accrual and safety concerns that could have jeopardized patient compliance, resulting in insufficient statistical power to evaluate the efficacy of regorafenib.",
+    "start_date": "July 15, 2018",
+    "completion_date": "March 31, 2020",
+    "primary_completion_date": "December 31, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS) at 6 months",
+      "time_frame": "6 Months",
+      "description": "To determine the percentage of participants alive at 6 months post-randomization."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "6 Months",
+        "description": "Measured from the date of randomization until disease progression or death."
+      },
+      {
+        "measure": "Adverse Events",
+        "time_frame": "6 Months",
+        "description": "Incidence and severity of treatment-related adverse events evaluated using NCI CTCAE v4.0."
+      },
+      {
+        "measure": "Quality of Life (QoL)",
+        "time_frame": "6 Months",
+        "description": "QoL assessed using validated questionnaires at baseline, 3, and 6 months."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "48",
+    "condition": "Esophageal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Group 1: Regorafenib",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive regorafenib 160 mg orally daily for 21 days of a 28-day cycle."
+      },
+      {
+        "arm_group_label": "Group 2: Best Supportive Care",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients receive best supportive care only."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Regorafenib",
+        "description": "Regorafenib administered at 160 mg orally daily for 21 days of a 28-day cycle.",
+        "arm_group_label": "Group 1: Regorafenib"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 years or older with histologically confirmed advanced esophageal cancer.\n2. Patients who have received at least one prior line of therapy.\n3. Measurable or evaluable disease as per RECIST v1.1.\n4. ECOG performance status 0-2.\n5. Adequate hematologic, liver, and renal function.\n\nExclusion Criteria:\n\n1. Prior treatment with regorafenib or any investigational agent.\n2. History of symptomatic brain or meningeal metastases.\n3. Uncontrolled hypertension (>150/90 mmHg).\n4. Significant cardiac disease or unstable angina.\n5. Major surgery or trauma within 28 days before randomization."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John Doe, M.D.",
+        "role": "Principal Investigator",
+        "affiliation": "National Cancer Research Institute"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "National Cancer Center Hospital",
+        "address": {
+          "city": "Tokyo",
+          "country": "Japan"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Japan"
+    },
+    "verification_date": "January 2021",
+    "study_first_submitted": "April 30, 2018",
+    "study_first_posted": "May 1, 2018",
+    "last_update_posted": "April 15, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_affiliation": "National Cancer Research Institute"
+    },
+    "keyword": ["regorafenib", "esophageal cancer", "randomized study", "refractory cancer", "oncology"]
+  }
+}
+```

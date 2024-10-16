@@ -1,0 +1,172 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "FAIL-123",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Evaluating the Role of Perioperative Chemotherapy with Fluorouracil in Colon Cancer",
+    "official_title": "A Phase III, Randomized, Open-Label Study of Perioperative Fluorouracil Versus Observation Following Curative Intent Resection of Stage II and III Colon Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Colon Cancer Research Consortium",
+        "agency_class": "Other"
+      },
+      "collaborator": [
+        {
+          "agency": "National Cancer Institute (NCI)",
+          "agency_class": "NIH"
+        }
+      ]
+    },
+    "source": "Colon Cancer Research Consortium",
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to low accrual rates and insufficient statistical power.",
+    "start_date": "January 1, 2011",
+    "completion_date": "March 2020",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate at 5 Years",
+      "time_frame": "Patients followed for 5 years post-randomization.",
+      "description": "Overall survival defined as the time from randomization to death from any cause or last date known alive."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Disease-free Survival Rate at 5 Years",
+        "time_frame": "Patients followed for 5 years post-randomization.",
+        "description": "Disease-free survival defined as the time from randomization to disease recurrence, second invasive cancer, or death."
+      },
+      {
+        "measure": "Rate of Adverse Events Related to Treatment",
+        "time_frame": "Adverse events evaluated within 30 days following completion of treatment.",
+        "description": "Adverse events will be classified according to the Common Terminology Criteria for Adverse Events (CTCAE)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "350",
+    "condition": "Colon Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Perioperative Fluorouracil",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive fluorouracil 600 mg/m² via continuous infusion for 48 hours commencing within 24 hours of resection."
+      },
+      {
+        "arm_group_label": "Observation",
+        "arm_group_type": "Control",
+        "description": "Patients will receive no additional treatment following surgery."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil",
+        "description": "Continuous intravenous infusion of fluorouracil 600 mg/m² over 48 hours, initiated within 24 hours of surgical intervention."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Histologically confirmed resectable colon adenocarcinoma (stage II or III).\n\n  - Age: 18 years and older.\n\n  - ECOG Performance Status 0-2.\n\n  - Adequate hematologic, renal, and hepatic function as per local laboratory standards.\n\nExclusion Criteria:\n\n  - Patients with other malignancies within the past 5 years.\n\n  - Known hypersensitivity to fluorouracil or leucovorin.\n\n  - Patients requiring other concomitant therapies affecting outcomes.\n\n  - Previous chemotherapy or radiation therapy for colon cancer.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Colon Cancer Research Consortium"
+    },
+    "location": [{
+      "facility": {
+        "name": "Main Oncology Center",
+        "address": {
+          "city": "Cityville",
+          "state": "California",
+          "zip": "90210",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2020",
+    "study_first_submitted": "April 4, 2010",
+    "study_first_posted": "October 10, 2010",
+    "last_update_posted": "July 15, 2020",
+    "keyword": [
+      "Fluorouracil",
+      "Colon Cancer",
+      "Perioperative Chemotherapy",
+      "Stage II Colon Cancer",
+      "Stage III Colon Cancer"
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "This study was activated on January 1, 2011, and was terminated in March 2020 due to slow accrual, reaching a total of 350 patients against a target of 800."
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival Rate at 5 Years",
+            "description": "Kaplan-Meier analysis was intended to be performed but data was insufficient to generate meaningful results due to low patient enrollment.",
+            "missing_data_res": "Due to low accrual rates, the full analysis of survival outcomes was not able to be completed."
+          },
+          {
+            "type": "Secondary",
+            "title": "Disease-free Survival Rate at 5 Years",
+            "description": "Preliminary data indicated no significant difference in disease-free survival between treatment arms, but analysis was confounded by late-stage enrollments.",
+            "missing_data_res": "Analysis was unable to be conducted as a majority of participants were removed due to ineligibility factors after initial evaluation."
+          },
+          {
+            "type": "Secondary",
+            "title": "Rate of Adverse Events Related to Treatment",
+            "description": "High rates of gastrointestinal and hematological toxicities limited the continuation of therapy in one-third of the participants."
+          }
+        ]
+      }
+    },
+    "reported_events": {
+      "desc": "Adverse events were common, with a high incidence of gastrointestinal toxicities such as nausea and vomiting (60%) and hematologic toxicities including leukopenia (45%).",
+      "group_list": {
+        "group": [
+          {
+            "title": "Perioperative Fluorouracil",
+            "description": "Patients experienced significant rates of adverse events attributable to treatment."
+          },
+          {
+            "title": "Observation",
+            "description": "Minimal adverse events reported as patients received no active treatment postoperatively."
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The study sponsor has the right to review results communications prior to public release."
+    },
+    "point_of_contact": {
+      "name_or_title": "Jane Doe",
+      "organization": "Colon Cancer Research Consortium",
+      "email": "janedoe@ccrc.org"
+    }
+  }
+}
+```

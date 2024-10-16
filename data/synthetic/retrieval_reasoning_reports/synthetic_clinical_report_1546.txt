@@ -1,0 +1,132 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03123456"
+    },
+    "id_info": {
+      "org_study_id": "ECL-RTX-304",
+      "nct_id": "NCT03123456"
+    },
+    "brief_title": "Efficacy of Eculizumab Compared to Standard Treatment in Patients with Antibody-Mediated Rejection After Kidney Transplantation",
+    "official_title": "A Phase 2, Multicenter, Randomized, Open-Label Trial to Study the Efficacy and Safety of Eculizumab in Patients with Antibody-Mediated Rejection Following Kidney Transplantation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Washington",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Alexion Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Washington",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of eculizumab in preventing severe antibody-mediated rejection (AMR) in patients with a history of high DSA following kidney transplantation, compared to current standard immunosuppressive therapies."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective was to assess the incidence of biopsy-proven AMR in the first 12 weeks post-transplantation. Participants were randomly assigned to receive either eculizumab (900 mg IV biweekly) or standard of care treatments, including steroids and other immunosuppressive agents.\n\nInclusion criteria specified adults with known high donor-specific antibodies (DSA). However, significant variability existed regarding the pre-transplant immunization status and overall health profiles of subjects.\n\nPatients were closely monitored for safety outcomes, particularly for potential infections and side effects typical of complement inhibition therapy. However, the inherent heterogeneity in these patients may have masked the true impact of eculizumab due to confounding variables like prior severe rejection episodes and varying co-morbid conditions."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was halted due to a lack of statistically significant differences between eculizumab and standard of care in preventing AMR, alongside difficulties encountered in patient recruitment resulting in an underpowered study.",
+    "start_date": "April 10, 2017",
+    "completion_date": "November 2, 2020",
+    "primary_completion_date": "June 15, 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Biopsy-Proven AMR within 12 Weeks Post-Transplantation",
+      "time_frame": "12 weeks post-transplantation",
+      "description": "The primary endpoint assessed the occurrence of AMR defined by standard histopathological criteria. Each participating center performed renal biopsies as per routine clinical practice to evaluate graft status."
+    },
+    "secondary_outcome": [{
+      "measure": "Graft Survival at One Year Post-Transplant",
+      "time_frame": "12 months",
+      "description": "This secondary outcome evaluated graft survival free from acute rejection as well as any graft loss over 12 months."
+    }, {
+      "measure": "Serious Adverse Events",
+      "time_frame": "Throughout study period",
+      "description": "Documentation of all serious adverse events encountered during the trial was required to assess safety profiles and the potential risks associated with eculizumab."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "78",
+    "condition": "Antibody Mediated Rejection",
+    "arm_group": [{
+      "arm_group_label": "Eculizumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients received eculizumab 900 mg via intravenous infusion every two weeks, initiated during the first week post transplantation."
+    }, {
+      "arm_group_label": "Standard of Care",
+      "arm_group_type": "No Intervention",
+      "description": "Patients received standard immunosuppressive therapy consisting of corticosteroids and other immunomodulators as per institutional protocols."
+    }],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Eculizumab",
+      "description": "Eculizumab is administered to avoid complement-mediated injury after transplantation.",
+      "arm_group_label": "Eculizumab",
+      "other_name": "Soliris"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 and older.\n\n2. Recipients of a kidney transplant in the last 12 weeks due to severe antibody-mediated reactions.\n\nExclusion Criteria:\n\n1. Patients with known hypersensitivity to eculizumab or any of its excipients.\n\n2. Significant active infections at enrollment that could confound results.\n\n3. History of venous thromboembolism.\n\n4. Multi-organ transplant recipients."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah A. Johnson, MD",
+      "role": "Study Coordinator",
+      "affiliation": "University of Washington"
+    },
+    "location": [{
+      "facility": {
+        "address": {
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98195",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "October 2020",
+    "study_first_submitted": "March 21, 2017",
+    "study_first_submitted_qc": "March 22, 2017",
+    "study_first_posted": "March 24, 2017",
+    "results_first_submitted": "November 5, 2020",
+    "results_first_posted": "November 15, 2020",
+    "last_update_posted": "December 10, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator",
+      "investigator_affiliation": "University of Washington",
+      "investigator_full_name": "Sarah A. Johnson, MD"
+    },
+    "keyword": [
+      "Kidney Transplant",
+      "Antibody Mediated Rejection",
+      "Eculizumab",
+      "Graft Survival"
+    ],
+    "limitations_and_caveats": "Despite the initial hypothesis supporting the efficacy of eculizumab, findings indicated a lack of clinical improvement compared to standard care, likely due to variability in patient population and possible underreporting of adverse events due to the open-label study design. The historical control comparison further complicated interpretations of treatment efficacy."
+  }
+}
+```

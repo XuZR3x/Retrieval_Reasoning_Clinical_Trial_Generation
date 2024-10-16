@@ -1,0 +1,185 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567938"
+    },
+    "id_info": {
+      "org_study_id": "CC-4047-LC-003",
+      "nct_id": "NCT04567938"
+    },
+    "brief_title": "A Phase II Study of Pomalidomide in Combination With Chemotherapy for Patients With Extensive Stage Small Cell Lung Cancer",
+    "official_title": "A Phase II Study Evaluating the Safety and Efficacy of Pomalidomide in Combination With Chemotherapy in Patients With Extensive Stage Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Celgene", 
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Celgene",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the effectiveness and safety of pomalidomide when combined with cisplatin and etoposide in patients diagnosed with extensive stage small cell lung cancer (ES-SCLC)."
+    },
+    "detailed_description": {
+      "textblock": "Participants will receive pomalidomide in conjunction with standard chemotherapy agents over multiple cycles. The initial phase will focus on dose escalation to determine the maximum tolerated dose (MTD). Following dose determination, a subsequent phase will assess clinical response using RECIST criteria, specifically looking for improvement in progression-free survival (PFS) and overall survival (OS). This trial has faced challenges leading to its termination, including unmanageable toxicity profiles and delayed response rates among participants."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Safety concerns due to compounded adverse events and insufficient therapeutic index.",
+    "start_date": "March 1, 2021",
+    "completion_date": "March 15, 2024",
+    "primary_completion_date": "February 28, 2024",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Safety and Efficacy as Measured by Tumor Response Rate",
+      "time_frame": "Measured after 6 cycles of treatment (up to 6 months)",
+      "description": "The primary outcome is the evaluation of the objective response rate assessed using the Response Evaluation Criteria in Solid Tumors (RECIST 1.1) across the defined cycles."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Dose Limiting Toxicities (DLTs)",
+        "time_frame": "During the first 6 cycles of therapy (each cycle 21 days)",
+        "description": "Evaluation of treatment-emergent adverse events (TEAEs) and DLTs occurring during the administration of study medications."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 6 months after treatment initiation",
+        "description": "Time from start of treatment until disease progression or initiation of alternative anti-cancer treatment."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "30",
+    "condition": "Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Pomalidomide + Cisplatin + Etoposide",
+      "arm_group_type": "Experimental",
+      "description": "Participants received daily oral pomalidomide (1-5 mg) for 14 days, followed by intravenous cisplatin (25 mg/m²) and etoposide (100 mg/m²) on Days 1, 2, and 3 of each 21-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pomalidomide",
+        "description": "Taken orally daily for 14 consecutive days",
+        "arm_group_label": "Pomalidomide + Cisplatin + Etoposide",
+        "other_name": ["CC-4047", "Pomalyst"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Administered intravenously on Days 1, 2, and 3 during each cycle",
+        "arm_group_label": "Pomalidomide + Cisplatin + Etoposide",
+        "other_name": ["Cisplatinum", "CDDP"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etoposide",
+        "description": "Administered intravenously on Days 1, 2, and 3 during each cycle",
+        "arm_group_label": "Pomalidomide + Cisplatin + Etoposide",
+        "other_name": ["Etoposide phosphate", "VP-16"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:  \n - Histologically confirmed extensive stage small cell lung cancer (SCLC)  \n - Age ≥ 18 years  \n - ECOG Performance Status of 0, 1, or 2  \n - Must have received prior standard chemotherapy.  \n\nExclusion Criteria:  \n - Prior therapy with pomalidomide or other immunomodulatory drugs  \n - Uncontrolled hypertension or active bleeding  \n - Serious concurrent medical conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Celgene Corporation"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44106",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "University of Pennsylvania",
+          "address": {
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "zip": "19104",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "May 2024",
+    "study_first_submitted": "January 15, 2021",
+    "study_first_submitted_qc": "January 15, 2021",
+    "study_first_posted": "February 1, 2021",
+    "results_first_submitted": "April 10, 2024",
+    "results_first_submitted_qc": "April 10, 2024",
+    "results_first_posted": "April 17, 2024",
+    "last_update_submitted": "May 1, 2024",
+    "last_update_posted": "May 3, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "Celgene Corporation"
+    },
+    "keyword": [
+      "Pomalidomide",
+      "Small Cell Lung Cancer",
+      "Chemotherapy"
+    ],
+    "outcome_list": {
+      "outcome": [
+        {
+          "type": "Primary",
+          "title": "Tumor Response Rate",
+          "description": "Based on RECIST criteria during the first 6 cycles of treatment.",
+          "time_frame": "6 months",
+          "population": "Evaluated from participants receiving pomalidomide for at least one cycle."
+        },
+        {
+          "type": "Secondary",
+          "title": "Incidence of Dose Limiting Toxicities (DLTs)",
+          "description": "Number of participants with DLTs recorded throughout the treatment cycles.",
+          "time_frame": "During the first 6 cycles."
+        }
+      ]
+    },
+    "reported_events": {
+      "time_frame": "Events reported from the start of treatment until study termination.",
+      "group_list": {
+        "group": {
+          "title": "Pomalidomide Combination Treatment",
+          "description": "Analysis of serious and non-serious adverse events resulting from the combination therapy."
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "Celgene maintains rights for review prior to dissemination of study results."
+    },
+    "limitations_and_caveats": "Unmanageable toxicity profiles observed in participants with extensive stage small cell lung cancer, specifically compounded hematologic toxicities such as neutropenia. Insufficient therapeutic index raised safety concerns, in conjunction with slow onset of therapeutic responses. Administrative and logistical challenges impeded participant recruitment, leading to the discontinuation of the trial."
+  }
+}
+```

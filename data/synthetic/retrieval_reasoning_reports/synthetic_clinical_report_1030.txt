@@ -1,0 +1,129 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02545678"
+    },
+    "id_info": {
+      "org_study_id": "ETOPOSIDE-2023",
+      "secondary_id": ["NCI-2023-00684", "EUDRACT-2023-001123-88"],
+      "nct_id": "NCT02545678"
+    },
+    "brief_title": "Etoposide and Augmented Chemotherapy for Newly Diagnosed Acute Myeloid Leukemia",
+    "official_title": "Phase 2 Study of Etoposide Combined with Augmented Chemotherapy Regimens for Treating Adult Patients With Newly Diagnosed Acute Myeloid Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Comprehensive Cancer Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Comprehensive Cancer Center",
+    "brief_summary": {
+      "textblock": "RATIONALE: Etoposide as a component of chemotherapy has been shown to induce favorable responses in patients with acute myeloid leukemia (AML). This study seeks to evaluate the efficacy of etoposide within a multimodal chemotherapy regimen."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\nI. Evaluate the overall response rate (ORR) after four cycles of treatment in patients receiving etoposide combined with an augmented chemotherapy regimen.\n\nSECONDARY OBJECTIVES:\nI. Assess the duration of remission in responders.\nII. Determine rates of event-free survival (EFS) and overall survival (OS).\nIII. Monitor for adverse events and toxicities using validated assessment tools.\n\nOUTLINE: This is a multicenter, open-label study. Patients receive etoposide intravenously along with anthracycline-based chemotherapy and cytarabine over a defined treatment period.\nTreatment continues in cycles repeated every 28 days for up to 6 cycles in the absence of disease progression or unacceptable toxicity."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2023",
+    "completion_date": "December 2024",
+    "primary_completion_date": "October 2024",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall response rate (ORR)",
+      "time_frame": "After four cycles of chemotherapy"
+    },
+    "secondary_outcome": [{
+        "measure": "Duration of remission",
+        "time_frame": "At 6 months post-treatment"
+      },
+      {
+        "measure": "Event-free survival (EFS)",
+        "time_frame": "At 1 year post-treatment"
+      },
+      {
+        "measure": "Overall survival (OS)",
+        "time_frame": "At 2 years post-treatment"
+      },
+      {
+        "measure": "Incidence of toxicities",
+        "time_frame": "Up to 30 days after treatment completion"
+      }
+    ],
+    "enrollment": "120",
+    "condition": "Acute Myeloid Leukemia",
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "etoposide"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "anthracycline-based chemotherapeutics"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "cytarabine"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n- Adults aged 18-70 years\n- Histologically confirmed diagnosis of acute myeloid leukemia\n- No prior therapy for AML (other than hydroxyurea for leukostasis)\n- Adequate hematologic, hepatic, and renal function\n\nEXCLUSION CRITERIA:\n- History of severe hypersensitivity reactions to etoposide or its analogs\n- Ongoing infection refractory to treatment\n- Active secondary malignancies (with the exception of localized cancers)"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "70 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emma Harris, MD",
+      "role": "Principle Investigator",
+      "affiliation": "Comprehensive Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Comprehensive Cancer Center",
+        "address": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60616",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2024",
+    "study_first_submitted": "June 1, 2022",
+    "study_first_submitted_qc": "June 1, 2022",
+    "study_first_posted": "June 15, 2022",
+    "last_update_submitted": "March 10, 2024",
+    "last_update_submitted_qc": "March 10, 2024",
+    "last_update_posted": "March 12, 2024",
+    "keyword": ["acute myeloid leukemia", "chemotherapy", "etoposide", "cancer therapy"],
+    "condition_browse": {
+      "mesh_term": "Leukemia, Myeloid, Acute"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Etoposide",
+        "Cytarabine",
+        "Anthracyclines"
+      ]
+    }
+  }
+}
+```

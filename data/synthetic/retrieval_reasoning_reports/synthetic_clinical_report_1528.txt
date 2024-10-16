@@ -1,0 +1,474 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02081940"
+    },
+    "id_info": {
+      "org_study_id": "DACABT001A",
+      "nct_id": "NCT02081940"
+    },
+    "brief_title": "Efficacy and Safety of Daptomycin in Patients With Hospital-Acquired Pneumonia",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Comparative Study to Evaluate the Efficacy and Safety of Daptomycin Versus Standard Therapy in Patients With Hospital-Acquired Pneumonia.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Cubist Pharmaceuticals LLC, a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the clinical outcomes and safety profile of daptomycin in comparison to standard therapy for patients diagnosed with hospital-acquired pneumonia."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective of this trial was to determine whether daptomycin could demonstrate improved clinical outcomes, specifically resolution of pneumonia symptoms, compared to the standard antibiotic regimen. Considerations included the time to clinical stability and microbiological responses in patients with confirmed hospital-acquired pneumonia caused by Gram-positive bacterial pathogens."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to inadequate patient enrollment and emerging futility as the primary efficacy endpoints were not met. Additionally, safety concerns regarding renal toxicity associated with daptomycin usage limited participant willingness to continue.",
+    "start_date": "January 2014",
+    "completion_date": "December 2015",
+    "primary_completion_date": "June 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical Success Rate Defined as the Percentage of Patients Achieving Complete Resolution of Pneumonia Symptoms by Day 21",
+      "time_frame": "21 days",
+      "description": "To determine the effectiveness of daptomycin compared to standard therapy by assessing the proportion of patients who experienced complete resolution of pneumonia symptoms, such as cough, fever, and chest pain, on day 21."
+    },
+    "secondary_outcome": {
+      "measure": "Microbiological Eradication Rate of Baseline Pathogens as Assessed by Culture Results",
+      "time_frame": "Days 0, 7, and 21",
+      "description": "To assess the rate of microbiological cure, defined as the eradication of causative pathogens from respiratory cultures within the designated time frame."
+    },
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": ["Hospital-Acquired Pneumonia"],
+    "arm_group": [
+      {
+        "arm_group_label": "Daptomycin",
+        "arm_group_type": "Experimental",
+        "description": "Daptomycin administered intravenously at 6 mg/kg once daily for 7 to 14 days."
+      },
+      {
+        "arm_group_label": "Standard Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard antibiotic therapy including vancomycin or linezolid as determined by local guidelines."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daptomycin",
+        "description": "6 mg/kg IV once daily for duration of treatment",
+        "arm_group_label": "Daptomycin",
+        "other_name": "Cubicin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vancomycin",
+        "description": "1 g IV every 12 hours for 7 to 14 days",
+        "arm_group_label": "Standard Therapy",
+        "other_name": "Vancocin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Linezolid",
+        "description": "600 mg IV every 12 hours for 7 to 14 days",
+        "arm_group_label": "Standard Therapy",
+        "other_name": "Zyvox"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Adults at least 18 years of age diagnosed with hospital-acquired pneumonia.\r\n  - Patients who have provided informed consent.\r\n  - Patients must have a confirmed or suspected Gram-positive bacterial etiology.\r\n\r\nExclusion Criteria:\r\n\r\n  - Patients with renal impairment (eGFR < 30 mL/min).\r\n  - Previous treatment with daptomycin or other investigational agents within the last 30 days.\r\n  - Patients known to be allergic to daptomycin.\r\n  - Patients with severe concurrent infections or other comorbidities that could obscure efficacy evaluation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "General Hospital",
+        "address": {
+          "city": "Cityville",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2018",
+    "study_first_submitted": "January 15, 2014",
+    "study_first_submitted_qc": "January 17, 2014",
+    "study_first_posted": "January 20, 2014",
+    "results_first_submitted": "January 15, 2016",
+    "results_first_submitted_qc": "January 17, 2016",
+    "results_first_posted": "January 20, 2016",
+    "last_update_submitted": "November 20, 2018",
+    "last_update_submitted_qc": "November 21, 2018",
+    "last_update_posted": "November 22, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Health Research Institute",
+      "investigator_full_name": "John Doe",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Hospital-Acquired Pneumonia",
+      "Daptomycin",
+      "Antibiotic Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Pneumonia",
+        "Hospital-Acquired Infections"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Daptomycin",
+        "Vancomycin",
+        "Linezolid"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial commenced with 150 participants screened, but due to rigorous exclusion criteria and inadequate enrollment, only 45 patients were randomized.",
+        "pre_assignment_details": "Patients who met eligibility criteria were randomized into either the daptomycin or standard therapy arm. However, challenges in recruitment were prevalent.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Patients treated with daptomycin 6 mg/kg IV once daily."
+            },
+            {
+              "title": "Standard Therapy",
+              "description": "Patients treated with either vancomycin or linezolid."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [
+                      "45 subjects randomized to treatment arms.",
+                      "High dropout rate and withdrawal from the study observed due to safety concerns regarding daptomycin."
+                    ]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [
+                      "Study completed with no final patient data analyzed due to terminated status.",
+                      "No significant clinical endpoints reached."
+                    ]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Study was halted after enrollment challenges and safety concerns."]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Daptomycin",
+              "description": "Daptomycin administered 6 mg/kg IV once daily."
+            },
+            {
+              "title": "Standard Therapy",
+              "description": "Vancomycin 1 g IV twice daily or linezolid 600 mg IV twice daily."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [45, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age and Gender Demographics",
+              "units": "Participants",
+              "param": "Count of Participants with Demographics",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "<=18 years",
+                        "measurement_list": {
+                          "measurement": [0]
+                        }
+                      },
+                      {
+                        "title": "Between 18 and 65 years",
+                        "measurement_list": {
+                          "measurement": [30]
+                        }
+                      },
+                      {
+                        "title": ">=65 years",
+                        "measurement_list": {
+                          "measurement": [15]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [20]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [25]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Clinical Success Rate",
+              "description": "Percentage of patients achieving complete resolution of pneumonia symptoms by Day 21.",
+              "time_frame": "21 Days",
+              "population": "Clinically evaluable population.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Daptomycin",
+                    "description": "Achieved clinical success."
+                  },
+                  {
+                    "title": "Standard Therapy",
+                    "description": "Achieved clinical success."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Clinical Success Rate",
+                "description": "Clinical outcomes assessed at Day 21.",
+                "units": "Participants",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [15, 30]
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Success",
+                          "measurement_list": {
+                            "measurement": [8]
+                          }
+                        },
+                        {
+                          "title": "Failure",
+                          "measurement_list": {
+                            "measurement": [7]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Microbiological Eradication Rate",
+              "description": "Number of participants achieving bacteriological eradication at Days 0, 7, and 21.",
+              "time_frame": "21 Days",
+              "population": "Microbiological population analyzed.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Daptomycin",
+                    "description": "Microbiological eradication observed."
+                  },
+                  {
+                    "title": "Standard Therapy",
+                    "description": "Microbiological eradication observed."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Microbiological Success Rate",
+                "description": "Rate of eradication assessed over time.",
+                "units": "Participants",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [10, 25]
+                    }
+                  }
+                },
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [
+                        {
+                          "title": "Success",
+                          "measurement_list": {
+                            "measurement": [5]
+                          }
+                        },
+                        {
+                          "title": "Failure",
+                          "measurement_list": {
+                            "measurement": [5]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Daptomycin",
+                "description": "Serious adverse events reported."
+              },
+              {
+                "title": "Standard Therapy",
+                "description": "Adverse events monitored."
+              }
+            ]
+          },
+          "serious_events": {
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Serious Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total serious adverse events",
+                      "counts": [10, 2]
+                    }
+                  }
+                },
+                {
+                  "title": "Renal Toxicity",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Acute Kidney Injury",
+                      "counts": [5, 0]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total Other Adverse Events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total other adverse events",
+                      "counts": [20, 5]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+        },
+        "limitations_and_caveats": "The study faced significant hurdles relating to patient recruitment, stringent exclusion criteria, and safety concerns which precipitated the trial's termination prior to the planned analysis.",
+        "point_of_contact": {
+          "name_or_title": "Dr. John Doe",
+          "organization": "Global Health Research Institute",
+          "phone": "123-456-7890",
+          "email": "johndoe@ghri.org"
+        }
+      }
+    }
+  }
+}
+```

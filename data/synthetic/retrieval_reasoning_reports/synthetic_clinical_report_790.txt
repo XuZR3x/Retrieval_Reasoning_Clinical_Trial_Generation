@@ -1,0 +1,219 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567891"
+    },
+    "id_info": {
+      "org_study_id": "12345-PRAS-FAIL",
+      "nct_id": "NCT04567891"
+    },
+    "brief_title": "Assessment of Prasugrel in Patients with Acute Coronary Syndrome with Preceding Clopidogrel Treatment",
+    "official_title": "A Multi-Center, Open-Label Trial to Evaluate the Efficacy and Safety of Prasugrel in Patients with Acute Coronary Syndrome Previously Treated with Clopidogrel",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of prasugrel administered to patients with acute coronary syndrome (ACS) who had previously received clopidogrel treatment. The primary endpoint was to determine the reduction in platelet reactivity as assessed by the VerifyNow P2Y12 assay."
+    },
+    "detailed_description": {
+      "textblock": "This randomized, multi-center trial enrolled 310 patients who presented with ACS and were pre-treated with clopidogrel. Participants were assigned to receive a loading dose of prasugrel (60 mg) prior to percutaneous coronary intervention (PCI). The follow-up duration was planned for 12 months with assessments of treatment-emergent adverse events (TEAEs) and clinical outcomes at 30 days, 6 months, and 12 months post-randomization."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to the failure to meet primary efficacy endpoints and an unfavorable safety profile characterized by high rates of adverse events.",
+    "start_date": "January 2021",
+    "completion_date": "June 2022",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Reduction in Platelet Reactivity",
+      "time_frame": "Immediately post-loading dose and reassessed at 30 days post-PCI",
+      "description": "Platelet reactivity assessed using VerifyNow P2Y12 assay, with an anticipated target decrease reflecting adequate platelet inhibition."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Treatment-Emergent Adverse Events",
+        "time_frame": "Through 12 months of follow-up",
+        "description": "Assessment of adverse events, focusing on major bleeding incidents and cardiovascular events."
+      },
+      {
+        "measure": "Clinical Outcomes at 30 Days and 6 Months",
+        "time_frame": "Follow-up assessments at 30 days and 6 months post-administration",
+        "description": "Composite clinical outcomes including death, myocardial infarction, and revascularization."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "310",
+    "condition": "Acute Coronary Syndrome",
+    "arm_group": [
+      {
+        "arm_group_label": "Prasugrel Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients received a loading dose of 60 mg of prasugrel prior to PCI."
+      },
+      {
+        "arm_group_label": "Clopidogrel Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients continued treatment with clopidogrel as standard care."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prasugrel",
+        "description": "60 mg loading dose administered orally prior to PCI."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Clopidogrel",
+        "description": "Continuation of clopidogrel therapy as per standard protocol."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18-75 years presenting with ACS and prescribed clopidogrel for at least 5 days prior to enrollment.\n\n2. Scheduled for PCI within 24 hours.\n\n3. No known hypersensitivity to prasugrel or adverse reactions to thienopyridine derivatives.\n\nExclusion Criteria:\n\n1. History of intracranial hemorrhage or significant bleeding disorders.\n\n2. Planned CABG surgery or other invasive cardiovascular procedures.\n\n3. Active peptic ulcer disease or gastrointestinal bleeding.\n\n4. Severe renal or hepatic impairment.\n\n5. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Community Hospital",
+          "address": {
+            "city": "Cityville",
+            "state": "State",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Heart Institute",
+          "address": {
+            "city": "Townsville",
+            "state": "State",
+            "zip": "67890",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "October 12, 2020",
+    "study_first_submitted_qc": "October 20, 2020",
+    "study_first_posted": "October 25, 2020",
+    "last_update_submitted": "June 15, 2022",
+    "last_update_submitted_qc": "June 15, 2022",
+    "last_update_posted": "June 20, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Prasugrel", "Acute Coronary Syndrome", "Clopidogrel"],
+    "condition_browse": {
+      "mesh_term": "Acute Coronary Syndrome"
+    },
+    "intervention_browse": {
+      "mesh_term": "Prasugrel Hydrochloride"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Prasugrel Group",
+              "description": "Enrolled participants who received prasugrel."
+            },
+            {
+              "title": "Clopidogrel Group",
+              "description": "Enrolled participants who continued clopidogrel."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["Participants enrolled."]
+                  }
+                },
+                {
+                  "title": "Received Any Treatment",
+                  "participants_list": {
+                    "participants": ["Patients receiving prasugrel or clopidogrel."]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["Participants followed up throughout the study duration."]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["Discontinuations due to adverse events and lack of efficacy."]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "reported_events": {
+      "time_frame": "Through 12 months of follow-up, encompassing all TEAEs and SAEs.",
+      "desc": "The safety data reflected considerable adverse events including significant bleeding occurrences.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Prasugrel - Overall Adverse Events",
+            "description": "Participants receiving prasugrel reported various adverse events."
+          },
+          {
+            "title": "Clopidogrel - Overall Adverse Events",
+            "description": "Participants receiving clopidogrel as control reported fewer notable adverse events."
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The sponsor can review results communications prior to public release but cannot request changes."
+    },
+    "limitations_and_caveats": "The trial was discontinued owing to insufficient efficacy, evidenced by the ineffectiveness of prasugrel in reducing platelet reactivity when compared to clopidogrel, along with an emergent pattern of elevated adverse events across the study groups."
+  }
+}
+```

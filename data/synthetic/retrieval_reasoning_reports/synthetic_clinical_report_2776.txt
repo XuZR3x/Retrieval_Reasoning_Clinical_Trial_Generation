@@ -1,0 +1,275 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04352681"
+    },
+    "id_info": {
+      "org_study_id": "NCW-047",
+      "nct_id": "NCT04352681"
+    },
+    "brief_title": "Efficacy of Nivolumab in Combination with Chemotherapy in Recurrent Head and Neck Cancer",
+    "official_title": "A Phase II Multi-center, Open-label, Non-randomized Study to Evaluate the Efficacy and Safety of Nivolumab in Combination with Standard Chemotherapy in Patients with Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this trial is to evaluate the efficacy and safety of Nivolumab in combination with standard chemotherapy in patients with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC). This study aims to assess whether the addition of Nivolumab enhances the therapeutic benefit compared to chemotherapy alone."
+    },
+    "detailed_description": {
+      "textblock": "This is a single-arm, open-label, Phase II clinical trial involving 120 eligible patients with recurrent or metastatic HNSCC. Participants will receive Nivolumab 3 mg/kg every two weeks combined with standard chemotherapy agents (cisplatin and 5-fluorouracil) for a maximum of 6 cycles. The trial explores primary outcomes including overall response rate (ORR), progression-free survival (PFS), and overall survival (OS). Secondary outcomes will focus on adverse events, immune activity markers, and quality of life assessments."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment and high dropout rate due to adverse events",
+    "start_date": "June 10, 2020",
+    "completion_date": "December 15, 2022",
+    "primary_completion_date": "October 31, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "6 months",
+      "description": "Percentage of patients achieving a complete or partial response to the treatment as per RECIST criteria after 6 months of therapy."
+    },
+    "secondary_outcomes": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 2 years",
+        "description": "Measured from the date of the first Nivolumab administration until documented progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 2 years",
+        "description": "Time from treatment initiation until death due to any cause."
+      },
+      {
+        "measure": "Treatment-Related Adverse Events",
+        "time_frame": "During the treatment period and up to 30 days post-treatment",
+        "description": "Adverse events will be evaluated as per CTCAE v5.0 criteria."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "45",
+    "condition": "Recurrent Head and Neck Cancer",
+    "arm_group": {
+      "arm_group_label": "Combination Therapy: Nivolumab + Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive Nivolumab 3 mg/kg every 2 weeks in combination with standard chemotherapy."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Nivolumab",
+        "description": "Monoclonal antibody therapy administered intravenously.",
+        "arm_group_label": "Combination Therapy: Nivolumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chemotherapy Agents (Cisplatin and 5-FU)",
+        "description": "Standard chemotherapy drugs administered in conjunction with Nivolumab.",
+        "arm_group_label": "Combination Therapy: Nivolumab + Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Histologically confirmed diagnosis of recurrent or metastatic squamous cell carcinoma of the head and neck.\r\n2. Measurable disease measurable per RECIST v1.1.\r\n3. ECOG performance status of 0 or 1.\r\n4. Adequate renal and hepatic function.\r\n5. Written informed consent from the patient prior to study enrollment.\r\n6. Age ≥ 18 years."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Laura Smith",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Cancer Institute",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "April 15, 2020",
+    "study_first_submitted_qc": "April 18, 2020",
+    "study_first_posted": "April 22, 2020",
+    "last_update_submitted": "April 1, 2023",
+    "last_update_posted": "April 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Carcinoma, Squamous Cell", "Head and Neck Neoplasms", "Recurrent Neoplasm"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Nivolumab", "Cisplatin", "5-Fluorouracil"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No",
+      "ipd_description": "No individual participant data is shared."
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Combination Therapy: Nivolumab + Chemotherapy",
+            "description": "Nivolumab plus chemotherapy arms with planned enrollment of 120 patients."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Insufficient patient recruitment.",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  },
+                  {
+                    "title": "High dropout rate due to adverse events.",
+                    "participants_list": {
+                      "participants": null
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Combination Therapy: Nivolumab + Chemotherapy",
+              "description": "Administering Nivolumab with cisplatin and 5-fluorouracil."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Average Age",
+                  "units": "Years",
+                  "param": "Mean",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex Distribution",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "Female",
+                            "measurement_list": {
+                              "measurement": null
+                            }
+                          },
+                          {
+                            "title": "Male",
+                            "measurement_list": {
+                              "measurement": null
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "outcome_list": {
+            "outcome": [
+              {
+                "type": "Primary",
+                "title": "Overall Response Rate (ORR)",
+                "description": "Percentage of patients achieving confirmed ORR within 6 months.",
+                "time_frame": "6 months",
+                "population": "Inadequate data generated due to subject withdrawal and discontinuation."
+              },
+              {
+                "type": "Secondary",
+                "title": "Progression-Free Survival (PFS)",
+                "description": "Transparency of individual metric analysis hampered due to significant patient loss.",
+                "time_frame": "2 years",
+                "population": "Patient follow-up inefficacies hindered PFS evaluation."
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

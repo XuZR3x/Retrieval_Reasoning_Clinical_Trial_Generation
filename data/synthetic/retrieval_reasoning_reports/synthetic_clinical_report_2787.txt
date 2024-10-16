@@ -1,0 +1,384 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02045678"
+    },
+    "id_info": {
+      "org_study_id": "SCP-003",
+      "nct_id": "NCT02045678"
+    },
+    "brief_title": "Evaluation of Prasugrel in Patients with History of Clopidogrel Treatment",
+    "official_title": "A Randomized, Open-Label, Multi-Center Study to Assess the Efficacy and Safety of Prasugrel Compared with Placebo in Patients with Previous Clopidogrel Exposure and Acute Coronary Syndrome",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Heart Institute",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "National Heart Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to compare the platelet inhibition effect of prasugrel in patients with a history of clopidogrel treatment versus those receiving placebo. This assessment is critical in determining the role of prasugrel in patients who have not achieved optimal platelet inhibition previously."
+    },
+    "detailed_description": {
+      "textblock": "This is a Phase 3, multicenter, randomized, open-label clinical trial involving approximately 300 adult participants who have undergone clopidogrel treatment for at least 10 days prior to enrollment. Participants will include those presenting with acute coronary syndrome (ACS) and will be randomly assigned to receive a loading dose of prasugrel (60 mg) followed by a maintenance dose or placebo with stringent follow-up to measure platelet reactivity using the VerifyNow P2Y12 assay. The upper limit of the study is envisioned to explore the pharmacodynamic responses attributed to genetic factors affecting the CYP2C19 pathway."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to failure to demonstrate significant platelet inhibition and a high rate of treatment emergent adverse events (TEAEs).",
+    "start_date": "February 2014",
+    "completion_date": "December 2016",
+    "primary_completion_date": "June 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Single (Participant)"
+    },
+    "primary_outcome": {
+      "measure": "Platelet reactivity as measured by VerifyNow P2Y12",
+      "time_frame": "Measured at 24 hours post-loading dose",
+      "description": "The primary endpoint is the assessment of platelet inhibition expressed as P2Y12 Reaction Units (PRU), with lower values indicating greater inhibition."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of treatment emergent adverse events (TEAEs)",
+        "time_frame": "During the treatment phase (up to 30 days post-treatment)",
+        "description": "Adverse events will be meticulously recorded and classified, particularly focusing on bleeding risks and gastrointestinal complications."
+      },
+      {
+        "measure": "Response variability due to genetic factors",
+        "time_frame": "Screening to 30 days post-treatment",
+        "description": "Evaluating how genetic polymorphisms in CYP2C19 affect drug metabolism and efficacy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Acute Coronary Syndrome",
+    "arm_group": [
+      {
+        "arm_group_label": "Prasugrel Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive a 60 mg loading dose of prasugrel, followed by 10 mg daily."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive a placebo pill matching the prasugrel regimen."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prasugrel",
+        "description": "60 mg loading dose, followed by 10 mg daily.",
+        "arm_group_label": "Prasugrel Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo administered matching the dosage schedule of prasugrel.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18-75 years with a clinical diagnosis of acute coronary syndrome and prior clopidogrel treatment for at least ten days prior to enrollment.\n\n2. Documented platelet function assessment indicating insufficient inhibition with previous clopidogrel therapy.\n\nExclusion Criteria:\n\n1. Documented hypersensitivity to prasugrel or its components.\n\n2. Active bleeding conditions or history of major bleeding events.\n\n3. Renal insufficiency or significant hepatic dysfunction.\n\n4. Patients requiring immediate revascularization or those enrolled in another clinical trial"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principle Investigator",
+      "affiliation": "National Heart Institute"
+    },
+    "location": [{
+        "facility": {
+          "name": "Memorial Heart Institute",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "City Hospital",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Heart Institute of America",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2020",
+    "study_first_submitted": "December 17, 2013",
+    "study_first_submitted_qc": "January 12, 2014",
+    "study_first_posted": "January 20, 2014",
+    "last_update_submitted": "September 14, 2020",
+    "last_update_posted": "September 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Prasugrel",
+      "Acute Coronary Syndrome",
+      "Platelet Inhibition"
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [{
+              "title": "Prasugrel Group",
+              "description": "Participants receiving a 60 mg loading dose of prasugrel."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving placebo matching the prasugrel dosing schedule."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["300", "300"]
+                  }
+                },
+                {
+                  "title": "Received Treatment",
+                  "participants_list": {
+                    "participants": ["250", "250"]
+                  }
+                },
+                {
+                  "title": "Completed Treatment",
+                  "participants_list": {
+                    "participants": ["150", "140"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["50", "60"]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [{
+                  "title": "Adverse Event",
+                  "participants_list": {
+                    "participants": ["20", "18"]
+                  }
+                },
+                {
+                  "title": "Physician Decision",
+                  "participants_list": {
+                    "participants": ["15", "13"]
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": ["10", "12"]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [{
+              "title": "Prasugrel Group",
+              "description": "Participants receiving a 60 mg loading dose of prasugrel."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants receiving a placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": ["300", "300"]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": ["52.3", "53.1"]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": ["80", "70"]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": ["220", "230"]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Platelet Reactivity Measurement",
+            "description": "The primary endpoint was the mean PRU value to represent platelet inhibition, assessed at 24 hours post-loading dose.",
+            "time_frame": "24 hours post-loading dose",
+            "population": "All randomized participants",
+            "group_list": {
+              "group": [{
+                  "title": "Prasugrel Group",
+                  "description": "Platelet activation assessed by PRU measurement."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Measured for comparison."
+                }
+              ]
+            },
+            "measure": {
+              "title": "VerifyNow P2Y12 Assay",
+              "description": "The primary endpoint assesses platelet inhibition via verified reaction units (PRUs), lower indicating higher inhibition.",
+              "units": "PRU",
+              "param": "Least Squares Mean",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": ["150", "140"]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Mixed Model Analysis",
+                  "param_type": "Mean Difference (Final Values)",
+                  "param_value": "1.67",
+                  "ci_percent": "95",
+                  "ci_lower_limit": "-5.56",
+                  "ci_upper_limit": "8.90",
+                  "p_value": "0.678"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Adverse Events",
+            "description": "Reported rates of treatment emergent adverse events, specifically focusing on gastrointestinal and bleeding events.",
+            "time_frame": "Throughout treatment phase (30 days)",
+            "population": "All randomized participants receiving treatment",
+            "group_list": {
+              "group": [{
+                  "title": "Prasugrel Group",
+                  "description": "Reported TEAE incidences."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Comparison for TEAE incidences."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Number of TEAEs",
+              "description": "Incidence and types of adverse events recorded.",
+              "units": "Number of Events",
+              "param": "Total Count",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": ["40", "25"]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "method": "Chi-square Test",
+                  "p_value": "0.032"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

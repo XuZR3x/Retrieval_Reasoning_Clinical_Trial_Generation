@@ -1,0 +1,118 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02050175"
+    },
+    "id_info": {
+      "org_study_id": "Trial-50779",
+      "nct_id": "NCT02050175"
+    },
+    "brief_title": "A Phase II Study of Bevacizumab Combined With FOLFOX in Patients With Unresectable Metastatic Colorectal Cancer",
+    "official_title": "A Phase II Randomized, Open-Label Study to Evaluate the Efficacy of Bevacizumab in Combination With FOLFOX Versus FOLFOX Alone in Patients With Unresectable Metastatic Colorectal Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Clinical Trials Center",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Oncology Clinical Trials Center",
+    "overall_status": "Terminated",
+    "why_stopped": "Low patient accrual and high rates of adverse events",
+    "start_date": "April 15, 2014",
+    "primary_completion_date": "December 15, 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Up to 24 months",
+      "description": "Overall survival is defined as the time from randomization to the date of death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "PFS is defined as the time from randomization to the date of disease progression or death."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "From baseline until disease progression, up to 24 months",
+        "description": "The proportion of patients who achieve a complete or partial response as assessed by RECIST criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": "Unresectable Metastatic Colorectal Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "FOLFOX + Bevacizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive intravenous bevacizumab at a dose of 5 mg/kg on the first day of each 2-week cycle, alongside FOLFOX (oxaliplatin, leucovorin, and fluorouracil)."
+      },
+      {
+        "arm_group_label": "FOLFOX alone",
+        "arm_group_type": "Control",
+        "description": "Patients receive the standard FOLFOX regimen without the addition of bevacizumab."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Bevacizumab",
+        "description": "Given IV at a dose of 5 mg/kg.",
+        "arm_group_label": "FOLFOX + Bevacizumab"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "FOLFOX",
+        "description": "Given as a combination of oxaliplatin, leucovorin, and fluorouracil.",
+        "arm_group_label": ["FOLFOX + Bevacizumab", "FOLFOX alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  - Patients with unresectable metastatic colorectal cancer, histologically confirmed.\r\n  - Age >= 18 years.\r\n  - ECOG performance status of 0 to 2.\r\n  - Must not have received prior chemotherapy for metastatic disease.\r\n  - Adequate organ function, defined by specific blood tests values.\r\n\r\nExclusion Criteria:\r\n  - Patients with a history of severe adverse reactions to bevacizumab or other study drugs.\r\n  - Current or recent history of significant cardiovascular disease (including myocardial infarction within the previous 6 months).\r\n  - Unresolved chronic conditions (e.g., gastrointestinal bleeding, avascular necrosis).\r\n  - Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sarah J. McAllister",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Clinical Trials Center"
+    },
+    "location": [{
+      "facility": {
+        "name": "Oncology Clinical Trials Center",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90017",
+          "country": "United States"
+        }
+      }
+    }],
+    "verification_date": "March 2021",
+    "study_first_submitted": "January 5, 2014",
+    "study_first_posted": "January 15, 2014",
+    "last_update_posted": "September 30, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "limitations_and_caveats": "Trial faced significant recruitment challenges yielding only 25 participants against a targeted enrollment of 80. High adverse event rates contributed to a decision to terminate the study prematurely, highlighting the safety concerns of bevacizumab use in this population."
+  }
+}
+``` 
+
+This JSON structure contains a detailed report of a failed clinical trial examining the efficacy of bevacizumab when combined with FOLFOX in treating unresectable metastatic colorectal cancer. It reflects the challenges related to patient accrual, adverse event profiles, and overall study limitations in line with the input specified.

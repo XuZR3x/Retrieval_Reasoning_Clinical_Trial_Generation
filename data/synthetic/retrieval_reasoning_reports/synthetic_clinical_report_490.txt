@@ -1,0 +1,238 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01578901"
+    },
+    "id_info": {
+      "org_study_id": "D3200C00090",
+      "secondary_id": ["2012-005223-40"],
+      "nct_id": "NCT01578901"
+    },
+    "brief_title": "A Phase II Study of Vandetanib in Combination With Chemotherapy for Patients With Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "official_title": "A Phase II, Randomized, Open-label Study to Evaluate the Efficacy, Safety, and Tolerability of Vandetanib Combined With Standard Chemotherapy Compared to Chemotherapy Alone in Patients With Advanced Squamous Cell Carcinoma of the Head and Neck",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Biopharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Biopharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess whether the addition of vandetanib to standard chemotherapy would improve the efficacy for patients with advanced squamous cell carcinoma of the head and neck, particularly focusing on overall survival (OS) and progression-free survival (PFS)."
+    },
+    "overall_status": "Terminated",
+    "start_date": "February 2012",
+    "completion_date": "March 2014",
+    "primary_completion_date": "July 2013",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "PFS will be assessed every 8 weeks using RECIST criteria.",
+      "description": "Progression-free survival, defined as the duration from the date of randomization to the first observation of disease progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Overall survival will be assessed from the start of treatment until death or last follow-up.",
+        "description": "Time from randomization until death from any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "ORR will be evaluated using RECIST at baseline, then at 8 weeks and every 8 weeks thereafter.",
+        "description": "The proportion of patients achieving a complete response (CR) or partial response (PR)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": "Squamous Cell Carcinoma of the Head and Neck",
+    "arm_group": [
+      {
+        "arm_group_label": "1",
+        "arm_group_type": "Experimental",
+        "description": "Combination of Vandetanib (300 mg daily) with standard chemotherapy."
+      },
+      {
+        "arm_group_label": "2",
+        "arm_group_type": "Active Comparator",
+        "description": "Standard chemotherapy regimen alone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Vandetanib",
+        "description": "An oral administration of 300 mg per day in combination with chemotherapy.",
+        "arm_group_label": "1",
+        "other_name": ["ZD6474", "Zactima"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Chemotherapy",
+        "description": "Chemotherapy regimens differ by provider but typically involve cisplatin or carboplatin combined with fluorouracil.",
+        "arm_group_label": ["1", "2"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Confirmation of advanced squamous cell carcinoma of the head and neck.\n  - Prior treatment with no more than two systemic therapies.\n  - ECOG performance status of 0-2 and life expectancy > 3 months.\n\nExclusion Criteria:\n\n  - Previous treatment with vandetanib.\n  - Active infection or other uncontrolled medical conditions.\n  - History of significant cardiovascular events within the last 6 months.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Clinical Development Team",
+      "role": "Study Director",
+      "affiliation": "XYZ Biopharmaceuticals"
+    },
+    "location": {
+      "facility": {
+        "name": "ABC Medical Center",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62701",
+          "country": "United States"
+        }
+      }
+    },
+    "verification_date": "October 2014",
+    "study_first_submitted": "January 15, 2012",
+    "study_first_submitted_qc": "January 16, 2012",
+    "study_first_posted": "February 1, 2012",
+    "results_first_submitted": "August 5, 2013",
+    "results_first_submitted_qc": "August 7, 2013",
+    "results_first_posted": "September 15, 2013",
+    "last_update_submitted": "October 10, 2014",
+    "last_update_submitted_qc": "October 12, 2014",
+    "last_update_posted": "October 15, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Vandetanib", "Head and Neck Cancer", "Chemotherapy"],
+    "condition_browse": {
+      "mesh_term": "Carcinoma, Squamous Cell"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study commenced in February 2012 but failed to meet recruitment expectations, with only 30 participants enrolled before termination.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Vandetanib + Chemotherapy",
+              "description": "Patients received vandetanib in combination with standard chemotherapy."
+            },
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Patients received standard chemotherapy alone."
+            }
+          ]
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Lack of Enrollment",
+              "participants_list": {
+                "participants": ["Not enough participants recruited to meet statistical requirements."]
+              }
+            },
+            {
+              "title": "Serious Adverse Events",
+              "participants_list": {
+                "participants": ["Reported cardiovascular events that led to treatment discontinuation for 4 patients."]
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Vandetanib + Chemotherapy",
+              "description": "Adverse events included hypertension, dermatitis, and gastrointestinal disturbances."
+            },
+            {
+              "title": "Chemotherapy Alone",
+              "description": "Adverse events mainly consisted of myelosuppression and emesis."
+            }
+          ],
+          "serious_events": {
+            "default_vocab": "MedDRA 20.0",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": [12, 5]  // Counts of serious adverse events in each arm
+                    }
+                  }
+                },
+                {
+                  "title": "Cardiovascular Disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Hypertension",
+                      "counts": [8, 1]
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal Disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Nausea",
+                      "counts": [5, 3]
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": [20, 16]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "If no publication has been made within 12 months of completion, investigators retain rights to independently publish."
+      },
+      "limitations_and_caveats": "The study was terminated primarily due to insufficient enrollment and failure to achieve clinically meaningful outcomes."
+    }
+  }
+}
+```

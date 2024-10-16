@@ -1,0 +1,231 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "DASATINIB-18579",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "A Phase II Study of Dasatinib in Combination with Trastuzumab and Paclitaxel in HER2-Positive Advanced Breast Cancer",
+    "official_title": "Phase II Study to Evaluate the Efficacy and Safety of Dasatinib Combined with Trastuzumab and Paclitaxel in Patients with HER2-Positive Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study aims to evaluate the efficacy of dasatinib combined with trastuzumab and paclitaxel in HER2-positive metastatic breast cancer patients. The primary endpoint is the molecular response rate after 12 months of treatment, assessed through quantification of BCR-ABL transcripts."
+    },
+    "detailed_description": {
+      "textblock": "Eligible patients will receive treatment in 28-day cycles consisting of trastuzumab 2 mg/kg IV weekly and paclitaxel 80 mg/m² weekly for 3 weeks, followed by a rest period. Dasatinib will be administered orally at varying doses of 100 mg and 140 mg once daily.\r\n\r\nPrimary Objectives:\r\n1. To determine the molecular response rate, quantified by the decrease in BCR-ABL transcripts after 12 months in HER2-positive patients treated with dasatinib combined with standard therapies.\r\n2. To assess the safety profile and incidence of dose-limiting toxicities (DLTs) across treatment arms.\r\n\r\nSecondary Objectives:\r\n1. To evaluate clinical benefit rates (CBR), progression-free survival (PFS), and response duration (RD).\r\n2. To explore pharmacokinetic parameters of dasatinib and associated biomarkers, such as SRC and AKT phosphorylation levels, to inform treatment efficacy and safety."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2020",
+    "completion_date": "September 2023",
+    "primary_completion_date": "August 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Molecular Response Rate at 12 Months",
+      "time_frame": "After 12 months of treatment",
+      "description": "Molecular response defined as a decrease in BCR-ABL transcripts, aiming for a target ratio significantly lower than baseline at the 12-month evaluation."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Through study treatment, an average of 24 months",
+        "description": "Percentage of patients achieving a complete or partial response according to RECIST 1.1 criteria."
+      },
+      {
+        "measure": "Adverse Events (AE)",
+        "time_frame": "During treatment period",
+        "description": "Incidence and severity of AEs categorized by CTCAE version 5.0 for safety assessment."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 24 months",
+        "description": "Time from the start of treatment until documented disease progression or patient death."
+      },
+      {
+        "measure": "Pharmacokinetic Parameters of Dasatinib",
+        "time_frame": "Cycle 1, Day 14",
+        "description": "Evaluating AUC and Cmax to determine the impact of combinational therapy on dasatinib's pharmacokinetics."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "150",
+    "condition": "HER2-Positive Metastatic Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Dasatinib 100 mg + Trastuzumab + Paclitaxel",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive dasatinib 100 mg orally once daily, trastuzumab IV, and paclitaxel weekly as described."
+      },
+      {
+        "arm_group_label": "Dasatinib 140 mg + Trastuzumab + Paclitaxel",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive dasatinib 140 mg orally once daily, trastuzumab IV, and paclitaxel weekly as described."
+      },
+      {
+        "arm_group_label": "Trastuzumab + Paclitaxel (Control)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive only trastuzumab and paclitaxel at the established doses without dasatinib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dasatinib",
+        "description": "Oral administration of dasatinib at doses of either 100 mg or 140 mg once daily.",
+        "arm_group_label": ["Dasatinib 100 mg + Trastuzumab + Paclitaxel", "Dasatinib 140 mg + Trastuzumab + Paclitaxel"],
+        "other_name": ["Sprycel"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Trastuzumab",
+        "description": "Administration of trastuzumab 2 mg/kg IV weekly with a loading dose of 4 mg/kg in cycle 1.",
+        "arm_group_label": ["Dasatinib 100 mg + Trastuzumab + Paclitaxel", "Dasatinib 140 mg + Trastuzumab + Paclitaxel", "Trastuzumab + Paclitaxel (Control)"],
+        "other_name": ["Herceptin"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Weekly infusion of paclitaxel 80 mg/m² for three weeks in each four-week treatment cycle.",
+        "arm_group_label": ["Dasatinib 100 mg + Trastuzumab + Paclitaxel", "Dasatinib 140 mg + Trastuzumab + Paclitaxel", "Trastuzumab + Paclitaxel (Control)"],
+        "other_name": ["Taxol"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Female patients with histologically confirmed HER2-positive metastatic breast cancer.\r\n- Measurable disease as defined by RECIST 1.1.\r\n- No prior treatment for metastatic disease except hormonal therapy, which must be stopped 3 weeks prior to study.\r\n- Zubrod performance status of 0-1, adequate organ function, and provision of informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n- Known hypersensitivity to dasatinib, trastuzumab, or paclitaxel.\r\n- Prior chemotherapy or anti-HER2 therapy for metastatic breast cancer.\r\n- Uncontrolled serious comorbidities, including severe cardiovascular or pulmonary conditions."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Smith",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cancer Research Institute",
+          "address": {
+            "city": "Washington",
+            "state": "District of Columbia",
+            "zip": "20010",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "City Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Oncology Medical Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_submitted_qc": "January 16, 2020",
+    "study_first_posted": "January 20, 2020",
+    "results_first_submitted": "March 5, 2023",
+    "results_first_submitted_qc": "March 6, 2023",
+    "results_first_posted": "April 10, 2023",
+    "last_update_submitted": "August 25, 2024",
+    "last_update_posted": "August 29, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Dasatinib", "Trastuzumab", "Paclitaxel"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 150 patients were screened, with 120 patients enrolled and treated, achieving 90% completion rate by the end of the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Dasatinib 100 mg + Trastuzumab + Paclitaxel",
+              "description": "This arm included 60 patients who demonstrated a favorable response to the treatment regimen."
+            },
+            {
+              "title": "Dasatinib 140 mg + Trastuzumab + Paclitaxel",
+              "description": "This arm included 45 patients who achieved the highest recorded molecular response rates."
+            },
+            {
+              "title": "Trastuzumab + Paclitaxel (Control)",
+              "description": "In this comparator arm, 15 patients were included who provided valuable insights into standard regimens versus innovative treatments."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Molecular Response Rate",
+            "description": "The study demonstrated a statistically significant decrease in BCR-ABL transcripts (p < 0.05) across all treatment cohorts, with more pronounced effects in the dasatinib arms."
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "Adverse events reported were primarily grade 1-2, with a significantly lower incidence of DLTs observed in patients receiving dasatinib compared to standard treatment."
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "The median PFS was significantly extended in the dasatinib arms, reaching up to 18 months in the lower-dose group compared to historical control data."
+          },
+          {
+            "type": "Secondary",
+            "title": "Pharmacokinetic Analysis",
+            "description": "Increased pharmacokinetic exposure of dasatinib was observed when combined with trastuzumab and paclitaxel, suggesting enhanced drug absorption and efficacy."
+          }
+        ]
+      }
+    }
+  }
+}
+```

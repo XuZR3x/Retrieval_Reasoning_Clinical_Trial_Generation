@@ -1,0 +1,275 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02586953"
+    },
+    "id_info": {
+      "org_study_id": "1200.88",
+      "nct_id": "NCT02586953"
+    },
+    "brief_title": "A Phase III Study of Afatinib in Patients With Recurrent Head and Neck Squamous Cell Carcinoma",
+    "official_title": "An Open-Label, Multinational, Randomized Phase III Study Evaluating the Efficacy and Safety of Afatinib Versus Standard of Care Chemotherapy in Patients With Recurrent Head and Neck Squamous Cell Carcinoma Who Have Failed Platinum-Based Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Boehringer Ingelheim",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Boehringer Ingelheim",
+    "brief_summary": {
+      "textblock": "This Phase III open-label, randomized study aims to compare the efficacy and safety of afatinib, an irreversible EGFR TKI, against standard chemotherapy in patients with recurrent head and neck squamous cell carcinoma (HNSCC) who have previously been treated with platinum-based therapy. The objective is to demonstrate superior efficacy, as measured by progression-free survival (PFS), ensuring a broad representation of clinical outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "November 1, 2015",
+    "completion_date": "April 20, 2021",
+    "primary_completion_date": "February 10, 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS) as Assessed by Central Review",
+      "time_frame": "From randomization to disease progression or death, estimated up to 60 months.",
+      "description": "PFS will be defined as the time from randomization to the first documented disease progression or death from any cause, whichever occurs first, utilizing RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization to death, estimated up to 60 months.",
+        "description": "Overall survival will be measured from randomization until the date of death from any cause."
+      },
+      {
+        "measure": "Best Overall Response Rate (ORR)",
+        "time_frame": "From baseline until the end of treatment (up to 60 months).",
+        "description": "Best overall response will be assessed according to RECIST v1.1, recording complete response (CR) and partial response (PR) as defined."
+      },
+      {
+        "measure": "Health-Related Quality of Life (HRQoL) Change",
+        "time_frame": "From baseline to the end of treatment, assessed every 6 weeks.",
+        "description": "HRQoL will be evaluated through the EORTC QLQ-C30 and QLQ-H&N35 questionnaires to determine impact on patients' well-being."
+      },
+      {
+        "measure": "Incidence of Adverse Events (AEs)",
+        "time_frame": "From first administration of afatinib to 28 days after last dose, up to 60 months.",
+        "description": "All adverse events will be monitored and documented to assess the safety profile of afatinib."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "400",
+    "condition": "Head and Neck Neoplasms",
+    "arm_group": [
+      {
+        "arm_group_label": "Afatinib",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive afatinib 40 mg once daily until disease progression or unacceptable toxicity."
+      },
+      {
+        "arm_group_label": "Standard Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive standard chemotherapy (investigator's choice) until disease progression or unacceptable toxicity."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Afatinib",
+        "description": "Afatinib 40 mg administered orally once daily.",
+        "arm_group_label": "Afatinib"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Standard Chemotherapy",
+        "description": "Responder-based treatment determined by the investigator.",
+        "arm_group_label": "Standard Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion criteria:\n\n  1. Histologically confirmed recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) not amenable to surgery or radiation.\n\n  2. Patients must have progressed after at least one platinum-based therapy.\n\n  3. Measurable disease as per RECIST v1.1 criteria.\n\n  4. Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.\n\nExclusion criteria:\n\n  1. Prior treatment with EGFR-targeted therapies.\n\n  2. Major surgical procedure within 4 weeks prior to enrollment.\n\n  3. Known hypersensitivity to afatinib or any of its components.\n\n  4. Presence of active interstitial lung disease.\n\n  5. Significant cardiovascular disease, including uncontrolled hypertension or history of myocardial infarction within 6 months prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Boehringer Ingelheim",
+      "role": "Study Chair",
+      "affiliation": "Boehringer Ingelheim"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "NY",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "MD",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "TX",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "King's College Hospital",
+          "address": {
+            "city": "London",
+            "country": "United Kingdom"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Royal Marsden Hospital",
+          "address": {
+            "city": "London",
+            "country": "United Kingdom"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States",
+        "United Kingdom"
+      ]
+    },
+    "verification_date": "July 2021",
+    "study_first_submitted": "October 5, 2015",
+    "study_first_submitted_qc": "October 6, 2015",
+    "study_first_posted": "October 10, 2015",
+    "results_first_submitted": "May 15, 2021",
+    "results_first_submitted_qc": "June 1, 2021",
+    "results_first_posted": "July 1, 2021",
+    "last_update_submitted": "August 10, 2021",
+    "last_update_submitted_qc": "August 11, 2021",
+    "last_update_posted": "September 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Carcinoma",
+        "Head and Neck Neoplasms",
+        "Carcinoma, Squamous Cell"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Afatinib",
+        "Chemotherapy"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 400 participants are randomized; patient enrollment was conducted across multiple centers in the US and the UK, ensuring a robust representation of HNSCC patients with varied genetic backgrounds and disease progression considerations.",
+        "pre_assignment_details": "Following screening for eligibility, patients who met all criteria were randomized in a 1:1 ratio to receive either afatinib or standard chemotherapy, effectively creating a balanced study design."
+      },
+      "reported_events": {
+        "time_frame": "From first dose to 28 days after last dose, assessing safety events such as adverse reactions and mortality.",
+        "group_list": {
+          "group": {
+            "title": "Afatinib",
+            "description": "Patients received afatinib 40 mg daily."
+          }
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 22.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Total, all-cause mortality",
+                      "counts": null
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Anaemia",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Neutropenia",
+                      "counts": null
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Diarrhoea",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Nausea",
+                      "counts": null
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Fatigue",
+                      "counts": null
+                    },
+                    {
+                      "sub_title": "Pyrexia",
+                      "counts": null
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

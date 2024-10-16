@@ -1,0 +1,191 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02912345"
+    },
+    "id_info": {
+      "org_study_id": "16278",
+      "secondary_id": ["I5Y-ANL-JKAC"],
+      "nct_id": "NCT02912345"
+    },
+    "brief_title": "Evaluating Ramucirumab in Patients With Advanced Gastric Adenocarcinoma",
+    "official_title": "A Phase 2, Randomized, Double-Blind Study of First-Line Ramucirumab in Combination With mFOLFOX6 Versus mFOLFOX6 Alone in Patients With Advanced Gastric or Gastroesophageal Junction Adenocarcinoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy of ramucirumab in combination with mFOLFOX6 chemotherapy in patients with advanced gastric adenocarcinoma. The primary endpoint was progression-free survival (PFS), with secondary endpoints assessing overall survival (OS) and objective response rate (ORR)."
+    },
+    "overall_status": "Completed",
+    "start_date": "December 2016",
+    "completion_date": "April 2021",
+    "primary_completion_date": "December 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Randomization to the date of progression or death from any cause (up to 24 months)",
+      "description": "PFS was defined as the duration from randomization until the first observation of progression based on RECIST v1.1 or death from any cause. Progressive disease (PD) was classified by a ≥20% increase in the sum of diameters of target lesions, coupled with an absolute increase of ≥5 mm, or the emergence of ≥1 new lesions."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Randomization to death due to any cause (up to 36 months)",
+        "description": "OS was determined as the time from randomization to the occurrence of death from any cause, with participants alive at the end of the study or lost to follow-up subjected to censoring at their last known alive date."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Randomization to disease progression (up to 24 months)",
+        "description": "ORR was defined as the proportion of participants achieving a best overall response of complete response (CR) or partial response (PR) according to RECIST v1.1."
+      },
+      {
+        "measure": "Disease Control Rate (DCR)",
+        "time_frame": "Randomization to disease progression (up to 24 months)",
+        "description": "DCR was calculated as the proportion of participants who achieved CR, PR, or stable disease (SD), demonstrating disease control at the time of assessment."
+      },
+      {
+        "measure": "Adverse Event Frequency",
+        "time_frame": "Baseline through the study duration (up to 36 months)",
+        "description": "A comprehensive evaluation of treatment-emergent adverse events (TEAEs) was conducted to compare the safety profiles between treatment arms."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "145",
+    "condition": ["Gastric Adenocarcinoma", "Gastroesophageal Junction Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + mFOLFOX6",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive ramucirumab IV at a dosage of 8 mg/kg in combination with mFOLFOX6 (Oxaliplatin, Leucovorin, 5-FU) administered across standard 2-week cycles."
+      },
+      {
+        "arm_group_label": "mFOLFOX6 Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive mFOLFOX6 alone, comprised of Oxaliplatin, Leucovorin, and 5-FU administered across standard 2-week cycles."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "Intravenous administration at a dosage of 8 mg/kg on days 1 and 8 of each cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "mFOLFOX6",
+        "description": "Combination of Oxaliplatin, Leucovorin, and 5-Fluorouracil administered according to protocol."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Histologically confirmed adenocarcinoma of the stomach or gastroesophageal junction\n  - Metastatic or locally advanced, unresectable disease at the time of study entry\n  - Signed informed consent and ability to comply with protocol\n  - ECOG performance status of 0-1\n  - Adequate renal and hepatic function\n  - Life expectancy ≥ 3 months\n\nExclusion Criteria:\n  - Previous treatment with systemic therapy for advanced disease\n  - HER2-positive status\n  - Known brain metastases\n  - Major surgical procedure within 28 days prior to enrollment\n  - Pregnancy or lactation"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Investigator Site A",
+          "address": {
+            "city": "CityExample",
+            "state": "StateExample",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      }
+      // Additional locations omitted for brevity
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "May 2021",
+    "study_first_submitted": "October 15, 2015",
+    "study_first_posted": "October 25, 2015",
+    "last_update_posted": "May 5, 2021",
+    "keyword": ["Ramucirumab", "mFOLFOX6", "Gastric Cancer"],
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Participants were screened and randomized to either experimental or active comparator arms.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + mFOLFOX6",
+              "description": "Participants received ramucirumab in addition to mFOLFOX6 throughout the study."
+            },
+            {
+              "title": "mFOLFOX6 Alone",
+              "description": "Participants received mFOLFOX6 without ramucirumab."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "All randomized participants who received at least one dose of study drug.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ramucirumab + mFOLFOX6",
+              "description": "Total count and demographic information were collected for participants receiving combination therapy."
+            },
+            {
+              "title": "mFOLFOX6 Alone",
+              "description": "Total count and demographic information for participants receiving standard mFOLFOX6."
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Progression-Free Survival (PFS)",
+              "description": "PFS was assessed in terms of median duration across groups, yielding statistically non-significant results across analyses.",
+              "time_frame": "Randomization to disease progression or death (up to 24 months)",
+              "population": "All randomized participants were evaluated for progression status."
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival (OS)",
+              "description": "OS did not demonstrate a significant improvement in survival when comparing the intervention arm to the control.",
+              "time_frame": "Randomization to death (up to 36 months)",
+              "population": "Evaluated across intention-to-treat participants."
+            },
+            {
+              "type": "Secondary",
+              "title": "Adverse Events",
+              "description": "A higher rate of adverse events (TEAEs) was recorded in the intervention group, suggesting tolerability issues.",
+              "time_frame": "All participants through study completion (up to 36 months)",
+              "population": "Adverse events were documented for all randomized participants."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

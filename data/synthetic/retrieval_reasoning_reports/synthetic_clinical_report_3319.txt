@@ -1,0 +1,176 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02223625"
+    },
+    "id_info": {
+      "org_study_id": "FULV-ADV-2015",
+      "nct_id": "NCT02223625"
+    },
+    "brief_title": "Randomized Phase III Study Evaluating Fulvestrant with Targeted Therapy in HR+ Advanced Breast Cancer",
+    "acronym": "FULV-ADV",
+    "official_title": "A Randomized Phase III Trial of Fulvestrant (Faslodex) in Combination with a Targeted Agent versus Fulvestrant Alone in Female Patients with HR-Positive Advanced Breast Cancer Previously Treated with Aromatase Inhibitors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "OncoTherapeutics Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "OncoTherapeutics Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the effectiveness and safety of fulvestrant combined with targeted therapy compared to fulvestrant alone in postmenopausal women with hormone receptor-positive metastatic breast cancer which has progressed after aromatase inhibitor therapy."
+    },
+    "detailed_description": {
+      "textblock": "The present multi-center study enrolled 750 postmenopausal women diagnosed with hormone receptor-positive breast cancer who exhibited resistance to aromatase inhibitors. Patients were stratified based on prior treatment responses and ECOG performance status. This phase III study aimed to determine whether fulvestrant in conjunction with an mTOR inhibitor can significantly improve progression-free survival compared to fulvestrant monotherapy.\n\nThe potential synergistic effect of targeted therapy alongside fulvestrant’s action as a selective estrogen receptor down-regulator was hypothesized to enhance the anti-tumor efficacy through diverse mechanisms. As a SERD, fulvestrant exhibits a profound capability to suppress estrogen receptor-mediated transcription, a critical feature in combating acquired resistance resulting from prior therapies. \n\nTo ensure the integrity of outcome measures, the trial employed a randomized, double-blind placebo-controlled design. Regular assessments were performed every 8 weeks to evaluate disease progression utilizing RECIST 1.1 criteria, thereby allowing for timely adjustments and safety monitoring.\n\nThe interim analysis after 400 events indicated a significant improvement in progression-free survival in the cohort receiving fulvestrant with the complementing targeted agent versus those on fulvestrant alone. Additionally, the safety profile exhibited a favorable outcome, with comparable adverse events between groups, thereby supporting the use of this a combination therapy in clinical settings."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 12, 2016",
+    "completion_date": "March 30, 2021",
+    "primary_completion_date": "December 15, 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Every 8 weeks until disease progression or up to 36 months",
+      "description": "Defined as the time from randomization until the first documented tumor progression or death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Every 3 months after treatment until death",
+        "description": "Defined as the time from randomization to death due to any cause."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Measured at every imaging assessment until disease progression",
+        "description": "The percentage of patients with confirmed complete or partial response based on RECIST v1.1."
+      },
+      {
+        "measure": "Clinical Benefit Rate",
+        "time_frame": "From randomization until disease progression or the end of treatment period",
+        "description": "Percentage of patients achieving complete response, partial response, or stable disease for at least 24 weeks."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Adverse events monitored from initiation until 30 days post-last treatment",
+        "description": "Monitor for treatment-emergent adverse events (TEAEs) and serious adverse events (SAEs)."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "750",
+    "condition": "Hormone Receptor Positive Advanced Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Fulvestrant + Targeted Agent",
+        "arm_group_type": "Experimental",
+        "description": "Fulvestrant 500 mg (Day 1 and Day 15 of Cycle 1, and Day 1 of each subsequent 28-day cycle) plus targeted agent."
+      },
+      {
+        "arm_group_label": "Fulvestrant Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Fulvestrant 500 mg (as defined above) and matching placebo for the targeted agent."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fulvestrant",
+        "description": "Fulvestrant administered by intramuscular injection at a dose of 500 mg.",
+        "arm_group_label": ["Fulvestrant + Targeted Agent", "Fulvestrant Alone"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Targeted Agent",
+        "description": "Orally administered mTOR inhibitor, 10 mg daily.",
+        "arm_group_label": "Fulvestrant + Targeted Agent"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo administered orally matching the targeted agent.",
+        "arm_group_label": "Fulvestrant Alone"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Female patients aged 18 years or older.\n- Histologically confirmed diagnosis of hormone receptor-positive breast cancer with measurable or non-measurable disease.\n- Previous treatment with aromatase inhibitors.\n- ECOG performance status of 0-1.\n\nExclusion Criteria:\n- Receipt of previous treatment with fulvestrant or any mTOR inhibitors.\n- Medical or psychological conditions that may interfere with treatment adherence.\n- Severe adverse reactions to any component of the study treatment.",
+        "gender": "Female",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Smith",
+      "role": "Study Chair",
+      "affiliation": "OncoTherapeutics Inc."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21287",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Massachusetts General Hospital",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02114",
+            "country": "United States"
+          }
+        }
+      }
+      // Additional sites omitted for brevity
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "March 10, 2015",
+    "study_first_posted": "April 5, 2015",
+    "results_first_submitted": "April 15, 2021",
+    "results_first_posted": "May 1, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Hormone Receptor Positive Breast Cancer",
+      "Fulvestrant",
+      "Targeted Therapy",
+      "Randomized Trial"
+    ],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Fulvestrant",
+        "mTOR Inhibitors"
+      ]
+    }
+  }
+}
+```

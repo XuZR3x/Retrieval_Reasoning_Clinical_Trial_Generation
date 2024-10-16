@@ -1,0 +1,128 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "TCT-0138",
+      "secondary_id": ["NCI-2020-01823", "CDR0000087654"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Docetaxel and Cyclophosphamide in Treating Patients With Metastatic Breast Cancer",
+    "official_title": "A Phase II Study of Docetaxel and Cyclophosphamide in Patients With Refractory Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      },
+      "collaborator": {
+        "agency": "American Society of Clinical Oncology",
+        "agency_class": "Other"
+      }
+    },
+    "source": "NCI Clinical Trials",
+    "brief_summary": {
+      "textblock": "This clinical trial investigates the efficacy of a combination therapy using docetaxel and cyclophosphamide in patients with refractory metastatic breast cancer. The study aims to evaluate the overall response rate, safety, and quality of life metrics associated with this treatment approach."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the overall response rate (ORR) of docetaxel in combination with cyclophosphamide in patients with refractory metastatic breast cancer.\n\nII. To evaluate the safety profile and tolerability of this combination treatment.\n\nOUTLINE:\n\nParticipants will receive docetaxel IV on day 1, followed by cyclophosphamide IV on days 1 and 8, with cycles repeating every 21 days for up to six courses. Toxicities will be monitored and graded based on the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0. \n\nFollow-up will occur every three months during the first year, and subsequently every six months for three additional years."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2016",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Up to 6 months"
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Rate of progression-free survival (PFS)",
+        "time_frame": "6 months"
+      },
+      {
+        "measure": "Quality of life assessed using EORTC QLQ-C30",
+        "time_frame": "Every 3 months for 1 year"
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "75",
+    "condition": "Metastatic Breast Cancer",
+    "arm_group": {
+      "arm_group_label": "Treatment (docetaxel, cyclophosphamide)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive docetaxel IV on day 1 and cyclophosphamide IV on days 1 and 8 of each 21-day cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "Given IV on day 1 of each cycle. Standard dose: 75 mg/m^2.",
+        "arm_group_label": "Treatment (docetaxel, cyclophosphamide)",
+        "other_name": ["Taxotere"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Given IV on days 1 and 8 of each cycle. Standard dose: 750 mg/m^2.",
+        "arm_group_label": "Treatment (docetaxel, cyclophosphamide)",
+        "other_name": ["Cytoxan"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed metastatic breast cancer.\n\n- Recurrent disease showing progression after at least one prior line of chemotherapy.\n\n- At least one measurable lesion defined by RECIST 1.1 criteria.\n\n- Performance status of ECOG 0-2.\n\n- Adequate bone marrow function with absolute neutrophil count (ANC) >= 1,500 cells/mm³ and platelets >= 100,000 cells/mm³.\n\nExclusion Criteria:\n\n- Prior treatment with docetaxel for advanced breast cancer.\n\n- Significant cardiac disease or other uncontrolled medical comorbidities.\n\n- Pregnancy or lactation, or unwillingness to use contraceptives during the study."
+      },
+      "gender": "Female",
+      "minimum_age": "21 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica Trumble",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Institutes of Health Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "July 5, 2015",
+    "study_first_posted": "July 10, 2015",
+    "last_update_posted": "July 12, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms", "Metastatic Disease"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Docetaxel", "Cyclophosphamide"]
+    }
+  }
+}
+```

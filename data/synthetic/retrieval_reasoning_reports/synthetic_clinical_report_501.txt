@@ -1,0 +1,385 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567239"
+    },
+    "id_info": {
+      "org_study_id": "TXA-ORT Trial 2020",
+      "nct_id": "NCT04567239"
+    },
+    "brief_title": "Efficacy of Intravenous Tranexamic Acid in Reducing Postoperative Bleeding in Orthopedic Surgery",
+    "official_title": "Randomized Controlled Trial Evaluating the Role of Intravenous Tranexamic Acid in Minimizing Postoperative Blood Loss After Major Orthopedic Procedures",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Pennsylvania",
+        "agency_class": "Other"
+      }
+    },
+    "source": "University of Pennsylvania",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aims to assess the efficacy of intravenous Tranexamic Acid (TXA) in reducing postoperative blood loss in patients undergoing elective major orthopedic surgeries. The focus will be on quantifying the volume of blood loss and the requirement for transfusion in TXA versus placebo groups."
+    },
+    "detailed_description": {
+      "textblock": "Major orthopedic surgeries often result in significant blood loss, necessitating the utilization of blood products and enhancing postoperative morbidity. Preoperative and intraoperative administration of intravenous Tranexamic Acid (TXA) has gained traction as a method to mitigate blood loss based on existing literature demonstrating its efficacy in similar surgical domains. This trial aims to rigorously evaluate the impact of TXA administration on postoperative blood loss and transfusion requirements in orthopedic surgery patients, hypothesizing that TXA will significantly reduce both outcomes. The randomized controlled trial design will bolster the robustness of the findings, underpinned by a systematic approach towards evaluating transfusion rates and thromboembolic events to ascertain safety. Comprehensive data collection and monitoring from multiple institutions will enhance the generalizability of the results."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2021",
+    "completion_date": "March 2023",
+    "primary_completion_date": "February 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Postoperative Blood Loss",
+      "time_frame": "Measured within the first 24 hours post-surgery",
+      "description": "The cumulative volume of blood loss recorded in milliliters from drainage systems."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Total Number of Blood Transfusions",
+        "time_frame": "24 hours post-operation",
+        "description": "Total units of blood products administered within the postoperative period."
+      },
+      {
+        "measure": "Incidence of Thromboembolic Events",
+        "time_frame": "30 days post-surgery",
+        "description": "Number of diagnosed deep vein thrombosis or pulmonary embolism events occurring post-operation."
+      },
+      {
+        "measure": "Mortality Rate",
+        "time_frame": "30 days post-surgery",
+        "description": "Count of deaths occurring within 30 days following the surgical intervention."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": [
+      "Postoperative Hemorrhage",
+      "Orthopedic Surgery",
+      "Blood Transfusion"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "TXA Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive 1 gram of intravenous Tranexamic Acid administered 30 minutes prior to incision and a continuous infusion of 1 gram over the first 8 hours."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive a matching placebo solution of sodium chloride administered similarly to the TXA group."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tranexamic Acid",
+        "arm_group_label": "TXA Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Sodium Chloride",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adult patients (aged 18-80) scheduled for elective major orthopedic surgery (joint arthroplasties, trauma repair).\n- Patients who can provide informed consent.\nExclusion Criteria:\n- History of known allergic reactions to TXA.\n- Patients with active thromboembolic disorders or on anticoagulant therapy within five days pre-surgery.\n- Major renal impairment (eGFR <30 mL/min/1.73m2).\n- Patients contraindicated for blood transfusion."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas C. Garrison, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Pennsylvania"
+    },
+    "location": {
+      "facility": {
+        "name": "Penn Medicine Hospital",
+        "address": {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "reference": [
+      {
+        "citation": "Myles PS, Smith JA, Forbes A, Silbert B, et al. Tranexamic Acid in Patients Undergoing Coronary-Artery Surgery. N Engl J Med. 2017 Jan 12;376(2):136-148."
+      },
+      {
+        "citation": "Shakur H, Roberts I, et al. Preoperative Antifibrinolytic Therapy and Blood Loss in a Randomized Trial of Trauma Patients. Ann Surg. 2015;262(3):174-182."
+      },
+      {
+        "citation": "Sukeik M, Alghamdi A, et al. The use of tranexamic acid in orthopedic surgeries: A prospective study. Blood Coagul Fibrinolysis. 2018;29(4):289-293."
+      }
+    ],
+    "verification_date": "March 2023",
+    "study_first_submitted": "September 1, 2020",
+    "study_first_posted": "September 15, 2020",
+    "results_first_submitted": "April 5, 2023",
+    "results_first_posted": "April 15, 2023",
+    "last_update_posted": "August 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Hemorrhage"
+    },
+    "intervention_browse": {
+      "mesh_term": "Tranexamic Acid"
+    },
+    "provided_document_section": {
+      "provided_document": [
+        {
+          "document_type": "Study Protocol and Statistical Analysis Plan",
+          "document_has_protocol": "Yes",
+          "document_has_icf": "No",
+          "document_has_sap": "Yes",
+          "document_date": "August 15, 2020",
+          "document_url": "https://cdn.clinicaltrials.gov/large-docs/39/NCT04567239/Prot_SAP_000.pdf"
+        }
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Between April 2021 and September 2022, a total of 200 patients were randomized into the TXA (n=100) and placebo (n=100) groups.",
+        "group_list": {
+          "group": [
+            {
+              "title": "TXA Group",
+              "description": "Participants received intravenous tranexamic acid as per protocol."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants received a matching placebo IV."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["100", "100"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["100", "100"]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["0", "0"]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "TXA Group",
+                "description": "Patients administered TXA throughout the study."
+              },
+              {
+                "title": "Placebo Group",
+                "description": "Patients administered placebo throughout the study."
+              },
+              {
+                "title": "Total",
+                "description": "Overall number of participants across groups."
+              }
+            ]
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Postoperative Blood Loss",
+            "description": "The cumulative volume of blood loss recorded in milliliters from drainage systems.",
+            "time_frame": "Measured within the first 24 hours post-surgery",
+            "group_list": {
+              "group": [
+                {
+                  "title": "TXA Group",
+                  "description": "Volume of blood lost recorded."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Volume of blood lost recorded."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Postoperative Blood Loss",
+              "units": "mL",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Total Number of Blood Transfusions",
+            "description": "Total units of blood products administered within the postoperative period.",
+            "time_frame": "24 hours post-operation",
+            "group_list": {
+              "group": [
+                {
+                  "title": "TXA Group",
+                  "description": "Count of transfusions recorded."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Count of transfusions recorded."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Total Transfusions",
+              "units": "Units of PRBCs",
+              "param": "Count",
+              "dispersion": "Standard Deviation"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Thromboembolic Events",
+            "description": "Number of diagnosed deep vein thrombosis or pulmonary embolism events occurring post-operation.",
+            "time_frame": "30 days post-surgery",
+            "group_list": {
+              "group": [
+                {
+                  "title": "TXA Group",
+                  "description": "Count of thromboembolic events recorded."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Count of thromboembolic events recorded."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Thromboembolic Events",
+              "units": "Count",
+              "param": "Count of Participants"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Mortality Rate",
+            "description": "Count of deaths occurring within 30 days following the surgical intervention.",
+            "time_frame": "30 days post-surgery",
+            "group_list": {
+              "group": [
+                {
+                  "title": "TXA Group",
+                  "description": "Count of mortality events recorded."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Count of mortality events recorded."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mortality",
+              "units": "Count",
+              "param": "Count of Participants"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "30 days post-operatively",
+        "group_list": {
+          "group": [
+            {
+              "title": "TXA Group",
+              "description": "Participants on TXA throughout the study."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants on placebo throughout the study."
+            }
+          ]
+        },
+        "serious_events": {
+          "default_assessment": "Non-systematic Assessment",
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total, all-cause mortality",
+                    "counts": ["2", "3"]
+                  },
+                  {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": ["1", "2"]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "1",
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": ["5", "7"]
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+        },
+        "limitations_and_caveats": "While this study showed promising benefits of TXA in reducing blood loss, a larger multicenter trial is suggested to further validate the findings due to the relatively limited sample size."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Research Coordinator",
+        "organization": "University of Pennsylvania",
+        "phone": "215-555-0101",
+        "email": "researchcoord@pennmedicine.org"
+      }
+    }
+  }
+}
+```

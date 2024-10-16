@@ -1,0 +1,149 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02030158"
+    },
+    "id_info": {
+      "org_study_id": "Hydrocortisone-ICU-2020",
+      "nct_id": "NCT02030158"
+    },
+    "brief_title": "Hydrocortisone for the Treatment of Severe Trauma-Induced Coagulopathy",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of Hydrocortisone in Critically Injured Patients with Severe Trauma-Induced Coagulopathy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Trauma Research Consortium",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Trauma Research Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Severe trauma can lead to coagulopathy, which is often associated with poor clinical outcomes and increased mortality in critically injured patients. This trial aimed to assess the efficacy of hydrocortisone in enhancing coagulation profiles and reducing systemic inflammation. We hypothesized that administration of hydrocortisone would significantly improve survival rates and reduce the incidence of multiple organ failure among patients who experienced severe trauma and developed coagulopathy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment due to stringent eligibility criteria and declining interest from the medical community amidst mixed findings from previous corticosteroid studies.",
+    "start_date": "March 2020",
+    "completion_date": "December 2021",
+    "primary_completion_date": "August 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Survival rate at 90 days post-injury",
+      "time_frame": "90 days post-injury"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of multiple organ failure",
+        "time_frame": "Up to 30 days post-injury"
+      },
+      {
+        "measure": "Changes in coagulation parameters (PT, aPTT, platelet count)",
+        "time_frame": "At baseline, 24 hours, and 72 hours post-injury"
+      },
+      {
+        "measure": "Incidence of infectious complications",
+        "time_frame": "Up to 90 days post-injury"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "12",
+    "condition": "Severe Trauma-Induced Coagulopathy",
+    "arm_group": [
+      {
+        "arm_group_label": "Hydrocortisone",
+        "arm_group_type": "Experimental",
+        "description": "Hydrocortisone administered intravenously at a dose of 100 mg every 8 hours for 72 hours."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Intravenous saline solution administered at the same schedule as the experimental intervention."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Hydrocortisone",
+        "description": "Hydrocortisone 100 mg IV every 8 hours for 72 hours.",
+        "arm_group_label": "Hydrocortisone",
+        "other_name": "Solu-Cortef"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Isotonic saline IV over the same duration and schedule as hydrocortisone.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adults aged 18 and older\n  -  Sustained traumatic injury necessitating admission to the Intensive Care Unit\n  -  Evidence of coagulopathy as indicated by prolonged prothrombin time (PT) > 15 seconds\n  -  Informed consent can be obtained from the patient or legal representative\n\nExclusion Criteria:\n\n  -  Current treatment with corticosteroids or anticoagulants\n  -  Known hypersensitivity to hydrocortisone\n  -  Severe underlying medical conditions (e.g. active malignancy, severe liver disease)\n  -  Pregnancy\n  -  Anticipated mortality within 90 days due to other causes",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Elena T. Kovacs, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Trauma Research Consortium"
+    },
+    "location": {
+      "facility": {
+        "name": "Critical Care Unit",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "December 2021",
+    "study_first_submitted": "January 30, 2020",
+    "study_first_submitted_qc": "January 30, 2020",
+    "study_first_posted": "February 2, 2020",
+    "last_update_submitted": "December 10, 2021",
+    "last_update_submitted_qc": "December 10, 2021",
+    "last_update_posted": "December 10, 2021",
+    "responsible_party": {
+      "name_title": "Elena T. Kovacs",
+      "organization": "Trauma Research Consortium"
+    },
+    "keyword": [
+      "Trauma",
+      "Hydrocortisone",
+      "Coagulopathy",
+      "Corticosteroids",
+      "Critically Ill Patients"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Trauma",
+        "Coagulopathy"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Hydrocortisone"
+      ]
+    }
+  }
+}
+```

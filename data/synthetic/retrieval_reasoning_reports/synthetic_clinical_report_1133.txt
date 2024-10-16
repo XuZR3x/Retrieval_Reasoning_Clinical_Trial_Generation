@@ -1,0 +1,165 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCTXXXXXXX"
+        },
+        "id_info": {
+            "org_study_id": "D3001C00143",
+            "secondary_id": ["2008-012345-67", "LPS98765"],
+            "nct_id": "NCTXXXXXXX"
+        },
+        "brief_title": "A Phase II Study of Vandetanib in Combination with Atezolizumab for Patients with Advanced Renal Cell Carcinoma",
+        "official_title": "A Phase II, Open-Label, Multicenter Study to Evaluate the Efficacy and Safety of Vandetanib in Combination with Atezolizumab in Patients with Advanced Clear Cell Renal Carcinoma Who Have Progressed on First-Line Therapy.",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "Acme Pharmaceuticals",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "Acme Pharmaceuticals",
+        "oversight_info": {
+            "has_dmc": "No"
+        },
+        "brief_summary": {
+            "textblock": "This study aims to evaluate the efficacy and safety of vandetanib when administered in combination with atezolizumab in patients with advanced clear cell renal carcinoma (ccRCC) who have previously received first-line treatment. The study hypothesizes that the combination may improve response rates, progression-free survival, and overall survival."
+        },
+        "overall_status": "Terminated",
+        "start_date": "February 2020",
+        "completion_date": "April 2022",
+        "primary_completion_date": "October 2021",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Overall Response Rate (ORR)",
+            "time_frame": "12 months",
+            "description": "The ORR is defined as the proportion of patients with a confirmed best overall response of complete response (CR) or partial response (PR) according to RECIST 1.1 criteria."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Progression-Free Survival (PFS)",
+                "time_frame": "Estimated duration from randomization until disease progression or death, assessed at least every 8 weeks.",
+                "description": "PFS is defined as the time from initiation of treatment to the first recorded disease progression."
+            },
+            {
+                "measure": "Incidence of Adverse Events (AEs)",
+                "time_frame": "Continuous during the study treatment and followed for 30 days post-treatment.",
+                "description": "Adverse events are assessed according to NCI CTCAE v5.0 criteria."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "10",
+        "condition": "Advanced Clear Cell Renal Carcinoma",
+        "arm_group": {
+            "arm_group_label": "Vandetanib + Atezolizumab Treatment Group",
+            "arm_group_type": "Other",
+            "description": "Patients received vandetanib orally at a dose of 300 mg daily in combination with atezolizumab administered intravenously according to standard dosing."
+        },
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Vandetanib",
+                "description": "Oral dose of 300 mg per day.",
+                "arm_group_label": "Vandetanib + Atezolizumab Treatment Group",
+                "other_name": ["ZD6474", "Zactima"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Atezolizumab",
+                "description": "Intravenous administration according to standard regimen.",
+                "arm_group_label": "Vandetanib + Atezolizumab Treatment Group",
+                "other_name": ["Tecentriq"]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n- Histologically confirmed advanced clear cell renal carcinoma with measurable disease.\n- Progression on or following at least one prior systemic therapy.\n- ECOG performance status of 0-1.\n- Adequate hematological and organ function as specified.\n- Adults aged 18 years or older.\n\nExclusion Criteria:\n- Patients with known brain metastases.\n- History of significant cardiac events within 3 months.\n- Uncontrolled intercurrent illness, including ongoing infections or active second malignancies.\n- Receipt of other investigational drugs within 30 days prior to initiation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Research Committee",
+            "role": "Study Director",
+            "affiliation": "Acme Pharmaceuticals"
+        },
+        "location": {
+            "facility": {
+                "name": "Acme Clinical Trials Facility",
+                "address": {
+                    "city": "Houston",
+                    "state": "Texas",
+                    "zip": "77001",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "The trial was initiated on February 10, 2020, with the aim to recruit 40 participants by December 2021. However, due to challenges in patient enrollment, only 10 participants were accrued by the cutoff date.",
+                "group_list": {
+                    "group": {
+                        "title": "Vandetanib + Atezolizumab Treatment Group",
+                        "description": "Patients received a combination of Vandetanib and Atezolizumab."
+                    }
+                }
+            },
+            "reported_events": {
+                "time_frame": "During the treatment period.",
+                "group_list": {
+                    "group": {
+                        "title": "Vandetanib + Atezolizumab Treatment Group",
+                        "description": "The study faced high rates of adverse events, leading to significant dropouts."
+                    },
+                    "serious_events": {
+                        "category_list": [
+                            {
+                                "title": "Serious Adverse Events",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Gastrointestinal Disorders",
+                                        "counts": "High incidence of diarrhea and nausea."
+                                    }
+                                }
+                            },
+                            {
+                                "title": "Cardiovascular Complications",
+                                "event_list": {
+                                    "event": {
+                                        "sub_title": "Hypertension",
+                                        "counts": "Notably elevated hypertension requiring medical intervention in several cases."
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "limitations_and_caveats": "The study was terminated due to insufficient patient recruitment, compounded by the observed high incidence of adverse events that discouraged participation. Moreover, the lack of substantial therapeutic response in previously treated patients limited the potential for further engagement."
+        },
+        "certain_agreements": {
+            "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+            "restrictive_agreement": "No agreement exists that restricts the Investigator's rights to publish results."
+        },
+        "point_of_contact": {
+            "name_or_title": "Clinical Trials Coordinator",
+            "organization": "Acme Pharmaceuticals",
+            "email": "contact@acmepharma.com"
+        }
+    }
+}
+```

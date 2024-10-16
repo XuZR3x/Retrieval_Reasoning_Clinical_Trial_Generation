@@ -1,0 +1,215 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04012345"
+    },
+    "id_info": {
+      "org_study_id": "Study-2020-047",
+      "nct_id": "NCT04012345"
+    },
+    "brief_title": "Pertuzumab in Combination with Chemotherapy in Patients with Advanced HER2-Positive Gastric Cancer",
+    "official_title": "A Phase II Trial Assessing the Efficacy and Safety of Pertuzumab in Combination with Chemotherapy in Patients with Advanced HER2-Positive Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aims to evaluate the efficacy and safety of pertuzumab in combination with standard chemotherapy agents in patients diagnosed with advanced HER2-positive gastric cancer."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To assess the overall response rate of patients with HER2-positive gastric cancer receiving pertuzumab in combination with chemotherapy.\n\nII. To evaluate the safety profile of the combination, focusing on the incidence of grade 3 or higher adverse events.\n\nSECONDARY OBJECTIVES:\n\nI. To determine progression-free survival (PFS) rates in this patient population.\n\nII. To evaluate overall survival (OS) and correlate biomarker expression with clinical outcomes.\n\nOUTLINE: This is a multicenter, single-arm phase II trial.\n\nPatients will receive a loading dose of pertuzumab followed by maintenance doses in combination with a regimen of chemotherapy including cisplatin and capecitabine. Treatment will continue until disease progression or unacceptable toxicity occurs."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "High incidence of intolerable toxicities and inadequate patient enrollment.",
+    "start_date": "April 2020",
+    "completion_date": "December 2021",
+    "primary_completion_date": "December 2021",
+    "phase": "Phase II",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR) measured by RECIST v1.1",
+        "time_frame": "CT imaging every 6 weeks during treatment",
+        "description": "Rates of confirmed CR and PR assessed by radiological imaging."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free Survival (PFS)",
+        "time_frame": "From treatment initiation to disease progression or death.",
+        "description": "Time to objective disease progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Up to 1 year post-treatment initiation.",
+        "description": "Duration from treatment initiation to death from any cause."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Assessed every cycle.",
+        "description": "Adverse events will be recorded according to CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": "HER2-positive Gastric Cancer",
+    "arm_group": {
+      "arm_group_label": "Pertuzumab and Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive pertuzumab in combination with cisplatin and capecitabine."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Pertuzumab",
+        "description": "840 mg IV loading dose followed by 420 mg every 3 weeks.",
+        "arm_group_label": "Pertuzumab and Chemotherapy",
+        "other_name": ["Perjeta", "2C4"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Given IV as per standard dosing schedule.",
+        "arm_group_label": "Pertuzumab and Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Capecitabine",
+        "description": "Given orally as per standard dosing schedule.",
+        "arm_group_label": "Pertuzumab and Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed HER2-positive gastric adenocarcinoma.\n- Patients must have received at least one prior line of chemotherapy.\n- Measurable disease according to RECIST v1.1.\n- Performance status ECOG 0-2.\n- Adequate hematologic, liver, and renal function.\n\nExclusion Criteria:\n\n- Prior treatment with HER2-targeted therapies.\n- History of severe hypersensitivity to pertuzumab or similar medications.\n- Uncontrolled or significant cardiovascular disease.\n- Significant comorbidity that would impair compliance."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Samantha Lee",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2022",
+    "study_first_submitted": "February 20, 2020",
+    "study_first_posted": "February 25, 2020",
+    "last_update_posted": "March 30, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor-Investigator"
+    },
+    "keyword": [
+      "HER2-positive Gastric Cancer",
+      "Pertuzumab",
+      "Chemotherapy",
+      "Treatment Efficacy",
+      "Safety Profile"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Gastric Neoplasms", "Adenocarcinoma", "Neoplasm Metastasis"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Pertuzumab", "Cisplatin", "Capecitabine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial was initiated but faced recruitment challenges, ultimately enrolling only 12 patients over a planned period of 18 months.",
+        "pre_assignment_details": "Participants received treatments according to standard protocols, with assessments scheduled as specified.",
+        "group_list": {
+          "group": {
+            "title": "Pertuzumab in Combination with Chemotherapy",
+            "description": "Patients receive a combination of pertuzumab, cisplatin, and capecitabine."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": null}
+                },
+                {
+                  "title": "TERMINATED",
+                  "participants_list": {"participants": "Due to intolerable toxicity and low recruitment."}
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Pertuzumab and Chemotherapy",
+            "description": "Study included 12 patients diagnosed with advanced HER2-positive gastric cancer."
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Full Range"
+            },
+            {
+              "title": "Gender",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {"title": "Female", "measurement_list": {"measurement": null}},
+                      {"title": "Male", "measurement_list": {"measurement": null}}
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were monitored throughout the trial period.",
+        "desc": "High rates of grade 3 diarrhea and skin toxicity were reported, predominating among enrolled participants. The study was terminated early due to the inability to mitigate these adverse effects."
+      },
+      "limitations_and_caveats": "Patient enrollment was significantly hindered by the anticipated high toxicity and limited efficacy of the combined regimen. The lack of a robust safety profile based on the collected data made it challenging to justify continuation into further phases."
+    }
+  }
+}
+```

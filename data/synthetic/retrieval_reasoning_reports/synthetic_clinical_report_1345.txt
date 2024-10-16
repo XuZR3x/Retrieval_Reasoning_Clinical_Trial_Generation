@@ -1,0 +1,217 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03457628"
+    },
+    "id_info": {
+      "org_study_id": "M21-320",
+      "nct_id": "NCT03457628"
+    },
+    "brief_title": "Adalimumab in Maintaining Remission for Patients with Ulcerative Colitis",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of Adalimumab in Maintaining Remission in Patients with Moderate to Severe Ulcerative Colitis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Abbott",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Abbott",
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of adalimumab in maintaining remission in patients diagnosed with moderate to severe ulcerative colitis. The trial emphasizes the importance of precision in selecting patients who have previously responded to TNF inhibitors and ensures robust data collection on key clinical outcome measures."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "September 2021",
+    "primary_completion_date": "May 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Participants Maintained Clinical Remission at Week 52",
+      "time_frame": "Week 52",
+      "description": "Clinical remission is defined as achieving a Mayo Score of 2 or less, with no individual sub-score exceeding 1."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Mayo Score from Baseline to Week 52",
+        "time_frame": "Baseline, Week 52",
+        "description": "The Mayo Score, which includes clinical assessment, endoscopic evaluation, and patient-reported outcomes, is the primary measure for assessing disease activity."
+      },
+      {
+        "measure": "Change in Quality of Life (QoL) Measured by the IBDQ",
+        "time_frame": "Baseline, Week 52",
+        "description": "The Inflammatory Bowel Disease Questionnaire (IBDQ) assesses QoL in patients with inflammatory bowel diseases."
+      }
+    ],
+    "enrollment": "450",
+    "condition": "Ulcerative Colitis",
+    "intervention": {
+      "intervention_type": "Biological",
+      "intervention_name": "Adalimumab",
+      "description": "Patients received subcutaneous adalimumab at a dose of 160 mg at Week 0, followed by 80 mg at Week 2 and then 40 mg every other week thereafter.",
+      "other_name": "Humira"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Males and females aged 18-75 years diagnosed with moderate to severe ulcerative colitis.\n\n  -  Participants must have previously lost response to or were intolerant to TNF inhibitors.\n\n  -  Participants must demonstrate an active disease state indicated by a Mayo Score of 6-12 at screening.\n\nExclusion Criteria:\n\n  -  History of certain forms of malignancy or serious infections.\n\n  -  Pregnant or breastfeeding women.\n\n  -  Any significant comorbid condition that may interfere with study assessments."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Study Director",
+      "affiliation": "Abbott"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital",
+          "address": {
+            "city": "Springfield",
+            "state": "Illinois",
+            "zip": "62701",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Regional Medical Center",
+          "address": {
+            "city": "Jacksonville",
+            "state": "Florida",
+            "zip": "32201",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Canada", "United Kingdom"]
+    },
+    "verification_date": "September 2021",
+    "study_first_submitted": "December 15, 2017",
+    "study_first_posted": "January 5, 2018",
+    "last_update_posted": "October 1, 2021",
+    "condition_browse": {
+      "mesh_term": "Ulcerative Colitis"
+    },
+    "intervention_browse": {
+      "mesh_term": "Adalimumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": [
+          {
+            "title": "Adalimumab Group",
+            "description": "Participants received adalimumab therapy."
+          },
+          {
+            "title": "Placebo Group",
+            "description": "Participants received placebo therapy."
+          }
+        ],
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "450"
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "420"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "All randomized participants who received at least one dose of study treatment.",
+        "group_list": {
+          "group": {
+            "title": "Adalimumab and Placebo Groups"
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Racial Demographics",
+              "units": "Participants",
+              "param": "Count"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Clinical Remission Rate",
+            "description": "Percentage of participants who achieved clinical remission based on the Mayo score.",
+            "time_frame": "Week 52",
+            "measure": {
+              "title": "Clinical Remission Rate",
+              "units": "Percentage",
+              "param": "Count of Participants"
+            },
+            "analysis_list": {
+              "analysis": {
+                "method": "Chi-squared",
+                "p_value": "<0.01"
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Quality of Life Improvement",
+            "description": "Measured by changes in the IBDQ score from baseline to Week 52.",
+            "time_frame": "Week 52",
+            "measure": {
+              "title": "Change in IBDQ Score",
+              "units": "Points",
+              "param": "Mean Change"
+            },
+            "analysis_list": {
+              "analysis": {
+                "method": "T-test",
+                "p_value": "<0.05"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

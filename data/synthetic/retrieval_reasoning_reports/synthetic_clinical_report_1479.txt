@@ -1,0 +1,143 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02801542"
+    },
+    "id_info": {
+      "org_study_id": "H-50982",
+      "nct_id": "NCT02801542"
+    },
+    "brief_title": "Efficacy of Dapagliflozin in Reducing Glycemic Variability and Cardiovascular Mortality in Elderly Patients with Type 2 Diabetes",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Multicenter Study Evaluating the Efficacy and Safety of Dapagliflozin in Elderly Patients with Type 2 Diabetes at High Risk for Cardiovascular Events",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Association for Diabetes Research",
+        "agency_class": "Non-Profit"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy of dapagliflozin combined with standard therapy in reducing glycemic variability and cardiovascular mortality among elderly patients with Type 2 diabetes. Unfortunately, substantial challenges including high dropout rates and insufficient sample size hindered the ability to reach statistically significant conclusions."
+    },
+    "detailed_description": {
+      "textblock": "Background: Type 2 diabetes mellitus (T2DM) is associated with increased cardiovascular risk, particularly among elderly populations. Dapagliflozin, an SGLT-2 inhibitor, has purported benefits in glycemic control and potential cardiovascular protection. However, previous studies indicated limitations in participant enrollment and retention, emphasizing the need for extensive evidence in geriatric populations.\n\nObjectives: This trial sought to clarify the impact of dapagliflozin on glycemic variability, cardiovascular endpoints, and quality of life metrics over a 12-month treatment duration.\n\nDesign: A multicenter, randomized, double-blind, placebo-controlled trial involving participants aged 65 years and older diagnosed with T2DM and at high cardiovascular risk. Participants were randomly assigned to receive either dapagliflozin 10 mg daily or placebo, supplemented with their usual diabetic and cardiovascular medications.\n\nIntervention: The dapagliflozin cohort was treated with a regimen of 10 mg once daily, while the control group received matching placebo, assessed bi-monthly for cardiovascular events, glycemic metrics, quality of life assessments, and potential adverse effects.\n\nPrimary Outcomes: The primary outcomes included change in glycemic variability measured through continuous glucose monitoring (CGM) and incidence of cardiovascular events, defined as composite major adverse cardiovascular events (MACE).\n\nSecondary Outcomes: Included quality of life assessment utilizing standard questionnaires, renal function indices, and adverse event profiling. \n\nResults: Enrollment was limited to 34 subjects due to stringent eligibility criteria, resulting in insufficient power for statistical analysis. High dropout rates (42%) were primarily attributed to perceived treatment ineffectiveness and adverse events related to gastrointestinal side effects, adversely impacting the reliability of the data collected. Follow-up adherence proved challenging, as frequent laboratory assessments coupled with uncompromised medication regimens posed entry barriers for elderly patients. Ultimately, no significant differences were observed in the primary or secondary outcome measures between treatment and placebo groups."
+    },
+    "overall_status": "Terminated",
+    "completion_date": "December 2019",
+    "start_date": "February 2016",
+    "primary_completion_date": "November 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": [{
+      "measure": "Change in glycemic variability",
+      "time_frame": "12 months",
+      "description": "Percentage change in glycemic variability measured by continuous glucose monitoring."
+    }, {
+      "measure": "Composite cardiovascular events (MACE)",
+      "time_frame": "12 months",
+      "description": "Incidences of heart attack, stroke, or cardiovascular death during the trial period."
+    }],
+    "secondary_outcome": [{
+      "measure": "Quality of life assessment",
+      "time_frame": "12 months",
+      "description": "Quality of life will be assessed using the EQ-5D-5L questionnaire."
+    }, {
+      "measure": "Renal function change",
+      "time_frame": "12 months",
+      "description": "Change in estimated Glomerular Filtration Rate (eGFR) evaluated via serum creatinine levels."
+    }, {
+      "measure": "Adverse event incidence",
+      "time_frame": "12 months",
+      "description": "Documentation of any bothersome side effects experienced by participants."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "34",
+    "condition": "Type 2 Diabetes Mellitus, Cardiovascular Disease",
+    "arm_group": [{
+      "arm_group_label": "Dapagliflozin Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Dapagliflozin 10mg once daily, combined with standard therapies."
+    }, {
+      "arm_group_label": "Placebo Group",
+      "arm_group_type": "Placebo Comparator",
+      "description": "Matching placebo administered once daily in conjunction with standard therapies."
+    }],
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Dapagliflozin",
+      "description": "Administered at a dose of 10 mg once daily.",
+      "arm_group_label": "Dapagliflozin Treatment Group",
+      "other_name": "Forxiga"
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Placebo",
+      "description": "Matching placebo capsules administered once daily.",
+      "arm_group_label": "Placebo Group"
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Informed consent obtained.\n- Diagnosed with Type 2 diabetes mellitus.\n- Aged 65 years or older.\n- Documented cardiovascular disease or at high cardiovascular risk.\n\nExclusion Criteria:\n- Prior history of severe adverse reactions to SGLT-2 inhibitors.\n- Current treatment with other SGLT-2 inhibitors.\n- Uncontrolled hypertension or other contraindicated conditions."
+      },
+      "gender": "All",
+      "minimum_age": "65 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smithson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Health"
+    },
+    "location": {
+      "facility": {
+        "name": "National Institute of Health Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2020",
+    "study_first_submitted": "January 15, 2016",
+    "study_first_posted": "February 1, 2016",
+    "results_first_submitted": "March 30, 2020",
+    "results_first_posted": "April 1, 2020",
+    "last_update_posted": "April 15, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Institute of Health",
+      "investigator_full_name": "John Smithson",
+      "investigator_title": "Senior Researcher"
+    },
+    "keyword": ["Dapagliflozin", "Type 2 diabetes", "Elderly", "Cardiovascular"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus, Type 2", "Heart Failure"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Dapagliflozin"]
+    }
+  }
+}
+```

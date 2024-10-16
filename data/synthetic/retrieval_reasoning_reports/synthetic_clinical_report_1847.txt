@@ -1,0 +1,120 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02987456"
+    },
+    "id_info": {
+      "org_study_id": "ETOP2017-01",
+      "nct_id": "NCT02987456"
+    },
+    "brief_title": "Etoposide and Carboplatin Versus Best Supportive Care in Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Trial of Etoposide in Combination With Carboplatin Compared to Best Supportive Care in Patients With Advanced Non-Small Cell Lung Cancer and Poor Performance Status",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Center, Italy",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Decima Oncologia",
+        "agency_class": "Other"
+      }
+    },
+    "source": "National Cancer Center, Italy",
+    "brief_summary": {
+      "textblock": "This open-label, phase II trial aimed to evaluate the efficacy and safety of etoposide in combination with carboplatin in patients with advanced non-small cell lung cancer (NSCLC) presenting with poor performance status. Given the significant comorbidities prevalent in this population, an optimal therapeutic approach remains elusive with previous trials indicating limited effectiveness."
+    },
+    "detailed_description": {
+      "textblock": "Upon ensuring eligibility, patients were assigned to receive either:\n\n - Etoposide 100 mg/m2 IV on days 1-3 per 21-day cycle combined with Carboplatin AUC 5 on day 1.\n\nPatients randomized to the control group received best supportive care without chemotherapy. Primary outcomes centered on overall survival (OS) and progression-free survival (PFS), while secondary measures included safety assessments and quality of life evaluations."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study was terminated due to insufficient therapeutic activity and elevated toxicity",
+    "start_date": "November 2016",
+    "completion_date": "March 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS), measured as the duration from treatment initiation until death from any cause",
+      "time_frame": "12 months",
+      "description": "Overall survival rates were evaluated at 12 months post-treatment initiation."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS), defined as the period from treatment initiation until documented disease progression",
+        "time_frame": "12 months",
+        "description": "Progression-free survival rates were monitored over 12 months."
+      },
+      {
+        "measure": "Adverse Events, categorized by frequency and severity based upon the CTCAE criteria",
+        "time_frame": "Throughout treatment duration",
+        "description": "Adverse events were systematically recorded and classified."
+      }
+    ],
+    "enrollment": "42",
+    "condition": "Non-Small Cell Lung Cancer",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etoposide",
+        "description": "100 mg/m2 IV administered on days 1-3 in each cycle",
+        "arm_group_label": "Etoposide + Carboplatin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "AUC 5 IV administered on day 1 in each cycle",
+        "arm_group_label": "Etoposide + Carboplatin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n - Histologically confirmed advanced NSCLC with no curative treatment options available.\n - Performance status of 2-4 on the Eastern Cooperative Oncology Group (ECOG) scale.\n - Measurable disease as per RECIST criteria.\n - Life expectancy of at least 12 weeks.\n - Adequate organ function.\n\n Exclusion Criteria:\n\n - Prior chemotherapy for recurrent disease.\n - Uncontrolled comorbid diseases or significant cardiac dysfunction.\n - Pregnant or lactating women.\n - Concurrent malignancies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Francesca Bianchi, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Center, Italy"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Center Hospital",
+        "address": {
+          "city": "Milan",
+          "state": "Lombardy",
+          "zip": "20100",
+          "country": "Italy"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Italy"
+    },
+    "verification_date": "April 2020",
+    "study_first_submitted": "October 5, 2016",
+    "study_first_submitted_qc": "October 5, 2016",
+    "study_first_posted": "October 15, 2016",
+    "last_update_submitted": "April 2, 2020",
+    "last_update_posted": "April 10, 2020",
+    "keyword": ["Etoposide", "Carboplatin", "Non-Small Cell Lung Cancer", "Performance Status"],
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Etoposide", "Carboplatin"]
+    }
+  }
+}
+```

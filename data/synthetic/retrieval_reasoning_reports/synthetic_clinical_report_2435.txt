@@ -1,0 +1,131 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456098"
+    },
+    "id_info": {
+      "org_study_id": "EZE-HCV-01",
+      "nct_id": "NCT03456098"
+    },
+    "brief_title": "Efficacy of Ezetimibe in Patients with Chronic Hepatitis C Undergoing Standard Antiviral Therapy",
+    "acronym": "EZE-HCV",
+    "official_title": "Efficacy of Ezetimibe in Reducing HCV Viral Load among Patients Treated with Direct Antiviral Agents: A Randomized, Controlled Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "National Institute of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy of adding ezetimibe to standard direct antiviral agent therapy in patients with chronic hepatitis C. The hypothesis suggested that ezetimibe may further reduce HCV viral load through modulation of hepatic lipid metabolism, given its mechanism of action. The main outcome was a comparison of HCV RNA levels post-treatment between those receiving combined therapy and those receiving the standard treatment alone."
+    },
+    "detailed_description": {
+      "textblock": "Chronic hepatitis C infection remains a global health challenge despite advancements in antiviral therapy. Recent in vitro studies indicate that the Niemann-Pick C1-like 1 (NPC1L1) receptor, targeted by ezetimibe, may influence the HCV lifecycle. This clinical trial aimed to recruit 150 participants with chronic hepatitis C scheduled to commence therapy with direct antiviral agents. Participants were randomized to receive either standard antiviral therapy or the combination of antiviral therapy with ezetimibe for a duration of 12 weeks. The primary endpoint was the mean change in HCV RNA levels from baseline to the end of treatment. Secondary endpoints included the occurrence of adverse effects and any changes in lipid profile. However, recruitment was hampered by limited interest from potential participants already accessing established direct antiviral therapies, resulting in the study being terminated prematurely."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Poor recruitment and high availability of competing therapeutic options",
+    "start_date": "March 2018",
+    "completion_date": "July 2020",
+    "primary_completion_date": "April 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in HCV RNA levels from baseline to treatment completion at week 12",
+      "time_frame": "12 weeks of treatment"
+    },
+    "secondary_outcome": {
+      "measure": "Incidence of adverse events",
+      "time_frame": "During the treatment period"
+    },
+    "number_of_arms": "2",
+    "enrollment": "48",
+    "condition": "Chronic Hepatitis C",
+    "arm_group": [
+      {
+        "arm_group_label": "Standard Antiviral Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive standard direct antiviral agents for chronic hepatitis C."
+      },
+      {
+        "arm_group_label": "Ezetimibe + Antiviral Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive a combination of ezetimibe 10 mg/day with standard direct antiviral agents."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ezetimibe",
+        "description": "Ezetimibe 10 mg/day for 12 weeks in combination with antiviral agents.",
+        "arm_group_label": "Ezetimibe + Antiviral Therapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Direct Antiviral Agents",
+        "description": "Standard therapy regimen as prescribed based on current guidelines.",
+        "arm_group_label": "Standard Antiviral Therapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Confirmed diagnosis of chronic hepatitis C infection\n  - Naïve to direct antiviral therapy\n  - Aged 18 years or older\n  - Signed informed consent form\n\nExclusion Criteria:\n  - Coinfection with hepatitis B or HIV\n  - History of liver transplantation\n  - Current use of other lipid-lowering therapies\n  - Significant hepatic decompensation or other serious comorbidities"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Clara Martinez",
+      "role": "Principal Investigator",
+      "affiliation": "National Institute of Health"
+    },
+    "location": {
+      "facility": {
+        "name": "Liver Disease Research Center",
+        "address": {
+          "city": "Washington",
+          "state": "DC",
+          "zip": "20500",
+          "country": "USA"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2020",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_submitted_qc": "January 20, 2018",
+    "study_first_posted": "February 1, 2018",
+    "last_update_submitted": "May 5, 2020",
+    "last_update_submitted_qc": "May 5, 2020",
+    "last_update_posted": "May 10, 2020",
+    "responsible_party": {
+      "name_title": "Principal Investigator",
+      "organization": "National Institute of Health",
+      "name": "Dr. Clara Martinez"
+    },
+    "condition_browse": {
+      "mesh_term": "Hepatitis C"
+    },
+    "intervention_browse": {
+      "mesh_term": "Ezetimibe"
+    }
+  }
+}
+```

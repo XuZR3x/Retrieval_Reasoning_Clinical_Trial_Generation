@@ -1,0 +1,301 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 5, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "DC-301",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Dasatinib in Combination With Nivolumab for Patients With Advanced HER2-Positive Gastric Cancer",
+    "official_title": "Phase I/II Clinical Trial Evaluating the Safety and Efficacy of Dasatinib in Combination With Nivolumab in Patients With Advanced HER2-Positive Gastric Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Food and Drug Administration (FDA)",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "FDA and AstraZeneca",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the safety and efficacy of dasatinib in conjunction with nivolumab in patients with advanced HER2-positive gastric cancer. Initial findings suggest favorable pharmacokinetic interactions and enhanced response rates."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n1. To determine the maximum tolerated dose (MTD) and recommended Phase II dose (RP2D) of dasatinib when combined with nivolumab in untreatable HER2-positive gastric cancer.\r\n2. To evaluate objective response rates (ORR) based on RECIST criteria at 12 weeks post-treatment initiation.\r\n\r\nSECONDARY OBJECTIVES:\r\n1. To assess the safety profile and incidence of dose-limiting toxicities (DLTs) related to the combination therapy.\r\n2. To explore the pharmacodynamics of dasatinib and nivolumab regarding their effect on BCR-ABL transcript levels over the treatment duration.\r\n3. To analyze progression-free survival (PFS) and overall survival (OS) rates over the study period.\r\n\r\nSTUDY DESIGN:\r\nThis is a multi-center, open-label, phase I/II trial involving a dose-escalation cohort followed by a treatment expansion phase. Patients will be stratified based on prior treatment regimens and molecular characteristics. Treatment will be administered in 28-day cycles until disease progression or unacceptable toxicity occurs."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "December 2023",
+    "primary_completion_date": "September 2023",
+    "phase": "Phase I/Phase II",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Molecular Response Rate at 12 Weeks",
+        "time_frame": "Baseline and 12 weeks post-initiation of treatment",
+        "description": "Assessment of BCR-ABL transcript levels after 12 weeks of therapy to evaluate the molecular response to treatment."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Dose Limiting Toxicity Incidence",
+        "time_frame": "During each treatment cycle, up to 12 months",
+        "description": "Monitoring and recording all DLTs as defined by the NCI CTCAE criteria."
+      },
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Through study treatment, an average of 24 months",
+        "description": "Determined by the percent of patients achieving a Complete Response (CR) or Partial Response (PR) according to RECIST 1.1."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Every 3 months for the first year, then every 6 months thereafter",
+        "description": "Defined as the duration from treatment initiation to disease progression or death."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "During the study and up to 5 years post-treatment",
+        "description": "Measured from the date of treatment administration to the date of death from any cause."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Advanced HER2-Positive Gastric Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Dasatinib and Nivolumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive dasatinib orally once daily in escalating doses in conjunction with nivolumab IV every 2 weeks."
+      },
+      {
+        "arm_group_label": "Control Arm (Nivolumab only)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive nivolumab IV every 2 weeks without dasatinib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dasatinib",
+        "description": "Administered orally, starting at 100 mg to a maximum of 140 mg daily across treatment cycles.",
+        "arm_group_label": "Dasatinib and Nivolumab",
+        "other_name": ["Sprycel"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab",
+        "description": "Administered intravenously, given at a fixed dose of 3 mg/kg every 14 days.",
+        "arm_group_label": ["Dasatinib and Nivolumab", "Control Arm (Nivolumab only)"],
+        "other_name": ["Opdivo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Patients aged 18 years or older with confirmed HER2-positive gastric cancer.\r\n2. Documented evidence of metastatic disease.\r\n3. Performance status of 0-2 on the ECOG scale.\r\n4. Adequate organ function (normal liver and renal function).\r\n5. Ability to provide informed consent.\r\n\r\nExclusion Criteria:\r\n1. Concurrent treatment with other anticancer therapy.\r\n2. History of severe hypersensitivity reactions to any of the study drugs.\r\n3. Active autoimmune disease requiring systemic treatment.\r\n4. Brain metastases or leptomeningeal disease.\r\n5. Female patients who are pregnant or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Study Director",
+      "affiliation": "University Health Network"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Comprehensive Cancer Care Center",
+          "address": {
+            "city": "Dallas",
+            "state": "Texas",
+            "zip": "75201",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Texas Oncology - Fort Worth",
+          "address": {
+            "city": "Fort Worth",
+            "state": "Texas",
+            "zip": "76109",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "December 10, 2020",
+    "study_first_submitted_qc": "December 12, 2020",
+    "study_first_posted": "December 15, 2020",
+    "results_first_submitted": "August 1, 2024",
+    "results_first_submitted_qc": "August 1, 2024",
+    "results_first_posted": "September 15, 2024",
+    "last_update_submitted": "October 3, 2024",
+    "last_update_submitted_qc": "October 3, 2024",
+    "last_update_posted": "October 5, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Advanced Gastric Cancer", "HER2 Positive", "Dasatinib", "Nivolumab", "Combination Therapy"],
+    "condition_browse": {
+      "mesh_term": "Gastric Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Dasatinib", "Nivolumab", "Paclitaxel"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 150 patients were screened, with 120 patients eligible and treated in the trial.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Dasatinib and Nivolumab",
+              "description": "Patients receiving dasatinib and nivolumab in the experimental arm."
+            },
+            {
+              "title": "Control Arm (Nivolumab only)",
+              "description": "Patients only receiving nivolumab."
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Assesed monthly during treatment and at follow-up every 3 months.",
+        "desc": "Adverse events were collected continuously throughout the study period.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Dasatinib and Nivolumab",
+              "description": "Adverse events for patients in the experimental arm."
+            },
+            {
+              "title": "Control Arm (Nivolumab only)",
+              "description": "Adverse events for patients in the control arm."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "default_vocab": "NCI CTCAE v 5.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Cardiac events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Cardiac failure",
+                    "counts": [0, 1, 1]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Gastrointestinal events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Diarrhea",
+                    "counts": [2, 2, 1]
+                  },
+                  {
+                    "sub_title": "Vomiting",
+                    "counts": [2, 1, 1]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Infection events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Febrile neutropenia",
+                    "counts": [1, 2, 1]
+                  },
+                  {
+                    "sub_title": "Pneumonia",
+                    "counts": [0, 1, 1]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "NCI CTCAE v 5.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total Other Adverse Events",
+                  "counts": [3, 5, 2]
+                }
+              }
+            },
+            {
+              "title": "Metabolism and nutritional disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Hypokalemia",
+                    "counts": [1, 0, 0]
+                  },
+                  {
+                    "sub_title": "Hypomagnesemia",
+                    "counts": [0, 1, 0]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Skin and subcutaneous tissue disorders",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Rash",
+                    "counts": [1, 2, 1]
+                  },
+                  {
+                    "sub_title": "Itching",
+                    "counts": [1, 1, 0]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

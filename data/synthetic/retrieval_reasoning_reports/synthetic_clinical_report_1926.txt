@@ -1,0 +1,252 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02098765"
+    },
+    "id_info": {
+      "org_study_id": "15762",
+      "nct_id": "NCT02098765"
+    },
+    "brief_title": "Multicenter, Open-Label Study Evaluating the Efficacy of Duloxetine in Patients With Major Depressive Disorder and Comorbid Psychiatric Disorders",
+    "official_title": "Multicenter, Open-Label Study Evaluating the Efficacy of Duloxetine in Patients With Major Depressive Disorder and Comorbid Psychiatric Disorders",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Solutions Inc.",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Solutions Inc.",
+    "brief_summary": {
+      "textblock": "The study was designed to evaluate the efficacy and safety of duloxetine in adult patients diagnosed with major depressive disorder (MDD) along with concomitant anxiety disorders or substance use disorders. The main objectives were to assess duloxetine's effect on depressive symptoms as measured by standard scales and to explore the tolerability profile in this specific patient population."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient enrollment and recruitment challenges due to narrow inclusion criteria.",
+    "start_date": "March 2014",
+    "completion_date": "June 2016",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "condition": "Major Depressive Disorder with Comorbid Disorders",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "duloxetine",
+      "description": "Duloxetine was administered orally at a starting dose of 60 mg daily, titrated to a maximum of 120 mg daily based on clinical response and tolerability."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18-65 years with a diagnosis of major depressive disorder as per DSM-5 criteria.\n- Participants must have at least one comorbid anxiety disorder or substance use disorder.\n- Participants must provide informed consent.\n\nExclusion Criteria:\n- History of severe psychiatric disorders other than depression (e.g., schizophrenia, bipolar disorder).\n- Current or recent engagement in substance abuse treatment.\n- Non-adherence to prior antidepressant therapies.\n- Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [{
+      "facility": {
+        "address": {
+          "city": "Phoenix",
+          "state": "Arizona",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "address": {
+          "city": "Tampa",
+          "state": "Florida",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "address": {
+          "city": "Seattle",
+          "state": "Washington",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "February 10, 2014",
+    "study_first_posted": "February 12, 2014",
+    "last_update_posted": "July 25, 2022",
+    "keyword": ["duloxetine", "major depressive disorder", "anxiety disorders", "substance use disorders"],
+    "condition_browse": {
+      "mesh_term": ["Depressive Disorder, Major", "Anxiety Disorders"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Duloxetine Hydrochloride"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Duloxetine",
+            "description": "Participants received duloxetine 60 mg daily with a possible titration up to 120 mg."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": 25
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": 5
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": 20
+                }
+              }]
+            }
+          }
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [{
+            "title": "Insufficient Enrollment",
+            "participants_list": {
+              "participants": 12
+            }
+          }, {
+            "title": "Lack of Participant Interest",
+            "participants_list": {
+              "participants": 8
+            }
+          }]
+        }
+      },
+      "baseline": {
+        "population": "Patients diagnosed with major depressive disorder and comorbid psychiatric disorders.",
+        "group_list": {
+          "group": {
+            "title": "Duloxetine",
+            "description": "Initial dose of 60 mg oral duloxetine daily, titrated as appropriate."
+          }
+        },
+        "measurement_list": {
+          "measure": [{
+            "title": "Age",
+            "units": "participants",
+            "param": "Count of Participants",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": [{
+                    "title": "<=18 years",
+                    "measurement_list": {
+                      "measurement": null
+                    }
+                  }, {
+                    "title": "Between 18 and 65 years",
+                    "measurement_list": {
+                      "measurement": 22
+                    }
+                  }, {
+                    "title": ">=65 years",
+                    "measurement_list": {
+                      "measurement": null
+                    }
+                  }]
+                }
+              }
+            }
+          }]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Change from Baseline in Hamilton Depression Rating Scale (HAMD) Score",
+          "description": "Utilized to assess baseline depressive symptoms severity.",
+          "time_frame": "Baseline, Week 12",
+          "population": "All participants who completed the study.",
+          "group_list": {
+            "group": {
+              "title": "Duloxetine",
+              "description": "Receive duloxetine for a total period of up to 12 weeks."
+            }
+          },
+          "measure": {
+            "title": "Change in HAMD Score",
+            "description": "Measured change from baseline to week 12 in the HAMD total score.",
+            "units": "points",
+            "param": "Mean",
+            "dispersion": "Standard Deviation",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": 5
+                }
+              }
+            }
+          }
+        }],
+        "reported_events": {
+          "group_list": {
+            "group": {
+              "title": "Duloxetine",
+              "description": "Duloxetine: 60 to 120 mg daily, taken orally."
+            },
+            "serious_events": {
+              "category_list": {
+                "category": [{
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": null
+                    }
+                  }
+                }]
+              }
+            },
+            "other_events": {
+              "frequency_threshold": "5",
+              "category_list": {
+                "category": {
+                  "title": "Total, adverse events",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, other adverse events",
+                      "counts": null
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "Principal Investigators must agree to control the release of certain study-related communications."
+        },
+        "limitations_and_caveats": "The study faced significant challenges related to recruitment of patients, with inadequate interest among eligible participants hindering its implementation. The restricted population criteria limited generalizability and may not reflect the average clinical scenarios encountered in managing major depression alongside anxiety or substance use disorders."
+      }
+    }
+  }
+}
+```

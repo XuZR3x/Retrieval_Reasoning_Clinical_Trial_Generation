@@ -1,0 +1,208 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04598543"
+    },
+    "id_info": {
+      "org_study_id": "SLAM-PMF",
+      "nct_id": "NCT04598543"
+    },
+    "brief_title": "A Study of Peginterferon Alfa-2a in Patients With Early Primary Myelofibrosis",
+    "official_title": "A Phase II Randomized Study Evaluating Peginterferon Alfa-2a in Patients With Early Primary Myelofibrosis: Efficacy and Safety Profile",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Yale School of Medicine",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pharmaceutical Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Yale School of Medicine",
+    "brief_summary": {
+      "textblock": "This randomized controlled trial aimed to evaluate the efficacy and safety of peginterferon alfa-2a in patients with early primary myelofibrosis. The study's primary objective was to assess clinical improvement compared to a control group receiving best supportive care."
+    },
+    "detailed_description": {
+      "textblock": "Participants were randomized into either the treatment arm receiving peginterferon alfa-2a at a dose of 50 mcg subcutaneously once a week or the control arm receiving supportive care only. The trial sought to monitor changes in hemoglobin levels, spleen size, and overall clinical status over a period of 72 weeks. However, the trial faced significant challenges relating to subject enrollment and adverse event profile, leading to disappointing results."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient subject enrollment and adverse event profile leading to high discontinuation rates among participants.",
+    "start_date": "February 2021",
+    "completion_date": "June 2023",
+    "primary_completion_date": "June 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Clinical Improvement Rates",
+      "time_frame": "Week 72",
+      "description": "Clinical improvement was defined as a significant increase in hemoglobin levels (≥20 g/L from baseline) and/or a ≥50% reduction in palpable splenomegaly."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "Week 72",
+        "description": "Progression-Free Survival was defined as the time from enrollment to the first occurrence of disease progression or death."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study duration",
+        "description": "Evaluation of adverse events including but not limited to hematological toxicities, particularly anemia and neutropenia."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": "Primary Myelofibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Peginterferon Alfa-2a Arm",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive peginterferon alfa-2a at a dose of 50 mcg subcutaneously once weekly."
+      },
+      {
+        "arm_group_label": "Best Supportive Care Arm",
+        "arm_group_type": "Control",
+        "description": "Participants will receive standard supportive care without administration of peginterferon alfa-2a."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Peginterferon alfa-2a",
+      "description": "50 mcg subcutaneously once a week for 72 weeks",
+      "arm_group_label": "Peginterferon Alfa-2a Arm"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n - Adults aged 18-75 years with a confirmed diagnosis of primary myelofibrosis\r\n - Intermediate-1 risk as per the Dynamic International Prognostic Scoring System (DIPSS)\r\n - No prior therapy for primary myelofibrosis.\r\n\r\nExclusion Criteria:\r\n\r\n - Known hypersensitivity to peginterferon alfa-2a or any of its components\r\n - Persistent flares of hepatitis or actively poorly controlled diabetes mellitus\r\n - Severe comorbidity that would interfere with participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Alice Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "Yale School of Medicine"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Yale Cancer Center",
+          "address": {
+            "city": "New Haven",
+            "state": "Connecticut",
+            "zip": "06510",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "verification_date": "July 2023",
+    "study_first_submitted": "January 15, 2021",
+    "study_first_submitted_qc": "January 15, 2021",
+    "study_first_posted": "February 1, 2021",
+    "results_first_submitted": "July 1, 2023",
+    "results_first_submitted_qc": "July 1, 2023",
+    "results_first_posted": "July 15, 2023",
+    "last_update_submitted": "August 15, 2023",
+    "last_update_submitted_qc": "August 15, 2023",
+    "last_update_posted": "August 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Myelofibrosis", "Liver Diseases"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Peginterferon alfa-2a"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "30 participants were enrolled and randomized into either the peginterferon alfa-2a treatment arm or the supportive care arm. Recruitment challenges significantly hampered the study's power.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Peginterferon Alfa-2a Arm"
+            },
+            {
+              "title": "Best Supportive Care Arm"
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [30, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [13, 10]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [17, 20]  // Significant dropout due to adverse effects
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "All participants at the start of the study.",
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Clinical Improvement Rates",
+            "description": "No statistically significant clinical improvement was observed in the peginterferon alfa-2a arm compared to the supportive care arm.",
+            "time_frame": "Week 72"
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Adverse Events",
+            "description": "A high incidence of adverse events, particularly hematological toxicities including anemia and neutropenia, led to discontinuation of treatment in over half of the enrolled subjects.",
+            "time_frame": "Throughout the study duration"
+          }
+        ]
+      }
+    }
+  }
+}
+```

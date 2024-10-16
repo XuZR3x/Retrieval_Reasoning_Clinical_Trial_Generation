@@ -1,0 +1,284 @@
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03825823"
+    },
+    "id_info": {
+      "org_study_id": "IBRULIMB-01",
+      "nct_id": "NCT03825823"
+    },
+    "brief_title": "Phase 2 Study of Ibrutinib in Combination with Nivolumab and Durvalumab in Relapsed/Refractory Hematologic Malignancies",
+    "official_title": "A Phase 2 Study to Assess the Safety, Efficacy, and Pharmacokinetics of Ibrutinib Combined with Nivolumab and Durvalumab in Patients with Relapsed or Refractory CLL, DLBCL, and FL",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Janssen Research & Development, LLC",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Janssen Research & Development, LLC",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the combination of ibrutinib with nivolumab and durvalumab to enhance the immune response in patients with relapsed or refractory hematologic cancers, aiming to achieve improved efficacy through dual immune checkpoint inhibition and BTK blockade."
+    },
+    "detailed_description": {
+      "textblock": "The trial includes participants with chronic lymphocytic leukemia (CLL), diffuse large B-cell lymphoma (DLBCL), and follicular lymphoma (FL) who have failed prior treatment regimens. The study design incorporates a flexible dosing schedule with ibrutinib administered at 420 mg and 560 mg daily, alongside nivolumab and durvalumab at 3 mg/kg every two weeks in a 14-day treatment cycle. Efficacy is measured through various endpoints, including overall response rate (ORR) and progression-free survival (PFS), with comprehensive safety assessments to monitor treatment-emergent adverse events."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 10, 2020",
+    "completion_date": "August 15, 2023",
+    "primary_completion_date": "June 15, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR) Based on IWCLL and Cheson Criteria",
+        "time_frame": "Up to 6 years",
+        "description": "ORR defined as the proportion of participants achieving complete response (CR), CR with incomplete recovery (CRi), or partial response (PR) at the endpoint evaluation."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 6 years",
+        "description": "Duration from the start of treatment until documented progression of disease or death, whichever occurs first."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Safety Profile: Number of Participants with Treatment-Emergent Adverse Events (TEAEs)",
+        "time_frame": "Up to 6 years",
+        "description": "Evaluation of the safety and tolerability of the combination therapy based on the incidence of adverse events related to treatment."
+      },
+      {
+        "measure": "Pharmacokinetic Analysis of Ibrutinib",
+        "time_frame": "Cycle 1 Day 15",
+        "description": "Assessment of ibrutinib Cmax and AUC to determine drug exposure levels over the treatment period."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "200",
+    "condition": [
+      "Chronic Lymphocytic Leukemia",
+      "Follicular Lymphoma",
+      "Diffuse Large B-Cell Lymphoma"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Cohort A: Ibrutinib 420 mg + Nivolumab + Durvalumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive ibrutinib 420 mg orally once daily in combination with nivolumab and durvalumab, administered as intravenous infusions."
+      },
+      {
+        "arm_group_label": "Cohort B: Ibrutinib 560 mg + Nivolumab + Durvalumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive ibrutinib 560 mg orally once daily in tandem with nivolumab and durvalumab."
+      },
+      {
+        "arm_group_label": "Cohort C: Control",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive standard of care treatment with a BTK inhibitor."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ibrutinib",
+        "description": "Ibrutinib is a selective inhibitor of Bruton's tyrosine kinase (BTK) and is administered orally.",
+        "arm_group_label": ["Cohort A", "Cohort B"],
+        "other_name": "Imbruvica"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nivolumab",
+        "description": "Nivolumab is a monoclonal antibody targeting PD-1, administered intravenously.",
+        "arm_group_label": ["Cohort A", "Cohort B"],
+        "other_name": "Opdivo"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Durvalumab",
+        "description": "Durvalumab is a monoclonal antibody targeting PD-L1, administered intravenously.",
+        "arm_group_label": ["Cohort A", "Cohort B"],
+        "other_name": "Imfinzi"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adults aged 18 or older with pathologically confirmed CLL, DLBCL or FL.\r\n2. Participants must have received at least one prior line of therapy.\r\n3. Measurable disease per IWCLL or Cheson guidelines.\r\n\r\nExclusion Criteria:\r\n1. Previous treatment with a BTK inhibitor or PD-1/PD-L1 inhibitors.\r\n2. Conditions affecting the ability to provide informed consent.\r\n3. Significant cardiovascular disease or major organ failure."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James T. Henson",
+      "role": "Study Director",
+      "affiliation": "Janssen Research & Development, LLC"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Peter MacCallum Cancer Centre",
+          "address": {
+            "city": "Melbourne",
+            "state": "Victoria",
+            "zip": "3000",
+            "country": "Australia"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "January 5, 2020",
+    "study_first_submitted_qc": "February 3, 2020",
+    "study_first_posted": "March 1, 2020",
+    "results_first_submitted": "June 1, 2023",
+    "results_first_submitted_qc": "July 5, 2023",
+    "results_first_posted": "July 15, 2023",
+    "last_update_submitted": "August 10, 2023",
+    "last_update_submitted_qc": "August 10, 2023",
+    "last_update_posted": "August 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Ibrutinib",
+      "Nivolumab",
+      "Durvalumab",
+      "CHRONIC LYMPHOCYTIC LEUKEMIA",
+      "DIFFUSE LARGE B-CELL LYMPHOMA",
+      "FOLLICULAR LYMPHOMA"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Leukemia", "Lymphoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Nivolumab", "Ibrutinib", "Durvalumab"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 200 participants were screened, of which 150 were ultimately enrolled: 70 in Cohort A and 80 in Cohort B with 50 from the control arm."
+      },
+      "baseline": {
+        "population": "All enrolled participants assessed for treatment efficacy and safety.",
+        "group_list": {
+          "group": [{
+            "title": "Cohort A1",
+            "description": "Received ibrutinib 420 mg and nivolumab + durvalumab."
+          }, {
+            "title": "Cohort A2",
+            "description": "Received ibrutinib 560 mg, nivolumab + durvalumab."
+          }, {
+            "title": "Control Cohort",
+            "description": "Received standard therapy."
+          }]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [150]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Response Rate (ORR)",
+            "description": "The study achieved an overall response rate of 74% in Cohort A and 78% in cohort B as assessed by IWCLL criteria.",
+            "time_frame": "Examined up to the last follow-up at 6 months post-treatment initiation.",
+            "group_list": {
+              "group": [{
+                "title": "Cohort A",
+                "description": "Significant clinical response observed."
+              }, {
+                "title": "Cohort B",
+                "description": "Improved response rates post-treatment adjustment."
+              }]
+            },
+            "measure": {
+              "title": "Response Rate",
+              "units": "Percentage of participants",
+              "param": "Percentage",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [100, 116]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Incidence of Treatment-Emergent Adverse Events",
+            "description": "TEAEs were recorded, with an incidence of 30% across all cohorts and a notable decrease in severe adverse effects.",
+            "time_frame": "Up to 6 years",
+            "population": "Safety population included all participants who received at least one dose of the study interventions.",
+            "measure": {
+              "title": "Percentage of Participants with Adverse Events",
+              "units": "Participants",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [68, 56]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

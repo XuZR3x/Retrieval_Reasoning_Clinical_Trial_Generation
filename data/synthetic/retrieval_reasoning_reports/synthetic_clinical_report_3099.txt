@@ -1,0 +1,257 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02134710"
+    },
+    "id_info": {
+      "org_study_id": "ICR-CTSU/2014/10045",
+      "secondary_id": ["2014-002009-41", "CRUK/C12540/A12380", "ISRCTN22245567"],
+      "nct_id": "NCT02134710"
+    },
+    "brief_title": "Evaluation of Olaparib Efficacy in Germline BRCA Mutation Breast and Ovarian Cancer Patients",
+    "official_title": "A Phase II, Multicenter, Open-Label Study of Olaparib in Patients With Advanced Breast or Ovarian Cancer Harboring Germline BRCA1/BRCA2 Mutations: Investigating Efficacy and Biomarker Development.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute of Cancer Research, United Kingdom",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Royal Marsden NHS Foundation Trust",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Institute of Cancer Research, United Kingdom",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The study aims to assess the efficacy and safety of olaparib in patients with advanced breast or ovarian cancers possessing germline BRCA1 or BRCA2 mutations, leveraging its robust pharmacodynamic properties to evaluate tumor response."
+    },
+    "detailed_description": {
+      "textblock": "This is an open-label, multi-arm, adaptive Phase II clinical trial designed to evaluate olaparib, a potent PARP inhibitor, administered orally as monotherapy in advanced-stage breast or ovarian cancer patients with documented BRCA mutations. The trial will incorporate biomarker analysis to identify molecular predictors of response, thus streamlining personalized therapeutic strategies. Participants will receive olaparib at a fixed dose of 400 mg twice daily, continuously until disease progression or unacceptable toxicity occurs."
+    },
+    "overall_status": "Active, not recruiting",
+    "start_date": "March 15, 2014",
+    "completion_date": "June 30, 2025",
+    "primary_completion_date": "December 31, 2024",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "Yes",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of Participants with Objective Tumor Response",
+      "time_frame": "Evaluated every 8 weeks for up to 24 months following the first dose.",
+      "description": "The primary outcome measure encompasses complete or partial tumor response as per RECIST v1.1 criteria, establishing a tangible therapeutic endpoint for olaparib efficacy in this specific patient population."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Assessed every 8 weeks during study treatment period, maximum follow-up of 24 months.",
+        "description": "Defined as the time from the first dose to the date of radiologically confirmed progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Evaluated from initiation of treatment until death or last known follow-up, maximum follow-up of 24 months.",
+        "description": "Quantifies overall survival rates in the treated population, reinforcing the clinical viability of olaparib."
+      },
+      {
+        "measure": "Duration of Clinical Benefit",
+        "time_frame": "Measured from the onset of objective response until documented progression or death.",
+        "description": "This metric offers insights into the sustained antitumor activity facilitated by olaparib in BRCA-mutated tumors."
+      },
+      {
+        "measure": "Biomarker Analysis Outcomes",
+        "time_frame": "Biomarker evaluations will be conducted at baseline and at defined intervals during treatment.",
+        "description": "To delineate predictive biomarkers linked to olaparib susceptibility and enhance tailored therapeutic strategies."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "160",
+    "condition": ["Breast Neoplasms", "Ovarian Neoplasms"],
+    "arm_group": {
+      "arm_group_label": "Olaparib Treatment",
+      "arm_group_type": "Experimental",
+      "description": "Participants will receive oral olaparib at a dose of 400 mg twice daily for the duration of the study."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Olaparib",
+      "description": "Oral administration of olaparib 400 mg twice daily until disease progression or intolerable adverse effects occur.",
+      "arm_group_label": ["Olaparib Treatment"],
+      "other_name": ["AZD2281", "Lynparza"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Patients aged ≥ 18 years with advanced breast or ovarian carcinoma harboring a confirmed germline BRCA1 or BRCA2 mutation.\r\n\r\n2. Documented progression after at least one line of prior therapy.\r\n\r\n3. Measurable disease as defined by radiological imaging.\r\n\r\n4. Adequate bone marrow, renal, and hepatic function.\r\n\r\nExclusion Criteria:\r\n\r\n1. Previous treatment with any PARP inhibitors.\r\n\r\n2. Current participation in any other investigational drug study.\r\n\r\n3. Untreated symptomatic brain metastases.\r\n\r\n4. Uncontrolled medical or psychological conditions that would hinder compliance."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Simon J. Crabb, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Institute of Cancer Research, United Kingdom"
+      },
+      {
+        "last_name": "Patricia M. Lutz, PhD",
+        "role": "Study Director",
+        "affiliation": "Royal Marsden NHS Foundation Trust"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Institute of Cancer Research",
+          "address": {
+            "city": "Sutton",
+            "state": "Surrey",
+            "zip": "KT22 7B",
+            "country": "United Kingdom"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Royal Marsden NHS Foundation Trust",
+          "address": {
+            "city": "Sutton",
+            "state": "Surrey",
+            "zip": "SM2 5PT",
+            "country": "United Kingdom"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United Kingdom"
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "February 14, 2014",
+    "study_first_submitted_qc": "February 15, 2014",
+    "study_first_posted": "February 16, 2014",
+    "results_first_submitted": "March 01, 2025",
+    "results_first_posted": "March 15, 2025",
+    "last_update_submitted": "January 20, 2024",
+    "last_update_posted": "January 21, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Olaparib", "BRCA mutation", "Advanced Cancer", "Poly (ADP-ribose) Polymerase Inhibitors"],
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms", "Ovarian Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Olaparib"
+    },
+    "patient_data": {
+      "sharing_ipd": "Yes",
+      "ipd_description": "Individual patient-level data from AstraZeneca sponsored trials can be requested via their designated portal.",
+      "ipd_info_type": ["Study Protocol", "Statistical Analysis Plan (SAP)"],
+      "ipd_time_frame": "AstraZeneca adheres to the EFPIA Pharma Data Sharing Principles regarding data availability.",
+      "ipd_url": "https://astrazenecagroup-dt.pharmacm.com/DT/Home"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial was conducted across multiple centers in the United Kingdom.",
+        "pre_assignment_details": "A total of 160 patients were screened, with successful enrollment based on the stipulated eligibility criteria."
+      },
+      "baseline": {
+        "population": "All enrolled participants with documented BRCA mutations were included in the analysis set.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Olaparib Treatment",
+              "description": "All patients received olaparib as described in the intervention section, with ongoing assessments for efficacy and safety."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Objective Response Rate",
+            "description": "The proportion of participants who achieved a complete or partial response as per RECIST criteria.",
+            "time_frame": "Assessed every 8 weeks, with a maximum follow-up of 24 months."
+          },
+          {
+            "type": "Secondary",
+            "title": "Progression-Free Survival",
+            "description": "Defined as the duration of time from treatment initiation until progression or death.",
+            "time_frame": "Evaluated up to 24 months."
+          },
+          {
+            "type": "Secondary",
+            "title": "Biomarker Analysis Outcomes",
+            "description": "Identification of predictive biomarkers related to olaparib sensitivity.",
+            "time_frame": "Conducted throughout the study duration for participating patients."
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Olaparib Administration",
+            "event_list": {
+              "event": {
+                "sub_title": "Serious Adverse Events Comprising Hematological Toxicities",
+                "counts": null
+              }
+            }
+          }
+        },
+        "serious_events": {
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total deaths associated with treatment",
+                    "counts": null
+                  }
+                }
+              },
+              {
+                "title": "Nervous system disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Headache",
+                      "counts": null
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are not directly employed by the sponsoring organization.",
+        "restrictive_agreement": "The sponsor retains limited review rights over public communications concerning study results."
+      },
+      "limitations_and_caveats": "The study may be subject to limitations in generalizability due to the specific population targeted and potential selection bias arising from stringent eligibility criteria.",
+      "point_of_contact": {
+        "name_or_title": "Clinical Study Information Center",
+        "organization": "AstraZeneca",
+        "phone": "+44 1625 517178",
+        "email": "aztrial_results_posting@astrazeneca.com"
+      }
+    }
+  }
+}
+```

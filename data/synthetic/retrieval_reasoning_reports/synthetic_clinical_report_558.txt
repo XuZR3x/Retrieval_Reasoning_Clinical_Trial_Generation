@@ -1,0 +1,245 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 3, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00754376"
+    },
+    "id_info": {
+      "org_study_id": "14359",
+      "secondary_id": "H6Q-MC-JCRM",
+      "nct_id": "NCT00754376"
+    },
+    "brief_title": "Evaluating Enzastaurin in Combination With Pembrolizumab for Advanced Melanoma",
+    "official_title": "A Phase 2, Double-Blind, Randomized Study of Enzastaurin Plus Pembrolizumab Versus Pembrolizumab Plus Placebo in Patients With Advanced Melanoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess whether the combination of enzastaurin and pembrolizumab improves progression-free survival (PFS) over pembrolizumab plus placebo in patients with advanced melanoma. The focus on therapeutic efficacy, safety, and pharmacokinetics seeks to substantiate potential clinical benefits."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient anti-tumor activity and unacceptable safety profile",
+    "start_date": "February 2009",
+    "completion_date": "September 2011",
+    "primary_completion_date": "September 2011",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization to the first documented evidence of disease progression or death from any cause up to 12 months",
+      "description": "PFS was defined through imaging studies and clinical evaluation as the duration from randomization until disease progression per RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From randomization to death from any cause up to 18 months",
+        "description": "OS was determined as the time from enrollment until the date of death, with participants censored at the last known date alive."
+      },
+      {
+        "measure": "Safety profile",
+        "time_frame": "Baseline through 30 days after treatment discontinuation",
+        "description": "The incidence of adverse events (AEs) was monitored, focusing on the categorization of serious AEs, particularly including hematological toxicities and gastrointestinal disturbances."
+      },
+      {
+        "measure": "Pharmacokinetics of Enzastaurin",
+        "time_frame": "On Day 1 and Day 15 of Cycle 1 and Cycle 2",
+        "description": "Assessment of peak plasma concentrations (Cmax) and the area under the concentration-time curve (AUC) for enzastaurin."
+      }
+    ],
+    "enrollment": "180",
+    "condition": "Advanced Melanoma",
+    "arm_group": [
+      {
+        "arm_group_label": "Enzastaurin + Pembrolizumab",
+        "arm_group_type": "Experimental"
+      },
+      {
+        "arm_group_label": "Placebo + Pembrolizumab",
+        "arm_group_type": "Placebo Comparator"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "enzastaurin",
+        "description": "Dosing of 1125 mg orally on Day 1, followed by 500 mg orally daily for subsequent 21-day cycles.",
+        "arm_group_label": "Enzastaurin + Pembrolizumab",
+        "other_name": "LY317615"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "pembrolizumab",
+        "description": "200 mg IV infusion every 3 weeks until disease progression or unacceptable toxicity.",
+        "arm_group_label": ["Enzastaurin + Pembrolizumab", "Placebo + Pembrolizumab"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "Matching placebo for enzastaurin, taken orally once daily for 21-day cycles.",
+        "arm_group_label": "Placebo + Pembrolizumab"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Diagnosis of unresectable or metastatic melanoma.\r\n  - Prior treatment with anti-PD-1 therapy.\r\n  - Measurable disease defined by RECIST 1.1.\r\n  - Adequate organ function and recovery from prior toxicities.\r\n  - Female subjects must be of non-childbearing potential or must use effective contraception.\r\n\r\nExclusion Criteria:\r\n  - Active autoimmune disease or severe immunosuppression.\r\n  - Concurrent malignancies.\r\n  - Recent history of infections requiring systemic treatment.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon-Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)",
+      "role": "Study Director",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Eli Lilly Clinical Trial Centers",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Eli Lilly Clinical Trial Centers",
+          "address": {
+            "city": "San Diego",
+            "state": "California",
+            "zip": "92101",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "April 2020",
+    "study_first_submitted": "June 15, 2007",
+    "study_first_submitted_qc": "June 15, 2007",
+    "study_first_posted": "June 20, 2007",
+    "results_first_submitted": "January 8, 2020",
+    "results_first_submitted_qc": "February 2, 2020",
+    "results_first_posted": "March 1, 2020",
+    "disposition_first_submitted": "September 28, 2013",
+    "disposition_first_submitted_qc": "September 28, 2013",
+    "disposition_first_posted": "October 1, 2013",
+    "last_update_submitted": "April 16, 2020",
+    "last_update_submitted_qc": "April 16, 2020",
+    "last_update_posted": "April 20, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Melanoma"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Enzastaurin", "Pembrolizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Participants not meeting eligibility criteria were not enrolled and reported accordingly.",
+        "group_list": [
+          {
+            "title": "Enzastaurin + Pembrolizumab",
+            "description": "A total of 90 participants were assigned to receive enzastaurin and pembrolizumab."
+          },
+          {
+            "title": "Placebo + Pembrolizumab",
+            "description": "90 participants received placebo along with pembrolizumab."
+          }
+        ]
+      },
+      "baseline": {
+        "population": "Intention-to-treat (ITT) population consisted of all randomized participants.",
+        "group_list": [
+          {
+            "title": "Enzastaurin + Pembrolizumab",
+            "description": "90 participants grouped for receiving treatment."
+          },
+          {
+            "title": "Placebo + Pembrolizumab",
+            "description": "90 participants grouped receiving placebo."
+          }
+        ],
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation"
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Ethnicity (NIH/OMB)",
+              "units": "Participants",
+              "param": "Count of Participants"
+            },
+            {
+              "title": "Region of Enrollment",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS demonstrated no significant difference between treatment arms with a median of 3.5 months for enzastaurin and 4.1 months for placebo, failing to meet predefined efficacy endpoints. This highlighted insufficient anti-tumor activity, warranting trial termination.",
+            "time_frame": "From randomization up to 12 months.",
+            "population": "ITT population; analyzed for differences between arms."
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "OS data indicated no significant advantage of enzastaurin over placebo with measured survival rates showing a lack of therapeutic benefit.",
+            "time_frame": "Censored at last known alive."
+          },
+          {
+            "type": "Secondary",
+            "title": "Safety profile",
+            "description": "Significant AEs led to withdrawal in 15% of participants (e.g. grade 3-4 toxicities including neutropenia). High toxicity profiles raised safety concerns when comparing standard therapies. Patient adherence was further impacted.",
+            "time_frame": "Baseline to study completion with 30-day follow-up."
+          },
+          {
+            "type": "Secondary",
+            "title": "Pharmacokinetics of Enzastaurin",
+            "description": "Variability in pharmacokinetics was observed with significant fluctuation in concentration levels observed in 20% of patients, affecting dosing regimen effectiveness.",
+            "time_frame": "Days 1 and 15 of Cycle 1."
+          }
+        ]
+      }
+    }
+  }
+}
+```

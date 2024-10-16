@@ -1,0 +1,506 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02557145"
+    },
+    "id_info": {
+      "org_study_id": "ABC-2020-02",
+      "nct_id": "NCT02557145"
+    },
+    "brief_title": "Evaluation of Neoadjuvant Chemotherapy with Weekly Paclitaxel versus Combination Regimen in Locally Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Randomized Trial of Weekly Paclitaxel versus a Combination Chemotherapy Regimen in Patients with Locally Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Department of Oncology, General Hospital",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Department of Oncology, General Hospital",
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and safety of neoadjuvant chemotherapy with weekly paclitaxel compared to a combination regimen consisting of cisplatin and gemcitabine in patients with locally advanced non-small cell lung cancer (NSCLC). The primary objective was to establish the pathologic complete response (pCR) rate post-surgery. While previous studies have indicated potential benefits for paclitaxel, this trial encountered numerous pitfalls leading to its failure."
+    },
+    "overall_status": "Completed",
+    "start_date": "November 2015",
+    "completion_date": "December 2019",
+    "primary_completion_date": "June 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Pathologic Complete Response Rate (pCR) in Surgical Specimens",
+      "time_frame": "Evaluated at the time of resection, approximately 12 weeks after the completion of neoadjuvant therapy.",
+      "description": "The primary parameter was the percentage of patients demonstrating no histologic evidence of residual cancer in resected tumors."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Measured from randomization to death, assessed up to 36 months.",
+        "description": "The median overall survival for participants will be compared across the two treatment arms."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Assessed from the commencement of treatment until clinical or radiological disease progression, up to 24 months.",
+        "description": "The time from randomization until the first documented progression of disease."
+      },
+      {
+        "measure": "Adverse Events (AE)",
+        "time_frame": "Monitored from the initiation of therapy up to 30 days post-treatment completion.",
+        "description": "Total patients experiencing at least one adverse event as per CTCAE v5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "90",
+    "condition": "Locally Advanced Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm 1: Weekly Paclitaxel",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients will receive paclitaxel 80 mg/m² by intravenous infusion once weekly for 12 weeks prior to surgical resection."
+      },
+      {
+        "arm_group_label": "Arm 2: Cisplatin and Gemcitabine",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive a combination of cisplatin 75 mg/m² on day 1 and gemcitabine 1000 mg/m² on days 1 and 8 of a 21-day cycle for 2 cycles prior to surgery."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Paclitaxel 80 mg/m² IV administered weekly for a total of 12 weeks.",
+        "arm_group_label": "Arm 1: Weekly Paclitaxel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cisplatin",
+        "description": "Cisplatin 75 mg/m² IV on day 1 of each 21-day cycle.",
+        "arm_group_label": "Arm 2: Cisplatin and Gemcitabine"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "description": "Gemcitabine 1000 mg/m² IV on days 1 and 8 of each cycle.",
+        "arm_group_label": "Arm 2: Cisplatin and Gemcitabine"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n"
+          + "  - Histologically confirmed diagnosis of locally advanced non-small cell lung cancer.\r\n"
+          + "  - Clinical stage IIIA or IIIB.\r\n"
+          + "  - Patients previously untreated with chemotherapy for NSCLC.\r\n"
+          + "  - Eastern Cooperative Oncology Group (ECOG) performance status 0-1.\r\n"
+          + "  - Adequate organ function, as defined by specified laboratory parameters.\r\n"
+          + "  \r\n"
+          + "Exclusion Criteria:\r\n"
+          + "  - Prior exposure to any systemic therapy for lung cancer.\r\n"
+          + "  - Evidence of metastatic disease.\r\n"
+          + "  - Known hypersensitivity to paclitaxel or any components of chemotherapy.\r\n"
+          + "  - Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James T. Weller, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Department of Oncology, General Hospital"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "General Hospital Cancer Center",
+          "address": {
+            "city": "Anytown",
+            "state": "Anystate",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2020",
+    "study_first_submitted": "October 1, 2015",
+    "study_first_submitted_qc": "November 1, 2015",
+    "study_first_posted": "November 15, 2015",
+    "results_first_submitted": "January 13, 2020",
+    "results_first_submitted_qc": "January 16, 2020",
+    "results_first_posted": "January 20, 2020",
+    "last_update_submitted": "January 28, 2020",
+    "last_update_submitted_qc": "January 28, 2020",
+    "last_update_posted": "February 1, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Weekly Paclitaxel",
+              "description": "Paclitaxel treatment as described."
+            },
+            {
+              "title": "Cisplatin and Gemcitabine",
+              "description": "Combination chemotherapy as described."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": []
+                    }
+                  },
+                  {
+                    "title": "Disease Progression",
+                    "participants_list": {
+                      "participants": []
+                    }
+                  },
+                  {
+                    "title": "Withdrawal by Subject",
+                    "participants_list": {
+                      "participants": []
+                    }
+                  },
+                  {
+                    "title": "Other Reason",
+                    "participants_list": {
+                      "participants": []
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Weekly Paclitaxel",
+              "description": "Paclitaxel treatment as described."
+            },
+            {
+              "title": "Cisplatin and Gemcitabine",
+              "description": "Combination chemotherapy as described."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": []
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": []
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": []
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "title": "Race/Ethnicity, Customized",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": [
+                  {
+                    "title": "White",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "Black or African American",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "Asian",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": []
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "title": "Other",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": []
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Pathologic Complete Response Rate (pCR) Following Neoadjuvant Therapy",
+              "description": "Percentage of patients with no histologic evidence of cancer in breast and axillary lymph nodes.",
+              "time_frame": "At time of surgery approximately 12 weeks after initiation.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Weekly Paclitaxel",
+                    "description": "Paclitaxel treatment as described."
+                  },
+                  {
+                    "title": "Cisplatin and Gemcitabine",
+                    "description": "Combination chemotherapy as described."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Pathologic Complete Response Rate (pCR)",
+                "description": "Percentage of patients with no histologic evidence of cancer post-surgery.",
+                "units": "percentage of participants",
+                "param": "Number",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": []
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Overall Survival (OS)",
+              "description": "Measured from randomization to death.",
+              "time_frame": "Up to 36 months post-randomization.",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Weekly Paclitaxel",
+                    "description": "Paclitaxel treatment as described."
+                  },
+                  {
+                    "title": "Cisplatin and Gemcitabine",
+                    "description": "Combination chemotherapy as described."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Overall Survival (OS)",
+                "units": "months",
+                "param": "Median",
+                "dispersion": "95% Confidence Interval",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": []
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "From trial initiation up to 30 days post last treatment.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Weekly Paclitaxel",
+                "description": "Total patients experiencing at least one adverse event during treatment."
+              },
+              {
+                "title": "Cisplatin and Gemcitabine",
+                "description": "Total patients experiencing at least one adverse event during treatment."
+              }
+            ]
+          }
+        },
+        "serious_events": {
+          "default_vocab": "CTCAE (5.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, serious adverse events",
+                    "counts": []
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Febrile Neutropenia",
+                    "counts": []
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea",
+                    "counts": []
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE (5.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": []
+                  }
+                }
+              },
+              {
+                "title": "Blood and lymphatic system disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Anaemia",
+                    "counts": []
+                  }
+                }
+              },
+              {
+                "title": "General disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Fatigue",
+                    "counts": []
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+          "restrictive_agreement": "Data cannot be published without prior consent from the funder."
+        },
+        "point_of_contact": {
+          "name_or_title": "Dr. Lillian E. Halstrom, Research Coordinator",
+          "organization": "Department of Oncology, General Hospital",
+          "phone": "+1 (123) 456-7890",
+          "email": "lillian.halstrom@ghospital.org"
+        }
+      }
+    }
+  }
+}
+```

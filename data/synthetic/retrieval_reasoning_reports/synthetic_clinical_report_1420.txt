@@ -1,0 +1,490 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01163933"
+    },
+    "id_info": {
+      "org_study_id": "AVASTIN_LUNG_02",
+      "nct_id": "NCT01163933"
+    },
+    "brief_title": "Phase III Study of Bevacizumab Combined With Imaging-Guided Radiation Therapy in Patients With Locally Advanced Non-small Cell Lung Cancer",
+    "official_title": "A Phase III Randomized, Open-Label Study of Bevacizumab in Combination With Radiation Therapy in Patients With Locally Advanced Non-Small Cell Lung Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Texas MD Anderson Cancer Center",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of Texas MD Anderson Cancer Center",
+    "brief_summary": {
+      "textblock": "This Phase III clinical trial was designed to evaluate the efficacy and safety of bevacizumab in patients with locally advanced non-small cell lung cancer (NSCLC) undergoing image-guided radiation therapy. The study hypothesized that the inclusion of bevacizumab would overcome tumor hypoxia associated with radiation therapy, thereby improving overall survival and progression-free survival."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter study randomized participants into two arms: the experimental group receiving standard radiation therapy together with bevacizumab and the control group receiving radiation therapy alone. The primary endpoint was progression-free survival (PFS) measured over 12 months post-treatment initiation.\n\nPatients enrolled had to meet stringent eligibility criteria, focusing on those with histologically confirmed locally advanced NSCLC, no prior chemotherapy, and adequate organ function. Key assessments included radiographic evaluations, clinical assessments for toxicity, and monitoring of adverse events.\n\nBevacizumab was administered at a dose of 15 mg/kg IV every three weeks, starting one week prior to the commencement of radiation therapy, which was delivered using advanced imaging technology to maximize tumor targeting. Rigorous safety protocols were instituted to manage infusion reactions and other potential adverse effects."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2010",
+    "completion_date": "September 2015",
+    "primary_completion_date": "November 2014",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Two Groups",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From first dose of study medication until the first documented disease progression or death (up to 12 months)",
+      "description": "PFS was defined as the time form enrollment to the first documented disease progression or death from any cause. The evaluation utilized the Response Evaluation Criteria in Solid Tumors (RECIST) criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From first dose until death from any cause (up to 3 years)",
+        "description": "Overall survival will be determined from the date of randomization to the date of death from any cause. Patients remaining alive at the end of the study period will be censored at the last known date alive."
+      },
+      {
+        "measure": "Rate of Objective Response",
+        "time_frame": "From first dose until disease progression (assessed every 8 weeks for up to 12 months)",
+        "description": "The objective response rate (ORR) was calculated as the percentage of participants achieving a complete or partial response as per RECIST criteria, confirmed by sequential radiographic imaging."
+      },
+      {
+        "measure": "Safety Profile Assessment",
+        "time_frame": "From first dose until 30 days after the last dose",
+        "description": "Adverse events were tracked using the Common Terminology Criteria for Adverse Events (CTCAE) to assess the safety profile of bevacizumab in conjunction with radiation therapy."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Non-small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Bevacizumab + Radiation Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Participants received bevacizumab 15 mg/kg IV before and concurrently with radiation therapy."
+      },
+      {
+        "arm_group_label": "Radiation Therapy Alone",
+        "arm_group_type": "Control",
+        "description": "Participants received radiation therapy only without concomitant bevacizumab treatment."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bevacizumab",
+        "description": "Bevacizumab 15 mg/kg administered intravenously every three weeks in conjunction with radiation therapy.",
+        "arm_group_label": "Bevacizumab + Radiation Therapy",
+        "other_name": "Avastin"
+      },
+      {
+        "intervention_type": "Procedure",
+        "intervention_name": "Image-Guided Radiation Therapy",
+        "description": "Radiation delivered using imaging guidance to optimize dose delivery to the tumor while minimizing exposure to surrounding healthy tissues.",
+        "arm_group_label": "Bevacizumab + Radiation Therapy"
+      },
+      {
+        "intervention_type": "Procedure",
+        "intervention_name": "Conventional Radiation Therapy",
+        "description": "Participants received standard radiation therapy without the addition of bevacizumab.",
+        "arm_group_label": "Radiation Therapy Alone"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n\n1. Histologically confirmed diagnosis of locally advanced non-small cell lung cancer (NSCLC) (stages IIIB-IV).\n\n2. Treatment-naive individuals without any prior chemotherapy or radiotherapy.\n\n3. Performance status of 70-100% on the Karnofsky scale.\n\n4. Adequate organ function (including WBC > 3,000/µL, platelets > 100,000/µL, and creatinine < 1.5 mg/dL).\n\n5. Signed informed consent.\n\nEXCLUSION CRITERIA:\n\n1. Patients with symptomatic brain metastases or prior malignancy (except non-melanoma skin cancer).\n\n2. Active or uncontrolled infections.\n\n3. Significant cardiovascular conditions such as NYHA Class III or IV heart failure, myocardial infarction, or significant arrhythmias within the past 6 months.\n\n4. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Maria Rodriguez, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Texas MD Anderson Cancer Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University of Texas MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2020",
+    "study_first_submitted": "April 15, 2010",
+    "study_first_submitted_qc": "April 15, 2010",
+    "study_first_posted": "April 20, 2010",
+    "results_first_submitted": "December 30, 2015",
+    "results_first_submitted_qc": "January 15, 2016",
+    "results_first_posted": "January 20, 2016",
+    "last_update_submitted": "January 15, 2016",
+    "last_update_submitted_qc": "January 15, 2016",
+    "last_update_posted": "January 20, 2016",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of Texas MD Anderson Cancer Center",
+      "investigator_full_name": "Maria Rodriguez, MD",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": [
+      "Bevacizumab",
+      "Non-small Cell Lung Cancer",
+      "Radiation Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Lung Neoplasms",
+        "Non-Small Cell Lung Carcinoma"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Bevacizumab",
+        "Radiation Therapy"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "352 patients were screened for eligibility, with 250 randomized into two arms and treated. The study demonstrated a high retention rate, with 95% of participants completing the primary treatment regimen.",
+        "group_list": {
+          "group": {
+            "title": "Bevacizumab + Radiation Therapy",
+            "description": "Participants receiving combined treatment with bevacizumab and radiation therapy exhibited superior outcomes compared to the control group."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "250 patients were enrolled."
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "Final assessments were completed in September 2015."
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "Ongoing monitoring of long-term effects."
+                  }
+                }
+              ],
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [
+                  {
+                    "title": "Disease Progression",
+                    "participants_list": {
+                      "participants": "25% withdrew due to disease progression."
+                    }
+                  },
+                  {
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": "10% withdrew due to adverse events."
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Intent-to-treat population: All enrolled participants who received at least 1 treatment.",
+        "group_list": {
+          "group": {
+            "title": "Bevacizumab + Radiation Therapy",
+            "description": "Participants receiving combined treatment with bevacizumab and radiation therapy."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": "250"
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": "64.5 ± 11.7"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": "110"
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": "140"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was defined as the time from enrollment in the study to the first documented disease progression or death from any cause, whichever occurred first.",
+            "time_frame": "Baseline to the end of the study (up to 12 months)",
+            "population": "Per protocol population: All participants who received at least 1 dose of study medication and had no major protocol deviations.",
+            "group_list": {
+              "group": {
+                "title": "Bevacizumab + Radiation Therapy",
+                "description": "Patients treated with the combination regimen."
+              }
+            },
+            "measure": {
+              "title": "Progression-Free Survival",
+              "description": "Assessed through radiographic evaluations.",
+              "population": "Per protocol population.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Overall Survival (OS)",
+            "description": "OS was defined as the time from the first dose of study medication until death, and was evaluated through periodic assessments.",
+            "time_frame": "Baseline to the end of the study (up to 3 years)",
+            "population": "Per protocol population: All participants who received at least 1 dose of study medication.",
+            "group_list": {
+              "group": {
+                "title": "Bevacizumab + Radiation Therapy",
+                "description": "Evaluated patient outcomes following the combination therapy."
+              }
+            },
+            "measure": {
+              "title": "Overall Survival",
+              "description": "Monitored through follow-ups.",
+              "population": "Per protocol population.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Rate of Objective Response",
+            "description": "Assessed as the percentage of patients achieving complete or partial responses.",
+            "time_frame": "Final assessment at 12 months post-treatment initiation.",
+            "population": "Evaluable population: All participants who received at least 2 treatment cycles.",
+            "group_list": {
+              "group": {
+                "title": "Bevacizumab + Radiation Therapy",
+                "description": "Response outcomes assessed from the treatment group."
+              }
+            },
+            "measure": {
+              "title": "Rate of Objective Response",
+              "description": "Measured using RECIST criteria.",
+              "population": "Evaluable population.",
+              "units": "Percentage",
+              "param": "Number",
+              "dispersion": "95% Confidence Interval"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were tracked from the initiation of treatment until 30 days post-final dose, involving regular assessments for participant safety and treatment tolerability.",
+        "group_list": {
+          "group": {
+            "title": "Bevacizumab + Radiation Therapy",
+            "description": "Participants underwent close monitoring for adverse events."
+          },
+          "serious_events": {
+            "default_vocab": "CTCAE (4.0)",
+            "default_assessment": "Systematic Assessment",
+            "category_list": {
+              "category": [
+                {
+                  "title": "Total",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Total, serious adverse events",
+                      "counts": "25"
+                    }
+                  }
+                },
+                {
+                  "title": "Cardiac disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Hypertension grade 3-4",
+                      "counts": "5"
+                    }
+                  }
+                },
+                {
+                  "title": "Gastrointestinal disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Nausea grade 2-3",
+                      "counts": "15"
+                    }
+                  }
+                },
+                {
+                  "title": "General disorders",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Fatigue grade 2-3",
+                      "counts": "40"
+                    }
+                  }
+                },
+                {
+                  "title": "Infections and infestations",
+                  "event_list": {
+                    "event": {
+                      "sub_title": "Pneumonia grade 3",
+                      "counts": "8"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "CTCAE (4.0)",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total, other adverse events",
+                    "counts": "180"
+                  }
+                }
+              },
+              {
+                "title": "Hematologic disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Anemia",
+                    "counts": "10"
+                  }
+                }
+              },
+              {
+                "title": "Nervous system disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Headache",
+                    "counts": "20"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "Investigators are free to publish and present study findings following internal reviews to preserve the integrity of the published data."
+      },
+      "point_of_contact": {
+        "name_or_title": "Clinical Trials Coordinator",
+        "organization": "University of Texas MD Anderson Cancer Center",
+        "phone": "713-792-4040",
+        "email": "clinicaltrials@mdanderson.org"
+      }
+    }
+  }
+}
+```

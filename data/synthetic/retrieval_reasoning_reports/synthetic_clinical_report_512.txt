@@ -1,0 +1,144 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01893071"
+        },
+        "id_info": {
+            "org_study_id": "ECOG-ACRIN E4101",
+            "secondary_id": ["ECOG-ACRIN 4101", "UMIN000015648"],
+            "nct_id": "NCT01893071"
+        },
+        "brief_title": "Exemestane Combined with Anti-PD1 Therapy for Patients with Advanced Hormone-Receptor Positive Breast Cancer",
+        "acronym": "EXECO",
+        "official_title": "A Phase II Study of Exemestane and Pembrolizumab in Patients with Hormone-Receptor Positive, HER2-Negative Breast Cancer Who Have Progressed on Aromatase Inhibitor Therapy",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "ECOG-ACRIN Cancer Research Group",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Merck Sharp & Dohme Corp.",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "ECOG-ACRIN Cancer Research Group",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "RATIONALE: Combining exemestane, an aromatase inhibitor, with pembrolizumab, an anti-PD1 antibody, may synergize to enhance immune response while concurrently suppressing estrogen-related tumor growth in hormone-receptor positive breast cancer."
+        },
+        "detailed_description": {
+            "textblock": "OBJECTIVES:\n\n  -  Evaluate the efficacy of the combination therapy measured by progression-free survival (PFS) rate at six months in patients with advanced, hormone-receptor positive, HER2-negative breast cancer.\n\n  -  Assess the safety profile and adverse effects associated with the concurrent administration of exemestane and pembrolizumab.\n\n  -  Explore potential biomarkers of response through immunohistochemical analyses of tumor samples obtained prior to and following treatment.\n\nOUTLINE: This is a multicenter, open-label, phase II trial. Patients will receive exemestane orally daily on days 1-28 in combination with pembrolizumab administered intravenously on day 1 of each 21-day cycle. The study will continue for up to 12 cycles or until disease progression. Follow-up assessments will occur every three months for two years post-treatment."
+        },
+        "overall_status": "Completed",
+        "start_date": "February 24, 2014",
+        "completion_date": "June 15, 2021",
+        "primary_completion_date": "March 30, 2020",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Progression-Free Survival Rate at Six Months",
+            "time_frame": "Six months from the start of the treatment",
+            "description": "Proportion of patients without disease progression at six months, assessed via imaging and clinical evaluations."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Response Rate",
+                "time_frame": "Up to two years",
+                "description": "Proportion of patients achieving complete or partial response as per RECIST 1.1 criteria."
+            },
+            {
+                "measure": "Quality of Life Assessment",
+                "time_frame": "Assessed at baseline, every cycle for six cycles, then every three months",
+                "description": "Quality of life will be evaluated using the EORTC QLQ-C30 and QLQ-BR23 instruments to assess patient-reported outcomes."
+            },
+            {
+                "measure": "Biomarker Correlation with Outcomes",
+                "time_frame": "Upon completion of treatment (approximately two years)",
+                "description": "Analysis of tumor tissues and blood samples before treatment and during follow-up to identify potential biomarkers influencing treatment response."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "125",
+        "condition": "Hormone-Receptor Positive Breast Cancer",
+        "arm_group": {
+            "arm_group_label": "Treatment (Exemestane and Pembrolizumab)",
+            "arm_group_type": "Experimental",
+            "description": "Patients receive exemestane PO QD on days 1-28 and pembrolizumab IV on day 1 of each 21-day cycle."
+        },
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "exemestane",
+                "description": "Administered orally (PO) 25 mg once daily.",
+                "arm_group_label": "Treatment (Exemestane and Pembrolizumab)",
+                "other_name": ["Aromasin"]
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "pembrolizumab",
+                "description": "Administered intravenously (IV) at 200 mg on day 1 of each cycle.",
+                "arm_group_label": "Treatment (Exemestane and Pembrolizumab)",
+                "other_name": ["Keytruda"]
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n  -  Histologically or cytologically confirmed metastatic hormone-receptor positive (ER+ or PR+), HER2-negative breast cancer.\n\n  -  Previously received and progressed on at least one aromatase inhibitor.\n\n  -  Measurable disease according to RECIST v1.1.\n\n  -  ECOG performance status ≤ 1.\n\n  -  Adequate organ function as defined by specified laboratory values.\n\nExclusion Criteria:\n\n  -  Prior treatment with PD-1/PD-L1 inhibitors or any history of autoimmune disease.\n\n  -  Concurrent treatment with other anticancer therapies.\n\n  -  Significant comorbidities that might interfere with compliance and survival."
+            },
+            "gender": "Female",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Jennifer B. Wargo, MD",
+            "role": "Study Chair",
+            "affiliation": "UT Southwestern Medical Center"
+        },
+        "location": {
+            "facility": {
+                "name": "UT Southwestern Medical Center",
+                "address": {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "zip": "75390",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "August 2021",
+        "study_first_submitted": "March 15, 2014",
+        "study_first_submitted_qc": "March 15, 2014",
+        "study_first_posted": "March 20, 2014",
+        "results_first_submitted": "August 12, 2020",
+        "results_first_submitted_qc": "August 12, 2020",
+        "results_first_posted": "August 15, 2020",
+        "last_update_submitted": "August 18, 2021",
+        "last_update_posted": "August 20, 2021",
+        "responsible_party": {
+            "responsible_party_type": "Sponsor"
+        },
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        },
+        "intervention_browse": {
+            "mesh_term": ["Exemestane", "Pembrolizumab"]
+        }
+    }
+}
+```

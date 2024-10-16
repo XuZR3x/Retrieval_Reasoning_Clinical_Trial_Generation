@@ -1,0 +1,194 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02567890"
+    },
+    "id_info": {
+      "org_study_id": "KET-REPR-01",
+      "nct_id": "NCT02567890"
+    },
+    "brief_title": "Ketamine for Rapid Reduction of Anxiety Symptoms in Treatment-Resistant Generalized Anxiety Disorder",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of Ketamine for the Rapid Reduction of Symptoms in Treatment-Resistant Generalized Anxiety Disorder",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cleveland Clinic",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cleveland Clinic",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to evaluate the efficacy of ketamine as a rapid-acting treatment for patients with treatment-resistant generalized anxiety disorder (GAD). The study compares ketamine infusion against saline placebo to determine significant reductions in anxiety symptoms as assessed by the Generalized Anxiety Disorder 7-item Scale (GAD-7) within days of administration. Given ketamine's unique NMDA receptor antagonist properties, we hypothesize that it may induce faster anxiolytic effects compared to standard antidepressant protocols."
+    },
+    "detailed_description": {
+      "textblock": "Generalized Anxiety Disorder (GAD) affects a significant portion of the population and is frequently resistant to conventional therapies. Existing treatments often take weeks to exhibit clinical effects, highlighting an urgent need for rapid intervention strategies. Ketamine, an NMDA receptor antagonist, has shown promise in providing swift amelioration of mood and anxiety symptoms.\n\nThis study is designed as a randomized, double-blind, placebo-controlled trial involving 100 participants diagnosed with treatment-resistant GAD, defined as significant anxiety persistence despite two prior treatment attempts with standard pharmacotherapy or psychotherapy. Participants will be administered either a sub-anesthetic dose of ketamine (0.5 mg/kg) or saline placebo via intravenous infusion during two sessions a week apart.\n\nThe primary outcome will be assessed using changes in the GAD-7 scores from baseline to 24 hours after infusion. Secondary outcomes include evaluations of the Patient Health Questionnaire (PHQ-9) for depressive symptoms, the Hamilton Anxiety Rating Scale (HAM-A), and patient self-reported measures of well-being and functional improvement. A subset of participants will also undergo functional MRI (fMRI) to explore neuroplastic changes associated with ketamine administration.\n\nThe anticipated impact of this trial is substantial, as rapid symptom reduction is crucial in mitigating the risk of serious consequences associated with severe anxiety, including suicidality. If successful, this study could establish ketamine as a viable option for expedited treatment protocols in acute anxiety crises."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2019",
+    "completion_date": "December 2021",
+    "primary_completion_date": "October 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Generalized Anxiety Disorder 7-item Scale (GAD-7) Score",
+      "time_frame": "From Baseline at 24 hours post-infusion",
+      "description": "The primary measure of efficacy will assess the reduction in anxiety severity among patients receiving either ketamine or placebo by comparing GAD-7 scores before and 24 hours post-infusion."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Depression Symptoms (PHQ-9)",
+        "time_frame": "From Baseline at 1 week post-infusion",
+        "description": "Assessing changes in depressive symptoms via the Patient Health Questionnaire (PHQ-9) to determine potential adjunctive benefits of ketamine treatment."
+      },
+      {
+        "measure": "Change in Hamilton Anxiety Rating Scale (HAM-A) Score",
+        "time_frame": "From Baseline at 24 hours and 1 week post-infusion",
+        "description": "Anxiety severity assessed by the Hamilton Anxiety Rating Scale will be recorded to monitor the intervention's effects over time."
+      },
+      {
+        "measure": "Neuroimaging Correlates",
+        "time_frame": "Before and after infusion",
+        "description": "fMRI assessments to investigate functional brain changes post-treatment and correlate these changes with clinical outcomes."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "100",
+    "condition": "Generalized Anxiety Disorder",
+    "arm_group": [
+      {
+        "arm_group_label": "Ketamine Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive ketamine infusion at a dose of 0.5 mg/kg."
+      },
+      {
+        "arm_group_label": "Placebo Control Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants will receive saline placebo infusion."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ketamine",
+        "description": "Intravenous ketamine administered at a sub-anesthetic dose (0.5 mg/kg).",
+        "arm_group_label": "Ketamine Treatment Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Saline",
+        "description": "Intravenous saline placebo administered over the same infusion duration.",
+        "arm_group_label": "Placebo Control Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18-65 with a DSM-5 diagnosis of Generalized Anxiety Disorder (GAD) who have not sufficiently responded to at least two previous pharmacotherapy or psychotherapy interventions.\n2. Ability to provide informed consent.\n\nExclusion Criteria:\n\n1. Current substance use disorder as assessed by DSM criteria.\n2. History of psychotic disorders or unstable medical conditions.\n3. Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [{
+      "last_name": "John Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cleveland Clinic, Department of Psychiatry"
+    }],
+    "location": {
+      "facility": {
+        "name": "Cleveland Clinic",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "April 14, 2017",
+    "study_first_posted": "May 1, 2017",
+    "last_update_posted": "January 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Cleveland Clinic"
+    },
+    "keyword": ["generalized anxiety disorder", "ketamine", "rapid relief", "treatment-resistant anxiety", "neuroimaging"],
+    "condition_browse": {
+      "mesh_term": ["Anxiety Disorders", "Generalized Anxiety Disorder"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ketamine"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Ketamine Treatment Group",
+            "description": "Received ketamine infusion at a sub-anesthetic dose of 0.5 mg/kg."
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Population Overview",
+            "description": "A total of 100 participants enrolled, with balanced demographics and previous treatment history."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": 100
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+            "title": "Age Distribution",
+            "units": "Years",
+            "param": "Mean",
+            "dispersion": "Standard Deviation",
+            "class_list": {
+              "class": {
+                "category_list": {
+                  "category": {
+                    "measurement_list": {
+                      "measurement": null
+                    }
+                  }
+                }
+              }
+            }
+          }]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "GAD-7 Score Change",
+          "description": "Significant reduction in GAD-7 scores at 24 hours post-infusion compared to baseline in the ketamine group.",
+          "time_frame": "GAD-7 scores before and after infusion"
+        }]
+      }
+    }
+  }
+}
+```

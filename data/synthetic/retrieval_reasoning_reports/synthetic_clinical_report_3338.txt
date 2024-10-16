@@ -1,0 +1,180 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01945678"
+        },
+        "id_info": {
+            "org_study_id": "NCT01945678",
+            "nct_id": "NCT01945678"
+        },
+        "brief_title": "Evaluation of Idelalisib in Combination With Dexamethasone and Chemo-immunotherapy in Patients With Advanced CLL",
+        "official_title": "A Phase II Study Assessing the Efficacy and Safety of Idelalisib in Combination With Dexamethasone and Chemo-immunotherapy for Patients With Advanced Chronic Lymphocytic Leukemia",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "University of Chicago",
+                "agency_class": "Academic"
+            }
+        },
+        "source": "University of Chicago",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "This study investigates the combination of idelalisib with dexamethasone and chemo-immunotherapy in patients with untreated advanced chronic lymphocytic leukemia (CLL). The primary aim is to evaluate progression-free survival (PFS) and overall survival (OS), alongside the safety profiles of the treatment regimen."
+        },
+        "detailed_description": {
+            "textblock": "The study was designed as a multicenter, open-label phase II clinical trial. Patients diagnosed with advanced CLL were treated with a regimen consisting of idelalisib, a once-daily oral drug, in combination with dexamethasone and an infused chemo-immunotherapy cocktail twice a month. The expectation was to observe enhanced efficacy with acceptable safety profiles compared to historical controls.\n\nScreening included medical history reviews, laboratory testing (CBC, liver function tests), imaging (CT scans), and assessments of comorbidities. Eligible patients underwent treatment as specified with scheduled follow-ups for safety monitoring and response assessments through clinical examinations and laboratory tests every 4 weeks until disease progression or unacceptable toxicity."
+        },
+        "overall_status": "Terminated",
+        "start_date": "September 2014",
+        "completion_date": "November 2022",
+        "primary_completion_date": "August 2021",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "Progression-free Survival (PFS)",
+            "time_frame": "3 years",
+            "description": "PFS is defined as the time from initiation of treatment until disease progression or death from any cause."
+        },
+        "secondary_outcome": [
+            {
+                "measure": "Overall Survival (OS)",
+                "time_frame": "3 years",
+                "description": "Time from treatment initiation until patient death due to any cause."
+            },
+            {
+                "measure": "Overall Response Rate (ORR)",
+                "time_frame": "3 years",
+                "description": "Percentage of patients who achieve complete (CR) or partial response (PR)."
+            },
+            {
+                "measure": "Rate of Serious Adverse Events (SAEs)",
+                "time_frame": "Duration of treatment, up to 3 years",
+                "description": "Assessment of safety based on reported serious adverse events, graded according to NCI CTCAE."
+            }
+        ],
+        "number_of_arms": "1",
+        "enrollment": "60",
+        "condition": "Chronic Lymphocytic Leukemia",
+        "arm_group": {
+            "arm_group_label": "Idelalisib + Dexamethasone + Chemo-immunotherapy",
+            "arm_group_type": "Experimental",
+            "description": "Patients received idelalisib 150 mg orally once daily, combined with dexamethasone and a standard chemo-immunotherapy regimen."
+        },
+        "intervention": [
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Idelalisib",
+                "description": "Administered orally at a dose of 150 mg once daily.",
+                "arm_group_label": "Idelalisib + Dexamethasone + Chemo-immunotherapy"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Dexamethasone",
+                "description": "Administered at a dosage of 20 mg orally weekly as part of the treatment regimen.",
+                "arm_group_label": "Idelalisib + Dexamethasone + Chemo-immunotherapy"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Chemo-immunotherapy",
+                "description": "Administered through infusion as per standard protocols.",
+                "arm_group_label": "Idelalisib + Dexamethasone + Chemo-immunotherapy"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n\n- Adults aged 18 years and older with a confirmed diagnosis of advanced CLL.\n- Patients with an indication for treatment as per IWCLL 2008 guidelines.\n- Measurable disease with an absolute lymphocyte count > 5,000 or symptomatic lymphadenopathy.\n- ECOG performance status of 0-2.\n\nExclusion Criteria:\n\n- Previous treatment for CLL.\n- Significant comorbidities affecting treatment tolerability.\n- Active infections or recent history of serious infections.\n- Known allergies to idelalisib or dexamethasone.\n- Pregnancy or lactation."
+            },
+            "gender": "All",
+            "minimum_age": "18 Years",
+            "maximum_age": "N/A",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Michael C. R. Frisch, MD, PhD",
+            "role": "Principal Investigator",
+            "affiliation": "University of Chicago"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "University of Chicago Medical Center",
+                    "address": {
+                        "city": "Chicago",
+                        "state": "Illinois",
+                        "zip": "60637",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Northwestern Memorial Hospital",
+                    "address": {
+                        "city": "Chicago",
+                        "state": "Illinois",
+                        "zip": "60611",
+                        "country": "United States"
+                    }
+                }
+            },
+            {
+                "facility": {
+                    "name": "Loyola University Medical Center",
+                    "address": {
+                        "city": "Maywood",
+                        "state": "Illinois",
+                        "zip": "60153",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "February 2022",
+        "study_first_submitted": "August 1, 2014",
+        "study_first_submitted_qc": "August 5, 2014",
+        "study_first_posted": "August 15, 2014",
+        "last_update_submitted": "March 3, 2022",
+        "last_update_submitted_qc": "March 8, 2022",
+        "last_update_posted": "March 10, 2022",
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "University of Chicago",
+            "investigator_full_name": "Michael C. R. Frisch, MD, PhD"
+        },
+        "keyword": [
+            "Chronic Lymphocytic Leukemia",
+            "Idelalisib",
+            "Dexamethasone",
+            "Chemotherapy"
+        ],
+        "condition_browse": {
+            "mesh_term": [
+                "Leukemia, Lymphocytic, Chronic, B-Cell"
+            ]
+        },
+        "intervention_browse": {
+            "mesh_term": [
+                "Idelalisib",
+                "Dexamethasone"
+            ]
+        },
+        "conclusion": {
+            "textblock": "The trial faced significant challenges predominantly due to the exacerbation of idelalisib's toxicological profile, evidenced by the increased rates of serious adverse events (SAEs) including infections and immune-mediated complications. Despite the promising preclinical data, the lack of statistically significant improvements in primary efficacy endpoints such as PFS and ORR necessitated the termination of the trial, as advised by the independent data monitoring committee. These factors collectively hindered the anticipated therapeutic impact of idelalisib, signaling the need for further investigation into safer dosing strategies and better-suited patient profiles."
+        }
+    }
+}
+```

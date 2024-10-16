@@ -1,0 +1,263 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04212345"
+    },
+    "id_info": {
+      "org_study_id": "VX20-770-201",
+      "nct_id": "NCT04212345"
+    },
+    "brief_title": "A Phase 3 Study to Evaluate the Efficacy of Ivacaftor in Pediatric Patients with Cystic Fibrosis Lacking Established CFTR Mutations",
+    "official_title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Trial of Ivacaftor in Pediatric Patients with Cystic Fibrosis Who Have Uncharacterized CFTR Mutations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Vertex Pharmaceuticals Incorporated",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Vertex Pharmaceuticals Incorporated",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The trial aimed to assess the efficacy and safety of ivacaftor in a pediatric population diagnosed with cystic fibrosis but lacking specific drug-responsive CFTR mutations."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Low patient enrollment and insufficient clinical response.",
+    "start_date": "February 2020",
+    "completion_date": "June 2021",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in Percent Predicted Forced Expiratory Volume in 1 Second (FEV1) at Week 12",
+      "time_frame": "Week 12",
+      "description": "FEV1 is a key measure of lung function capturing the volume of air that can be forcibly exhaled in one second."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in Lung Clearance Index (LCI2.5) at Week 12",
+        "time_frame": "Week 12",
+        "description": "The LCI2.5 reflects the efficiency of lung function, requiring less inversion of inert gas concentration."
+      },
+      {
+        "measure": "Proportion of Participants with Treatment-Emergent Adverse Events (AEs) during the study period",
+        "time_frame": "From Baseline to Week 12",
+        "description": "Assessment of the safety profile through analysis of adverse event incidence."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": "Cystic Fibrosis",
+    "arm_group": [
+      {
+        "arm_group_label": "Ivacaftor Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants received ivacaftor 150 mg orally twice daily during the complete treatment phase."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received a matched placebo orally twice daily for the same duration."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ivacaftor",
+        "arm_group_label": ["Ivacaftor Group"],
+        "other_name": "VX-770"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": ["Placebo Group"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Male or female aged 3 to 5 years with a confirmed diagnosis of cystic fibrosis.\n- Absence of specific CFTR gating mutations known to be responsive to ivacaftor.\n- Stable pulmonary status in the opinion of the investigator.\n\nExclusion Criteria:\n\n- Presence of acute respiratory infections or changes in therapies within 4 weeks prior to enrollment.\n- Significant comorbidities or laboratory abnormalities that would interfere with assessments.\n- History of severe adverse reactions to CF therapies."
+      },
+      "gender": "All",
+      "minimum_age": "3 Years",
+      "maximum_age": "5 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": [
+      {
+        "facility": {
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "August 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Initially, 112 participants were screened; 45 were randomized following eligibility evaluation.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor Group",
+              "description": "Ivacaftor administered at 150 mg twice daily."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Matched placebo administered orally twice daily."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "Participants who received at least one dose of ivacaftor or placebo.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Ivacaftor Group",
+              "description": "Ivacaftor 150 mg orally twice daily."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Matched placebo orally twice daily."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [45, 45]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change From Baseline in Percent Predicted FEV1 at Week 12",
+            "description": "Assessment of lung function change indicating efficacy.",
+            "time_frame": "Week 12",
+            "population": "Full Analysis Set including randomized participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ivacaftor Group",
+                  "description": "Ivacaftor administered at 150 mg twice daily."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Matched placebo administered orally."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change From Baseline in Percent Predicted FEV1",
+              "units": "Percent",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [22, 23]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Superiority",
+                  "method": "Analysis of Covariance (ANCOVA)",
+                  "p_value": "0.7521"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Proportion of Participants with Treatment-Emergent Adverse Events",
+            "description": "Documenting safety profile in both treatment cohorts.",
+            "time_frame": "Baseline up to Week 12",
+            "population": "Safety Set including participants who received study drug.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Ivacaftor Group",
+                  "description": "Ivacaftor administered at 150 mg twice daily."
+                },
+                {
+                  "title": "Placebo Group",
+                  "description": "Matched placebo administered orally."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Proportion with AEs",
+              "population": "Safety Set",
+              "units": "Participants",
+              "param": "Count",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [20, 15]  // Arbitrary numbers for this example
+                  }
+                }
+              },
+              "class_list": {
+                "class": [
+                  {
+                    "title": "Total Participants with AEs",
+                    "category_list": {
+                      "category": {
+                        "measurement_list": {
+                          "measurement": [10, 6]  // Arbitrary numbers for this example
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "limitations_and_caveats": "Trial was prematurely halted due to insufficient enrollment and inadequate clinical response, particularly marked for participants with uncharacterized mutations."
+    }
+  }
+}
+```

@@ -1,0 +1,157 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+        },
+        "id_info": {
+            "org_study_id": "ABC 2021.999",
+            "secondary_id": "HUM 56789",
+            "nct_id": "NCT01234567"
+        },
+        "brief_title": "Efficacy of Anastrozole in Combination with Enhanced Hormonal Assay Monitoring for Advanced Breast Cancer Treatment",
+        "official_title": "A Phase II Study Evaluating Anastrozole with Enhanced Estradiol Monitoring and Patient Support Program in Postmenopausal Women with Advanced Hormone Receptor Positive Breast Cancer",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Cancer Institute",
+                "agency_class": "Government"
+            },
+            "collaborator": [
+                {
+                    "agency": "University of California, San Francisco",
+                    "agency_class": "Academic"
+                }
+            ]
+        },
+        "source": "National Cancer Institute",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The study aimed to investigate the efficacy and safety of anastrozole in postmenopausal women with advanced hormone receptor-positive breast cancer while employing a stringent monitoring protocol for serum estradiol levels. The Rationale for the study stemmed from previous clinical trials that showed limitations in patient accrual and inconsistencies in hormonal assay results leading to premature discontinuation of treatment. The current trial proposed an innovative approach that combined enhanced monitoring techniques aimed at improving patient safety and treatment adherence."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "The trial was prematurely terminated due to inadequate patient recruitment and high rates of estradiol assay variability leading to treatment discontinuation.",
+        "start_date": "January 2011",
+        "completion_date": "December 2015",
+        "primary_completion_date": "June 2014",
+        "phase": "Phase 2",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "N/A",
+            "intervention_model": "Single Group Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "None (Open Label)"
+        },
+        "primary_outcome": {
+            "measure": "The Number of Patients With Stable Disease at 6 Months",
+            "time_frame": "6 months",
+            "description": "The primary outcome measured the percentage of patients achieving stable disease defined as no progression documented through imaging and clinical assessments after 6 months of treatment."
+        },
+        "number_of_arms": "1",
+        "enrollment": "40",
+        "condition": "Breast Cancer",
+        "arm_group": {
+            "arm_group_label": "Anastrozole with Enhanced Monitoring",
+            "arm_group_type": "Experimental"
+        },
+        "intervention": {
+            "intervention_type": "Drug",
+            "intervention_name": "Anastrozole",
+            "description": "1 mg tablet by mouth once daily with a stringent monitoring protocol for hormone levels.",
+            "arm_group_label": "Anastrozole with Enhanced Monitoring",
+            "other_name": "Arimidex"
+        },
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\r\n\r\n1. Females aged 18 years or older, postmenopausal status defined as no menstrual period in the last 12 months.\r\n2. Histologically confirmed hormone receptor-positive metastatic breast cancer.\r\n3. Prior treatment with at least one aromatase inhibitor with documented disease progression.\r\n4. Serum estradiol levels monitored weekly with defined cut-off points for treatment response.\r\n\r\nExclusion Criteria:\r\n\r\n1. Concurrent use of any unapproved herbal or dietary supplements that may influence estrogen metabolism.\r\n2. Patients with known history of CNS metastasis or cognitive impairment.\r\n3. Any other malignancies within the past 5 years except nonmelanoma skin cancer."
+            },
+            "gender": "Female",
+            "minimum_age": "18 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "John A. Smith, M.D.",
+            "role": "Principal Investigator",
+            "affiliation": "National Cancer Institute"
+        },
+        "location": [
+            {
+                "facility": {
+                    "name": "National Cancer Institute",
+                    "address": {
+                        "city": "Bethesda",
+                        "state": "Maryland",
+                        "zip": "20892",
+                        "country": "United States"
+                    }
+                }
+            }
+        ],
+        "location_countries": {
+            "country": "United States"
+        },
+        "results_reference": {
+            "citation": "Smith JA, et al. Evaluation of Anastrozole under Enhanced Monitoring in Advanced Breast Cancer. J Clin Oncol. 2015; 33(15_suppl):e12500.",
+            "PMID": "26673258"
+        },
+        "verification_date": "January 2016",
+        "study_first_submitted": "November 21, 2010",
+        "study_first_posted": "December 1, 2010",
+        "last_update_posted": "February 15, 2016",
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "National Cancer Institute",
+            "investigator_full_name": "John A. Smith"
+        },
+        "keyword": ["advanced breast cancer", "anastrozole", "hormonal assay variability", "treatment adherence", "hormone receptor positive"],
+        "condition_browse": {
+            "mesh_term": "Breast Neoplasms"
+        },
+        "intervention_browse": {
+            "mesh_term": "Anastrozole"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "recruitment_details": "A total of 80 patients were screened, of which only 40 were enrolled within the study period due to strict eligibility criteria and high attrition rates owing to assay variability.",
+                "pre_assignment_details": "Out of 40 enrolled patients, 25 initiated treatment with anastrozole, while 15 were discontinued due to inconclusive estradiol levels within the first few weeks."
+            },
+            "period_list": {
+                "period": {
+                    "title": "Overall Study",
+                    "milestone_list": [
+                        {
+                            "title": "STARTED",
+                            "participants_list": {
+                                "participants": ["Screened Patients: 80"]
+                            }
+                        },
+                        {
+                            "title": "COMPLETED",
+                            "participants_list": {
+                                "participants": ["Enrolled Patients: 40"]
+                            }
+                        },
+                        {
+                            "title": "NOT COMPLETED",
+                            "participants_list": {
+                                "participants": ["Patients Discontinued: 15"]
+                            }
+                        }
+                    ]
+                }
+            },
+            "limitations_and_caveats": "The trial was limited by significant patient dropout rates related to elevated estradiol assays, leading to the premature cessation of the study."
+        },
+        "point_of_contact": {
+            "name_or_title": "Sharon B. Green, Clinical Trials Coordinator",
+            "organization": "National Cancer Institute",
+            "phone": "301-496-3492",
+            "email": "sgreen@nci.nih.gov"
+        }
+    }
+}
+```

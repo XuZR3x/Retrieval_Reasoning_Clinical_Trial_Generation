@@ -1,0 +1,323 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "2027-2041",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Oxaliplatin in Combination With Docetaxel in Patients With Advanced Head and Neck Squamous Cell Carcinoma",
+    "official_title": "Phase II Study of Oxaliplatin and Docetaxel in Advanced Head and Neck Squamous Cell Carcinoma After Failure of Prior Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Johns Hopkins University",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Sanofi",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Johns Hopkins University",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The purpose of this study is to assess the efficacy and safety of the chemotherapeutic agents oxaliplatin and docetaxel in patients with advanced head and neck squamous cell carcinoma who have progressed after previous chemotherapy. The primary outcome is the overall response rate to the treatment regimen."
+    },
+    "detailed_description": {
+      "textblock": "This is an open-label, single-arm Phase II study designed to evaluate the therapeutic effects of oxaliplatin in combination with docetaxel. The rationale for selecting this combination stems from preliminary data suggesting enhanced cytotoxicity in squamous cell carcinoma tissues. All enrolled patients will receive oxaliplatin 85 mg/m² intravenously on Day 1 and docetaxel 75 mg/m² administered after 3 weeks. The study aims to enroll 50 patients; however, enrollment strategies will employ broader patient eligibility requirements to mitigate barriers seen in previous trials."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and early toxicity incidences.",
+    "start_date": "March 2016",
+    "completion_date": "July 2019",
+    "primary_completion_date": "March 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "24 weeks",
+      "description": "The ORR will be defined as the proportion of patients expressing complete or partial responses assessed by RECIST criteria."
+    },
+    "secondary_outcome": [{
+        "measure": "Duration of Response",
+        "time_frame": "From the first documented response until disease progression or death, assessed every 8 weeks.",
+        "description": "Duration of response will measure how long a patient maintains a response to treatment."
+      },
+      {
+        "measure": "Toxicity Assessment",
+        "time_frame": "As assessed during each treatment cycle.",
+        "description": "Toxicity profiles will be evaluated using NCI CTCAE version 4.0 to determine the safety of the regimen."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "5",
+    "condition": "Head and Neck Squamous Cell Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Oxaliplatin and Docetaxel",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive oxaliplatin 85 mg/m² on Day 1 and docetaxel 75 mg/m² every three weeks."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "85 mg/m² IV on Day 1",
+        "arm_group_label": "Oxaliplatin and Docetaxel",
+        "other_name": "Eloxatin®"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "75 mg/m² IV on Day 1",
+        "arm_group_label": "Oxaliplatin and Docetaxel",
+        "other_name": "Taxotere®"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Histologically confirmed squamous cell carcinoma of the head and neck.\n  - Documented disease progression after at least one line of prior chemotherapy.\n  - Performance status 0-2 (ECOG scale).\n  - Adequate organ function and recovery from prior treatments (at least 4 weeks from last treatment).\n\nExclusion Criteria:\n\n  - Uncontrolled medical conditions (e.g., active infections).\n  - Prior treatment with oxaliplatin or docetaxel.\n  - Concurrent use of other investigational drugs.\n  - Known hypersensitivity to platinum compounds or docetaxel."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "David Johnson, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Johns Hopkins University"
+    },
+    "location": {
+      "facility": {
+        "name": "Johns Hopkins Hospital",
+        "address": {
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2020",
+    "study_first_submitted": "October 15, 2015",
+    "study_first_posted": "November 1, 2015",
+    "last_update_posted": "July 1, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Head and Neck Cancer", "Oxaliplatin", "Docetaxel", "Chemotherapy"],
+    "condition_browse": {
+      "mesh_term": ["Neoplasms, Squamous Cell", "Head and Neck Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Oxaliplatin", "Docetaxel"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Oxaliplatin + Docetaxel",
+            "description": "Combination therapy with oxaliplatin and docetaxel."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": {
+              "title": "Oxaliplatin + Docetaxel",
+              "description": "Combination therapy with oxaliplatin and docetaxel."
+            }
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": null
+              }
+            }
+          },
+          "measure_list": {
+            "measure": [{
+                "title": "Age",
+                "units": "years",
+                "param": "Median",
+                "dispersion": "Range 40-75"
+              },
+              {
+                "title": "Sex: Female, Male",
+                "units": "Participants",
+                "param": "Count of Participants",
+                "class_list": {
+                  "class": {
+                    "category_list": {
+                      "category": [{
+                          "title": "Female",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        },
+                        {
+                          "title": "Male",
+                          "measurement_list": {
+                            "measurement": null
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "outcome_list": {
+          "outcome": [{
+              "type": "Primary",
+              "title": "Overall Response Rate (ORR)",
+              "description": "Determined as Complete Response + Partial Response according to RECIST criteria.",
+              "time_frame": "24 weeks",
+              "population": "Overall population",
+              "group_list": {
+                "group": {
+                  "title": "Oxaliplatin + Docetaxel",
+                  "description": "Combination therapy with oxaliplatin and docetaxel."
+                }
+              },
+              "measure": {
+                "title": "Overall Response Rate",
+                "description": "Total number of patients achieving CR + PR.",
+                "units": "Participants",
+                "param": "Number of Patients",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "Secondary",
+              "title": "Toxicity",
+              "description": "Frequency of adverse events reported per CTCAE criteria.",
+              "time_frame": "Continuously during treatment",
+              "population": "Overall population",
+              "group_list": {
+                "group": {
+                  "title": "Oxaliplatin + Docetaxel",
+                  "description": "Combination therapy with oxaliplatin and docetaxel."
+                }
+              },
+              "measure": {
+                "title": "Toxicity Assessment",
+                "description": "Total number of adverse events recorded.",
+                "units": "Events",
+                "param": "Count of Adverse Events",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": null
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "group_list": {
+            "group": {
+              "title": "Oxaliplatin + Docetaxel",
+              "description": "Combination therapy with oxaliplatin and docetaxel."
+            }
+          },
+          "serious_events": {
+            "category_list": {
+              "category": {
+                "title": "Total, serious adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Toxicity-related Treatment Withdrawals",
+                    "counts": null
+                  }
+                }
+              }
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "1",
+            "category_list": {
+              "category": {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Grade 3+ Neutropenia",
+                    "counts": null
+                  }
+                }
+              }
+            }
+          }
+        },
+        "limitations_and_caveats": "The trial was terminated due to insufficient recruitment, predominantly attributed to stringent eligibility criteria that limited patient enrollment and a notable incidence of treatment-related toxicities observed in the early stages of the study.",
+        "certain_agreements": {
+          "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+          "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+        },
+        "point_of_contact": {
+          "name_or_title": "David Johnson, M.D., via Johns Hopkins University",
+          "organization": "Johns Hopkins University School of Medicine",
+          "phone": "410-614-4200",
+          "email": "djohnson@jhmi.edu"
+        }
+      }
+    }
+  }
+}
+```

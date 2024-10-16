@@ -1,0 +1,117 @@
+```json
+{"clinical_study": {
+  "required_header": {
+    "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+    "link_text": "Link to the current ClinicalTrials.gov record.",
+    "url": "https://clinicaltrials.gov/ct2/show/NCT02589457"
+  },
+  "id_info": {
+    "org_study_id": "TIC-2020-ASC",
+    "nct_id": "NCT02589457"
+  },
+  "brief_title": "Efficacy and Safety of Ticagrelor in Patients with Acute Coronary Syndrome: A Multicenter Randomized Trial",
+  "sponsors": {
+    "lead_sponsor": {
+      "agency": "Global Cardiac Research Consortium",
+      "agency_class": "Other"
+    }
+  },
+  "source": "Global Cardiac Research Consortium",
+  "oversight_info": {
+    "has_dmc": "Yes"
+  },
+  "brief_summary": {
+    "textblock": "This study was designed to assess the efficacy and safety of ticagrelor in a diverse population of patients diagnosed with acute coronary syndrome (ACS). The investigators sought to determine the therapeutic impact of ticagrelor in relation to conventional therapies. However, numerous challenges, including insufficient patient recruitment, clinical setting variability, and stringent exclusion criteria, ultimately led to a termination of the trial."
+  },
+  "overall_status": "Terminated",
+  "why_stopped": "The trial was terminated due to insufficient recruitment and heterogeneous clinical data, leading to inconclusive findings.",
+  "start_date": "October 2015",
+  "completion_date": "November 2019",
+  "primary_completion_date": "November 30, 2018",
+  "phase": "Phase 4",
+  "study_type": "Interventional",
+  "has_expanded_access": "No",
+  "study_design_info": {
+    "allocation": "Randomized",
+    "intervention_model": "Parallel Assignment",
+    "primary_purpose": "Treatment",
+    "masking": "None (Open Label)"
+  },
+  "primary_outcome": [{
+      "measure": "Composite endpoint of major adverse cardiovascular events (MACE)",
+      "time_frame": "30 days post-treatment initiation",
+      "description": "The occurrence of cardiovascular death, nonfatal myocardial infarction, or urgent revascularization."
+    },
+    {
+      "measure": "Incidence of major bleeding events",
+      "time_frame": "30 days",
+      "description": "Assessment of bleeding events classified according to the PLATO criteria."
+    }
+  ],
+  "number_of_arms": "2",
+  "enrollment": "234",
+  "condition": ["Acute Coronary Syndrome", "Myocardial Infarction", "Unstable Angina"],
+  "arm_group": [{
+      "arm_group_label": "Ticagrelor Arm",
+      "arm_group_type": "Experimental",
+      "description": "Patients received a loading dose of 180 mg of ticagrelor followed by 90 mg twice daily for 30 days."
+    },
+    {
+      "arm_group_label": "Standard Care Arm",
+      "arm_group_type": "Active Comparator",
+      "description": "Patients continued with standard antiplatelet therapy, including clopidogrel 75 mg daily."
+    }
+  ],
+  "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Ticagrelor",
+      "description": "Loading dose of ticagrelor (180 mg) followed by maintenance dose (90 mg bid) for 30 days.",
+      "arm_group_label": "Ticagrelor Arm"
+    },
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Clopidogrel",
+      "description": "Standard antiplatelet therapy with clopidogrel (75 mg once daily) for 30 days.",
+      "arm_group_label": "Standard Care Arm"
+    }
+  ],
+  "eligibility": {
+    "criteria": {
+      "textblock": "Inclusion Criteria:\n\n- Patients aged 18 years and older diagnosed with acute coronary syndrome, including ST-elevation myocardial infarction (STEMI) and unstable angina.\n\nExclusion Criteria:\n\n- Patients with a history of major bleeding diathesis, active malignancy, or contraindications for ticagrelor.\n- Individuals receiving concomitant anticoagulant therapy.\n- Patients with significant renal or hepatic impairment.\n- Pregnancy or nursing females."
+    },
+    "gender": "All",
+    "minimum_age": "18 Years",
+    "maximum_age": "N/A",
+    "healthy_volunteers": "No"
+  },
+  "location": {
+    "facility": {
+      "name": "Multiple Cardiology Centers",
+      "address": {
+        "city": "Various",
+        "country": "United States"
+      }
+    }
+  },
+  "location_countries": {
+    "country": "United States"
+  },
+  "verification_date": "December 2019",
+  "study_first_submitted": "September 10, 2015",
+  "study_first_submitted_qc": "September 15, 2015",
+  "study_first_posted": "September 16, 2015",
+  "last_update_submitted": "November 12, 2019",
+  "last_update_submitted_qc": "November 12, 2019",
+  "last_update_posted": "November 15, 2019",
+  "responsible_party": {
+    "responsible_party_type": "Sponsor"
+  },
+  "keyword": ["Ticagrelor", "Acute Coronary Syndrome", "Antiplatelet Therapy", "Major Bleeding Risk"],
+  "condition_browse": {
+    "mesh_term": ["Acute Coronary Syndrome", "Myocardial Infarction", "Unstable Angina"]
+  },
+  "intervention_browse": {
+    "mesh_term": ["Ticagrelor", "Clopidogrel"]
+  }
+}}
+```

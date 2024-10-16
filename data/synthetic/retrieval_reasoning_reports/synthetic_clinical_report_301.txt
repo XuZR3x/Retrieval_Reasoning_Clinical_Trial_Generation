@@ -1,0 +1,273 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02045492"
+    },
+    "id_info": {
+      "org_study_id": "KP-04062014",
+      "nct_id": "NCT02045492"
+    },
+    "brief_title": "Safety and Efficacy of Paricalcitol in Adults With Chronic Kidney Disease Stages 3-4",
+    "official_title": "A Phase 3, Multicenter, Double-Blind, Randomized, Placebo-Controlled Study of Paricalcitol for the Management of Secondary Hyperparathyroidism in Adults With Chronic Kidney Disease Stages 3-4",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "CKD Therapeutics Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "CKD Therapeutics Inc.",
+    "overall_status": "Completed",
+    "start_date": "March 2014",
+    "completion_date": "July 2016",
+    "primary_completion_date": "April 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in serum intact parathyroid hormone (iPTH) levels from baseline to 24 weeks of treatment.",
+      "time_frame": "Baseline and 24 weeks",
+      "description": "Primary efficacy measure focusing on the reduction in serum iPTH levels post-treatment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in urinary protein levels from baseline to 24 weeks.",
+        "time_frame": "Baseline and 24 weeks",
+        "description": "Assessment of paricalcitol's effect on urinary protein excretion."
+      },
+      {
+        "measure": "Change in estimated glomerular filtration rate (eGFR) from baseline to 24 weeks",
+        "time_frame": "Baseline and 24 weeks"
+      },
+      {
+        "measure": "Proportion of participants achieving iPTH within KDOQI target ranges.",
+        "time_frame": "Week 24",
+        "description": "Evaluation of the effectiveness of treatment in meeting clinical outcome benchmarks."
+      },
+      {
+        "measure": "Change in quality of life score using the KDQOL-36 scale.",
+        "time_frame": "Baseline and 24 weeks"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "240",
+    "condition": "Chronic Kidney Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Paricalcitol Treatment",
+        "arm_group_type": "Experimental",
+        "description": "Participants received paricalcitol 1 µg daily, adjusted based on serum calcium levels."
+      },
+      {
+        "arm_group_label": "Placebo Control",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received a matching placebo daily for 24 weeks."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Paricalcitol",
+      "description": "Daily oral administration of paricalcitol with dose adjustments based on serum calcium concentrations. Comparator group received a matching placebo.",
+      "arm_group_label": ["Paricalcitol Treatment"],
+      "other_name": ["Zemplar"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adults aged 18-75 years with chronic kidney disease (CKD) stages 3-4.\r\n2. Serum intact parathyroid hormone (iPTH) levels >70 pg/mL at screening.\r\n3. Stable doses of antihypertensive medication for at least 3 months.\r\n4. Not anticipated to require dialysis for a minimum of 6 months.\r\n\nExclusion Criteria:\r\n1. Current therapy with vitamin D receptor agonists within 3 months prior to study.\r\n2. Active malignancy or chronic liver disease.\r\n3. History of significant adverse reaction to vitamin D or its analogues.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Rachel Tan, MD",
+      "role": "Principal Investigator",
+      "affiliation": "CKD Therapeutics Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "CKD Research Center",
+        "address": {"city": "San Francisco", "zip": "94107", "country": "USA"}
+      }
+    },
+    "location_countries": {"country": "USA"},
+    "verification_date": "August 2020",
+    "study_first_submitted": "January 30, 2014",
+    "study_first_posted": "February 5, 2014",
+    "last_update_posted": "August 11, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "contact_name": "Theresa Wang, PhD",
+      "contact_affiliation": "CKD Therapeutics Inc."
+    },
+    "keyword": [
+      "Chronic Kidney Disease",
+      "Secondary Hyperparathyroidism",
+      "Vitamin D",
+      "Paricalcitol"
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Participants were recruited from multiple centers across the USA. Screening procedures were conducted from January to March 2014, leading to randomization.",
+        "pre_assignment_details": "Potential participants underwent thorough evaluations for kidney function and endocrine status, with washout periods for disallowed medications.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Paricalcitol Treatment",
+              "description": "Participants received paricalcitol with adjustments made based on serum calcium."
+            },
+            {
+              "title": "Placebo Control",
+              "description": "Participants received placebo treatment without active drug."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {"participants": [240, 0]}
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {"participants": [160, 80]}
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {"participants": [0, 20]}
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Adverse Event",
+                  "participants_list": {"participants": [0, 5]}
+                },
+                {
+                  "title": "Withdrawal by Participant",
+                  "participants_list": {"participants": [0, 10]}
+                },
+                {
+                  "title": "Ineligibility After Enrollment",
+                  "participants_list": {"participants": [0, 5]}
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "baseline": {
+      "group_list": {
+        "group": [
+          {
+            "title": "Paricalcitol Treatment",
+            "description": "Participants who received active treatment."
+          },
+          {
+            "title": "Placebo Control",
+            "description": "Participants receiving placebo."
+          },
+          {
+            "title": "Total",
+            "description": "Total of all reporting groups."
+          }
+        ]
+      },
+      "analyzed_list": {
+        "analyzed": {
+          "units": "Participants",
+          "scope": "Overall",
+          "count_list": {"count": [160, 80, 240]}
+        }
+      },
+      "measure_list": {
+        "measure": [
+          {
+            "title": "Age",
+            "units": "years",
+            "param": "Mean",
+            "dispersion": "Standard Deviation"
+          },
+          {
+            "title": "Sex: Female, Male",
+            "units": "Participants",
+            "param": "Count of Participants"
+          }
+        ]
+      }
+    },
+    "reported_events": {
+      "time_frame": "From the first dose of study drug until the last dose of study drug and for 30 days post-treatment.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Paricalcitol Treatment",
+            "description": "Receiving paricalcitol."
+          },
+          {
+            "title": "Placebo Control",
+            "description": "Receiving placebo."
+          }
+        ]
+      },
+      "serious_events": {
+        "default_vocab": "MedDRA 20.0",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {"event": {"sub_title": "Total, serious adverse events", "counts": [0, 3]}}
+            },
+            {
+              "title": "Cardiac disorders",
+              "event_list": {"event": {"sub_title": "Myocardial infarction", "counts": [0, 1]}}
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {"event": {"sub_title": "Nausea", "counts": [0, 2]}}
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "0",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total, other adverse events",
+              "event_list": {"event": {"sub_title": "Total, other adverse events", "counts": [0, 30]}}
+            },
+            {
+              "title": "Infections and infestations",
+              "event_list": {"event": {"sub_title": "Upper respiratory infection", "counts": [0, 15]}}
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "CKD Therapeutics Inc. requests that any investigator or institution that plans to present/publish results notify the organization 60 days prior to the submission for review."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trial Management",
+      "organization": "CKD Therapeutics Inc.",
+      "phone": "800-555-0199"
+    }
+  }
+}
+```

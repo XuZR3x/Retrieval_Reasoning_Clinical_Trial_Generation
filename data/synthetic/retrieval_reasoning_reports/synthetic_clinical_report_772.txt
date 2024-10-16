@@ -1,0 +1,151 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00847385"
+    },
+    "id_info": {
+      "org_study_id": "PEG-NEUTRO",
+      "nct_id": "NCT00847385"
+    },
+    "brief_title": "Evaluation of Pegfilgrastim in Reducing Severe Neutropenia in Breast Cancer Chemotherapy",
+    "official_title": "Randomized Phase III Trial to Assess the Efficacy of Pegfilgrastim in Preventing Severe Neutropenia and Associated Complications in Patients Undergoing High-Dose Chemotherapy for Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Health Economics Board",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Oncology Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The primary objective of this trial was to evaluate the effectiveness of pegfilgrastim in preventing the incidence of severe neutropenia during chemotherapy regimens associated with a high risk of febrile neutropenia in patients diagnosed with breast cancer. The secondary objectives included assessment of treatment-related quality of life metrics and cost-effectiveness analysis."
+    },
+    "detailed_description": {
+      "textblock": "This Phase III study was designed as a multicenter, randomized, controlled trial. The investigational hypothesis was that patients receiving pegfilgrastim prophylaxis alongside chemotherapy would report a lower incidence of severe neutropenia compared to those receiving standard care.\n\nOBJECTIVES:\n  - To assess the reduction in the rate of severe neutropenia (ANC < 500 cells/mm³) in patients receiving pegfilgrastim during chemotherapy.\n  - To compare the frequency of febrile neutropenia episodes and the subsequent healthcare utilization.\n  - To evaluate the quality of life measures through validated scales (EORTC QLQ-C30).\n\nPROCEDURES:\nPatients were stratified based on their risk profiles as moderate to high risk for developing febrile neutropenia. Despite initial intentions, patient stratification was inadequate, leading to the inadvertent inclusion of a significant number of low-risk patients, thereby diminishing observed treatment effects. Randomization divided patients into two arms:\n  - Arm A: Patients receiving standard chemotherapy without pegfilgrastim.\n  - Arm B: Patients receiving chemotherapy in combination with pegfilgrastim following standard dosing guidelines.\n\nPROTOCOL CHALLENGES:\nChallenges emerged with the study protocol, such as inconsistent administration of pegfilgrastim particularly regarding timing in relation to chemotherapy cycles. Variability in the dosing schedule resulted in a lack of standardization, leading to compromised outcomes and interpretations. Despite initial observations of reduced occurrences of neutropenia, the absence of a measurable improvement in overall survival rates posed critical questions about the clinical significance of the findings.\n\nSAFETY ANALYSIS:\nIncreased rates of adverse events, mostly hematologic in nature, emerged as a primary concern for patients receiving pegfilgrastim. Reports indicated exacerbated immune-related side effects and an elevated perception of treatment risk among the patient population. These unexpected outcomes, coupled with the existing economic constraints associated with pegfilgrastim, further influenced the reluctance of clinicians to enroll patients or embrace the treatment.\n\nECONOMIC CONSIDERATIONS:\nWith healthcare costs under scrutiny, the marginal benefits provided by pegfilgrastim in the context of febrile neutropenia prevention were significantly undermined. It became evident that the economic viability of incorporating pegfilgrastim as a standard prophylactic measure was questionable given its cost relative to the minimal clinical efficacy demonstrated.\n\nPROJECTED ACCRUAL:\nThe trial initially projected to enroll 400 patients. However, due to these cumulative factors, the actual enrollment reached only 245 patients before being terminated."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2009",
+    "completion_date": "July 2015",
+    "primary_completion_date": "March 2014",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Prevention",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Severe Neutropenia",
+      "time_frame": "Every cycle during chemotherapy"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Quality of Life Metrics",
+        "time_frame": "At baseline, after completion of chemotherapy, and every 3-month follow-up"
+      },
+      {
+        "measure": "Healthcare Utilization Rates",
+        "time_frame": "Throughout the study duration"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "245",
+    "condition": "Breast Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receiving standard chemotherapy regimen without pegfilgrastim."
+      },
+      {
+        "arm_group_label": "Arm B",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving standard chemotherapy regimen with pegfilgrastim administered 24 hours after chemotherapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "pegfilgrastim",
+        "description": "Administered subcutaneously at a standard dose of 6 mg on day 5 post-chemotherapy."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n  - Patients aged 18 years and older.\n  - Confirmed diagnosis of breast cancer.\n  - Scheduled to receive high-dose chemotherapy indicated for breast cancer.\n  - Informed consent provided.\n\nEXCLUSION CRITERIA:\n  - Active immunological disorders or infections.\n  - Severe renal or hepatic impairment.\n  - Prior treatment with growth factors within 30 days."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Anna Jacobs, MD",
+        "role": "Study Chair",
+        "affiliation": "Oncology Research Institute"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Research Institute",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02130",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "General Hospital Oncology Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "February 24, 2009",
+    "study_first_submitted_qc": "February 25, 2009",
+    "study_first_posted": "April 1, 2009",
+    "last_update_submitted": "April 13, 2021",
+    "last_update_submitted_qc": "April 14, 2021",
+    "last_update_posted": "April 16, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Oncology Research Institute",
+      "investigator_full_name": "Dr. Anna Jacobs"
+    },
+    "keyword": [
+      "breast cancer",
+      "pegfilgrastim",
+      "chemotherapy",
+      "febrile neutropenia",
+      "neutropenia prevention"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms", "Febrile Neutropenia", "Neutropenia"]
+    }
+  }
+}
+```

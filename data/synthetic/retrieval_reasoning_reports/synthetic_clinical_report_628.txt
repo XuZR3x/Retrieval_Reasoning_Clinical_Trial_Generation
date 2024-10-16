@@ -1,0 +1,109 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on February 21, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03007874"
+    },
+    "id_info": {
+      "org_study_id": "Telvi-CKD2018",
+      "nct_id": "NCT03007874"
+    },
+    "brief_title": "Impact of Telbivudine on Patients with Chronic Hepatitis B and Stage 3 Chronic Kidney Disease",
+    "official_title": "A Multicenter, Open-label, Randomized Study to Evaluate the Efficacy and Safety of Telbivudine in Patients Suffering from Both Chronic Hepatitis B and Stage 3 Chronic Kidney Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Healthcare Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Healthcare Research Institute",
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and failure to meet primary safety endpoints.",
+    "start_date": "January 2018",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Hepatitis B Viral Load",
+      "time_frame": "24 weeks",
+      "description": "The primary endpoint will assess the change in HBV DNA levels from baseline to 24 weeks."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Changes in Renal Function as Measured by eGFR",
+        "time_frame": "Baseline to 24 weeks",
+        "description": "Assess the change in estimated glomerular filtration rate (eGFR) during the treatment period."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "During treatment period",
+        "description": "Document and evaluate the occurrence of adverse events related to telbivudine use."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": "Chronic Hepatitis B, Chronic Kidney Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Telbivudine Treatment Group",
+        "arm_group_type": "Experimental",
+        "description": "Participants in this arm will receive telbivudine 600 mg orally once daily for 24 weeks."
+      },
+      {
+        "arm_group_label": "Control Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will continue with standard care without the addition of telbivudine for 24 weeks."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Telbivudine",
+      "description": "600 mg oral tablet once daily",
+      "arm_group_label": "Telbivudine Treatment Group"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Adults aged 18-70 years\n- Confirmed diagnosis of chronic hepatitis B\n- Stage 3 chronic kidney disease (eGFR 30-59 mL/min)\n- HBV DNA levels > 2000 IU/mL\n\nExclusion Criteria:\n\n- Current pregnancy or breastfeeding\n- History of hypersensitivity to telbivudine\n- Significant comorbidities that could interfere with the study.\n",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "70 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "location": [{
+      "facility": {
+        "name": "Healthcare Research Institute Central",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "United States"
+        }
+      }
+    }],
+    "verification_date": "November 2020",
+    "study_first_submitted": "December 15, 2017",
+    "study_first_posted": "December 20, 2017",
+    "last_update_posted": "May 5, 2021",
+    "responsible_party": {
+      "name_title": "Lead Investigator",
+      "organization": "Healthcare Research Institute",
+      "investigator_full_name": "Dr. Jane Smith",
+      "investigator_title": "Clinical Researcher"
+    },
+    "keyword": ["Telbivudine", "Chronic Kidney Disease", "Chronic Hepatitis B", "Viral Suppression"],
+    "limitations_and_caveats": "The study encountered significant challenges related to recruitment due to strict eligibility criteria and unexpected safety concerns resulting in heightened scrutiny of the safety profile of telbivudine, which ultimately affected retention and subsequent enrollment.",
+    "reported_events": {
+      "desc": "Safety data was collected; however, recruitment challenges resulted in insufficient data to perform a comprehensive safety analysis."
+    }
+  }
+}
+```

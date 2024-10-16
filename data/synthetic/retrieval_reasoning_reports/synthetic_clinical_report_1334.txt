@@ -1,0 +1,131 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04254801"
+    },
+    "id_info": {
+      "org_study_id": "REG-ADVISE-2023",
+      "nct_id": "NCT04254801"
+    },
+    "brief_title": "Regorafenib in Advanced Head and Neck Squamous Cell Carcinoma",
+    "official_title": "A Phase II Study Evaluating the Efficacy and Safety of Regorafenib in Patients with Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma Who Have Progressed After Standard Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute for Head and Neck Cancer Research",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Bayer AG",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Institute for Head and Neck Cancer Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to establish the therapeutic benefits of regorafenib in patients diagnosed with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) after failure of conventional therapies. The primary endpoint is overall survival (OS), evaluated within an open-label, multi-center framework."
+    },
+    "detailed_description": {
+      "textblock": "Regorafenib is a potent oral multi-kinase inhibitor that targets various receptor tyrosine kinases, which play critical roles in tumor cell proliferation and angiogenesis. Building on previous successes in treating other malignancies, this trial is designed with a robust population of HNSCC patients who have histologically confirmed disease and meet specific inclusion criteria regarding prior treatments. The study utilized established metrics for evaluating efficacy, including overall survival (OS) and progression-free survival (PFS). \n\nPatients were enrolled who demonstrated measurable disease per RECIST criteria following prior chemotherapy and radiotherapy regimens. A tailored dosing strategy was implemented, characterizing both compliance and safety outcomes based on intensive monitoring protocols to mitigate adverse event prevalence. Furthermore, patients were stratified based on biomarker expression profiles to discern predictive factors that may anticipate varied responses to treatment.\n\nThe trial was conducted across several leading institutions, facilitating data collection that allows for comparative analyses against existing therapeutic paradigms."
+    },
+    "overall_status": "Completed",
+    "start_date": "May 2020",
+    "completion_date": "March 2023",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall survival (OS)",
+      "time_frame": "From the date of treatment initiation until date of death from any cause, up to 36 months",
+      "description": "The overall survival was defined as the time from the initiation of regorafenib therapy to the date of patient death, providing key insights into long-term therapeutic efficacy."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free survival (PFS)",
+        "time_frame": "From the date of treatment initiation until the date of first documented progression or death from any cause, whichever comes first",
+        "description": "PFS was evaluated to quantify the duration during which patients experienced no disease progression following treatment initiation."
+      },
+      {
+        "measure": "Objective response rate (ORR)",
+        "time_frame": "Up to 36 months",
+        "description": "ORR was assessed as the percentage of patients with a complete or partial response, serving as an important secondary efficacy measure."
+      },
+      {
+        "measure": "Disease control rate (DCR)",
+        "time_frame": "Approximately 36 months",
+        "description": "DCR encompassed all responses marked as complete response plus partial response and stable disease, providing a comprehensive view of the treatment's effectiveness."
+      },
+      {
+        "measure": "Safety profile",
+        "time_frame": "Approximately every 28 days during treatment and via follow-up until 30 days post-treatment",
+        "description": "Safety assessment was performed using the Common Terminology Criteria for Adverse Events (CTCAE) to monitor and grade adverse events."
+      }
+    ],
+    "enrollment": "102",
+    "condition": "Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Regorafenib",
+      "description": "Regorafenib administered at a dose of 160 mg orally once daily for 21 days followed by a 7-day rest period.",
+      "other_name": "Stivarga"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Age ≥ 18 years\n- Histologically confirmed recurrent or metastatic HNSCC\n- Evidence of disease progression post conventional therapies (chemotherapy and/or radiation)\n- Measurable disease as per RECIST 1.1 criteria\n- Adequate organ function as defined by protocol specifications\n\nExclusion Criteria:\n\n- Prior treatment with regorafenib\n- Active systemic infections or uncontrolled medical conditions\n- Pregnancy or lactation\n- Other malignancies within the last five years (excluding basal cell carcinoma)",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Luca Rossi, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Institute for Head and Neck Cancer Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Institute for Head and Neck Cancer Research",
+        "address": {
+          "city": "Florence",
+          "zip": "50129",
+          "country": "Italy"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Italy"
+    },
+    "verification_date": "May 2023",
+    "study_first_submitted": "February 15, 2020",
+    "study_first_submitted_qc": "March 2, 2020",
+    "study_first_posted": "March 4, 2020",
+    "last_update_submitted": "April 10, 2023",
+    "last_update_submitted_qc": "April 10, 2023",
+    "last_update_posted": "April 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_full_name": "Luca Rossi, MD",
+      "investigator_affiliation": "Institute for Head and Neck Cancer Research"
+    },
+    "keyword": ["regorafenib", "HNSCC", "multi-kinase inhibitor"],
+    "condition_browse": {
+      "mesh_term": "Squamous Cell Carcinoma, Head and Neck"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

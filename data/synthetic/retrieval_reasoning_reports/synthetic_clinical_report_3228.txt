@@ -1,0 +1,138 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04500231"
+    },
+    "id_info": {
+      "org_study_id": "HIV-TRIAL-2022-07",
+      "nct_id": "NCT04500231"
+    },
+    "brief_title": "Efficacy of Efavirenz in Diverse HIV-1 Infected Populations: A Multi-Center Open-Label Study",
+    "official_title": "A Multi-Center, Open-Label Study to Assess the Efficacy and Safety of Efavirenz in HIV-1 Infected Adults with Varied Baseline Characteristics",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Institute for HIV Research",
+        "agency_class": "Non-Profit"
+      },
+      "collaborator": {
+        "agency": "World Health Organization",
+        "agency_class": "International"
+      }
+    },
+    "source": "Global Institute for HIV Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of efavirenz in a diverse cohort of HIV-1 infected adults, including those with varying CD4+ T-cell counts and comorbidities. The outcome measurement focuses on viral load reduction and CD4+ count stabilization over a period of 48 weeks."
+    },
+    "detailed_description": {
+      "textblock": "The escalating HIV/AIDS epidemic necessitates effective antiretroviral regimens that can cater to diverse patient populations. This open-label, multi-center trial targets HIV-infected adults with differing baseline clinical conditions, particularly those with CD4+ T-cell counts ranging from 50 to 350 cells/mm3, along with comorbidities such as active tuberculosis, to ascertain the effectiveness of standard efavirenz therapy. A total of 300 participants will be enrolled, with stratification based on baseline CD4+ count.\n\nKey aspects of the study include pharmacokinetic assessments to optimize dosing, particularly emphasizing the lower effective dosage of efavirenz (400 mg) to mitigate adverse effects. The monitoring of adherence through directly observed therapy will be implemented to enhance accurate assessments of virologic suppression and patient responses.\n\nThis trial will be conducted across six clinical centers known for their expertise in HIV management. The structured oversight and engagement of a collaborative network of health professionals, enriched by continuous training and resource allocation, further strengthens the trial’s execution."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "June 2022",
+    "primary_completion_date": "May 2022",
+    "phase": "Phase 2/3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Plasma HIV-1 Viral Load Reduction (≥ 1 log10 copies/mL)",
+      "time_frame": "At 48 weeks",
+      "description": "Assessment of virologic suppression defined as a reduction in plasma HIV-1 viral load by at least 1 log10 copies/mL from baseline."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in CD4+ T-Cell Count",
+        "time_frame": "Baseline to Week 48",
+        "description": "Absolute change in CD4+ T-cell count from baseline to week 48."
+      },
+      {
+        "measure": "Adverse Events Profile",
+        "time_frame": "Throughout study",
+        "description": "Monitoring of clinical adverse events, categorized as per the Division of AIDS (DAIDS) Table for Grading the Severity of Adverse Events."
+      },
+      {
+        "measure": "Patient Adherence Rates",
+        "time_frame": "Throughout study",
+        "description": "Percentage of patients achieving ≥90% adherence to efavirenz regimen assessed through directly observed therapy methods."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "300",
+    "condition": ["HIV Infections"],
+    "arm_group": {
+      "arm_group_label": "Efavirenz Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "All participants will receive efavirenz 600 mg orally once daily alongside standard care, with a focus on adherence support and monitoring."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Efavirenz",
+        "description": "600 mg orally once daily, administered as part of a comprehensive antiretroviral treatment regimen.",
+        "arm_group_label": "Efavirenz Treatment Group",
+        "other_name": "EFV"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tenofovir/Emtricitabine",
+        "description": "Standard combination therapy administered alongside efavirenz.",
+        "arm_group_label": "Efavirenz Treatment Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - HIV-1 infected adults aged 18 to 65 years.\n  - CD4+ T-cell count between 50 and 350 cells/mm3 at screening.\n  - Patients actively receiving treatment for tuberculosis are eligible.\n  - Ability to provide informed consent.\n  - Willing to participate in adherence monitoring via directly observed therapy.\n\nExclusion Criteria:\n  - Previous failure of efavirenz or related agents.\n  - Pregnant or breastfeeding women.\n  - Concomitant use of contraindicated medications.\n  - Serious non-HIV-related comorbid conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [{
+        "last_name": "Lina Rodriguez, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Global Institute for HIV Research"
+      },
+      {
+        "last_name": "Michael Thompson, PhD",
+        "role": "Study Director",
+        "affiliation": "World Health Organization"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Various Clinical Sites",
+        "address": {
+          "city": "Multiple Locations",
+          "country": "International"
+        }
+      }
+    },
+    "location_countries": {
+      "country": ["USA", "Brazil", "South Africa", "India"]
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "July 10, 2020",
+    "study_first_posted": "July 15, 2020",
+    "last_update_submitted": "June 5, 2022",
+    "last_update_posted": "July 5, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Efavirenz", "HIV", "Multi-Center Study", "Viral Load", "CD4 T-Cell Count", "Tuberculosis Management"],
+    "intervention_browse": {
+      "mesh_term": ["Efavirenz", "Tenofovir", "Emtricitabine"]
+    }
+  }
+}
+```

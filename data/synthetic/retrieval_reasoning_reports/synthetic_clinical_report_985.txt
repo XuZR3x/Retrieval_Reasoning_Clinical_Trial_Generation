@@ -1,0 +1,168 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02536789"
+    },
+    "id_info": {
+      "org_study_id": "D4200C00129",
+      "nct_id": "NCT02536789"
+    },
+    "brief_title": "A Phase II Study of Vandetanib for Patients with Advanced Renal Cell Carcinoma",
+    "official_title": "A Phase II, Open-label, Multicenter Study to Evaluate the Efficacy and Safety of Vandetanib in Patients with Advanced Clear Cell Renal Carcinoma Following Progression on Standard Therapies",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of vandetanib in patients with advanced clear cell renal carcinoma who have experienced disease progression following treatment with standard therapies such as sunitinib or sorafenib."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2016",
+    "completion_date": "March 2018",
+    "primary_completion_date": "March 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "12 months from the start of vandetanib treatment",
+      "description": "The proportion of patients with a best overall response of complete response (CR) or partial response (PR) as evaluated by RECIST criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from the start of treatment until the date of the first objective progression or death from any cause.",
+        "description": "The time from the start of treatment until disease progression or death, calculated using RECIST criteria."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Overall survival time measured from randomization to death, assessed up to 24 months.",
+        "description": "The interval from the date of treatment onset until the date of death from any cause."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study treatment period.",
+        "description": "The frequency, severity, and relationship of adverse events recorded during the trial."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "12",
+    "condition": "Advanced Clear Cell Renal Carcinoma",
+    "arm_group": {
+      "arm_group_label": "Vandetanib Treatment Group",
+      "arm_group_type": "Experimental",
+      "description": "Patients received a daily oral dose of 300 mg of vandetanib for 28 consecutive days in a cycle continued until disease progression or unacceptable toxicity."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Vandetanib",
+      "description": "A daily dose of 300 mg orally, provided continuously in 28-day cycles."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients aged ≥ 18 years with histologically confirmed advanced clear cell renal cell carcinoma.\n\n- Prior treatment with at least one VEGF inhibitor (such as sunitinib or sorafenib) with documented progression.\n\n- Measurable disease according to RECIST criteria.\n\n- ECOG performance status of 0-2.\n\n- Adequate organ function as defined by specific laboratory values.\n\nExclusion Criteria:\n\n- Prior treatment with vandetanib or any other investigational agents.\n\n- Active brain metastases or other malignancies.\n\n- Significant cardiovascular history, including myocardial infarction within 6 months prior to enrollment or ongoing arrhythmias.\n\n- Uncontrolled hypertension or other significant comorbid conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Institutes of Health Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Since initiation on January 2016, the study faced substantial hurdles in subject recruitment and only 12 participants were enrolled, leading to the trial being terminated ahead of schedule on March 2018 due to insufficient statistics.",
+        "pre_assignment_details": "Of the 50 patients evaluated for eligibility, only 12 met the stringent inclusion criteria and consented to participate."
+      },
+      "reported_events": {
+        "severe_adverse_events": {
+          "description": "Adverse events of note included hypertension in 75% of subjects, marked gastrointestinal disturbances (including grade 3 diarrhea), and one instance of acute cardiac failure requiring hospitalization.",
+          "group_list": {
+            "group": {
+              "title": "Adverse Events Summary",
+              "description": " Notably, the high incidence of cardiovascular events was a significant cause for concern."
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total, other adverse events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Adverse Events Overview",
+                    "counts": "Over 95% of participants reported at least one adverse event."
+                  }
+                }
+              },
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": [
+                    {
+                      "sub_title": "Nausea",
+                      "counts": "12 cases"
+                    },
+                    {
+                      "sub_title": "Grade 3 Diarrhea",
+                      "counts": "8 cases"
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Vascular disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Hypertension",
+                    "counts": "9 cases"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the study sponsor.",
+      "restrictive_agreement": "There are no agreements that limit the PI rights to discuss or publish the study results."
+    },
+    "limitations_and_caveats": "Trial termination was largely attributed to insufficient patient accrual which rendered the trial statistically unfeasible. The stringent eligibility criteria further impacted recruitment effectiveness."
+  }
+}
+```

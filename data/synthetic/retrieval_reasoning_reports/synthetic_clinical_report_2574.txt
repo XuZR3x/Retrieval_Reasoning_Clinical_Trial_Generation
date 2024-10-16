@@ -1,0 +1,120 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00912345"
+    },
+    "id_info": {
+      "org_study_id": "ZOL-BC-2010",
+      "nct_id": "NCT00912345"
+    },
+    "brief_title": "Evaluating the Efficacy of Zoledronic Acid in Patients With Triple-Negative Breast Cancer",
+    "official_title": "A Phase 3, Multicenter, Randomized Trial Assessing the Impact of Zoledronic Acid on Disease-Free Survival in Patients With Triple-Negative Breast Cancer Undergoing Standard Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Toronto",
+        "agency_class": "Academic"
+      }
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to determine if the addition of zoledronic acid to standard chemotherapy significantly enhances disease-free survival rates in patients with triple-negative breast cancer (TNBC). Despite prior studies showing potential benefits for bisphosphonates in breast cancer management, this trial failed to demonstrate any statistically significant difference in outcomes."
+    },
+    "overall_status": "Terminated",
+    "start_date": "January 2010",
+    "completion_date": "December 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Disease-free survival at 5 years, defined as the time from randomization until documented disease recurrence or death from any cause.",
+      "time_frame": "5 years"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall survival rates in both treatment arms.",
+        "time_frame": "5 years"
+      },
+      {
+        "measure": "Incidence of skeletal-related events, including fractures and hypercalcemia.",
+        "time_frame": "5 years"
+      },
+      {
+        "measure": "Assessment of adverse effects, particularly focusing on osteonecrosis of the jaw and renal function over the treatment period.",
+        "time_frame": "5 years"
+      }
+    ],
+    "enrollment": "600",
+    "condition": "Triple-Negative Breast Cancer",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Zoledronic acid",
+      "description": "Intravenous administration of zoledronic acid (4 mg every 4 weeks) during standard chemotherapy regimen."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Diagnosis of stage II or III triple-negative breast cancer.\r\n- Patients must receive standard chemotherapy regimen during trial.\r\n- Age 18 years or older, female.\r\n- Adequate renal function defined as creatinine clearance of > 30 ml/min.\r\n\r\nExclusion Criteria:\r\n- Prior history of bisphosphonate treatment.\r\n- Known hypersensitivity to zoledronic acid.\r\n- Concurrent participation in other investigational drug trials."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Study Chair",
+      "affiliation": "University of Toronto"
+    },
+    "location": {
+      "facility": {
+        "address": {
+          "city": "Toronto",
+          "country": "Canada"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Canada"
+    },
+    "verification_date": "January 2016",
+    "study_first_submitted": "September 15, 2009",
+    "study_first_posted": "September 20, 2009",
+    "last_update_posted": "March 10, 2016",
+    "keyword": ["Zoledronic acid", "Triple-negative breast cancer", "Chemotherapy", "Disease-free survival"],
+    "condition_browse": {
+      "mesh_term": ["Breast Neoplasms", "Neoplasm Metastasis"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Zoledronic Acid"
+    },
+    "failure_reason": [
+      {
+        "reason": "Insufficient patient stratification",
+        "details": "This trial did not adequately stratify enrolled patients based on metastatic patterns or prior treatment responses, thus limiting the interpretation of zoledronic acid's efficacy in high-risk subpopulations exclusive to TNBC."
+      },
+      {
+        "reason": "Inadequate dosing intervals",
+        "details": "The administration protocol of zoledronic acid varied widely across sites, exposing the trial to potential pharmacokinetic variances, which may have adversely affected expected clinical benefits."
+      },
+      {
+        "reason": "Non-adherence to intervention protocols",
+        "details": "The open-label design led to fluctuations in treatment adherence; variations in drug administration during chemotherapy confounded efficacy assessment."
+      },
+      {
+        "reason": "Enhanced adverse event profile",
+        "details": "Monitoring revealed unexpected high rates of bone-related complications, particularly concerning osteonecrosis of the jaw and renal toxicity, resulting in increased treatment discontinuation."
+      },
+      {
+        "reason": "Evolving treatment standards",
+        "details": "As new systemic therapies emerged during the study's duration, the relevance and perceived efficacy of zoledronic acid in the treatment protocol became obscured, leading to diminished focus and compliance."
+      }
+    ]
+  }
+}
+```

@@ -1,0 +1,200 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03726111"
+    },
+    "id_info": {
+      "org_study_id": "SPECTRA",
+      "nct_id": "NCT03726111"
+    },
+    "brief_title": "A Multicenter Study of Peginterferon Alfa-2a in Patients With Chronic Hepatitis D Infection",
+    "acronym": "SPECTRA",
+    "official_title": "Phase II Multicenter, Open-Label Study to Evaluate the Efficacy and Safety of Peginterferon Alfa-2a in Patients With Chronic Hepatitis D Virus Infection",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "International Society for Hepatology Research",
+        "agency_class": "Non-profit"
+      }
+    },
+    "source": "International Society for Hepatology Research",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the safety and efficacy of peginterferon alfa-2a in patients diagnosed with chronic Hepatitis D infection over a treatment period of 48 weeks. The primary outcome measure is the rate of hepatitis D virus (HDV) RNA seroclearance."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, open-label study aims to assess the efficacy of peginterferon alfa-2a among patients with chronic Hepatitis D. The study involves a randomized allocation to either high-dose or standard-dose treatment groups, each monitored meticulously for virological and clinical responses, including quality of life assessments and incidence of adverse reactions."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "June 2022",
+    "primary_completion_date": "April 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of HDV RNA Seroclearance",
+      "time_frame": "At 24 weeks post-treatment",
+      "description": "Hepatitis D virus RNA seroclearance defined as undetectable HDV RNA in serum, assessed at 24 weeks after treatment completion."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Liver Enzyme Levels",
+        "time_frame": "Baseline to week 48",
+        "description": "Change in alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels from baseline to end of treatment."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "At baseline, and weeks 24 and 48",
+        "description": "Evaluation of participants' quality of life through standardized questionnaires at specified intervals."
+      },
+      {
+        "measure": "Adverse Events Monitoring",
+        "time_frame": "Throughout treatment duration",
+        "description": "Comprehensive assessment of adverse events experienced by participants during the treatment period."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Hepatitis D, Chronic",
+    "arm_group": [
+      {
+        "arm_group_label": "High-Dose Peginterferon alfa-2a",
+        "arm_group_type": "Experimental",
+        "description": "Participants received peginterferon alfa-2a at a dosage of 270 µg once weekly for 48 weeks."
+      },
+      {
+        "arm_group_label": "Standard-Dose Peginterferon alfa-2a",
+        "arm_group_type": "Experimental",
+        "description": "Participants received peginterferon alfa-2a at a dosage of 180 µg once weekly for 48 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Peginterferon alfa-2a",
+        "description": "Peginterferon alfa-2a administered as either 270 µg or 180 µg subcutaneously once weekly for 48 weeks.",
+        "arm_group_label": ["High-Dose Peginterferon alfa-2a", "Standard-Dose Peginterferon alfa-2a"],
+        "other_name": "Pegasys"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18-65 years\n- Chronic Hepatitis D infection confirmed by serological and virological testing\n- Liver function tests within acceptable limits\n\nExclusion Criteria:\n- Co-infection with HIV, HBV or HCV\n- Presence of decompensated liver disease\n- Prior treatment with antiviral therapy for HDV"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Alice Thornton",
+      "role": "Principal Investigator",
+      "affiliation": "International Society for Hepatology Research"
+    },
+    "location": {
+      "facility": {
+        "name": "Multiple Research Centers",
+        "address": {
+          "city": "Various Cities Worldwide",
+          "country": "Global"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Global"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "November 15, 2018",
+    "study_first_submitted_qc": "November 17, 2018",
+    "study_first_posted": "November 20, 2018",
+    "last_update_submitted": "July 8, 2022",
+    "last_update_posted": "July 15, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "party_name": "International Society for Hepatology Research"
+    },
+    "condition_browse": {
+      "mesh_term": ["Hepatitis D", "Hepatitis D, Chronic"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Peginterferon alfa-2a"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "A total of 210 participants screened. Of these, 200 were randomized into the two treatment groups, and 10 participants screen failed due to exclusion criteria.",
+        "group_list": {
+          "group": [
+            {
+              "title": "High-Dose Peginterferon alfa-2a",
+              "description": "Received peginterferon alfa-2a at 270 µg once weekly for 48 weeks."
+            },
+            {
+              "title": "Standard-Dose Peginterferon alfa-2a",
+              "description": "Received peginterferon alfa-2a at 180 µg once weekly for 48 weeks."
+            }
+          ]
+        }
+      },
+      "baseline": {
+        "population": "The intent-to-treat (ITT) analysis included all randomized participants who received at least one dose of the study treatment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "High-Dose Peginterferon alfa-2a",
+              "description": "200 μg weekly for 48 weeks."
+            },
+            {
+              "title": "Standard-Dose Peginterferon alfa-2a",
+              "description": "270 μg weekly for 48 weeks."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Rate of HDV RNA Seroclearance",
+            "description": "Measured at 24 weeks after treatment completion. The seroclearance was defined as undetectable HDV RNA in serum.",
+            "time_frame": "At 24 weeks post-treatment",
+            "population": "Participants who completed 48 weeks of treatment.",
+            "measure": {
+              "title": "Hepatitis D RNA levels",
+              "description": "Comparison of the group to evaluate efficacy.",
+              "units": "percentage of participants achieving seroclearance",
+              "param": "Percentage"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Throughout treatment duration.",
+        "desc": "Assessment of adverse events that occurred during the study.",
+        "group_list": {
+          "group": [
+            {
+              "title": "High-Dose Peginterferon alfa-2a",
+              "description": "Monitoring for severe adverse events including flu-like symptoms and liver enzyme elevation."
+            },
+            {
+              "title": "Standard-Dose Peginterferon alfa-2a",
+              "description": "Tracking of minor adverse events like fatigue and gastrointestinal distress."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,150 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03572842"
+    },
+    "id_info": {
+      "org_study_id": "TXA-BT-2018",
+      "nct_id": "NCT03572842"
+    },
+    "brief_title": "Utilization of Tranexamic Acid for Blood Conservation in Complex Spine Surgeries",
+    "official_title": "Efficacy and Safety of Tranexamic Acid in Reducing Blood Loss in Patients Undergoing Complex Spine Surgery: A Multicentric, Randomized, Double-Blinded Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute of Orthopaedics and Traumatology, University Hospital",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "Institute of Orthopaedics and Traumatology",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the impact of tranexamic acid on reducing perioperative blood loss and the need for blood transfusions in patients undergoing complex spine surgeries. This group typically exhibits high morbidity due to significant intraoperative bleeding risks."
+    },
+    "detailed_description": {
+      "textblock": "Complex spine surgeries often result in significant intraoperative and postoperative blood loss due to extensive soft tissue dissection and surgical manipulation of involved anatomical structures. Tranexamic acid has shown efficacy in minimizing hemorrhage in various surgical fields, but its effects remain underexplored specifically in spine applications. This trial sought to determine if patients receiving tranexamic acid would show measurable reductions in total blood loss and subsequent transfusion needs compared to placebo."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient enrollment due to recruitment challenges and lack of awareness regarding tranexamic acid's potential benefits.",
+    "start_date": "January 2019",
+    "completion_date": "December 2020",
+    "primary_completion_date": "June 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Total Blood Loss",
+      "time_frame": "Intraoperative and postoperative period (up to 48 hours post-surgery)",
+      "description": "Quantified in milliliters via the surgical drainage system and calculation of estimated blood loss."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Number of Blood Transfusions",
+        "time_frame": "During hospital stay (up to 7 days post-surgery)",
+        "description": "Recorded for each patient from their electronic health records."
+      },
+      {
+        "measure": "Length of Hospital Stay",
+        "time_frame": "From surgery completion to discharge (typically less than 10 days)",
+        "description": "Documented in patient discharge summaries."
+      },
+      {
+        "measure": "Adverse Events Related to TXA Administration",
+        "time_frame": "Up to 30 days post-surgery",
+        "description": "Documented through routine follow-up visits and hospital readmission logs."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": ["Spinal Surgery", "Blood Loss"],
+    "arm_group": [
+      {
+        "arm_group_label": "Tranexamic Acid Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients received a preoperative bolus of 1g tranexamic acid followed by a continuous intravenous infusion of 10mg/hr for the duration of surgery."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients received a preoperative bolus of saline followed by a matching IV infusion."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tranexamic Acid",
+        "description": "Administered as a bolus of 1g IV prior to incision, followed by a continuous infusion.",
+        "arm_group_label": "Tranexamic Acid Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Administered as an equivalent saline solution to maintain blinding.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients undergoing elective complex spinal surgical procedures.\n- Age 18 years and older.\n- Informed consent provided.\n\nExclusion Criteria:\n- Known allergies to tranexamic acid.\n- Active bleeding disorders.\n- History of thromboembolic events within the past year.\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Laura T. Meyer, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Institute of Orthopaedics and Traumatology"
+      },
+      {
+        "last_name": "John P. Green, MD",
+        "role": "Study Chair",
+        "affiliation": "Institute of Orthopaedics and Traumatology"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "University Hospital Orthopaedics Centre",
+        "address": {
+          "city": "Metropolis",
+          "state": "New Jersey",
+          "zip": "07001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "December 15, 2018",
+    "study_first_posted": "January 2, 2019",
+    "last_update_posted": "August 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Institute of Orthopaedics and Traumatology",
+      "investigator_full_name": "Laura T. Meyer",
+      "investigator_title": "MD"
+    },
+    "keyword": ["tranexamic acid", "complex spine surgery", "blood loss", "transfusion", "surgical outcomes"],
+    "condition_browse": {
+      "mesh_term": ["Hemorrhage", "Spinal Diseases", "Postoperative Hemorrhage"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Tranexamic Acid"]
+    }
+  }
+}
+```

@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03487654"
+    },
+    "id_info": {
+      "org_study_id": "ABC-2018-02",
+      "nct_id": "NCT03487654"
+    },
+    "brief_title": "Pembrolizumab in Combination with Standard Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Randomized, Open-Label Trial of Pembrolizumab Plus Standard Chemotherapy in Patients with Advanced Non-Small Cell Lung Cancer: Evaluating Efficacy and Safety Outcomes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Cancer Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "XYZ Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This randomized, open-label Phase II trial aimed to assess the efficacy and safety of pembrolizumab plus standard chemotherapy in patients with advanced non-small cell lung cancer (NSCLC). This study targeted a cohort of patients with limited prior treatment options."
+    },
+    "detailed_description": {
+      "textblock": "This is a multi-center trial enrolling patients with histologically confirmed advanced NSCLC who had not received previous systemic therapy. Participants were randomized to receive either pembrolizumab in conjunction with standard chemotherapy or standard chemotherapy alone.\n\nTREATMENT PROTOCOL:\n- \nExperimental Arm: Pembrolizumab 200 mg IV on Day 1 of each 3-week cycle combined with standard chemotherapy (carboplatin and paclitaxel) for up to 6 cycles followed by single-agent pembrolizumab until progression.\n- \nControl Arm: Standard chemotherapy regimen comprising carboplatin and paclitaxel alone for up to 6 cycles.\n\nThe primary objective was to compare overall survival between the two arms, while secondary outcomes included progression-free survival, objective response rate, and safety profile."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2019",
+    "completion_date": "May 30, 2021",
+    "primary_completion_date": "March 1, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Measured from randomization until death from any cause up to a minimum of 24 months.",
+      "description": "To determine if the addition of pembrolizumab to standard chemotherapy improves overall survival compared to chemotherapy alone."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from randomization until disease progression or death up to 24 months.",
+        "description": "To evaluate the efficacy of pembrolizumab in increasing the duration of time until disease progression."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Assessed at 12 weeks post-treatment initiation and every 8 weeks afterward.",
+        "description": "To determine the proportion of participants achieving a complete or partial response per RECIST 1.1."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Captured continuously throughout the trial duration, specifically noting treatment-related adverse events.",
+        "description": "To assess the safety profile of the combination treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "80",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Pembrolizumab + Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving pembrolizumab in combination with carboplatin and paclitaxel."
+      },
+      {
+        "arm_group_label": "Standard Chemotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receiving carboplatin and paclitaxel alone as the control."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "arm_group_label": "Pembrolizumab + Chemotherapy",
+        "description": "Pembrolizumab 200 mg IV on Day 1 of each 3-week cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chemotherapy",
+        "arm_group_label": ["Pembrolizumab + Chemotherapy", "Standard Chemotherapy"],
+        "description": "Carboplatin and paclitaxel administered as per standard dosing schedules."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed non-small cell lung cancer (NSCLC) with advanced/metastatic disease.\n- No prior systemic therapy for advanced disease.\n- Must have measurable disease per RECIST 1.1.\n- ECOG performance status of 0 or 1.\n- Adequate organ function as defined by screening laboratory parameters.\n\nExclusion Criteria:\n\n- Patients who are suitable for curative intent therapy.\n- Active autoimmune disease or a history of severe autoimmune disease.\n- Prior treatment with anti-PD-1, anti-PD-L1, or anti-PD-L2 agents.\n- Known history of hypersensitivity to pembrolizumab or any of its components."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Michael Greenfield",
+      "role": "Study Chair",
+      "affiliation": "XYZ Cancer Research Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "XYZ Cancer Research Institute",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "results_first_submitted": "June 15, 2021",
+    "results_first_posted": "July 2, 2021",
+    "last_update_posted": "July 5, 2022",
+    "certifications": {
+      "pending_primary_outcome": "Results are pending publication of overall study findings.",
+      "explanation": "Potential reasons for study failure include insufficient patient enrollment, high heterogeneity of prior treatment regimens, and inappropriate patient selection criteria that may have increased resistance to pembrolizumab."
+    },
+    "reported_events": {
+      "time_frame": "Adverse events reported from the time of consent until 30 days after last dose.",
+      "desc": "Utilized the CTCAE v5.0 for TEAE grading. Notably, a significant proportion of enrolled subjects presented with advanced disease characteristics, which likely influenced drug response rates."
+    }
+  }
+}
+```

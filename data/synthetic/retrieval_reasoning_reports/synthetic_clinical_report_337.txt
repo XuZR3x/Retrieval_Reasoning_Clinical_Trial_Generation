@@ -1,0 +1,230 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "M21-101",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Adalimumab in Patients With Moderate to Severe Plaque Psoriasis",
+    "official_title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Efficacy and Safety of Adalimumab in Inducing and Maintaining Remission in Subjects With Moderate to Severe Plaque Psoriasis",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AbbVie",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AbbVie",
+    "brief_summary": {
+      "textblock": "This study aims to assess whether adalimumab can effectively induce and maintain clinical remission in subjects with moderate to severe plaque psoriasis over a 52-week period."
+    },
+    "detailed_description": {
+      "textblock": "This multicenter, randomized, double-blind trial will include a 12-week induction phase where participants will receive adalimumab administered subcutaneously at a dose of 80 mg at baseline, followed by 40 mg biweekly. This will be followed by a 40-week maintenance phase, where subjects in remission will continue receiving adalimumab or be switched to placebo, enabling a robust comparative analysis of sustained efficacy. The trial anticipates an enrollment of 1,200 participants with confirmed moderate to severe plaque psoriasis who have had inadequate responses to topical therapies or systemics."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2015",
+    "completion_date": "March 2018",
+    "primary_completion_date": "January 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Participants Achieving PASI 75 at Week 12",
+      "time_frame": "Week 12",
+      "description": "The Psoriasis Area and Severity Index (PASI) measures the severity of psoriasis based on the percentage of body surface involved and severity of lesions."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Percentage of Participants Achieving PASI 90",
+        "time_frame": "Week 24",
+        "description": "An assessment of PASI 90 to evaluate the percentage of improvement from baseline."
+      },
+      {
+        "measure": "Change in Dermatology Life Quality Index (DLQI)",
+        "time_frame": "From Baseline to Week 52",
+        "description": "The DLQI assesses the impact of skin disease on the quality of life."
+      }
+    ],
+    "enrollment": "1200",
+    "condition": "Plaque Psoriasis",
+    "intervention": {
+      "intervention_type": "Biological",
+      "intervention_name": "Adalimumab"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adult participants aged 18 to 75 with moderate to severe plaque psoriasis (defined by PASI score > 10 and BSA > 10%).\r\n- Participants must have had an inadequate response to previous therapies, including topical treatments or systemic agents.\r\n\r\nExclusion Criteria:\r\n\r\n- History of malignancy or significant cardiovascular, pulmonary, or hepatic disease.\r\n- Use of biologic therapies within 3 months prior to enrollment.\r\n- Pregnant or lactating women.\r\n- Concurrent involvement in other clinical trials."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Study Director",
+      "affiliation": "AbbVie"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Dermatology Research Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Skin Health Institute",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "January 2018",
+    "study_first_submitted": "February 20, 2015",
+    "study_first_posted": "March 1, 2015",
+    "last_update_posted": "April 10, 2018",
+    "condition_browse": {
+      "mesh_term": ["Psoriasis"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Adalimumab"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Adalimumab",
+            "description": "Participants received adalimumab 80 mg at baseline, followed by 40 mg every other week."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": 1200
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": 1000
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": 200
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Full Analysis Set (FAS) included all randomized participants.",
+        "group_list": {
+          "group": {
+            "title": "Adalimumab",
+            "description": "Participants treated with adalimumab."
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Percentage of Participants Achieving PASI 75 at Week 12",
+            "description": "This outcome measures the effectiveness of adalimumab in reducing the severity of psoriasis.",
+            "time_frame": "Week 12",
+            "population": "Participants treated with adalimumab.",
+            "group_list": {
+              "group": {
+                "title": "Adalimumab",
+                "description": "Participants treated with adalimumab."
+              }
+            },
+            "measure": {
+              "title": "Percentage of Participants Achieving PASI 75",
+              "units": "Percentage",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": 75
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change in Dermatology Life Quality Index (DLQI)",
+            "description": "To evaluate the change in quality of life associated with psoriasis treatment.",
+            "time_frame": "From Baseline to Week 52",
+            "population": "Participants treated with adalimumab.",
+            "group_list": {
+              "group": {
+                "title": "Adalimumab",
+                "description": "Participants treated with adalimumab."
+              }
+            },
+            "measure": {
+              "title": "Change in DLQI Score",
+              "units": "Score",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": 1000
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events were monitored throughout the study and recorded up to 70 days after the last dose.",
+        "group_list": {
+          "group": {
+            "title": "Adalimumab",
+            "description": "Participants receiving adalimumab."
+          }
+        }
+      }
+    }
+  }
+}
+```

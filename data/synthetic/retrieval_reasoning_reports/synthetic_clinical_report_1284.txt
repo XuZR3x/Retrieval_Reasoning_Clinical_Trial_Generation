@@ -1,0 +1,155 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "150292",
+      "secondary_id": "15-C-0590",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Investigation of Aldesleukin Following Lymphodepleting Chemotherapy in Patients With Advanced Solid Tumors",
+    "official_title": "A Phase II Study Assessing the Efficacy and Safety of Aldesleukin Combined With Lymphodepleting Chemotherapy in Patients With Advanced Solid Tumors: A Multi-Center Open-Label Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This clinical study aimed to evaluate the clinical efficacy and safety of aldesleukin in combination with a regimen of lymphodepleting chemotherapy in patients diagnosed with advanced solid tumors. While preliminary data suggested an immune response enhancement, the study was ultimately terminated due to insufficient patient enrollment, which limited the statistical power necessary to achieve robust conclusions."
+    },
+    "detailed_description": {
+      "textblock": "Background:\n\n- Aldesleukin (IL-2) is a cytokine that has been evaluated for its ability to stimulate immune responses against solid tumors. This trial was designed to investigate its efficacy when administered post-lymphodepleting chemotherapy in populations with documented malignant disease.\n\nObjectives:\n\n- The primary objective was to determine the response rates to treatment in patients receiving aldesleukin following preparative lymphodepleting chemotherapy. Secondary objectives included assessing safety outcomes and analyzing the pharmacokinetics of the drug in this specific patient cohort.\n\nStudy Design:\n\n- Participants were to be screened for eligibility based on predefined criteria including age, performance status, disease state, and prior treatment history. Eligible patients were to receive lymphodepleting chemotherapy followed by aldesleukin at an initial dosing schedule of 720,000 IU/kg every eight hours for up to 5 doses.\n\n- Given the complexity of the combinatorial regimen, it was hypothesized that the resulting lymphodepletion would enhance the effectiveness of aldesleukin therapy by stimulating a more robust immune response.\n\nLimitations Noted:\n- **Insufficient Patient Enrollment**: The study experienced profound challenges in patient enrollment across the trial sites, leading to premature termination due to slow accrual, which rendered robust statistical analyses unattainable.\n- **Variability in Patient Selection Criteria**: The stringent eligibility guidelines may have unintentionally limited the diversity of the patient population, thereby restricting the assessment of aldesleukin's effectiveness in a more representative cohort of advanced solid tumors.\n- **Route and Timing Considerations**: While the intravenous route was employed, prior trials utilizing alternative administration routes, such as inhaled routes, indicated problems with bioavailability and systemic exposure, which were critical in achieving therapeutic concentrations.\n- **Complexity of Treatment Regimens**: Administration alongside lymphodepleting agents introduced confounding variables, potentially complicating evaluations and safety assessments. The concurrent use of chemotherapy led to increased adverse events, affecting the interpretability of aldesleukin's efficacy.\n- **Inherent Mechanism Limitations**: Patients with advanced disease often exhibit compromised immune competency, diminishing the likelihood of adequate immune activation necessary for a meaningful therapeutic benefit derived from aldesleukin."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Patient Enrollment and Challenges in Achieving Statistical Power",
+    "start_date": "March 15, 2019",
+    "completion_date": "October 20, 2022",
+    "primary_completion_date": "April 20, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Response Rate",
+        "time_frame": "Evaluated at 12 weeks following initiation of aldesleukin treatment",
+        "description": "Percentage of patients achieving a clinical response defined by standard RECIST criteria."
+      },
+      {
+        "measure": "Overall Survival",
+        "time_frame": "Measured from initiation of treatment until death from any cause",
+        "description": "Duration of time from start of treatment to death."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Adverse Events",
+        "time_frame": "Assessed for 30 days following treatment administration",
+        "description": "Number and severity of adverse events related to treatment, as evaluated by CTCAE criteria."
+      },
+      {
+        "measure": "Pharmacokinetic Profile",
+        "time_frame": "Measured following the first dose of aldesleukin administration",
+        "description": "Assessment of serum levels of aldesleukin to determine pharmacokinetics of the agent."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "16",
+    "condition": ["Advanced Solid Tumors"],
+    "arm_group": [
+      {
+        "arm_group_label": "Aldesleukin Treatment",
+        "arm_group_type": "Experimental",
+        "description": "Participants received aldesleukin following lymphodepleting chemotherapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Aldesleukin",
+        "description": "720,000 IU/kg administered intravenously every 8 hours for up to 5 days."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cyclophosphamide",
+        "description": "Lymphodepleting chemotherapy regimen administered as per local protocol."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fludarabine",
+        "description": "Lymphodepleting chemotherapy regimen administered as per local protocol."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n\n1. Histologically confirmed unresectable or metastatic solid tumor.\n2. Age: 18 years and older.\n3. ECOG performance status of 0-1.\n4. Life expectancy ≥ 3 months.\n5. Adequate hematopoietic function.\n\nEXCLUSION CRITERIA:\n\n1. Current or past history of any lymphoproliferative disorder.\n2. Uncontrolled brain metastases.\n3. Recent immunosuppressive therapy (4 weeks prior).\n4. Acute infections requiring treatment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John D. Smith, M.D.",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute (NCI)"
+    },
+    "location": {
+      "facility": {
+        "name": "National Institutes of Health Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2022",
+    "study_first_submitted": "February 10, 2019",
+    "study_first_submitted_qc": "February 10, 2019",
+    "study_first_posted": "March 1, 2019",
+    "last_update_submitted": "August 15, 2022",
+    "last_update_posted": "August 20, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Investigators",
+      "organization": "National Institutes of Health (NIH)"
+    },
+    "keyword": [
+      "Aldesleukin",
+      "Solid Tumors",
+      "Lymphodepletion",
+      "Cytokine Therapy",
+      "Immunotherapy"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Neoplasms", "Solid Tumors"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Aldesleukin", "Cyclophosphamide", "Fludarabine"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

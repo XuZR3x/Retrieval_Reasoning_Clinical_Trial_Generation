@@ -1,0 +1,190 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02535268"
+    },
+    "id_info": {
+      "org_study_id": "DOX-IMPACT",
+      "nct_id": "NCT02535268"
+    },
+    "brief_title": "A Phase III, Randomized Study of Efficacy and Safety of Doxorubicin Plus Targeted Agents in Diverse Cancer Populations",
+    "official_title": "A Phase III, Multi-center, Randomized Study Evaluating the Efficacy, Safety, and Pharmacokinetics of Doxorubicin in Combination with Targeted Therapies for the Treatment of Advanced Solid Tumors Across Various Cancer Types",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Pharmaceutical Research Corp",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase III, randomized, open-label study aims to evaluate the safety and efficacy of doxorubicin in combination with targeted agents such as pazopanib or trastuzumab in patients with advanced solid tumors. The study will enroll diverse cohorts of patients across various cancer types including breast, lung, and sarcoma. The treatments will follow a sequential regimen to ascertain favorable therapeutic outcomes and to identify any synergistic benefits that enhance overall efficacy."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 15, 2016",
+    "completion_date": "October 5, 2021",
+    "primary_completion_date": "March 30, 2020",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Participants will be followed for overall survival up to 5 years from randomization.",
+      "description": "The primary outcome measure is overall survival defined as the time from randomization to death from any cause."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from randomization until disease progression or death, whichever occurs first, up to 5 years."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Assessed after every two cycles of treatment (approximately 8 weeks)."
+      },
+      {
+        "measure": "Safety and Tolerability Profile",
+        "time_frame": "Assessed continuously throughout the study, with a focus on any grade 3 or higher adverse events."
+      },
+      {
+        "measure": "Pharmacokinetics of Doxorubicin",
+        "time_frame": "Pharmacokinetic data will be collected at baseline and each cycle until the last dose of doxorubicin."
+      }
+    ],
+    "number_of_arms": "3",
+    "enrollment": "350",
+    "condition": "Advanced Solid Tumors",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Doxorubicin + Pazopanib",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive doxorubicin (75 mg/m2) every 3 weeks in combination with pazopanib (800 mg daily)."
+      },
+      {
+        "arm_group_label": "Arm B: Doxorubicin + Trastuzumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive doxorubicin (60 mg/m2) every 3 weeks in combination with trastuzumab (Herceptin) (6 mg/kg every 3 weeks)."
+      },
+      {
+        "arm_group_label": "Arm C: Doxorubicin Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive doxorubicin as a monotherapy at a dose of 75 mg/m2 every 3 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Doxorubicin",
+        "description": "The drug will be administered intravenously at variable doses across treatment arms, according to arm specifications.",
+        "arm_group_label": ["Arm A", "Arm B", "Arm C"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pazopanib",
+        "description": "Administered orally at a dose of 800 mg daily during the treatment cycles.",
+        "arm_group_label": "Arm A"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Trastuzumab",
+        "description": "Administered by IV infusion, starting at 6 mg/kg and followed by 4 mg/kg per week for subsequent doses.",
+        "arm_group_label": "Arm B"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Patients must have histologically confirmed advanced solid tumors (breast, lung, or sarcoma).\n- Patients must be 18 years or older and have an ECOG performance status of 0-2.\n- Adequate organ and bone marrow function as per protocol defined criteria.\n- Patients must have measurable disease per RECIST criteria.\n\nExclusion Criteria:\n- Prior treatment with anthracyclines or other investigational agents.\n- Patients with significant cardiovascular disease, including uncontrolled hypertension.\n- Pregnant or breastfeeding females.\n- Patients with secondary malignancies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Johnson, A.",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute (NCI)"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "NCI Cancer Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Comprehensive Cancer Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90095",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "MD Anderson Cancer Center",
+          "address": {
+            "city": "Houston",
+            "state": "Texas",
+            "zip": "77030",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "October 2021",
+    "study_first_submitted": "August 5, 2015",
+    "study_first_posted": "August 10, 2015",
+    "last_update_posted": "November 15, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Doxorubicin",
+      "Pazopanib",
+      "Trastuzumab",
+      "Solid Tumors",
+      "Cancer"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Breast Neoplasms",
+        "Lung Neoplasms",
+        "Soft Tissue Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Doxorubicin",
+        "Pazopanib",
+        "Trastuzumab"
+      ]
+    }
+  }
+}
+```

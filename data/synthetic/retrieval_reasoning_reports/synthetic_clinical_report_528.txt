@@ -1,0 +1,158 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03567890"
+    },
+    "id_info": {
+      "org_study_id": "OFA-CLL-2023",
+      "nct_id": "NCT03567890"
+    },
+    "brief_title": "Ofatumumab in Combination With Chemoimmunotherapy in Newly Diagnosed CLL Patients",
+    "official_title": "A Phase II, Open-label, Multicenter Study Evaluating the Efficacy and Safety of Ofatumumab Combined With Chemoimmunotherapy in Newly Diagnosed Patients With Chronic Lymphocytic Leukemia",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Research Group",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Oncology Research Group",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The objective of this study is to assess the efficacy and safety profile of ofatumumab in conjunction with a standard chemoimmunotherapy regimen in patients diagnosed with chronic lymphocytic leukemia (CLL). Emphasis is particularly placed on evaluating overall response rates (ORR) and progression-free survival (PFS), contributing to the growing body of evidence demonstrating the benefits of ofatumumab in frontline therapy."
+    },
+    "detailed_description": {
+      "textblock": "This clinical trial is designed as a phase II, multicenter, open-label study. Adult patients with newly diagnosed chronic lymphocytic leukemia (CLL) will receive ofatumumab alongside standard chemoimmunotherapy. The main focus lies in effectively establishing the synergistic therapeutic potential of combining ofatumumab with established chemotherapeutics. Through this potent regimen, we aim to enhance patient outcomes by leveraging the competitive affinity of ofatumumab to deplete malignant B-cells, as demonstrated by prior successful studies incorporating this monoclonal antibody. Rigorous safety monitoring protocols will be in place to identify any adverse events promptly, ensuring the continued safety of trial participants throughout the study duration."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2019",
+    "completion_date": "October 2023",
+    "primary_completion_date": "February 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR) based on changes in disease parameters",
+      "time_frame": "12 months post-treatment initiation",
+      "description": "The primary endpoint is defined as the proportion of participants achieving a complete response (CR) or partial response (PR) as assessed by imaging and clinical evaluations, considering the stringent criteria established by the National Cancer Institute Working Group."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Measured from the date of treatment initiation until disease progression occurs or the patient experiences death from any cause, up to 36 months.",
+        "description": "PFS will evaluate the time period participants remain alive without evidence of disease progression and will be assessed through regular follow-up evaluations."
+      },
+      {
+        "measure": "Event-Free Survival (EFS)",
+        "time_frame": "Evaluated from the date of treatment initiation to the occurrence of an event including disease progression, the initiation of new anticancer therapy, or death.",
+        "description": "EFS will provide insight into the duration of treatment efficacy before alternative interventions are needed."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "120",
+    "condition": "Chronic Lymphocytic Leukemia",
+    "arm_group": {
+      "arm_group_label": "O-IVAC",
+      "arm_group_type": "Experimental",
+      "description": "Ofatumumab combined with a standard chemoimmunotherapy regimen."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ofatumumab",
+        "description": "Administered as 1000 mg intravenous (IV) infusion on days 1, 14, and 28 followed by 1000 mg on the first day of each subsequent 4-week cycle for a maximum of 6 cycles.",
+        "arm_group_label": "O-IVAC"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Chemoimmunotherapy",
+        "description": "Standard chemotherapy protocol combined with immunotherapy as per CLL treatment guidelines.",
+        "arm_group_label": "O-IVAC"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adult patients aged 18 years or older with a confirmed diagnosis of CLL.\n  - Patients must have a performance status (ECOG) of ≤ 2.\n  - Histological confirmation of CLL with indicated treatment required as per clinical criteria.\n  - Adequate renal, hepatic, and hematologic function based on standard laboratory assessments.\n\nExclusion Criteria:\n\n  - Prior treatment for CLL, including any CD20-targeted therapies.\n  - Presence of active uncontrolled infections.\n  - History of autologous or allogeneic stem cell transplantation.\n  - Significant comorbid conditions, including serious cardiovascular, infectious, or autoimmune disorders limiting enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Helena Ivanov",
+      "role": "Principal Investigator",
+      "affiliation": "Global Oncology Research Group"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Cancer Center-Specialized Oncology Institute",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "West Coast Oncology Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90015",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Midwest Research Institute for Cancer",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60614",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "January 2024",
+    "study_first_submitted": "February 1, 2019",
+    "study_first_submitted_qc": "February 3, 2019",
+    "study_first_posted": "February 4, 2019",
+    "results_first_submitted": "August 15, 2023",
+    "results_first_posted": "September 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Chronic Lymphocytic Leukemia",
+      "Ofatumumab",
+      "Chemoimmunotherapy",
+      "Clinical Trial",
+      "B-cell Malignancy"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Lymphoma", "Leukemia", "Leukemia, Lymphoid", "Leukemia, Lymphocytic, Chronic, B-Cell"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ofatumumab"]
+    }
+  }
+}
+```

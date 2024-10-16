@@ -1,0 +1,148 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00012345"
+    },
+    "id_info": {
+      "org_study_id": "KET-2024",
+      "nct_id": "NCT00012345"
+    },
+    "brief_title": "Ketamine for Adjuvant Pain Management in Patients with Advanced Metastatic Cancer",
+    "official_title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled Trial of Ketamine Administration for Pain Management in Patients with Advanced Metastatic Cancer Receiving Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Cancer Research Institute",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "XYZ Cancer Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes",
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy and safety of ketamine as a supplementary analgesic in patients with advanced metastatic cancer undergoing chemotherapy. Despite an underlying hypothesis that ketamine could enhance pain management outcomes, the trial faced insurmountable barriers in participant recruitment."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center, double-blind trial was designed to compare the analgesic efficacy of low-dose ketamine in conjunction with standard opioid therapy against placebo among patients diagnosed with advanced metastatic cancer. Inclusion criteria entailed patients aged 18-75, experiencing significant pain despite optimal opioid management. A total of 200 patients were envisioned for enrollment, requiring a robust methodology to assess pain outcomes effectively.\n\nHowever, the trial was impeded by insufficient enrollment efforts, primarily due to the narrow eligibility criteria that significantly restricted the recruitment pool. Many potential subjects were disqualified during initial screenings due to co-morbid conditions, such as severe psychiatric disorders or ongoing alternative investigational protocols. The precise parameters for patient selection failed to align with the realities of clinical practice, resulting in prolonged recruitment delays. Following an extensive duration without achieving the targeted enrollment, the study was ultimately withdrawn."
+    },
+    "overall_status": "Withdrawn",
+    "why_stopped": "The study was terminated due to extremely low enrollment rates attributed to stringent eligibility criteria and limitations in patient outreach strategies.",
+    "start_date": "January 2, 2020",
+    "completion_date": "March 15, 2022",
+    "primary_completion_date": "March 15, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Pain Severity",
+      "time_frame": "Day 7",
+      "description": "Pain severity assessed via the Brief Pain Inventory (BPI). Score ranges from 0 (no pain) to 10 (worst pain imaginable)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Opioid Consumption",
+        "time_frame": "Day 7",
+        "description": "Total daily opioid consumption measured in morphine equivalents over 7 days."
+      },
+      {
+        "measure": "Side Effects Monitoring",
+        "time_frame": "Days 1-7",
+        "description": "Adverse events recorded daily throughout the intervention."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": [
+      "Advanced Metastatic Cancer",
+      "Cancer Pain"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Group 1: Ketamine",
+        "arm_group_type": "Experimental",
+        "description": "Ketamine infusion at 0.1 mg/kg/hour for 7 days in combination with opioid analgesics."
+      },
+      {
+        "arm_group_label": "Group 2: Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Placebo infusion over the same period, with standard opioid analgesics."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ketamine",
+        "description": "Administered via infusion at a rate of 0.1 mg/kg/hour for 7 days."
+      },
+      {
+        "intervention_type": "Other",
+        "intervention_name": "Placebo",
+        "description": "Placebo infusion matched to ketamine in appearance and administration."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Patients aged 18-75 diagnosed with advanced metastatic cancer.\n2. Significant pain defined as >4 on a 0-10 scale, despite opioid therapy.\n3. Life expectancy greater than 3 months.\n\nExclusion Criteria:\n1. History of severe psychiatric illness.\n2. Current treatment with another investigational agent.\n3. Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Thompson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Cancer Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "XYZ Cancer Research Institute, Main Campus",
+        "address": {
+          "city": "Research City",
+          "state": "California",
+          "zip": "90001",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 1, 2022",
+    "study_first_submitted": "December 12, 2019",
+    "study_first_posted": "January 3, 2020",
+    "last_update_submitted": "March 1, 2022",
+    "last_update_posted": "March 2, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": [
+      "Ketamine",
+      "Pain Management",
+      "Metastatic Cancer",
+      "Opioid Analgesics"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Cancer Pain",
+        "Metastatic Cancer",
+        "Neoplasms"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Ketamine"
+    }
+  }
+}
+```

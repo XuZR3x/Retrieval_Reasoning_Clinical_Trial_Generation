@@ -1,0 +1,290 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00712345"
+    },
+    "id_info": {
+      "org_study_id": "TACTIC",
+      "nct_id": "NCT00712345"
+    },
+    "brief_title": "Efficacy and Safety of Tacrolimus in Patients With Autoimmune Disorders",
+    "acronym": "TACTIC",
+    "official_title": "A Multi-Center, Phase 3, Randomized, Double-Blind Study Evaluating the Efficacy and Safety of Tacrolimus in Patients With Autoimmune Disorders",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Institutes of Health",
+        "agency_class": "Public"
+      }
+    },
+    "source": "National Institutes of Health",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial investigates the efficacy and safety of tacrolimus in managed cohorts of patients diagnosed with various autoimmune disorders, specifically targeting the immunomodulatory properties of tacrolimus."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center, randomized, double-blind, placebo-controlled trial enrolled 220 patients with confirmed autoimmune disorders, including rheumatoid arthritis, systemic lupus erythematosus, and vasculitis. Participants were randomly assigned to receive either tacrolimus at a starting dose of 0.05 mg/kg/day or a placebo over a period of 24 weeks.\n\nThe primary endpoint was the reduction in disease activity indices, including the Disease Activity Score in 28 joints (DAS28) for rheumatoid arthritis and the Systemic Lupus Erythematosus Disease Activity Index (SLEDAI) for lupus patients. Secondary endpoints included the evaluation of adverse effects, overall quality of life measured by the EQ-5D scale, and laboratory assessments of renal function and liver enzymes.\n\nThroughout the study, all patients had regular monitoring to evaluate serum levels of tacrolimus, ensuring optimal therapeutic concentrations were maintained. The data monitoring committee oversaw safety to ensure rapid identification and management of adverse effects."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2008",
+    "completion_date": "December 2010",
+    "primary_completion_date": "July 2010",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Disease Activity Index",
+      "time_frame": "24 weeks",
+      "description": "Reduction in disease activity as measured by the respective indices for autoimmune disorders."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "24 weeks",
+        "description": "Monitoring for side effects such as nephrotoxicity and infections."
+      },
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "24 weeks",
+        "description": "Quality of life assessed via the EQ-5D scale."
+      },
+      {
+        "measure": "Lab Measurements of Renal and Liver Function",
+        "time_frame": "24 weeks",
+        "description": "Assessment of serum creatinine and liver enzymes on a bi-weekly basis."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "220",
+    "condition": "Autoimmune Disorders",
+    "arm_group": [
+      {
+        "arm_group_label": "Tacrolimus Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients receiving tacrolimus (0.05 mg/kg/day)."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Control",
+        "description": "Patients receiving placebo."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Tacrolimus",
+        "description": "Immunosuppressive agent administered to the experimental group.",
+        "arm_group_label": ["Tacrolimus Group"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Placebo administered to the control group.",
+        "arm_group_label": ["Placebo Group"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adults (18-75 years) diagnosed with an autoimmune disorder.\n  -  Informed consent provided.\n  -  Disease activity score indicating active disease.\n\nExclusion Criteria:\n\n  -  Uncontrolled diabetes or hepatic dysfunction.\n  -  History of malignancy within the last 5 years.\n  -  Active infection requiring systemic therapy.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "75 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Institutes of Health"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Institutes of Health Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": [
+      {
+        "citation": "Smith J, Jones A, Brown T. Efficacy of Tacrolimus in Autoimmune Disorders: A Multi-Center Trial. J Autoimmun. 2011; 34(2):123-130. doi:10.1016/j.jaut.2011.01.002.",
+        "PMID": "21216789"
+      }
+    ],
+    "verification_date": "March 2011",
+    "study_first_submitted": "June 15, 2008",
+    "study_first_submitted_qc": "June 15, 2008",
+    "study_first_posted": "July 1, 2008",
+    "results_first_submitted": "August 10, 2011",
+    "results_first_submitted_qc": "July 21, 2011",
+    "results_first_posted": "August 15, 2011",
+    "last_update_submitted": "July 21, 2011",
+    "last_update_submitted_qc": "July 21, 2011",
+    "last_update_posted": "August 15, 2011",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Institutes of Health",
+      "investigator_full_name": "John Smith, MD",
+      "investigator_title": "Clinical Director, Autoimmune Research Division"
+    },
+    "keyword": ["Tacrolimus", "Autoimmunity", "Immunomodulation", "Rheumatoid Arthritis", "Lupus Erythematosus"],
+    "intervention_browse": {
+      "mesh_term": ["Tacrolimus"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients recruited from multiple centers between January 2008 and February 2010.",
+        "pre_assignment_details": "Eligibility screening was conducted prior to final assignment into treatment groups.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Tacrolimus Group",
+              "description": "Received tacrolimus treatment as per protocol."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Received a placebo treatment as per protocol."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [220, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [220, 0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [0, 0]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Tacrolimus Group",
+                "description": "Patients treated with tacrolimus."
+              },
+              {
+                "title": "Placebo Group",
+                "description": "Patients treated with placebo."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [220, 0]
+              }
+            }
+          }
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Change in Disease Activity Index",
+              "description": "Measured improvement reported at 24 weeks showing effective reduction in symptoms.",
+              "time_frame": "24 weeks",
+              "population": "Intention to treat analysis",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Tacrolimus Group",
+                    "description": "Reduced DAS28 and SLEDAI scores significantly at 24 weeks."
+                  },
+                  {
+                    "title": "Placebo Group",
+                    "description": "No significant changes in disease activity scores."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "reported_events": {
+          "time_frame": "24 weeks",
+          "desc": "No significant nephrotoxic events noted in the treatment group.",
+          "group_list": {
+            "group": [
+              {
+                "title": "Tacrolimus Group",
+                "description": "Adverse events were monitored; no serious safety concerns were documented."
+              },
+              {
+                "title": "Placebo Group",
+                "description": "Minimal adverse events expected with placebo."
+              }
+            ]
+          }
+        },
+        "limitations_and_caveats": "The study highlights a diverse population with varying autoimmune manifestations but may not generalize to all demographics due to regional variations in disease presentation.",
+        "point_of_contact": {
+          "name_or_title": "John Smith, MD",
+          "organization": "National Institutes of Health",
+          "phone": "301-496-1234",
+          "email": "jsmith@nih.gov"
+        }
+      }
+    }
+  }
+}
+```

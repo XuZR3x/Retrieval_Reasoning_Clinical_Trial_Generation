@@ -1,0 +1,142 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02483625"
+    },
+    "id_info": {
+      "org_study_id": "TICAG-2024",
+      "nct_id": "NCT02483625"
+    },
+    "brief_title": "Evaluation of Ticagrelor on Myocardial Perfusion in High-Risk Patients",
+    "acronym": "TICA-MP",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial Evaluating the Effects of Ticagrelor on Myocardial Perfusion and Clinical Outcomes in Patients with High-Risk Coronary Artery Disease",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Foundation",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cardiovascular Research Foundation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial investigates the impact of ticagrelor, a novel reversible oral antiplatelet agent, on myocardial perfusion and clinical outcomes in patients identified as high-risk for cardiovascular events due to significant coronary artery disease (CAD). The study aims to quantify improvements in myocardial blood flow (MBF) and myocardial blood flow reserve (MBFR) as assessed via advanced positron emission tomography (PET) imaging, compared to a placebo control."
+    },
+    "overall_status": "Completed",
+    "start_date": "June 2022",
+    "completion_date": "September 2023",
+    "primary_completion_date": "July 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Myocardial Blood Flow and Reserve as Measured by PET",
+      "time_frame": "Baseline, Day 30, and Day 90",
+      "description": "The primary efficacy endpoint is the change in myocardial blood flow (MBF) and myocardial blood flow reserve (MBFR) assessed by PET imaging at the specified time intervals, analyzing the differences between the ticagrelor and placebo groups."
+    },
+    "secondary_outcome": {
+      "measure": "Rates of Cardiovascular Events and Quality of Life Metrics",
+      "time_frame": "Up to 12 months post-treatment",
+      "description": "Assessment of major adverse cardiovascular events (MACE) and health-related quality of life (HRQoL) parameters via standardized questionnaires to evaluate the broader therapeutic effects of ticagrelor in this patient population."
+    },
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Coronary Artery Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Ticagrelor Group",
+        "arm_group_type": "Experimental",
+        "description": "Study participants will receive ticagrelor 90 mg bid for a total duration of 90 days."
+      },
+      {
+        "arm_group_label": "Placebo Group",
+        "arm_group_type": "Inactive Comparator",
+        "description": "Study participants will receive matching placebo tablets for a total duration of 90 days."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ticagrelor",
+        "description": "Ticagrelor 90 mg orally, twice daily for 90 days.",
+        "arm_group_label": "Ticagrelor Group",
+        "other_name": "Brilinta"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo tablets, orally, twice daily for 90 days.",
+        "arm_group_label": "Placebo Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 18 years and older with diagnosed CAD and a history of one or more cardiovascular events (e.g., MI, unstable angina).\r\n- Patients presenting with evidence of heavy platelet aggregation (e.g., on previous GDMT).\r\n\r\nExclusion Criteria:\r\n- Uncontrolled hypertension, severe renal or hepatic impairment.\r\n- History of major bleeding events or current use of anticoagulants that cannot be discontinued.\r\n- Known hypersensitivity to ticagrelor or other thienopyridines.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": [
+      {
+        "last_name": "John Smith, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Cardiovascular Research Foundation"
+      },
+      {
+        "last_name": "Linda Zhao, MD",
+        "role": "Co-Investigator",
+        "affiliation": "Cardiovascular Research Foundation"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Foundation",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "February 15, 2022",
+    "study_first_submitted_qc": "March 1, 2022",
+    "study_first_posted": "March 5, 2022",
+    "last_update_submitted": "August 20, 2023",
+    "last_update_submitted_qc": "August 21, 2023",
+    "last_update_posted": "August 25, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Cardiovascular Research Foundation"
+    },
+    "keyword": [
+      "Ticagrelor",
+      "Clopidogrel",
+      "Coronary Artery Disease",
+      "Myocardial Blood Flow",
+      "Platelet Aggregation"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Coronary Artery Disease", "Myocardial Ischemia"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Ticagrelor", "Clopidogrel"]
+    }
+  }
+}
+```

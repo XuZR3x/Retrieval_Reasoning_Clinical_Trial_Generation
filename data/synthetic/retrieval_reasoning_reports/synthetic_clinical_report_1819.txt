@@ -1,0 +1,206 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 15, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01817392"
+    },
+    "id_info": {
+      "org_study_id": "ASTHMA-PRED-12345",
+      "nct_id": "NCT01817392"
+    },
+    "brief_title": "Efficacy of Prednisone in the Management of Severe Asthma Exacerbations",
+    "official_title": "Randomized Controlled Trial of Prednisone in Patients with Severe Asthma Exacerbations",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of South Florida",
+        "agency_class": "Other"
+      }
+    },
+    "brief_summary": {
+      "textblock": "Severe asthma exacerbations present a significant clinical challenge. Prednisone, a systemic corticosteroid, is frequently employed to manage these exacerbations. However, little is known about its effectiveness compared to standard care. This study aimed to assess the efficacy of a 7-day course of oral prednisone in improving lung function and reducing exacerbation severity in patients experiencing acute severe asthma attacks."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient patient recruitment and adverse event profile leading to participant dropouts.",
+    "start_date": "March 2013",
+    "completion_date": "January 2015",
+    "primary_completion_date": "December 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Forced Expiratory Volume in 1 Second (FEV1)",
+      "time_frame": "Change from baseline to Day 7",
+      "description": "The primary outcome measure was the improvement in FEV1 as assessed by spirometry."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Asthma Control Test (ACT)",
+        "time_frame": "Day 7",
+        "description": "A validated instrument for assessing asthma control manifestations."
+      },
+      {
+        "measure": "Number of Severe Adverse Events",
+        "time_frame": "Throughout study duration",
+        "description": "Recorded serious adverse effects affecting patient adherence and treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Severe Asthma Exacerbation",
+    "arm_group": [
+      {
+        "arm_group_label": "Prednisone",
+        "arm_group_type": "Experimental",
+        "description": "Participants received an oral dose of prednisone (40 mg/day) for 7 days, accompanied by regular monitoring for adverse effects."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard care management without prednisone administration, including nebulized bronchodilators and oxygen support."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Prednisone",
+        "description": "Oral corticosteroid taken daily for a period of 7 days."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n1. Adults aged 18-65 with a clinical diagnosis of asthma. \n2. History of severe asthma exacerbations within the past year. \n3. Ability to provide informed consent. \n\nExclusion Criteria: \n1. Patients requiring hospitalization for exacerbation. \n2. Recent use of systemic corticosteroids within the last 3 months. \n3. Patients with comorbid conditions potentially affecting lung function or safety profiles (e.g., COPD, uncontrolled diabetes).",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Mark Anderson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of South Florida"
+    },
+    "location": {
+      "facility": {
+        "name": "USF Health, Department of Medicine",
+        "address": {
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33612",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2015",
+    "study_first_submitted": "February 15, 2013",
+    "study_first_submitted_qc": "March 8, 2013",
+    "study_first_posted": "April 5, 2013",
+    "last_update_submitted": "January 30, 2015",
+    "last_update_submitted_qc": "January 30, 2015",
+    "last_update_posted": "February 3, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of South Florida",
+      "investigator_full_name": "Mark Anderson",
+      "investigator_title": "MD"
+    },
+    "keyword": ["Asthma", "Prednisone", "Corticosteroids", "Lung Function", "Exacerbation Management"],
+    "condition_browse": {
+      "mesh_term": ["Asthma", "Pulmonary Disease", "Corticosteroids"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Prednisone"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Despite ambitious recruitment goals, only 15 participants were accrued over the study timeline, eventuating in termination due to insufficient statistical power.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Prednisone",
+              "description": "Short-term treatment with oral prednisone."
+            },
+            {
+              "title": "Standard Care",
+              "description": "Participants receiving standard management."
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "time_frame": "Adverse event data was collected throughout the study.",
+        "desc": "Participants reported significant gastrointestinal disturbances including nausea and dyspepsia attributed to prednisone, leading to treatment discontinuations and diminishing enthusiasm for trial participation.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Prednisone",
+              "description": "Elicit numerous transient adverse effects including gastrointestinal symptoms."
+            },
+            {
+              "title": "Standard Care",
+              "description": "Minimal adverse event profile observed, predominantly related to nebulizer use."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Serious Adverse Events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Gastrointestinal Events",
+                    "counts": [5]
+                  },
+                  {
+                    "sub_title": "Hospitalization for Exacerbation",
+                    "counts": [2]
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "3",
+          "category_list": {
+            "category": {
+              "title": "Other Adverse Events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Insomnia",
+                    "counts": [4]
+                  },
+                  {
+                    "sub_title": "Increased Appetite",
+                    "counts": [3]
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "limitations_and_caveats": "The study experienced significant difficulties in patient recruitment, often exacerbated by stringent eligibility criteria and adverse effects reported in participants leading to lowered retention rates and a consequent termination of the trial.",
+      "point_of_contact": {
+        "name_or_title": "Mark Anderson, MD",
+        "organization": "University of South Florida",
+        "phone": "813-555-1234",
+        "email": "anderson@usf.edu"
+      }
+    }
+  }
+}
+```

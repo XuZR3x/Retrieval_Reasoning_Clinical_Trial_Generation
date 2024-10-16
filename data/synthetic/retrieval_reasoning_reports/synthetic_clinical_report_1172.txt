@@ -1,0 +1,288 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03412345"
+    },
+    "id_info": {
+      "org_study_id": "ABC123",
+      "nct_id": "NCT03412345"
+    },
+    "brief_title": "Pembrolizumab with Standard Therapy in Patients with Unresectable Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Multi-Center, Phase II Study of Pembrolizumab (MK-3475) in Combination with Chemotherapy in Patients with Unresectable Advanced Non-Small Cell Lung Cancer: Protocol ABC123",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute",
+        "agency_class": "Government"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme LLC",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "National Cancer Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study assessed the efficacy of pembrolizumab in combination with standard chemotherapy for the treatment of unresectable advanced non-small cell lung cancer (NSCLC). The aim was to evaluate overall survival and progression-free survival compared to historical controls."
+    },
+    "detailed_description": {
+      "textblock": "OUTLINE: This Phase II trial utilized a single-arm, open-label design with the following treatment regimen:\n\n- Chemotherapy (Carboplatin + Pemetrexed) on Day 1 of a 21-day cycle.\n- Pembrolizumab administered at 200 mg IV on Day 1 of each cycle.\n\nInclusion criteria mandated previously untreated, unresectable advanced NSCLC, with measurable disease as determined by RECIST 1.1. Patients with significant comorbidities affecting immune response and those with known hypersensitivity to pembrolizumab were excluded."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient accrual and poor immune response observed in patient cohort.",
+    "start_date": "January 15, 2018",
+    "completion_date": "February 28, 2020",
+    "primary_completion_date": "December 31, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From enrollment until death from any cause (estimated duration 24 months)",
+      "description": "Determine the overall survival (OS) of patients receiving pembrolizumab in conjunction with standard chemotherapy."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From the start of treatment to disease progression or death from any cause up to 24 months",
+        "description": "Assess the progression-free survival (PFS) in participants."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Evaluated every 6 weeks per RECIST for the duration of treatment (up to 24 months)",
+        "description": "Determine the percentage of patients achieving a complete or partial response."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "From first dose until 30 days post-treatment discontinuation",
+        "description": "Monitor and report serious adverse events (AEs) and overall tolerability of the treatment regimens."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "25",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Pembrolizumab + Chemotherapy",
+      "arm_group_type": "Experimental",
+      "description": "Pembrolizumab with carboplatin and pemetrexed administered in 21-day cycles."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Pembrolizumab (MK-3475) 200 mg IV on Day 1 of each 21-day cycle.",
+        "arm_group_label": "Pembrolizumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Carboplatin",
+        "description": "Carboplatin administered IV according to body surface area on Day 1 of each cycle.",
+        "arm_group_label": "Pembrolizumab + Chemotherapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pemetrexed",
+        "description": "Pemetrexed administered IV on Day 1 of each cycle.",
+        "arm_group_label": "Pembrolizumab + Chemotherapy"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed, unresectable advanced (Stage IIIB/IV) non-small cell lung cancer (NSCLC).\n- Measurable disease per RECIST 1.1 criteria.\n- ECOG Performance Status of 0 or 1.\n- No prior systemic therapy for advanced disease.\n- Adequate organ function as determined by laboratory values.\n\nExclusion Criteria:\n- Known hypersensitivity to pembrolizumab or any component of the study regimens.\n- Concurrent diagnosis of autoimmune disease or conditions that require systemic steroids.\n- Active central nervous system metastases.\n- Prior use of anti-PD-1, anti-PD-L1, or anti-CTLA-4 therapies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily Thompson, MD",
+      "role": "Lead Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute Clinical Center",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2020",
+    "study_first_submitted": "January 10, 2018",
+    "study_first_posted": "January 15, 2018",
+    "last_update_posted": "March 3, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "National Cancer Institute",
+      "investigator_full_name": "John Doe, MD",
+      "investigator_title": "Principal Investigator"
+    },
+    "keyword": ["Pembrolizumab", "Non-Small Cell Lung Cancer", "Immune Checkpoint Inhibitor", "Chemotherapy"],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Pembrolizumab"
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    },
+    "provided_document_section": {
+      "provided_document": {
+        "document_type": "Study Protocol and Statistical Analysis Plan",
+        "document_url": "https://cdn.clinicaltrials.gov/large-docs/45/NCT03412345/Prot_SAP_001.pdf"
+      }
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Chemotherapy",
+            "description": "Pembrolizumab administered alongside standard chemotherapy regimens for unresectable NSCLC."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Chemotherapy",
+            "description": "Combination therapy of pembrolizumab and standard chemotherapy."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": null
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival (OS)",
+            "description": "Evaluate the overall survival rate of subjects treated with pembrolizumab and chemotherapy.",
+            "time_frame": "Up to approximately 24 months",
+            "group_list": {
+              "group": {
+                "title": "Pembrolizumab + Chemotherapy",
+                "description": "Combination of pembrolizumab and chemotherapy."
+              }
+            },
+            "measure": {
+              "title": "Overall Survival (OS)",
+              "description": "Time from enrollment to death from any cause.",
+              "units": "Months",
+              "param": "Median",
+              "dispersion": "95% Confidence Interval"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events (AEs) were reported from the time of consent and up to 30 days after the last dose of study drug.",
+        "desc": "The NCI Common Terminology Criteria for Adverse Events (CTCAE) v4.0 was used for reporting.",
+        "group_list": {
+          "group": {
+            "title": "Pembrolizumab + Chemotherapy",
+            "description": "Patients receiving combined treatment of pembrolizumab and chemotherapy."
+          }
+        }
+      }
+    }
+  }
+}
+```

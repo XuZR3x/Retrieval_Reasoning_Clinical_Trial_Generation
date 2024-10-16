@@ -1,0 +1,291 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03710298"
+    },
+    "id_info": {
+      "org_study_id": "2020-001234-78",
+      "nct_id": "NCT03710298"
+    },
+    "brief_title": "Pregabalin Efficacy and Safety in Patients with Intractable Neuropathic Pain",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of Pregabalin in Patients with Intractable Neuropathic Pain",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaCorp",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaCorp",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the safety and efficacy of pregabalin compared to placebo in patients suffering from intractable neuropathic pain. The study hypothesized that pregabalin would lead to a significant reduction in pain scores. However, the trial faced several challenges that impacted its outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "March 2021",
+    "primary_completion_date": "February 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Pain Level as Assessed by the Numeric Rating Scale (NRS)",
+      "time_frame": "Baseline to Week 15",
+      "description": "Measured as the reduction in pain level from baseline using an 11-point NRS ranging from 0 (no pain) to 10 (worst imaginable pain)."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Global Impression of Change",
+        "time_frame": "Week 15",
+        "description": "Measured by the Patient Global Impression of Change (PGIC) scale ranging from 1 (very much improved) to 7 (very much worse)."
+      },
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the study",
+        "description": "Documentation of adverse events including the rate of dropout due to adverse events, using CTCAE version 5.0."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "204",
+    "condition": "Neuropathic Pain",
+    "arm_group": [
+      {
+        "arm_group_label": "Pregabalin",
+        "arm_group_type": "Experimental",
+        "description": "Pregabalin administered up to 600 mg/day."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Identical, inactive substance administered up to 600 mg/day."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pregabalin",
+        "description": "Oral dosage, titrated to the highest tolerated dose up to 600 mg/day.",
+        "arm_group_label": "Pregabalin",
+        "other_name": "Lyrica"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Identical inactive substance administered to match the dosing regimen of pregabalin.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Adults aged 18 years and older with documented neuropathic pain for at least 6 months.\r\n- Pain due to conditions such as post-surgical nerve injury, traumatic nerve injury, or other chronic neuropathic pain syndromes.\r\n- Average pain intensity of ≥4 on a 0-10 scale during the week prior to enrollment.\r\n\r\nExclusion Criteria:\r\n- Current treatment with pregabalin or history of hypersensitivity to the drug.\r\n- Presence of uncontrolled medical conditions such as renal impairment or epilepsy.\r\n- Participation in another clinical trial within 30 days prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Principal Investigator",
+      "affiliation": "PharmaCorp Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "PharmaCorp Clinical Research Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States"
+      ]
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "November 5, 2018",
+    "study_first_submitted_qc": "November 6, 2018",
+    "study_first_posted": "November 8, 2018",
+    "results_first_submitted": "March 12, 2021",
+    "results_first_submitted_qc": "March 15, 2021",
+    "results_first_posted": "March 20, 2021",
+    "last_update_submitted": "March 25, 2021",
+    "last_update_posted": "March 28, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Pregabalin",
+      "Neuropathic Pain",
+      "Chronic Pain Management",
+      "Pregabalin Efficacy",
+      "Safety Study"
+    ],
+    "condition_browse": {
+      "mesh_term": "Neuropathy"
+    },
+    "intervention_browse": {
+      "mesh_term": "Pregabalin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The study aimed to recruit 204 patients. Screening revealed that many potential participants were excluded due to non-compliance and existing comorbidities.",
+        "randomization_details": "After screening, 204 participants were randomized in a 1:1 ratio to receive either pregabalin or placebo over a 15-week period.",
+        "completion_details": "Due to a high dropout rate primarily attributed to adverse events, the analysis included only 132 participants who completed the study."
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Pregabalin",
+              "description": "Participants randomized to the pregabalin group."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants randomized to the placebo group."
+            },
+            {
+              "title": "Total",
+              "description": "All participants."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [102, 32, 134]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Pain Intensity Score",
+              "units": "NRS (0-10)",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [6.5, 3.8]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Adverse Events",
+              "units": "Count",
+              "param": "Number",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [35, 14]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in Pain Level",
+            "description": "The difference in baseline NRS scores between treatment arms.",
+            "time_frame": "Week 15",
+            "population": "ITT population.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Pregabalin",
+                  "description": "Mean pain score reduction: 2.6 (p=0.254)."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Mean pain score change: 1.5 (p=0.582)."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Mean Pain Score",
+              "description": "The primary efficacy endpoint yielded statistically insignificant improvements in pain reduction.",
+              "units": "Mean Reduction",
+              "param": "0.3",
+              "dispersion": "0.5",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [102, 32]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Events",
+            "description": "Documented rate of adverse events led to a higher dropout rate in the pregabalin group.",
+            "time_frame": "Throughout the study",
+            "population": "Participants reporting AEs.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Pregabalin",
+                  "description": "Adverse event incidence: 55%."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Adverse event incidence: 28%."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Dropout Rate Due to AEs",
+              "description": "Higher than expected dropout due to tolerability issues.",
+              "units": "Percentage",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Count",
+                  "count_list": {
+                    "count": [55, 14]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

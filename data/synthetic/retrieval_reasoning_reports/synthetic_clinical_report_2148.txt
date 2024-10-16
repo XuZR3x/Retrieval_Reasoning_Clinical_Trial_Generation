@@ -1,0 +1,189 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "ATZ-2023-001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Atazanavir on Metabolic Outcomes in HIV Patients",
+    "acronym": "EMO-ATZ",
+    "official_title": "A Multicenter, Open-Label, Phase IV Study Evaluating the Efficacy of Atazanavir in HIV Patients with Metabolic Syndrome: A Focus on Endothelial Function and Virologic Suppression",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient efficacy and adverse events leading to participant discontinuation.",
+    "start_date": "April 2012",
+    "completion_date": "June 2015",
+    "primary_completion_date": "June 2015",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Non-Randomized",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Endothelial Function as Measured by Brachial Artery FMD",
+      "time_frame": "Baseline to week 24",
+      "description": "Assessment of brachial artery flow-mediated dilation measured before intervention and at 24 weeks following treatment with atazanavir."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Percentage of Participants Maintaining Virologic Suppression Below <40 copies/mL",
+        "time_frame": "Baseline to week 48",
+        "description": "Proportion of subjects demonstrating sustained HIV-1 RNA levels <40 copies/mL over the duration of the study."
+      },
+      {
+        "measure": "Incidence of Serious Adverse Events Related to Study Treatment",
+        "time_frame": "Throughout the study duration",
+        "description": "Monitoring and recording of all serious adverse events during the trial period."
+      }
+    ],
+    "enrollment": "80",
+    "condition": "HIV Infection, Metabolic Syndrome",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Atazanavir",
+      "description": "Atazanavir 400 mg orally once daily for 48 weeks."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - HIV-positive adults 18 years or older.\r\n  - Documented metabolic syndrome, defined by at least three of the following: abdominal obesity, triglycerides ≥150 mg/dL, HDL <40 mg/dL (men) or <50 mg/dL (women), blood pressure ≥130/85 mmHg, fasting glucose ≥110 mg/dL.\r\n  - Virologically suppressed, defined as an HIV-1 RNA <50 copies/mL for at least three months prior to entry.\r\n\r\nExclusion Criteria:\r\n\r\n  - History of serious adverse reactions to protease inhibitors.\r\n  - Presence of significant cardiovascular disease or severe underlying medical conditions.\r\n  - Significant hepatic impairment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Dr. Emily Carter",
+        "role": "Principal Investigator",
+        "affiliation": "Bristol-Myers Squibb"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Community Health Center",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Research Institute of Phoenix",
+          "address": {
+            "city": "Phoenix",
+            "state": "Arizona",
+            "zip": "85001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "July 2015",
+    "study_first_submitted": "January 15, 2012",
+    "study_first_posted": "June 15, 2012",
+    "last_update_posted": "July 22, 2015",
+    "intervention_browse": {
+      "mesh_term": ["Atazanavir Sulfate", "Antiretroviral Therapy"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Eighty subjects were enrolled; however, only 50 were randomized due to challenges in participant retention and recruitment.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Atazanavir Treatment Group",
+              "description": "Participants received 400 mg of atazanavir orally once daily."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": ["80 participants enrolled"]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": ["30 participants withdrew due to adverse events or lost to follow-up"]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "reported_events": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Atazanavir Treatment Group",
+                "description": "Compound therapy led to gastrointestinal issues and metabolic disturbances noted."
+              }
+            ]
+          },
+          "serious_events": {
+            "category_list": {
+              "category": {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total adverse events reported",
+                    "counts": ["15"]
+                  }
+                }
+              }
+            }
+          },
+          "other_events": {
+            "frequency_threshold": "5",
+            "category_list": {
+              "category": {
+                "title": "Total Other Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Incidents of nausea, vomiting, and lipid changes",
+                    "counts": ["42"]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

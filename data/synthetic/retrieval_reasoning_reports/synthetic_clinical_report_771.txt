@@ -1,0 +1,348 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03075523"
+    },
+    "id_info": {
+      "org_study_id": "BRAVO-2021",
+      "nct_id": "NCT03075523"
+    },
+    "brief_title": "Pharmacodynamic Study of Romidepsin in Combination With Vacc-4x to Target HIV Reservoirs",
+    "official_title": "An Open-label Phase II Trial to Investigate the Safety and Efficacy of Romidepsin Combined With Vacc-4x for the Reactivation and Clearance of the HIV-1 Reservoir",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Immuno-oncology Innovations",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Institutes of Health (NIH)",
+        "agency_class": "Government"
+      }
+    },
+    "source": "Immuno-oncology Innovations",
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the safety and efficacy of romidepsin and the therapeutic vaccine Vacc-4x in HIV-infected individuals with suppressed viral loads. The underlying hypothesis is that romidepsin, as a histone deacetylase inhibitor (HDACi), will activate latent HIV-1 reservoirs, allowing for re-engagement of the immune system facilitated by Vacc-4x to eliminate these reservoirs."
+    },
+    "detailed_description": {
+      "textblock": "The trial consisted of two components: an initial safety evaluation of romidepsin and a follow-up assessment of viral reservoir dynamics through Immunological assays. Participants meeting inclusion criteria (CD4 counts >500 cells/mm³, sustained viral suppression <50 copies/mL while on ART) were individualized into treatment cohorts receiving either romidepsin and Vacc-4x or a control regimen. Rigorous standards for safety assessments were implemented throughout the intervention, including active monitoring for adverse events."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 20, 2017",
+    "completion_date": "March 15, 2020",
+    "primary_completion_date": "November 15, 2019",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Safety Profile Based on Adverse Events (AEs)",
+        "time_frame": "3 weeks post-treatment",
+        "description": "Assessment of the safety of romidepsin, quantified through the incidence of AEs and SAEs per the DAIDS AE Grading Table."
+      },
+      {
+        "measure": "Reduction in HIV-1 Reservoir as Measured by Total HIV-1 DNA",
+        "time_frame": "At baseline and Day 56/84",
+        "description": "Changes in total HIV-1 DNA concentrations within memory CD4+ T cells at specified intervals post-treatment as assessed by qVOA."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Changes in Immune Activation Markers",
+        "time_frame": "Pre-entry, Day 0, 28 days post-treatment",
+        "description": "Evaluation of surface markers associated with T cell activation (e.g. CD38, HLA-DR) on CD4+ T-cells to assess immune re-engagement."
+      },
+      {
+        "measure": "Quantification of Replication Competent Virus",
+        "time_frame": "Day 0 and Day 84",
+        "description": "Laboratory assessment of the presence of replication-competent provirus post romidepsin and Vacc-4x intervention."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "HIV Infections",
+    "arm_group": [{
+        "arm_group_label": "Romidepsin + Vacc-4x",
+        "arm_group_type": "Experimental",
+        "description": "Participants received romidepsin at 5 mg/m² IV on Days 0, 7, and 14 along with Vacc-4x administration on Days 1, 8, 15, and 22."
+      },
+      {
+        "arm_group_label": "Control",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received placebo infusions in place of romidepsin and a control vaccine regimen."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Romidepsin",
+        "description": "5 mg/m² administered by IV infusion on specified treatment days.",
+        "arm_group_label": ["Romidepsin + Vacc-4x"],
+        "other_name": ["Istodax"]
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Vacc-4x",
+        "description": "Therapeutic vaccine administered to enhance HIV immune response.",
+        "arm_group_label": ["Romidepsin + Vacc-4x"],
+        "other_name": ["Combination Peptide Vaccine"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n1. Adults aged 18-65 years\r\n\r\n2. Documented HIV-1 infection with plasma RNA <50 copies/mL on stable ART for the past year\r\n\r\n3. CD4+ T cell count >500 cells/mm³\r\n\r\nExclusion Criteria:\r\n\r\n1. History of malignancy requiring cytotoxic therapy\r\n\r\n2. Active infections or severe co-morbidities\r\n\r\n3. Use of concurrent therapies that affect HIV reservoirs.",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "65 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Elena Michaels, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Immuno-oncology Innovations"
+    },
+    "location": {
+      "facility": {
+        "name": "Immunology Research Institute",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94105",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "First participant enrolled on February 25, 2017 and the last participant completed the study on March 10, 2020.",
+        "pre_assignment_details": "Total of 55 screened with 50 enrolled across two phases: 6 in Part A and 44 in Part B."
+      },
+      "baseline": {
+        "group_list": [{
+            "title": "Romidepsin + Vacc-4x",
+            "description": "Participants assigned to receive combination treatment subsequently evaluated for safety and efficacy."
+          },
+          {
+            "title": "Control",
+            "description": "Participants received control regimen without therapeutic agents."
+          }
+        ],
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [50]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [43.5, 12.3]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": {
+                        "count": [20, 30]
+                      }
+                    }
+                  },
+                  "category_list": [{
+                      "title": "Female",
+                      "measurement_list": {
+                        "measurement": [20]
+                      }
+                    },
+                    {
+                      "title": "Male",
+                      "measurement_list": {
+                        "measurement": [30]
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Plaque CD4+ T-cells Count",
+              "units": "cells/mm³",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": {
+                        "count": [0]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Participants with Prior ART",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "analyzed_list": {
+                    "analyzed": {
+                      "units": "Participants",
+                      "scope": "Class",
+                      "count_list": {
+                        "count": [45]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Safety Profile Evaluation",
+            "description": "The incidence of adverse events (AEs) and serious adverse events (SAEs) reported during the trial period, analyzed according to DAIDS criteria.",
+            "time_frame": "28 days",
+            "group_list": {
+              "group": {
+                "title": "Romidepsin + Vacc-4x Cohort",
+                "description": "Participants receiving combination therapy observed for safety."
+              }
+            }
+          },
+          {
+            "type": "Primary",
+            "title": "Efficacy in Reduction of HIV Reservoirs",
+            "description": "Quantitative measurement of total HIV-1 DNA in memory CD4+ T-cells following intervention.",
+            "time_frame": "Day 161/175",
+            "population": "Analysis included all participants completing treatment",
+            "measure": {
+              "title": "Total HIV-1 DNA Reduction",
+              "population": "Total HIV-1 DNA measured by qVOA.",
+              "units": "log10 copies/10^6 cells",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [30]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "From study entry until the final visit (up to 28 days for Part A and 287 days for Part B).",
+        "group_list": [{
+            "title": "Romidepsin + Vacc-4x",
+            "description": "Adverse events were diligently tracked during the treatment and follow-up phases."
+          },
+          {
+            "title": "Control",
+            "description": "Participants receiving standard care were also assessed for safety parameters."
+          }
+        ],
+        "serious_events": {
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+                "title": "Total",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Serious adverse events recordings",
+                    "counts": [1, 2]
+                  }
+                }
+              },
+              {
+                "title": "Infection-related events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Serious bacterial infections",
+                    "counts": [0, 1]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "0",
+          "default_vocab": "MedDRA 20.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": [{
+              "title": "Total Other Adverse Events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events noted",
+                  "counts": [0, 0]
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Nausea",
+                  "counts": [4, 0]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "All publications arising out of this study require full written approval from the sponsoring organization prior to submission."
+      },
+      "point_of_contact": {
+        "name_or_title": "Study Coordinator",
+        "organization": "Immuno-oncology Innovations",
+        "phone": "+14155552671",
+        "email": "coordinator@immunooncologyinn.com"
+      }
+    }
+  }
+}
+```

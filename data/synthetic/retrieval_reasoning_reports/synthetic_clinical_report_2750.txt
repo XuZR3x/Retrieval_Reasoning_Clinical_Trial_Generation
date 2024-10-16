@@ -1,0 +1,209 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 1, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01429583"
+    },
+    "id_info": {
+      "org_study_id": "CASE4B20",
+      "secondary_id": ["NCI-2014-01354", "CASE4B20"],
+      "nct_id": "NCT01429583"
+    },
+    "brief_title": "Efficacy of Plerixafor with Etoposide and Filgrastim in Patients With Relapsed Acute Lymphoblastic Leukemia",
+    "official_title": "Phase III Study of Plerixafor in Combination with Etoposide and Filgrastim in Patients With Relapsed Acute Lymphoblastic Leukemia: A Randomized Trial",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Case Comprehensive Cancer Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Case Comprehensive Cancer Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This clinical trial aims to determine if the addition of plerixafor to etoposide and filgrastim can enhance stem cell mobilization in patients with relapsed acute lymphoblastic leukemia (ALL). Despite earlier positive findings, the trial was prematurely terminated due to difficulties with patient accrual."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\nI. To evaluate the ability of plerixafor in enhancing the collection of >= 5 x 10^6 CD34+ stem cells/kg in ≤ 2 days post-aponation compared to historical controls.\r\n\r\nSECONDARY OBJECTIVES:\r\n\r\nI. To assess the rate of successful mobilization within 5 days of apheresis.\r\nII. To compare the incidence of adverse events between treatment groups.\r\nIII. To evaluate overall and progression-free survival in contingent cohorts.\r\n\r\nSTUDY DESIGN:\r\nPatients were randomized into two arms:\r\nARM I: Etoposide with G-CSF alone.\r\nARM II: Etoposide with G-CSF and plerixafor.\r\nFollow-up included 30 days post-therapy to assess outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient Recruitment and Marginal Efficacy",
+    "start_date": "January 2012",
+    "primary_completion_date": "December 2015",
+    "completion_date": "April 2017",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Percentage of Participants With Successful Collection of 5 x 10^6 CD34+ Cells/kg",
+      "time_frame": "Assessed within 2 days following apheresis",
+      "description": "This outcome measures the proportion of patients achieving the target collection goal within the specified timeframe."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of Successful Mobilization",
+        "time_frame": "Up to 5 days post-aponation",
+        "description": "This measure evaluates the percentage of participants who reach the target cell count within 5 days following initiation of therapy."
+      },
+      {
+        "measure": "Overall Survival and Progression-Free Survival Rates",
+        "time_frame": "Follow-up visits at 3, 6, and 12 months",
+        "description": "This measures the survival rates post-treatment among the different study arms."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "15",
+    "condition": "Relapsed Acute Lymphoblastic Leukemia",
+    "arm_group": [
+      {
+        "arm_group_label": "Standard Treatment (Etoposide + G-CSF)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive Etoposide and Filgrastim (G-CSF) subcutaneously."
+      },
+      {
+        "arm_group_label": "Experimental (Etoposide + G-CSF + Plerixafor)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive Etoposide, G-CSF, and Plerixafor subcutaneously."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Plerixafor",
+        "description": "Administered subcutaneously in conjunction with Etoposide and G-CSF.",
+        "arm_group_label": "Experimental (Etoposide + G-CSF + Plerixafor)",
+        "other_name": ["AMD 3100", "Mozobil"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Filgrastim",
+        "description": "Administered subcutaneously as per standard protocol.",
+        "arm_group_label": ["Standard Treatment (Etoposide + G-CSF)", "Experimental (Etoposide + G-CSF + Plerixafor)"],
+        "other_name": ["G-CSF", "Neupogen"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Etoposide",
+        "description": "Administered intravenously according to study protocol.",
+        "arm_group_label": ["Standard Treatment (Etoposide + G-CSF)", "Experimental (Etoposide + G-CSF + Plerixafor)"],
+        "other_name": ["VP-16", "VP-16-213"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Diagnosis of Relapsed Acute Lymphoblastic Leukemia according to standard definitions.\r\n- Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.\r\n- Adequate hematologic function defined as: WBC ≥ 2.0 x 10^9/L, platelet count ≥ 100 x 10^9/L.\r\n- Informed consent provided by all participants.\r\n- Must be ≥ 18 years old.\r\n\r\nExclusion Criteria:\r\n\r\n- Significant comorbidities that would impede participation.\r\n- Previous stem cell collection failures.\r\n- Active infections or evidence of concurrent malignancies."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Hien Duong, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Case Comprehensive Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Cleveland Clinic Taussig Cancer Institute, Case Comprehensive Cancer Center",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2017",
+    "study_first_submitted": "October 15, 2011",
+    "study_first_submitted_qc": "October 15, 2011",
+    "study_first_posted": "October 17, 2011",
+    "results_first_submitted": "May 5, 2018",
+    "results_first_submitted_qc": "June 20, 2018",
+    "results_first_posted": "July 10, 2018",
+    "last_update_submitted": "August 14, 2018",
+    "last_update_posted": "August 16, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "During treatment and follow-up up to 30 days post therapy",
+        "description": "Detailed collection of adverse reactions experienced by participants."
+      }
+    ],
+    "reported_events": {
+      "time_frame": "Up to 30 days post-therapy",
+      "group_list": {
+        "group": [
+          {
+            "title": "Arm I: Control",
+            "description": "Adverse events recorded in patients receiving G-CSF."
+          },
+          {
+            "title": "Arm II: Experimental",
+            "description": "Adverse events monitored in patients receiving G-CSF and Plerixafor."
+          }
+        ]
+      },
+      "serious_events": {
+        "category_list": {
+          "category": {
+            "title": "Total",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": null
+                }
+              ]
+            }
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "category_list": {
+          "category": {
+            "title": "Total",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, other adverse events",
+                "counts": null
+              }
+            }
+          }
+        }
+      },
+      "limitations_and_caveats": "The trial was terminated prior to completion, yielding insufficient data to evaluate primary and secondary endpoints. Recruitment issues presented significant challenges, influencing overall trial viability.",
+      "certain_agreements": {
+        "pi_employee": "All Principal Investigators are employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is not an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Hien Duong, MD",
+        "organization": "Case Comprehensive Cancer Center",
+        "phone": "216-445-5531",
+        "email": "duongh@ccf.org"
+      }
+    }
+  }
+}
+```

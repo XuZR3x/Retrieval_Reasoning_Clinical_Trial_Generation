@@ -1,0 +1,150 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03065995"
+    },
+    "id_info": {
+      "org_study_id": "CT-EXEM-0456",
+      "nct_id": "NCT03065995"
+    },
+    "brief_title": "Evaluation of Bivalirudin vs Unfractionated Heparin in High-Risk Patients Undergoing Percutaneous Coronary Intervention",
+    "official_title": "A Multicenter, Randomized, Controlled Trial to Evaluate the Efficacy and Safety of Bivalirudin Compared to Unfractionated Heparin in High-Risk Patients Undergoing Percutaneous Coronary Intervention",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Clinical Research Center of Cardiology",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Clinical Research Center of Cardiology",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to determine the differences in efficacy and safety between bivalirudin and unfractionated heparin (UFH) in high-risk patients with acute coronary syndromes undergoing percutaneous coronary interventions (PCI)."
+    },
+    "detailed_description": {
+      "textblock": "The current clinical trial was designed based on previous studies indicating potential advantages of bivalirudin in cases where optimal antiplatelet strategies were assumed to be in place. However, it also drew from consistent findings in earlier trials indicating that bivalirudin may not demonstrate superiority over UFH in correctly pre-treated populations. The objective was to assess whether bivalirudin could reduce the composite endpoints of mortality, myocardial infarction, and major bleeding in high-risk patients, specifically evaluated within a tightly controlled setting with comprehensive monitoring of clinical outcomes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated after interim analysis by the Data Safety Monitoring Board (DSMB) identified that bivalirudin did not demonstrate statistically significant advantages in major outcomes compared to UFH, leading to a classification of futility.",
+    "start_date": "January 2017",
+    "completion_date": "August 2019",
+    "primary_completion_date": "April 2019",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Single (Outcomes Assessor)"
+    },
+    "primary_outcome": {
+      "measure": "Composite rate of death, myocardial infarction, and major bleeding events",
+      "time_frame": "30 days post-PCI"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of major adverse cardiac events (MACE)",
+        "time_frame": "1 year"
+      },
+      {
+        "measure": "Incidence of minor bleeding events",
+        "time_frame": "30 days post-PCI"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1,234",
+    "condition": [
+      "Acute Coronary Syndrome",
+      "Coronary Artery Disease"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Experimental Bivalirudin",
+        "arm_group_type": "Experimental",
+        "description": "Participants to receive bivalirudin as an intravenous bolus of 0.75 mg/kg, followed by a continuous infusion of 1.75 mg/kg/h during PCI."
+      },
+      {
+        "arm_group_label": "Active Comparator Unfractionated Heparin",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants to receive UFH administered as an intravenous bolus of 70-100 U/kg followed by a continuous infusion determined based on local protocol."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bivalirudin",
+        "description": "Bivalirudin to be administered as an intravenous bolus of 0.75 mg/kg followed by an infusion of 1.75 mg/kg/h during the PCI.",
+        "arm_group_label": "Experimental Bivalirudin"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Unfractionated Heparin",
+        "description": "UFH administered as an intravenous bolus followed by an infusion based on local treatment protocol.",
+        "arm_group_label": "Active Comparator Unfractionated Heparin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients > 18 years of age with acute coronary syndromes requiring PCI.\n- Capable of receiving dual antiplatelet therapy and has a documented loading dose of clopidogrel/ticagrelor.\n- Signed informed consent for study participation.\n\nExclusion Criteria:\n\n- Patients in cardiogenic shock or with active bleeding.\n- Treatment with any direct oral anticoagulants within the last week.\n- Known allergy to the study drugs or significant comorbid conditions that would interfere with participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John Doe, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Clinical Research Center of Cardiology"
+      }
+    ],
+    "location": {
+      "facility": {
+        "name": "Clinical Research Center of Cardiology",
+        "address": {
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "62704",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2019",
+    "study_first_submitted": "March 1, 2017",
+    "study_first_posted": "March 3, 2017",
+    "last_update_submitted": "August 5, 2019",
+    "last_update_posted": "August 6, 2019",
+    "responsible_party": {
+      "name_title": "Dr. Jane Smith",
+      "organization": "Clinical Research Center of Cardiology"
+    },
+    "keyword": [
+      "Bivalirudin",
+      "Unfractionated Heparin",
+      "Percutaneous Coronary Intervention",
+      "Acute Coronary Syndromes"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Coronary Artery Disease",
+        "Acute Coronary Syndrome"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Heparin",
+        "Bivalirudin"
+      ]
+    }
+  }
+}
+```

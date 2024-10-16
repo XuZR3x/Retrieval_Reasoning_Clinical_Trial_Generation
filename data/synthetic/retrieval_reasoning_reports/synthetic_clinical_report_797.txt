@@ -1,0 +1,215 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02906567"
+    },
+    "id_info": {
+      "org_study_id": "APIX-2020",
+      "secondary_id": "N/A",
+      "nct_id": "NCT02906567"
+    },
+    "brief_title": "Efficacy and Safety of Apixaban in Patients with Non-Valvular Atrial Fibrillation",
+    "acronym": "APIX-2020",
+    "official_title": "A Phase 4, Multicenter, Randomized, Open-label Study to Evaluate the Efficacy and Safety of Apixaban Compared to Warfarin in Patients with Non-Valvular Atrial Fibrillation",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the efficacy and safety profile of apixaban in comparison to warfarin in preventing stroke in patients diagnosed with non-valvular atrial fibrillation. The study specifically targets the disparities in adherence to treatment in patients prescribed apixaban versus traditional medications."
+    },
+    "detailed_description": {
+      "textblock": "The study is designed as a randomized, open-label trial, whereby participants are assigned to receive either apixaban, dosed at 5 mg twice daily, or warfarin, with therapeutic INR monitoring. The primary objective is to establish non-inferiority of apixaban compared to warfarin in the reduction of stroke events over a period of 12 months. Secondary outcomes include the assessment of major and minor bleeding events, as well as overall adherence rates between the two cohorts."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 1, 2017",
+    "completion_date": "August 31, 2019",
+    "primary_completion_date": "June 30, 2019",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Composite Rate of Stroke and Systemic Embolism",
+      "time_frame": "12 months follow-up",
+      "description": "The incidence of stroke and systemic embolism will be evaluated. The rate will be calculated based on the total number of events in each treatment arm."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of Major and Minor Bleeding Events",
+        "time_frame": "12 months follow-up",
+        "description": "Adverse events classified as major bleeding will include clinically relevant bleeding leading to a decrease of hemoglobin of more than 2g/dL, hospitalization, or transfusion. Minor bleeding events will be cataloged based on severity but not necessitating any surgical intervention."
+      },
+      {
+        "measure": "Patient Adherence Rates",
+        "time_frame": "12 months follow-up",
+        "description": "Using electronic adherence monitoring devices, medication compliance will be tracked to gauge adherence to prescribed apixaban compared to warfarin treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1000",
+    "condition": "Non-Valvular Atrial Fibrillation",
+    "arm_group": [
+      {
+        "arm_group_label": "Apixaban",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive apixaban 5 mg orally twice a day for 12 months."
+      },
+      {
+        "arm_group_label": "Warfarin",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive warfarin, with doses adjusted to maintain an INR target of 2.0-3.0, for 12 months."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Apixaban",
+        "arm_group_label": "Apixaban",
+        "other_name": "Eliquis"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Warfarin",
+        "arm_group_label": "Warfarin",
+        "other_name": "Coumadin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 years or older with documented non-valvular atrial fibrillation.\n2. Indications for anticoagulation based on elevated stroke risk (CHA2DS2-VASc score ≥2).\n3. Ability to provide informed consent and comply with study procedures.\n\nExclusion Criteria:\n\n1. Prior use of apixaban or contraindications to warfarin treatment.\n2. Active bleeding or significant liver disease (ALT or AST >3x ULN).\n3. Previous participation in other clinical trials within 30 days prior to enrollment.\n4. Life expectancy less than 12 months due to coexisting conditions."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. John Smith",
+      "role": "Study Director",
+      "affiliation": "XYZ Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Cardiology Department, General Hospital",
+          "address": {
+            "city": "Anytown",
+            "state": "CA",
+            "zip": "90210",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2020",
+    "study_first_submitted": "December 15, 2016",
+    "study_first_submitted_qc": "December 20, 2016",
+    "study_first_posted": "January 5, 2017",
+    "last_update_submitted": "March 15, 2020",
+    "last_update_submitted_qc": "March 15, 2020",
+    "last_update_posted": "March 18, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Atrial Fibrillation"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Apixaban", "Warfarin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Out of 1000 screened participants, 800 were randomized (400 in each arm). 200 withdrew prior to randomization due to personal reasons."
+      },
+      "baseline": {
+        "population": "Full analysis set included all randomized participants.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Apixaban",
+              "description": "Received apixaban 5 mg BID."
+            },
+            {
+              "title": "Warfarin",
+              "description": "Received warfarin adjusted to INR."
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Composite Rate of Stroke and Systemic Embolism",
+            "description": "Measured incidences of stroke and systemic embolism.",
+            "time_frame": "12 months follow-up",
+            "population": "All randomized participants.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Apixaban",
+                  "description": "Participants with stroke/systemic embolism."
+                },
+                {
+                  "title": "Warfarin",
+                  "description": "Participants with stroke/systemic embolism."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Composite Stroke Rate",
+              "population": "Full analysis set included all randomized participants.",
+              "units": "incidence",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [20, 48]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "group_id_list": {
+                    "group_id": ["O1", "O2"]
+                  },
+                  "non_inferiority_type": "Inconclusive",
+                  "method": "Fisher Exact",
+                  "param_type": "Risk Ratio (RR)",
+                  "param_value": "1.2",
+                  "ci_percent": "95",
+                  "ci_n_sides": "2-Sided",
+                  "ci_lower_limit": "0.72",
+                  "ci_upper_limit": "1.82",
+                  "p_value": "0.34"
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "limitations_and_caveats": "The study highlighted significant issues including recruitment difficulties, with the non-adherence rate in the apixaban cohort reaching 40%. Furthermore, due to variability in metabolic responses among individuals, the results did not convincingly establish the efficacy of apixaban regarding stroke prevention. Heterogeneity in the patient population hampered definitive conclusions about apixaban's comparative effectiveness."
+  }
+}
+```

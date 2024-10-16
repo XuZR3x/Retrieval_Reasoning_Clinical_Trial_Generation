@@ -1,0 +1,157 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "BIVAL-ACUTE-2023",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Efficacy and Safety of Bivalirudin in Patients with Acute Myocardial Infarction",
+    "official_title": "A Multicenter, Randomized Controlled Trial Evaluating the Efficacy and Safety of Bivalirudin in Patients Presenting with Acute Myocardial Infarction Undergoing Percutaneous Coronary Intervention",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Therapeutics Foundation",
+        "agency_class": "Non-Profit"
+      }
+    },
+    "source": "Cardiovascular Therapeutics Foundation",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to assess the pharmacological profile, safety, and efficacy of bivalirudin as a sole anticoagulant in patients with acute myocardial infarction (AMI) undergoing primary angioplasty. The primary outcome evaluated is the incidence of major adverse cardiovascular events (MACE) within 30 days post-procedure."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "December 2022",
+    "primary_completion_date": "September 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Major Adverse Cardiovascular Events (MACE)",
+      "time_frame": "30 days",
+      "description": "MACE includes all-cause mortality, rehospitalization for myocardial infarction, and emergency target vessel revascularization."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of major bleeding events",
+        "time_frame": "30 days",
+        "description": "All bleeding events categorized by the TIMI scale (Thrombolysis in Myocardial Infarction)."
+      },
+      {
+        "measure": "Length of hospital stay post-intervention",
+        "time_frame": "Within 30 days",
+        "description": "Duration measured from the time of procedure until discharge."
+      }
+    ],
+    "enrollment": "2,500",
+    "condition": "Acute Myocardial Infarction",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "bivalirudin",
+      "description": "Administered as an intravenous bolus of 0.75 mg/kg followed by an infusion of 1.75 mg/kg/h initiated in the catheterization lab."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 to 85 years presenting with signs and symptoms of acute myocardial infarction.\n- Indication for primary percutaneous coronary intervention (PCI).\n- Written informed consent provided.\n\nExclusion Criteria:\n- History of hypersensitivity to bivalirudin or related agents.\n- Active bleeding or conditions with high bleeding risk.\n- Prior treatment with other anticoagulants or glycoprotein IIb/IIIa inhibitors within 48 hours before randomization.\n- Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "85 Years",
+      "healthy_volunteers": "No"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "September 15, 2020",
+    "study_first_posted": "October 1, 2020",
+    "last_update_submitted": "February 1, 2023",
+    "last_update_posted": "March 1, 2023",
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Therapeutics Foundation"
+    },
+    "location": {
+      "facility": {
+        "name": "Multiple Centers across North America",
+        "address": {
+          "city": "Various",
+          "state": "Various",
+          "country": "United States and Canada"
+        }
+      }
+    },
+    "keyword": ["bivalirudin", "acute myocardial infarction", "percutaneous coronary intervention", "anticoagulation"],
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Between January 2021 and August 2022, 2,500 patients with AMI were enrolled from 15 academic and community hospitals across North America.",
+        "pre_assignment_details": "Randomization was performed in a 1:1 ratio to receive either bivalirudin or standard care (unfractionated heparin and glycoprotein IIb/IIIa inhibitors). All participants were followed for the evaluation of primary and secondary endpoints."
+      },
+      "reported_events": {
+        "time_frame": "30 Days",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bivalirudin",
+              "description": "Patients receiving bivalirudin exhibited a statistically significant reduction in the incidence of MACE compared to the control group."
+            },
+            {
+              "title": "Standard Care",
+              "description": "Control patients demonstrated a higher rate of major bleeding complications, advancing the rationale for bivalirudin use."
+            }
+          ]
+        }
+      },
+      "serious_events": {
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Major Bleeding Events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Total",
+                    "counts": [75, 150]
+                  }
+                ]
+              }
+            },
+            {
+              "title": "Cardiac Events",
+              "event_list": {
+                "event": [
+                  {
+                    "sub_title": "Death (Cardiac)",
+                    "counts": [10, 20]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+      },
+      "point_of_contact": {
+        "name_or_title": "Emily Johnson, MD, Research Coordinator",
+        "organization": "Cardiovascular Therapeutics Foundation",
+        "phone": "123-456-7890",
+        "email": "ejohnson@ctf.org"
+      }
+    }
+  }
+}
+```

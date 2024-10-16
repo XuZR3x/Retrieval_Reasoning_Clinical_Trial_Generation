@@ -1,0 +1,197 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04501234"
+    },
+    "id_info": {
+      "org_study_id": "FN-001-CT",
+      "nct_id": "NCT04501234"
+    },
+    "brief_title": "Efficacy and Safety of Transdermal Fentanyl in Managing Chronic Pain: A Randomized Controlled Trial",
+    "official_title": "A Phase 3, Double-Blind, Randomized, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Transdermal Fentanyl in Adults with Chronic Pain Syndromes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "PharmaCare Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "PharmaCare Inc.",
+    "brief_summary": {
+      "textblock": "The objective of this trial was to assess the efficacy and safety of transdermal fentanyl patches in adults suffering from chronic pain syndromes, including osteoarthritis and neuropathic pain. The hypothesis was that transdermal fentanyl would significantly improve pain control compared to placebo."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2021",
+    "completion_date": "September 2022",
+    "primary_completion_date": "August 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "enrollment": "350",
+    "condition": "Chronic Pain Syndrome",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Transdermal Fentanyl",
+      "description": "Participants received a transdermal fentanyl patch dosed at 25µg/hour, titrated to a maximum dose of 75µg/hour based on individual response and pain levels."
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Adults aged 18-75 years suffering from chronic pain for at least 6 months\n2. Must be diagnosed with osteoarthritis, neuropathic pain, or another chronic pain syndrome\n3. Participants must have a baseline average pain score of ≥4 on a 10-point scale\n\nExclusion Criteria:\n1. History of significant respiratory compromise\n2. Current use of oral opioids exceeding 30 mg morphine equivalents per day\n3. Any significant medical condition that, in the opinion of the investigator, could affect study participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Amelia Johnson",
+      "role": "Principal Investigator",
+      "affiliation": "PharmaCare Inc."
+    },
+    "location": {
+      "facility": {
+        "name": "PharmaCare Research Center",
+        "address": {
+          "city": "Atlanta",
+          "zip": "30301",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "October 2022",
+    "study_first_submitted": "February 15, 2021",
+    "study_first_posted": "February 20, 2021",
+    "last_update_posted": "October 1, 2022",
+    "responsible_party": {
+      "name_title": "PharmaCare Clinical Trials Team",
+      "organization": "PharmaCare Inc."
+    },
+    "keyword": [
+      "Transdermal Fentanyl",
+      "Chronic Pain",
+      "Pain Management"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Chronic Pain",
+        "Neuropathic Pain",
+        "Osteoarthritis"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Fentanyl"
+    },
+    "primary_outcome": {
+      "measure": "Change in Pain Intensity Scores from Baseline to Week 12",
+      "time_frame": "12 weeks",
+      "description": "The primary efficacy endpoint was defined as the reduction in pain intensity scores measured by the Brief Pain Inventory (BPI) scale."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Quality of Life Assessment",
+        "time_frame": "Baseline, Week 6, Week 12",
+        "description": "Quality of life will be assessed using the Short Form Health Survey (SF-36)."
+      },
+      {
+        "measure": "Rescue Medication Usage",
+        "time_frame": "Throughout study duration",
+        "description": "Record the frequency and dosage of any rescue medications used by participants."
+      }
+    ],
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Transdermal Fentanyl Group",
+              "description": "Participants who received the transdermal fentanyl patch."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Participants who received a placebo patch indistinguishable from the fentanyl patch."
+            }
+          ]
+        },
+        "period_list": {
+          "period": [
+            {
+              "title": "Treatment Period",
+              "milestone_list": {
+                "milestone": [
+                  {
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [
+                        { "group": "Transdermal Fentanyl Group", "count": 175 },
+                        { "group": "Placebo Group", "count": 175 }
+                      ]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [
+                        { "group": "Transdermal Fentanyl Group", "count": 150 },
+                        { "group": "Placebo Group", "count": 145 }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change in Pain Intensity Scores",
+            "description": "The difference in pain scores between baseline and endpoint (Week 12) shows a significant reduction in the fentanyl group compared to the placebo group.",
+            "time_frame": "Week 12",
+            "population": "Intention-to-treat population"
+          },
+          {
+            "type": "Secondary",
+            "title": "Quality of Life Assessment - SF-36",
+            "description": "Improvements noted in physical and mental health as assessed by the SF-36 tool, showing better quality of life in the fentanyl group.",
+            "time_frame": "Week 12"
+          },
+          {
+            "type": "Secondary",
+            "title": "Rescue Medication Usage",
+            "description": "Significantly lower usage of rescue medications in the fentanyl group compared to the placebo group.",
+            "time_frame": "Throughout the study"
+          }
+        ]
+      },
+      "reported_events": {
+        "time_frame": "Entire study duration",
+        "group_list": {
+          "group": [
+            {
+              "title": "Transdermal Fentanyl Group",
+              "description": "Total adverse events recorded were minimal, common complaints included mild nausea and application site reactions."
+            },
+            {
+              "title": "Placebo Group",
+              "description": "Adverse events were similarly minimal, primarily consisting of mild headache and skin irritation."
+            }
+          ]
+        }
+      }
+    }
+  }
+}
+```

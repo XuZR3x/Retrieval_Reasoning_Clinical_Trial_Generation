@@ -1,0 +1,147 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04563219"
+    },
+    "id_info": {
+      "org_study_id": "VEM-12-240",
+      "nct_id": "NCT04563219"
+    },
+    "brief_title": "Efficacy and Safety of Vemurafenib in Patients With BRAF V600 Mutation-Positive Stage IV Melanoma",
+    "official_title": "A Multicenter, Open-Label, Phase II Study of Vemurafenib in Patients With BRAF V600 Mutation-Positive Stage IV Melanoma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Bristol-Myers Squibb",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Bristol-Myers Squibb",
+    "brief_summary": {
+      "textblock": "This study evaluated the efficacy and safety of vemurafenib for patients diagnosed with BRAF V600 mutation-positive Stage IV melanoma. Specifically, it examined the overall response rate and safety profile in this targeted patient population."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 15, 2020",
+    "completion_date": "March 10, 2023",
+    "primary_completion_date": "November 30, 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "Measured at 12 weeks post-treatment initiation.",
+        "description": "The overall response rate defined as the percentage of participants demonstrating complete response (CR) or partial response (PR) to vemurafenib treatment, utilizing RECIST 1.1 criteria."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Disease Control Rate (DCR)",
+        "time_frame": "Evaluated at the end of treatment (up to 12 months).",
+        "description": "DCR was calculated as the percentage of participants achieving CR, PR, or stable disease (SD) at least 6 months after treatment initiation."
+      },
+      {
+        "measure": "Safety Profile and Adverse Events",
+        "time_frame": "Adverse events assessed continuously during the treatment phase.",
+        "description": "Safety assessment was conducted using the NCI Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 to monitor significant toxicities."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From first dosing day to progression or death, evaluated every 8 weeks until progression.",
+        "description": "PFS was defined as the time from the start of treatment to the first documented progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From treatment initiation until death, assessed at patient follow-up visits (up to 24 months).",
+        "description": "OS was defined as the time from treatment initiation until death of any cause."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "150",
+    "condition": "Metastatic Melanoma",
+    "arm_group": {
+      "arm_group_label": "Vemurafenib",
+      "arm_group_type": "Experimental",
+      "description": "Each participant will receive vemurafenib at a dosage of 960 milligrams orally, administered twice daily until disease progression, unacceptable toxicity, withdrawal of consent, or decision by the investigator."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Vemurafenib",
+      "description": "Vemurafenib (960 mg orally twice daily) will be administered to all participants until disease progression, unacceptable toxicity, consent withdrawal, or termination of the study.",
+      "arm_group_label": "Vemurafenib",
+      "other_name": "Zelboraf"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n  -  Age ≥ 18 years.\r\n  -  Histologically confirmed metastatic melanoma with BRAF V600 mutation positive status.\r\n  -  Measurable disease according to RECIST 1.1 criteria.\r\n  -  No prior treatment with BRAF inhibitors or combination with MEK inhibitors.\r\n  -  Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\r\n  -  Adequate organ function defined by specified laboratory parameters.\r\n  -  Provided written informed consent.\r\n\r\nExclusion Criteria:\r\n  -  Symptomatic CNS metastases or leptomeningeal disease.\r\n  -  Any significant active comorbidity or concurrent malignancy within 5 years.\r\n  -  Previous treatment with any systemic therapy for advanced melanoma.\r\n  -  Active inflammatory bowel disease, chronic diarrhea, or malabsorption syndromes."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Alice Luo",
+      "role": "Principal Investigator",
+      "affiliation": "Bristol-Myers Squibb"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Memorial Sloan Kettering Cancer Center",
+          "address": {
+            "city": "New York",
+            "zip": "10065",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "March 2023",
+    "study_first_submitted": "January 10, 2020",
+    "study_first_submitted_qc": "January 12, 2020",
+    "study_first_posted": "January 15, 2020",
+    "results_first_submitted": "April 1, 2023",
+    "results_first_posted": "May 1, 2023",
+    "last_update_submitted": "March 15, 2023",
+    "last_update_posted": "March 20, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "VEMURAFENIB",
+      "BRAF V600 Mutation",
+      "Metastatic Melanoma",
+      "Zelboraf"
+    ],
+    "condition_browse": {
+      "mesh_term": "Melanoma"
+    },
+    "intervention_browse": {
+      "mesh_term": "Vemurafenib"
+    }
+  }
+}
+```

@@ -1,0 +1,122 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "IRON-MMT.5643",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Ferric Carboxymaltose for Iron Deficiency Anemia in Patients Undergoing Chemotherapy for Breast Cancer",
+    "official_title": "Randomized, Open-label, Phase 3 Trial Evaluating the Efficacy and Safety of Ferric Carboxymaltose Versus Standard Care in Patients With Iron Deficiency Anemia Secondary to Chemotherapy for Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "OncoCare Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "OncoCare Research Institute",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to investigate whether ferric carboxymaltose can effectively elevate hemoglobin levels in patients diagnosed with breast cancer, experiencing iron deficiency anemia as a result of chemotherapy. The primary hypothesis posited that intravenous ferric carboxymaltose would yield a more significant increase in hemoglobin concentrations compared to standard oral iron supplementation."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment and high attrition rates",
+    "start_date": "February 2011",
+    "completion_date": "December 2013",
+    "primary_completion_date": "July 2013",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Change in hemoglobin levels from baseline to Week 12",
+      "time_frame": "12 weeks",
+      "description": "The primary endpoint was defined as the mean change in hemoglobin concentration from baseline at the end of 12 weeks (excluding any rescue therapy)."
+    },
+    "number_of_arms": "2",
+    "enrollment": "25",
+    "condition": ["Iron Deficiency Anemia", "Breast Cancer"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ferric Carboxymaltose",
+        "arm_group_type": "Experimental",
+        "description": "Participants received intravenous ferric carboxymaltose at 15 mg/kg body weight on two occasions separated by a week."
+      },
+      {
+        "arm_group_label": "Standard Care",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard oral iron supplementation according to institutional guidelines."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Ferric Carboxymaltose",
+        "description": "15 mg/kg body weight administered as intravenous infusion on two occasions separated by one week.",
+        "arm_group_label": "Ferric Carboxymaltose"
+      },
+      {
+        "intervention_type": "Dietary Supplement",
+        "intervention_name": "Oral Iron Supplementation",
+        "description": "Standard oral iron preparations provided as per local standard of care.",
+        "arm_group_label": "Standard Care"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n1. Female patients aged 18 years or older with a confirmed diagnosis of breast cancer.\n2. Documented iron deficiency anemia defined as hemoglobin levels < 11 g/dL and ferritin < 30 ng/mL, with transferrin saturation < 20%.\n3. Scheduled to receive chemotherapy.\n4. Signed informed consent.\n\nExclusion Criteria:\n1. Pregnancy or lactation.\n2. Previous experience with intravenous iron therapy.\n3. Major gastrointestinal disorders affecting absorption.\n4. Concurrent participation in another clinical trial.\n5. Known hypersensitivity to ferric carboxymaltose."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Linda T. Chan, MD",
+      "role": "Principal Investigator",
+      "affiliation": "OncoCare Research Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "OncoCare Research Institute",
+        "address": {
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94112",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2014",
+    "study_first_submitted": "January 10, 2011",
+    "study_first_submitted_qc": "January 12, 2011",
+    "study_first_posted": "January 17, 2011",
+    "last_update_submitted": "November 11, 2014",
+    "last_update_posted": "November 13, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "OncoCare Research Institute",
+      "investigator_full_name": "Dr. Linda T. Chan",
+      "investigator_title": "Medical Oncologist"
+    },
+    "keyword": ["Ferric Carboxymaltose", "Iron Deficiency Anemia", "Breast Cancer", "Chemotherapy"],
+    "condition_browse": {
+      "mesh_term": ["Anemia", "Anemia, Iron-Deficiency", "Breast Neoplasms"]
+    }
+  }
+}
+```

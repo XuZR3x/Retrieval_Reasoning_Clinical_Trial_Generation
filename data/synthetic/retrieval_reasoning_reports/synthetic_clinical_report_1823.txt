@@ -1,0 +1,418 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00123456"
+    },
+    "id_info": {
+      "org_study_id": "2021-0015",
+      "nct_id": "NCT00123456"
+    },
+    "brief_title": "Atorvastatin for the Prevention of Postoperative Atrial Fibrillation in Cardiac Surgery Patients",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy of Atorvastatin in Reducing Postoperative Atrial Fibrillation in Patients Undergoing Cardiac Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiac Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cardiac Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate whether atorvastatin can effectively prevent postoperative atrial fibrillation (AF) in patients undergoing cardiac surgery. The secondary outcomes include assessments of inflammatory markers and lipid profiles to corroborate potential mechanisms of action."
+    },
+    "detailed_description": {
+      "textblock": "Postoperative atrial fibrillation is a common and significant complication following cardiac surgery, which may lead to increased morbidity. Given the promising anti-inflammatory properties and lipid-lowering effects of atorvastatin, this study hypothesized that atorvastatin would reduce AF recurrence in these patients.\n\nA total of 400 patients were recruited and randomized into two groups: one receiving atorvastatin 80 mg daily for 30 days postoperatively, and another receiving a placebo. Patients were monitored for recurrence of AF through telemetry and routine ECG assessments.\n\nSeveral challenges emerged during the trial. Firstly, the enrollment was significantly lower than anticipated due to strict inclusion criteria that excluded patients already on statin therapy, thus diminishing the generalizability of findings. Furthermore, the dual-stage trial design led to premature termination as initial phase results revealed no significant decrease in AF incidences, prompting an unplanned cessation of participant assessment.",
+      "textblock_summary": "Despite atorvastatin’s recognized benefits in other cardiovascular contexts, several factors, including high exclusion rates due to concurrent statin use and the failure to align the treatment mechanism with the underlying arrhythmic pathophysiology, hampered the examination of atorvastatin's effectiveness in this cohort."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial was terminated due to low enrollment and insufficient statistical power to detect significant differences in primary outcomes.",
+    "start_date": "February 2021",
+    "completion_date": "September 2021",
+    "primary_completion_date": "September 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Care Provider)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Atrial Fibrillation Within 30 Days Post-surgery",
+      "time_frame": "Baseline to 30 days post-surgery",
+      "description": "The primary outcome measured the incidence rate of symptomatic or asymptomatic atrial fibrillation as confirmed by ECG monitoring during the postoperative period."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in C-Reactive Protein Levels",
+        "time_frame": "Baseline and 30 days post-surgery"
+      },
+      {
+        "measure": "Change in Lipid Levels",
+        "time_frame": "Baseline and 30 days post-surgery",
+        "description": "Changes in total cholesterol, LDL, HDL to assess atorvastatin's lipid-lowering effects."
+      },
+      {
+        "measure": "Participant Quality of Life Assessment",
+        "time_frame": "Baseline and 30 days post-surgery",
+        "description": "Quality of life evaluated using standard questionnaires."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": "Postoperative Atrial Fibrillation",
+    "arm_group": [
+      {
+        "arm_group_label": "Atorvastatin",
+        "arm_group_type": "Experimental",
+        "description": "Patients received atorvastatin 80 mg orally once daily for 30 days postoperatively."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients received a placebo tablet orally once daily for 30 days postoperatively."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Atorvastatin",
+        "description": "Patients in this group received 80 mg atorvastatin once daily for 30 days.",
+        "arm_group_label": "Atorvastatin",
+        "other_name": ["Lipitor"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Patients received a placebo drug matching atorvastatin in appearance.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Patients aged 18 years or older undergoing elective cardiac surgery.\n- Able to provide informed consent.\n\nExclusion Criteria:\n\n- Prior use of statins or intolerance to statin medications.\n- History of myocardial infarction or surgery within the last month.\n- Chronic inflammatory diseases or active liver disorders."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiac Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiac Research Institute",
+        "address": {
+          "city": "Cityville",
+          "state": "State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "June 2022",
+    "study_first_submitted": "January 10, 2021",
+    "study_first_submitted_qc": "February 10, 2021",
+    "study_first_posted": "March 1, 2021",
+    "results_first_submitted": "January 5, 2022",
+    "results_first_submitted_qc": "January 6, 2022",
+    "results_first_posted": "February 1, 2022",
+    "last_update_submitted": "March 12, 2022",
+    "last_update_posted": "April 3, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "organization": "Cardiac Research Institute"
+    },
+    "keyword": [
+      "Atrial Fibrillation",
+      "Atorvastatin",
+      "Cardiac Surgery",
+      "Postoperative Complications"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Atrial Fibrillation",
+        "Cardiac Surgery"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": "Atorvastatin"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Patients were recruited from January 2021 to July 2021 at the Cardiac Research Institute.",
+        "pre_assignment_details": "Out of 400 screened patients, only 50 were enrolled, significantly below the anticipated sample size. Major reasons for exclusion included prior statin usage or contraindications to atorvastatin.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Atorvastatin",
+              "description": "Lipitor (atorvastatin) 80 mg tablet taken once daily for 30 days."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo (dummy) tablet taken once daily for 30 days."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": []
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": {
+                "title": "Study Termination",
+                "participants_list": {
+                  "participants": []
+                }
+              }
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Atorvastatin",
+              "description": "Lipitor (atorvastatin) 80 mg tablet taken once daily for 30 days."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo (dummy) tablet taken once daily for 30 days."
+            },
+            {
+              "title": "Total",
+              "description": "Total of all reporting groups."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [
+                null,
+                null,
+                null
+              ]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [
+                          null,
+                          null,
+                          null
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Gender: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [
+                      {
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [
+                            null,
+                            null,
+                            null
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "outcome_list": {
+          "outcome": [
+            {
+              "type": "Primary",
+              "title": "Incidence of Postoperative Atrial Fibrillation",
+              "description": "Assessment of the incidence of postoperative atrial fibrillation within 30 days post-surgery via ECG and Holter monitoring.",
+              "time_frame": "Baseline through 30 days post-surgery",
+              "group_list": {
+                "group": [
+                  {
+                    "title": "Atorvastatin",
+                    "description": "Participants receiving atorvastatin."
+                  },
+                  {
+                    "title": "Placebo",
+                    "description": "Participants receiving placebo."
+                  }
+                ]
+              },
+              "measure": {
+                "title": "Incidence Rate of Atrial Fibrillation",
+                "description": "The percentage of participants developing AF post-operatively.",
+                "population": "Based on available ECG data.",
+                "units": "Percentage of subjects",
+                "param": "Count",
+                "analyzed_list": {
+                  "analyzed": {
+                    "units": "Participants",
+                    "scope": "Measure",
+                    "count_list": {
+                      "count": [
+                        null,
+                        null
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "reported_events": {
+      "time_frame": "30 days post-operation",
+      "group_list": {
+        "group": [
+          {
+            "title": "Atorvastatin",
+            "description": "Lipitor (atorvastatin) 80 mg tablet taken once daily for 30 days."
+          },
+          {
+            "title": "Placebo",
+            "description": "Placebo (dummy) tablet taken once daily for 30 days."
+          }
+        ]
+      },
+      "serious_events": {
+        "category_list": {
+          "category": {
+            "title": "Total",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, serious adverse events",
+                "counts": [
+                  null,
+                  null
+                ]
+              }
+            }
+          }
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [
+                    null,
+                    null
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Liver Enzyme Elevation",
+              "event_list": {
+                "event": {
+                  "sub_title": "Elevated Liver Enzymes",
+                  "counts": [
+                    null,
+                    null
+                  ]
+                }
+              }
+            },
+            {
+              "title": "Muscle-related Symptoms",
+              "event_list": {
+                "event": {
+                  "sub_title": "Myalgia",
+                  "counts": [
+                    null,
+                    null
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "All Principal Investigators ARE employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed."
+    },
+    "limitations_and_caveats": "The study faced difficulties with low enrollment numbers, which limited the statistical power to draw definitive conclusions regarding atorvastatin's efficacy. The prior use of lipid-lowering therapy among potential subjects substantially impacted recruitment, and the mechanistic rationale for atorvastatin's potential benefit in this cohort may not have been sufficiently aligned with the complexities surrounding postoperative AF."
+  }
+}
+```

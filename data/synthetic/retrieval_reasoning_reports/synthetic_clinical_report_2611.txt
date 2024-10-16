@@ -1,0 +1,134 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00464988"
+    },
+    "id_info": {
+      "org_study_id": "EORTC 11563",
+      "nct_id": "NCT00464988"
+    },
+    "brief_title": "A Phase II Study of Perifosine in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Trial of Perifosine (D-21266) in Patients With Advanced Non-Small Cell Lung Cancer After Failure of Platinum-Based Chemotherapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "European Organisation for Research and Treatment of Cancer (EORTC)",
+        "agency_class": "Other"
+      }
+    },
+    "source": "European Organisation for Research and Treatment of Cancer (EORTC)",
+    "brief_summary": {
+      "textblock": "This Phase II trial aims to evaluate the efficacy and safety of perifosine in patients who have advanced non-small cell lung cancer (NSCLC) and have previously failed platinum-based chemotherapy."
+    },
+    "detailed_description": {
+      "textblock": "The primary objective of this study is to assess the progression-free survival (PFS) of patients treated with perifosine following failure of at least one platinum-based chemotherapy regimen. Secondary objectives include overall survival (OS), response rate, and toxicities associated with perifosine administration. \r\n\r\nThis is a multi-center, open-label, single-arm trial enrolling patients with histologically confirmed advanced NSCLC. Patients will receive oral perifosine at a dose of 100 mg daily, continuously until disease progression or unacceptable toxicity occurs. Patient assessments for response will be performed every 6 weeks."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study was terminated due to lack of efficacy and high rate of adverse events.",
+    "start_date": "June 1, 2007",
+    "completion_date": "August 15, 2012",
+    "primary_completion_date": "June 1, 2010",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Every 6 weeks until disease progression, assessed up to 12 months",
+      "description": "PFS will be evaluated using RECIST criteria to determine the time from treatment initiation until disease progression."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "From treatment initiation until death from any cause, assessed up to 24 months",
+        "description": "OS will be analyzed to determine the duration from the start of treatment until death."
+      },
+      {
+        "measure": "Response Rate",
+        "time_frame": "Every 6 weeks, assessed up to 12 months",
+        "description": "The objective response rate will be calculated as the percentage of patients exhibiting a complete or partial response."
+      },
+      {
+        "measure": "Toxicity Profile",
+        "time_frame": "Throughout the treatment phase, assessed continuously",
+        "description": "Adverse events will be documented and graded according to the CTCAE v4.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "42",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Perifosine Treatment",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive perifosine orally at a dose of 100 mg once daily."
+    },
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Perifosine",
+      "description": "Perifosine administered orally at a dose of 100 mg daily.",
+      "arm_group_label": "Perifosine Treatment",
+      "other_name": ["D-21266", "KRX-0401"]
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Histologically confirmed non-small cell lung cancer (NSCLC) that is advanced and not amenable to curative treatment.\r\n  - Documented disease progression following at least one line of platinum-based chemotherapy.\r\n  - Aged 18 or older.\r\n  - ECOG performance status of 0-2.\r\n  - Sufficient organ function as defined by standard laboratory tests.\r\n  - Ability to understand and provide written informed consent.\r\n\r\nExclusion Criteria:\r\n\r\n  - Previous treatment with investigational agent targeting the same signaling pathway as perifosine.\r\n  - Known symptomatic brain metastases.\r\n  - Other concurrent malignancies.\r\n  - Active infection requiring systemic therapy.\r\n  - Pregnant or nursing women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jean-Pierre Pignon, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Strasbourg"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Hôpital Civil - Strasbourg",
+          "address": {
+            "city": "Strasbourg",
+            "state": "Alsace",
+            "zip": "67000",
+            "country": "France"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Centre Léon Bérard",
+          "address": {
+            "city": "Lyon",
+            "state": "Auvergne-Rhône-Alpes",
+            "zip": "69000",
+            "country": "France"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "France"
+    },
+    "verification_date": "September 2014",
+    "study_first_submitted": "July 30, 2007",
+    "study_first_submitted_qc": "July 30, 2007",
+    "study_first_posted": "August 4, 2007",
+    "results_first_submitted": "June 15, 2013",
+    "results_first_posted": "July 1, 2013",
+    "last_update_submitted": "July 20, 2014",
+    "last_update_posted": "July 21, 2014",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "limitations_and_caveats": "The study was terminated primarily due to insufficient efficacy in achieving primary endpoints coupled with a high incidence of adverse events, which surpassed predetermined safety thresholds."
+  }
+}
+```

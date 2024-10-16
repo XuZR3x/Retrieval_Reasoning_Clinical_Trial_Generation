@@ -1,0 +1,201 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "H9O-MC-ABC123",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Assessment of Exenatide's Impact on Cardiovascular Outcomes in Patients With Type 2 Diabetes",
+    "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Trial Evaluating the Cardioprotective Effects of Exenatide in Patients With Type 2 Diabetes Over 24 Weeks",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Clinical Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Pharmaceutical Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Clinical Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the cardioprotective effects of exenatide compared to placebo in patients diagnosed with type 2 diabetes, specifically monitoring changes in cardiovascular biomarkers, metabolic parameters, and overall heart health."
+    },
+    "detailed_description": {
+      "textblock": "Despite previous research suggesting beneficial effects of exenatide on cardiovascular health, this particular study was hindered by several operational challenges. Initial assumptions about participant willingness were inaccurate, leading to a significant shortfall in recruitment. The original target of 200 participants was never achieved, culminating in only 35 individuals consenting to participate across multiple sites.\n\nThe study was conducted as a randomized, double-blind, placebo-controlled trial, designed to evaluate the mean change in cardiovascular metrics, including 24-hour heart rate variability and blood pressure outcomes at baseline and endpoint (24 weeks). However, these critical elements were compromised due to a lack of robust statistical power stemming from underenrollment.\n\nMoreover, the dosing regimen initially proposed involved a gradual titration from 5 mcg to 10 mcg of exenatide over the study duration, which proved challenging for participants, most of whom reported intolerable gastrointestinal adverse effects early in the treatment phase, including nausea and vomiting. This unanticipated withdrawal symptom severity led to an 18% dropout rate within the first four weeks of treatment.\n\nIn retrospect, the lack of control arms in patient evaluations, alongside the variability in baseline characteristics—particularly the heterogeneous metabolic profiles and pre-existing cardiovascular conditions among participants—further complicated data interpretation. The absence of adequate comparators resulted in inconclusive outcomes regarding the cardioprotective efficacy of exenatide.\n\nCollectively, these factors culminated in an underpowered trial unable to provide definitive evidence on the role of exenatide in cardiovascular risk reduction among individuals with type 2 diabetes."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Insufficient recruitment and high drop-out rate due to adverse effects leading to lack of statistical significance.",
+    "start_date": "March 2020",
+    "completion_date": "September 2021",
+    "primary_completion_date": "July 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Mean Change in 24-hour Heart Rate From Baseline to Endpoint",
+      "time_frame": "24 weeks",
+      "description": "Assessed via ambulatory heart rate monitoring at baseline and the endpoint."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Mean 24-hour Systolic Blood Pressure From Baseline to Endpoint",
+        "time_frame": "24 weeks",
+        "description": "Average systolic blood pressure outcomes monitored over a 24-hour period."
+      },
+      {
+        "measure": "Change in Hemoglobin A1c (HbA1c) From Baseline to Endpoint",
+        "time_frame": "24 weeks",
+        "description": "Changes in HbA1c documented through standard blood sampling."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": "Type 2 Diabetes Mellitus",
+    "arm_group": [
+      {
+        "arm_group_label": "Exenatide Arm",
+        "arm_group_type": "Experimental",
+        "description": "Participants received 5 mcg of exenatide subcutaneously twice daily for 4 weeks, followed by an uptitration to 10 mcg for the remaining 20 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Arm",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received an equivalent volume of placebo injections subcutaneously twice daily for the duration of the study."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "exenatide",
+        "description": "subcutaneous injection, 5mcg twice daily for 4 weeks, then uptitrated to 10mcg twice daily.",
+        "arm_group_label": "Exenatide Arm",
+        "other_name": ["Byetta"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "subcutaneous injection, equivalent volume administered twice daily.",
+        "arm_group_label": "Placebo Arm"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Diagnosed with type 2 diabetes for at least 6 months prior to screening.\r\n\r\n  - Age > 18 years and < 75 years.\r\n\r\n  - HbA1c between 6.5% and 9.0% inclusive.\r\n\r\n  - Body Mass Index (BMI) > 25 kg/m^2 and < 35 kg/m^2.\r\n\r\nExclusion Criteria:\r\n\r\n  - History of type 1 diabetes.\r\n\r\n  - Current use of GLP-1 receptor agonists or medications affecting gastrointestinal motility.\r\n\r\n  - Patients with a history of pancreatitis or severe gastrointestinal disorders.\r\n\r\n  - Pregnant or breastfeeding women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "Smith",
+        "role": "Chief Investigator",
+        "affiliation": "Clinical Research Institute"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Main Research Center",
+          "address": {
+            "city": "Cityville",
+            "state": "State",
+            "country": "Country"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "Country"
+    },
+    "verification_date": "November 2021",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_posted": "February 10, 2020",
+    "last_update_posted": "August 31, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["exenatide", "cardiovascular", "type 2 diabetes", "ambulatory monitoring"],
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Exenatide"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Exenatide Active",
+              "description": "5mcg exenatide two times daily, increasing to 10mcg after 4 weeks."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo subcutaneous injection equivalent to active treatment."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study Period",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [35, 0]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [0, 0]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [35, 0]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "Overall Study Population",
+          "group_list": {
+            "group": [
+              {
+                "title": "Exenatide Arm",
+                "description": "Participants received exenatide doses as outlined."
+              },
+              {
+                "title": "Placebo Arm",
+                "description": "Participants received equivalent placebo treatment."
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

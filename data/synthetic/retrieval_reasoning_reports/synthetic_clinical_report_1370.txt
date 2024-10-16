@@ -1,0 +1,421 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "A481-202",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy and Safety of Dasatinib Combined with Trastuzumab and Chemotherapy in HER2-positive Metastatic Breast Cancer",
+    "official_title": "Phase II Study Evaluating the Efficacy of Dasatinib in Combination with Trastuzumab and Chemotherapy in Patients with HER2-positive Metastatic Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "XYZ Pharmaceuticals",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "XYZ Pharmaceuticals",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the synergistic effects of dasatinib, a potent dual ABL and SRC kinase inhibitor, when combined with trastuzumab and standard chemotherapy in patients with HER2-positive metastatic breast cancer. By exploring optimized dosages and combination strategies, this trial assesses molecular and clinical efficacy, while ensuring safety through comprehensive monitoring."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\r\n\r\n1. To determine the overall response rate (ORR) of dasatinib combined with trastuzumab and chemotherapy in patients with HER2-positive metastatic breast cancer.\r\n\r\n2. To evaluate the safety profile of the combination treatment, specifically monitoring for dose-limiting toxicities (DLTs) and other adverse events.\r\n\r\n3. To assess changes in BCR-ABL transcript levels as a biomarker for treatment response after a 12-month treatment period.\r\n\r\nOUTLINE: Patients will receive treatment in 4-week cycles:\r\n- Trastuzumab: 2 mg/kg IV weekly following a loading dose of 4 mg/kg in Cycle 1.\r\n- Chemotherapy (Paclitaxel): 80 mg/m2 IV weekly for three weeks followed by a one-week rest.\r\n- Dasatinib: administered orally at initial dosing levels of 100 mg and 140 mg once daily and adjusted based on tolerability after monitoring.\r\n\r\nTREATMENT WILL CONTINUE until disease progression or unacceptable toxicity, with patients being followed for up to 5 years for safety and efficacy assessments."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2015",
+    "completion_date": "March 2021",
+    "primary_completion_date": "December 2018",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Overall Response Rate (ORR)",
+        "time_frame": "At 12 months post-treatment initiation",
+        "description": "The objective response rate is measured as the proportion of patients who achieved a complete response (CR) or partial response (PR) as per RECIST 1.1 criteria."
+      },
+      {
+        "measure": "Change in BCR-ABL Transcript Levels",
+        "time_frame": "Baseline and after 12 months of treatment",
+        "description": "Monitoring of BCR-ABL levels to determine the molecular response to treatment."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Throughout the treatment period",
+        "description": "Identification of adverse events and grade of severity utilizing the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0."
+      },
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Estimated duration from initiation of treatment to disease progression or death",
+        "description": "The time frame will be assessed at 6-month intervals for the duration of the study."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "100",
+    "condition": "HER2-positive Metastatic Breast Cancer",
+    "arm_group": {
+      "arm_group_label": "Dasatinib + Trastuzumab + Paclitaxel",
+      "arm_group_type": "Experimental",
+      "description": "Patients will be treated with dasatinib (100 mg or 140 mg orally once daily), trastuzumab (2 mg/kg IV weekly), and paclitaxel (80 mg/m2 IV weekly)."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dasatinib",
+        "description": "Administered orally at 100 mg and 140 mg doses.",
+        "arm_group_label": "Dasatinib + Trastuzumab + Paclitaxel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Trastuzumab",
+        "description": "Administered IV at a dosage of 2 mg/kg weekly.",
+        "arm_group_label": "Dasatinib + Trastuzumab + Paclitaxel"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Paclitaxel",
+        "description": "Administered IV at 80 mg/m2 weekly.",
+        "arm_group_label": "Dasatinib + Trastuzumab + Paclitaxel"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Female patients aged 18 years or older with histologically confirmed HER2-positive metastatic breast cancer.\r\n2. No prior treatment for metastatic disease is allowed; patients may have received adjuvant therapy provided they are free from recurrence for at least 12 months.\r\n3. ECOG performance status of 0 or 1.\r\n4. Adequate organ function as defined by standard laboratory values.\r\n\r\nExclusion Criteria:\r\n1. Pregnant or breastfeeding women.\r\n2. Patients with significant cardiac history or current unstable cardiac conditions.\r\n3. Any ongoing acute or chronic infections requiring treatment.\r\n4. History of other malignancies within the past 5 years."
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Doe",
+      "role": "Principal Investigator",
+      "affiliation": "XYZ Pharmaceuticals"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "ABC Cancer Center",
+          "address": {
+            "city": "Cityville",
+            "state": "State",
+            "zip": "12345",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "XYZ Hospital",
+          "address": {
+            "city": "Townsville",
+            "state": "State",
+            "zip": "67890",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2024",
+    "study_first_submitted": "July 30, 2014",
+    "study_first_submitted_qc": "August 5, 2014",
+    "study_first_posted": "August 6, 2014",
+    "results_first_submitted": "March 30, 2021",
+    "results_first_submitted_qc": "July 15, 2021",
+    "results_first_posted": "October 1, 2021",
+    "last_update_submitted": "August 28, 2024",
+    "last_update_submitted_qc": "August 28, 2024",
+    "last_update_posted": "August 29, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms, HER2-Positive"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trastuzumab", "Paclitaxel", "Dasatinib"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "100 patients were screened, and 100 patients were enrolled and received at least one dose of dasatinib in combination with trastuzumab and chemotherapy.",
+        "group_list": {
+          "group": [{
+              "title": "Dasatinib + Trastuzumab + Paclitaxel",
+              "description": "Patients received combination treatment and were evaluated for ORR within 12 months."
+            }],
+          "period_list": {
+            "period": [{
+              "title": "Phase I-II",
+              "milestone_list": {
+                "milestone": [{
+                    "title": "STARTED",
+                    "participants_list": {
+                      "participants": [null, null, null, null]
+                    }
+                  },
+                  {
+                    "title": "COMPLETED",
+                    "participants_list": {
+                      "participants": [null, null, null, null]
+                    }
+                  },
+                  {
+                    "title": "NOT COMPLETED",
+                    "participants_list": {
+                      "participants": [null, null, null, null]
+                    }
+                  }
+                ]
+              },
+              "drop_withdraw_reason_list": {
+                "drop_withdraw_reason": [{
+                    "title": "Adverse Event",
+                    "participants_list": {
+                      "participants": [null, null, null, null]
+                    }
+                  },
+                  {
+                    "title": "Patient Decision",
+                    "participants_list": {
+                      "participants": [null, null, null, null]
+                    }
+                  }
+                ]
+              }
+            }]
+          }
+        }
+      },
+      "baseline": {
+        "population": "All patients who received treatment and completed baseline assessments.",
+        "group_list": {
+          "group": [{
+              "title": "Dasatinib + Trastuzumab + Paclitaxel",
+              "description": "Phase II evaluation of this combination in HER2-positive patients."
+            }],
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [null, null, null]
+              }
+            },
+            "measure_list": {
+              "measure": [{
+                  "title": "Age",
+                  "units": "Years",
+                  "param": "Median",
+                  "dispersion": "Full Range",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [null, null]
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex Distribution",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [{
+                            "title": "Female",
+                            "measurement_list": {
+                              "measurement": [null, null]
+                            }
+                          },
+                          {
+                            "title": "Male",
+                            "measurement_list": {
+                              "measurement": [null, null]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            "outcome_list": {
+              "outcome": [{
+                  "type": "Primary",
+                  "title": "Overall Response Rate (ORR)",
+                  "description": "Percentage of participants demonstrating CR or PR after 12 months.",
+                  "time_frame": "At 12 months post-treatment initiation",
+                  "population": "Patients treated with the combination therapy.",
+                  "measure": {
+                    "title": "Overall Response Rate (ORR)",
+                    "units": "Percentage of participants",
+                    "param": "Number",
+                    "analyzed_list": {
+                      "analyzed": {
+                        "units": "Participants",
+                        "scope": "Measure",
+                        "count_list": {
+                          "count": [null, null]
+                        }
+                      },
+                      "class_list": {
+                        "class": {
+                          "category_list": {
+                            "category": {
+                              "measurement_list": {
+                                "measurement": [null, null]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "type": "Secondary",
+                  "title": "Safety Profile - Adverse Events",
+                  "description": "Assessment of the adverse events related to the treatment concentrations.",
+                  "time_frame": "Throughout the treatment period",
+                  "population": "Patients receiving the treatment.",
+                  "measure": {
+                    "title": "Adverse Events",
+                    "units": "Count of participants with adverse events",
+                    "param": "Number",
+                    "analyzed_list": {
+                      "analyzed": {
+                        "units": "Participants",
+                        "scope": "Measure",
+                        "count_list": {
+                          "count": [null, null]
+                        }
+                      },
+                      "class_list": {
+                        "class": {
+                          "category_list": {
+                            "category": {
+                              "measurement_list": {
+                                "measurement": [null, null]
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "reported_events": {
+      "time_frame": "Through study treatment and up to 30 days after the last dose.",
+      "group_list": [{
+          "title": "Dasatinib + Trastuzumab + Paclitaxel",
+          "description": "In this group, patients were monitored for adverse events following each dose."
+        }
+      ],
+      "serious_events": {
+        "default_vocab": "NCI CTC-AE v 5.0",
+        "default_assessment": "Systematic Assessment",
+        "category_list": [{
+            "title": "Total Serious Adverse Events",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, serious adverse events",
+                "counts": [null, null, null]
+              }
+            }
+          },
+          {
+            "title": "Cardiac Disorders",
+            "event_list": {
+              "event": {
+                "sub_title": "Cardiac failure",
+                "counts": [null, null, null]
+              }
+            }
+          },
+          {
+            "title": "Infectious Complications",
+            "event_list": {
+              "event": {
+                "sub_title": "Severe infection requiring hospitalization",
+                "counts": [null, null, null]
+              }
+            }
+          }
+        ]
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_vocab": "NCI CTC-AE v 5.0",
+        "default_assessment": "Non-systematic Assessment",
+        "category_list": [{
+            "title": "Total Other Adverse Events",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, other adverse events",
+                "counts": [null, null, null]
+              }
+            }
+          },
+          {
+            "title": "Metabolic Disorders",
+            "event_list": {
+              "event": {
+                "sub_title": "Hypokalemia",
+                "counts": [null, null, null]
+              }
+            }
+          },
+          {
+            "title": "Gastrointestinal Disorders",
+            "event_list": {
+              "event": {
+                "sub_title": "Nausea and vomiting incidents",
+                "counts": [null, null, null]
+              }
+            }
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The only disclosure restriction is that the sponsor has the right to review and embargo communications about trial results prior to public release for up to 60 days.",
+      "point_of_contact": {
+        "name_or_title": "Clinical Trial Coordinator",
+        "organization": "XYZ Pharmaceuticals",
+        "email": "contact@xyzpharma.com"
+      }
+    }
+  }
+}
+```

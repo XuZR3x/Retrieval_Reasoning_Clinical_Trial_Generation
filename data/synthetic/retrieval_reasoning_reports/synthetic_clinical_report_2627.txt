@@ -1,0 +1,233 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02978145"
+    },
+    "id_info": {
+      "org_study_id": "Clinical Study ID 2021-003",
+      "nct_id": "NCT02978145"
+    },
+    "brief_title": "Alemtuzumab in Combination With Daclizumab for Renal Transplant Immunosuppression",
+    "official_title": "Open-label, Randomized Study to Evaluate the Efficacy and Safety of Alemtuzumab Combined With Daclizumab for Immunosuppression in Kidney Transplant Recipients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Stanford University",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Stanford University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy and safety of a novel immunosuppressive protocol combining alemtuzumab with daclizumab in kidney transplant recipients. The hypothesis is that this combination will enhance graft survival and reduce acute rejection rates compared to standard immunosuppressive regimens."
+    },
+    "detailed_description": {
+      "textblock": "Kidney transplant recipients are preoperatively randomized to receive either standard immunosuppression or a novel combination of alemtuzumab (1 mg/kg IV) followed by daclizumab (1 mg/kg IV) after transplant. Patients will be monitored for the incidence of acute rejection, graft function, and adverse events for a duration of 24 months post-transplant. Comprehensive follow-up includes bi-weekly assessments for the first three months, then quarterly evaluations thereafter."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "September 2022",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of Acute Rejection at 12 Months Post-Transplant",
+      "time_frame": "at one year post-transplant"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Graft Survival Rates",
+        "time_frame": "at 1 and 2 years post-transplant"
+      },
+      {
+        "measure": "Patient Survival Rates",
+        "time_frame": "at 1 and 2 years post-transplant"
+      },
+      {
+        "measure": "Serious Adverse Events",
+        "time_frame": "throughout the study duration"
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "300",
+    "condition": "Kidney Transplantation",
+    "arm_group": [
+      {
+        "arm_group_label": "Standard Immunosuppressive Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive conventional immunosuppression with tacrolimus and mycophenolate mofetil."
+      },
+      {
+        "arm_group_label": "Alemtuzumab and Daclizumab",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive alemtuzumab followed by daclizumab as the immunosuppressive protocol."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Alemtuzumab",
+        "description": "Alemtuzumab will be administered at 1 mg/kg IV at the time of transplantation.",
+        "arm_group_label": "Alemtuzumab and Daclizumab",
+        "other_name": "Campath-1H"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Daclizumab",
+        "description": "Daclizumab will be administered at 1 mg/kg IV within 24 hours post-transplant.",
+        "arm_group_label": "Alemtuzumab and Daclizumab",
+        "other_name": "Zenapax"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n\n1. Adults aged 18-70 years, receiving a first kidney transplant.\n2. Negative T-cell cross-match with donor. \n3. Informed consent obtained.\n\nExclusion Criteria:\n\n1. Previous solid organ transplant.\n2. Active malignancy except treated non-melanoma skin cancers.\n3. Significant comorbidities affecting survival.\n"
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "70 Years",
+      "healthy_volunteers": "No"
+    },
+    "location": {
+      "facility": {
+        "name": "Stanford Hospital and Clinics",
+        "address": {
+          "city": "Stanford",
+          "state": "California",
+          "zip": "94305",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "results_reference": {
+      "citation": "Smith J, Johnson L, et al. Alemtuzumab and Daclizumab in Kidney Transplantation: A Phase III Randomized Trial. Transplantation Proceedings. 2023.",
+      "PMID": "12345678"
+    },
+    "verification_date": "September 2023",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_submitted_qc": "January 20, 2018",
+    "study_first_posted": "January 25, 2018",
+    "results_first_submitted": "April 1, 2023",
+    "results_first_submitted_qc": "April 10, 2023",
+    "results_first_posted": "April 15, 2023",
+    "last_update_submitted": "September 20, 2023",
+    "last_update_submitted_qc": "September 20, 2023",
+    "last_update_posted": "September 22, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Stanford University",
+      "investigator_full_name": "Emily R. Adams, MD",
+      "investigator_title": "Chief of Transplant Surgery"
+    },
+    "keyword": ["Kidney Transplantation", "Alemtuzumab", "Daclizumab", "Immunosuppression"],
+    "condition_browse": {
+      "mesh_term": "Kidney Transplantation"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Alemtuzumab", "Daclizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "Enrolled participants from renal transplant centers across California.",
+        "pre_assignment_details": "300 participants randomized into two groups."
+      },
+      "baseline": {
+        "population": "300 participants were analyzed in the intent-to-treat population at randomization.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Standard Immunosuppressive Therapy",
+              "description": "Conventional immunosuppression with tacrolimus and MMF."
+            },
+            {
+              "title": "Alemtuzumab and Daclizumab",
+              "description": "Novel immunosuppression combination."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [150, 150]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Incidence of Acute Rejection at 12 Months",
+            "description": "Measured by biopsy-confirmed acute rejection events.",
+            "time_frame": "12 months post-transplantation",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Standard Immunosuppressive Therapy"
+                },
+                {
+                  "title": "Alemtuzumab and Daclizumab"
+                }
+              ]
+            },
+            "measure": {
+              "title": "Incidence of Acute Rejection",
+              "units": "percentage of participants",
+              "param": "Count of participants",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [20, 5]
+                  }
+                }
+              },
+              "analysis_list": {
+                "analysis": {
+                  "method": "Chi-square",
+                  "p_value": "<0.01"
+                }
+              }
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Graft Survival Rates",
+            "description": "Evaluated as the percentage of participants with functioning grafts at 1 and 2 years.",
+            "time_frame": "1 and 2 years post-transplantation"
+          },
+          {
+            "type": "Secondary",
+            "title": "Patient Survival Rates",
+            "description": "Percentage of participants alive at 1 and 2 years post-transplant.",
+            "time_frame": "1 and 2 years post-transplantation"
+          },
+          {
+            "type": "Secondary",
+            "title": "Serious Adverse Events",
+            "description": "Rate of serious adverse events throughout the study period.",
+            "time_frame": "Through study duration"
+          }
+        ]
+      }
+    }
+  }
+}
+```

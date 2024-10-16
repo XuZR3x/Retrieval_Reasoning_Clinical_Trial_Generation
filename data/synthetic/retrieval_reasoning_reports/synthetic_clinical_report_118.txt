@@ -1,0 +1,335 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "BRCA-2018-00312",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Bicalutamide in Combination with Chemotherapy for Patients with Advanced Prostate Cancer",
+    "official_title": "A Phase II Randomized Study Evaluating Bicalutamide with Standard Chemotherapy in Patients with Newly Diagnosed Metastatic Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Research Center for Oncology",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Research Center for Oncology",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to investigate the efficacy and safety of bicalutamide in conjunction with standard chemotherapy regimens in patients with newly diagnosed metastatic prostate cancer. The primary objective is to assess the undetectable PSA rate after the combination treatment."
+    },
+    "detailed_description": {
+      "textblock": "Prostate cancer remains a leading cause of cancer mortality in men, particularly in advanced stages. This research investigates bicalutamide as an adjunctive treatment to standard chemotherapy, specifically analyzing its impact on PSA levels and overall treatment tolerability. Prior studies have suggested a potential role for bicalutamide in this patient population, but preliminary findings indicate insufficient efficacy and increased adverse events, necessitating further exploration in this phase II trial."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "November 2021",
+    "primary_completion_date": "August 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Undetectable PSA Rate",
+      "time_frame": "28 weeks",
+      "description": "Proportion of participants achieving an undetectable PSA level (≤0.2 ng/mL) after 7 months of treatment."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "28 weeks",
+        "description": "The interval from treatment initiation to disease progression or death from any cause."
+      },
+      {
+        "measure": "Tolerability and Adverse Events",
+        "time_frame": "Up to 28 weeks",
+        "description": "Occurrence of adverse events related to bicalutamide and chemotherapeutic agents reported according to CTCAE criteria."
+      },
+      {
+        "measure": "Biomarker Response",
+        "time_frame": "Baseline to 28 weeks",
+        "description": "Assessment of biomarkers potentially modulating response to treatment, including serum microRNAs."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": "Metastatic Prostate Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Bicalutamide Plus Chemotherapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive bicalutamide orally once daily combined with standard chemotherapy agents (docetaxel or cabazitaxel) for a duration of 7 months."
+      },
+      {
+        "arm_group_label": "Chemotherapy Only",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive standard chemotherapy agents (docetaxel or cabazitaxel) without bicalutamide."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bicalutamide",
+        "description": "50 mg orally once daily."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Docetaxel",
+        "description": "75 mg/m² administered intravenously every three weeks."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cabazitaxel",
+        "description": "25 mg/m² administered intravenously every three weeks."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n - Histologically confirmed prostate adenocarcinoma with metastatic disease (M1).\n - PSA level ≥ 20 ng/mL prior to initiation of treatment.\n - No prior androgen deprivation therapy.\n - Zubrod performance status of 0-2.\n - Adequate organ function as defined by laboratory values.\n\nExclusion Criteria:\n - Prior chemotherapy for metastatic prostate cancer.\n - Known brain metastases.\n - Severe comorbid conditions or contraindications to study drugs.\n - Concurrent participation in other therapeutic clinical trials."
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Research Center for Oncology"
+    },
+    "overall_contact": {
+      "last_name": "John Smith, MD",
+      "phone": "+1-555-123-4567",
+      "email": "johnsmith@onco-research.org"
+    },
+    "location": {
+      "facility": {
+        "name": "Research Center for Oncology",
+        "address": {
+          "city": "Research City",
+          "state": "Research State",
+          "zip": "12345",
+          "country": "United States"
+        }
+      },
+      "status": "Completed",
+      "contact": {
+        "last_name": "John Smith, MD",
+        "phone": "+1-555-123-4567",
+        "email": "johnsmith@onco-research.org"
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "November 2021",
+    "study_first_submitted": "December 1, 2018",
+    "study_first_posted": "January 15, 2019",
+    "last_update_posted": "November 30, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "Research Center for Oncology"
+    },
+    "keyword": [
+      "bicalutamide",
+      "chemotherapy",
+      "metastatic prostate cancer",
+      "PSA",
+      "adverse events"
+    ],
+    "condition_browse": {
+      "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Bicalutamide",
+        "Docetaxel",
+        "Cabazitaxel"
+      ]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Bicalutamide Plus Chemotherapy",
+            "description": "Patients received bicalutamide plus standard chemotherapy, documenting efficacy and tolerability."
+          },
+          "group": {
+            "title": "Chemotherapy Only",
+            "description": "Patients received standard chemotherapy alone."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": null
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Bicalutamide Plus Chemotherapy",
+            "description": "Demographics and baseline characteristics of subjects receiving bicalutamide combined with chemotherapy."
+          },
+          "group": {
+            "title": "Chemotherapy Only",
+            "description": "Details of demographics and baseline characteristics for subjects receiving chemotherapy alone."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": null
+            }
+          }
+        }
+      }
+    },
+    "reported_events": {
+      "time_frame": "Precise adverse event monitoring occurred at regular intervals as specified in the protocol.",
+      "group_list": {
+        "group": {
+          "title": "Adverse Events",
+          "description": "Reporting of adverse events was conducted throughout the duration of the study."
+        }
+      },
+      "serious_events": {
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total Serious Adverse Events",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Nausea/Vomiting",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Cardiac disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Cardiac Events",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Metabolic disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Hyperglycemia",
+                  "counts": null
+                }
+              }
+            }
+          ]
+        }
+      },
+      "other_events": {
+        "frequency_threshold": "5",
+        "default_assessment": "Systematic Assessment",
+        "category_list": {
+          "category": [
+            {
+              "title": "Total other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Various other reported events",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Fatigue",
+              "event_list": {
+                "event": {
+                  "sub_title": "Overall fatigue",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Anemia",
+              "event_list": {
+                "event": {
+                  "sub_title": "Documented anemia events",
+                  "counts": null
+                }
+              }
+            },
+            {
+              "title": "Neurological disorders",
+              "event_list": {
+                "event": {
+                  "sub_title": "Headaches",
+                  "counts": null
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "There is no restriction on Principal Investigators' rights to discuss or publish trial results after the trial is completed."
+    },
+    "point_of_contact": {
+      "name_or_title": "Study Coordinator",
+      "organization": "Research Center for Oncology",
+      "email": "studycoordinator@onco-research.org"
+    }
+  }
+}
+```

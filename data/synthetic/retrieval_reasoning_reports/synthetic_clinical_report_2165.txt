@@ -1,0 +1,142 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03456789"
+    },
+    "id_info": {
+      "org_study_id": "FEN-0453",
+      "nct_id": "NCT03456789"
+    },
+    "brief_title": "Efficacy and Safety of Fentanyl in Patients Undergoing Major Abdominal Surgery",
+    "official_title": "A Randomized, Open-label Trial to Assess the Efficacy and Safety of Fentanyl Compared to Morphine in Managing Postoperative Pain in Major Abdominal Surgery",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Major General Hospital",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Major General Hospital",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The study aims to evaluate the efficacy and safety of fentanyl compared to morphine for postoperative pain management in patients undergoing major abdominal surgery, focusing on analgesic efficacy, side effects, and patient-reported outcomes."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center, randomized, open-label clinical trial was conducted to assess postoperative pain management in patients receiving either fentanyl or morphine following major abdominal surgical procedures. The study population included adults aged 18-80 years having elective open abdominal surgery.\n\nPatients were randomly assigned in a 1:1 ratio to receive either a continuous intravenous infusion of fentanyl or morphine, starting intraoperatively and continuing for up to 72 hours post-surgery. Both groups also received standard postoperative care protocols, including patient-controlled analgesia (PCA).\n\nPrimary endpoints included the assessment of pain levels on a numerical rating scale (NRS) at predetermined time points post-surgery. Secondary endpoints focused on side effects, rescue analgesic use, and overall patient satisfaction with pain management.\n\nDespite the initial hypothesis suggesting fentanyl would provide superior analgesia, the study was halted prematurely due to a marked increase in the incidence of respiratory depression and withdrawal symptoms in the fentanyl group compared to morphine. These findings were substantiated by safety assessments indicating a higher frequency of adverse events associated with altered respiratory function, necessitating enhanced monitoring and interventions."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Increased incidence of severe respiratory depression and inadequate analgesic efficacy compared to morphine.",
+    "start_date": "March 2018",
+    "completion_date": "November 2019",
+    "primary_completion_date": "November 2019",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Postoperative pain intensity using Numerical Rating Scale (NRS)",
+      "time_frame": "From intraoperative period until 72 hours post-surgery."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Total opioid consumption measured via PCA",
+        "time_frame": "Within 72 hours postoperatively."
+      },
+      {
+        "measure": "Incidence of respiratory depression (defined as a respiratory rate <10 breaths per minute)",
+        "time_frame": "During the first 72 hours post-surgery."
+      },
+      {
+        "measure": "Patient satisfaction score on a 5-point Likert scale",
+        "time_frame": "72 hours postoperatively."
+      },
+      {
+        "measure": "Need for rescue analgesia (additional morphine) recorded in patient charts",
+        "time_frame": "During the hospital stay up to 72 hours."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Postoperative Pain Management",
+    "arm_group": [
+      {
+        "arm_group_label": "Fentanyl Group",
+        "arm_group_type": "Experimental",
+        "description": "Patients received continuous intravenous infusion of fentanyl for analgesia postoperatively."
+      },
+      {
+        "arm_group_label": "Morphine Group",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients received continuous intravenous infusion of morphine for analgesia postoperatively."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fentanyl",
+        "description": "Continuous intravenous infusion of fentanyl starting intraoperatively; adjusted as per pain assessment.",
+        "arm_group_label": "Fentanyl Group"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Morphine",
+        "description": "Continuous intravenous infusion of morphine starting intraoperatively; adjusted as per pain assessment.",
+        "arm_group_label": "Morphine Group"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n  - Age 18 to 80 years.\n  - Scheduled for elective major abdominal surgery.\n  - Ability to provide informed consent.\n\nExclusion Criteria:\n  - Contraindications to opioid therapy (e.g., severe respiratory disease).\n  - Previous history of opioid use disorder.\n  - Cognitive impairments preventing the understanding of pain scales.\n  - Any major co-morbid conditions significantly affecting study outcome."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "80 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Doe",
+      "role": "Principal Investigator",
+      "affiliation": "Major General Hospital"
+    },
+    "location": {
+      "facility": {
+        "name": "Major General Hospital",
+        "address": {
+          "city": "City Center",
+          "state": "State",
+          "zip": "98765",
+          "country": "Country"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Country"
+    },
+    "verification_date": "May 2020",
+    "study_first_submitted": "January 15, 2018",
+    "study_first_submitted_qc": "January 18, 2018",
+    "study_first_posted": "February 1, 2018",
+    "last_update_submitted": "October 5, 2019",
+    "last_update_posted": "October 10, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator"
+    },
+    "keyword": ["Fentanyl", "Morphine", "Postoperative analgesia", "Pain management", "Major abdominal surgery"],
+    "condition_browse": {
+      "mesh_term": ["Postoperative Pain", "Pain Management"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Fentanyl", "Morphine"]
+    }
+  }
+}
+```

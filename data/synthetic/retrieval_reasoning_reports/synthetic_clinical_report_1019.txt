@@ -1,0 +1,146 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03657201"
+    },
+    "id_info": {
+      "org_study_id": "VIVID",
+      "nct_id": "NCT03657201"
+    },
+    "brief_title": "VIVID: Efficacy of Peginterferon Alfa-2a in Combination with Direct-Acting Antivirals in Patients with Chronic Hepatitis C",
+    "acronym": "VIVID",
+    "official_title": "Phase 3 Study to Evaluate the Efficacy and Safety of Peginterferon Alfa-2a in Combination with Direct-Acting Antivirals in Patients with Chronic Hepatitis C with Documented Resistance to Previous Treatments",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of California, Los Angeles",
+        "agency_class": "Academic"
+      }
+    },
+    "source": "University of California, Los Angeles",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This multicenter, randomized, open-label study aimed to assess the efficacy and safety of peginterferon alfa-2a when administered in combination with direct-acting antivirals (DAAs) in patients suffering from chronic hepatitis C with documented resistance to prior antiviral therapies. The trial focused on establishing the rate of sustained virological response (SVR) at 12 weeks post-treatment."
+    },
+    "detailed_description": {
+      "textblock": "This Phase 3 study, following a randomized, open-label design, enrolled patients with chronic hepatitis C who previously exhibited resistance to direct-acting antiviral agents. Participants were assigned to either the experimental arm receiving peginterferon alfa-2a in conjunction with DAAs or the control arm with DAA monotherapy. Treatment duration ranged from 24 to 48 weeks, with comprehensive follow-ups to assess virological outcomes. Key endpoints included SVR at 12 weeks post-therapy and evaluation of safety profiles across treatment groups."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "August 2021",
+    "primary_completion_date": "June 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Sustained Virological Response (SVR) at 12 Weeks post-treatment",
+      "time_frame": "12 weeks post-treatment",
+      "description": "The primary efficacy outcome was measured by the percentage of participants achieving an SVR defined as undetectable HCV RNA, using the most sensitive assay available, at the follow-up time point."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Proportion of Participants with Rapid Virological Response (RVR)",
+        "time_frame": "At Week 4",
+        "description": "Percentage of participants who achieved a rapid virological response, defined as undetectable HCV RNA at Week 4 of treatment."
+      },
+      {
+        "measure": "Change in Quality of Life (QoL)",
+        "time_frame": "Baseline, Month 6, Month 12",
+        "description": "Assessment of quality of life metrics using HCV-specific questionnaires at baseline, 6 months, and 12 months after treatment initiation."
+      },
+      {
+        "measure": "Adverse Events (AEs)",
+        "time_frame": "Throughout the study period",
+        "description": "Frequency and severity of adverse events recorded at each follow-up visit."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "250",
+    "condition": "Hepatitis C, Chronic",
+    "arm_group": [
+      {
+        "arm_group_label": "Peginterferon alfa-2a + Direct-Acting Antivirals",
+        "arm_group_type": "Experimental",
+        "description": "Participants received subcutaneous peginterferon alfa-2a (180 mcg once weekly) combined with approved DAAs for a duration of 24-48 weeks, depending on their previous treatment history."
+      },
+      {
+        "arm_group_label": "Direct-Acting Antivirals Monotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received standard-of-care DAA therapy without peginterferon alfa-2a."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Peginterferon alfa-2a",
+        "description": "Subcutaneous administration of peginterferon alfa-2a at a dosage of 180 mcg weekly for 24 to 48 weeks based on prior treatment response.",
+        "arm_group_label": ["Peginterferon alfa-2a + Direct-Acting Antivirals"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Direct-Acting Antivirals (DAAs)",
+        "description": "Patient-specific DAA regimen, including agents such as sofosbuvir, glecaprevir, or pibrentasvir, per clinical guidelines.",
+        "arm_group_label": ["Peginterferon alfa-2a + Direct-Acting Antivirals", "Direct-Acting Antivirals Monotherapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 years or older with chronic hepatitis C.\n2. Documented prior resistance to at least one class of DAA.\n3. HCV RNA levels >600 IU/mL at screening.\n4. Liver biopsy demonstrating fibrosis stage F2 or higher.\n5. Signed informed consent to participate in the study.\n\nExclusion Criteria:\n\n1. Active hepatitis B or HIV co-infection.\n2. Severe hepatic decompensation or liver cirrhosis.\n3. History of significant adverse reaction to interferon therapy.\n4. Estimated life expectancy of less than 12 months.\n5. Pregnancy or lactation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Emily R. Lin, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of California, Los Angeles"
+    },
+    "location": {
+      "facility": {
+        "name": "University of California, Los Angeles",
+        "address": {
+          "city": "Los Angeles",
+          "zip": "90095",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2021",
+    "study_first_submitted": "February 15, 2018",
+    "study_first_submitted_qc": "February 20, 2018",
+    "study_first_posted": "February 22, 2018",
+    "results_first_submitted": "September 15, 2021",
+    "results_first_submitted_qc": "September 15, 2021",
+    "results_first_posted": "October 1, 2021",
+    "last_update_submitted": "October 5, 2021",
+    "last_update_submitted_qc": "October 5, 2021",
+    "last_update_posted": "October 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "University of California, Los Angeles"
+    },
+    "keyword": ["chronic hepatitis C", "peginterferon alfa-2a", "direct-acting antivirals", "viral resistance"],
+    "condition_browse": {
+      "mesh_term": ["Hepatitis C", "Chronic Hepatitis C", "Hepatitis"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Peginterferon alfa-2a", "Direct-Acting Antivirals"]
+    }
+  }
+}
+```

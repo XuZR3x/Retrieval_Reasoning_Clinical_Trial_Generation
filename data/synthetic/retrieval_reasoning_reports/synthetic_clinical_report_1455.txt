@@ -1,0 +1,163 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02073144"
+    },
+    "id_info": {
+      "org_study_id": "PAN-RELEASE",
+      "nct_id": "NCT02073144"
+    },
+    "brief_title": "Efficacy and Safety of Panobinostat in Combination Therapy for Advanced Myelodysplastic Syndromes",
+    "acronym": "PAN-RELEASE",
+    "official_title": "A Phase II Study of Oral Panobinostat in Combination with Azacitidine for Patients with Advanced Myelodysplastic Syndromes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Hematologic Malignancies Clinical Research Consortium",
+        "agency_class": "Other"
+      },
+      "collaborator": [{
+        "agency": "Johns Hopkins University",
+        "agency_class": "Other"
+      }]
+    },
+    "source": "Hematologic Malignancies Clinical Research Consortium",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study investigates the safety and efficacy of panobinostat in combination with azacitidine in patients diagnosed with advanced myelodysplastic syndromes (MDS). The aim is to evaluate the response rates and safety profile compared to historical data."
+    },
+    "detailed_description": {
+      "textblock": "This phase II study is designed to evaluate the combination therapy of panobinostat and azacitidine in patients with advanced myelodysplastic syndromes who have either failed previous treatments or are not eligible for intensive chemotherapy.\n\nThe study enrollment is targeted at 50 patients. Participants must adhere to a stringent inclusion criterion, ensuring only individuals with confirmed high-risk MDS are included. This robust patient selection process is anticipated to optimize the therapeutic potential of panobinostat by targeting a population with specific, well-defined disease characteristics.\n\nThe clinical trial comprises an induction phase of 6 months where patients will receive oral panobinostat at a dose of 20 mg thrice weekly, alongside azacitidine administered subcutaneously as per standard practice. This structured regimen aims to leverage the synergistic effects of both agents in addressing various stages of disease progression.\n\nRegular monitoring and assessment of laboratory parameters, including complete blood counts and biochemical profiles, will occur bi-weekly to guarantee patient safety and facilitate timely management of any adverse events. This comprehensive approach is fundamental for enhancing patient retention and the overall assessment of drug efficacy.\n\nIn addition, this multicenter design ensures a geographically diverse patient enrollment, thereby enhancing the applicability of the findings and potentially broadening the therapeutic landscape for panobinostat in the realm of myelodysplastic syndromes."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2014",
+    "completion_date": "December 2018",
+    "primary_completion_date": "December 2017",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Measured at the end of the induction phase, approximately 6 months after the start of treatment.",
+      "description": "ORR is defined as the percentage of participants achieving a complete response (CR) or partial response (PR) according to the Revised International Working Group criteria for patients with MDS."
+    },
+    "secondary_outcome": [{
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "36 months",
+        "description": "Defined as the time from enrollment until documented disease progression or death from any cause."
+      },
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "36 months",
+        "description": "Measured from enrollment until death from any cause."
+      },
+      {
+        "measure": "Safety profile as assessed by the incidence of adverse events (AEs)",
+        "time_frame": "Throughout the study duration",
+        "description": "The safety profile will be evaluated through the monitoring of AEs based on the Common Terminology Criteria for Adverse Events (CTCAE) version 4.0."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "50",
+    "condition": "Advanced Myelodysplastic Syndromes",
+    "arm_group": {
+      "arm_group_label": "Panobinostat and Azacitidine",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive panobinostat 20 mg orally three times a week in combination with azacitidine subcutaneously per standard dosing regimen."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "Panobinostat",
+      "description": "20 mg panobinostat will be administered orally on days 1, 3, and 5 every week in conjunction with azacitidine."
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Azacitidine",
+      "description": "Dosing of azacitidine will follow standard 7-day treatment protocols."
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Age > 18 years\n\n2. Diagnosed with advanced MDS with IPSS risk categories identified as intermediate-2 to high risk.\n\n3. Has received no more than one prior treatment for MDS.\n\n4. Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 2.\n\n5. Adequate organ function as defined by laboratory criteria.\n\n6. Ability to provide informed consent.\n\nExclusion Criteria:\n\n1. Known hypersensitivity to panobinostat or azacitidine.\n\n2. Previous treatment with histone deacetylase inhibitors.\n\n3. Acute myeloid leukemia transformation.\n\n4. Requirement for concurrent anticoagulation.\n\n5. Pregnant or breastfeeding women, or women of childbearing potential not using adequate contraception."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [{
+        "last_name": "Thomas A. Karp, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Hematologic Malignancies Clinical Research Consortium"
+      },
+      {
+        "last_name": "Laura E. Finn, MD",
+        "role": "Co-Investigator",
+        "affiliation": "Johns Hopkins University"
+      }
+    ],
+    "location": [{
+        "facility": {
+          "name": "Johns Hopkins Hospital",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Mayo Clinic",
+          "address": {
+            "city": "Rochester",
+            "state": "Minnesota",
+            "zip": "55905",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "February 2019",
+    "study_first_submitted": "December 10, 2013",
+    "study_first_submitted_qc": "December 10, 2013",
+    "study_first_posted": "January 10, 2014",
+    "last_update_submitted": "November 30, 2018",
+    "last_update_submitted_qc": "November 30, 2018",
+    "last_update_posted": "December 5, 2018",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Myelodysplastic Syndromes", "Panobinostat", "Combination Therapy", "Azacitidine"],
+    "condition_browse": {
+      "mesh_term": ["Myelodysplastic Syndromes", "Neoplasms, Hematologic", "Hematologic Disorders"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Panobinostat", "Azacitidine"]
+    }
+  }
+}
+```

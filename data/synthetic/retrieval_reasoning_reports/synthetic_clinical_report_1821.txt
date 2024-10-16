@@ -1,0 +1,181 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04324567"
+    },
+    "id_info": {
+      "org_study_id": "ABC-12345-2020",
+      "nct_id": "NCT04324567"
+    },
+    "brief_title": "Combination of Bicalutamide and Cabozantinib in Metastatic Hormone-sensitive Prostate Cancer",
+    "official_title": "A Phase II Trial of Bicalutamide in Combination With Cabozantinib in Patients With Metastatic Hormone-sensitive Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The objective of this study is to evaluate the efficacy and safety of bicalutamide combined with cabozantinib in men with newly diagnosed metastatic hormone-sensitive prostate cancer, who were previously untreated."
+    },
+    "detailed_description": {
+      "textblock": "Bicalutamide is an antiandrogen that has been a mainstay in the treatment of metastatic prostate cancer. Cabozantinib, a multitargeted tyrosine kinase inhibitor, shows promise in targeting the tumor microenvironment. However, previous clinical trials with bicalutamide have faced challenges including inadequate efficacy, resistance mechanisms, and significant adverse effects. This study aims to assess the efficacy of bicalutamide and cabozantinib in a heterogenous patient cohort with non-uniform Gleason scores. We hypothesize that the combined regimen may enhance therapeutic responses, although similar studies have shown suboptimal response rates and safety concerns in past interventions."
+    },
+    "overall_status": "Terminated",
+    "start_date": "April 2020",
+    "completion_date": "March 2023",
+    "primary_completion_date": "February 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Undetectable PSA rates after treatment",
+      "time_frame": "28 weeks",
+      "description": "Rates of undetectable prostate-specific antigen (PSA) after combination therapy will be assessed at 28 weeks."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Adverse Event Incidence",
+        "time_frame": "Up to 36 months",
+        "description": "Measure and report the incidence of adverse events as per NCI-CTCAE version 5.0."
+      },
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "From enrollment to disease progression",
+        "description": "Time until documentation of disease progression or patient death."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "45",
+    "condition": "Metastatic Prostate Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Arm A: Bicalutamide + Cabozantinib",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive bicalutamide 50 mg orally once daily in combination with cabozantinib 60 mg orally once daily."
+      },
+      {
+        "arm_group_label": "Arm B: Bicalutamide Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive bicalutamide 50 mg orally once daily without cabozantinib."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bicalutamide",
+        "description": "Administered at a dose of 50 mg orally q.d."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cabozantinib",
+        "description": "Administered at a dose of 60 mg orally q.d."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Histologically confirmed prostate adenocarcinoma with metastatic disease.\n- No prior treatment with hormonal agents or chemotherapy for prostate cancer.\n- Age 18 years or older.\n- Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.\n\nExclusion Criteria:\n- Patients with significant comorbid conditions that increase the risk of adverse events.\n- History of hypersensitivity reactions to bicalutamide or cabozantinib.\n- Previous treatment with any investigational agents within 30 days prior to enrollment."
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "National Cancer Institute Clinical Center",
+          "address": {
+            "city": "Bethesda",
+            "state": "Maryland",
+            "zip": "20892",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "February 15, 2020",
+    "study_first_posted": "February 20, 2020",
+    "last_update_posted": "April 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "organization": "National Cancer Institute"
+    },
+    "keyword": ["bicalutamide", "cabozantinib", "prostate cancer", "metastatic disease", "androgen deprivation therapy"],
+    "condition_browse": {
+      "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Bicalutamide", "Cabozantinib"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": {
+            "title": "Arm A: Bicalutamide + Cabozantinib",
+            "description": "Patients received combination therapy."
+          },
+          "group": {
+            "title": "Arm B: Bicalutamide Alone",
+            "description": "Patients received only bicalutamide."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": { "participants": null }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": { "participants": "No participants completed the study due to severe adverse events and inadequate response rates." }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Undetectable PSA Rate",
+            "description": "No significant difference between the arms with no participants achieving undetectable PSA levels after treatment.",
+            "time_frame": "28 weeks"
+          },
+          {
+            "type": "Secondary",
+            "title": "Adverse Event Incidence",
+            "description": "Adverse events related to bicalutamide necessitated discontinuation in 30% of participants, primarily due to hepatotoxicity and gastrointestinal complications.",
+            "time_frame": "Up to 36 months"
+          }
+        ]
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,147 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02011834"
+    },
+    "id_info": {
+      "org_study_id": "15-422-03",
+      "nct_id": "NCT02011834"
+    },
+    "brief_title": "Evaluating the Efficacy of Dexmedetomidine in the Management of Severe Alcohol Withdrawal Syndrome",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of Dexmedetomidine for Managing Severe Alcohol Withdrawal Syndrome in Critically Ill Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cleveland Clinic",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cleveland Clinic",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study seeks to evaluate the utility of dexmedetomidine as an adjunct to traditional treatment methods for severe alcohol withdrawal syndrome (AWS) characterized by hyperadrenergic symptoms. The hypothesis suggests that dexmedetomidine may reduce the duration of withdrawal symptoms and the requirement for concomitant benzodiazepine therapy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Enrollment halted due to insufficient patient recruitment and introduction of competitive studies exploring alternative interventions for AWS management.",
+    "start_date": "April 2013",
+    "completion_date": "March 2017",
+    "primary_completion_date": "March 2017",
+    "phase": "Phase 4",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Triple (Participant, Care Provider, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Duration of ICU stay measured from initiation of dexmedetomidine infusion to transfer out of ICU",
+      "time_frame": "up to 28 days",
+      "description": "The primary outcome is the total length of ICU stay expressed in hours, enabling analysis of dexmedetomidine’s effect on treatment duration for AWS."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Total benzodiazepine consumption",
+        "time_frame": "up to 28 days",
+        "description": "Cumulative benzodiazepine dosage recorded in equivalent lorazepam units utilized during the ICU stay."
+      },
+      {
+        "measure": "Days free of sedation",
+        "time_frame": "up to 28 days",
+        "description": "Count of days during which patients required no sedative interventions."
+      },
+      {
+        "measure": "Incidence of adverse events including bradycardia and hypotension",
+        "time_frame": "up to 28 days",
+        "description": "Total number of serious adverse events associated with dexmedetomidine administration noted during the study period."
+      },
+      {
+        "measure": "Duration of mechanical ventilation",
+        "time_frame": "up to 28 days",
+        "description": "Total days patients remained on mechanical ventilation, assessing potential respiratory influence of dexmedetomidine."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "35",
+    "condition": ["Alcohol Withdrawal Syndrome", "Delirium Tremens"],
+    "arm_group": [
+      {
+        "arm_group_label": "Dexmedetomidine",
+        "arm_group_type": "Experimental",
+        "description": "Dexmedetomidine administered at a loading dose of 1 mcg/kg over 15 minutes followed by a continuous infusion of 0.2-0.7 mcg/kg/hr."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo (normal saline) administered at equivalent infusion rates."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dexmedetomidine",
+        "description": "Intravenous dexmedetomidine infusion."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Normal saline placebo infusion."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Age >= 18 years\r\n- Diagnosed with severe alcohol withdrawal syndrome requiring ICU admission\r\n- Consent provided directly or via a legal representative.\r\n\r\nExclusion Criteria:\r\n\r\n- Known hypersensitivity to dexmedetomidine or its components\r\n- Concurrent participation in another clinical trial involving investigational medications\r\n- Significant hemodynamic instability (SBP < 90 mmHg or HR < 50 bpm)\r\n- Pregnant or lactating females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "location": {
+      "facility": {
+        "name": "Cleveland Clinic",
+        "address": {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44195",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2019",
+    "study_first_submitted": "January 15, 2014",
+    "study_first_submitted_qc": "January 18, 2014",
+    "study_first_posted": "January 20, 2014",
+    "last_update_submitted": "September 6, 2019",
+    "last_update_posted": "September 12, 2019",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Cleveland Clinic",
+      "investigator_full_name": "Emily Johnson, MD",
+      "investigator_title": "Consultant in Anesthesiology"
+    },
+    "keyword": ["Alcohol Withdrawal Syndrome", "dexmedetomidine", "sedation"],
+    "condition_browse": {
+      "mesh_term": ["Alcohol Withdrawal Syndrome", "Substance Withdrawal Syndrome"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Dexmedetomidine"
+    },
+    "limitations_and_caveats": "Trial termination was primarily attributed to competing interventions leading to reduced enrollment numbers. Additionally, the unclear efficacy of dexmedetomidine in treating AWS and concerns regarding adverse events such as bradycardia hindered the feasibility of the study.",
+    "point_of_contact": {
+      "name_or_title": "John Smith",
+      "organization": "Cleveland Clinic",
+      "phone": "216 555 0199",
+      "email": "johnsmith@ccf.org"
+    }
+  }
+}
+```

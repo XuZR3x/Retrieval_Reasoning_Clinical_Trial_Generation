@@ -1,0 +1,135 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on October 10, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02365429"
+    },
+    "id_info": {
+      "org_study_id": "ROF-CHRONIC-2014",
+      "nct_id": "NCT02365429"
+    },
+    "brief_title": "Efficacy of Roflumilast in Patients with Moderate to Severe Chronic Obstructive Pulmonary Disease: A Randomized Controlled Trial",
+    "official_title": "Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy and Safety of Roflumilast in Patients with Chronic Obstructive Pulmonary Disease Over 24 Weeks",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Pfizer Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Pfizer Inc.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the efficacy of roflumilast in maintaining lung function in patients diagnosed with moderate to severe COPD. The trial employs rigorous eligibility criteria, ensuring patients with accurate GOLD stage classifications are included. Using advanced imaging techniques, such as functional respiratory imaging, the study aims to elucidate the specific effects of roflumilast on airway geometries and overall pulmonary function."
+    },
+    "overall_status": "Completed",
+    "start_date": "April 2015",
+    "completion_date": "September 2016",
+    "primary_completion_date": "June 2016",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Mean change from baseline in post-bronchodilator FEV1",
+      "time_frame": "At 24 weeks",
+      "description": "The primary endpoint examines the change in forced expiratory volume in 1 second (FEV1) as measured by spirometry following bronchodilator administration, comparing treatment and control groups."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of respiratory exacerbations",
+        "time_frame": "Through study completion, up to 24 weeks",
+        "description": "This outcome measures the incidence of moderate to severe exacerbations requiring medical intervention during the treatment period."
+      },
+      {
+        "measure": "Quality of life as assessed by the St. George's Respiratory Questionnaire (SGRQ)",
+        "time_frame": "At baseline and 24 weeks",
+        "description": "The SGRQ evaluates the impact of the disease on the participant's quality of life, assessing symptom, activity, and impacts on daily living."
+      },
+      {
+        "measure": "Number of adverse events",
+        "time_frame": "Throughout the treatment period up to 24 weeks",
+        "description": "Record and compare the frequency and severity of adverse events experienced during the trial in both treatment and placebo groups."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "150",
+    "condition": "Chronic Obstructive Pulmonary Disease",
+    "arm_group": [
+      {
+        "arm_group_label": "Active Comparator: Roflumilast",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants received roflumilast 500 µg once daily for 24 weeks."
+      },
+      {
+        "arm_group_label": "Placebo Comparator: Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received a matching placebo once daily for 24 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Roflumilast",
+        "description": "A daily oral dosage of roflumilast, 500 µg, targeting improvements in pulmonary function and health-related quality of life.",
+        "arm_group_label": ["Active Comparator: Roflumilast"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "An inactive placebo matched to the active medication to control for psychological effects.",
+        "arm_group_label": ["Placebo Comparator: Placebo"]
+      },
+      {
+        "intervention_type": "Radiation",
+        "intervention_name": "Functional Respiratory Imaging",
+        "description": "CT-based assessment of airway function and geometry pre-treatment and at 24 weeks.",
+        "arm_group_label": ["Active Comparator: Roflumilast", "Placebo Comparator: Placebo"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Adults aged 40 years and older diagnosed with moderate to severe COPD (GOLD stages II to III).\r\n- Documented history of at least one COPD exacerbation in the past year.\r\n- Maintain a stable regimen of inhaled corticosteroids and long-acting beta-agonists for at least 6 weeks prior to the study.\r\n\r\nExclusion Criteria:\r\n\r\n- Known hypersensitivity to roflumilast or any ingredients in the formulation.\r\n- Current smoking status, defined as smoking within 3 months prior to screening.\r\n- Presence of significant cardiovascular disease or conditions affecting lung physiology.\r\n- Pregnant or lactating women, or women of childbearing potential not using acceptable contraceptive methods.",
+        "gender": "All",
+        "minimum_age": "40 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Emily Roberts",
+      "role": "Lead Researcher",
+      "affiliation": "Pfizer Clinical Research Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Pfizer Clinical Research Center",
+        "address": {
+          "city": "New York",
+          "state": "NY",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "October 2023",
+    "study_first_submitted": "December 10, 2014",
+    "study_first_posted": "December 11, 2014",
+    "last_update_posted": "January 12, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Chronic Obstructive Pulmonary Disease", "Roflumilast", "Pulmonology", "Health-Related Quality of Life"]
+  }
+}
+```

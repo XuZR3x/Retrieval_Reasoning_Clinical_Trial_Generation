@@ -1,0 +1,153 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04563024"
+    },
+    "id_info": {
+      "org_study_id": "AZA-HAEM-003",
+      "nct_id": "NCT04563024"
+    },
+    "brief_title": "Efficacy and Safety of Azacitidine in Patients With Higher-Risk Myelodysplastic Syndromes",
+    "official_title": "A Phase 2 Open-Label Study of Azacitidine for the Treatment of Higher-Risk Myelodysplastic Syndromes in Adults",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "OncoPharma Inc",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "OncoPharma Inc",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II trial is designed to evaluate the efficacy and safety of azacitidine in adults diagnosed with higher-risk Myelodysplastic Syndromes (MDS). The study aims to assess the hematologic response rates and to evaluate the safety profile over an extended treatment period."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To determine the hematologic response rate based on the International Working Group (IWG) criteria for adult patients with higher-risk MDS.\n\nII. To evaluate the safety and tolerability profile of azacitidine through the study duration, considering the nature and severity of adverse events.\n\nIII. To assess the overall survival as well as the progression-free survival of participants over the study duration.\n\nOUTLINE: This is a single-group, open-label study. Participants receive azacitidine 75 mg/m² subcutaneously once daily for 7 days, every 28 days, until disease progression, unacceptable toxicity, or withdrawal of consent.\n\nPatients are monitored for response every cycle, utilizing IWG criteria to assess hematologic improvements, defined by complete response (CR), partial response (PR), and stable disease (SD).\n\nA follow-up period will assess long-term survival outcomes and maintenance of response status."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 10, 2021",
+    "completion_date": "October 15, 2023",
+    "primary_completion_date": "May 10, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [{
+        "measure": "Percentage of Participants With Hematologic Response",
+        "time_frame": "Assessed at the end of cycle 6, repeated every 4 cycles; Up to 10 months",
+        "description": "Hematologic response defined by the IWG criteria including CR, PR, and SD."
+      },
+      {
+        "measure": "Overall Survival Rate",
+        "time_frame": "Until the end of the survival follow-up period; Up to 24 months",
+        "description": "Time from the first dose of azacitidine until death from any cause."
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Incidence of Adverse Events",
+        "time_frame": "Throughout the treatment period; Up to 24 months",
+        "description": "Monitoring for treatment emergent adverse events categorized by severity and relation to the study drug."
+      },
+      {
+        "measure": "Change in Quality of Life",
+        "time_frame": "Assessed at the start, then at every 3 cycles; From baseline up to 24 months",
+        "description": "Quality of life assessed using validated questionnaires to ascertain the patient-reported outcomes during treatment."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "80",
+    "condition": ["Myelodysplastic Syndrome (MDS)", "Higher-Risk Myelodysplastic Syndromes"],
+    "arm_group": {
+      "arm_group_label": "Azacitidine Treatment Arm",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive subcutaneous azacitidine 75 mg/m²/day for 7 days every 28 days."
+    },
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Azacitidine",
+        "description": "Azacitidine administered subcutaneously at a dosage of 75 mg/m²/day for 7 consecutive days within a 28-day cycle.",
+        "arm_group_label": "Azacitidine Treatment Arm",
+        "other_name": "Vidaza"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "INCLUSION CRITERIA:\n\n- Adults aged 18 years or older with a confirmed diagnosis of higher-risk MDS according to IWG and FAB classification criteria.\n- IPSS risk score of intermediate-2 or high based on karyotypic analysis.\n- ECOG performance status of 0-2.\n- Adequate organ function with acceptable laboratory values prior to treatment initiation, including\n   - bilirubin ≤ 1.5 x ULN\n   - AST and ALT ≤ 2.0 x ULN\n   - Creatinine ≤ 1.5 x ULN.\n- Ability to provide informed consent and comply with the study protocol.\n\nEXCLUSION CRITERIA:\n\n- Previous treatment with azacitidine or decitabine.\n- Active malignancies, excluding basal cell carcinoma.\n- Uncontrolled infections or serious comorbidities.\n- History of hypersensitivity reactions to azacitidine or its components.\n- Pregnant or lactating females."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Margaret Yang",
+      "role": "Principal Investigator",
+      "affiliation": "OncoPharma Inc"
+    },
+    "location": [{
+        "facility": {
+          "name": "Shanghai Cancer Center",
+          "address": {
+            "city": "Shanghai",
+            "zip": "200240",
+            "country": "China"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Beijing Union Medical College Hospital",
+          "address": {
+            "city": "Beijing",
+            "zip": "100730",
+            "country": "China"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Guangdong Provincial People’s Hospital",
+          "address": {
+            "city": "Guangzhou",
+            "zip": "510080",
+            "country": "China"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "China"
+    },
+    "verification_date": "October 2023",
+    "study_first_submitted": "December 1, 2020",
+    "study_first_posted": "December 5, 2020",
+    "results_first_submitted": "June 10, 2023",
+    "results_first_posted": "July 15, 2023",
+    "last_update_submitted": "August 28, 2024",
+    "last_update_posted": "August 29, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "OncoPharma Inc"
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The Principal Investigator has the right to publish findings from the trial, however, the sponsor may review the content prior to publication."
+    },
+    "point_of_contact": {
+      "name_or_title": "Dr. Emily Lau",
+      "organization": "OncoPharma Inc",
+      "phone": "+86 21 1234 5678",
+      "email": "clinicaltrials@oncopharma.com"
+    }
+  }
+}
+```

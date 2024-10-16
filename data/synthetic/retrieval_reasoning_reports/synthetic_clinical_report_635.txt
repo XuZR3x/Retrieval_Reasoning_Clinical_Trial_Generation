@@ -1,0 +1,158 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT05086397"
+    },
+    "id_info": {
+      "org_study_id": "HCV-ELT-009",
+      "nct_id": "NCT05086397"
+    },
+    "brief_title": "Clinical Trial Evaluating Eltrombopag in Enhancing Antiviral Therapy Outcomes in Chronic Hepatitis C Patients with Thrombocytopenia",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Investigate the Efficacy and Safety of Eltrombopag in Patients with Chronic Hepatitis C and Thrombocytopenia Undergoing Antiviral Treatment (Peginterferon Alfa-2b and Ribavirin)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Therapeutics Ltd.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Therapeutics Ltd.",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to evaluate the efficacy of eltrombopag in patients diagnosed with chronic Hepatitis C who present with thrombocytopenia. The primary objective is to assess whether eltrombopag can effectively increase platelet counts sufficient for chemotherapy initiation while minimizing dosage adjustments and premature treatment termination."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2021",
+    "completion_date": "January 2023",
+    "primary_completion_date": "December 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Proportion of Patients Achieving Sustained Virologic Response (SVR) at 24 Weeks Post-Treatment",
+      "time_frame": "Assessed from Baseline through Week 48",
+      "description": "Participants achieving non-detectable HCV RNA levels at the end of antiviral treatment and maintaining this status for 24 weeks.",
+      "population": "Intent-to-Treat (ITT): all randomized participants"
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in Platelet Count from Baseline During Open-Label Phase",
+        "time_frame": "Weeks 1 to 9 during the Open-Label Phase",
+        "description": "Assess the shift from baseline platelet count <75,000/mcL to ≥100,000/mcL achieved during treatment with eltrombopag."
+      },
+      {
+        "measure": "Incidence of Antiviral Dose Reductions Due to Thrombocytopenia",
+        "time_frame": "From Baseline through the 48-week treatment duration",
+        "description": "Monitoring the number of patients requiring reductions in peginterferon and ribavirin doses due to low platelet counts."
+      },
+      {
+        "measure": "Long-Term Safety Profile of Eltrombopag",
+        "time_frame": "Data collected at 6, 12, and 24 weeks following treatment completion",
+        "description": "Evaluate adverse events related to the administration of eltrombopag throughout the study period."
+      }
+    ],
+    "number_of_groups": "2",
+    "enrollment": "348",
+    "condition": "Chronic Hepatitis C with Thrombocytopenia",
+    "arm_group": [
+      {
+        "arm_group_label": "Eltrombopag Treatment Group",
+        "description": "Patients receiving eltrombopag (25 to 100 mg once daily) in conjunction with antiviral therapy."
+      },
+      {
+        "arm_group_label": "Placebo-Control Group",
+        "description": "Patients administered placebo tablets matched to eltrombopag in conjunction with antiviral therapy."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Eltrombopag",
+        "description": "Administered at doses of 25, 50, 75, or 100 mg orally once daily based on platelet response."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matched placebo administered orally once daily."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Males and females aged >18 years with confirmed chronic Hepatitis C infection.\n- Baseline platelet count <75,000/mcL.\n- Patients deemed appropriate candidates for peginterferon and ribavirin therapy.\n\nExclusion Criteria:\n\n- History of severe adverse reactions to interferon or ribavirin.\n- Evidence of decompensated liver disease, including Child-Pugh score >6.\n- Current or recent participation in another clinical trial involving investigational products.\n- Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Lisa Hartman",
+      "role": "Lead Investigator",
+      "affiliation": "Therapeutics Ltd."
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Therapeutics Clinical Research Center",
+          "address": {
+            "city": "Boston",
+            "state": "Massachusetts",
+            "zip": "02115",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Therapeutics Clinical Research Center",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60612",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States",
+        "Canada",
+        "Germany"
+      ]
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "November 10, 2020",
+    "study_first_submitted_qc": "November 10, 2020",
+    "study_first_posted": "November 12, 2020",
+    "last_update_submitted": "December 15, 2022",
+    "last_update_submitted_qc": "December 15, 2022",
+    "last_update_posted": "January 5, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Hepatitis C",
+      "Thrombocytopenia",
+      "Eltrombopag",
+      "Antiviral Therapy"
+    ],
+    "condition_browse": {
+      "mesh_term": [
+        "Hepatitis C",
+        "Thromboembolism"
+      ]
+    }
+  }
+}
+```

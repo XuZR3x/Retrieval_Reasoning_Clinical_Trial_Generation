@@ -1,0 +1,164 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02836754"
+    },
+    "id_info": {
+      "org_study_id": "CabaPlus",
+      "nct_id": "NCT02836754"
+    },
+    "brief_title": "Phase II Study of Cabazitaxel and Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer",
+    "official_title": "A Multicenter, Open-Label Phase II Study to Evaluate the Efficacy and Safety of Cabazitaxel in Combination With Pembrolizumab in Patients With Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Pittsburgh Medical Center",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme Corp",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Pittsburgh Medical Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The aim of this study is to assess the safety and efficacy of cabazitaxel in conjunction with pembrolizumab in subjects with advanced or metastatic non-small cell lung cancer (NSCLC) who have progressed on standard care therapies. This combination is hypothesized to enhance the therapeutic response by leveraging the immunogenicity of pembrolizumab and the cytotoxicity of cabazitaxel."
+    },
+    "detailed_description": {
+      "textblock": "This Phase II clinical trial will enroll approximately 80 patients with advanced or metastatic NSCLC, determined to express PD-L1 on at least 50% of tumor cells. Patients will receive cabazitaxel at a dose of 25 mg/m^2 intravenously on day 1, in combination with pembrolizumab at 200 mg intravenously on day 1 of each 21-day cycle. The study aims to evaluate the overall response rate (ORR) alongside progression-free survival (PFS) as primary outcomes while assessing adverse events (AEs) and biomarkers including PSA and circulating tumor cells (CTCs) as secondary objectives."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 15, 2016",
+    "completion_date": "August 30, 2020",
+    "primary_completion_date": "August 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "Assessed every 2 cycles for up to 12 months post-treatment initiation.",
+      "description": "The ORR is defined as the proportion of participants with a confirmed CR or PR, according to RECIST 1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "From treatment start to the first documented disease progression or death from any cause up to 12 months.",
+        "description": "PFS is evaluated using Kaplan-Meier survival analysis."
+      },
+      {
+        "measure": "Safety Profile",
+        "time_frame": "Incidence of adverse events will be assessed every cycle for the duration of treatment, up to 12 months.",
+        "description": "Analysis of AEs will follow the CTCAE v4.03 criteria to ascertain grade."
+      },
+      {
+        "measure": "Biomarker Correlation",
+        "time_frame": "Serum samples collected at baseline, every cycle, and at treatment discontinuation.",
+        "description": "Correlation of serum levels of bone-specific alkaline phosphatase with treatment response will be evaluated."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "80",
+    "condition": "Non-Small Cell Lung Cancer",
+    "arm_group": {
+      "arm_group_label": "Cabazitaxel and Pembrolizumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive cabazitaxel and pembrolizumab combination therapy as described."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Cabazitaxel",
+        "description": "25 mg/m^2 IV on day 1 of each 21-day cycle.",
+        "arm_group_label": "Cabazitaxel and Pembrolizumab",
+        "other_name": ["Jevtana", "Taxoid XRP6258"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "200 mg IV on day 1 of each 21-day cycle.",
+        "arm_group_label": "Cabazitaxel and Pembrolizumab",
+        "other_name": ["Keytruda"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Histologically or cytologically confirmed NSCLC that is locally advanced or metastatic.\n\n2. Disease progression on or after at least one prior regimen of platinum-based chemotherapy.\n\n3. Positive PD-L1 expression (≥50% on tumor cells).\n\n4. Age ≥ 18 years with a performance status of ECOG 0-1.\n\n5. Adequate organ function as defined by specified laboratory criteria.\n\nExclusion Criteria:\n\n1. Known hypersensitivity to pembrolizumab or cabazitaxel.\n\n2. Active autoimmune disease or history of transplantation.\n\n3. Presence of brain metastases or uncontrolled CNS disease.\n\n4. Prior treatment with any anti-PD-1 or anti-PD-L1 agents.\n\n5. Any serious underlying medical or psychiatric condition that could interfere with study participation."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Doe",
+      "role": "Principal Investigator",
+      "affiliation": "University of Pittsburgh Medical Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "University of Pittsburgh Medical Center",
+          "address": {
+            "city": "Pittsburgh",
+            "state": "Pennsylvania",
+            "zip": "15213",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Johns Hopkins University Sidney Kimmel Comprehensive Cancer Center",
+          "address": {
+            "city": "Baltimore",
+            "state": "Maryland",
+            "zip": "21205",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cleveland Clinic",
+          "address": {
+            "city": "Cleveland",
+            "state": "Ohio",
+            "zip": "44195",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "August 12, 2016",
+    "study_first_submitted_qc": "August 12, 2016",
+    "study_first_posted": "August 15, 2016",
+    "last_update_submitted": "August 5, 2021",
+    "last_update_posted": "August 6, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "party_affiliation": "University of Pittsburgh Medical Center"
+    },
+    "keyword": ["cabazitaxel", "pembrolizumab", "non-small cell lung cancer"],
+    "condition_browse": {
+      "mesh_term": "Lung Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Cabazitaxel", "Pembrolizumab"]
+    }
+  }
+}
+```

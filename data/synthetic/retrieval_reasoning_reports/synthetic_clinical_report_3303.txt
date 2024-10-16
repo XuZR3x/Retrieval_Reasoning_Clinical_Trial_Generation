@@ -1,0 +1,119 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "ABC-XYZ-2023",
+      "secondary_id": ["XYZ12345", "CDR0000123456"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Efficacy of Temozolomide Combined with Biomarker-guided Therapy in Advanced Malignant Glioma",
+    "official_title": "Phase II Trial of Temozolomide and Biomarker-based Targeted Therapy in Patients with Advanced Malignant Glioma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "is_fda_regulated_drug": "Yes",
+      "is_fda_regulated_device": "No"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: Temozolomide is a chemotherapeutic agent used to treat certain types of brain tumors. Its efficacy may be augmented by incorporating biomarker-targeted therapies. This trial aims to evaluate the effectiveness of temozolomide in conjunction with personalized treatment strategies based on tumor biomarker profiling."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES: \r\n- Evaluate the therapeutic impact of temozolomide when administered alongside biomarker-guided targeted therapy in patients diagnosed with advanced malignant glioma. \r\n- Assess the safety and tolerability of this combination regimen. \r\n- Investigate potential correlations between specific biomarkers and treatment response.\r\n\r\nOUTLINE: This is a multicenter, open-label, randomized trial. Participants will receive oral temozolomide daily in conjunction with targeted agents selected based on extensive biomarker analysis. The treatment will continue for a maximum of six 28-day cycles or until disease progression occurs. Patients will be followed for survival outcomes every 3 months."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Terminated due to low patient accrual and insufficient biomarker stratification.",
+    "start_date": "June 1, 2021",
+    "completion_date": "August 15, 2023",
+    "primary_completion_date": "April 20, 2023",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)",
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival Rate at 12 Months",
+      "description": "Patients will be followed for the primary outcome of survival rates at the 12-month mark."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-free Survival (PFS)",
+        "time_frame": "Measured every 3 months post-treatment initiation."
+      },
+      {
+        "measure": "Incidence of Treatment-related Adverse Events",
+        "time_frame": "Ongoing monitoring during the treatment period and followed until post-treatment assessments."
+      }
+    ],
+    "enrollment": "25",
+    "condition": "Malignant Glioma",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "temozolomide"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "targeted therapy",
+        "description": "Biomarker-guided therapies tailored to individual tumor profiles."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n- Histologically confirmed diagnosis of malignant glioma (WHO Grade III or IV).\r\n- Patients must have measurable disease as assessed by MRI.\r\n- Age 18 years or older, with adequate hematological, hepatic, and renal function.\r\n- Provision of informed consent.\r\n\r\nExclusion Criteria:\r\n- Prior treatment with temozolomide or other DNA alkylating agents.\r\n- Patients with other active malignancies within the past 5 years, except non-melanoma skin cancers.\r\n- Presence of significant comorbidities precluding safe participation in the trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith, MD",
+      "role": "Principal Investigator",
+      "affiliation": "National Cancer Institute (NCI)"
+    },
+    "location": {
+      "facility": {
+        "name": "National Cancer Institute, NIH",
+        "address": {
+          "city": "Bethesda",
+          "state": "Maryland",
+          "zip": "20892",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "September 2023",
+    "study_first_submitted": "May 10, 2021",
+    "study_first_posted": "June 5, 2021",
+    "last_update_posted": "August 30, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["temozolomide", "malignant glioma", "biomarker-guided therapy"],
+    "condition_browse": {
+      "mesh_term": ["Glioma", "Brain Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Temozolomide"
+    },
+    "limitations_and_caveats": "The inability to achieve sufficient patient enrollment significantly limited the statistical power of the trial, compounded by the lack of clear biomarkers predictive of temozolomide efficacy, which led to challenges in patient stratification and interpretation of treatment outcomes."
+  }
+}
+```

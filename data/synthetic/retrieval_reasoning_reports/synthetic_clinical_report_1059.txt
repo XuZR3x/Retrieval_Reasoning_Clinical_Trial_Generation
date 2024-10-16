@@ -1,0 +1,230 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04035612"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2019-04567",
+      "secondary_id": ["NCI-2019-04567", "CDR0000670456"],
+      "nct_id": "NCT04035612"
+    },
+    "brief_title": "Safety and Efficacy Study of Entinostat in Patients With Metastatic Non-Small Cell Lung Cancer",
+    "official_title": "A Phase II Study to Evaluate the Safety and Efficacy of Entinostat in Combination With Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer Following Immune Checkpoint Inhibitor Therapy",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "brief_summary": {
+      "textblock": "This phase II trial is evaluating the safety and efficacy of entrestat in combination with pembrolizumab in subjects with metastatic non-small cell lung cancer (NSCLC) who have previously received immune checkpoint inhibitor therapy."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To evaluate the preliminary efficacy of entinostat and pembrolizumab combination therapy in subjects with advanced NSCLC.\n\nSECONDARY OBJECTIVES:\n\nI. To assess the safety profile and toxicity associated with the entinostat plus pembrolizumab regimen.\n\nII. To evaluate the overall survival and progression-free survival in the study population.\n\nIII. To further characterize the pharmacokinetic interactions between entinostat and pembrolizumab.\n\nOUTLINE: This trial involves administering entinostat orally for five days each week along with pembrolizumab administered intravenously every three weeks.\n\nTreatment will continue until disease progression or unacceptable toxicity occurs. Follow-up will take place every three months after treatment discontinuation."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "This study was halted due to compromised mechanistic efficacy and unexpected toxicity profiles observed during the trial.",
+    "start_date": "September 2020",
+    "completion_date": "March 2023",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Confirmed Overall Response Rate (ORR)",
+      "time_frame": "At 6 months evaluation",
+      "description": "The overall response rate will be evaluated using RECIST 1.1 criteria. Subjects displaying either a complete response (CR) or a partial response (PR) will be reported."
+    },
+    "secondary_outcome": [{
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "From randomization until disease progression or death occurs.",
+      "description": "PFS will be assessed using Kaplan-Meier estimates."
+    }, {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "From the date of randomization until the date of death due to any cause.",
+      "description": "OS will be evaluated with Kaplan-Meier survival curves constructed."
+    }],
+    "number_of_arms": "1",
+    "enrollment": "40",
+    "condition": ["Non-Small Cell Lung Cancer", "Metastatic Lung Cancer"],
+    "arm_group": {
+      "arm_group_label": "Treatment (entinostat and pembrolizumab)",
+      "arm_group_type": "Experimental",
+      "description": "Patients receive entinostat orally for five consecutive days, along with pembrolizumab intravenously every three weeks."
+    },
+    "intervention": [{
+      "intervention_type": "Drug",
+      "intervention_name": "entinostat",
+      "description": "Administered orally as directed",
+      "arm_group_label": "Treatment (entinostat and pembrolizumab)",
+      "other_name": ["SNDX-275", "Histone Deacetylase Inhibitor"]
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "pembrolizumab",
+      "description": "Administered intravenously",
+      "arm_group_label": "Treatment (entinostat and pembrolizumab)",
+      "other_name": ["Keytruda"]
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Patients must have histologically confirmed diagnosis of metastatic non-small cell lung cancer.\n  - Must have experienced disease progression after previous therapy with immune checkpoint inhibitors.\n  - At least 18 years of age.\n  - ECOG performance status of 0 or 1.\n  - Adequate organ function as defines by lab criteria.\n  - Patients should provide written informed consent.\n\nExclusion Criteria:\n\n  - Prior treatment with histone deacetylase inhibitors or other investigational drugs.\n  - Active CNS metastases or significant cardiovascular disease.\n  - Uncontrolled intercurrent illness including active infections.\n  - Known hypersensitivity to any ingredients of study drugs."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jason Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Memorial Sloan Kettering Cancer Center"
+    },
+    "location": {
+      "facility": {
+        "name": "Memorial Sloan Kettering Cancer Center",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2023",
+    "study_first_submitted": "August 1, 2020",
+    "study_first_submitted_qc": "August 10, 2020",
+    "study_first_posted": "August 15, 2020",
+    "results_first_submitted": "April 12, 2023",
+    "results_first_submitted_qc": "April 25, 2023",
+    "results_first_posted": "May 12, 2023",
+    "last_update_submitted": "April 30, 2023",
+    "last_update_posted": "May 15, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Lung Neoplasms", "Carcinoma, Non-Small-Cell Lung"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Entinostat", "Pembrolizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Participants were screened and enrolled before randomization, with verifications of eligibility.",
+        "group_list": {
+          "group": {
+            "title": "Treatment (entinostat and pembrolizumab)",
+            "description": "Patient received both medications until progression or withdrawal."
+          }
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                "title": "STARTED",
+                "participants_list": {
+                  "participants": [40]
+                }
+              }, {
+                "title": "COMPLETED",
+                "participants_list": {
+                  "participants": [0]
+                }
+              }, {
+                "title": "NOT COMPLETED",
+                "participants_list": {
+                  "participants": [40]
+                }
+              }]
+            }
+          }
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Treatment (entinostat and pembrolizumab)",
+            "description": "Evaluation of serious adverse events revealed a notable frequency of gastrointestinal complications."
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": [{
+                  "sub_title": "Total, all-cause mortality",
+                  "counts": [5]
+                }, {
+                  "sub_title": "Total, serious adverse events",
+                  "counts": [20]
+                }]
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [{
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total, other adverse events",
+                  "counts": [15]
+                }
+              }
+            }, {
+              "title": "Gastrointestinal disorders",
+              "event_list": {
+                "event": [{
+                  "sub_title": "Nausea",
+                  "counts": [12]
+                }, {
+                  "sub_title": "Diarrhea",
+                  "counts": [10]
+                }]
+              }
+            }, {
+              "title": "General disorders",
+              "event_list": {
+                "event": [{
+                  "sub_title": "Fatigue",
+                  "counts": [7]
+                }, {
+                  "sub_title": "Edema peripheral",
+                  "counts": [6]
+                }]
+              }
+            }]
+          }
+        }
+      },
+    "certain_agreements": {
+      "pi_employee": "The Principal Investigator is not employed by the sponsoring organization.",
+      "restrictive_agreement": "All publications and presentations must undergo prior review by the sponsor."
+    },
+    "point_of_contact": {
+      "name_or_title": "Emily Johnson, MD",
+      "organization": "National Cancer Institute",
+      "phone": "202-555-0199",
+      "email": "ejohnson@nih.gov"
+    }
+  }
+}
+```

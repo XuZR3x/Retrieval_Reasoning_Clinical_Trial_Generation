@@ -1,0 +1,163 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00012345"
+    },
+    "id_info": {
+      "org_study_id": "ABC-TRAB-987",
+      "secondary_id": ["CDR0000098765", "TRAB-2022-02", "NCI-G02-3034"],
+      "nct_id": "NCT00012345"
+    },
+    "brief_title": "A Phase II Study of Trabectedin in Patients with Advanced Soft Tissue Sarcoma",
+    "official_title": "A Phase II Randomized Clinical Trial Evaluating the Efficacy and Safety of Trabectedin vs. Placebo in Patients with Advanced Soft Tissue Sarcomma",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncological Research Institute",
+        "agency_class": "Industry"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Oncological Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This phase II study aims to evaluate the effectiveness and safety of trabectedin in treating adult patients diagnosed with advanced soft tissue sarcoma after failure of standard therapies."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES: Primary objectives include assessing overall survival (OS) and progression-free survival (PFS) rates in patients administered with trabectedin compared to placebo.\n\nMETHODOLOGY: This is a multicenter, randomized, placebo-controlled trial where subjects will receive trabectedin administered intravenously every three weeks in one arm, while the control group will receive placebo identical in appearance. Efficacy will be assessed using Response Evaluation Criteria in Solid Tumors (RECIST) guidelines.\n\nELIGIBILITY: Patients aged ≥ 18 years with a confirmed diagnosis of advanced soft tissue sarcoma, measurable disease, and adequate hematologic, renal, and hepatic function are eligible.\n\nProjected accrual was aimed at enlisting 300 patients over a period of 18 months."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The trial faced significant enrollment challenges due to the narrow eligibility criteria and insufficient patient recruitment, resulting in the termination of the study before achieving the required sample size.",
+    "start_date": "June 2020",
+    "completion_date": "April 2022",
+    "primary_completion_date": "March 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival (OS)",
+      "time_frame": "Up to 12 months after randomization",
+      "description": "Overall survival measured from the date of randomization to the date of death from any cause; patients alive at study completion will be censored."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "Up to 12 months after randomization",
+        "description": "Progression-free survival defined as the time from randomization to first observation of disease progression or death, whichever occurs first."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Up to 12 months after randomization",
+        "description": "The percentage of patients achieving a complete (CR) or partial (PR) response based on RECIST criteria."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "40",
+    "condition": [
+      "Advanced Soft Tissue Sarcoma"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Trabectedin Arm",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive trabectedin (1.5 mg/m2) administered intravenously every three weeks."
+      },
+      {
+        "arm_group_label": "Placebo Arm",
+        "arm_group_type": "Placebo",
+        "description": "Participants receive placebo administered intravenously every three weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "trabectedin",
+        "description": "1.5 mg/m2 administered intravenously over approximately 3 hours every 21 days.",
+        "arm_group_label": ["Trabectedin Arm"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "Identical placebo administered intravenously over 3 hours every 21 days.",
+        "arm_group_label": ["Placebo Arm"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Patients ≥18 years of age;\n  - Confirmed diagnosis of advanced soft tissue sarcoma with measurable disease;\n  - At least one prior line of systemic therapy;\n  - Eastern Cooperative Oncology Group (ECOG) performance status of 0-2;\n  - Adequate hematologic, renal, and hepatic function for study enrollment.\n\nExclusion Criteria:\n\n  - Patients with symptomatic brain metastases;\n  - History of exposure to trabectedin or hypersensitivity to its components;\n  - Participation in another investigational study within 30 days prior to start of the trial."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James T. Bell, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncological Research Institute"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "City Hospital",
+          "address": {
+            "city": "Metropolis",
+            "state": "Illinois",
+            "zip": "62704",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "General Medical Institute",
+          "address": {
+            "city": "Gotham City",
+            "state": "New Jersey",
+            "zip": "07001",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States"]
+    },
+    "verification_date": "September 2022",
+    "study_first_submitted": "February 22, 2020",
+    "study_first_submitted_qc": "February 23, 2020",
+    "study_first_posted": "February 24, 2020",
+    "results_first_submitted": "April 15, 2022",
+    "results_first_submitted_qc": "April 15, 2022",
+    "results_first_posted": "April 20, 2022",
+    "last_update_submitted": "April 22, 2022",
+    "last_update_submitted_qc": "April 22, 2022",
+    "last_update_posted": "April 25, 2022",
+    "keyword": [
+      "Trabectedin",
+      "Advanced Soft Tissue Sarcoma",
+      "Clinical Trial",
+      "Efficacy and Safety"
+    ],
+    "condition_browse": {
+      "mesh_term": ["Soft Tissue Sarcoma", "Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trabectedin"]
+    }
+  }
+}
+```

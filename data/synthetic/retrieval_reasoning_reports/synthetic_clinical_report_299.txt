@@ -1,0 +1,147 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03726401"
+    },
+    "id_info": {
+      "org_study_id": "Eculizumab for Complex Autoimmune Disorders",
+      "nct_id": "NCT03726401"
+    },
+    "brief_title": "Eculizumab in Patients With Complex Autoimmune Disorders",
+    "official_title": "A Phase 3, Multicenter, Double-Blind, Randomized, Placebo-Controlled Trial to Assess the Efficacy and Safety of Eculizumab in Patients With Complex Autoimmune Disorders",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Institute for Translational Medicine and Therapeutics",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "Alexion Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Institute for Translational Medicine and Therapeutics",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study evaluates the efficacy and safety of eculizumab in patients with complex autoimmune disorders, focusing on symptoms resistant to previous therapies."
+    },
+    "overall_status": "Completed",
+    "start_date": "March 2018",
+    "completion_date": "October 2022",
+    "primary_completion_date": "April 2021",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double Blind"
+    },
+    "primary_outcome": {
+      "measure": "Change in Disease Activity Score",
+      "time_frame": "From baseline to 12 weeks",
+      "description": "The primary endpoint is the change in the Disease Activity Score (DAS) measured at 12 weeks, comparing eculizumab-treated patients to placebo."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Proportion of patients achieving remission",
+        "time_frame": "At 12 weeks",
+        "description": "Measured as the proportion of patients achieving remission defined by DAS < 1.6."
+      },
+      {
+        "measure": "Quality of Life Assessment (EQ-5D)",
+        "time_frame": "At baseline and 12 weeks",
+        "description": "Using the EQ-5D to evaluate changes in quality of life."
+      },
+      {
+        "measure": "Adverse events",
+        "time_frame": "Throughout the study duration",
+        "description": "Incidence of adverse events (AEs) will be monitored and documented throughout the trial."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": "Complex Autoimmune Disorders",
+    "arm_group": [
+      {
+        "arm_group_label": "Eculizumab",
+        "arm_group_type": "Experimental",
+        "description": "Patients in this group will receive eculizumab 900 mg intravenously every two weeks for the first five doses followed by 1200 mg at 12 weeks."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Control",
+        "description": "Patients in this group will receive placebo treatment, mirroring the regimen of the experimental arm."
+      }
+    ],
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "Eculizumab",
+      "description": "Intravenous administration of eculizumab at a dosage of 900 mg every two weeks, with a planned increase to 1200 mg at week 12.",
+      "arm_group_label": "Eculizumab"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n1. Adults aged 18 years and older\n2. Documented diagnosis of complex autoimmune disorders (e.g., systemic lupus erythematosus, myasthenia gravis) with persistent symptoms despite standard therapies\n3. Willingness to provide informed consent\n\nExclusion Criteria:\n\n1. Active malignancy\n2. Previous treatment with complement inhibitors\n3. Pregnancy or breastfeeding\n4. Severe renal impairment\n5. Scheduled surgical procedure during study period",
+        "gender": "All",
+        "minimum_age": "18 Years",
+        "maximum_age": "N/A",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Dr. Jane Smith",
+      "role": "Principal Investigator",
+      "affiliation": "Institute for Translational Medicine and Therapeutics"
+    },
+    "location": {
+      "facility": {
+        "name": "Institute for Translational Medicine and Therapeutics",
+        "address": {
+          "city": "Philadelphia",
+          "zip": "19104",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "reference": [
+      {
+        "citation": "Smith J, Doe J. The role of complement inhibition in autoimmune diseases: A narrative review. Autoimmun Rev. 2021; 20(9):102843. doi: 10.1016/j.autrev.2021.102843.",
+        "PMID": "34567890"
+      },
+      {
+        "citation": "Jones P, Brown R. Efficacy of eculizumab in various autoimmune disorders. Clin Rheumatol. 2019; 38(11):3075-3083. doi: 10.1007/s10067-019-04772-5.",
+        "PMID": "23956978"
+      }
+    ],
+    "verification_date": "April 2022",
+    "study_first_submitted": "October 15, 2017",
+    "study_first_submitted_qc": "October 15, 2017",
+    "study_first_posted": "October 20, 2017",
+    "last_update_submitted": "March 3, 2022",
+    "last_update_submitted_qc": "March 3, 2022",
+    "last_update_posted": "March 7, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Institute for Translational Medicine and Therapeutics",
+      "investigator_full_name": "Dr. Jane Smith",
+      "investigator_title": "MD, PhD"
+    },
+    "keyword": ["eculizumab", "autoimmune disorders", "complement inhibition", "clinical trial"],
+    "condition_browse": {
+      "mesh_term": "Autoimmune Diseases"
+    },
+    "intervention_browse": {
+      "mesh_term": "Eculizumab"
+    }
+  }
+}
+```

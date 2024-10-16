@@ -1,0 +1,146 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04073251"
+    },
+    "id_info": {
+      "org_study_id": "DABI-0531",
+      "nct_id": "NCT04073251"
+    },
+    "brief_title": "Efficacy and Safety of Dabigatran in Patients With Advanced Heart Failure and Biventricular Assist Devices",
+    "official_title": "A Randomized Controlled Trial to Investigate the Efficacy and Safety of Dabigatran Compared to Warfarin in Patients With Advanced Heart Failure Supported by Biventricular Assist Devices",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Cardiovascular Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Cardiovascular Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This trial aimed to evaluate the efficacy and safety profile of dabigatran versus warfarin in patients with advanced heart failure and biventricular assist devices. The primary endpoint was to determine the incidence of major bleeding events as well as thromboembolic complications over a 12-month period."
+    },
+    "detailed_description": {
+      "textblock": "Patients with advanced heart failure requiring biventricular assist device (BVAD) support often necessitate long-term anticoagulation therapy to mitigate thrombotic risks. The growing interest in direct oral anticoagulants (DOACs) such as dabigatran seeks to establish a more effective management strategy. However, the safety concerns related to bleeding complications necessitate rigorous investigation.\n\nThis randomized, open-label trial involved patients aged 18 years or older, with stable renal function (defined as a GFR ≥ 60 ml/min) after BVAD implantation. Participants were randomized to receive either dabigatran or warfarin during the study period. The primary outcome measure focused on the occurrence of major adverse events associated with thromboembolic incidents and hemorrhagic episodes.\n\nDespite an anticipated enrollment of 80 patients, only 33 patients completed the study regimen due to significant challenges during recruitment. Factors such as stringent eligibility criteria and apprehension surrounding the safety of dabigatran contributed to patient reluctance to participate. Furthermore, the incidence of adverse events associated with dabigatran usage led to considerable dropouts. Initial analyses revealed no significant differences in therapy outcomes; dabigatran did not demonstrate superior efficacy over warfarin in reducing major thromboembolic events or improving overall patient safety. Consequently, the trial was terminated due to these safety concerns and inadequate efficacy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study discontinued due to safety concerns and slow patient recruitment.",
+    "start_date": "February 2019",
+    "completion_date": "May 2021",
+    "primary_completion_date": "May 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Incidence of major bleeding events",
+      "time_frame": "12 months",
+      "description": "To compare the incidence rate of major bleeding events between dabigatran and warfarin in patients with advanced heart failure supported by BVAD."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Incidence of thromboembolic complications",
+        "time_frame": "12 months",
+        "description": "Evaluation of thromboembolic event rates between both treatment groups."
+      },
+      {
+        "measure": "Change in quality of life as assessed by the Kansas City Cardiomyopathy Questionnaire (KCCQ)",
+        "time_frame": "12 months",
+        "description": "To measure changes in patient-reported outcomes pre- and post-treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "33",
+    "condition": ["Advanced Heart Failure", "Thrombosis", "Biventricular Assist Device"],    
+    "arm_group": [
+      {
+        "arm_group_label": "Dabigatran Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Patients assigned to this group will receive dabigatran at a dosage of 150 mg twice daily."
+      },
+      {
+        "arm_group_label": "Warfarin Therapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients in this group will receive warfarin, with dosage adjusted aiming for an INR of 2.0 to 3.0."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Dabigatran",
+        "description": "Patients assigned to this group will receive Dabigatran 150 mg orally, twice daily.",
+        "arm_group_label": "Dabigatran Therapy",
+        "other_name": "Pradaxa"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Warfarin",
+        "description": "Patients assigned to this group will receive Warfarin with dosage titration to achieve INR target.",
+        "arm_group_label": "Warfarin Therapy",
+        "other_name": "Coumadin"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  -  Adult patients aged 18 years or older with advanced heart failure requiring BVAD support.\n  -  Stable renal function (eGFR ≥ 60 ml/min).\n  -  Ability to provide informed consent.\n\nExclusion Criteria:\n\n  -  History of significant thromboembolic events or bleeding disorders.\n  -  Active gastrointestinal bleeding or recent surgery.\n  -  Known hypersensitivity to dabigatran or warfarin."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Thomas Linke, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Institute Medical Center",
+        "address": {
+          "city": "San Francisco",
+          "zip": "94107",
+          "country": "USA"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2021",
+    "study_first_submitted": "February 4, 2019",
+    "study_first_posted": "February 5, 2019",
+    "last_update_submitted": "June 15, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "responsible_party_name": "Cardiovascular Research Institute"
+    },
+    "condition_browse": {
+      "mesh_term": [
+        "Heart Failure",
+        "Thrombosis",
+        "Biventricular Assist Device"
+      ]
+    },
+    "intervention_browse": {
+      "mesh_term": [
+        "Dabigatran",
+        "Warfarin"
+      ]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

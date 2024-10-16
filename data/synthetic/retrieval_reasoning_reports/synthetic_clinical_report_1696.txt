@@ -1,0 +1,201 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00901234"
+    },
+    "id_info": {
+      "org_study_id": "M-987654321",
+      "nct_id": "NCT00901234"
+    },
+    "brief_title": "Study to Evaluate the Efficacy of Esomeprazole in Asthmatics with Gastroesophageal Reflux Disease",
+    "official_title": "Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Impact of Esomeprazole on Asthma Control in Patients with Coexisting Gastroesophageal Reflux Disease (GERD)",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "University of Toronto",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "University of Toronto",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The trial aims to evaluate whether esomeprazole can effectively improve asthma control in patients diagnosed with both asthma and GERD. The primary hypothesis is that esomeprazole treatment will lead to a significant reduction in asthma exacerbation rates compared to placebo."
+    },
+    "detailed_description": {
+      "textblock": "Asthma is frequently exacerbated by comorbidities such as GERD. Esomeprazole, a proton pump inhibitor, has been postulated to alleviate GERD symptoms, potentially benefiting asthma control. However, evidence supporting the efficacy of esomeprazole in this context remains unclear.\n\nRecent trials suggested insufficient enrollment levels across similar studies, resulting in underpowered analyses that could not adequately determine the therapeutic efficacy of esomeprazole in the intended clinical populations. This trial seeks to rectify that by enrolling a larger cohort of patients.\n\nMoreover, differential pathophysiological pathways underlying asthma and GERD may not be adequately addressed through pharmacological suppression of gastric acid alone. This disconnect raises concerns regarding ascertaining improvement in asthma control metrics solely attributed to esomeprazole treatment.\n\nCompounding these issues are potential drug interactions between esomeprazole and concurrent antiasthmatic medications, most notably inhaled corticosteroids. Such interactions could impair the anticipated therapeutic outcomes and lead to ambiguous interpretations of efficacy.\n\nAdditionally, variability in subjective reporting related to asthma exacerbations and related symptoms may introduce inconsistencies in obtaining reliable patient-reported outcomes, further complicating the assessment process. Lastly, without robust adjustment and stratification for confounding factors like baseline severity of either GERD or asthma, adherence to prescribed medications, and lifestyle influences (e.g., smoking, alcohol consumption), precise interpretation of the results becomes challenging."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inconclusive results; insufficient sample size and confounding variables led to the inability to demonstrate efficacy.",
+    "start_date": "March 2009",
+    "completion_date": "August 2012",
+    "primary_completion_date": "April 2011",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "number_of_arms": "2",
+    "enrollment": "185",
+    "condition": "Asthma",
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Esomeprazole",
+        "description": "40 mg oral administration once daily for 8 weeks.",
+        "arm_group_label": "Esomeprazole"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo administered once daily for 8 weeks.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n- Adults aged 18 to 70 with diagnosed asthma and symptoms of GERD.\n- Stable use of asthma medications for at least 4 weeks prior to study entry.\n- Signed informed consent.\n\nExclusion Criteria:\n- History of significant gastrointestinal disease other than GERD.\n- Recent surgeries affecting the gastrointestinal tract.\n- Concurrent use of investigational drugs or significant drug interactions.\n- Pregnant or lactating women."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "70 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Kathleen Morris, MD",
+      "role": "Principal Investigator",
+      "affiliation": "University of Toronto"
+    },
+    "location": {
+      "facility": {
+        "name": "Toronto General Hospital",
+        "address": {
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2C4",
+          "country": "Canada"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "Canada"
+    },
+    "verification_date": "January 2013",
+    "study_first_submitted": "January 15, 2009",
+    "study_first_posted": "January 25, 2009",
+    "results_first_submitted": "December 1, 2012",
+    "results_first_posted": "January 10, 2013",
+    "last_update_submitted": "February 5, 2013",
+    "last_update_posted": "February 10, 2013",
+    "keyword": ["Esomeprazole", "Asthma", "GERD", "Exacerbation"],
+    "intervention_browse": {
+      "mesh_term": "Esomeprazole"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Esomeprazole",
+              "description": "Participants received esomeprazole 40 mg once daily."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants received a matching placebo once daily."
+            }
+          ]
+        },
+        "milestone_list": {
+          "milestone": [
+            {
+              "title": "STARTED",
+              "participants_list": {
+                "participants": ["191 initial enrollment"]
+              }
+            },
+            {
+              "title": "COMPLETED",
+              "participants_list": {
+                "participants": ["185 participants completed treatment"]
+              }
+            },
+            {
+              "title": "NOT COMPLETED",
+              "participants_list": {
+                "participants": ["Insufficient data for adequate analysis"]
+              }
+            }
+          ]
+        },
+        "drop_withdraw_reason_list": {
+          "drop_withdraw_reason": [
+            {
+              "title": "Inadequate enrollment",
+              "participants_list": {
+                "participants": ["Participant dropout due to lack of efficacy"]
+              }
+            },
+            {
+              "title": "Adverse Events",
+              "participants_list": {
+                "participants": ["Gastrointestinal disturbances leading to withdrawal"]
+              }
+            }
+          ]
+        }
+      },
+      "reported_events": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Esomeprazole",
+              "description": "40 mg of esomeprazole daily."
+            },
+            {
+              "title": "Placebo",
+              "description": "Placebo control group."
+            }
+          ]
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total serious adverse events reported",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total Events",
+                  "counts": [null, null]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "category_list": {
+            "category": {
+              "title": "Total other adverse events",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total frequency of gastrointestinal symptoms",
+                  "counts": [null, null]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```

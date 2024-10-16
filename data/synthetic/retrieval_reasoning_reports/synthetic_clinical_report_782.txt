@@ -1,0 +1,242 @@
+```json
+{
+    "clinical_study": {
+        "required_header": {
+            "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+            "link_text": "Link to the current ClinicalTrials.gov record.",
+            "url": "https://clinicaltrials.gov/ct2/show/NCT02705490"
+        },
+        "id_info": {
+            "org_study_id": "NSD-SIT-0001",
+            "nct_id": "NCT02705490"
+        },
+        "brief_title": "Impact of Sitagliptin on Glycemic Variability in Patients with Type 2 Diabetes",
+        "official_title": "A Multi-Center, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy of Sitagliptin on Glycemic Variability and Patient-reported Outcomes in Type 2 Diabetic Patients",
+        "sponsors": {
+            "lead_sponsor": {
+                "agency": "National Diabetes Foundation",
+                "agency_class": "Other"
+            },
+            "collaborator": {
+                "agency": "Merck Sharp & Dohme LLC",
+                "agency_class": "Industry"
+            }
+        },
+        "source": "National Diabetes Foundation",
+        "oversight_info": {
+            "has_dmc": "Yes"
+        },
+        "brief_summary": {
+            "textblock": "The primary objective of this trial was to assess the impact of sitagliptin on glycemic variability as measured by continuous glucose monitoring in patients with type 2 diabetes mellitus (T2DM) while also evaluating patient-reported outcomes related to quality of life."
+        },
+        "detailed_description": {
+            "textblock": "Type 2 diabetes mellitus is characterized by fluctuating blood glucose levels, which may complicate management and contribute to complications. Recent evidence suggests that sitagliptin, a DPP-IV inhibitor, may stabilize glycemic control through increased incretin levels. Hence, this study aimed to investigate sitagliptin's efficacy in reducing glycemic variability and improving patient quality of life.\n\nThe study was designed as a multi-center, randomized, double-blind, placebo-controlled trial. A total of 400 participants were targeted for enrollment. Subjects were randomly assigned in a 1:1 fashion to either the sitagliptin (100 mg/day) group or the placebo group, with a treatment duration of 24 weeks. Continuous glucose monitoring devices were used to quantify glycemic variability, while validated quality of life assessments were employed at baseline and follow-up points."
+        },
+        "overall_status": "Terminated",
+        "why_stopped": "Terminated due to insufficient enrollment caused by restrictive eligibility criteria, leading to inadequate diversity in the participant pool.",
+        "start_date": "March 2016",
+        "completion_date": "March 2018",
+        "primary_completion_date": "December 2017",
+        "phase": "Phase 3",
+        "study_type": "Interventional",
+        "has_expanded_access": "No",
+        "study_design_info": {
+            "allocation": "Randomized",
+            "intervention_model": "Parallel Assignment",
+            "primary_purpose": "Treatment",
+            "masking": "Double (Participant, Investigator)"
+        },
+        "primary_outcome": {
+            "measure": "Glycemic Variability",
+            "time_frame": "At 24 weeks",
+            "description": "The primary endpoint evaluated changes in glycemic variability using standard deviation of glucose measurements from continuous monitoring."
+        },
+        "secondary_outcome": [{
+                "measure": "Quality of Life Index",
+                "time_frame": "At baseline and 24 weeks",
+                "description": "Changes in health-related quality of life as measured by the SF-36 questionnaire."
+            },
+            {
+                "measure": "Adverse Events",
+                "time_frame": "Throughout the study",
+                "description": "Incidence of adverse events reported, categorized by severity."
+            }
+        ],
+        "number_of_arms": "2",
+        "enrollment": "50",
+        "condition": "Type 2 Diabetes Mellitus",
+        "arm_group": [{
+                "arm_group_label": "Sitagliptin",
+                "arm_group_type": "Experimental",
+                "description": "Sitagliptin 100 mg daily for 24 weeks"
+            },
+            {
+                "arm_group_label": "Placebo",
+                "arm_group_type": "Placebo Comparator",
+                "description": "Matching placebo once daily for 24 weeks"
+            }
+        ],
+        "intervention": [{
+                "intervention_type": "Drug",
+                "intervention_name": "Sitagliptin",
+                "description": "Administered at a dose of 100 mg every day for 24 weeks.",
+                "arm_group_label": "Sitagliptin",
+                "other_name": "Januvia"
+            },
+            {
+                "intervention_type": "Drug",
+                "intervention_name": "Placebo",
+                "description": "Sugar pill manufactured to mimic sitagliptin 100 mg.",
+                "arm_group_label": "Placebo"
+            }
+        ],
+        "eligibility": {
+            "criteria": {
+                "textblock": "Inclusion Criteria:\n- Age 30 to 75 years.\n- Physician diagnosed type 2 diabetes with HbA1c between 7% and 9%.\n- On a stable dose of one oral antihyperglycemic agent (other than DPP-IV inhibitors) for at least 3 months.\n- Ability to provide informed consent.\n\nExclusion Criteria:\n- Previous treatment with sitagliptin or other DPP-IV inhibitors.\n- Significant medical conditions that may interfere with study results.\n- Pregnancy or lactation at screening.\n- Active gastrointestinal disorders affecting nutrient absorption."
+            },
+            "gender": "All",
+            "minimum_age": "30 Years",
+            "maximum_age": "75 Years",
+            "healthy_volunteers": "No"
+        },
+        "overall_official": {
+            "last_name": "Thomas D. Smith, MD",
+            "role": "Principal Investigator",
+            "affiliation": "National Diabetes Foundation"
+        },
+        "location": {
+            "facility": {
+                "name": "National Diabetes Clinical Research Centers",
+                "address": {
+                    "city": "New York",
+                    "state": "New York",
+                    "zip": "10001",
+                    "country": "United States"
+                }
+            }
+        },
+        "location_countries": {
+            "country": "United States"
+        },
+        "verification_date": "January 2018",
+        "study_first_submitted": "January 12, 2016",
+        "study_first_submitted_qc": "January 15, 2016",
+        "study_first_posted": "January 20, 2016",
+        "last_update_submitted": "December 1, 2017",
+        "last_update_posted": "January 5, 2018",
+        "responsible_party": {
+            "responsible_party_type": "Principal Investigator",
+            "investigator_affiliation": "National Diabetes Foundation",
+            "investigator_full_name": "Thomas D. Smith",
+            "investigator_title": "Doctor of Medicine"
+        },
+        "keyword": ["sitagliptin", "type 2 diabetes", "glycemic variability", "patient-reported outcomes"],
+        "condition_browse": {
+            "mesh_term": "Diabetes Mellitus, Type 2"
+        },
+        "intervention_browse": {
+            "mesh_term": "Sitagliptin Phosphate"
+        },
+        "clinical_results": {
+            "participant_flow": {
+                "group_list": {
+                    "group": [{
+                        "title": "Sitagliptin",
+                        "description": "Sitagliptin 100 mg daily for 24 weeks"
+                    },
+                    {
+                        "title": "Placebo",
+                        "description": "Matching placebo once daily for 24 weeks"
+                    }]
+                },
+                "period_list": {
+                    "period": {
+                        "title": "Overall Study",
+                        "milestone_list": {
+                            "milestone": [{
+                                "title": "STARTED",
+                                "participants_list": {
+                                    "participants": [null, null]
+                                }
+                            },
+                            {
+                                "title": "COMPLETED",
+                                "participants_list": {
+                                    "participants": [null, null]
+                                }
+                            },
+                            {
+                                "title": "NOT COMPLETED",
+                                "participants_list": {
+                                    "participants": [null, null]
+                                }
+                            }]
+                        }
+                    }
+                }
+            },
+            "baseline": {
+                "group_list": {
+                    "group": [{
+                        "title": "Sitagliptin",
+                        "description": "Sitagliptin 100 mg daily for 24 weeks"
+                    },
+                    {
+                        "title": "Placebo",
+                        "description": "Matching placebo once daily for 24 weeks"
+                    }]
+                },
+                "measure_list": {
+                    "measure": [{
+                        "title": "Age",
+                        "units": "years",
+                        "param": "Median",
+                        "dispersion": "Standard Deviation",
+                        "class_list": {
+                            "class": {
+                                "category_list": {
+                                    "category": {
+                                        "measurement_list": {
+                                            "measurement": [null, null]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }]
+                }
+            },
+            "reported_events": {
+                "group_list": {
+                    "group": [{
+                        "title": "Sitagliptin",
+                        "description": "Sitagliptin 100 mg daily for 24 weeks"
+                    },
+                    {
+                        "title": "Placebo",
+                        "description": "Matching placebo once daily for 24 weeks"
+                    }]
+                },
+                "serious_events": {
+                    "category_list": {
+                        "category": {
+                            "title": "Total, serious adverse events",
+                            "counts": [null, null]
+                        }
+                    }
+                },
+                "other_events": {
+                    "frequency_threshold": "0",
+                    "category_list": {
+                        "category": {
+                            "title": "Total, other adverse events",
+                            "counts": [null, null]
+                        }
+                    }
+                }
+            }
+        },
+        "limitations_and_caveats": "Despite a robust design, significant restrictions in the eligibility criteria led to insufficient enrollment, limiting the statistical power of the trial. This lack of diversity in the participant pool may have compromised the external validity of the study results."
+    }
+}
+```

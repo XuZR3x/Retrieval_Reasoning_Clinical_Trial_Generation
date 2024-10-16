@@ -1,0 +1,357 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT00123456"
+    },
+    "id_info": {
+      "org_study_id": "ABC-12345",
+      "secondary_id": ["NCI-2008-04567", "NEJM-ABC123", "CDR0000076578"],
+      "nct_id": "NCT00123456"
+    },
+    "brief_title": "Bicalutamide Combined with Radiation Therapy and Androgen Deprivation in Locally Advanced Prostate Cancer",
+    "official_title": "A Phase III Multi-Center Randomized Trial of Bicalutamide With Radiation Therapy versus Radiation Therapy Alone in Patients with Locally Advanced Prostate Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Comprehensive Cancer Research Network",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "Comprehensive Cancer Research Network",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "RATIONALE: The treatment of locally advanced prostate cancer often requires a combination of therapies for optimal results. Bicalutamide, an antiandrogen, can effectively reduce androgen levels and inhibit prostate cancer growth. Coupling this therapy with radiation may provide synergistic effects through simultaneous targeting of cancerous tissues.",
+      "purpose": "To evaluate whether the addition of bicalutamide to standard radiation therapy improves overall survival and quality of life in patients with locally advanced prostate cancer compared to radiation therapy alone."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\r\n\r\nI. To assess the impact of bicalutamide in combination with radiation therapy on overall survival rates in patients with locally advanced prostate cancer.\r\n\r\nII. To evaluate disease-specific survival and progression-free survival between patients receiving combined treatment versus radiation alone.\r\n\r\nIII. To measure the quality of life changes using validated instruments to determine the holistic benefits of bicalutamide treatment in conjunction with radiation therapy.\r\n\r\nOUTLINE: This 2-arm multicenter randomization trial involves stratifying patients by Gleason score and PSA levels. Patients are assigned to one of two arms.\r\n\r\n- Arm I: Participants receive 150 mg of bicalutamide orally once daily alongside standard radiation therapy (74 Gy over 37 fractions).\r\n\r\n- Arm II: Participants receive solely standard radiation therapy (74 Gy over 37 fractions). Treatment continues for a planned duration of 6 months in both arms."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2006",
+    "completion_date": "December 2015",
+    "primary_completion_date": "June 2015",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Survival at 5 years",
+      "time_frame": "5 years from randomization",
+      "description": "The primary endpoint is defined as the proportion of participants alive at 5 years post-randomization."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Disease-Specific Survival at 5 years",
+        "time_frame": "5 years from randomization",
+        "description": "Evaluate the proportion of participants who survive without disease-specific mortality."
+      },
+      {
+        "measure": "Quality of Life Changes",
+        "time_frame": "Assessed at baseline, 3 months, and 6 months following treatment initiation",
+        "description": "Measured using the EORTC QLQ-C30 and the FACT-P questionnaires."
+      },
+      {
+        "measure": "Time to Disease Progression",
+        "time_frame": "5 years from randomization",
+        "description": "Time from randomization to the first documented disease progression."
+      },
+      {
+        "measure": "Rate of Surgical Intervention for Local Control",
+        "time_frame": "5 years after initiation of treatment",
+        "description": "Incidence of surgical treatments required for symptomatic local disease control."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1200",
+    "condition": "Locally Advanced Prostate Cancer",
+    "arm_group": [
+      {
+        "arm_group_label": "Bicalutamide + Radiation",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive bicalutamide in conjunction with radiation therapy."
+      },
+      {
+        "arm_group_label": "Radiation Therapy Alone",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive radiation therapy alone without bicalutamide."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Bicalutamide",
+        "description": "150 mg orally once daily in combination with radiation therapy.",
+        "arm_group_label": "Bicalutamide + Radiation"
+      },
+      {
+        "intervention_type": "Radiation",
+        "intervention_name": "Radiation Therapy",
+        "description": "74 Gy administered over 37 fractions in both arms.",
+        "arm_group_label": ["Bicalutamide + Radiation", "Radiation Therapy Alone"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Histologically confirmed adenocarcinoma of the prostate, clinical stage T3-4, N0, M0.\r\n- Initial PSA level at least 20 ng/mL.\r\n- ECOG performance status of 0-2.\r\n- Life expectancy of greater than 5 years.\r\n- Adequate organ function with no contraindications to radiation therapy.\r\n\r\nExclusion Criteria:\r\n\r\n- Prior prostate cancer treatment (surgery, radiation). \r\n- Concurrent severe medical illnesses or non-cancer related comorbidities that may compromise participation."
+      },
+      "gender": "Male",
+      "minimum_age": "18 Years",
+      "maximum_age": "79 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": [
+      {
+        "last_name": "John Doe, MD",
+        "role": "Principal Investigator",
+        "affiliation": "Comprehensive Cancer Research Network"
+      },
+      {
+        "last_name": "Jane Smith, MD",
+        "role": "Study Chair",
+        "affiliation": "National Cancer Institute"
+      }
+    ],
+    "location": [
+      {
+        "facility": {
+          "name": "Comprehensive Cancer Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "General Hospital Cancer Program",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Citywide Cancer Network Facility",
+          "address": {
+            "city": "Chicago",
+            "state": "Illinois",
+            "zip": "60601",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2020",
+    "study_first_submitted": "January 1, 2005",
+    "study_first_submitted_qc": "January 8, 2005",
+    "study_first_posted": "January 15, 2005",
+    "results_first_submitted": "March 15, 2015",
+    "results_first_submitted_qc": "April 15, 2015",
+    "results_first_posted": "May 1, 2015",
+    "last_update_submitted": "December 1, 2020",
+    "last_update_submitted_qc": "December 1, 2020",
+    "last_update_posted": "December 5, 2020",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Bicalutamide",
+      "Prostate Cancer",
+      "Radiation Therapy",
+      "Androgen Deprivation"
+    ],
+    "condition_browse": {
+      "mesh_term": "Prostatic Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": "Bicalutamide"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "1200 participants were recruited across multiple centers from January 2006 to June 2011.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bicalutamide + Radiation",
+              "description": "Patients received bicalutamide with radiation."
+            },
+            {
+              "title": "Radiation Therapy Alone",
+              "description": "Patients received radiation therapy without bicalutamide."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "Eligible patients who did not withdraw",
+        "group_list": {
+          "group": [
+            {
+              "title": "Bicalutamide + Radiation",
+              "description": "Patients receiving bicalutamide and radiation."
+            },
+            {
+              "title": "Radiation Therapy Alone",
+              "description": "Patients receiving radiation without bicalutamide."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [null, null, null]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [
+            {
+              "title": "Age",
+              "units": "years",
+              "param": "Median",
+              "dispersion": "Full Range"
+            },
+            {
+              "title": "Sex: Male",
+              "units": "Participants",
+              "param": "Count of Participants"
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Overall Survival at 5 years",
+            "description": "The proportion of participants alive at 5 years post-randomization.",
+            "time_frame": "5 years from randomization.",
+            "population": "All participants",
+            "measure": {
+              "title": "Overall Survival Rate",
+              "population": "Total population (n=1200)",
+              "units": "percentage of participants",
+              "param": "Number"
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Disease-Specific Survival",
+            "description": "Survival rate excluding deaths from non-prostate cancer causes.",
+            "time_frame": "5 years from randomization.",
+            "population": "Eligible patients",
+            "measure": {
+              "title": "Disease-Specific Survival Rate",
+              "units": "percentage of participants",
+              "param": "Number"
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "desc": "All participants receiving treatment were monitored for adverse events.",
+        "group_list": {
+          "group": {
+            "title": "Overall Population",
+            "description": "Monitoring for adverse effects across all enrolled participants."
+          }
+        },
+        "serious_events": {
+          "default_vocab": "CTCAEv4",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Total Serious Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total Serious Adverse Events",
+                    "counts": [null]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "10",
+          "default_vocab": "CTCAEv4",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Other Adverse Events",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Total Other Adverse Events",
+                    "counts": [null]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "certain_agreements": {
+        "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+        "restrictive_agreement": "There is NOT an agreement between Principal Investigators and the Sponsor that restricts the PI's rights to publish trial results."
+      },
+      "point_of_contact": {
+        "name_or_title": "John Smith, MD",
+        "organization": "Comprehensive Cancer Research Network",
+        "email": "john.smith@cancerresearchnetwork.org"
+      }
+    }
+  }
+}
+```

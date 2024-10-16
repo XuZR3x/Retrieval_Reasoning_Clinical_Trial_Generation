@@ -1,0 +1,150 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03567890"
+    },
+    "id_info": {
+      "org_study_id": "SYNERGY",
+      "nct_id": "NCT03567890"
+    },
+    "brief_title": "Synergistic Therapy of Peginterferon Alfa-2a and Nucleos(t)ide Analogues in Patients With Chronic Hepatitis B Infection",
+    "acronym": "SYNERGY",
+    "official_title": "A Phase 3, Randomized, Open-Label, Multicenter Study to Evaluate the Efficacy and Safety of Peginterferon Alfa-2a Combined With Nucleos(t)ide Analogues in Achieving HBsAg Seroclearance in Chronic Hepatitis B Patients",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Research Institute",
+        "agency_class": "Other"
+      }
+    },
+    "source": "Global Health Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of peginterferon alfa-2a combined with nucleos(t)ide analogues in achieving seroclearance of hepatitis B surface antigen (HBsAg) in patients with chronic hepatitis B infection. The study investigates the synergistic effect of dual therapy and aims for sustained virological response."
+    },
+    "detailed_description": {
+      "textblock": "A phase 3, randomized, open-label, multicenter study where eligible participants with chronic hepatitis B infection will receive either peginterferon alfa-2a in conjunction with nucleos(t)ide analogue therapy or monotherapy with nucleos(t)ide analogues. The study evaluates HBsAg seroclearance rates as the primary endpoint after 48 weeks of intervention, with longitudinal tracking for additional therapeutic outcomes."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2019",
+    "completion_date": "December 2022",
+    "primary_completion_date": "June 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Rate of HBsAg Seroclearance",
+      "time_frame": "At week 48 after treatment initiation",
+      "description": "The rate of HBsAg seroclearance defined as undetectable levels at week 48 compared to baseline."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Rate of HBsAg Seroconversion",
+        "time_frame": "At week 48",
+        "description": "Measured as the ratio of participants achieving seroconversion at week 48 versus baseline."
+      },
+      {
+        "measure": "Change in HBsAg levels",
+        "time_frame": "At weeks 12, 24, 36, and 48",
+        "description": "Assessment of HBsAg levels from baseline to the specified weeks in both treatment groups."
+      },
+      {
+        "measure": "Change in HBV DNA levels",
+        "time_frame": "At weeks 12, 24, 36, and 48",
+        "description": "Evaluation of HBV DNA as a measure of viral suppression throughout treatment duration."
+      },
+      {
+        "measure": "Safety profile including adverse events",
+        "time_frame": "Throughout the treatment period",
+        "description": "Reporting of adverse events, serious adverse events, and discontinuations related to treatment."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "220",
+    "condition": "Chronic Hepatitis B",
+    "arm_group": [
+      {
+        "arm_group_label": "Experimental: Peginterferon Alfa-2a + Nucleos(t)ide Analogues",
+        "arm_group_type": "Experimental",
+        "description": "Participants will receive peginterferon alfa-2a (180 mcg) subcutaneously once weekly combined with either lamivudine (100 mg) or entecavir (0.5 mg) daily for 48 weeks."
+      },
+      {
+        "arm_group_label": "Control: Nucleos(t)ide Analogues Monotherapy",
+        "arm_group_type": "Active Comparator",
+        "description": "Participants will receive nucleos(t)ide analogue therapy (either lamivudine 100 mg or entecavir 0.5 mg) given orally daily for 48 weeks."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Peginterferon alfa-2a",
+        "description": "180 mcg subcutaneous injection once weekly for 48 weeks",
+        "arm_group_label": ["Experimental: Peginterferon Alfa-2a + Nucleos(t)ide Analogues"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Nucleos(t)ide analogues",
+        "description": "Either lamivudine (100 mg) or entecavir (0.5 mg) administered daily for 48 weeks",
+        "arm_group_label": ["Experimental: Peginterferon Alfa-2a + Nucleos(t)ide Analogues", "Control: Nucleos(t)ide Analogues Monotherapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adult patients aged 18 to 75 years diagnosed with chronic hepatitis B infection (HBsAg positive for >6 months).\r\n2. Initial HBV DNA <2000 IU/mL and ALT <200 IU/L prior to therapy.\r\n3. Signed informed consent form and willingness to comply with study protocols.\r\n\r\nExclusion Criteria:\r\n1. Evidence of decompensated liver disease or hepatocellular carcinoma.\r\n2. Previous treatment with peginterferon alfa-2a or other interferons.\r\n3. Active co-infection with hepatitis C, HIV, or significant comorbidities affecting liver function.\r\n4. Pregnancy or breastfeeding."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Sandra Lee, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Global Health Research Center",
+        "address": {
+          "city": "Boston",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2023",
+    "study_first_submitted": "April 12, 2018",
+    "study_first_submitted_qc": "April 15, 2018",
+    "study_first_posted": "April 20, 2018",
+    "last_update_submitted": "January 5, 2023",
+    "last_update_submitted_qc": "January 5, 2023",
+    "last_update_posted": "January 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Global Health Research Institute",
+      "investigator_full_name": "Sandra Lee",
+      "investigator_title": "MD"
+    },
+    "keyword": ["chronic hepatitis B", "peginterferon alfa-2a", "nucleos(t)ide analogues", "HBsAg seroclearance"],
+    "condition_browse": {
+      "mesh_term": ["Hepatitis B", "Hepatitis B, Chronic"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Peginterferon alfa-2a", "Nucleos(t)ide analogues"]
+    }
+  }
+}
+```

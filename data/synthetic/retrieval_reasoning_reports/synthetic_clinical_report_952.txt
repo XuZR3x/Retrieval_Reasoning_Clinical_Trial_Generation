@@ -1,0 +1,175 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT03009876"
+    },
+    "id_info": {
+      "org_study_id": "16789",
+      "secondary_id": "I4T-KD-NHAR",
+      "nct_id": "NCT03009876"
+    },
+    "brief_title": "Exploratory Trial of Ramucirumab Combined With Modified FOLFOX in Patients With Advanced Gastric Cancer",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Phase 2 Study Evaluating Ramucirumab in Combination With FOLFOX in Patients With Advanced Gastric or Gastroesophageal Junction Adenocarcinoma Who Have Failed Prior Therapies",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Eli Lilly and Company",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Eli Lilly and Company",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "The aim of this study is to assess the efficacy and safety of ramucirumab in combination with oxaliplatin and fluorouracil in individuals with advanced gastric cancer who have received prior treatments."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2017",
+    "completion_date": "June 2021",
+    "primary_completion_date": "March 2020",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "Randomization to radiographic documentation of disease progression or death from any cause (up to 24 months)",
+      "description": "PFS was defined as the interval from randomization to the first observed instance of disease progression or death, whichever occurred first, assessed according to RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival (OS)",
+        "time_frame": "Randomization to date of death from any cause (up to 30 months)",
+        "description": "Overall survival was defined as the time from randomization to death from any cause. Participants still alive at the end of the study were censored at the last known date alive."
+      },
+      {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "Randomization to radiographic documentation of progression (up to 24 months)",
+        "description": "The ORR was calculated as the proportion of participants achieving a complete response (CR) or partial response (PR) according to RECIST v1.1 criteria."
+      },
+      {
+        "measure": "Duration of Response (DoR)",
+        "time_frame": "From first documented response until disease progression or death (up to 24 months)",
+        "description": "DoR was defined as the time from the initial CR or PR to the first assessment indicating progressive disease."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "200",
+    "condition": ["Gastric Cancer", "Gastroesophageal Junction Adenocarcinoma"],
+    "arm_group": [
+      {
+        "arm_group_label": "Ramucirumab + Modified FOLFOX",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive ramucirumab 8 mg/kg IV along with oxaliplatin and fluorouracil for up to 6 cycles, followed by maintenance therapy until progression."
+      },
+      {
+        "arm_group_label": "Placebo + Modified FOLFOX",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receive placebo IV while receiving oxaliplatin and fluorouracil similarly to the experimental group."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Ramucirumab",
+        "description": "Administered IV at a dose of 8 mg/kg on Days 1 and 15 of each 28-day cycle.",
+        "arm_group_label": ["Ramucirumab + Modified FOLFOX"]
+      },
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Placebo",
+        "description": "Administered IV on Days 1 and 15 of each 28-day cycle.",
+        "arm_group_label": ["Placebo + Modified FOLFOX"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Oxaliplatin",
+        "description": "Administered IV at a dose of 85 mg/m² on Day 1.",
+        "arm_group_label": ["Ramucirumab + Modified FOLFOX", "Placebo + Modified FOLFOX"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Fluorouracil (5-FU)",
+        "description": "Administered as an IV bolus of 400 mg/m² on Day 1 and continuous infusion of 2400 mg/m² over 46 hours.",
+        "arm_group_label": ["Ramucirumab + Modified FOLFOX", "Placebo + Modified FOLFOX"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Histopathological confirmation of gastric or gastroesophageal junction adenocarcinoma.\r\n  - Presence of measurable disease based on RECIST v1.1.\r\n  - ECOG Performance Status of 0 or 1.\r\n  - Adequate organ function as determined by laboratory testing.\r\n  - Documented failure on prior therapies or unable to receive standard first-line treatment.\r\n\r\nExclusion Criteria:\r\n\r\n  - Active central nervous system metastases or leptomeningeal disease.\r\n  - Concurrent malignancies except for non-melanoma skin cancers.\r\n  - Prior treatment with ramucirumab or similar agents.\r\n  - History of significant cardiovascular events within the past 6 months.\r\n  - Uncontrolled intercurrent illness."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Johnson",
+      "role": "Clinical Research Coordinator",
+      "affiliation": "Eli Lilly and Company"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Eli Lilly and Company Research Facility",
+          "address": {
+            "city": "Indianapolis",
+            "state": "Indiana",
+            "zip": "46285",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["United States", "Japan", "South Korea"]
+    },
+    "verification_date": "March 2021",
+    "study_first_submitted": "November 10, 2016",
+    "study_first_posted": "November 15, 2016",
+    "results_first_submitted": "June 25, 2021",
+    "results_first_posted": "July 10, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": [
+      "Advanced Gastric Adenocarcinoma",
+      "Ramucirumab",
+      "Chemotherapy",
+      "Biomarkers"
+    ],
+    "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Progression-Free Survival (PFS)",
+            "description": "PFS was evaluated using RECIST v1.1 criteria.",
+            "population": "All randomized patients (technical difficulties led to missed assessments).",
+            "analyzed_list": {
+                "analyzed": {"units": "Participants", "scope": "Measure", "count_list": {"count": [null, null]}},
+                "class_list": {"class": {"category_list": {"category": {"measurement_list": {"measurement": [null, null]}}}}}}}
+            },
+            "units": "Months",
+            "param": "Median",
+            "dispersion": "95% Confidence Interval",
+            "analysis_list": {
+                "analysis": {
+                    "group_id_list": {"group_id": ["O1", "O2"]},
+                    "non_inferiority_type": "Superiority",
+                    "method": "Cox Regression",
+                    "param_value": "1.08",
+                    "p_value": "0.720"
+                }
+            }
+        }]
+    }
+  }
+}
+```

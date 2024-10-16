@@ -1,0 +1,383 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04267891"
+    },
+    "id_info": {
+      "org_study_id": "Lira-Vascular",
+      "nct_id": "NCT04267891"
+    },
+    "brief_title": "Evaluation of Liraglutide on Vascular Health in Patients with Type 2 Diabetes",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Efficacy of Liraglutide on Endothelial Function and Cardiovascular Events in Adults with Type 2 Diabetes",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Glucose Innovations Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Glucose Innovations Inc.",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the impact of liraglutide on endothelial function and overall vascular health in patients with type 2 diabetes over a 6-month period. The trial's interest stemmed from potential cardioprotective effects observed in prior studies."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study faced significant difficulties in patient recruitment and exhibited failure to meet targeted efficacy endpoints, leading to protocol reassessment.",
+    "start_date": "March 15, 2020",
+    "completion_date": "October 10, 2021",
+    "primary_completion_date": "May 15, 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change in Endothelial Function as Measured by Flow-Mediated Dilation (FMD)",
+      "time_frame": "Baseline, 6 months",
+      "description": "The primary outcome assessed changes in endothelial function via FMD in response to pharmacologic intervention with liraglutide."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change in HbA1c Levels",
+        "time_frame": "Baseline, 6 months",
+        "description": "Percentage change in glycosylated hemoglobin from baseline to endpoint."
+      },
+      {
+        "measure": "Incidence of Major Adverse Cardiovascular Events (MACE)",
+        "time_frame": "6 months",
+        "description": "Total number of cardiovascular events reported as a safety outcome over the study duration."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "50",
+    "condition": ["Diabetes Mellitus Type 2"],
+    "arm_group": [
+      {
+        "arm_group_label": "Liraglutide 1.2 mg",
+        "arm_group_type": "Experimental",
+        "description": "Participants receive liraglutide 1.2 mg subcutaneously once daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants receive placebo subcutaneously once daily."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Liraglutide",
+        "arm_group_label": "Liraglutide 1.2 mg"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n- Participants aged 40-75 years with a diagnosis of type 2 diabetes for at least one year.\r\n- HbA1c between 6.5% and 9.0%.\r\n- BMI between 25 and 40 kg/m².\r\n\r\nExclusion Criteria:\r\n\r\n- Prior use of GLP-1 receptor agonists or insulin therapy.\r\n- History of significant cardiovascular event within the past 6 months.\r\n- Chronic renal impairment or active gastrointestinal disease."
+      },
+      "gender": "All",
+      "minimum_age": "40 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Matthew C. Sinclair, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Cardiovascular Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Cardiovascular Research Institute",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "January 2022",
+    "study_first_submitted": "January 12, 2020",
+    "study_first_submitted_qc": "January 15, 2020",
+    "study_first_posted": "January 20, 2020",
+    "last_update_submitted": "September 5, 2021",
+    "last_update_posted": "September 7, 2021",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Diabetes Mellitus", "Diabetes Mellitus, Type 2"]
+    },
+    "intervention_browse": {
+      "mesh_term": "Liraglutide"
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "The trial aimed to recruit 120 participants but faced substantial challenges, ultimately resulting in only 50 subjects completing the study protocol due to difficulties in meeting recruitment targets.",
+        "group_list": {
+          "group": [
+            {
+              "title": "Liraglutide 1.2 mg",
+              "description": "50 participants were randomized in the liraglutide arm."
+            },
+            {
+              "title": "Placebo",
+              "description": "50 participants were randomized in the placebo arm."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [50, 50]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": [25, 25]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [25, 25]
+                  }
+                }
+              ]
+            },
+            "drop_withdraw_reason_list": {
+              "drop_withdraw_reason": [
+                {
+                  "title": "Limited Efficacy Demonstrated",
+                  "participants_list": {
+                    "participants": [10, 10]
+                  }
+                },
+                {
+                  "title": "Adverse Events",
+                  "participants_list": {
+                    "participants": [5, 4]
+                  }
+                },
+                {
+                  "title": "Withdrawal by Subject",
+                  "participants_list": {
+                    "participants": [10, 11]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "group_list": {
+            "group": [
+              {
+                "title": "Liraglutide 1.2 mg",
+                "description": "Baseline characteristics included overall age, comorbidities, and baseline HbA1c levels."
+              },
+              {
+                "title": "Placebo",
+                "description": "Baseline characteristics included overall age, comorbidities, and baseline HbA1c levels."
+              }
+            ]
+          },
+          "analyzed_list": {
+            "analyzed": {
+              "units": "Participants",
+              "scope": "Overall",
+              "count_list": {
+                "count": [50, 50]
+              }
+            },
+            "measure_list": {
+              "measure": [
+                {
+                  "title": "Age",
+                  "units": "years",
+                  "param": "Mean",
+                  "dispersion": "Standard Deviation",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [53.1, 51.5]
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Sex: Female, Male",
+                  "units": "Participants",
+                  "param": "Count of Participants",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": [
+                          {
+                            "title": "Female",
+                            "measurement_list": {
+                              "measurement": [20, 21]
+                            }
+                          },
+                          {
+                            "title": "Male",
+                            "measurement_list": {
+                              "measurement": [30, 29]
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "title": "Duration of Diabetes",
+                  "units": "years",
+                  "param": "Mean",
+                  "dispersion": "Standard Deviation",
+                  "class_list": {
+                    "class": {
+                      "category_list": {
+                        "category": {
+                          "measurement_list": {
+                            "measurement": [6.5, 7.0]
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "baseline": {
+            "group_list": {
+              "group": [
+                {
+                  "title": "HbA1c levels",
+                  "description": "Mean HbA1c level measured at baseline was recorded as 7.5 for liraglutide group and 7.4 for placebo."
+                },
+                {
+                  "title": "Fasting Plasma Glucose (FPG)",
+                  "description": "The average FPG level at baseline was similarly noted."
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "reported_events": {
+      "time_frame": "The adverse events were collected from week 0 to week 12.",
+      "desc": "During the trial, the number of adverse events associated with liraglutide raised safety concerns, with gastrointestinal disturbances leading to protocol adjustment.",
+      "group_list": {
+        "group": [
+          {
+            "title": "Liraglutide 1.2 mg",
+            "description": "Adverse events reported include nausea, vomiting, and abdominal pain, with five cases of severe gastrointestinal reactions resulting in withdrawal."
+          },
+          {
+            "title": "Placebo",
+            "description": "Adverse events reported were significantly lower, primarily comprising mild transient reactions."
+          }
+        ]
+      }
+    },
+    "serious_events": {
+      "default_vocab": "MedDRA version 23.0",
+      "default_assessment": "Systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total Adverse Events",
+            "event_list": {
+              "event": {
+                "sub_title": "Total serious adverse events",
+                "counts": [3, 1]
+              }
+            }
+          },
+          {
+            "title": "Gastrointestinal Disorders",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Nausea",
+                  "counts": [5, 0]
+                },
+                {
+                  "sub_title": "Severe Abdominal Pain",
+                  "counts": [2, 0]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "other_events": {
+      "frequency_threshold": "5",
+      "default_vocab": "MedDRA version 23.0",
+      "default_assessment": "Systematic Assessment",
+      "category_list": {
+        "category": [
+          {
+            "title": "Total Other Events",
+            "event_list": {
+              "event": {
+                "sub_title": "Total, other adverse events",
+                "counts": [0, 5]
+              }
+            }
+          },
+          {
+            "title": "Respiratory Disorders",
+            "event_list": {
+              "event": [
+                {
+                  "sub_title": "Upper Respiratory Tract Infection",
+                  "counts": [4, 5]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "certain_agreements": {
+      "pi_employee": "Principal Investigators are NOT employed by the organization sponsoring the study.",
+      "restrictive_agreement": "The sponsor reserves the right to postpone release of results until all investigations are completed and data analyzed."
+    },
+    "point_of_contact": {
+      "name_or_title": "Clinical Trials Coordination Office",
+      "organization": "Glucose Innovations Inc.",
+      "email": "contact@glucoseinnovations.com"
+    }
+  }
+}
+```

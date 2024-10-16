@@ -1,0 +1,214 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "NCI-2011-02234",
+      "secondary_id": ["NCI-2011-02234", "EORTC-32034", "CDR0000674328", "EORTC-ACR2290", "EORTC-32034", "U10CA032001", "U10CA021456"],
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Cixutumumab in Combination with Chemotherapy for Patients with Metastatic Pancreatic Cancer",
+    "official_title": "A Phase II Randomized Study of Cixutumumab (IMC-A12) with FOLFIRINOX versus FOLFIRINOX Alone in Patients with Unresectable Metastatic Pancreatic Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "National Cancer Institute (NCI)",
+        "agency_class": "NIH"
+      }
+    },
+    "source": "National Cancer Institute (NCI)",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This randomized phase II trial investigated the efficacy of cixutumumab in conjunction with FOLFIRINOX, to determine whether this combination could improve treatment outcomes in patients with unresectable metastatic pancreatic cancer. Previous studies have shown cixutumumab's potential in modulating tumor signaling; however, concerns about its effectiveness due to insufficient receptor engagement and other factors warrant further exploration."
+    },
+    "detailed_description": {
+      "textblock": "PRIMARY OBJECTIVES:\n\nI. To evaluate progression-free survival (PFS) in patients with metastatic pancreatic cancer receiving cixutumumab in addition to FOLFIRINOX compared to those receiving FOLFIRINOX alone.\n\nSECONDARY OBJECTIVES:\n\nI. To determine overall survival (OS) between the two treatment arms.\nII. To assess response rates for each treatment regimen via RECIST criteria.\nIII. To analyze the safety profiles of both treatment outcomes to identify adverse events and toxicities associated with cixutumumab.\n\nOUTLINE: Patients are randomized into two treatment arms.\n\nARM I: Patients receive cixutumumab (10 mg/kg IV) on days 1 and 15 along with FOLFIRINOX.\n\nARM II: Control group receiving FOLFIRINOX alone (Oxaliplatin, Irinotecan, Fluorouracil, Leucovorin) over a 28-day cycle.\n\nAssessments on toxicity and treatment evaluation are carried out every 8 weeks during treatment, with subsequent follow-ups every 3 months post-treatment."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 1, 2011",
+    "completion_date": "December 15, 2015",
+    "primary_completion_date": "June 30, 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Progression-Free Survival",
+        "time_frame": "assessed every 8 weeks during treatment and up to 24 months post-treatment",
+        "description": "Defined as the time from randomization until disease progression or death due to any cause, whichever occurs first. Follow-up is censored for patients without progression at the date of last assessment."
+      }
+    ],
+    "secondary_outcome": [
+      {
+        "measure": "Overall Survival",
+        "time_frame": "assessed every 3 months for a total of 24 months",
+        "description": "Defined as the time from randomization until death from any cause. Survival data will be analyzed by Kaplan-Meier methods."
+      },
+      {
+        "measure": "Objective Response Rate",
+        "time_frame": "assessed every 8 weeks while on treatment",
+        "description": "Count of patients achieving complete response (CR) or partial response (PR) as per RECIST criteria over the duration of the study."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "120",
+    "condition": [
+      "Metastatic Pancreatic Cancer",
+      "Locally Advanced Unresectable Pancreatic Cancer"
+    ],
+    "arm_group": [
+      {
+        "arm_group_label": "Arm I (Cixutumumab, FOLFIRINOX)",
+        "arm_group_type": "Experimental",
+        "description": "Patients receive cixutumumab IV and FOLFIRINOX according to standard dosing protocols."
+      },
+      {
+        "arm_group_label": "Arm II (FOLFIRINOX)",
+        "arm_group_type": "Active Comparator",
+        "description": "Patients receive FOLFIRINOX alone."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Biological",
+        "intervention_name": "Cixutumumab",
+        "description": "Given IV",
+        "arm_group_label": "Arm I (Cixutumumab, FOLFIRINOX)",
+        "other_name": ["Anti-IGF-1R monoclonal antibody IMC-A12"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "FOLFIRINOX",
+        "description": "Given IV as per standard protocol",
+        "arm_group_label": ["Arm I (Cixutumumab, FOLFIRINOX)", "Arm II (FOLFIRINOX)"],
+        "other_name": ["Oxaliplatin", "Irinotecan", "Leucovorin", "Fluorouracil"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n- Histologically confirmed pancreatic adenocarcinoma\n- Metastatic disease or locally advanced unresectable disease\n- Measurable disease per RECIST criteria\n- No previous exposure to IGF-1R inhibitors\n- ECOG performance status 0-2\n\nExclusion Criteria:\n\n- Patients with prior therapy consisting of taxanes or anti-IGF-1R agents\n- Significant comorbidities that would compromise safety, including uncontrolled diabetes\n- Known hypersensitivity to cixutumumab or any component of FOLFIRINOX."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jane Doe",
+      "role": "Principal Investigator",
+      "affiliation": "Clinical Trials Network"
+    },
+    "location": {
+      "facility": {
+        "name": "General Oncology Hospital",
+        "address": {
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60616",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "August 2022",
+    "study_first_submitted": "November 15, 2010",
+    "study_first_posted": "December 1, 2010",
+    "results_first_submitted": "January 5, 2016",
+    "results_first_posted": "February 8, 2016",
+    "last_update_submitted": "August 15, 2024",
+    "last_update_posted": "August 16, 2024",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Pancreatic Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Paclitaxel", "Cixutumumab (IMC-A12)"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "group_list": {
+          "group": [
+            {
+              "title": "Arm I (Cixutumumab, FOLFIRINOX)",
+              "description": "Patients receive cixutumumab and FOLFIRINOX."
+            },
+            {
+              "title": "Arm II (FOLFIRINOX)",
+              "description": "Patients receive FOLFIRINOX."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [
+                {
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Eligible",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "Treated",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": ["Treatment continued until disease progression or intolerable toxicity.", null]
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": [null, null]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "baseline": {
+          "population": "Eligible patients",
+          "group_list": {
+            "group": [
+              {
+                "title": "Arm I (Cixutumumab, FOLFIRINOX)",
+                "description": "Combination therapy received."
+              },
+              {
+                "title": "Arm II (FOLFIRINOX)",
+                "description": "Control therapy received."
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+```

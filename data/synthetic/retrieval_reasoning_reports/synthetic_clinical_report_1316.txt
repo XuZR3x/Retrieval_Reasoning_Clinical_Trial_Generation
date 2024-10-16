@@ -1,0 +1,167 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+    },
+    "id_info": {
+      "org_study_id": "TRAS-BRE-1001",
+      "nct_id": "NCT01234567"
+    },
+    "brief_title": "Trastuzumab Combined with Chemotherapy in Patients with Advanced HER2-Positive Breast Cancer",
+    "official_title": "A Phase II Study on the Efficacy of Trastuzumab in Combination with Standard Chemotherapy in Patients with HER2-Positive Breast Cancer",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Oncology Research Group",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "PharmaCorp Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Oncology Research Group",
+    "oversight_info": {
+      "has_dmc": "No"
+    },
+    "brief_summary": {
+      "textblock": "This study aimed to evaluate the efficacy of trastuzumab in conjunction with chemotherapy agents in patients experiencing advanced HER2-positive breast cancer. The dual approach was hypothesized to improve clinical outcomes over chemotherapy alone."
+    },
+    "detailed_description": {
+      "textblock": "This is a multi-center, Phase II trial where eligible women aged 18 years or older with HER2-positive breast cancer will receive a regimen of trastuzumab along with a standard chemotherapy agent (chemotherapy regimen to be specified). Treatment will occur for a maximum of 6 cycles. If the disease is not progressing, trastuzumab will continue as a single agent. This trial includes periodic assessment of treatment response and safety, using Response Evaluation Criteria in Solid Tumors (RECIST) for evaluation.",
+      "primary_outcome": {
+        "measure": "Objective Response Rate (ORR)",
+        "time_frame": "12 months",
+        "description": "The overall percentage of patients experiencing a complete or partial response as defined by RECIST criteria."
+      },
+      "secondary_outcome": {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "12 months",
+        "description": "Time from treatment initiation until disease progression or death, evaluated every 2 months."
+      }
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study faced significant challenges, including low patient accrual (65 enrolled of 150 planned) and inadequate evidence of significant efficacy due to high rates of adverse events.",
+    "start_date": "March 2011",
+    "completion_date": "April 2015",
+    "primary_completion_date": "December 2014",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Objective Response Rate (ORR)",
+      "time_frame": "12 months",
+      "description": "The percentage of participants achieving a confirmed complete or partial response, determined via imaging studies."
+    },
+    "secondary_outcome": {
+      "measure": "Progression-Free Survival (PFS)",
+      "time_frame": "12 months",
+      "description": "The time from treatment initiation to either documented disease progression or death from any cause."
+    },
+    "number_of_arms": "2",
+    "enrollment": "65",
+    "condition": "Breast Cancer",
+    "arm_group": [{
+      "arm_group_label": "Arm I",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive trastuzumab with a specified standard chemotherapy regimen."
+    }, {
+      "arm_group_label": "Arm II",
+      "arm_group_type": "Active Comparator",
+      "description": "Patients will receive chemotherapy alone."
+    }],
+    "intervention": [{
+      "intervention_type": "Biological",
+      "intervention_name": "Trastuzumab",
+      "description": "Trastuzumab will be administered in accordance with the specified protocol for HER2-positive breast cancer.",
+      "arm_group_label": ["Arm I"]
+    }, {
+      "intervention_type": "Drug",
+      "intervention_name": "Standard Chemotherapy",
+      "description": "Patients in Arm I will receive a standard chemotherapy regimen alongside trastuzumab.",
+      "arm_group_label": ["Arm I"]
+    }],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Female > 18 years of age\n- Histologically confirmed HER2-positive breast cancer\n- Measurable disease as defined by RECIST\n- Adequate organ function and performance status (ECOG 0-2)\n- No prior trastuzumab or investigational therapies\n\nExclusion Criteria:\n- Uncontrolled or significant comorbidities\n- Concurrent severe infections\n- History of other malignancies within the past 5 years (except for treated skin cancers)\n- Pregnancy or lactation"
+      },
+      "gender": "Female",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Jessica M. Harper, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Oncology Research Group"
+    },
+    "location": [{
+      "facility": {
+        "name": "City Cancer Center",
+        "address": {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10001",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Metro Hospital Oncology Unit",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90001",
+          "country": "United States"
+        }
+      }
+    }, {
+      "facility": {
+        "name": "Sunrise Cancer Institute",
+        "address": {
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33101",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "link": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/example",
+      "description": "Related Info"
+    },
+    "results_reference": {
+      "citation": "Harper JM, Smith AR, Johnson CG, Doe J, Black M, White A. Evaluation of trastuzumab in patients with advanced HER2-positive breast cancer: A phase II trial. Cancer Therapies. 2015;37(3):265-74. doi: 10.1007/s12345-015-0170-0.",
+      "PMID": "26780045"
+    },
+    "verification_date": "May 2021",
+    "study_first_submitted": "January 15, 2011",
+    "study_first_submitted_qc": "January 15, 2011",
+    "study_first_posted": "January 20, 2011",
+    "last_update_submitted": "March 13, 2015",
+    "last_update_submitted_qc": "March 13, 2015",
+    "last_update_posted": "March 15, 2015",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["HER2-positive", "advanced breast cancer", "trastuzumab", "chemotherapy"],
+    "condition_browse": {
+      "mesh_term": "Breast Neoplasms"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Trastuzumab", "Chemotherapy"]
+    }
+  }
+}
+```

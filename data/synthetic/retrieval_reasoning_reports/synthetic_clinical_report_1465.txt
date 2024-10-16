@@ -1,0 +1,152 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02745678"
+    },
+    "id_info": {
+      "org_study_id": "ONC-2022-87",
+      "nct_id": "NCT02745678"
+    },
+    "brief_title": "Gemcitabine in Combination with Pembrolizumab for Advanced Pancreatic Cancer",
+    "official_title": "Phase II Trial of Gemcitabine and Pembrolizumab in Patients With Advanced Pancreatic Adenocarcinoma: A Multi-Center Study",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Center",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Merck Sharp & Dohme Corp.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Research Center",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "Advanced pancreatic cancer remains one of the deadliest malignancies, with limited effective treatment options. Gemcitabine is a standard chemotherapy agent, while pembrolizumab is an immune checkpoint inhibitor thought to enhance anti-tumor immune responses. This trial aims to investigate the efficacy and safety of the combination in this patient population."
+    },
+    "detailed_description": {
+      "textblock": "This multi-center phase II study sought to evaluate the combined efficacy of gemcitabine and pembrolizumab in patients diagnosed with unresectable pancreatic adenocarcinoma. The standard dosing regimen for gemcitabine was set at 1,000 mg/m2 on days 1, 8, and 15, administered in 28-day cycles. Pembrolizumab was planned for administration at 200 mg on day 1 of each cycle.\n\nDespite the theoretical basis for enhancing therapeutic efficacy through combination therapy, the trial encountered significant challenges. Specifically, limited patient recruitment plagued the study, as the stringent eligibility criteria and prior failure of publicly known trials that utilized gemcitabine rendered potential participants cynical regarding enrollment. Furthermore, adverse events were frequent and severe, leading to a high rate of treatment interruptions. The observed response rates starkly underperformed against expectations; less than 15% of patients experienced meaningful clinical benefit as defined by RECIST criteria."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Inadequate patient recruitment and limited efficacy noted during interim analysis.",
+    "start_date": "March 2016",
+    "completion_date": "May 2021",
+    "primary_completion_date": "February 2021",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "primary_outcome": {
+      "measure": "Overall Response Rate (ORR)",
+      "time_frame": "6 months",
+      "description": "To evaluate ORR according to RECIST v1.1 criteria."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Progression-Free Survival (PFS)",
+        "time_frame": "6 months",
+        "description": "To assess the time from treatment initiation until disease progression or death from any cause."
+      },
+      {
+        "measure": "Safety and Tolerability",
+        "time_frame": "Duration of treatment",
+        "description": "To evaluate the incidence of adverse events and quality of life using standardized measures."
+      }
+    ],
+    "number_of_arms": "1",
+    "enrollment": "35",
+    "condition": "Pancreatic Adenocarcinoma",
+    "arm_group": {
+      "arm_group_label": "Gemcitabine and Pembrolizumab",
+      "arm_group_type": "Experimental",
+      "description": "Patients will receive gemcitabine 1,000 mg/m2 on days 1, 8, and 15 and pembrolizumab 200 mg on day 1 of each 28-day treatment cycle."
+    },
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Gemcitabine",
+        "description": "Administered at 1,000 mg/m2 on days 1, 8, and 15 of a 28-day cycle."
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Pembrolizumab",
+        "description": "Administered at 200 mg on day 1 of each 28-day cycle."
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Histologically confirmed pancreatic adenocarcinoma, not amenable to surgical resection.\n  - ECOG Performance Status of 0-1.\n  - Age ≥ 18 years.\n  - Adequate organ function as defined by specific laboratory parameters.\n  - Signed informed consent.\n\nExclusion Criteria:\n\n  - Prior systemic therapy for pancreatic cancer.\n  - Known history of hypersensitivity to gemcitabine or pembrolizumab.\n  - Active autoimmune disease requiring systemic treatment.\n  - History of significant cardiovascular events within 6 months prior to enrollment."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Anna K. Stein, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Center"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Oncology Research Center",
+          "address": {
+            "city": "San Francisco",
+            "state": "California",
+            "zip": "94107",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Local Community Hospital",
+          "address": {
+            "city": "Oakland",
+            "state": "California",
+            "zip": "94607",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2022",
+    "study_first_submitted": "February 3, 2016",
+    "study_first_submitted_qc": "February 3, 2016",
+    "study_first_posted": "February 5, 2016",
+    "last_update_submitted": "February 10, 2022",
+    "last_update_submitted_qc": "February 15, 2022",
+    "last_update_posted": "February 20, 2022",
+    "responsible_party": {
+      "responsible_party_type": "Principal Investigator",
+      "investigator_affiliation": "Oncology Research Center",
+      "investigator_full_name": "Anna K. Stein",
+      "investigator_title": "Oncologist"
+    },
+    "keyword": ["gemcitabine", "pembrolizumab", "pancreatic cancer"],
+    "condition_browse": {
+      "mesh_term": ["Pancreatic Neoplasms"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Gemcitabine", "Pembrolizumab"]
+    },
+    "patient_data": {
+      "sharing_ipd": "No"
+    }
+  }
+}
+```

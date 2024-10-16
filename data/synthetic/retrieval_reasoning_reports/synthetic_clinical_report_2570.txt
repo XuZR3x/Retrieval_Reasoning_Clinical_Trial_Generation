@@ -1,0 +1,318 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02966874"
+    },
+    "id_info": {
+      "org_study_id": "AP-001-2024",
+      "secondary_id": "EudraCT number 2021-001234-23",
+      "nct_id": "NCT02966874"
+    },
+    "brief_title": "Efficacy and Safety of Aripiprazole in Reducing Anxiety Symptoms in Adolescents",
+    "official_title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial of Aripiprazole in Adolescents With Anxiety Disorders",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Global Health Research Institute",
+        "agency_class": "Non-Profit"
+      },
+      "collaborator": {
+        "agency": "Otsuka America Pharmaceuticals, Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Global Health Research Institute",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "The objective of this study is to evaluate the efficacy and safety of aripiprazole in adolescent patients diagnosed with various anxiety disorders over a 12-week treatment period."
+    },
+    "detailed_description": {
+      "textblock": "This trial was designed as a randomized double-blind control study encompassing 300 adolescent participants aged 12 to 18. The participants underwent a 2-week baseline assessment followed by random allocation to receive either aripiprazole or a placebo in addition to standard care. Clinical evaluations occurred weekly, assessing symptoms using the Children’s Anxiety Scale (CAS), alongside safety monitoring and metabolic assessments. Despite thorough recruitment efforts, participant enrollment was below target, leading to significant limitations in the statistical power necessary to assess treatment efficacy."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated primarily due to low enrollment and insufficient power to ascertain the primary endpoint effectiveness. Secondary reasons included high dropout rates attributed to intolerable side effects.",
+    "start_date": "April 2021",
+    "completion_date": "June 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": [{
+        "measure": "Change from Baseline in Anxiety Symptom Severity as measured by CAS",
+        "time_frame": "Baseline to Week 12"
+      },
+      {
+        "measure": "Incidence of Treatment Emergent Adverse Events (TEAEs)",
+        "time_frame": "From first dose up to 30 days post last dose"
+      }
+    ],
+    "secondary_outcome": [{
+        "measure": "Change from Baseline in Quality of Life as assessed by the Pediatric Quality of Life Inventory (PedsQL)",
+        "time_frame": "Baseline to Week 12"
+      },
+      {
+        "measure": "Change from Baseline in Functional Impairment scale",
+        "time_frame": "Baseline to Week 12"
+      }
+    ],
+    "enrollment": "300",
+    "condition": "Anxiety Disorders",
+    "arm_group": [{
+        "arm_group_label": "Aripiprazole",
+        "arm_group_type": "Experimental",
+        "description": "Participants received aripiprazole at doses of 5 to 15 mg/day, titrated based on clinical response and tolerability."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Participants received matching placebo tablets daily over the 12-week study period."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Aripiprazole",
+        "description": "Oral formulation of aripiprazole, provided in dosages ranging from 5 mg to 15 mg.",
+        "arm_group_label": "Aripiprazole",
+        "other_name": ["Abilify"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Oral tablets mimicking aripiprazole but containing no active drug.",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n\r\n  - Diagnosed with Generalized Anxiety Disorder (GAD), Social Anxiety Disorder, or specific phobia\r\n  - Age from 12 to 18 years\r\n  - English-speaking and able to provide assent\r\n  - Parental consent obtained\r\n\r\nExclusion Criteria:\r\n\r\n  - A history of substance use disorder within the past year\r\n  - Prior exposure to psychotropic medication within 3 months\r\n  - Any serious medical condition that may pose risk during treatment\r\n  - Diagnosed with schizophrenia or bipolar disorder\r\n  - Currently pregnant or nursing.",
+        "gender": "All",
+        "minimum_age": "12 Years",
+        "maximum_age": "18 Years",
+        "healthy_volunteers": "No"
+      }
+    },
+    "overall_official": {
+      "last_name": "Sarah Johnson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Global Health Research Institute"
+    },
+    "location": [{
+      "facility": {
+        "name": "Global Health Research Institute - Main Facility",
+        "address": {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States"
+        }
+      }
+    }],
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "October 1, 2020",
+    "study_first_submitted_qc": "October 1, 2020",
+    "study_first_posted": "October 5, 2020",
+    "last_update_submitted": "July 1, 2023",
+    "last_update_posted": "July 2, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "keyword": ["Anxiety Disorders", "Adolescent Psychiatry", "Aripiprazole", "Medication Management"],
+    "condition_browse": {
+      "mesh_term": ["Anxiety Disorders"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Aripiprazole"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 300 potential participants were screened, with only 150 successfully enrolled due to stringent selection criteria.",
+        "pre_assignment_details": "Of 150 enrolled, 120 participants were randomized to receive either aripiprazole or placebo.",
+        "group_list": {
+          "group": [{
+              "title": "Aripiprazole",
+              "description": "Aripiprazole was dosed at 5 to 15 mg/day based on clinical response."
+            },
+            {
+              "title": "Placebo",
+              "description": "Participants in this group received placebo tablets."
+            }
+          ]
+        },
+        "period_list": {
+          "period": {
+            "title": "Overall Study",
+            "milestone_list": {
+              "milestone": [{
+                  "title": "STARTED",
+                  "participants_list": {
+                    "participants": "150"
+                  }
+                },
+                {
+                  "title": "COMPLETED",
+                  "participants_list": {
+                    "participants": "0"
+                  }
+                },
+                {
+                  "title": "NOT COMPLETED",
+                  "participants_list": {
+                    "participants": "150"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "baseline": {
+        "population": "The Enrolled Sample included participants randomized to either treatment group.",
+        "group_list": {
+          "group": [{
+              "title": "Aripiprazole",
+              "description": "Patients undergoing treatment with aripiprazole."
+            },
+            {
+              "title": "Placebo",
+              "description": "Patients undergoing treatment with placebo."
+            }
+          ]
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [150, 120, 0]
+            }
+          }
+        },
+        "measure_list": {
+          "measure": [{
+              "title": "Age",
+              "units": "Years",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": {
+                      "measurement_list": {
+                        "measurement": [15, 1.5]
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "title": "Sex: Female, Male",
+              "units": "Participants",
+              "param": "Count of Participants",
+              "class_list": {
+                "class": {
+                  "category_list": {
+                    "category": [{
+                        "title": "Female",
+                        "measurement_list": {
+                          "measurement": [60]
+                        }
+                      },
+                      {
+                        "title": "Male",
+                        "measurement_list": {
+                          "measurement": [90]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+            "type": "Primary",
+            "title": "Change from Baseline in Anxiety Symptom Severity as measured by CAS",
+            "description": "Anxiety severity was assessed using the Children’s Anxiety Scale.",
+            "time_frame": "Baseline to Week 12",
+            "population": "Efficacy analysis set included all randomized participants.",
+            "group_list": {
+              "group": [{
+                  "title": "Aripiprazole",
+                  "description": "Participants receiving aripiprazole treatment."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Participants receiving placebo treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Change from Baseline Anxiety Severity",
+              "units": "Total score reduction",
+              "param": "Mean",
+              "dispersion": "Standard Deviation",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [60, 90]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "type": "Primary",
+            "title": "Incidence of Treatment Emergent Adverse Events (TEAEs)",
+            "description": "General adverse events reported during the study.",
+            "time_frame": "From first dose up to 30 days post last dose",
+            "population": "Safety analysis set included all participants receiving medication.",
+            "group_list": {
+              "group": [{
+                  "title": "Aripiprazole",
+                  "description": "Participants receiving aripiprazole treatment."
+                },
+                {
+                  "title": "Placebo",
+                  "description": "Participants receiving placebo treatment."
+                }
+              ]
+            },
+            "measure": {
+              "title": "Incidence of TEAEs",
+              "units": "Percentage of participants",
+              "param": "Number",
+              "analyzed_list": {
+                "analyzed": {
+                  "units": "Participants",
+                  "scope": "Measure",
+                  "count_list": {
+                    "count": [40, 45]
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```

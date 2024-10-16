@@ -1,0 +1,335 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04517830"
+    },
+    "id_info": {
+      "org_study_id": "U1234-2345",
+      "nct_id": "NCT04517830"
+    },
+    "brief_title": "Efficacy and Safety of Saxagliptin in Combination Therapy for Type 2 Diabetes Mellitus",
+    "official_title": "A Phase III, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy and Safety of Saxagliptin in Combination With Metformin and Sitagliptin in Patients With Type 2 Diabetes Insufficiently Controlled on Metformin Alone",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "AstraZeneca",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "AstraZeneca",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to assess the efficacy and safety of saxagliptin in a combined regimen with metformin and sitagliptin over a 24-week period in patients with Type 2 diabetes mellitus who exhibit poor glycemic control while on metformin."
+    },
+    "detailed_description": {
+      "textblock": "The clinical trial enrolled participants from 85 diverse centers across three continents, ensuring a wide representation of demographic and geographic variability. Participants were randomized into two arms: one receiving saxagliptin in addition to metformin and sitagliptin, and a control group receiving placebo alongside the same background therapies. The primary endpoint was the change from baseline in HbA1c at 24 weeks, accompanied by secondary endpoints evaluating FPG, postprandial glucose, and quality of life assessments."
+    },
+    "overall_status": "Completed",
+    "start_date": "January 2021",
+    "completion_date": "June 2022",
+    "primary_completion_date": "April 2022",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double (Participant, Investigator)"
+    },
+    "primary_outcome": {
+      "measure": "Change From Baseline in Hemoglobin A1c (HbA1c)",
+      "time_frame": "Baseline, Week 24",
+      "description": "Evaluated change from baseline in HbA1c levels after 24 weeks of treatment with saxagliptin versus placebo."
+    },
+    "secondary_outcome": [
+      {
+        "measure": "Change From Baseline in Fasting Plasma Glucose (FPG)",
+        "time_frame": "Baseline, Weeks 12 and 24",
+        "description": "Mean change from baseline in FPG levels at Weeks 12 and 24."
+      },
+      {
+        "measure": "Change From Baseline in Postprandial Glucose (PPG)",
+        "time_frame": "Baseline, Weeks 12 and 24",
+        "description": "Change from baseline in PPG response during standard meals."
+      },
+      {
+        "measure": "Assessment of Quality of Life Improvement",
+        "time_frame": "Weeks 24",
+        "description": "Evaluation of quality of life metrics, gauging participants' satisfaction and general well-being."
+      }
+    ],
+    "number_of_arms": "2",
+    "enrollment": "1200",
+    "condition": "Diabetes Mellitus, Type 2",
+    "arm_group": [
+      {
+        "arm_group_label": "Saxagliptin Combination Therapy",
+        "arm_group_type": "Experimental",
+        "description": "Saxagliptin 5 mg combined with Metformin XR and Sitagliptin."
+      },
+      {
+        "arm_group_label": "Placebo Combination Therapy",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Matching placebo combined with Metformin XR and Sitagliptin."
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Saxagliptin",
+        "description": "Tablets, Oral, 5 mg, once daily for 24 weeks.",
+        "arm_group_label": "Saxagliptin Combination Therapy",
+        "other_name": "Onglyza"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Tablets, Oral, 0 mg, once daily for 24 weeks.",
+        "arm_group_label": "Placebo Combination Therapy"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Metformin XR",
+        "description": "Extended-release tablets, Oral, standard dose as per prior treatment.",
+        "arm_group_label": ["Saxagliptin Combination Therapy", "Placebo Combination Therapy"]
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Sitagliptin",
+        "description": "Tablets, Oral, standard dose as per prior treatment.",
+        "arm_group_label": ["Saxagliptin Combination Therapy", "Placebo Combination Therapy"]
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria: \n- Diagnosed with Type 2 Diabetes Mellitus, aged 18-75 years.\n- HbA1c levels between 7% and 10% while on a stable regimen of metformin.\n- Must not have received any DPP-IV inhibitors or GLP-1 agonists within 12 weeks. \n\nExclusion Criteria:\n- History of acute or chronic pancreatitis.\n- Active liver disease or renal impairment.\n- Women of breastfeeding or childbearing potential not using effective contraception."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "75 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "John Smith",
+      "role": "Study Director",
+      "affiliation": "AstraZeneca"
+    },
+    "location": [
+      {
+        "facility": {
+          "name": "Clinical Research Center",
+          "address": {
+            "city": "New York",
+            "state": "New York",
+            "zip": "10001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "The Diabetes Institute",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "zip": "90001",
+            "country": "United States"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Global Diabetes Center",
+          "address": {
+            "city": "Toronto",
+            "province": "Ontario",
+            "zip": "M5H 2N2",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Advanced Diabetes Research Center",
+          "address": {
+            "city": "London",
+            "zip": "EC1A 2DB",
+            "country": "United Kingdom"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": [
+        "United States",
+        "Canada",
+        "United Kingdom"
+      ]
+    },
+    "verification_date": "July 2023",
+    "study_first_submitted": "September 1, 2020",
+    "study_first_submitted_qc": "September 2, 2020",
+    "study_first_posted": "September 4, 2020",
+    "results_first_submitted": "July 1, 2022",
+    "results_first_submitted_qc": "July 2, 2022",
+    "results_first_posted": "July 5, 2022",
+    "last_update_submitted": "July 10, 2023",
+    "last_update_submitted_qc": "July 10, 2023",
+    "last_update_posted": "July 12, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": "Diabetes Mellitus, Type 2"
+    },
+    "intervention_browse": {
+      "mesh_term": ["Saxagliptin", "Metformin", "Sitagliptin"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "recruitment_details": "A total of 1500 patients were screened, and 1200 were eligible and randomized into the trial.",
+        "pre_assignment_details": "Of those screened, 300 were excluded due to not meeting the eligibility criteria, primarily due to HbA1c levels below the threshold."
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "Saxagliptin Combination Therapy",
+            "description": "Patients receiving saxagliptin in addition to metformin and sitagliptin."
+          },
+          "group": {
+            "title": "Placebo Combination Therapy",
+            "description": "Patients receiving placebo in addition to metformin and sitagliptin."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": [600, 600]
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [
+          {
+            "type": "Primary",
+            "title": "Change From Baseline in Hemoglobin A1c (HbA1c)",
+            "description": "Mean decrease in HbA1c percentage at week 24 from the baseline levels.",
+            "time_frame": "Baseline, Week 24",
+            "population": "Participants who completed 24 weeks of treatment.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Saxagliptin Combination Therapy",
+                  "description": "Demonstrated a statistically significant reduction in HbA1c."
+                },
+                {
+                  "title": "Placebo Combination Therapy",
+                  "description": "Showed minimal change from baseline."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change From Baseline in Fasting Plasma Glucose (FPG)",
+            "description": "Evaluated the reduction in FPG levels post-treatment.",
+            "time_frame": "Baseline, Week 12 and 24",
+            "population": "Participants who completed treatment assessments.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Saxagliptin Combination Therapy",
+                  "description": "Significant decrease in FPG observed."
+                },
+                {
+                  "title": "Placebo Combination Therapy",
+                  "description": "No notable change from baseline."
+                }
+              ]
+            }
+          },
+          {
+            "type": "Secondary",
+            "title": "Change From Baseline in Quality of Life Assessment",
+            "description": "Measured improvements in the quality of life metric using standardized questionnaires.",
+            "time_frame": "Week 24",
+            "population": "Participants who completed questionnaires.",
+            "group_list": {
+              "group": [
+                {
+                  "title": "Saxagliptin Combination Therapy",
+                  "description": "Participants reported improved quality of life scores."
+                },
+                {
+                  "title": "Placebo Combination Therapy",
+                  "description": "Scores remained static."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "reported_events": {
+        "group_list": {
+          "group": {
+            "title": "Saxagliptin Combination Therapy",
+            "description": "Adverse events were documented, with careful monitoring."
+          }
+        },
+        "serious_events": {
+          "category_list": {
+            "category": {
+              "title": "Total",
+              "event_list": {
+                "event": {
+                  "sub_title": "Total serious adverse events",
+                  "counts": [0]
+                }
+              }
+            }
+          }
+        },
+        "other_events": {
+          "frequency_threshold": "5",
+          "default_vocab": "MedDRA 23.0",
+          "default_assessment": "Systematic Assessment",
+          "category_list": {
+            "category": [
+              {
+                "title": "Gastrointestinal disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Nausea",
+                    "counts": [15]
+                  }
+                }
+              },
+              {
+                "title": "Nervous system disorders",
+                "event_list": {
+                  "event": {
+                    "sub_title": "Headache",
+                    "counts": [18]
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "certain_agreements": {
+          "pi_employee": "Principal Investigators are not employed by the organization sponsoring the study.",
+          "restrictive_agreement": "The sponsor can review study results communications prior to public release."
+        }
+      }
+    }
+  }
+}
+```

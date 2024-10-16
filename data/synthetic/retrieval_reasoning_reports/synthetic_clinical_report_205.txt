@@ -1,0 +1,136 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+    },
+    "id_info": {
+      "org_study_id": "DBI-2023-04",
+      "nct_id": "NCT04567890"
+    },
+    "brief_title": "Efficacy and Safety of Dabigatran for Secondary Prevention of VTE in High-Risk Patients",
+    "acronym": "DEVIANT",
+    "official_title": "A Phase III, Multicenter, Randomized, Double-blind, Placebo-controlled Study Evaluating the Efficacy and Safety of Dabigatran Etexilate in Patients at High Risk of Recurrent Venous Thromboembolism Following Initial Treatment.",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Dabigatran Research Institute",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Dabigatran Research Institute",
+    "brief_summary": {
+      "textblock": "The study aims to investigate the safety and effectiveness of dabigatran etexilate for secondary prevention of recurrent VTE in patients previously treated for acute VTE. The intervention arms will compare dabigatran (150 mg BID) against placebo, with a focus on composite outcomes of recurrent VTE and VTE-related death."
+    },
+    "detailed_description": {
+      "textblock": "This trial was designed in recognition of the significant burden imposed by recurrent venous thromboembolism (VTE). Historical data suggest that the risk of recurrence is notably elevated within the first year post-treatment. Thus, there exists a critical need to establish efficacious therapeutic options that can mitigate this risk.\r\n\r\nThe trial will enroll approximately 3,000 participants from various healthcare settings across North America and Europe, allowing for a representative sample population. Participants will be randomized to receive either dabigatran or placebo, with the primary outcome being the composite of recurrent VTE and death attributable to VTE at the 12-month follow-up.\r\n\r\nWith a rigorous approach adopted for adverse event monitoring, the study will focus not only on efficacy but also on the assessment of bleeding events, specifically major and clinically relevant non-major bleeding, providing critical data on the safety profile of dabigatran in this high-risk population."
+    },
+    "overall_status": "Completed",
+    "start_date": "February 2021",
+    "completion_date": "July 30, 2023",
+    "primary_completion_date": "April 30, 2023",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Double"
+    },
+    "primary_outcome": {
+      "measure": "Composite of Recurrent VTE or VTE-associated Death",
+      "time_frame": "12 months",
+      "description": "This outcome is defined as the occurrence of symptomatic recurrent VTE (deep vein thrombosis or pulmonary embolism) or death directly related to VTE. All events will be verified through clinical and imaging assessments."
+    },
+    "secondary_outcome": [{
+      "measure": "Incidence of Major and Clinically Relevant Non-Major Bleeding",
+      "time_frame": "12 months",
+      "description": "This secondary outcome will involve monitoring the number of participants experiencing major bleeding events as defined by clinical criteria, alongside those with clinically relevant non-major bleeding."
+    }],
+    "number_of_arms": "2",
+    "enrollment": "3000",
+    "condition": "Venous Thromboembolism",
+    "arm_group": [{
+        "arm_group_label": "Dabigatran",
+        "arm_group_type": "Experimental",
+        "description": "Patients will receive dabigatran etexilate 150 mg orally twice daily."
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "Patients will receive matching placebo capsules taken orally twice daily."
+      }
+    ],
+    "intervention": [{
+        "intervention_type": "Drug",
+        "intervention_name": "Dabigatran etexilate",
+        "description": "Dabigatran 150 mg taken orally twice a day",
+        "other_name": "Pradaxa"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "Placebo",
+        "description": "Matching placebo capsules taken orally twice a day"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\r\n1. Adults aged 18 years and older with a confirmed diagnosis of acute symptomatic VTE and completed initial anticoagulant treatment.\r\n2. Patients at high risk of recurrent VTE as determined by clinical assessment.\r\n\r\nExclusion Criteria:\r\n1. History of hypersensitivity to dabigatran.\r\n2. Significant renal impairment (eGFR <30 mL/min) at screening.\r\n3. Active bleeding or a condition that increases the risk of bleeding.\r\n4. Currently receiving any other anticoagulants."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Dr. Angela Robertson, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Dabigatran Research Institute"
+    },
+    "location": [{
+        "facility": {
+          "name": "Dabigatran Research Institute",
+          "address": {
+            "city": "Toronto",
+            "state": "Ontario",
+            "country": "Canada"
+          }
+        }
+      },
+      {
+        "facility": {
+          "name": "Cardiovascular Research Institute",
+          "address": {
+            "city": "Los Angeles",
+            "state": "California",
+            "country": "United States"
+          }
+        }
+      }
+    ],
+    "location_countries": {
+      "country": ["Canada", "United States", "United Kingdom", "Germany"]
+    },
+    "verification_date": "August 2023",
+    "study_first_submitted": "October 12, 2020",
+    "study_first_submitted_qc": "October 12, 2020",
+    "study_first_posted": "October 15, 2020",
+    "last_update_submitted": "July 31, 2023",
+    "last_update_submitted_qc": "July 31, 2023",
+    "last_update_posted": "August 1, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor",
+      "investigator_affiliation": "Dabigatran Research Institute",
+      "investigator_full_name": "Angela Robertson, MD"
+    },
+    "condition_browse": {
+      "mesh_term": "Thromboembolism"
+    },
+    "intervention_browse": {
+      "mesh_term": "Dabigatran"
+    }
+  }
+}
+```

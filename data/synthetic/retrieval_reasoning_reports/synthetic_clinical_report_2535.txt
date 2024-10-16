@@ -1,0 +1,140 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on September 30, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT02345678"
+    },
+    "id_info": {
+      "org_study_id": "TOP-209",
+      "nct_id": "NCT02345678"
+    },
+    "brief_title": "Evaluation of Topiramate in Treating Chronic Pain Among Patients with Fibromyalgia",
+    "official_title": "A Randomized, Double-Blind, Placebo-Controlled Trial of the Efficacy and Safety of Topiramate in Patients with Fibromyalgia: A Focus on Pain, Sleep Disturbances, and Quality of Life",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Stanford University",
+        "agency_class": "Academic"
+      },
+      "collaborator": {
+        "agency": "National Institute of Health",
+        "agency_class": "Government"
+      }
+    },
+    "source": "Stanford University",
+    "oversight_info": {
+      "has_dmc": "Yes"
+    },
+    "brief_summary": {
+      "textblock": "This study aims to examine the efficacy of topiramate in reducing chronic pain symptoms and improving sleep quality in patients diagnosed with fibromyalgia."
+    },
+    "detailed_description": {
+      "textblock": "Fibromyalgia is a complex disorder characterized by widespread musculoskeletal pain, fatigue, and sleep disturbances. Currently, treatment options are limited, and there is a pressing need for effective therapeutic interventions. Topiramate is an anticonvulsant with proposed analgesic effects, making it a candidate for this condition.\n\nThe objective of this study is to evaluate both the effectiveness and safety profiles of topiramate compared to placebo in a population of patients diagnosed with fibromyalgia. The study will also investigate potential impacts on sleep quality and overall quality of life. Recruitment of participants is essential, but preliminary screening highlights barriers related to eligibility criteria and participant perception of the drug."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "Study was terminated due to insufficient participant recruitment and concerns regarding adverse event reporting.",
+    "start_date": "January 2016",
+    "completion_date": "July 2018",
+    "phase": "Phase 3",
+    "study_type": "Interventional",
+    "has_expanded_access": "No",
+    "study_design_info": {
+      "allocation": "Randomized",
+      "intervention_model": "Parallel Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)"
+    },
+    "primary_outcome": [
+      {
+        "measure": "Change in numerical pain rating scale (0-10) from baseline to end of treatment at 12 weeks.",
+        "time_frame": "12 weeks"
+      },
+      {
+        "measure": "Improvement in the Fibromyalgia Impact Questionnaire (FIQ) scores from baseline.",
+        "time_frame": "12 weeks"
+      }
+    ],
+    "secondary_outcome": {
+      "measure": "Changes in sleep quality assessed via Pittsburgh Sleep Quality Index (PSQI) from baseline to end of treatment.",
+      "time_frame": "12 weeks"
+    },
+    "number_of_arms": "2",
+    "enrollment": "30",
+    "condition": ["Fibromyalgia", "Chronic Pain"],
+    "arm_group": [
+      {
+        "arm_group_label": "Topiramate",
+        "arm_group_type": "Experimental",
+        "description": "topiramate 50mg orally for 4 weeks, escalated to 100mg orally for the following 8 weeks"
+      },
+      {
+        "arm_group_label": "Placebo",
+        "arm_group_type": "Placebo Comparator",
+        "description": "matching placebo pill orally for 12 weeks"
+      }
+    ],
+    "intervention": [
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "topiramate",
+        "description": "50mg orally for 4 weeks, then 100mg orally for the subsequent 8 weeks",
+        "arm_group_label": "Topiramate",
+        "other_name": "Topamax"
+      },
+      {
+        "intervention_type": "Drug",
+        "intervention_name": "placebo",
+        "description": "matching placebo pill orally for 12 weeks",
+        "arm_group_label": "Placebo"
+      }
+    ],
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Diagnosis of fibromyalgia according to ACR criteria.\n  - Age between 18 and 65 years.\n  - Chronic pain for at least three months.\n\nExclusion Criteria:\n\n  - Current use of topiramate.\n  - Known sensitivity to topiramate or other sulfonamides.\n  - Significant psychiatric disorders.\n  - History of seizures or other neurological disorders.\n  - Pregnancy or breastfeeding.\n  - Any prior surgical intervention for pain management."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "65 Years",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "Clara Masarik, Ph.D.",
+      "role": "Principal Investigator",
+      "affiliation": "Stanford University"
+    },
+    "location": {
+      "facility": {
+        "name": "Stanford Medical Center",
+        "address": {
+          "city": "Stanford",
+          "state": "California",
+          "zip": "94305",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "April 2020",
+    "study_first_submitted": "January 10, 2016",
+    "study_first_submitted_qc": "January 11, 2016",
+    "study_first_posted": "January 13, 2016",
+    "last_update_submitted": "March 15, 2020",
+    "last_update_submitted_qc": "March 15, 2020",
+    "last_update_posted": "March 16, 2020",
+    "responsible_party": {
+      "name_title": "Clara Masarik, Ph.D.",
+      "organization": "Stanford University"
+    },
+    "keyword": ["fibromyalgia", "chronic pain", "topiramate", "sleep quality", "quality of life"],
+    "condition_browse": {
+      "mesh_term": ["Fibromyalgia", "Chronic Pain"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Topiramate"]
+    }
+  }
+}
+```

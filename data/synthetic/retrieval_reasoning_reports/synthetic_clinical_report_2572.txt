@@ -1,0 +1,162 @@
+```json
+{
+  "clinical_study": {
+    "required_header": {
+      "download_date": "ClinicalTrials.gov processed this data on August 29, 2024",
+      "link_text": "Link to the current ClinicalTrials.gov record.",
+      "url": "https://clinicaltrials.gov/ct2/show/NCT04234567"
+    },
+    "id_info": {
+      "org_study_id": "PRP0078934",
+      "nct_id": "NCT04234567"
+    },
+    "brief_title": "Combination Therapy of Romidepsin with Pembrolizumab in Advanced Malignancies",
+    "official_title": "Phase II Study of Romidepsin with Pembrolizumab in Patients with Advanced Solid Tumors",
+    "sponsors": {
+      "lead_sponsor": {
+        "agency": "Oncology Research Institute",
+        "agency_class": "Other"
+      },
+      "collaborator": {
+        "agency": "Merck & Co., Inc.",
+        "agency_class": "Industry"
+      }
+    },
+    "source": "Oncology Research Institute",
+    "brief_summary": {
+      "textblock": "This clinical trial investigates the effectiveness and safety of combining romidepsin with the checkpoint inhibitor pembrolizumab in patients with advanced solid tumors who have failed prior therapies. The primary objective is to assess the overall response rate in the treatment population."
+    },
+    "detailed_description": {
+      "textblock": "OBJECTIVES:\n\n  - Determine the overall response rate of patients with advanced solid tumors receiving romidepsin combined with pembrolizumab.\n\n  - Evaluate the safety profile and adverse effects experienced by this population.\n\n  - Assess the pharmacological interactions between romidepsin and pembrolizumab, focusing on efficacy and toxicity.\n\nOUTLINE: This is a multicenter, open-label study.\n\nPatients receive romidepsin IV on days 1, 8, and 15 and pembrolizumab IV on day 1 of a 28-day cycle. Treatment continues until disease progression or unacceptable toxicity occurs.\n\nPatients are monitored every 6 weeks for response evaluation and experience of adverse events."
+    },
+    "overall_status": "Terminated",
+    "why_stopped": "The study was terminated due to insufficient efficacy observed in the target population and substantial toxicity experienced by participants, which compromised patient adherence and safety.",
+    "start_date": "March 2020",
+    "completion_date": "December 2022",
+    "phase": "Phase 2",
+    "study_type": "Interventional",
+    "study_design_info": {
+      "allocation": "N/A",
+      "intervention_model": "Single Group Assignment",
+      "primary_purpose": "Treatment",
+      "masking": "None (Open Label)"
+    },
+    "condition": "Advanced Solid Tumors",
+    "intervention": {
+      "intervention_type": "Drug",
+      "intervention_name": "romidepsin"
+    },
+    "eligibility": {
+      "criteria": {
+        "textblock": "Inclusion Criteria:\n\n  - Adults aged 18 years or older.\n\n  - Histologically confirmed advanced solid tumors with progressive disease after at least two prior therapies.\n\n  - Measurable disease via RECIST 1.1 criteria.\n\n  - Karnofsky performance status of 70% or greater.\n\n  - Adequate organ function as outlined in the protocol requirements.\n\nExclusion Criteria:\n\n  - Previous treatment with romidepsin or similar agents.\n\n  - Active autoimmune diseases or prior history of severe allergic reactions to immunomodulatory therapies.\n\n  - Uncontrolled intercurrent illness that would limit compliance with study requirements."
+      },
+      "gender": "All",
+      "minimum_age": "18 Years",
+      "maximum_age": "N/A",
+      "healthy_volunteers": "No"
+    },
+    "overall_official": {
+      "last_name": "James L. Hargrove, MD",
+      "role": "Principal Investigator",
+      "affiliation": "Oncology Research Institute"
+    },
+    "location": {
+      "facility": {
+        "name": "Oncology Research Institute",
+        "address": {
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States"
+        }
+      }
+    },
+    "location_countries": {
+      "country": "United States"
+    },
+    "verification_date": "May 2023",
+    "study_first_submitted": "January 15, 2020",
+    "study_first_posted": "January 20, 2020",
+    "last_update_posted": "June 10, 2023",
+    "responsible_party": {
+      "responsible_party_type": "Sponsor"
+    },
+    "condition_browse": {
+      "mesh_term": ["Neoplasms", "Solid Tumors"]
+    },
+    "intervention_browse": {
+      "mesh_term": ["Romidepsin", "Pembrolizumab"]
+    },
+    "clinical_results": {
+      "participant_flow": {
+        "pre_assignment_details": "Full study enrollment was planned but only 20 participants were enrolled before termination.",
+        "group_list": {
+          "group": {
+            "title": "Pomalidomide + Pembrolizumab Arm",
+            "description": "Patients received romidepsin IV on days 1, 8, and 15 in combination with pembrolizumab IV on day 1 of each 28-day cycle."
+          }
+        }
+      },
+      "baseline": {
+        "group_list": {
+          "group": {
+            "title": "All Patients",
+            "description": "Demographic and baseline characteristics were collected for all enrolled participants."
+          }
+        },
+        "analyzed_list": {
+          "analyzed": {
+            "units": "Participants",
+            "scope": "Overall",
+            "count_list": {
+              "count": 20
+            }
+          }
+        }
+      },
+      "outcome_list": {
+        "outcome": [{
+          "type": "Primary",
+          "title": "Overall Response Rate",
+          "description": "Evaluated the efficacy of the combination treatment based on RECIST criteria.",
+          "time_frame": "From study start to the time of maximum response observed before termination.",
+          "measure": {
+            "title": "Overall Response Rate",
+            "description": "The percentage of patients achieving a complete response or partial response.",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": 0
+                }
+              }
+            }
+          }
+        },{
+          "type": "Secondary",
+          "title": "Safety Profile Assessed by Adverse Events",
+          "time_frame": "Adverse events were recorded from baseline until the termination of study.",
+          "measure": {
+            "title": "Adverse Events",
+            "description": "Documented using CTCAE criteria, revealing higher than predicted incidences of severe toxicities, leading to treatment discontinuation.",
+            "analyzed_list": {
+              "analyzed": {
+                "units": "Participants",
+                "scope": "Measure",
+                "count_list": {
+                  "count": 15
+                }
+              }
+            }
+          }
+        }]
+      },
+      "reported_events": {
+        "time_frame": "Adverse events monitored throughout the study, particularly during the first treatment cycle.",
+        "desc": "Significant adverse events included severe fatigue, infusion reactions, and increased liver enzymes, leading to early discontinuation in 75% of patients."
+      }
+    }
+  }
+}
+```
