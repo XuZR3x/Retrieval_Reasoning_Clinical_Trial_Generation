@@ -23,16 +23,16 @@ cd data/raw
 wget https://clinicaltrials.gov/AllPublicXML.zip
 unzip AllPublicXML.zip -d ../trials
 ```
-Run ```bash preprocess/unzip.ipynb``` and ```bashpreprocess/get_trials.py```
+Run ```preprocess/unzip.ipynb``` and ```preprocess/get_trials.py```
 
 ### DrugBank
-Please download the drugbank ```bash vocabulary.csv``` from [DrugBank](https://go.drugbank.com/releases/latest#open-data) and place it in ```bash data/raw```, then run ```bash preprocess/data_filtering.ipynb```
+Please download the drugbank ```vocabulary.csv``` from [DrugBank](https://go.drugbank.com/releases/latest#open-data) and place it in ```data/raw```, then run ```preprocess/data_filtering.ipynb```
 
 ## Generation
 
-For clinical trial generation, replace the ```bash 'ADD-YOUR-API-KEY'``` in ```bash generation/retrieval_reasoning.ipynb```
-You can also see the 3,358 synthetic trials under ```bash data/synthetic/retrieval_reasoning_reports```, within ```bash data/synthetic```, you can also find the intervention names of that the synthetic clinical trials intend to have and they actually have, in ```bash correct_intervention_list.txt``` and ```bash generated_intervention_list.txt``` respectively. The labels of those trials can be found in ```bash retrieval_reasoning_label.txt```
+For clinical trial generation, replace the ```'ADD-YOUR-API-KEY'``` in ```generation/retrieval_reasoning.ipynb```
+You can also see the 3,358 synthetic trials under ```data/synthetic/retrieval_reasoning_reports```, within ```data/synthetic```, you can also find the intervention names of that the synthetic clinical trials intend to have and they actually have, in ```correct_intervention_list.txt``` and ```generated_intervention_list.txt``` respectively. The labels of those trials can be found in ```retrieval_reasoning_label.txt```
 
 ## Experiment
 
-For the in-distribution, generalization and ratio test mentioned in the paper, use the command ```bash cd evaluation```, and run ```bash fine_tune_rr_biobert.py```, ```bash fine_tune_rr_biobert_general.py``` and ```bash ratio.py``` respectively. For visualizations, please refer to ```bash visualization.ipynb```
+For the in-distribution, generalization and ratio test mentioned in the paper, use the command ```cd evaluation```, and run ```fine_tune_rr_biobert.py```, ```fine_tune_rr_biobert_general.py``` and ```ratio.py``` respectively. For visualizations, please refer to ```visualization.ipynb```
