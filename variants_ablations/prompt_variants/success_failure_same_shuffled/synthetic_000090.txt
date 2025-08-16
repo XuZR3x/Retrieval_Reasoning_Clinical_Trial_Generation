@@ -1,0 +1,62 @@
+```xml
+<clinicalTrial>
+    <trialTitle>Phase I/II Evaluation of Cabozantinib in Combination with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer</trialTitle>
+    <trialObjective>
+        This study aims to assess the maximum tolerated dose (MTD) and clinical efficacy of cabozantinib in combination with the immune checkpoint inhibitor pembrolizumab in patients with histologically confirmed advanced non-small cell lung cancer (NSCLC) who have progressed following prior chemotherapy and/or immunotherapy.
+    </trialObjective>
+    
+    <trialDesign>
+        This is a multi-center, open-label Phase I/II trial utilizing an adaptive design for dose escalation of cabozantinib, guided by tolerability and the incidence of adverse events. The trial includes a safety run-in Phase I component followed by a Phase II expansion at the MTD. 
+    </trialDesign>
+    
+    <intervention>
+        <treatment>Cabozantinib and Pembrolizumab</treatment>
+        <description>Cabozantinib will be administered orally at varying dose levels (20 mg, 40 mg, and 60 mg daily), initiated concurrently with pembrolizumab (200 mg intravenous every three weeks). The MTD will be defined based on the incidence of dose-limiting toxicities during the first cycle.</description>
+    </intervention>
+    
+    <eligibilityCriteria>
+        <inclusion>
+            <criteria>- Adults aged 18 years or older</criteria>
+            <criteria>- Histologically confirmed advanced or metastatic NSCLC, with at least 1 measurable lesion per RECIST 1.1 criteria</criteria>
+            <criteria>- ECOG performance status of 0-1</criteria>
+            <criteria>- Progressive disease following platinum-based chemotherapy and/or immune checkpoint inhibitors</criteria>
+            <criteria>- Adequate organ function (liver, renal, and hematological parameters within defined limits)</criteria>
+            <criteria>- Consent to undergo mandatory biopsies and pretreatment assessments</criteria>
+        </inclusion>
+        <exclusion>
+            <criteria>- Active central nervous system metastases</criteria>
+            <criteria>- Concurrent malignancies (except non-melanomatous skin carcinoma)</criteria>
+            <criteria>- Recent participation in other clinical trials within 28 days prior to enrollment</criteria>
+            <criteria>- History of severe allergic reactions to cabozantinib or pembrolizumab</criteria>
+            <criteria>- Significant uncontrolled intercurrent illness or infections prior to enrollment</criteria>
+        </exclusion>
+    </eligibilityCriteria>
+    
+    <primaryEndpoints>
+        <endpoint>
+            <description>Determination of the MTD of cabozantinib in combination with pembrolizumab in the Phase I component, evaluated by the frequency and severity of adverse events.</description>
+        </endpoint>
+        <endpoint>
+            <description>Assessment of overall response rate (ORR) according to RECIST 1.1 criteria in the Phase II expansion cohort.</description>
+        </endpoint>
+    </primaryEndpoints>
+    
+    <secondaryEndpoints>
+        <endpoint>
+            <description>Evaluation of progression-free survival (PFS) rates at 6 months and overall survival (OS) rates at 12 months.</description>
+        </endpoint>
+        <endpoint>
+            <description>Exploration of biomarker correlations in tumor tissues and plasma prior to and during treatment.</description>
+        </endpoint>
+    </secondaryEndpoints>
+    
+    <monitoring>
+        <description>Rigorous safety monitoring will be implemented, including weekly clinical assessments during the first treatment cycle and biweekly evaluations in subsequent cycles. Imaging studies will be conducted at the end of every two cycles.</description>
+    </monitoring>
+    
+    <rationale>
+        The study design leverages the advantages of a flexible dose-finding method, promoting individualized treatment approaches by adjusting cabozantinib dosing based on patient tolerability. By employing rigorous patient selection criteria, we ensure the inclusion of a cohort likely to benefit from dual-targeting therapy. Observations from earlier trials have suggested that cabozantinib’s inhibition of key angiogenesis pathways and its synergistic potential with immune checkpoint blockade can enhance therapeutic outcomes. The trial will provide critical data for subsequent phase studies and offer insights into combination therapy in NSCLC given the prevalence of resistant disease.
+    </rationale>
+
+</clinicalTrial>
+```

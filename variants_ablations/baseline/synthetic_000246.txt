@@ -1,0 +1,45 @@
+```xml
+<ClinicalTrial>
+    <TrialName>Randomized Phase II Study Evaluating Gefitinib with Pembrolizumab in Advanced Non-Small Cell Lung Cancer</TrialName>
+    <PrincipalInvestigator>Dr. Emily Thornton</PrincipalInvestigator>
+    <Affiliation>Oncology Research Institute, University Hospital</Affiliation>
+    <DateInitiated>2022-03-15</DateInitiated>
+    <Status>Failed</Status>
+    <Purpose>
+        This phase II trial aimed to determine the efficacy and safety of gefitinib in combination with pembrolizumab versus pembrolizumab alone in patients with advanced, EGFR-wild type, non-small cell lung cancer (NSCLC). The primary endpoint was the objective response rate (ORR).
+    </Purpose>
+    <InclusionCriteria>
+        <Criterion>Histologically or cytologically confirmed diagnosis of advanced NSCLC (Stage IIIB or IV)</Criterion>
+        <Criterion>EGFR mutation negative status</Criterion>
+        <Criterion>ECOG performance status of 0-1</Criterion>
+        <Criterion>Age 18-75</Criterion>
+        <Criterion>Compatible with clinical trial participation, as per signed informed consent</Criterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criterion>Patients with known EGFR mutations or ALK rearrangements</Criterion>
+        <Criterion>Prior treatment with any anti-PD-1 or anti-PD-L1 agents</Criterion>
+        <Criterion>Active autoimmune diseases requiring systemic treatment</Criterion>
+        <Criterion>History of severe hypersensitivity reactions to gefitinib or its components</Criterion>
+        <Criterion>Pregnant or lactating women</Criterion>
+    </ExclusionCriteria>
+    <Objectives>
+        <Objective>To evaluate the ORR in patients receiving gefitinib combined with pembrolizumab compared to pembrolizumab alone</Objective>
+        <Objective>To investigate the safety and tolerability of the gefitinib/pembrolizumab combination</Objective>
+    </Objectives>
+    <Rationale>
+        Despite the growing interest in combination immunotherapy for NSCLC, this trial suffered significant limitations attributed to multiple factors leading to its failure:
+        <Reason>Lack of Predictive Biomarkers: Initially, the selection of patients lacked stratification based on predictive biomarkers, notably the EGFR mutation status, resulting in a heterogeneous cohort which potentially diluted the true treatment effect.</Reason>
+        <Reason>Inadequate Patient Stratification: The absence of stratification for prior smoking history and tumor histology may have introduced variability in treatment responses, hampering the potential for gefitinib to demonstrate its efficacy.</Reason>
+        <Reason>Limited Sample Size and Statistical Power: The trial was terminated early due to recruitment challenges, leading to a sample size inadequate for meaningful statistical analysis, undermining the ability to compare treatment arms effectively.</Reason>
+        <Reason>Unfavorable Disease Characteristics: The cohort predominantly included patients with advanced-stage disease (Stage IV) with minimal prior treatment regimens, demonstrating aggressive tumor behavior that likely diminished the effectiveness of gefitinib alone or in combination.</Reason>
+    </Rationale>
+    <Methods>
+        <Method>Patients were randomized in a 1:1 ratio to receive either gefitinib (250 mg orally daily) plus pembrolizumab (200 mg IV every 3 weeks) or pembrolizumab alone for a maximum of 12 months or until disease progression.</Method>
+        <Method>Safety assessments were performed at every treatment cycle, with efficacy evaluated using RECIST v1.1 criteria for tumor response.</Method>
+    </Methods>
+    <Results>
+        <Outcome> The trial yielded an ORR of 15% in the gefitinib + pembrolizumab arm, versus 22% in the pembrolizumab monotherapy arm, failing to meet the predefined criteria for non-inferiority.</Outcome>
+        <AdverseEvents>The gefitinib group exhibited a notable incidence of treatment-related adverse events including interstitial lung disease, leading to premature discontinuation of therapy in several patients.</AdverseEvents>
+    </Results>
+</ClinicalTrial>
+```

@@ -1,0 +1,58 @@
+<ClinicalTrial>
+    <TrialTitle>Effects of Candesartan on Cardiovascular Risk Factors in Obese Individuals with Mixed Dyslipidemia</TrialTitle>
+    <TrialIdentifier>CCARD-029</TrialIdentifier>
+    <Hypothesis>The hypothesis of this study is that treatment with candesartan (16 mg/d for 24 weeks) significantly decreases the levels of low-density lipoprotein cholesterol (LDL-C), triglycerides, and inflammatory markers in obese individuals (BMI ≥30 kg/m²) with mixed dyslipidemia, while improving endothelial function as assessed by flow-mediated dilation (FMD), independent of blood pressure changes.</Hypothesis>
+    <GeneralObjectives>The primary objective is to assess the effect of candesartan on lipid profiles, inflammatory biomarkers, and endothelial function in obese subjects with mixed dyslipidemia. The secondary objective is to evaluate the correlation between changes in lipid profiles and endothelial function.</GeneralObjectives>
+    
+    <StudyDesign>
+        <DesignType>Randomized, Double-Blind, Placebo-Controlled, Parallel-Group</DesignType>
+        <Intervention>Candesartan (16 mg/d) administered for 24 weeks versus matching placebo with concurrent lifestyle modification intervention involving dietary education and physical activity.</Intervention>
+        <TotalDuration>48 months</TotalDuration>
+    </StudyDesign>
+    
+    <Population>
+        <TotalSubjects>150</TotalSubjects>
+        <InclusionCriteria>
+            <Criterion>Obese individuals aged 18-65 years with a BMI ≥30 kg/m².</Criterion>
+            <Criterion>Documented mixed dyslipidemia (LDL-C ≥130 mg/dL and/or triglycerides ≥150 mg/dL).</Criterion>
+            <Criterion>Resting blood pressure <140/90 mmHg, not on pharmacotherapy.</Criterion>
+        </InclusionCriteria>
+        <ExclusionCriteria>
+            <Criterion>History of cardiovascular disease including myocardial infarction, stroke, or unstable angina.</Criterion>
+            <Criterion>Use of any lipid-lowering therapy or anti-inflammatory medication in the past 3 months.</Criterion>
+            <Criterion>Known hypersensitivity to angiotensin II receptor antagonists.</Criterion>
+        </ExclusionCriteria>
+    </Population>
+    
+    <Procedures>
+        <RunInPeriod>14 days of placebo treatment and dietary measures</RunInPeriod>
+        <Randomization>Participants will be randomized in a 1:1 ratio to receive either candesartan or placebo after the run-in period based on adherence ≥80%.</Randomization>
+        <Monitoring>Follow-up visits will occur every 4 weeks to assess metabolic parameters and adherence.</Monitoring>
+        <Endpoints>
+            <PrimaryEndpoint>Change in LDL-C levels after 24 weeks compared to baseline.</PrimaryEndpoint>
+            <SecondaryEndpoints>
+                <Endpoint>Change in triglyceride levels after 24 weeks.</Endpoint>
+                <Endpoint>Change in inflammatory markers (CRP, IL-6) at 24 weeks.</Endpoint>
+                <Endpoint>Flow-mediated dilation (FMD) measurements at baseline and 24 weeks.</Endpoint>
+            </SecondaryEndpoints>
+        </Endpoints>
+    </Procedures>
+    
+    <StatisticalAnalysis>
+        <Strategy>The analysis of primary outcomes will be performed by intention-to-treat methodology using mixed-effects models to account for repeated measures.</Strategy>
+        <SignificanceLevel>Two-tailed p-value <0.05 will be considered statistically significant.</SignificanceLevel>
+    </StatisticalAnalysis>
+    
+    <EthicalAspects>
+        <Compliance>The study will conform to the Declaration of Helsinki and Good Clinical Practice Guidelines.</Compliance>
+        <InformedConsent>Written informed consent will be obtained from all participants prior to enrollment.</InformedConsent>
+    </EthicalAspects>
+    
+    <Background>
+        The prevalence of obesity and dyslipidemia has reached epidemic proportions globally, contributing significantly to cardiovascular morbidity and mortality. Candesartan, an angiotensin II receptor blocker, has been shown to have favorable effects on blood pressure and vascular function; however, its role in modifying lipid profiles in obese, dyslipidemic populations remains inadequately explored. Prior studies have suggested that angiotensin II receptor blockers could modulate inflammatory processes associated with dyslipidemia and promote vascular health by reducing oxidative stress and improving endothelial function. The necessity for tailored interventions in high-risk individuals underlines the significance of the current study aimed at examining the potential benefits of candesartan in the context of mixed dyslipidemia associated with obesity.
+    </Background>
+    
+    <Results>
+        <Conclusion>The primary endpoint of significant reduction in LDL-C levels was not achieved, and the treatment failed to demonstrate statistically significant differences when compared to placebo. Furthermore, no notable changes in inflammatory biomarkers or endothelial function were observed. The intended beneficial effects of candesartan on cardiovascular risk factors appear limited. Further research is warranted to explore alternative therapeutic strategies.</Conclusion>
+    </Results>
+</ClinicalTrial>

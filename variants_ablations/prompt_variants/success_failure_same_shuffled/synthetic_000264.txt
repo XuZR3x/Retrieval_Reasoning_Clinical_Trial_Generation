@@ -1,0 +1,70 @@
+```xml
+<ClinicalTrial>
+    <TrialTitle>Evaluating the Efficacy and Safety of Ipilimumab in Combination with Novel Vaccine Therapy for Patients with Stage IV Melanoma: A Multi-Center Phase 2 Study</TrialTitle>
+    
+    <StudyObjective>
+        This investigational study aims to assess the safety and efficacy of ipilimumab in conjunction with a novel peptide-based vaccine platform, aiming to stimulate an enhanced antitumor immune response in patients with unresectable Stage IV melanoma.
+    </StudyObjective>
+    
+    <Background>
+        Previous studies have indicated that ipilimumab exhibits a favorable safety profile and demonstrates significant antitumor activity when administered alone. Combining ipilimumab with additional immunotherapeutic agents may lead to a synergistic effect, improving clinical outcomes beyond what has been observed with monotherapeutic approaches.
+    </Background>
+    
+    <StudyDesign>
+        <Type>Multi-Center, Open-Label, Single Arm, Phase 2 Study</Type>
+        <PrimaryEndpoint>Objective Response Rate (ORR) defined by complete response (CR) and partial response (PR) using RECIST v1.1 criteria.</PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <Endpoint>Progression-Free Survival (PFS) and Overall Survival (OS)</Endpoint>
+            <Endpoint>Immunogenicity measured by the presence of T cells specific to tumor-associated antigens (TAA).</Endpoint>
+        </SecondaryEndpoints>
+        <StudyPopulation>
+            <InclusionCriteria>
+                <Criteria>Histologically confirmed Stage IV melanoma not amenable to surgical intervention</Criteria>
+                <Criteria>Age ≥ 18 years and ECOG performance status of 0-1</Criteria>
+                <Criteria>Patients must have at least one measurable lesion as per RECIST v1.1</Criteria>
+                <Criteria>Must be free of autoimmune diseases</Criteria>
+                <Criteria>Must consent to biomarker analysis and donate tumor tissue for study.</Criteria>
+            </InclusionCriteria>
+            <ExclusionCriteria>
+                <Criteria>Previous treatment with ipilimumab or any other immune checkpoint inhibitor</Criteria>
+                <Criteria>Active infection requiring systemic therapy</Criteria>
+                <Criteria>Presence of leptomeningeal disease</Criteria>
+                <Criteria>Concurrent malignancies, except for non-melanoma skin cancers</Criteria>
+                <Criteria>Pregnancy or lactation</Criteria>
+            </ExclusionCriteria>
+        </StudyPopulation>
+    </StudyDesign>
+    
+    <Intervention>
+        <Agent>
+            <Name>Ipilimumab</Name>
+            <Dosage>3 mg/kg</Dosage>
+            <Schedule>Administered intravenously every 21 days for a total of 4 doses.</Schedule>
+        </Agent>
+        <Co-AdministeredAgent>
+            <Name>Novel Peptide-Based Vaccine</Name>
+            <Dosage>Vaccination at Day 1 of each ipilimumab cycle</Dosage>
+            <Schedule>Administered alongside ipilimumab with a maximum of 8 doses.</Schedule>
+        </Co-AdministeredAgent>
+    </Intervention>
+    
+    <ImmunologicalMonitoring>
+        The study will employ comprehensive immunological monitoring to assess circulating T cell populations specific for TAA through blood draws at predefined intervals.
+    </ImmunologicalMonitoring>
+    
+    <ExpectedOutcome>
+        This trial anticipates an increase in the objective response rate, hypothesizing that the combination therapy will significantly enhance immune activation as indicated by immunological endpoints. Furthermore, the study aims to reinforce the established safety profile of ipilimumab, minimizing treatment-related adverse effects and assuring patient tolerability.
+    </ExpectedOutcome>
+    
+    <StatisticalAnalysis>
+        The primary endpoint will be analyzed using binomial tests to determine the response rates against historical controls with two-sided significance thresholds. Secondary endpoints will employ Kaplan-Meier survival analysis and Cox regression for PFS and OS, utilizing log-rank tests for comparison between groups.
+    </StatisticalAnalysis>
+    
+    <StudyDuration>
+        <TotalDuration>24 Months</TotalDuration>
+        <FollowUp>Post-treatment follow-up of 24 months for efficacy and safety assessment.</FollowUp>
+    </StudyDuration>
+
+    <ProjectedEnrollment>Approximately 50 subjects across multiple cancer care centers.</ProjectedEnrollment>
+</ClinicalTrial>
+```

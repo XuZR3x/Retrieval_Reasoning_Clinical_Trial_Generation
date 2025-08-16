@@ -1,0 +1,51 @@
+```xml
+<failed_clinical_trial>
+    <title>Phase III Study of Temozolomide Combined with Bevacizumab and Stereotactic Body Radiation Therapy in Patients with Recurrent Glioblastoma Multiforme (GBM)</title>
+    <abstract>This Phase III study aims to evaluate the safety, tolerability, and efficacy of temozolomide administered in combination with bevacizumab and stereotactic body radiation therapy (SBRT) in patients with recurrent glioblastoma multiforme (GBM). Given the complexity of GBM biology and established pharmacological challenges, this trial investigates whether synergistic effects can be achieved through this multimodal approach. The trial was terminated prematurely due to unanticipated adverse events, lack of significant progression-free survival, and complications arising from cumulative toxicity.</abstract>
+
+    <background>Recurrent glioblastoma multiforme remains a formidable challenge in neuro-oncology, characterized by pronounced heterogeneity and a myriad of resistance mechanisms. Previous studies have indicated that combining temozolomide with anti-angiogenic agents such as bevacizumab could potentially reverse resistance pathways and enhance treatment efficacy. However, single-agent efficacy of temozolomide in recurrent GBM has been documented as suboptimal, highlighting the need for innovative therapy regimens.</background>
+
+    <objectives>The primary objective of the study was to assess progression-free survival (PFS) rates between patients receiving temozolomide plus bevacizumab and SBRT compared to a control group receiving SBRT alone. Secondary objectives included overall survival (OS), response rate, and monitoring treatment-specific adverse effects over time.</objectives>
+
+    <methods>
+        <design>A randomized, open-label, multicenter Phase III trial.</design>
+        <inclusion_criteria>
+            <criterion>Histologically confirmed recurrent glioblastoma multiforme.</criterion>
+            <criterion>Patients aged 18 years and older.</criterion>
+            <criterion>Karnofsky Performance Status (KPS) ≥ 70.</criterion>
+            <criterion>Ability to provide informed consent.</criterion>
+            <criterion>Adequate bone marrow, hepatic, and renal function as per defined laboratory values.</criterion>
+        </inclusion_criteria>
+        <exclusion_criteria>
+            <criterion>History of severe hypersensitivity reactions to temozolomide or bevacizumab.</criterion>
+            <criterion>Underlying medical conditions that may compromise patient safety during the study.</criterion>
+            <criterion>Prior anti-angiogenic therapy or concurrent treatment with investigational agents.</criterion>
+            <criterion>Evidence of significant central nervous system infection or concurrent neoplastic diseases.</criterion>
+        </exclusion_criteria>
+        <treatment>
+            <group>
+                <intervention>Patients in the treatment arm received temozolomide at a dose of 150 mg/m² on days 1-5, combined with bevacizumab at 10 mg/kg every two weeks, along with SBRT targeting brain lesions.</intervention>
+            </group>
+            <group>
+                <intervention>Patients in the control arm received SBRT alone.</intervention>
+            </group>
+        </treatment>
+    </methods>
+
+    <outcomes>
+        <primary_endpoint>
+            <description>Progression-free survival (PFS) at 6 months post-initiation of treatment.</description>
+        </primary_endpoint>
+        <secondary_endpoints>
+            <endpoint>Overall survival (OS) measured from randomization to death from any cause.</endpoint>
+            <endpoint>Adverse events tracked according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v5.0.</endpoint>
+        </secondary_endpoints>
+    </outcomes>
+
+    <results>The study was prematurely halted after an interim analysis revealed cumulative toxicity leading to increased serious adverse events, including significant hematological perturbations and non-hematological side effects such as gastrointestinal bleeding. Among the enrolled participants, progression-free survival did not show significant improvement in the treatment cohort compared to the control group. Furthermore, the stringent inclusion criteria limited the generalizability of the trial outcomes, restricting possible beneficial responses from patients exhibiting unique biomarker profiles.</results>
+
+    <conclusions>The results of the study underscore the challenges inherent in addressing GBM heterogeneity through combination therapies. The anticipated synergistic effects between temozolomide, bevacizumab, and SBRT, based on preclinical data, could not be translated into clinical efficacy. Future trials should consider more inclusive biomarker-driven stratification and alternative combination strategies to effectively target the multifaceted nature of glioblastoma.</conclusions>
+
+    <overall_survival>Overall survival was evaluated as the time from randomization to the date of death from any cause, highlighting the need for diligent assessment methodologies in future clinical evaluations.</overall_survival>
+</failed_clinical_trial>
+```

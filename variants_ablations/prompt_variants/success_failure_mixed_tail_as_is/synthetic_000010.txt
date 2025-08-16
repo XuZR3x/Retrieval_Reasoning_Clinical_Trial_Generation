@@ -1,0 +1,55 @@
+```xml
+<ClinicalTrial>
+  <Title>A Single-Arm, Multicenter Phase 2 Study to Evaluate the Efficacy of Enzastaurin in Patients With Relapsed or Refractory B-cell Non-Hodgkin Lymphoma</Title>
+  
+  <Objective>
+    To assess the clinical activity of enzastaurin as a monotherapy in patients with relapsed or refractory B-cell non-Hodgkin lymphoma (NHL), focusing on response rates and safety profile.
+  </Objective>
+  
+  <InclusionCriteria>
+    <Criterion>Age ≥ 18 years.</Criterion>
+    <Criterion>Histologically confirmed diagnosis of relapsed or refractory B-cell NHL, including Follicular Lymphoma, Diffuse Large B-cell Lymphoma, or Mantle Cell Lymphoma.</Criterion>
+    <Criterion>Patients must have received at least one prior line of systemic therapy and must not have received more than four previous lines of therapy.</Criterion>
+    <Criterion>Evidence of measurable disease, defined as an external tumor mass or lymph node(s) measuring at least 1.5 cm in the longest dimension.</Criterion>
+    <Criterion>Eastern Cooperative Oncology Group (ECOG) Performance Status of 0, 1, or 2.</Criterion>
+    <Criterion>Prior treatment with monoclonal antibodies or chemotherapeutic agents must have concluded at least 4 weeks before enrollment.</Criterion>
+    <Criterion>Ability to provide informed consent.</Criterion>
+  </InclusionCriteria>
+  
+  <ExclusionCriteria>
+    <Criterion>Prior treatment with enzastaurin or any other phosphoinositide 3-kinase (PI3K) inhibitors.</Criterion>
+    <Criterion>Uncontrolled or active infections requiring systemic therapy.</Criterion>
+    <Criterion>History of significant cardiac disease within the last 6 months, including New York Heart Association (NYHA) Class III or IV heart failure.</Criterion>
+    <Criterion>Patients with central nervous system involvement by lymphoma.</Criterion>
+    <Criterion>Pregnant or breastfeeding women.</Criterion>
+  </ExclusionCriteria>
+  
+  <Endpoints>
+    <PrimaryEndpoint>
+      <Description>Overall response rate (ORR) defined as the proportion of patients achieving complete response (CR) or partial response (PR) according to the International Working Group criteria for NHL.</Description>  
+    </PrimaryEndpoint>
+    <SecondaryEndpoints>
+      <SecondaryEndpoint>Progression-free survival (PFS) and overall survival (OS).</SecondaryEndpoint>
+      <SecondaryEndpoint>Evaluation of safety and tolerability based on adverse event rates.</SecondaryEndpoint>
+    </SecondaryEndpoints>
+  </Endpoints>
+  
+  <Rationale>
+    Enzastaurin demonstrates a targeted mechanism of action by inhibiting the PI3K/AKT/mTOR signaling pathway, which is frequently dysregulated in B-cell malignancies. By specifically selecting a cohort of patients with relapsed or refractory diseases, we optimize the likelihood of attaining a favorable response to treatment. Robust response assessment criteria will ensure precise measurement of clinical benefit, leveraging the established International Working Group criteria, which contributes to the potential for successful outcomes. The strategy of focusing on patients with a limited prior therapy history aims to minimize confounding factors related to treatment resistance, improving the likelihood of observing meaningful responses. Additionally, enzastaurin's immunomodulatory properties may enhance patient outcomes by improving immune system recognition of malignant cells.
+  </Rationale>
+  
+  <TrialDesign>
+    <Description>This is a single-arm, multicenter, open-label Phase 2 trial. Eligible patients will receive single-agent enzastaurin at a dose of 250 mg orally once daily until disease progression, unacceptable toxicity, or withdrawal from the study.</Description>
+  </TrialDesign>
+  
+  <VisitSchedule>
+    <Visit>Baseline: Screening and baseline assessments.</Visit>
+    <Visit>Treatment: Weekly until treatment discontinuation.</Visit>
+    <Visit>Follow-up: Every 6 weeks for the first 6 months, then every 3 months thereafter, or until disease progression.</Visit>
+  </VisitSchedule>
+  
+  <DataAnalysis>
+    <Description>Descriptive statistics will be employed to summarize baseline characteristics. The ORR will be calculated with corresponding 95% confidence intervals. PFS and OS will be analyzed using Kaplan-Meier methodology.</Description>
+  </DataAnalysis>
+</ClinicalTrial>
+```

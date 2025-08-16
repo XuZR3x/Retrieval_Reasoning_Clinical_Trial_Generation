@@ -1,0 +1,51 @@
+```xml
+<ClinicalTrial>
+  <TrialName>A Randomised Phase III Study of Gefitinib Plus Chemotherapy Versus Chemotherapy Alone in Advanced Non-Small Cell Lung Cancer with Activating EGFR Mutations</TrialName>
+  <Objective>
+    The primary objective of this study is to evaluate the efficacy of gefitinib in combination with standard chemotherapy compared to chemotherapy alone in patients with advanced non-small cell lung cancer (NSCLC) harboring activating epidermal growth factor receptor (EGFR) mutations.
+  </Objective>
+  <Population>
+    This trial will recruit male and female patients aged 18-75 years, diagnosed with stage IIIB/IV NSCLC confirmed by histological evaluation, and possessing documented activating EGFR mutations. Participants must be treatment-naïve with no previous systemic therapy for advanced disease.
+  </Population>
+  <InclusionCriteria>
+    <Criterion>Histologically confirmed NSCLC with activating EGFR mutations.</Criterion>
+    <Criterion>Age 18-75 years.</Criterion>
+    <Criterion>Eastern Cooperative Oncology Group (ECOG) Performance Status of 0 or 1.</Criterion>
+    <Criterion>Measurable disease as defined by RECIST version 1.1.</Criterion>
+    <Criterion>Informed consent obtained prior to any study-specific procedures.</Criterion>
+    <Criterion>Patients must consent to undergo plasma cf-DNA analysis for mutation detection.</Criterion>
+    <Criterion>Appropriate organ function defined as: 
+      <Detail>
+        White blood cell count ≥3 x 10^9/L; absolute neutrophil count ≥1.5 x 10^9/L; platelet count ≥100 x 10^9/L; hemoglobin ≥9.0 g/dL; total bilirubin ≤1.5 ULN; AST/ALT ≤2.5 ULN (5 times ULN for liver metastases); calculated creatinine clearance ≥45 mL/min.
+      </Detail>
+    </Criterion>
+  </InclusionCriteria>
+  <ExclusionCriteria>
+    <Criterion>Prior systemic chemotherapy, immunotherapy, targeted therapy, or radiation therapy (except palliative).</Criterion>
+    <Criterion>Clinically significant interstitial lung disease or other significant uncontrolled medical conditions.</Criterion>
+    <Criterion>Pregnant or breastfeeding women.</Criterion>
+    <Criterion>Active CNS metastases or untreated brain lesions.</Criterion>
+    <Criterion>History of severe allergic reactions to gefitinib or its components.</Criterion>
+  </ExclusionCriteria>
+  <Methodology>
+    Patients will be randomized in a 1:1 ratio to receive either gefitinib in combination with standard chemotherapy (carboplatin/pemetrexed) or chemotherapy alone. The treatment regimen will be administered for a maximum of 6 cycles, with gefitinib continuing until disease progression or unacceptable toxicity. Progression-free survival (PFS) will be the primary endpoint, determined from randomization until the date of objective disease progression or death.
+  </Methodology>
+  <Endpoints>
+    <PrimaryEndpoint>Progression-free survival (PFS) as per RECIST criteria.</PrimaryEndpoint>
+    <SecondaryEndpoints>
+      <Endpoint>Overall survival (OS).</Endpoint>
+      <Endpoint>Objective response rate (ORR).</Endpoint>
+      <Endpoint>Quality of life (QoL) assessments using validated questionnaires.</Endpoint>
+    </SecondaryEndpoints>
+  </Endpoints>
+  <StatisticalAnalysis>
+    A sample size of 600 participants is calculated to provide 80% power to detect a statistically significant difference in PFS, assuming a two-sided alpha level of 0.05. Kaplan-Meier methods will be utilized for survival analysis, and comparisons between treatment arms will be made using the log-rank test.
+  </StatisticalAnalysis>
+  <Results>
+    The expected outcome is a superior PFS in patients receiving gefitinib in combination with chemotherapy, as previous studies indicate that activating EGFR mutations are predictive of enhanced response to EGFR-targeted therapies. Enhanced methodologies for mutation detection via cf-DNA analysis will facilitate the timely identification of candidates and enable dynamic monitoring of tumor response.
+  </Results>
+  <Conclusion>
+    This trial aims to establish a new standard of care by providing critical evidence of the benefits of integrating gefitinib into the treatment regimen for patients with advanced NSCLC, ultimately contributing to improved patient outcomes through personalized medicine strategies.
+  </Conclusion>
+</ClinicalTrial>
+```

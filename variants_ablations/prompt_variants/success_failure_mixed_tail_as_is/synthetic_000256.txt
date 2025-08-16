@@ -1,0 +1,60 @@
+```xml
+<clinicalTrial>
+    <title>A Phase I Trial Evaluating the Safety, Pharmacokinetics, and Antitumor Activity of BEZ235 in Patients With Relapsed or Refractory Lymphoid Malignancies</title>
+    
+    <studyDesign> 
+        <phase>I</phase> 
+        <type>Open-label, single-arm, multicenter</type> 
+    </studyDesign>
+    
+    <objectives>
+        <primary>
+            Establish the maximum tolerated dose (MTD) and recommend Phase 2 dose (RP2D) of BEZ235 administered orally twice daily in patients with relapsed or refractory lymphoid malignancies.
+        </primary>
+        <secondary>
+            Assess the safety, tolerability, and preliminary clinical efficacy of BEZ235 in this patient population.
+        </secondary>
+        <exploratory>
+            Evaluate pharmacokinetics and pharmacodynamics, focusing on biomarkers associated with the PI3K/mTOR pathway in relation to clinical outcomes.
+        </exploratory>
+    </objectives>
+    
+    <patientPopulation>
+        <inclusionCriteria>
+            <criterion>Adults aged ≥ 18 years with histologically confirmed relapsed or refractory lymphoid malignancies (including Non-Hodgkin Lymphoma and Chronic Lymphocytic Leukemia) after at least one prior therapy.</criterion>
+            <criterion>ECOG performance status ≤ 2.</criterion>
+            <criterion>Able to provide informed consent and comply with study requirements.</criterion>
+            <criterion>Life expectancy ≥ 12 weeks.</criterion>
+            <criterion>Normal serum potassium and magnesium levels or corrected with supplementation prior to first dose.</criterion>
+            <criterion>Pre-treatment assessment demonstrating adequate organ function (detailed criteria to align with prior successful trials).</criterion>
+        </inclusionCriteria>  
+        <exclusionCriteria>
+            <criterion>Prior treatment with PI3K or mTOR inhibitors.</criterion>
+            <criterion>Active systemic infections requiring therapeutic intervention.</criterion>
+            <criterion>History of significant cardiovascular conditions, including QTc prolongation or symptomatic arrhythmias.</criterion>
+            <criterion>Patients with uncontrolled hypertension or impaired gastrointestinal function affecting drug absorption.</criterion>
+            <criterion>Concurrent malignancies requiring active treatment except for non-invasive basal cell carcinoma or squamous cell carcinoma of the skin.</criterion>
+        </exclusionCriteria>
+    </patientPopulation>
+    
+    <treatmentPlan>
+        <description>Participants will receive BEZ235 orally at escalating doses commencing with 100 mg twice daily, with the possibility of increasing to determine the MTD based on dose-limiting toxicities observed.</description>
+        <timeframe>Treatment continues until disease progression, unacceptable toxicity, or patient withdrawal.</timeframe>
+    </treatmentPlan>
+    
+    <dataMonitoring>
+        <method>Continuous monitoring of treatment response and adverse events will be conducted at each follow-up visit, with interim analyses focusing on safety data performed after each cohort completes the prescribed treatment duration.</method>
+        <riskManagement>Strict protocols will ensure the identification of dose-limiting toxicities (DLTs) in accordance to predefined safety parameters established in earlier successful trials.</riskManagement>
+    </dataMonitoring>
+
+    <expectedOutcomes>
+        <clinicalEfficacy>
+            <parameter>Monitoring reduction in tumor burden as per RECIST criteria</parameter>
+            <parameter>Biomarker assessment from baseline to treatment conclusion, correlating PI3K/mTOR signaling with clinical efficacy.</parameter>
+        </clinicalEfficacy>
+        <adverseEvents>
+            <configuration>Tracking and reporting of any grade 3 or higher adverse events and establishing their relationship to BEZ235 through thorough clinical assessments.</configuration>
+        </adverseEvents>
+    </expectedOutcomes>
+</clinicalTrial>
+```

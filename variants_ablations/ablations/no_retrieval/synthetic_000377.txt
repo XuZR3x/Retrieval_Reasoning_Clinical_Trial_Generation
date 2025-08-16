@@ -1,0 +1,45 @@
+```xml
+<ClinicalTrial>
+  <Title>The Efficacy of Aspirin Versus Direct Oral Anticoagulants in Prevention of Recurrent Venous Thromboembolism</Title>
+  <Objective>This clinical trial aims to evaluate the efficacy and safety of aspirin in comparison to direct oral anticoagulants (DOACs) for the prevention of recurrent venous thromboembolism (VTE) in high-risk patients.</Objective>
+  <Background>Although aspirin has established antiplatelet properties, its role in preventing recurrent VTE remains inconclusive. A growing body of evidence suggests that aspirin may not provide sufficient antithrombotic protection due to its limited pharmacodynamic profile. Prior studies have indicated that aspirin co-administration could impair the necessary hemostatic mechanisms and compromise vascular remodeling essential for optimal venous return, paralleling findings in the failed COBA SHIELD OCT study where extended DAPT with aspirin did not substantially enhance vascular healing.</Background>
+  <Hypothesis>It is hypothesized that the treatment with direct oral anticoagulants will demonstrate a statistically superior rate of recurrent VTE prevention compared to aspirin in individuals at high risk, particularly in those with underlying pathophysiological abnormalities, such as thrombophilia.</Hypothesis>
+  
+  <Methods>
+    <Design>Multicenter, randomized, controlled trial.</Design>
+    <Participants>
+      <InclusionCriteria>
+        <Criterion>Adults aged 18-80 years with a confirmed history of unprovoked acute VTE.</Criterion>
+        <Criterion>Patients must be at high risk for recurrent VTE, defined by the presence of both active malignancy and/or genetic thrombophilia.</Criterion>
+        <Criterion>Written informed consent obtained from all participants.</Criterion>
+      </InclusionCriteria>
+      <ExclusionCriteria>
+        <Criterion>History of significant bleeding diathesis or hypersensitivity to aspirin or anticoagulants.</Criterion>
+        <Criterion>Concurrent treatment with other anticoagulants or antiplatelet medications.</Criterion>
+        <Criterion>Patients with significant liver or renal impairment, obstructive sleep apnea, or other comorbid conditions predisposing individuals to bleeding complications.</Criterion>
+      </ExclusionCriteria>
+    </Participants>
+    <Intervention>
+      <Group1>
+        <Description>Aspirin 325 mg daily for 12 months.</Description>
+      </Group1>
+      <Group2>
+        <Description>Direct oral anticoagulation with rivaroxaban 20 mg daily for 12 months.</Description>
+      </Group2>
+    </Intervention>
+    <Endpoints>
+      <PrimaryEndpoint>Rate of recurrent VTE within 12-month follow-up period.</PrimaryEndpoint>
+      <SecondaryEndpoints>
+        <Endpoint>Incidence of major bleeding events.</Endpoint>
+        <Endpoint>Patient-reported quality of life assessments, measured by validated VTE-specific questionnaires.</Endpoint>
+      </SecondaryEndpoints>
+    </Endpoints>
+  </Methods>
+  
+  <Results>The trial was prematurely discontinued due to the failure of aspirin to demonstrate a statistically significant reduction in recurrent VTE compared to the direct oral anticoagulants cohort. Furthermore, subjects treated with aspirin exhibited a higher incidence of major bleeding events, compounding the pharmacodynamic concerns identified in previous studies. Aspirin's antiplatelet effects were inadequate in preventing thrombus formation in this high-risk population, echoing the alarming trends observed in former trials such as the Cilostazol Stroke Prevention Study.</Results>
+
+  <Conclusion>In light of these findings, the anticipated dual benefits of aspirin as both an antiplatelet and anticoagulant in high-risk VTE patients proved insufficient. The data further underscores the importance of reconsidering aspirin's role in therapeutic algorithms involving venous thrombosis alongside emerging knowledge from related failed clinical trials. Given the implications for patient safety and clinical efficacy, clinicians should evaluate the pharmacological choices more judiciously in patients with recurrent VTE history.</Conclusion>
+  
+  <TrialRegistration>ISRCTN123456789</TrialRegistration>
+</ClinicalTrial>
+```

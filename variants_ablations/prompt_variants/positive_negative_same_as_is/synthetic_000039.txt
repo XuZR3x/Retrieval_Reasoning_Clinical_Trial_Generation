@@ -1,0 +1,70 @@
+```xml
+<clinicalTrial>
+    <title>Evaluation of Intravenous Ketamine for Chronic Pain Management in Conditions of Severe Intractable Pain</title>
+    
+    <abstract>
+        This randomized, double-blind, placebo-controlled trial investigates the efficacy of intravenous ketamine in the management of chronic pain in patients with severe intractable conditions, including cancer-related pain and fibromyalgia. The primary endpoint is to assess the reduction of pain scores measured by the Visual Analog Scale (VAS) following a single infusion of ketamine compared to a placebo. Secondary endpoints include evaluation of quality of life (QoL) via the Short Form-36 (SF-36) and assessment of overall functional improvement through the Oswestry Disability Index (ODI).
+    </abstract>
+
+    <methodology>
+        <studyDesign>
+            <description>This trial will employ a double-blind, placebo-controlled, two-arm parallel design aimed at minimizing bias and enhancing reliability of findings.</description>
+            <sampleSize>200</sampleSize>
+            <studyLocation>Multi-center study across 5 hospitals</studyLocation>
+        </studyDesign>
+
+        <participantCriteria>
+            <inclusionCriteria>
+                <criterion>Adults aged 18-75 years suffering from severe chronic pain (VAS ≥ 7) for a duration of at least 6 months.</criterion>
+                <criterion>No response to at least two conventional analgesic therapies.</criterion>
+                <criterion>Informed consent to participate in the study.</criterion>
+            </inclusionCriteria>
+
+            <exclusionCriteria>
+                <criterion>History of substance use disorder or psychiatric illness (excluding depression).</criterion>
+                <criterion>Allergic reactions to ketamine or other similar NMDA antagonists.</criterion>
+                <criterion>Active cardiovascular or neurological condition that contraindicates use of ketamine.</criterion>
+            </exclusionCriteria>
+        </participantCriteria>
+
+        <interventionArms>
+            <arm>
+                <name>Ketamine</name>
+                <dosage>IV infusion of 0.5 mg/kg over 40 minutes.</dosage>
+                <description>Ketamine’s rapid analgesic effects are expected to lead to a significant decrease in pain scores, in line with its established efficacy highlighted by previous trials using ketamine in postoperative settings.</description>
+            </arm>
+            <arm>
+                <name>Placebo</name>
+                <dosage>Matching saline infusion.</dosage>
+                <description>Saline infusion administered over 40 minutes to serve as a control group.</description>
+            </arm>
+        </interventionArms>
+    </methodology>
+
+    <endpoints>
+        <primaryEndpoint>
+            <description>Change in pain scores from baseline to Day 1 and Day 7 post-infusion.</description>
+        </primaryEndpoint>
+        <secondaryEndpoints>
+            <endpoint>QoL assessed by SF-36 over 7 days.</endpoint>
+            <endpoint>Functional improvement measured by ODI at baseline, Day 1 and Day 7.</endpoint>
+        </secondaryEndpoints>
+    </endpoints>
+
+    <statisticalAnalysis>
+        <description>A statistician will utilize an intention-to-treat approach for data analysis, applying descriptive statistics and appropriate inferential tests (e.g., Mann-Whitney U test) to compare pain, QoL, and functional scores between the ketamine and placebo groups.</description>
+        <alphaLevel>0.05</alphaLevel>
+        <powerCalculation>Achieved 80% power to detect a difference in VAS scores between groups.</powerCalculation>
+    </statisticalAnalysis>
+
+    <results>
+        <summary>The anticipated outcome is a statistically significant reduction in pain scores in the ketamine arm compared to placebo, confirming the drug's efficacy and the validity of the NMDA receptor antagonism mechanism, as established in other studies. Anticipated improvements in QoL and functional scores will also establish clinical relevance.</summary> 
+    </results>
+
+    <conclusion>
+        <description>This trial aims to substantiate ketamine's effectiveness as a rapid-acting analgesic in chronic pain management. Given the favorable outcomes previously reported, it is expected to contribute substantially to pain management protocols, enhancing symptom control for patients with challenging pain conditions.</description>
+    </conclusion>
+</clinicalTrial>
+``` 
+
+This report features a unique approach to the clinical application of ketamine, addressing a different patient population and pain management context, which adds diversity to the previously provided examples.

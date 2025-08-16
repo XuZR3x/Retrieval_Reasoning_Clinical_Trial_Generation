@@ -1,0 +1,50 @@
+```xml
+<clinicalTrial>
+    <title>Phase II Study of Oxaliplatin and Pembrolizumab in Advanced Non-Small Cell Lung Cancer (NSCLC)</title>
+    <objective>
+        The primary objective is to evaluate the overall response rate (ORR) of the combination of oxaliplatin and pembrolizumab in patients with advanced non-small cell lung cancer who have progression after platinum-based chemotherapy. Secondary objectives include assessing progression-free survival (PFS), overall survival (OS), and safety profile based on Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+    </objective>
+    <background>
+        This study is predicated on the hypothesis that the cytotoxic effects of oxaliplatin may synergize with the immune-checkpoint inhibition of pembrolizumab, yielding enhanced antitumor efficacy in a patient population defined by specific molecular markers. Comprehensive preclinical data suggest that this combination could potentiate immune response while mitigating resistance mechanisms seen with monotherapy approaches.
+    </background>
+    <inclusionCriteria>
+        - Histologically or cytologically confirmed diagnosis of advanced non-small cell lung cancer
+        - 1 or more measurable lesions as defined by RECIST V1.1 
+        - Performance status of Eastern Cooperative Oncology Group (ECOG) 0-1
+        - Prior treatment with platinum-based chemotherapy regimens, with progression documented by imaging
+        - Adequate organ function confirmed by laboratory results: 
+            - Absolute Neutrophil Count (ANC) ≥ 1500/mm³
+            - Platelets ≥ 100,000/mm³
+            - Serum creatinine ≤ 1.5 mg/dL
+            - Total bilirubin ≤ 1.5 times upper limit of normal (ULN)
+            - ALT/AST ≤ 1.5 × ULN (≤ 2.5 × ULN for patients with liver metastases)
+        - Patients must provide written informed consent
+        - No previous treatment with immune checkpoint inhibitors
+    </inclusionCriteria>
+    <exclusionCriteria>
+        - Active autoimmune disease requiring systemic treatment in the past 2 years
+        - History of severe hypersensitivity reactions to any monoclonal antibody
+        - Previous cancer treatment including chemotherapy, radiotherapy, or immunotherapy within 4 weeks prior to enrollment
+        - Central nervous system metastases or leptomeningeal disease
+        - Pregnant or breastfeeding women, or women of childbearing potential not using effective contraception
+        - Significant cardiovascular comorbidities, including uncontrolled hypertension or recent heart failure
+        - Patients with unresolved Grade 3 or higher adverse events from previous therapies
+    </exclusionCriteria>
+    <studyDesign>
+        <designType>Multicenter, open-label, Phase II clinical trial</designType>
+        <patientPopulation>
+            Approximately 120 patients will be enrolled across multiple centers with specialized lung cancer programs to ensure diversity in treatment response and data integrity.
+        </patientPopulation>
+    </studyDesign>
+    <treatmentRegimen>
+        <oxaliplatinAdministration>Oxaliplatin will be administrated intravenously at a dose of 85 mg/m² on Day 1 every 21 days.</oxaliplatinAdministration>
+        <pembrolizumabAdministration>Pembrolizumab will be administered intravenously at a fixed dose of 200 mg on Day 1 of each 21-day cycle.</pembrolizumabAdministration>
+    </treatmentRegimen>
+    <monitoring>
+        Regular biochemical analyses and imaging will be employed at baseline and every 6 weeks during therapy to assess efficacy and tolerability. Patients will also complete quality of life metrics (EORTC QLQ-C30) at baseline and each subsequent cycle to gauge treatment impact.
+    </monitoring>
+    <expectedOutcomes>
+        It is anticipated that the combination treatment will exceed historical ORR rates associated with either oxaliplatin or pembrolizumab alone in the defined patient cohort. Safety evaluation will be prioritized to mitigate the risk of neurotoxic events and infusion-related reactions inherent to oxaliplatin and pembrolizumab respectively.
+    </expectedOutcomes>
+</clinicalTrial>
+```

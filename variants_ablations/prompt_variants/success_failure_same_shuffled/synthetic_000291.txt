@@ -1,0 +1,86 @@
+```xml
+<clinical_trial>
+    <title>Evaluation of Aflibercept in First-line Therapy for Previously Untreated Patients with Unresectable Metastatic Colorectal Cancer</title>
+    <description>This multicenter phase III trial aims to evaluate the efficacy and safety of aflibercept when administered in combination with FOLFOX (Folinic acid, 5-Fluorouracil, and Oxaliplatin) for previously untreated patients with unresectable metastatic colorectal cancer. The study is designed to compare PFS and OS outcomes against the standard treatment regimen of FOLFOX alone, emphasizing the potential benefit of adding aflibercept for improved patient outcomes while minimizing toxicity through the OPTIMOX strategy.</description>
+    
+    <objective>
+        <primary>
+            Evaluate the efficacy of aflibercept combined with FOLFOX compared to FOLFOX alone with respect to progression-free survival (PFS) over a period of 12 months.
+        </primary>
+        <secondary>
+            Assess overall survival (OS) at 24 months and the safety profile of the combination therapy through adverse event rates and quality of life measures using validated questionnaires.
+        </secondary>
+    </objective>
+    
+    <inclusion_criteria>
+        <criterion>Written informed consent provided by the patient.</criterion>
+        <criterion>Pathologically confirmed adenocarcinoma of the colon or rectum.</criterion>
+        <criterion>Metastatic disease, not amenable to curative surgery.</criterion>
+        <criterion>No prior systemic therapy for metastatic disease.</criterion>
+        <criterion>At least one measurable lesion as determined by RECIST v1.1 criteria.</criterion>
+        <criterion>Aged ≥ 18 years.</criterion>
+        <criterion>ECOG Performance status of 0-2.</criterion>
+        <criterion>Hematologic parameters: ANC ≥1.5 x 10^9/L; platelets ≥100 x 10^9/L; hemoglobin ≥9 g/dL.</criterion>
+        <criterion>Normal hepatic and renal function as per pre-defined laboratory values.</criterion>
+    </inclusion_criteria>
+    
+    <exclusion_criteria>
+        <criterion>History of CNS metastasis that is currently symptomatic or untreated.</criterion>
+        <criterion>Significant concurrent non-malignant illness that can affect compliance or treatment.</criterion>
+        <criterion>Persistent uncontrolled hypertension.</criterion>
+        <criterion>Prior treatment with anti-VEGF agents.</criterion>
+        <criterion>Cardiac dysfunction or history of myocardial infarction within the past 6 months.</criterion>
+        <criterion>Active autoimmune diseases.</criterion>
+        <criterion>Known allergy to aflibercept or any of its components.</criterion>
+    </exclusion_criteria>
+    
+    <study_design>
+        <type>Multicenter, randomized, open-label, phase III trial.</type>
+        <randomization>1:1 randomization stratified by ECOG PS and site of involvement.</randomization>
+        <arms>
+            <arm>
+                <name>Experimental</name>
+                <treatment>Aflibercept (4 mg/kg) in combination with FOLFOX regimen every 14 days.</treatment>
+            </arm>
+            <arm>
+                <name>Control</name>
+                <treatment>FOLFOX regimen alone every 14 days.</treatment>
+            </arm>
+        </arms>
+    </study_design>
+
+    <outcomes>
+        <primary_outcome>
+            Progression-free survival (PFS) at 12 months, measured by imaging studies as per RECIST v1.1.
+        </primary_outcome>
+        <secondary_outcomes>
+            <outcome>Overall survival (OS) at 24 months.</outcome>
+            <outcome>Rate of treatment-related adverse events evaluated as per NCI CTCAE version 5.0.</outcome>
+            <outcome>Quality of life assessments using EORTC QLQ-C30 at baseline, 6 months, and 12 months.</outcome>
+        </secondary_outcomes>
+    </outcomes>
+    
+    <sample_size>Approximately 300 patients will be enrolled, powered to detect a statistically significant difference in PFS.</sample_size>
+    
+    <methodology>
+        <step>
+            <description>Screening for eligibility with baseline assessments and patient consent.</description>
+        </step>
+        <step>
+            <description>Randomization to either treatment arm.</description>
+        </step>
+        <step>
+            <description>Administration of treatments followed by regular follow-up assessments at designated intervals.</description>
+        </step>
+        <step>
+            <description>Data collection for efficacy and safety monitoring throughout the trial duration.</description>
+        </step>
+    </methodology>
+
+    <potential_benefits>
+        <benefit>Improved efficacy in terms of survival outcomes compared to traditional chemotherapy regimens.</benefit>
+        <benefit>Potentially reduced incidence and severity of chemotherapy-related toxicities.</benefit>
+        <benefit>Enhanced understanding of the synergistic effect of aflibercept when combined with FOLFOX in a larger patient population.</benefit>
+    </potential_benefits>
+</clinical_trial>
+```

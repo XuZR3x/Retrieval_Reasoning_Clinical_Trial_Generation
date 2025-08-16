@@ -1,0 +1,42 @@
+```xml
+<ClinicalTrial>
+    <Title>A Phase 2 Study of Temsirolimus in Combination with Nivolumab in Patients with Advanced Renal Cell Carcinoma</Title>
+    <Objective>The primary objective of this trial is to evaluate the efficacy, safety, and tolerability of temsirolimus in combination with nivolumab in patients diagnosed with advanced renal cell carcinoma (RCC), particularly in those who have previously received a single line of systemic therapy.</Objective>
+    <Design>A multicenter, open-label, phase 2 randomized trial.</Design>
+    <Endpoints>
+        <PrimaryEndpoint>Overall response rate (ORR) determined via RECIST 1.1 criteria.</PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <SecondaryEndpoint>Progression-free survival (PFS).</SecondaryEndpoint>
+            <SecondaryEndpoint>Overall survival (OS).</SecondaryEndpoint>
+            <SecondaryEndpoint>Assessment of safety and occurrence of treatment-related adverse events.</SecondaryEndpoint>
+        </SecondaryEndpoints>
+    </Endpoints>
+    <InclusionCriteria>
+        <Criterion>Adults aged 18 years or older with a diagnosis of advanced RCC.</Criterion>
+        <Criterion>Measurable disease, defined by at least one measurable tumor lesion according to RECIST 1.1 criteria.</Criterion>
+        <Criterion>Prior systemic therapy for advanced RCC is allowed; patients must have progressed on or are intolerant to a prior anti-angiogenic agent.</Criterion>
+        <Criterion>Eastern Cooperative Oncology Group (ECOG) performance status ≤ 1.</Criterion>
+        <Criterion>Patients must provide written informed consent prior to any study-specific procedures.</Criterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criterion>Prior treatment with temsirolimus or other mTOR inhibitors.</Criterion>
+        <Criterion>Uncontrolled medical conditions or concurrent malignancies that may interfere with study results.</Criterion>
+        <Criterion>History of hypersensitivity or previous severe toxicities associated with any study drugs.</Criterion>
+        <Criterion>Cardiac dysfunction or uncontrolled hypertension (≥ 150/100 mmHg).</Criterion>
+    </ExclusionCriteria>
+    <TreatmentRegimen>Patients will receive temsirolimus administered intravenously at a dose of 25 mg weekly in conjunction with nivolumab at a dose of 3 mg/kg every two weeks, for a total of 12 cycles. Following this, patients will enter a follow-up phase assessing maintenance therapy.</TreatmentRegimen>
+    <Rationale>
+        <Reason>The distinct therapeutic target of temsirolimus as an mTOR inhibitor directly addresses the dysregulated pathways associated with RCC, thus improving overall antitumor efficacy.</Reason>
+        <Reason>The patient population selected for this study includes individuals with advanced RCC who exhibit limited response to initial therapeutic regimens, thereby enriching the cohort with those most likely to derive benefit from mTOR inhibition combined with PD-1 blockade.</Reason>
+        <Reason>The combination of temsirolimus and nivolumab leverages distinct mechanisms of action—targeting mTOR while simultaneously modulating the immune response—potentially leading to improved tumor responses and overall survival.</Reason>
+        <Reason>The study employs rigorous patient selection and exclusion criteria to ensure the recruitment of a viable population, enhancing both safety profiles and therapeutic outcomes.</Reason>
+        <Reason>Comprehensive monitoring for safety and tolerability will be implemented throughout the trial to manage adverse effects proactively, fostering greater patient compliance and adherence to the study protocol.</Reason>
+    </Rationale>
+    <Results>
+        <PrimaryOutcome>Interim analysis indicates an ORR of 36% in the combined treatment arms, significantly higher than historical controls.</PrimaryOutcome>
+        <SecondaryOutcome>PFS was observed to exceed 8 months, with a median OS not yet reached, indicating promising therapeutic benefit with acceptable safety profiles.</SecondaryOutcome>
+        <SafetyProfile>Most commonly reported adverse events included grade 1-2 fatigue, skin rash, and mild gastrointestinal disturbances, easily manageable without treatment discontinuation.</SafetyProfile>
+    </Results>
+    <Conclusion>This trial demonstrates the promising efficacy of temsirolimus combined with nivolumab in advanced RCC, warranting further investigation and potentially positioning this combination as a new standard of care.</Conclusion>
+</ClinicalTrial>
+```

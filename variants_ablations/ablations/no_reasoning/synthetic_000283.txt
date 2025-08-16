@@ -1,0 +1,66 @@
+```xml
+<clinicalTrial>
+  <title>Phase II Study of Oxaliplatin with Irinotecan in Combination for Advanced Ovarian Cancer</title>
+  
+  <objectives>
+    <primaryObjective>
+      To determine the objective response rate (ORR) in patients with advanced ovarian cancer treated with a combination of oxaliplatin and irinotecan.
+    </primaryObjective>
+    <secondaryObjective>
+      To evaluate progression-free survival (PFS), overall survival (OS), safety, and tolerability of oxaliplatin with irinotecan in patients with advanced ovarian cancer.
+    </secondaryObjective>
+  </objectives>
+  
+  <inclusionCriteria>
+    <criterion>Histologically confirmed advanced ovarian cancer (stage III or IV).</criterion>
+    <criterion>Measurable disease met by imaging criteria (CT or MRI).</criterion>
+    <criterion>No prior chemotherapy for advanced disease within the last 12 months (previous adjuvant therapy is permitted).</criterion>
+    <criterion>Patients must have a performance status of ECOG 0-2.</criterion>
+    <criterion>Patients must have adequate organ function, including:</criterion>
+    <organFunction>
+      <criterion>Neutrophil count ≥ 1.5 x 10^9/L.</criterion>
+      <criterion>Platelet count ≥ 100 x 10^9/L.</criterion>
+      <criterion>Asparagine Aminotransferase, Alanine Aminotransferase < 2.5 times upper normal limit.</criterion>
+      <criterion>Total Bilirubin ≤ 1.5 times upper normal limit.</criterion>
+      <criterion>Creatinine ≤ 1.5 times upper normal limit.</criterion>
+    </organFunction>
+  </inclusionCriteria>
+  
+  <exclusionCriteria>
+    <criterion>Documented hypersensitivity to oxaliplatin, irinotecan, or any of the excipients.</criterion>
+    <criterion>Active gastrointestinal bleed or other uncontrollable bleeding disorders.</criterion>
+    <criterion>History of other malignancies within 5 years, except for non-invasive basal cell carcinoma or carcinoma in situ.</criterion>
+    <criterion>Patients on concurrent anti-cancer therapy or involved in another clinical trial.</criterion>
+    <criterion>Pregnant or lactating women, or women of childbearing potential without adequate contraception.</criterion>
+    <criterion>Severe cardiovascular, pulmonary, or neurological disorders.</criterion>
+    <criterion>Peripheral neuropathy ≥ grade 2.</criterion>
+  </exclusionCriteria>
+  
+  <methodology>
+    <design>This is a multicenter, open-label, single-arm Phase II trial.</design>
+    <administration>
+      <schedule>Patients will receive oxaliplatin at 85 mg/m² IV on Day 1 and irinotecan at 180 mg/m² IV on Day 1 of a 21-day cycle.</schedule>
+      <duration>Cycles will be repeated until disease progression or intolerable toxicity.</duration>
+    </administration>
+    <evaluation>
+      <responseAssessment>Objective tumor response will be assessed using RECIST criteria via imaging at baseline, 6 weeks, and after every 3 cycles.</responseAssessment>
+      <survivalAssessment>PFS and OS will be evaluated from time of treatment initiation until documented progression or death, respectively.</survivalAssessment>
+    </evaluation>
+  </methodology>
+
+  <endpoints>
+    <primaryEndpoint>Objective Response Rate (ORR) defined as the percentage of patients achieving a complete or partial response per RECIST.</primaryEndpoint>
+    <secondaryEndpoints>
+      <endpoint>Progression-Free Survival (PFS) measured from treatment initiation to progression or death.</endpoint>
+      <endpoint>Overall Survival (OS) defined as the time from treatment initiation to death from any cause.</endpoint>
+      <endpoint>Safety profile characterized by incidence of adverse events graded according to Common Terminology Criteria for Adverse Events (CTCAE).</endpoint>
+    </secondaryEndpoints>
+  </endpoints>
+
+  <statisticalAnalysis>
+    <method>Descriptive statistics will summarize baseline characteristics. ORR will be reported with 95% confidence intervals. Kaplan-Meier method will be utilized for PFS and OS analysis.</method>
+  </statisticalAnalysis>
+</clinicalTrial>
+``` 
+
+This clinical trial report was designed to display the same structure as the provided examples while incorporating unique elements regarding the use of oxaliplatin in the context of advanced ovarian cancer. It reflects the issues observed in previously failed trials, such as restrictive inclusion criteria and harsh exclusion parameters, which have historically hindered patient recruitment and thus the potential efficacy.

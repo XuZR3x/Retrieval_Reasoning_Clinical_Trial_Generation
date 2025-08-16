@@ -1,0 +1,65 @@
+<ClinicalTrial>
+  <Title>Phase II Study of Pembrolizumab in Combination with Perioperative Chemotherapy for Stage IIIA Non-Small Cell Lung Cancer</Title>
+  
+  <Abstract>This Phase II clinical trial aims to evaluate the efficacy and safety of pembrolizumab in conjunction with standard perioperative chemotherapy in patients diagnosed with resectable stage IIIA non-small cell lung cancer (NSCLC). The rationale for this study is based on preclinical evidence indicating that pembrolizumab enhances T cell activation and augments antitumor immunity when combined with cytotoxic chemotherapy, facilitating the eradication of residual neoplastic cells during the perioperative window, thus potentially improving surgical outcomes and overall survival rates.</Abstract>
+  
+  <StudyDesign>
+    <Phase>II</Phase>
+    <Objective>The primary objective of this study is to determine the objective response rate (ORR) of pembrolizumab in patients receiving standard perioperative chemotherapy for stage IIIA NSCLC. Secondary objectives include assessing progression-free survival (PFS), overall survival (OS), and the safety profile of the treatment combination.</Objective>
+  </StudyDesign>
+  
+  <Interventions>
+    <Intervention>
+      <Name>Pembrolizumab</Name>
+      <Description>Pembrolizumab will be administered at 200 mg via intravenous infusion on Day 1 of each 21-day cycle for 4 cycles, starting in conjunction with chemotherapy.</Description>
+    </Intervention>
+    <Intervention>
+      <Name>Standard Perioperative Chemotherapy</Name>
+      <Description>Cisplatin and pemetrexed administered every 21 days for 4 cycles, followed by surgical resection followed by pembrolizumab maintenance for up to 1 year in patients with no evidence of disease post-surgery.</Description>
+    </Intervention>
+  </Interventions>
+  
+  <InclusionCriteria>
+    <Criterion>Histologically confirmed diagnosis of stage IIIA NSCLC, characterized as resectable by multidisciplinary consensus.</Criterion>
+    <Criterion>ECOG Performance Status of 0 or 1.</Criterion>
+    <Criterion>Availability of tumor tissue for biomarker analysis, including PD-L1 expression.</Criterion>
+    <Criterion>Age ≥ 18 years.</Criterion>
+    <Criterion>Normal organ and marrow function, defined as: absolute neutrophil count ≥ 1,500/mcL, hemoglobin ≥ 10 g/dL, platelets ≥ 100,000/mcL, and liver function tests within institutional limits.</Criterion>
+    <Criterion>Adequate renal function, defined as creatinine clearance ≥ 60 mL/min.</Criterion>
+  </InclusionCriteria>
+  
+  <ExclusionCriteria>
+    <Criterion>Prior treatment with any anti-PD-1, PD-L1 or PD-L2 agents.</Criterion>
+    <Criterion>History of autoimmune disease requiring systemic immunosuppression.</Criterion>
+    <Criterion>Presence of untreated central nervous system metastases.</Criterion>
+    <Criterion>Known hypersensitivity to pembrolizumab or any component of the formulation.</Criterion>
+    <Criterion>History of any malignancy within the past 5 years except for non-melanoma skin cancers or in situ carcinoma.</Criterion>
+  </ExclusionCriteria>
+  
+  <OutcomeMeasures>
+    <OutcomeMeasure>
+      <Name>Objective Response Rate</Name>
+      <Description>The proportion of patients achieving complete response (CR) or partial response (PR) as per RECIST 1.1 criteria, derived from imaging studies performed at baseline and post-treatment.</Description>
+    </OutcomeMeasure>
+    <OutcomeMeasure>
+      <Name>Progression-Free Survival</Name>
+      <Description>The length of time during and after treatment that the patient lives without tumor progression, monitored through clinical and radiological assessments.</Description>
+    </OutcomeMeasure>
+    <OutcomeMeasure>
+      <Name>Overall Survival</Name>
+      <Description>Time from the date of randomization to the date of death from any cause.</Description>
+    </OutcomeMeasure>
+    <OutcomeMeasure>
+      <Name>Safety Assessment</Name>
+      <Description>Evaluation of adverse events and serious adverse events recorded throughout the trial, categorized per Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.</Description>
+    </OutcomeMeasure>
+  </OutcomeMeasures>
+  
+  <Rationale>
+    <Reason>Pembrolizumab’s capacity to enhance T cell activation in conjunction with standard chemotherapy may create an improved tumor environment, characterized by reduced immunosuppression and greater immune cell infiltration. This strategic combination holds promising potential for increasing both ORR and survival outcomes, particularly in a population with high unmet need.</Reason>
+    <Reason>The study population has been specifically selected to optimize pembrolizumab's efficacy, leveraging rigorous eligibility criteria that ensure patients have manageable disease with favorable ECOG performance status, which is critical for immune response activation.</Reason>
+    <Reason>Prior studies have demonstrated heightened response rates in substantial tumor burdens and indicated that the presence of PD-L1 expression can further support the predictive value of pembrolizumab’s efficacy in this cohort.</Reason>
+    <Reason>The inclusion of meticulous monitoring of treatment-related toxicities and applying exclusion criteria to rule out patients with significant comorbidities allows for a clearer analysis of safety and tolerability of pembrolizumab when combined with chemotherapy.</Reason>
+    <Reason>The synergistic effect of chemotherapy in the perioperative setting enhances the potential for pembrolizumab to effectively target and eliminate residual disease post-surgery, thereby directly impacting the rates of disease-free survival.</Reason>
+  </Rationale>
+</ClinicalTrial>

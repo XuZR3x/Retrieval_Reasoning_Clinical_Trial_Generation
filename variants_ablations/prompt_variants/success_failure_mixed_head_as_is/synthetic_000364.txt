@@ -1,0 +1,85 @@
+```
+<clinicalTrial>
+    <title>A Phase II Trial of Cetuximab and Nivolumab in Patients with Advanced Non-Small Cell Lung Cancer</title>
+    <rationale>
+        The combination of cetuximab, a monoclonal antibody targeting the epidermal growth factor receptor (EGFR), and nivolumab, a programmed death-1 (PD-1) inhibitor, has been hypothesized to enhance antitumor effects through improved immunogenicity and synergistic therapeutic mechanisms. Cetuximab’s ability to inhibit EGFR-mediated signaling can potentiate nivolumab's immunologic efficacy, thereby leading to improved clinical outcomes in advanced non-small cell lung cancer (NSCLC) that expresses EGFR.
+    </rationale>
+    <objectives>
+        <primary>
+            To evaluate overall survival in patients with advanced NSCLC treated with cetuximab and nivolumab versus nivolumab alone.
+        </primary>
+        <secondary>
+            <item>
+                To assess progression-free survival in both treatment arms.
+            </item>
+            <item>
+                To correlate EGFR expression levels with treatment response and overall survival.
+            </item>
+            <item>
+                To evaluate the safety and tolerability of the combination therapy.
+            </item>
+        </secondary>
+    </objectives>
+    <design>
+        <type>Multicenter, randomized controlled study</type>
+        <groups>
+            <group>
+                <name>Arm A</name>
+                <description>Patients receive nivolumab intravenously (IV) every two weeks while also receiving cetuximab IV weekly.</description>
+            </group>
+            <group>
+                <name>Arm B</name>
+                <description>Patients receive nivolumab IV every two weeks alone.</description>
+            </group>
+        </groups>
+        <randomization>
+            <description>Patients will be randomized in a 1:1 ratio to receive either the combination of cetuximab and nivolumab or nivolumab monotherapy.</description>
+        </randomization>
+    </design>
+    <population>
+        <criteria>
+            <item>
+                Histologically or cytologically confirmed advanced non-small cell lung cancer with documented EGFR expression.
+            </item>
+            <item>
+                No prior therapy targeting EGFR or immune checkpoint inhibitors.
+            </item>
+            <item>
+                Performance status (ECOG) of 0-1.
+            </item>
+            <item>
+                Adequate hematologic and organ function: Absolute neutrophil count ≥ 1,500/mm<sup>3</sup>, platelets ≥ 100,000/mm<sup>3</sup>, creatinine clearance ≥ 45 mL/min.
+            </item>
+            <item>
+                Age ≥ 18 years.
+            </item>
+            <item>
+                No significant comorbidities that would compromise participation.
+            </item>
+        </criteria>
+    </population>
+    <outcomes>
+        <primary>
+            Overall survival at 12 months, assessed using Kaplan-Meier survival curves.
+        </primary>
+        <secondary>
+            Progression-free survival at 6 months, response rates in accordance with RECIST criteria, and assessment of treatment-related adverse events.
+        </secondary>
+    </outcomes>
+    <timeline>
+        <accrualPeriod>
+            <duration>12 months</duration>
+            <targetPatients>200</targetPatients>
+        </accrualPeriod>
+        <followUp>
+            <duration>24 months post-treatment initiation</duration>
+        </followUp>
+    </timeline>
+    <results>
+        <description>The combination of cetuximab and nivolumab resulted in a statistically significant improvement in overall survival compared to nivolumab alone (18-month survival rate: 65% vs. 50%). Patients treated with the combination demonstrated enhanced progression-free survival and an increased overall response rate, correlating positively with higher EGFR expression levels.</description>
+        <tolerability>
+            <description>The combination therapy exhibited a favorable safety profile, with manageable adverse effects including fatigue, rash, and immune-related events, reflecting the low incidence of severe toxicities.</description>
+        </tolerability>
+    </results>
+</clinicalTrial>
+```

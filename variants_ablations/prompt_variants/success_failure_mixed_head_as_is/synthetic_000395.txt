@@ -1,0 +1,74 @@
+```xml
+<ClinicalTrial>
+    <Title>A Randomized Phase II Study of Aldesleukin Combined with Histone Deacetylase Inhibitors and Immune Checkpoint Inhibitors in Patients with Advanced Renal Cell Carcinoma</Title>
+    <Objective>
+        <Primary>
+            Evaluate the efficacy of high-dose aldesleukin in combination with histone deacetylase inhibitors and immune checkpoint inhibitors in improving overall survival in patients with advanced renal cell carcinoma (RCC).
+        </Primary>
+        <Secondary>
+            Assess the safety and tolerability of the combination treatment. Evaluate progression-free survival (PFS) and overall response rates (ORR) as per the Response Evaluation Criteria In Solid Tumors (RECIST) criteria.
+        </Secondary>
+    </Objective>
+    <StudyDesign>
+        The trial employs a randomized, open-label, multi-center design. Patients are stratified according to prior therapy (treatment-naive vs prior treatment) and randomized to one of two arms.
+        <Arm>
+            <Name>Combination Therapy</Name>
+            <Description>Patients receive high-dose aldesleukin (IV every 8 hours for 5 days) in conjunction with entinostat (oral, weekly) and nivolumab (IV bi-weekly).</Description>
+        </Arm>
+        <Arm>
+            <Name>Control Therapy</Name>
+            <Description>Patients receive high-dose aldesleukin (IV every 8 hours for 5 days) alone.</Description>
+        </Arm>
+    </StudyDesign>
+    <InclusionCriteria>
+        <Item>
+            Patients must have histologically confirmed advanced RCC, either metastatic or unresectable.
+        </Item>
+        <Item>
+            Measurable disease according to RECIST 1.1.
+        </Item>
+        <Item>
+            Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.
+        </Item>
+        <Item>
+            Adequate organ function, including renal function (creatinine clearance ≥ 60 mL/min), hepatic function (AST/ALT ≤ 2.5 x ULN), and absolute neutrophil count (≥ 1,500/µL).
+        </Item>
+        <Item>
+            Female patients of childbearing potential must have a negative pregnancy test and must agree to use adequate contraception during the trial.
+        </Item>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Item>
+            Patients who have received prior systemic therapy for RCC within 4 weeks before enrollment.
+        </Item>
+        <Item>
+            Untreated central nervous system (CNS) metastases or any active autoimmune disorders.
+        </Item>
+        <Item>
+            History of severe allergic reactions to any component of the study drugs.
+        </Item>
+    </ExclusionCriteria>
+    <Endpoints>
+        <PrimaryEndpoint>
+            Evaluate overall survival at 12 months post-treatment.
+        </PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <Item>Assess progression-free survival after treatment initiation.</Item>
+            <Item>Determine overall response rate (complete and partial response) in both arms.</Item>
+            <Item>Analyze the incidence of treatment-related adverse events using Common Terminology Criteria for Adverse Events (CTCAE) v5.0.</Item>
+        </SecondaryEndpoints>
+    </Endpoints>
+    <Biomarkers>
+        Evaluative studies will be performed to identify predictive biomarkers of response to the combination treatment using tissue and blood samples to measure changes in CD4+, CD8+, and other immune cell populations post-treatment.
+    </Biomarkers>
+    <SampleSize>
+        A total of 240 patients will be enrolled, with 120 patients in each treatment arm to ensure adequate power to detect significant differences in the primary endpoint.
+    </SampleSize>
+    <StatisticalAnalysis>
+        Kaplan-Meier survival analysis will be utilized for overall survival and progression-free survival assessments, comparing both arms through log-rank testing. Fisher's exact test will be employed for response rate comparisons.
+    </StatisticalAnalysis>
+    <Conclusion>
+        This trial aims to explore the synergistic potential of combining aldesleukin with histone deacetylase inhibitors and immune checkpoint inhibitors by leveraging the efficacy of multi-modal treatment approaches to achieve improved outcomes in advanced renal cell carcinoma.
+    </Conclusion>
+</ClinicalTrial>
+```

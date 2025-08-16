@@ -1,0 +1,55 @@
+```xml
+<ClinicalTrial>
+    <StudyTitle>A Phase II Evaluation of Ixabepilone for Patients with Metastatic Breast Cancer Previously Treated with Anthracyclines and Taxanes</StudyTitle>
+    <Purpose>To assess the efficacy and safety of ixabepilone in patients with metastatic breast cancer who have previously received anthracycline and taxane-based therapies.</Purpose>
+    <Objectives>
+        <Primary>
+            <Objective>To evaluate the overall response rate (ORR) of ixabepilone in subjects with metastatic breast cancer.</Objective>
+        </Primary>
+        <Secondary>
+            <Objective>To determine progression-free survival (PFS) and overall survival (OS) in patients treated with ixabepilone.</Objective>
+            <Objective>To characterize the toxicity profile associated with ixabepilone administration.</Objective>
+            <Objective>To explore any potential correlations between pharmacogenomic markers and treatment response.</Objective>
+        </Secondary>
+    </Objectives>
+    <StudyDesign>
+        <Type>Multicenter, single-arm, phase II trial</Type>
+        <TreatmentRegimen>Patients will receive ixabepilone by intravenous infusion over 3 hours on days 1 and 8 of a 21-day cycle until disease progression or unacceptable toxicity.</TreatmentRegimen>
+    </StudyDesign>
+    <ProjectedAccrual>
+        <TotalPatients>60</TotalPatients>
+        <AccrualTimeFrame>6 months</AccrualTimeFrame>
+    </ProjectedAccrual>
+    <InclusionCriteria>
+        <Criterion>Histologically confirmed metastatic breast cancer</Criterion>
+        <Criterion>Prior treatment with at least one anthracycline and one taxane</Criterion>
+        <Criterion>At least one measurable lesion as determined by RECIST criteria</Criterion>
+        <Criterion>ECOG performance status 0-2</Criterion>
+        <Criterion>Age 18 years or older</Criterion>
+        <Criterion>Life expectancy ≥ 3 months</Criterion>
+        <Criterion>Baseline neutrophil count ≥ 1,500/mm³</Criterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criterion>Known hypersensitivity to ixabepilone or Cremophor EL</Criterion>
+        <Criterion>Any condition that would severely impair compliance</Criterion>
+        <Criterion>Prior treatment with ixabepilone</Criterion>
+        <Criterion>Active, serious infection requiring systemic therapy</Criterion>
+        <Criterion>Concurrent malignancies</Criterion>
+    </ExclusionCriteria>
+    <Endpoints>
+        <PrimaryEndpoint>Objective response rate measured using imaging techniques post-treatment</PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <Endpoint>Duration of response and time to progression</Endpoint>
+            <Endpoint>Incidence and severity of adverse events</Endpoint>
+        </SecondaryEndpoints>
+    </Endpoints>
+    <Rationale>
+        The rationale for this study is based on previously established pharmacological activity of ixabepilone and its ability to interfere with microtubule dynamics. However, negative reports from other trials indicate specific concerns:
+        <Issue>Insufficient tumor response rates observed across various cancers, suggesting limited efficacy in patients previously treated with standard chemotherapeutic agents.</Issue>
+        <Issue>Significant and consistent adverse events, particularly peripheral neuropathy and hematological toxicities, could severely limit the therapeutic index and overall feasibility of treatment.</Issue>
+        <Issue>Pharmacokinetic variability among patient populations may result in unpredictable drug exposure, correlating with differences in treatment response.</Issue>
+        <Issue>Lack of validated biomarkers to forecast therapeutic benefit, with no demonstrable correlation between pharmacogenomic profiles and clinical outcomes seen despite high expectations.</Issue>
+        <Issue>Marked patient heterogeneity with a history of diverse treatment regimens may confound the analysis of ixabepilone efficacy and tolerability in this cohort.</Issue>
+    </Rationale>
+</ClinicalTrial>
+```

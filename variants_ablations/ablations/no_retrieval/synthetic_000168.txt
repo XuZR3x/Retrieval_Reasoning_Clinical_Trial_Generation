@@ -1,0 +1,38 @@
+```xml
+<FailedClinicalTrial>
+  <Title>Assessment of Efficacy and Safety of Vortioxetine (Lu AA21004) in the Treatment of Generalized Anxiety Disorder: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial</Title>
+  <Purpose>The primary objective of this trial is to evaluate the efficacy and safety of vortioxetine in patients diagnosed with Generalized Anxiety Disorder (GAD) as per the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5) criteria. This study aims to elucidate the therapeutic potential of vortioxetine over a fixed treatment period.</Purpose>
+  <Design>This is a multicenter, randomized, double-blind, placebo-controlled, fixed-dose study involving two treatment arms: vortioxetine 5 mg and placebo, administered once daily (QD) for a duration of 12 weeks. The total study duration, including a screening period and follow-up, is up to 16 weeks. Participants are monitored with weekly visits during the initial 4-week period, transitioning to bi-weekly visits for the remainder of the study.</Design>
+  
+  <InclusionCriteria>
+    <Criterion>Confirmed primary diagnosis of Generalized Anxiety Disorder per DSM-5 standards.</Criterion>
+    <Criterion>Baseline Hamilton Anxiety Rating Scale (HAM-A) score ≥ 22.</Criterion>
+    <Criterion>Minimum age of 18 years and maximum age of 65 years.</Criterion>
+  </InclusionCriteria>
+  
+  <ExclusionCriteria>
+    <Criterion>Presence of significant comorbid psychiatric disorders, including but not limited to Major Depressive Disorder, as determined by the Mini International Neuropsychiatric Interview (MINI).</Criterion>
+    <Criterion>Recent history of manic episodes, schizophrenia, or other psychotic disorders.</Criterion>
+    <Criterion>Any history of severe substance use disorder (excluding nicotine and caffeine).</Criterion>
+    <Criterion>Clinically significant neurological disorders or neurodegenerative diseases.</Criterion>
+    <Criterion>Documented history of non-response to prior adequate treatment with SSRIs or SNRIs.</Criterion>
+    <Criterion>Any significant medical conditions or laboratory abnormalities deemed to pose a risk to participants, including uncontrolled hypertension or abnormal ECG findings.</Criterion>
+  </ExclusionCriteria>
+  
+  <Endpoints>
+    <PrimaryEndpoint>Change from baseline in HAM-A total score at week 12.</PrimaryEndpoint>
+    <SecondaryEndpoints>
+      <Endpoint>Change from baseline in Hamilton Depression Rating Scale (HDRS) total score at week 12.</Endpoint>
+      <Endpoint>Assessment of safety through reported adverse events and laboratory parameter fluctuations.</Endpoint>
+    </SecondaryEndpoints>
+  </Endpoints>
+
+  <Results>
+    <InitialScreening>Approximately 400 patients screened across 10 sites; 250 enrolled into the trial.</InitialScreening>
+    <DropoutRate>High attrition rate was realized with 40% dropout by study end, primarily observed in participants experiencing adverse effects during the initial treatment weeks.</DropoutRate>
+    <StatisticalAnalysis>Utilization of an ANCOVA model, accounting for baseline values; however, the analysis was compromised by the significant dropout rate, casting uncertainty on the results.</StatisticalAnalysis>
+    <SignificantFindings>No statistically significant improvement was observed in HAM-A scores in the vortioxetine group compared to placebo, leading to the conclusion of the trial's ineffectiveness in this cohort.</SignificantFindings>
+    <AdverseEvents>Increased reporting of headache, gastrointestinal disturbances, and anxiety exacerbation among vortioxetine recipients compared to placebo.</AdverseEvents>
+  </Results>
+</FailedClinicalTrial>
+```

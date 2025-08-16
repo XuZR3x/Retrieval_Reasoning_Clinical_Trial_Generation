@@ -1,0 +1,69 @@
+```xml
+<ClinicalTrial>
+  <Title>A Multi-center Phase II Study of Aldesleukin in Combination with Immune Checkpoint Inhibitors in Patients with Unresectable Non-Small Cell Lung Cancer (NSCLC)</Title>
+  
+  <Rationale>
+    Recent evidence suggests that the combination of immunotherapy agents can lead to enhanced anti-tumor responses through synergy. Aldesleukin, a recombinant form of interleukin-2, has demonstrated significant potential in augmenting immune responses, particularly in its ability to stimulate cytotoxic T lymphocytes (CTLs) and natural killer (NK) cells. The proposed trial will investigate the efficacy and safety of aldesleukin in conjunction with immune checkpoint inhibitors, specifically targeting PD-1 and CTLA-4 pathways, to optimize immune-mediated tumor cell death in patients diagnosed with unresectable NSCLC.
+  </Rationale>
+  
+  <Objectives>
+    <PrimaryObjective>
+      Evaluate the overall response rate (ORR) of aldesleukin in combination with immune checkpoint inhibitors in patients with unresectable NSCLC.
+    </PrimaryObjective>
+    <SecondaryObjectives>
+      <Objective1>Assess progression-free survival (PFS) and overall survival (OS) in this patient population.</Objective1>
+      <Objective2>Determine the safety profile and tolerability of the combination therapy.</Objective2>
+      <Objective3>Investigate the correlation between circulating biomarkers, including serum VEGF, CTLA-4, PD-1 expression, and clinical responses, providing a personalized approach to therapy.</Objective3>
+    </SecondaryObjectives>
+  </Objectives>
+
+  <Methodology>
+    <Design>
+      This is a multi-center, randomized, open-label Phase II trial with adaptive design to allow for real-time modifications based on preliminary findings. Patients will be stratified by histological subtype and prior treatment history.
+    </Design>
+    
+    <Arms>
+      <ArmI>
+        Patients will receive aldesleukin intravenously (IV) at a high-dose regimen on days 1, 3, and 5 with concurrent immune checkpoint inhibitors administered as per standard protocols. Treatment cycles will repeat every 4 weeks.
+      </ArmI>
+      <ArmII>
+        Control patients will receive immune checkpoint inhibitors alone, following standard treatment regimens.
+      </ArmII>
+    </Arms>
+  
+    <InclusionCriteria>
+      <Criterion1>Histologically confirmed unresectable non-small cell lung cancer (NSCLC).</Criterion1>
+      <Criterion2>Measurable disease per RECIST version 1.1 criteria.</Criterion2>
+      <Criterion3>No prior systemic therapy for metastatic disease, except adjuvant therapy completed ≥ 6 months prior to enrollment.</Criterion3>
+      <Criterion4>Eastern Cooperative Oncology Group (ECOG) performance status 0 or 1.</Criterion4>
+      <Criterion5>Life expectancy of at least 6 months.</Criterion5>
+      <Criterion6>Ability to provide informed consent.</Criterion6>
+    </InclusionCriteria>
+
+    <ExclusionCriteria>
+      <Criterion1>Prior history of severe hypersensitivity reactions to interleukin-2 or related compounds.</Criterion1>
+      <Criterion2>Active autoimmune disease requiring systemic treatment.</Criterion2>
+      <Criterion3>Concurrent malignancies, except for certain non-melanoma skin cancers.</Criterion3>
+      <Criterion4>Uncontrolled intercurrent illness, including but not limited to, ongoing infections or psychiatric illness that would limit compliance.</Criterion4>
+      <Criterion5>Pregnant or lactating females.</Criterion5>
+    </ExclusionCriteria>
+  </Methodology>
+
+  <Endpoints>
+    <PrimaryEndpoint>Overall response rate (complete and partial response rates) assessed by imaging at 12 weeks post-treatment initiation.</PrimaryEndpoint>
+    <SecondaryEndpoints>
+      <Endpoint1>Progression-free survival estimated by the Kaplan-Meier method.</Endpoint1>
+      <Endpoint2>Overall survival calculated from the date of randomization to the date of death or last follow-up.</Endpoint2>
+      <Endpoint3>Assessment of safety profiles by monitoring adverse events and relating toxicity profiles to the therapeutic regimen.</Endpoint3>
+    </SecondaryEndpoints>
+  </Endpoints>
+
+  <ProjectedAccrual>
+    A total of 150 patients will be included to allow for meaningful statistical analysis of primary and secondary endpoints.
+  </ProjectedAccrual>
+
+  <FollowUp>
+    Patients will be monitored for adverse effects bi-weekly for the first two cycles and then every 3 months up to 2 years post treatment completion.
+  </FollowUp>
+</ClinicalTrial>
+```

@@ -1,0 +1,41 @@
+```xml
+<ClinicalTrial>
+  <TrialID>CT-MIRCERA-2023-001</TrialID>
+  <Title>A Randomized, Open Label Study of Subcutaneous Methoxy Polyethylene Glycol-Epoetin Beta for the Management of Anemia in Patients With Chronic Kidney Disease Not Requiring Dialysis</Title>
+  <Objective>To evaluate the efficacy, safety, and tolerability of subcutaneous methoxy polyethylene glycol-epoetin beta in maintaining hemoglobin levels in patients with chronic kidney disease not requiring dialysis.</Objective>
+  <StudyDesign>Randomized, open label, two-arm study comparing methoxy polyethylene glycol-epoetin beta versus placebo.</StudyDesign>
+  <SampleSize>200 subjects</SampleSize>
+  <TreatmentDuration>24 weeks</TreatmentDuration>
+  <InterventionGroup>
+    <Intervention>Subcutaneous methoxy polyethylene glycol-epoetin beta administered every two weeks with a dose titration based on hemoglobin response.</Intervention>
+  </InterventionGroup>
+  <ControlGroup>
+    <Control>Subcutaneous placebo administered every two weeks.</Control>
+  </ControlGroup>
+  <InclusionCriteria>
+    <Criterion>Adults >= 18 years of age</Criterion>
+    <Criterion>Chronic kidney disease stage 3-4</Criterion>
+    <Criterion>Baseline hemoglobin concentration between 9.0 and 11.5 g/dL</Criterion>
+    <Criterion>Stable iron parameters without supplementation for 4 weeks prior to study initiation</Criterion>
+  </InclusionCriteria>
+  <ExclusionCriteria>
+    <Criterion>Current treatment with any erythropoiesis-stimulating agent</Criterion>
+    <Criterion>Recent blood transfusion within 8 weeks prior to screening</Criterion>
+    <Criterion>Uncontrolled hypertension defined as SBP>180 mmHg or DBP>110 mmHg</Criterion>
+    <Criterion>Any malignancy requiring active treatment</Criterion>
+    <Criterion>Severe hepatic or pulmonary disease</Criterion>
+  </ExclusionCriteria>
+  <PrimaryEndpoint>
+    <Endpoint>Percentage of Participants Maintaining Their Mean Hemoglobin Concentration Within the Target Range of 10.0 to 12.0 g/dL from Week 12 to Week 24</Endpoint>
+  </PrimaryEndpoint>
+  <EfficacyEvaluationPeriod>
+    <Period>Week 12 to Week 24</Period>
+    <Criteria>Maintain Hemoglobin levels within the target range defined as mean hemoglobin concentration of 10.0 to 12.0 g/dL during EEP.</Criteria>
+  </EfficacyEvaluationPeriod>
+  <ResultsSummary>
+    <Finding>Despite the expected response, the trial did not meet its primary endpoint, with only 35% of participants in the methoxy polyethylene glycol-epoetin beta group achieving the target hemoglobin range during EEP compared to 34% in the placebo group.</Finding>
+    <FailureReason>The lack of statistical significance in hemoglobin response may be attributed to inadequate patient recruitment that led to underpowered results, variability in patient responses based on coexisting medical conditions, and forecasted patient adherence challenges with the monthly administration schedule.</FailureReason>
+  </ResultsSummary>
+  <Conclusion>The study did not demonstrate a significant difference in hemoglobin maintenance when comparing methoxy polyethylene glycol-epoetin beta to placebo among chronic kidney disease patients not requiring dialysis, leading to the conclusion that the intervention may not be effective in this patient population.</Conclusion>
+</ClinicalTrial>
+```

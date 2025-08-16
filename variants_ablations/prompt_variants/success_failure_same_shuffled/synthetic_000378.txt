@@ -1,0 +1,45 @@
+```xml
+<clinicalTrial>
+    <title>Phase III Study Evaluating the Safety and Efficacy of Degarelix in Combination Therapy with Abiraterone Acetate for Advanced Prostate Cancer</title>
+    <studyDesign>Multi-Centre, Randomized, Double-Blind, Placebo-Controlled Trial</studyDesign>
+    
+    <objective>The primary objective is to evaluate the efficacy of Degarelix in combination with Abiraterone Acetate in achieving sustained castration levels in patients with metastatic castration-resistant prostate cancer (mCRPC).</objective>
+     
+    <inclusionCriteria>
+        <criteria>Male patients aged ≥ 18 years with histologically confirmed mCRPC.</criteria>
+        <criteria>Patients must have a baseline serum testosterone level > 1.5 ng/mL.</criteria>
+        <criteria>Life expectancy of at least 12 months.</criteria>
+        <criteria>No prior treatment with LHRH agonists or antagonists within the last six months.</criteria>
+        <criteria>Performance status of 0-1 on the ECOG scale.</criteria>
+    </inclusionCriteria>
+    
+    <exclusionCriteria>
+        <criteria>Previous treatment with abiraterone acetate or any other androgen receptor antagonists.</criteria>
+        <criteria>Prior pelvic irradiation affecting prostate tissue.</criteria>
+        <criteria>Uncontrolled cardiovascular ailments.</criteria>
+        <criteria>Patients with allergies to mannitol.</criteria>
+    </exclusionCriteria>
+    
+    <treatmentArms>
+        <arm>Arm A: Patients will receive a loading dose of 240 mg of Degarelix, followed by monthly maintenance doses of 80 mg plus abiraterone acetate (1000 mg) daily.</arm>
+        <arm>Arm B: Patients will receive abiraterone acetate alone as a placebo-controlled comparator.</arm>
+    </treatmentArms>
+    
+    <primaryEndpoint>
+        <endpoint>Percentage of patients achieving serum testosterone levels ≤ 0.5 ng/mL as assessed by Kaplan-Meier estimates at 12 months.</endpoint>
+    </primaryEndpoint>
+
+    <secondaryEndpoints>
+        <endpoint>Time to progression-free survival (PFS) assessed every 12 weeks for a duration of 24 months.</endpoint>
+        <endpoint>Change in prostate-specific antigen (PSA) levels from baseline at various time points utilizing a mixed-effects model for repeated measures (MMRM).</endpoint>
+        <endpoint>Assessment of quality of life changes using the EORTC QLQ-C30 questionnaire after 6 months of treatment.</endpoint>
+    </secondaryEndpoints>
+    
+    <monitoringParameters>
+        <parameter>Regular monitoring of serum testosterone, PSA levels, and adverse events through comprehensive safety assessments every four weeks.</parameter>
+        <parameter>Longitudinal assessment of prostate volume via transrectal ultrasound at baseline, 3 months, and 6 months.</parameter>
+    </monitoringParameters>
+    
+    <hypothesis>The combination therapy utilizing Degarelix with abiraterone acetate is hypothesized to produce significantly enhanced castration rates and reduced tumor markers compared to abiraterone alone, with a secondary benefit of improved quality of life metrics.</hypothesis>
+</clinicalTrial>
+```

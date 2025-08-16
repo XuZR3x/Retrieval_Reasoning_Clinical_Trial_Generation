@@ -1,0 +1,64 @@
+```xml
+<clinicalTrial>
+  <title>Phase 2 Study of Ipilimumab in Patients With Localized High-Risk Melanoma Following Surgical Resection and Adjuvant Therapy</title>
+  <description>This Phase 2, open-label study aimed to assess the efficacy and safety of ipilimumab in patients with localized high-risk melanoma, who had undergone complete surgical resection followed by standard adjuvant therapy. The study population included patients with Stage IIC, IIIA, IIIB, or IIIC melanoma with no evidence of distant metastasis at the time of enrollment. A primary goal was to evaluate the disease-free survival (DFS) at 24 months post-treatment initiation. Safety profiles and immune response correlations were evaluated as secondary objectives.</description>
+  
+  <studyDesign>
+    <type>Open-label, single-arm</type>
+    <phase>Phase 2</phase>
+    <blinding>None</blinding>
+  </studyDesign>
+  
+  <patientPopulation>
+    <inclusionCriteria>
+      <criteria>Adults aged 18 years and older with histologically confirmed localized high-risk melanoma.</criteria>
+      <criteria>Complete surgical resection of melanoma within 12 weeks prior to enrollment.</criteria>
+      <criteria>Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1.</criteria>
+      <criteria>Life expectancy of at least 12 months.</criteria>
+      <criteria>No evidence of distant metastasis confirmed by imaging.</criteria>
+      <criteria>Ability to provide informed consent.</criteria>
+    </inclusionCriteria>
+    <exclusionCriteria>
+      <criteria>Prior systemic therapy for melanoma, including immunotherapy or targeted therapy.</criteria>
+      <criteria>Active autoimmune diseases requiring chronic immunosuppressive therapy.</criteria>
+      <criteria>Systemic corticosteroid use exceeding 10 mg/day of prednisone equivalents.</criteria>
+      <criteria>History of severe hypersensitivity reactions to ipilimumab or its components.</criteria>
+      <criteria>Pregnant or lactating women.</criteria>
+      <criteria>Other malignancy within the last five years, with exceptions for non-melanoma skin cancer or in situ carcinoma.</criteria>
+      <criteria>Uncontrolled concurrent illness that could affect the safety or the study outcomes.</criteria>
+    </exclusionCriteria>
+  </patientPopulation>
+  
+  <treatmentProtocol>
+    <intervention>
+      <name>Ipilimumab</name>
+      <dosage>3 mg/kg intravenously every 21 days for four doses.</dosage>
+    </intervention>
+  </treatmentProtocol>
+  
+  <monitoring>
+    <followUpDuration>24 months post-treatment initiation.</followUpDuration>
+    <safetyAssessment>Adverse events were monitored weekly during treatment and monthly post-treatment.</safetyAssessment>
+  </monitoring>
+  
+  <endpoints>
+    <primaryEndPoint>DFS at 24 months defined as the time from treatment initiation to disease recurrence.</primaryEndPoint>
+    <secondaryEndpoints>
+      <endpoint>Overall survival (OS) rate at 2 years.</endpoint>
+      <endpoint>Incidence of treatment-emergent adverse events (TEAEs) graded according to the NCI CTCAE version 5.0.</endpoint>
+      <endpoint>Immune response evaluation through tumor biopsy analysis pre- and post-treatment.</endpoint>
+    </secondaryEndpoints>
+  </endpoints>
+  
+  <results>
+    <primaryOutcomeFailure>The trial faced significant adverse outcomes, as evidenced by a high incidence of immune-related adverse events leading to discontinuation in 30% of enrolled patients.</primaryOutcomeFailure>
+    <secondaryOutcomeFailure>DFS rate at 24 months was only achieved in 35% of patients, falling short of the pre-defined threshold of 60% for statistically meaningful efficacy.</secondaryOutcomeFailure>
+    <enrollmentStatus>Due to the observed safety concerns and inadequate therapeutic response rates, the trial was terminated early, citing low feasibility for continuation.</enrollmentStatus>
+  </results>
+  
+  <conclusions>
+    <statement>Ipilimumab, as a monotherapy in this high-risk localized melanoma demographic following surgical resection and adjuvant therapy, did not demonstrate the anticipated improvement in DFS or an acceptable safety profile, necessitating further investigation into alternative therapeutic strategies or dosing regimens.</statement>
+  </conclusions>
+  
+</clinicalTrial>
+```

@@ -1,0 +1,92 @@
+```xml
+<clinicalTrial>
+    <title>A Phase II Study of Trabectedin in Combination with Atezolizumab in Patients with Unresectable Metastatic Soft Tissue Sarcomas: A Potential Paradigm Shift in Immunotherapy Integration</title>
+    <trialType>Phase II</trialType>
+    <studyDesign>
+        <design>Multicenter, open-label, randomized controlled trial</design>
+        <randomization>1:1 allocation to Trabectedin + Atezolizumab vs. Trabectedin alone</randomization>
+    </studyDesign>
+
+    <objective>
+        The primary objective of this study is to evaluate the efficacy of trabectedin in combination with atezolizumab compared to trabectedin alone in improving progression-free survival (PFS) in patients with unresectable metastatic soft tissue sarcomas.
+    </objective>
+
+    <background>
+        The integration of immunotherapy with traditional chemotherapeutic agents offers a promising avenue for the treatment of sarcomas, known for their histological heterogeneity and complex tumor microenvironment. Trabectedin has demonstrated anticancer activity; however, novel strategies to enhance its efficacy are warranted.
+    </background>
+
+    <inclusionCriteria>
+        <criteria>
+            - Histologically proven, unresectable metastatic soft tissue sarcomas with measurable disease per RECIST 1.1.
+        </criteria>
+        <criteria>
+            - Performance status (ECOG) of 0 or 1.
+        </criteria>
+        <criteria>
+            - Adequate organ function: Hemoglobin ≥ 10 g/dL, ANC ≥ 1,500/mm³, and platelets ≥ 100,000/mm³.
+        </criteria>
+        <criteria>
+            - Life expectancy ≥ 4 months and age ≥ 18 years.
+        </criteria>
+        <criteria>
+            - Written informed consent obtained from the participant.
+        </criteria>
+    </inclusionCriteria>
+
+    <exclusionCriteria>
+        <criteria>
+            - Prior treatment with trabectedin or any anti-PD-L1/PD-1 therapy.
+        </criteria>
+        <criteria>
+            - Known CNS metastases or symptomatic brain lesions.
+        </criteria>
+        <criteria>
+            - History of autoimmune disease or persistent toxicities from prior treatments.
+        </criteria>
+        <criteria>
+            - Pregnant or breastfeeding women, or women of childbearing potential not using effective contraception.
+        </criteria>
+    </exclusionCriteria>
+
+    <intervention>
+        <arm>
+            <name>Combination Intervention</name>
+            <description>Trabectedin at 1.5 mg/m² administered via intravenous infusion over 24 hours on day 1 of each 21-day cycle, in combination with Atezolizumab at 840 mg administered as an intravenous infusion on day 1 of each 21-day cycle.</description>
+        </arm>
+        <arm>
+            <name>Control Intervention</name>
+            <description>Trabectedin at 1.5 mg/m² administered via intravenous infusion over 24 hours on day 1 of each 21-day cycle alone.</description>
+        </arm>
+    </intervention>
+
+    <monitoring>
+        <description>Comprehensive monitoring of safety and efficacy will be conducted via clinical evaluations and imaging studies (CT/MRI). Safety assessments will take place on a bi-weekly basis during treatment, while efficacy will be evaluated every 6 weeks per RECIST 1.1 criteria.</description>
+    </monitoring>
+
+    <outcomes>
+        <primaryOutcome>
+            <description>To determine PFS at 6 months, defined as the time from randomization to disease progression or death from any cause.</description>
+        </primaryOutcome>
+        <secondaryOutcomes>
+            <outcome>
+                <description>Evaluation of overall survival (OS) rate at 12 months.</description>
+            </outcome>
+            <outcome>
+                <description>Assessment of safety, including the incidence of treatment-related adverse events.</description>
+            </outcome>
+        </secondaryOutcomes>
+    </outcomes>
+
+    <statisticalConsiderations>
+        <description>Sample size calculation has determined that 220 patients are required to attain 80% power to detect a significant difference in PFS between the two arms, using a two-tailed log-rank test with an alpha of 0.05.</description>
+    </statisticalConsiderations>
+
+    <anticipatedResults>
+        <description>It is hypothesized that the combination therapy will demonstrate a statistically significant improvement in PFS and OS compared to trabectedin monotherapy, fostering a new combined approach in treating advanced soft tissue sarcomas.</description>
+    </anticipatedResults>
+
+    <compliance>
+        <description>All participating sites will follow Good Clinical Practice (GCP) guidelines and local regulations to ensure all ethical standards are maintained throughout the study.</description>
+    </compliance>
+</clinicalTrial>
+```

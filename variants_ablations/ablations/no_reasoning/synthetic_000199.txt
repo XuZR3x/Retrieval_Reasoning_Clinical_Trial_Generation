@@ -1,0 +1,48 @@
+```xml
+<ClinicalTrial>
+    <Title>Impact of Ezetimibe on Inflammatory Markers in Hyperlipidemia Patients with Comorbidities</Title>
+    <StudyProtocolID>ET-2031</StudyProtocolID>
+    <Design>Multicenter, Randomized, Double-blind, Placebo-controlled Trial</Design>
+    <Objective>To evaluate the efficacy of ezetimibe at a dosage of 10 mg/day in reducing inflammatory markers in patients with hyperlipidemia and additional comorbidities over a 12-week treatment period.</Objective>
+    <PrimaryHypothesis>The primary hypothesis is that the change in high-sensitivity C-reactive protein (hs-CRP) levels in the ezetimibe group will be significantly lower than in the placebo group after 12 weeks of therapy.</PrimaryHypothesis>
+    
+    <InclusionCriteria>
+        <Criterion>Diagnosed with primary hyperlipidemia (LDL-C ≥ 160 mg/dL) and at least one of the following comorbidities: hypertension, type 2 diabetes mellitus, or chronic kidney disease stage 1-2.</Criterion>
+        <Criterion>Aged 40-75 years.</Criterion>
+        <Criterion>No major changes in diet or concomitant medications for hyperlipidemia in the 8 weeks prior to enrollment.</Criterion>
+        <Criterion>Willing and able to provide informed consent.</Criterion>
+    </InclusionCriteria>
+    
+    <ExclusionCriteria>
+        <Criterion>History of hypersensitivity to ezetimibe or any component of the formulation.</Criterion>
+        <Criterion>Significant gastrointestinal disease that may affect absorption (such as inflammatory bowel disease).</Criterion>
+        <Criterion>Current use of any investigational drug or participation in another clinical trial within the last 30 days.</Criterion>
+        <Criterion>Pregnant or lactating females.</Criterion>
+        <Criterion>Severe renal impairment (estimated Glomerular Filtration Rate <30 mL/min).</Criterion>
+    </ExclusionCriteria>
+    
+    <PrimaryOutcomeMeasures>
+        <OutcomeMeasure>Change in hs-CRP levels from baseline to 12 weeks, measured in mg/L.</OutcomeMeasure>
+    </PrimaryOutcomeMeasures>
+    
+    <SecondaryOutcomeMeasures>
+        <OutcomeMeasure>Change in lipid profiles (total cholesterol, LDL-C, HDL-C, triglycerides) from baseline to 12 weeks.</OutcomeMeasure>
+        <OutcomeMeasure>Assessment of quality of life using the EQ-5D scale.</OutcomeMeasure>
+        <OutcomeMeasure>Incidence of adverse events throughout the study duration.</OutcomeMeasure>
+    </SecondaryOutcomeMeasures>
+    
+    <SampleSize>300 participants, 150 in the ezetimibe group and 150 in the placebo group.</SampleSize>
+    
+    <StudyDuration>12 weeks</StudyDuration>
+    
+    <Methodology>
+        <Step>Participants will be randomized in a 1:1 ratio to receive either ezetimibe 10 mg/day or placebo.</Step>
+        <Step>hs-CRP, lipid profiles, and quality of life will be measured at baseline and week 12.</Step>
+        <Step>Adverse events will be monitored throughout the study period, and compliance will be assessed through pill counts and self-reports.</Step>
+    </Methodology>
+    
+    <StatisticalAnalysis>Data will be analyzed using an intention-to-treat approach. Comparisons between groups for hs-CRP will be conducted using a two-sample t-test, while lipid changes will be analyzed using ANCOVA, adjusting for baseline values.</StatisticalAnalysis>
+    
+    <Conclusion>The anticipated outcomes from this clinical trial intend to establish that ezetimibe not only effectively reduces lipid levels but may also contribute to inflammatory modulation in patients with hyperlipidemia who present with additional comorbidities.</Conclusion>
+</ClinicalTrial>
+```

@@ -1,0 +1,54 @@
+```xml
+<ClinicalTrial>
+    <Title>The Efficacy and Safety of Tacrolimus in Long-term Prevention of Acute Rejection in Kidney Transplant Recipients: A Randomized Controlled Trial (TACKLE Trial)</Title>
+    <Phase>III</Phase>
+    <StudyDesign>
+        <Description>A multicenter, randomized, open-label trial designed to evaluate the efficacy and safety of tacrolimus monotherapy compared to a traditional regimen of tacrolimus combined with azathioprine for the long-term prevention of acute rejection in de novo kidney transplant recipients.</Description>
+        <Groups>
+            <Group name="Tacrolimus Monotherapy">
+                <Participants>Participants will receive tacrolimus as a monotherapy at an individualized target trough level of 5-10 ng/mL.</Participants>
+                <Intervention>Administration of tacrolimus post-transplantation with a tapering dose of steroids.</Intervention>
+            </Group>
+            <Group name="Tacrolimus/Azathioprine Combination">
+                <Participants>Participants will receive a combination of tacrolimus and azathioprine.</Participants>
+                <Intervention>Administration of tacrolimus and azathioprine with a standard steroid regimen post-transplantation.</Intervention>
+            </Group>
+        </Groups>
+    </StudyDesign>
+    <Objective>
+        <PrimaryObjective>To compare the incidence of acute rejection episodes within the first 12 months post-kidney transplantation between tacrolimus monotherapy and standard combination therapy.</PrimaryObjective>
+        <SecondaryObjectives>
+            <Objective>To evaluate the overall renal function, as measured by estimated glomerular filtration rate (eGFR), at 12 months.</Objective>
+            <Objective>To assess safety outcomes, including the incidence of serious adverse events.</Objective>
+            <Objective>To determine the rate of acute rejection subtypes using protocol biopsies at 6 and 12 months.</Objective>
+        </SecondaryObjectives>
+    </Objective>
+    <Endpoints>
+        <PrimaryEndpoint>Incidence of acute rejection episodes, defined as a biopsy-proven rejection within the first 12 months.</PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <Endpoint>eGFR at 12 months, measured using the MDRD formula.</Endpoint>
+            <Endpoint>Incidence of serious adverse events classified according to standard criteria.</Endpoint>
+        </SecondaryEndpoints>
+    </Endpoints>
+    <InclusionCriteria>
+        <Criterion>Adult patients aged 18 years or older.</Criterion>
+        <Criterion>De novo kidney transplant recipients (no prior transplant).</Criterion>
+        <Criterion>Willingness to comply with the study protocol and provide informed consent.</Criterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criterion>History of non-adherence to medications.</Criterion>
+        <Criterion>History of acute rejection within the last year prior to study enrollment.</Criterion>
+        <Criterion>Current infection requiring systemic antibiotics or antiviral medications.</Criterion>
+        <Criterion>Pregnant or breastfeeding females.</Criterion>
+    </ExclusionCriteria>
+    <SamplingMethod>Participants will be stratified based on donor type (living versus deceased) and randomized at a 1:1 ratio to either study group.</SamplingMethod>
+    <SampleSize>Approximately 300 participants to achieve adequate power for statistical analysis.</SampleSize>
+    <FollowUp>
+        <Description>Participants will be followed for a period of 12 months post-transplant for clinical evaluations, laboratory assessments, and adverse event reporting.</Description>
+        <Duration>12 months for the primary endpoint, with an additional safety follow-up at 24 months.</Duration>
+    </FollowUp>
+    <Conclusion>
+        <ExpectedOutcome>It is hypothesized that tacrolimus monotherapy can provide comparable protective efficacy against acute rejection while reducing the incidence of adverse events compared to the traditional combination therapy, thereby potentially impacting the standard practice in kidney transplantation.</ExpectedOutcome>
+    </Conclusion>
+</ClinicalTrial>
+```

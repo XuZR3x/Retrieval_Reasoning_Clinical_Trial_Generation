@@ -1,0 +1,40 @@
+```xml
+<clinical_trial>
+    <title>Evaluation of Bevacizumab (Avastin) in Combination With Pembrolizumab in Patients With Advanced Non-Small Cell Lung Cancer</title>
+    <description>A Phase II Study to Assess the Efficacy and Safety of Bevacizumab in Combination With Pembrolizumab as First-line Treatment for Patients With Advanced Non-Small Cell Lung Cancer (NSCLC).</description>
+    <study_design>An open-label, single-arm study aimed at determining the efficacy of bevacizumab and pembrolizumab for advanced NSCLC, including assessment of adverse events and overall survival rates.</study_design>
+    <target_population>
+        <population>Patients diagnosed with unresectable, stage IIIB or IV NSCLC.</population>
+        <inclusion_criteria>
+            <criterion>Age ≥ 18 years.</criterion>
+            <criterion>Measurable disease as per RECIST criteria.</criterion>
+            <criterion>No prior systemic therapy for advanced NSCLC.</criterion>
+        </inclusion_criteria>
+        <exclusion_criteria>
+            <criterion>Presence of active autoimmune disease requiring treatment.</criterion>
+            <criterion>History of significant cardiovascular disease.</criterion>
+            <criterion>Prior treatment with anti-VEGF therapy or PD-1/PD-L1 inhibitors.</criterion>
+        </exclusion_criteria>
+    </target_population>
+    <intervention>
+        <drug name="Bevacizumab" dose="15 mg/kg" route="IV" schedule="every 3 weeks"/>
+        <drug name="Pembrolizumab" dose="200 mg" route="IV" schedule="every 3 weeks"/>
+    </intervention>
+    <primary_outcome>
+        <outcome>Overall response rate (ORR) assessed at 12 weeks.</outcome>
+    </primary_outcome>
+    <secondary_outcomes>
+        <outcome>Progression-free survival (PFS) at 6 months.</outcome>
+        <outcome>Incidence of adverse events graded by CTCAE.</outcome>
+    </secondary_outcomes>
+    <sample_size>Approximately 150 patients.</sample_size>
+    <anticipated_duration>Expected duration of study treatment is 24 weeks or until disease progression.</anticipated_duration>
+    <failure_reasons>
+        <reason>Inherent Biological Resistance: The combination of bevacizumab and pembrolizumab may not adequately address the complex tumor microenvironment of NSCLC, leading to insufficient anti-tumor activity.</reason>
+        <reason>Suboptimal Dosing Regimen: The fractionated dosing of bevacizumab and pembrolizumab may not achieve adequate plasma concentrations, thereby impairing the therapeutic efficacy against advanced tumor vasculature.</reason>
+        <reason>Patient Population Characteristics: The inclusion of patients with extensive comorbid conditions and advanced disease may have compromised the treatment response, causing increased variability in clinical outcomes.</reason>
+        <reason>Concomitant Therapy Limitations: Combined use of immunotherapy (pembrolizumab) with bevacizumab may produce pharmacological interactions that diminish the overall effectiveness of the regimen.</reason>
+        <reason>Insufficient Biomarker Identification: Lack of robust biomarker stratification may have resulted in an inability to pinpoint patients most likely to benefit from the combination therapy, leading to suboptimal patient-targeted treatment approaches.</reason>
+    </failure_reasons>
+</clinical_trial>
+```

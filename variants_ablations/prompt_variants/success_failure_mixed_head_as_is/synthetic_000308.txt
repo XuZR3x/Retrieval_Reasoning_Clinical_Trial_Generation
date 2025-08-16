@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_trial>
+    <trial_id>CT-004</trial_id>
+    <title>Phase II Study of Temsirolimus in Combination with Pembrolizumab for Treatment of Advanced Non-Small Cell Lung Cancer (NSCLC)</title>
+    <design>
+        <study_type>Interventional</study_type>
+        <phase>II</phase>
+        <study_model>Multi-center, Open-label, Randomized Controlled Trial</study_model>
+        <treatment_regimen>
+            <arm>
+                <treatment>Temsirolimus</treatment>
+                <dosage>Intravenous infusion at 25 mg weekly for 12 weeks</dosage>
+            </arm>
+            <arm>
+                <treatment>Pembrolizumab</treatment>
+                <dosage>Intravenous infusion at 200 mg every 3 weeks for up to 24 weeks</dosage>
+            </arm>
+            <arm>
+                <treatment>Combination of Temsirolimus and Pembrolizumab</treatment>
+                <dosage>As above</dosage>
+            </arm>
+        </treatment_regimen>
+    </design>
+    <rationale>
+        <reason>1. The trial targets a well-defined patient population of advanced NSCLC, enhancing the specificity of efficacy evaluation through strict inclusion criteria, including histological confirmation of disease and prior treatment history, thus minimizing confounding variables.</reason>
+        <reason>2. The combination of temsirolimus and pembrolizumab capitalizes on distinct yet complementary mechanisms of action: temsirolimus inhibits mTOR pathways linked to cell growth, while pembrolizumab targets PD-1, promoting T-cell mediated anti-tumor response. This dual-action approach aims to improve overall therapeutic efficacy.</reason>
+        <reason>3. Comprehensive response assessments are proposed to utilize RECIST v1.1 criteria combined with immune-related response criteria, which facilitates a nuanced understanding of response dynamics, capturing atypical response patterns that may occur with immunotherapy.</reason>
+        <reason>4. The study's design incorporates a robust monitoring protocol to uphold pharmacokinetic consistency, with regular evaluations of drug levels to ensure therapeutic drug concentrations are maintained, thereby reducing the risk of treatment interruptions due to toxicity.</reason>
+        <reason>5. An exploratory focus on biomarkers of response and resistance is integrated to identify molecular signatures predictive of therapy outcomes, potentially allowing for more tailored therapeutic strategies and enhancing the applicability of temsirolimus in a broader context of advanced malignancies.</reason>
+    </rationale>
+    <objectives>
+        <primary_objective>
+            <objective>To evaluate the overall response rate (ORR) as defined by RECIST v1.1 in patients with advanced NSCLC receiving temsirolimus, pembrolizumab, or their combination therapy.</objective>
+        </primary_objective>
+        <secondary_objectives>
+            <objective>To assess progression-free survival (PFS) and overall survival (OS) in the three treatment arms.</objective>
+            <objective>To evaluate the safety and tolerability of the combination regimen.</objective>
+            <objective>To explore correlation of response with molecular marker analysis.</objective>
+        </secondary_objectives>
+    </objectives>
+    <inclusion_criteria>
+        <criterion>Age ≥ 18 years</criterion>
+        <criterion>Histologically confirmed diagnosis of advanced, recurrent, unresectable NSCLC</criterion>
+        <criterion>Performance status (ECOG) of 0-2</criterion>
+        <criterion>Measurable lesions per RECIST v1.1</criterion>
+        <criterion>No prior immunotherapy treatment within 4 weeks</criterion>
+        <criterion>Patients must provide written informed consent</criterion>
+    </inclusion_criteria>
+    <exclusion_criteria>
+        <criterion>Active autoimmune disease requiring systemic therapy</criterion>
+        <criterion>History of known hypersensitivity to temsirolimus or pembrolizumab</criterion>
+        <criterion>Presence of untreated brain metastases</criterion>
+        <criterion>Uncontrolled medical conditions, including cardiovascular or renal abnormalities</criterion>
+        <criterion>Participation in another clinical trial within 30 days</criterion>
+    </exclusion_criteria>
+    <outcomes>
+        <primary_outcomes>
+            <outcome>Overall response rate (ORR) at 12 weeks of treatment according to RECIST v1.1</outcome>
+        </primary_outcomes>
+        <secondary_outcomes>
+            <outcome>Progression-free survival (PFS) assessed at intervals of 3 months up to 24 months.</outcome>
+            <outcome>Overall survival (OS) following treatment completion, assessed up to 36 months.</outcome>
+            <outcome>Incidence of treatment-related adverse events graded according to CTCAE version 5.0.</outcome>
+        </secondary_outcomes>
+    </outcomes>
+    <status>
+        <enrollment>Planned enrollment of 150 patients</enrollment>
+        <completion_date>Expected to complete by December 2025</completion_date>
+    </status>
+</clinical_trial>

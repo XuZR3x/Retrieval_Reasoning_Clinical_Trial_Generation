@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinicalTrial>
+  <trialTitle>Evaluation of Eculizumab in Patients with Recurrent Atypical Hemolytic Uremic Syndrome (aHUS)</trialTitle>
+  <trialPurpose>This study aims to assess the efficacy and safety of eculizumab in patients diagnosed with recurrent atypical hemolytic uremic syndrome (aHUS), hypothesizing that complement inhibition will mitigate disease recurrence and renal impairment.</trialPurpose>
+  <studyDesign>
+    <type>Randomized, Double-Blind, Placebo-Controlled, Multi-Center Study</type>
+    <population>Patients aged 1-80 years diagnosed with recurrent aHUS</population>
+    <duration>12 months</duration>
+    <primaryEndpoint>Composite measure of renal function assessed by estimated Glomerular Filtration Rate (eGFR) and the incidence of thrombotic microangiopathy (TMA) events</primaryEndpoint>
+  </studyDesign>
+  <inclusionCriteria>
+    <criterion>Confirmed diagnosis of recurrent aHUS based on clinical and laboratory criteria</criterion>
+    <criterion>Patient age ≥ 1 year</criterion>
+    <criterion>Demonstration of eGFR < 60 mL/min/1.73 m² at screening</criterion>
+    <criterion>Not previously treated with complement inhibitors</criterion>
+  </inclusionCriteria>
+  <exclusionCriteria>
+    <criterion>Presence of secondary causes of TMA</criterion>
+    <criterion>History of meningococcal disease</criterion>
+    <criterion>Pregnancy or lactation</criterion>
+    <criterion>Significant concomitant comorbidities that might confound the primary outcomes</criterion>
+  </exclusionCriteria>
+  <hypothesis>
+    The study is grounded in the understanding of the pathophysiological mechanism wherein uncontrolled complement activation contributes to endothelial damage and renal impairment seen in aHUS.
+  </hypothesis>
+  <safetyMonitoring>
+    <description>All patients will undergo regular monitoring for adverse events including but not limited to infections, hypersensitivity reactions, and changes in renal function. Safety data will be collected bi-weekly through clinician assessments and patient self-reporting.</description>
+  </safetyMonitoring>
+  <statisticalAnalysis>
+    <method>Adjusted linear regression modeling will be employed to compare eGFR changes between the eculizumab and placebo groups, with an emphasis on deviations in TMA incidence.</method>
+    <sampleSize>Approximately 150 patients will be enrolled to achieve 80% power.</sampleSize>
+  </statisticalAnalysis>
+  <expectedOutcomes>
+    <primaryOutcome>
+      It is anticipated that eculizumab treatment will significantly improve renal function, as reflected by an increase in eGFR and reduced TMA event rates compared to placebo.
+    </primaryOutcome>
+    <secondaryOutcome>
+      Reduction in anti-CFH autoantibody levels and improved quality of life markers as assessed by the EQ-5D scale.
+    </secondaryOutcome>
+  </expectedOutcomes>
+</clinicalTrial>

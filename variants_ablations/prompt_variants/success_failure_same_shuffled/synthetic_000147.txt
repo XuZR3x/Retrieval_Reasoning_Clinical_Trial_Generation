@@ -1,0 +1,50 @@
+```xml
+<clinicalTrial>
+    <title>Evaluating the Efficacy of Imatinib in Treating Advanced Gastrointestinal Stromal Tumors (GISTs)</title>
+    <phase>Phase II</phase>
+    <objective>The primary objective of this study is to evaluate the efficacy and safety of imatinib in patients with unresectable or metastatic gastrointestinal stromal tumors (GISTs) that harbor c-KIT mutations. This trial aims to provide evidence for the role of imatinib as a first-line treatment option in this specific patient demographic.</objective>
+    
+    <inclusionCriteria>
+        <criterion>Histologically confirmed diagnosis of advanced gastrointestinal stromal tumors (GISTs)</criterion>
+        <criterion>Documented presence of c-KIT mutations validated by molecular testing</criterion>
+        <criterion>Measurable disease as per RECIST criteria</criterion>
+        <criterion>Age ≥ 18 years</criterion>
+        <criterion>WHO Performance Status 0-2</criterion>
+        <criterion>Informed consent provided by the subject or legal representative</criterion>
+    </inclusionCriteria>
+    
+    <exclusionCriteria>
+        <criterion>Prior treatment with imatinib or other tyrosine kinase inhibitors</criterion>
+        <criterion>Pregnancy or lactation</criterion>
+        <criterion>Evidence of significant cardiac dysfunction or uncontrolled hypertension</criterion>
+        <criterion>Severe hepatic insufficiency (Child-Pugh grade B and C)</criterion>
+        <criterion>Severe renal impairment (creatinine clearance <30 mL/min)</criterion>
+        <criterion>Participation in another clinical trial within the last 30 days</criterion>
+    </exclusionCriteria>
+    
+    <primaryEndpoints>
+        <endpoint>Rate of objective response (complete and partial responses) evaluated by independent radiological assessments at 6 months</endpoint>
+        <endpoint>Progression-free survival (PFS) at 12 months, defined by >=30% increase in tumor size or emergence of new lesions</endpoint>
+    </primaryEndpoints>
+    
+    <secondaryEndpoints>
+        <endpoint>Incidence of treatment-related adverse events (AEs) and serious AEs</endpoint>
+        <endpoint>Quality of life assessment using the EQ-5D scale along with clinical efficacy measurements</endpoint>
+    </secondaryEndpoints>
+    
+    <design>
+        <description>This is a multicenter, open-label, single-arm trial designed to assess the effectiveness of imatinib in patients with advanced GISTs based on a targeted mechanism of action. Patients will be administered imatinib at a starting dose of 400 mg once daily, with adjustments allowed based on individual tolerance and tolerability feedback.</description>
+        <reason>Utilizing a comprehensive inclusion criterion ensures the selection of appropriate patients likely to exhibit a response due to the targeted mechanism of action of imatinib. The study's structured design bolsters the assessment of both efficacy and safety outcomes through clearly defined endpoints and assessments at pre-specified intervals.</reason>
+    </design>
+    
+    <safetyProfile>
+        <description>The anticipated safety profile of imatinib indicates a manageable tolerance with a low incidence of serious adverse events. Adverse events will be closely monitored throughout the study, and strategies will be implemented to mitigate the risk of severe complications, ensuring patient compliance and safety are prioritized.</description>
+        <reason>Feedback from prior imatinib studies displays a high tolerance profile in several malignancies, allowing for consistent administration without significant disruptions.</reason>
+    </safetyProfile>
+    
+    <expectedOutcomes>
+        <outcome>The study aims to demonstrate a significant rate of objective responses in patients with GISTs with c-KIT mutations, contributing to the clinical relevance of imatinib in treating these malignancies.</outcome>
+        <outcome>Continued success observed in prior studies, including measures of safety and quality of life, indicate potential for imatinib to serve as an effective intervention addressing a substantial unmet need in advanced GISTs treatment.</outcome>
+    </expectedOutcomes>
+</clinicalTrial>
+```

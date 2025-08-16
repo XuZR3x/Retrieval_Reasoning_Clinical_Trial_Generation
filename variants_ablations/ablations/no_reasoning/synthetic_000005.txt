@@ -1,0 +1,51 @@
+```xml
+<clinicalTrial>
+    <title>A Phase II Study Evaluating Avastin (Bevacizumab) in Combination with Radiotherapy for Patients with Locally Advanced Non-Small Cell Lung Cancer</title>
+    <description>
+        This randomized, open-label, multicenter trial aims to evaluate the safety and efficacy of Avastin administered concurrently with radiotherapy in patients diagnosed with locally advanced non-small cell lung cancer (NSCLC). Given that Avastin inhibits VEGF, a protein associated with tumor angiogenesis, the hypothesis is that this combined approach may enhance the radiation effects and potentially improve progression-free survival (PFS) in this patient population.
+    </description>
+    <objectives>
+        <objective>To determine the rate of local disease progression in patients receiving Avastin in conjunction with radiotherapy compared to radiotherapy alone.</objective>
+        <objective>To assess the safety profile and tolerability of the combination treatment.</objective>
+        <objective>To evaluate overall survival (OS) as a secondary endpoint.</objective>
+    </objectives>
+    <inclusionCriteria>
+        <criteria>Age 18 years or older</criteria>
+        <criteria>Histologically confirmed locally advanced NSCLC (Stage IIIA or IIIB)</criteria>
+        <criteria>Measurable disease as per RECIST criteria</criteria>
+        <criteria>ECOG Performance Status 0-2</criteria>
+        <criteria>Adequate organ function as specified in the protocol</criteria>
+    </inclusionCriteria>
+    <exclusionCriteria>
+        <criteria>Prior anti-VEGF therapy or participation in investigational studies within 30 days prior to enrollment</criteria>
+        <criteria>Pregnant or lactating women</criteria>
+        <criteria>History of significant cardiovascular events (e.g., myocardial infarction, unstable angina, or stroke) within the past 6 months</criteria>
+        <criteria>Evidence of pathological bleeding diathesis or coagulopathy</criteria>
+        <criteria>Current evidence of CNS metastases or prior radiation to the brain</criteria>
+        <criteria>Severe concomitant systemic diseases or conditions that could interfere with study treatment</criteria>
+    </exclusionCriteria>
+    <intervention>
+        <type>Combination Therapy</type>
+        <details>
+            <administeredDrugs>Avastin administered intravenously at 15 mg/kg every 21 days alongside radiotherapy</administeredDrugs>
+            <administeredTreatment>Standard fractionated radiotherapy (60-66 Gy) delivered in 30-33 fractions</administeredTreatment>
+        </details>
+    </intervention>
+    <studyDesign>
+        <design>Multicenter, open-label, randomized control trial</design>
+        <randomization>Patients will be randomized in a 1:1 ratio to either the Avastin + radiotherapy arm or the radiotherapy alone arm</randomization>
+    </studyDesign>
+    <endpoints>
+        <primaryEndpoint>Local progression-free survival at 12 months post-treatment</primaryEndpoint>
+        <secondaryEndpoints>
+            <endpoint>Overall survival at 24 months</endpoint>
+            <endpoint>Quality of life assessed using EORTC QLQ-C30</endpoint>
+            <endpoint>Incidence of grade 3-5 adverse events as per NCI CTCAE criteria</endpoint>
+        </secondaryEndpoints>
+    </endpoints>
+    <results>
+        <outcome>The study was terminated early due to an inability to demonstrate significant improvement in local progression-free survival in the Avastin + radiotherapy group compared to the radiotherapy alone group, with an observed increase in severe adverse events, including pulmonary hemorrhage and severe hypertension.</outcome>
+        <conclusion>Despite the rationale for combining Avastin with radiotherapy in locally advanced NSCLC based on preclinical findings, this trial highlights the complex interplay between anti-angiogenic therapy and radiotherapy, resulting in an unfavorable safety profile and lack of improvement in clinical outcomes.</conclusion>
+    </results>
+</clinicalTrial>
+```

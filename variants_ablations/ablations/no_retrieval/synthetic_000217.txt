@@ -1,0 +1,59 @@
+```xml
+<clinical_trial>
+    <title>Phase III Randomized Study of Bevacizumab in Combination with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer (NSCLC)</title>
+    <phase>Phase III</phase>
+    <design>Randomized, Open-label, Multicenter</design>
+    <objective>
+        <primary>To evaluate the effectiveness of bevacizumab combined with pembrolizumab compared to pembrolizumab alone in prolonging progression-free survival in patients with advanced NSCLC.</primary>
+        <secondary>To assess overall survival, response rate, and safety profile in both treatment groups.</secondary>
+    </objective>
+    <rationale>
+        Bevacizumab, a monoclonal antibody that inhibits vascular endothelial growth factor (VEGF), is theorized to enhance the anti-tumor efficacy of immune checkpoint inhibitors such as pembrolizumab, which targets the PD-1 pathway. The combination aims to synergistically impair tumor angiogenesis while simultaneously activating immune-mediated tumor destruction, enhancing patient outcomes.
+    </rationale>
+    <participants>
+        <inclusion_criteria>
+            <criteria>Histologically or cytologically confirmed non-small cell lung cancer (NSCLC) diagnosed as advanced (Stage IIIB or IV).</criteria>
+            <criteria>At least one measurable lesion based on RECIST v1.1 criteria.</criteria>
+            <criteria>ECOG performance status of 0-1.</criteria>
+            <criteria>Age ≥ 18 years with a life expectancy of at least 6 months.</criteria>
+            <criteria>No prior chemotherapy for advanced disease.</criteria>
+            <criteria>Free of uncontrolled hypertension and other significant comorbid conditions.</criteria>
+            <criteria>Signed informed consent.</criteria>
+        </inclusion_criteria>
+        <exclusion_criteria>
+            <criteria>Presence of CNS metastases.</criteria>
+            <criteria>Prior history of severe allergic reactions to monoclonal antibodies.</criteria>
+            <criteria>Concurrent treatment with another investigational drug.</criteria>
+            <criteria>Uncontrolled intercurrent illness including, but not limited to, active infection requiring treatment.</criteria>
+            <criteria>Women who are pregnant or breastfeeding.</criteria>
+        </exclusion_criteria>
+    </participants>
+    <methods>
+        <design_description>This is a multicenter, randomized Phase III trial where eligible participants will be assigned in a 1:1 ratio to receive either:</design_description>
+        <arm>
+            <name>Arm A: Bevacizumab + Pembrolizumab</name>
+            <description>Patients will receive intravenous bevacizumab at a dosage of 15 mg/kg every three weeks alongside pembrolizumab at a dosage of 200 mg every three weeks.</description>
+        </arm>
+        <arm>
+            <name>Arm B: Pembrolizumab Alone</name>
+            <description>Patients will receive pembrolizumab at a dosage of 200 mg every three weeks without bevacizumab.</description>
+        </arm>
+        <monitoring>
+            <safety_monitoring>Safety and toxicity will be monitored using CTCAE v5.0 guidelines, with adverse events reported at each treatment cycle.</safety_monitoring>
+            <efficacy_monitoring>Imaging studies will be performed every 8 weeks to assess tumor response according to RECIST v1.1.</efficacy_monitoring>
+        </monitoring>
+    </methods>
+    <outcome_measures>
+        <primary_endpoints>Progression-free survival measured from randomization to disease progression or death.</primary_endpoints>
+        <secondary_endpoints>Overall survival rates, overall response rates as evaluated by RECIST criteria, and analysis of treatment-related adverse events.</secondary_endpoints>
+    </outcome_measures>
+    <pharmacogenomics>
+        <assessment>The study will consider the genetic expression of immune and angiogenic markers among the participants, aiming to correlate genotypic variations with treatment responses.</assessment>
+    </pharmacogenomics>
+    <expected_outcomes>
+        <outcome>The combination of bevacizumab and pembrolizumab is anticipated to show an improvement in progression-free survival rates compared to pembrolizumab alone, substantiated by the mechanisms of action promoting enhanced anti-tumor immunity alongside angiogenesis inhibition.</outcome>
+        <outcome>This clinical trial adheres to stringent monitoring protocols for safety and toxicity assessments, ensuring adverse effects are meticulously documented and managed to maintain patient adherence and maximize therapeutic response.</outcome>
+    </expected_outcomes>
+    <follow_up_period>Patients will be followed for up to 24 months after completion of treatment to assess long-term outcomes and safety.</follow_up_period>
+</clinical_trial>
+```

@@ -1,0 +1,71 @@
+```xml
+<clinical_trial>
+    <study_title>Evaluation of Avastin (Bevacizumab) in Conjunction with Enhanced Dosage Chemotherapy in Patients with Recurrent High-Grade Glioma</study_title>
+    <trial_identifier>NCT04567834</trial_identifier>
+    <phase>II</phase>
+    <design>Multi-Center, Randomized, Open-Label</design>
+    <objective>The primary objective of this study was to evaluate the efficacy of Avastin in combination with an optimized high-dose chemotherapy regimen in prolonging progression-free survival (PFS) in patients with recurrent high-grade glioma. Secondary objectives included safety assessment and overall survival (OS) evaluation.</objective>
+    
+    <population>
+        <inclusion_criteria>
+            - Adults aged 18 years and older
+            - Histologically confirmed recurrent high-grade glioma (WHO grades III and IV)
+            - Measurable disease via MRI, with a defined longest diameter
+            - ECOG performance status of 0-2
+            - Adequate hematologic and organ function
+        </inclusion_criteria>
+        
+        <exclusion_criteria>
+            - Previous systemic treatment with Avastin
+            - Any concurrent anti-angiogenic therapy
+            - History of any major cardiovascular events in the past 6 months
+            - New York Heart Association (NYHA) Grade II or greater heart failure
+            - Pregnant or lactating women
+            - Evidence of active bleeding diathesis or coagulopathy
+        </exclusion_criteria>
+    </population>
+    
+    <methodology>
+        <treatment>
+            <arm>
+                <name>Avastin Plus High-Dose Chemotherapy</name>
+                <details>Participants received 15 mg/kg Avastin intravenously every 3 weeks in combination with a high-dose chemotherapy regimen of temozolomide at 200 mg/m² daily for 5 consecutive days, supplemented with dose-dense radiation therapy.</details>
+            </arm>
+            <arm>
+                <name>Control - High-Dose Chemotherapy Alone</name>
+                <details>Participants received the high-dose chemotherapy regimen without Avastin.</details>
+            </arm>
+        </treatment>
+        
+        <randomization>
+            - Randomized 1:1 to either treatment arm
+        </randomization>
+        
+        <followup>
+            - Participants were assessed every 6 weeks for clinical response and toxicity for a total duration of 12 months.
+        </followup>
+    </methodology>
+
+    <outcomes>
+        <primary_endpoint>
+            - The primary endpoint was PFS calculated from the date of randomization until disease progression or death.
+        </primary_endpoint>
+        <secondary_endpoints>
+            - Safety profile assessment through incidence of adverse events including but not limited to hypertension, gastrointestinal perforations, and neurological deterioration.
+            - Overall survival measured at 12 and 24 months.
+        </secondary_endpoints>
+    </outcomes>
+
+    <results>
+        <primary_outcome>
+            - Analysis revealed no statistically significant difference in PFS between treatment arms, suggesting failed enhancement of therapeutic effects with the addition of Avastin.
+        </primary_outcome>
+        <safety_findings>
+            - Increased incidence of adverse events was documented in the Avastin plus chemotherapy cohort, particularly hypertension and instances of symptomatic intracranial hemorrhage leading to treatment discontinuation for some participants.
+        </safety_findings>
+
+    <conclusion>
+        - The study hypothesized that combining Avastin with optimized high-dose chemotherapy to achieve improved efficacy might improve PFS in recurrent high-grade glioma. However, outcomes indicate limited efficacy of Avastin in this patient population, alongside a concerning adverse safety profile that negatively impacted patient compliance and overall treatment viability.
+    </conclusion>
+</clinical_trial>
+```

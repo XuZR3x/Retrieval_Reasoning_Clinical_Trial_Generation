@@ -1,0 +1,40 @@
+```xml
+<Study>
+    <Title>A Phase II Study Evaluating the Efficacy and Safety of Topotecan as Monotherapy in Patients with Recurrent Platinum-Resistant Ovarian Cancer</Title>
+    <Design>Open-Label, Single-Arm Phase II Trial</Design>
+    <Objective>The primary objective of this study is to assess the overall response rate (ORR) to topotecan monotherapy in patients diagnosed with recurrent platinum-resistant ovarian cancer. Secondary objectives include safety evaluation, duration of response, progression-free survival (PFS), and overall survival (OS).</Objective>
+    <InclusionCriteria>
+        <Criterion>Age ≥ 18 years</Criterion>
+        <Criterion>Histological confirmation of ovarian cancer, fallopian tube cancer, or primary peritoneal cancer</Criterion>
+        <Criterion>Recurrent disease after at least one platinum-based chemotherapy regimen</Criterion>
+        <Criterion>Documented disease progression within 6 months of completing previous platinum-based chemotherapy</Criterion>
+        <Criterion>ECOG performance status of 0, 1, or 2</Criterion>
+        <Criterion>Life expectancy ≥ 3 months</Criterion>
+        <Criterion>Adequate hematologic, renal, and hepatic function defined by: ANC ≥ 1500 cells/mm3, platelet count ≥ 100,000 cells/mm3, hemoglobin ≥ 9 g/dL, creatinine ≤ 1.5 mg/dL, ALT and AST ≤ 2.0 X ULN</Criterion>
+        <Criterion>Informed consent signed by participant</Criterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criterion>Active infections requiring systemic therapy</Criterion>
+        <Criterion>History of significant uncontrolled medical conditions</Criterion>
+        <Criterion>CNS metastases or symptomatic brain lesions</Criterion>
+        <Criterion>Prior chemotherapy or investigational treatment within 4 weeks of enrollment</Criterion>
+        <Criterion>Pregnant or nursing women, or females of childbearing potential without adequate contraception</Criterion>
+        <Criterion>Prior treatment with topotecan or known hypersensitivity to any component of the study drug</Criterion>
+    </ExclusionCriteria>
+    <Methodology>Patients will receive IV topotecan at a dose of 1.5 mg/m2 on Days 1, 8, and 15 of a 28-day cycle for a maximum of 6 cycles, with restaging performed pre-therapy after every 2 cycles. An independent data monitoring committee will evaluate interim results.</Methodology>
+    <Endpoints>
+        <PrimaryEndpoint>Overall Response Rate (CR + PR) assessed by RECIST criteria</PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <Endpoint>Safety Profile as determined by the incidence and severity of adverse events</Endpoint>
+            <Endpoint>Duration of Response (DR) defined from time of initial response to progression</Endpoint>
+            <Endpoint>Time to Progression (TTP) and Overall Survival (OS)</Endpoint>
+        </SecondaryEndpoints>
+    </Endpoints>
+    <AnticipatedChallenges>
+        <Challenge>The differing pharmacodynamic profiles of concurrent therapies leading to potential antagonistic interactions may obscure the efficacy insights due to lack of comparative data with a control arm.</Challenge>
+        <Challenge>The selection of patients with advanced disease characteristics may result in lower-than-expected response rates, pointing towards an inherent bias in treatment efficacy.<Challenge>
+        <Challenge>Patients’ high baseline resistance to topotecan due to previous therapies may exacerbate expected outcomes relative to historical data.</Challenge>
+        <Challenge>Inadequate supportive care strategy may influence patient compliance and treatment continuity, potentially skewing efficacy results.</Challenge>
+    </AnticipatedChallenges>
+</Study>
+```

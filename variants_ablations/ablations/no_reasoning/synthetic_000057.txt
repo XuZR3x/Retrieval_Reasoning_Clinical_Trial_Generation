@@ -1,0 +1,51 @@
+```xml
+<ClinicalTrial>
+    <Title>Phase II Study of AZD2171 in Combination With Standard Chemotherapy for Metastatic Colorectal Cancer</Title>
+    <StudyID>AZD2171-CRC-102</StudyID>
+    <Status>Failed</Status>
+    <Design>
+        <Description>A Phase II, Open-Label trial to evaluate the efficacy and safety of AZD2171 combined with standard chemotherapeutic agents (FOLFIRI - folinic acid, fluorouracil, and irinotecan) in patients with refractory metastatic colorectal cancer.</Description>
+        <Parts>
+            <Part>
+                <Phase>II</Phase>
+                <Type>Open-Label</Type>
+                <Focus>Efficacy and safety assessment of AZD2171 in advanced colorectal cancer.</Focus>
+            </Part>
+        </Parts>
+    </Design>
+    <Rationale>
+        <Outcome>The study intended to evaluate the combination of AZD2171 with FOLFIRI, hypothesizing that AZD2171 could potentiate the anti-tumor effects of standard chemotherapy.</Outcome>
+        <Issue>Despite initial enthusiasm, the trial was terminated due to an observed increase in severe adverse events including gastrointestinal perforations and severe hypertension that were disproportionate compared to the chemotherapy alone. This imbalance in toxicity suggested a lack of favorable therapeutic window for the combination.</Issue>
+    </Rationale>
+    <InclusionCriteria>
+        <Criteria>Histologically confirmed metastatic colorectal cancer.</Criteria>
+        <Criteria>Previous treatment with at least one line of systemic therapy.</Criteria>
+        <Criteria>Eastern Cooperative Oncology Group (ECOG) performance status 0-2.</Criteria>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criteria>Uncontrolled hypertension or hypertensive crises.</Criteria>
+        <Criteria>History of gastrointestinal perforation or fistula.</Criteria>
+        <Criteria>Presence of unstable central nervous system metastases.</Criteria>
+    </ExclusionCriteria>
+    <Enrollment>
+        <Number>120</Number>
+        <Demographics>
+            <AgeRange>18-75</AgeRange>
+            <Gender>Both</Gender>
+        </Demographics>
+    </Enrollment>
+    <Endpoints>
+        <Primary>
+            <Endpoint>Overall response rate as measured by RECIST criteria.</Endpoint>
+        </Primary>
+        <Secondary>
+            <Endpoint>Progression-free survival (PFS) and overall survival (OS).</Endpoint>
+            <Endpoint>Safety and tolerability as assessed by the frequency and severity of adverse events.</Endpoint>
+        </Secondary>
+    </Endpoints>
+    <Conclusion>
+        <Statement>The study was terminated early following a safety review that indicated unacceptable toxicity profiles, with a significant number of patients experiencing severe adverse reactions when AZD2171 was administered in combination with FOLFIRI.</Statement>
+        <Implication>This trial underscores the necessity for a rigorous evaluation of toxicological profiles when investigating innovative adjunct therapies in combination regimens.</Implication>
+    </Conclusion>
+</ClinicalTrial>
+```

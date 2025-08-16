@@ -1,0 +1,58 @@
+```xml
+<clinical_trial>
+    <trial_id>DRV-001</trial_id>
+    <trial_name>Phase 2b, Double-Blind, Randomized Study of the Efficacy of Darunavir in Increasing Immunologic Response in Treatment-Naïve HIV-1 Patients</trial_name>
+    <study_design>
+        <study_type>Double-Blind, Randomized, Placebo-Controlled</study_type>
+        <study_phase>Phase 2b</study_phase>
+        <design_details>
+            This exploratory study aimed to evaluate the immunologic response to darunavir and its impact on virologic suppression in treatment-naïve HIV-1 patients. Participants were randomized to receive either darunavir/ritonavir or placebo, alongside standard anti-HIV care, with primary endpoints focused on CD4+ T-cell count recovery and HIV-1 RNA levels at week 48.
+        </design_details>
+    </study_design>
+    <objectives>
+        <objective>To assess the efficacy of darunavir in inducing immunologic responses as measured by changes in CD4+ T-cell counts.</objective>
+        <objective>To evaluate the virologic suppression rate in treatment-naïve patients receiving darunavir compared to placebo.</objective>
+        <objective>To investigate the association between drug adherence and clinical outcomes.</objective>
+    </objectives>
+    <inclusion_criteria>
+        <criterion>HIV-1 infection documented by certified laboratory tests.</criterion>
+        <criterion>Treatment-naïve status (no prior ART therapy).</criterion>
+        <criterion>Age between 18 and 65 years.</criterion>
+        <criterion>Prior documented HIV-1 RNA levels ≥ 1000 copies/mL.</criterion>
+        <criterion>Ability and willingness to provide informed consent and adhere to study protocols.</criterion>
+    </inclusion_criteria>
+    <exclusion_criteria>
+        <criterion>Presence of viral load indicative of significant resistance mutations (NRTI, NNRTI, PI resistance).</criterion>
+        <criterion>Pregnancy or breastfeeding.</criterion>
+        <criterion>Active drug or alcohol use.</criterion>
+        <criterion>Co-existing medical conditions affecting treatment adherence or outcomes (e.g., decompensated hepatic disease).</criterion>
+        <criterion>Concurrent use of immunomodulators, systemic corticosteroids, or other prohibited medications.</criterion>
+    </exclusion_criteria>
+    <primary_endpoint>
+        <endpoint>Change in CD4+ T-cell count from baseline to week 48.</endpoint>
+    </primary_endpoint>
+    <secondary_endpoints>
+        <endpoint>Virologic suppression, defined as HIV-1 RNA ≤50 copies/mL at week 48.</endpoint>
+        <endpoint>Assessment of adherence using electronic monitoring devices.</endpoint>
+    </secondary_endpoints>
+    <results>
+        <result>
+            <finding>At week 48, only 35% of participants receiving darunavir achieved HIV-1 RNA ≤50 copies/mL, compared to 50% in the placebo group.</finding>
+            <finding>The mean increase in CD4+ T-cell counts was 150 cells/mm³ for the darunavir group versus 250 cells/mm³ for the placebo.</finding>
+            <finding>Adherence monitoring revealed a median adherence rate of 60% among participants receiving darunavir, correlating with poorer virologic outcomes.</finding>
+        </result>
+        <failure_reason>
+            <reason>Inadequate pharmacokinetic profiles leading to suboptimal drug concentrations.</reason>
+            <reason>High prevalence of resistance mutations prior to study enrollment limiting effectiveness.</reason>
+            <reason>Challenges in achieving and maintaining adherence, particularly in resource-limited settings.</reason>
+        </failure_reason>
+    </results>
+    <conclusions>
+        <conclusion>The trial conclusively showed that darunavir failed to achieve statistically significant improvements in CD4+ T-cell recovery and virologic suppression compared to placebo. The interplay of insufficient therapeutic concentrations and poor adherence highlights the complexities involved in treating treatment-naïve HIV-1 patients. Further investigations are warranted to address pharmacokinetic limitations and resistance profiles amongst prospective participants.</conclusion>
+    </conclusions>
+    <date_conducted>
+        <start_date>January 2021</start_date>
+        <end_date>June 2022</end_date>
+    </date_conducted>
+</clinical_trial>
+```

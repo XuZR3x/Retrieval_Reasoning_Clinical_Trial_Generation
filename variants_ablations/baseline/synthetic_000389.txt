@@ -1,0 +1,49 @@
+```xml
+<clinical_trial>
+    <title>Phase III Trial Evaluating the Efficacy of Fluorouracil with Combination Immunotherapy in Patients with Advanced Melanoma</title>
+    <rationale>Fluorouracil (5-FU) has demonstrated substantial cytotoxic effects against neoplastic cells when integrated into multimodal treatment regimens. The concomitant administration of fluorouracil with immunotherapy, particularly immune checkpoint inhibitors, has the potential to enhance antitumor activity by modulating the tumor microenvironment, subsequently improving the efficacy of both therapeutic modalities.</rationale>
+    <purpose>This multicenter randomized phase III trial aims to assess the overall survival, progression-free survival, and treatment tolerability of fluorouracil combined with programmed cell death-1 (PD-1) inhibitors as a frontline treatment in patients with unresectable advanced melanoma.</purpose>
+    <objectives>
+        <primary>
+            Determine the overall survival rate of patients receiving fluorouracil with PD-1 inhibitors compared to a control group receiving PD-1 inhibitors alone.
+        </primary>
+        <secondary>
+            Assess the progression-free survival, treatment-related adverse events, and quality of life metrics in both treatment groups.
+        </secondary>
+    </objectives>
+    <outline>
+        <study_design>This is a randomized, open-label phase III clinical trial involving patients diagnosed with stage III unresectable or stage IV melanoma.</study_design>
+        <treatment_arms>
+            <arm_I>
+                Patients will receive fluorouracil via continuous intravenous infusion at a dose of 300 mg/m²/day for the first 14 days combined with an intravenous PD-1 inhibitor (e.g., pembrolizumab) administered every three weeks.
+            </arm_I>
+            <arm_II>
+                Patients will receive PD-1 inhibitor therapy alone as per standard protocol, administered every three weeks without additional fluorouracil treatment.
+            </arm_II>
+        </treatment_arms>
+        <follow_up>
+            Patients will be monitored through imaging and clinical assessments every 8 weeks for the first 6 months, followed by quarterly assessments for the subsequent 24 months.
+        </follow_up>
+    </outline>
+    <projected_accrual>A total of 1,200 patients will be recruited and randomized within a span of 5 years.</projected_accrual>
+    <disease_characteristics>
+        <criteria>
+            Histologically confirmed advanced melanoma with unresectable disease and measurable lesions according to RECIST criteria.
+        </criteria>
+    </disease_characteristics>
+    <patient_characteristics>
+        <age>18 years and older</age>
+        <performance_status>Eastern Cooperative Oncology Group (ECOG) PS 0-1</performance_status>
+        <prior_therapies>No previous systemic therapies for melanoma; no prior immunotherapy.</prior_therapies>
+    </patient_characteristics>
+    <primary_endpoints>
+        <endpoint>Overall survival defined as the time from randomization to death from any cause.</endpoint>
+    </primary_endpoints>
+    <secondary_endpoints>
+        <endpoint>Progression-free survival time evaluated from randomization until the first documentation of disease progression.</endpoint>
+        <endpoint>Assessment of treatment-related adverse events using CTCAE v5.0 criteria.</endpoint>
+        <endpoint>Quality of life will be evaluated using the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ-C30).</endpoint>
+    </secondary_endpoints>
+    <expected_outcomes>The integration of fluorouracil within a combination immunotherapy regimen is hypothesized to yield a statistically significant improvement in overall survival compared to PD-1 inhibitor monotherapy. Additionally, the rigorous selection criteria and successful treatment adherence are expected to yield insights into treatment tolerability and quality of life.</expected_outcomes>
+</clinical_trial>
+```

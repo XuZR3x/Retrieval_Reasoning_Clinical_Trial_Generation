@@ -1,0 +1,37 @@
+```xml
+<clinicalTrial>
+  <title>Phase II Multicenter Study Evaluating Vandetanib in Combination with Pembrolizumab in Patients with Advanced Squamous Cell Carcinoma of the Head and Neck After Platinum Based Chemotherapy</title>
+  <objective>The primary objective of this Phase II study is to assess the efficacy and safety of vandetanib in combination with pembrolizumab in patients with advanced squamous cell carcinoma of the head and neck (SCCHN) who have progressed on or following platinum-based chemotherapy.</objective>
+  <methods>
+    <studyDesign>Multicenter, open-label, single-arm, Phase II trial.</studyDesign>
+    <treatment>Patients will receive vandetanib at a dose of 100 mg daily, in combination with pembrolizumab administered at 200 mg every three weeks for a total of 6 cycles, followed by maintenance therapy with vandetanib.</treatment>
+    <inclusionCriteria>
+      - Age ≥ 18 years old
+      - Histologically confirmed advanced SCCHN 
+      - Progressed on or following at least one platinum-based chemotherapy regimen 
+      - ECOG performance status of 0-1
+      - Measurable disease as per RECIST 1.1 criteria
+    </inclusionCriteria>
+    <exclusionCriteria>
+      - Prior treatment with anti-PD-1 or anti-PD-L1 agents
+      - Concurrent malignancies
+      - History of severe hypersensitivity reactions to any monoclonal antibody therapy
+      - Significant cardiovascular abnormalities
+    </exclusionCriteria>
+  </methods>
+  <primaryEndpoint>Overall response rate (ORR) defined as the proportion of patients with confirmed complete response (CR) or partial response (PR) per RECIST 1.1 criteria.</primaryEndpoint>
+  <secondaryEndpoints>
+    - Progression-free survival (PFS) 
+    - Overall survival (OS)
+    - Assessment of adverse events (AEs) and serious adverse events (SAEs)
+  </secondaryEndpoints>
+  <results>
+    <failureReason>1. Insufficient Target Engagement: Vandetanib demonstrated inadequate modulation of the downstream signaling pathways associated with VEGFR and EGFR in SCCHN, resulting in diminished anticancer efficacy.</failureReason>
+    <failureReason>2. Tumor Heterogeneity: The enrolled patient cohort exhibited marked genetic variability in tumor profiles, which resulted in inconsistent responses to vandetanib across individuals.</failureReason>
+    <failureReason>3. Prior Treatment History: The selection of predominantly late-stage patients with a history of multiple therapies resulted in an unresponsive cohort. The aggressiveness of the disease phenotype adversely affected the treatment outcomes.</failureReason>
+    <failureReason>4. Potential Toxicity Effects: Significant adverse events related to the combination therapy were noted, leading to discontinuation of treatment in a considerable subset of patients, thus compromising the integrity of efficacy analyses.</failureReason>
+    <failureReason>5. Suboptimal Combination Strategy: The pharmacokinetic interactions between vandetanib and pembrolizumab were not conducive to enhanced antitumor activity, negating any potential synergistic effects of the dosage regimen in this population.</failureReason>
+  </results>
+  <conclusions>The trial failed to demonstrate a significant benefit of combining vandetanib with pembrolizumab in this advanced SCCHN cohort. The multifactorial reasons for failure include insufficient compound engagement, tumor heterogeneity, selection bias regarding prior treatment histories, adverse event profiles, and suboptimal combination therapy strategies. Further exploration of vandetanib in distinct patient subpopulations or in combination with other therapeutic modalities is warranted.</conclusions>
+</clinicalTrial>
+```

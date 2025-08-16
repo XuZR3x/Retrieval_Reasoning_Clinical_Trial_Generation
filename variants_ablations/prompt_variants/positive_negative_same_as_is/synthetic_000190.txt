@@ -1,0 +1,59 @@
+```xml
+<clinicalTrial>
+    <title>A Phase III, Randomized, Double-Blind Study of Ruxolitinib in Patients With Advanced Myelofibrosis</title>
+    <description>This clinical trial aims to evaluate the efficacy and safety of ruxolitinib in patients diagnosed with advanced stages of myelofibrosis, including primary myelofibrosis (PMF), post-polycythemia vera (PPV) myelofibrosis, and post-essential thrombocythemia (PET) myelofibrosis. The study seeks to confirm the sustained therapeutic benefits demonstrated in earlier trials by employing a design that mitigates variability through robust patient selection criteria, comprehensive safety monitoring, and a clear primary endpoint measure.</description>
+    
+    <design>
+        <type>Phase III, Randomized, Double-Blind, Multicenter</type>
+        <objectives>
+            <objective>To assess the reduction in spleen volume and improvement in symptom burden in patients treated with ruxolitinib compared to placebo.</objective>
+            <objective>To monitor and evaluate the safety profile of ruxolitinib through adverse event reporting and laboratory evaluations.</objective>
+        </objectives>
+    </design>
+    
+    <inclusionCriteria>
+        <criteria>
+            <item>Adults aged 18 years and older.</item>
+            <item>Documented diagnosis of PMF, PPV-MF, or PET-MF based on the latest WHO criteria and IWG-MRT guidelines.</item>
+            <item>Presence of splenomegaly palpable ≥5 cm from the costal margin.</item>
+            <item>Risk classification according to IWG-MRT (at least two intermediate or high risk factors).</item>
+            <item>Bone marrow reserve determined adequate (absolute neutrophil count ≥1,000/μL, platelet count ≥50,000/μL).</item>
+            <item>No previous treatment with JAK inhibitors.</item>
+            <item>Informed consent obtained.</item>
+        </criteria>
+    </inclusionCriteria>
+    
+    <exclusionCriteria>
+        <criteria>
+            <item>History of significant hepatic or renal impairment (e.g., ALT >2.5-fold ULN, creatinine >2.0 mg/dL).</item>
+            <item>Clinically significant current infections, including viral hepatitis or HIV.</item>
+            <item>Concurrent malignancies requiring intervention with the exception of early-stage skin cancers.</item>
+            <item>History of serious thromboembolic events or myocardial infarction within the past six months.</item>
+            <item>Pregnant or breastfeeding women.</item>
+            <item>Any other condition which, in the investigator’s judgment, would jeopardize patient safety or compliance.</item>
+        </criteria>
+    </exclusionCriteria>
+    
+    <primaryEndpoint>
+        <endpoint>Proportion of patients achieving a ≥35% reduction in spleen volume from baseline as assessed by MRI at 24 weeks.</endpoint>
+    </primaryEndpoint>
+    
+    <secondaryEndpoints>
+        <endpoint>Improvement in symptom burden measured by the Myelofibrosis Symptom Assessment Form (MFSAF).</endpoint>
+        <endpoint>Assessment of overall survival and time to progression.</endpoint>
+    </secondaryEndpoints>
+    
+    <safetyMonitoring>
+        <description>Adverse events will be systematically recorded and analyzed. Comprehensive laboratory testing will be conducted at baseline and regular intervals to monitor hematological and hepatic functions.</description>
+    </safetyMonitoring>
+    
+    <adaptiveDesign>
+        <description>The trial will allow for dose adjustments based on observed efficacy and tolerance. Interim analyses will guide potential continuation or modification of treatment protocols in response to patient outcomes.</description>
+    </adaptiveDesign>
+    
+    <anticipatedOutcomes>
+        <outcome>Validation of ruxolitinib’s efficacy in achieving meaningful clinical benefits, specifically in the context of reducing splenomegaly and improving overall quality of life.</outcome>
+        <outcome>Establish a well-documented long-term safety profile supporting ruxolitinib as a standard of care in managing advanced myelofibrosis.</outcome>
+    </anticipatedOutcomes>
+</clinicalTrial>
+```

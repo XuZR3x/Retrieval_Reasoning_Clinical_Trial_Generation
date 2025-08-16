@@ -1,0 +1,49 @@
+```xml
+<clinicalTrial>
+    <title>Randomized Phase II Study of Sorafenib Tosylate in Combination with Vemurafenib for Patients with BRAF V600 Mutated Melanoma</title>
+    <rationals>
+        <rationale>Combination therapy utilizing sorafenib tosylate, an anti-angiogenic agent, alongside vemurafenib, a BRAF inhibitor, is hypothesized to elicit a synergistic effect, enhancing tumor inhibition through dual pathways: suppression of tumor cell proliferation and disruption of blood supply.</rationale>
+    </rationals>
+    <purpose>To evaluate the efficacy and safety of sorafenib tosylate when administered in conjunction with vemurafenib compared to vemurafenib alone in patients with BRAF V600 mutated metastatic melanoma.</purpose>
+    <objectives>
+        <primary>
+            <objective>To assess progression-free survival (PFS) in patients administered sorafenib tosylate plus vemurafenib versus those receiving vemurafenib monotherapy.</objective>
+            <objective>To evaluate the overall survival (OS) in both treatment arms.</objective>
+        </primary>
+        <secondary>
+            <objective>To determine the objective response rate (ORR) and duration of response in both groups.</objective>
+            <objective>To assess biomarkers predictive of treatment response using archival tumor samples and correlate them with clinical outcomes.</objective>
+            <objective>To characterize the safety profile of sorafenib tosylate in combination with vemurafenib.</objective>
+        </secondary>
+    </objectives>
+    <outline>
+        <description>This is a multicenter phase II clinical trial stratifying participants based on prior treatments and the presence of brain metastases. Participants will be randomized into two arms, with both arms receiving vemurafenib while the experimental arm will receive concurrent sorafenib tosylate.</description>
+        <arm>
+            <name>Arm A: Vemurafenib Monotherapy</name>
+            <treatment>Patients receive oral vemurafenib twice daily on days 1-28.</treatment>
+        </arm>
+        <arm>
+            <name>Arm B: Sorafenib Tosylate and Vemurafenib</name>
+            <treatment>Patients receive oral sorafenib tosylate twice daily and oral vemurafenib as in Arm A, administered concurrently on similar days throughout the treatment cycle.</treatment>
+        </arm>
+    </outline>
+    <inclusionCriteria>
+        <criteria>Histologically confirmed melanoma with BRAF V600 mutation.</criteria>
+        <criteria>Metrically measurable disease per RECIST criteria.</criteria>
+        <criteria>Aged ≥ 18 years with an ECOG performance status of 0-1.</criteria>
+        <criteria>Normal baseline laboratory values including WBC count, hemoglobin, platelet count, liver enzymes, and creatinine.</criteria>
+        <criteria>Ability to provide informed consent and comply with study protocol.</criteria>
+    </inclusionCriteria>
+    <exclusionCriteria>
+        <criteria>Other malignancies within the past 5 years (apart from non-melanoma skin cancers).</criteria>
+        <criteria>Severe cardiovascular disease or acute infection.</criteria>
+        <criteria>Concurrent use of strong CYP3A4 inducers or current therapy for melanoma other than the study agents.</criteria>
+        <criteria>Pregnancy or lactation.</criteria>
+    </exclusionCriteria>
+    <results>
+        <finding>Preliminary analysis demonstrated significant improvement in PFS (median PFS of 9.5 months in Arm B vs. 5.0 months in Arm A).</finding>
+        <finding>Overall survival was extended in Arm B with a median OS of 18 months compared to 12 months in Arm A.</finding>
+        <finding>The combination therapy was well tolerated without unexpected toxicities, supporting the potential for further development.</finding>
+    </results>
+</clinicalTrial>
+```

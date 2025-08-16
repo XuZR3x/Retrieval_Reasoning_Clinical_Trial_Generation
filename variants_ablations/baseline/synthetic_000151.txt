@@ -1,0 +1,52 @@
+```xml
+<clinical_trial>
+    <trial_title>Phase II Study of Olaparib in Combination With Gemcitabine for Advanced Pancreatic Adenocarcinoma</trial_title>
+    <study_design>
+        This study is a Phase II, open-label, single-arm trial assessing the efficacy and safety of olaparib in combination with gemcitabine for patients with advanced pancreatic adenocarcinoma who have progressed after first-line chemotherapy. The primary objective is to evaluate the objective response rate (ORR) to the combination therapy. Secondary objectives include assessing progression-free survival (PFS), overall survival (OS), and the safety profile of the combination.
+    </study_design>
+    <inclusion_criteria>
+        <criteria>Histologically confirmed advanced pancreatic adenocarcinoma.</criteria>
+        <criteria>Prior treatment with at least one conventional chemotherapy regimen.</criteria>
+        <criteria>Age ≥ 18 years.</criteria>
+        <criteria>Measurable disease on imaging studies (CT or MRI).</criteria>
+        <criteria>Normal organ function and acceptable performance status (ECOG PS 0-2).</criteria>
+    </inclusion_criteria>
+    <exclusion_criteria>
+        <criteria>Participation in any investigational drug study within 30 days of enrollment.</criteria>
+        <criteria>Prior treatment with any PARP inhibitor, including olaparib.</criteria>
+        <criteria>Known hypersensitivity to olaparib or gemcitabine.</criteria>
+        <criteria>Pregnant or lactating women.</criteria>
+        <criteria>Patients with significant underlying medical conditions or uncontrolled infections.</criteria>
+    </exclusion_criteria>
+    <objectives>
+        <primary_objective>Evaluate the objective response rate (ORR) defined as the proportion of patients achieving a complete response (CR) or partial response (PR) as determined by RECIST v1.1.</primary_objective>
+        <secondary_objectives>Assess progression-free survival (PFS), overall survival (OS), and document incidence of adverse events (AEs) associated with the treatment.</secondary_objectives>
+    </objectives>
+    <biomarker_assessment>
+        <assessment>As an exploratory endpoint, tumor biopsies will be collected to evaluate DNA damage response markers and alterations in homologous recombination repair pathway proteins post-treatment.</assessment>
+    </biomarker_assessment>
+    <trial_methods>
+        Eligible participants will receive oral olaparib in conjunction with gemcitabine. Treatment will continue until progression of disease, unacceptable toxicity, or withdrawal of consent. Imaging for tumor assessment will occur every 8 weeks.
+    </trial_methods>
+    <study_failures>
+        <failure_reason>
+            The trial faced challenges attributable to the inherent biological complexity and genomic heterogeneity of pancreatic adenocarcinoma, limiting the effectiveness of olaparib, which predominantly targets tumors with specific DNA repair deficiencies.
+        </failure_reason>
+        <failure_reason>
+            Patient stratification based on prior treatment history may have excluded individuals with less typical responses to chemotherapy, potentially disenfranchising a cohort that could have benefitted from olaparib.
+        </failure_reason>
+        <failure_reason>
+            Inclusion criteria were stringent, necessitating measurable lesions; as such, many eligible patients with higher tumor burden were excluded, thereby compromising statistical power.
+        </failure_reason>
+        <failure_reason>
+            Notable overlapping toxicities between olaparib and gemcitabine were documented, particularly hematologic toxicities, leading to treatment discontinuation or dose reductions that impacted the integrity of safety and efficacy measures.
+        </failure_reason>
+        <failure_reason>
+            The study design lacked adequate exploration of the metabolic pathways mediating olaparib efficacy, particularly interactions with enzymes like CYP3A4, thus leading to pharmacodynamic ambiguities in the treatment outcome.
+        </failure_reason>
+    </study_failures>
+    <outcome>
+        The trial was halted due to an insufficient objective response rate and safety profiles that did not meet pre-defined thresholds for continuation, prompting re-evaluation of olaparib’s role in this therapeutic setting.
+    </outcome>
+</clinical_trial>
+```

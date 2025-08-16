@@ -1,0 +1,53 @@
+```xml
+<ClinicalTrial>
+    <TrialName>A Phase IIb Study Evaluating the Safety and Efficacy of Efavirenz in HIV-Infected Adults With High Baseline Neuropsychiatric Symptoms</TrialName>
+    <Phase>IIb</Phase>
+    <TrialType>Randomized, Multicenter, Open-label, Controlled Study</TrialType>
+    <Duration>24 Weeks</Duration>
+    <Objective>To evaluate the safety and efficacy of efavirenz in HIV-infected adults presenting with high baseline neuropsychiatric symptoms and to assess the impact of these symptoms on treatment adherence and viral load suppression.</Objective>
+    
+    <StudyPopulation>
+        <InclusionCriteria>
+            <Criterion>Adults aged 18 to 65 years</Criterion>
+            <Criterion>Confirmed HIV-1 infection with a baseline viral load >1000 copies/mL</Criterion>
+            <Criterion>Current neuropsychiatric symptoms evaluated by standardized instruments indicating moderate to severe impairment</Criterion>
+            <Criterion>Informed consent capability</Criterion>
+            <Criterion>Ability to comply with study protocol and attend all follow-up visits</Criterion>
+        </InclusionCriteria>
+        <ExclusionCriteria>
+            <Criterion>Pregnant or lactating women</Criterion>
+            <Criterion>History of severe adverse reaction to efavirenz or other antiretroviral agents</Criterion>
+            <Criterion>Current diagnosis of severe psychiatric disorders requiring hospitalization</Criterion>
+            <Criterion>Presence of active opportunistic infections requiring immediate treatment</Criterion>
+        </ExclusionCriteria>
+    </StudyPopulation>
+    
+    <Intervention>
+        <Drug>Efavirenz</Drug>
+        <Dosage>600 mg once daily</Dosage>
+        <ControlGroup>Placebo</ControlGroup>
+    </Intervention>
+    
+    <Outcomes>
+        <PrimaryOutcome>Change in neuropsychiatric symptom severity assessed via the Beck Depression Inventory and State-Trait Anxiety Inventory at 24 weeks</PrimaryOutcome>
+        <SecondaryOutcomes>
+            <Outcome>Viral load response measured at 12 and 24 weeks</Outcome>
+            <Outcome>Rate of treatment adherence assessed through a self-reported medication adherence questionnaire</Outcome>
+            <Outcome>Incidence of adverse events specifically focusing on neuropsychiatric and hepatic toxicity</Outcome>
+            <Outcome>Assessment of resistance patterns via genotypic analysis at the endpoint</Outcome>
+        </SecondaryOutcomes>
+    </Outcomes>
+    
+    <Results>
+        <OutcomeGroup>
+            <Outcome>Neuropsychiatric adverse effects were commonly reported, leading to increased dropout rates from the study</Outcome>
+            <Outcome>Significant incidence of depression and anxiety was observed, exacerbating medication non-adherence</Outcome>
+            <Outcome>Patients maintaining efavirenz therapy showed suboptimal viral load suppression compared to the control group</Outcome>
+            <Outcome>Adverse events indicative of hepatotoxicity were noted, with 15% of participants experiencing grade 3 adverse events</Outcome>
+            <Outcome>Emergence of resistance mutations was significant, leading to diminished efficacy in those who started with high baseline viral loads</Outcome>
+        </OutcomeGroup>
+    </Results>
+    
+    <Conclusions>The trial was prematurely terminated due to the significant adverse effects and poor adherence aggravated by neuropsychiatric symptoms, alongside the emergence of resistance mutations. These findings highlight the critical need for careful patient selection based on baseline neuropsychiatric evaluation in the ongoing quest for effective and tolerable antiretroviral therapy.</Conclusions>
+</ClinicalTrial>
+```

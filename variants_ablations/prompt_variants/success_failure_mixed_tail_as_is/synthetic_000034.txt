@@ -1,0 +1,57 @@
+<clinicalTrial>
+    <title>Impact of Doxorubicin Hydrochloride in Combination with Regorafenib for Patients with Advanced Hepatocellular Carcinoma</title>
+    <studyPhase>Phase II</studyPhase>
+    <scientificRationale>This trial investigates the effects of doxorubicin hydrochloride coupled with regorafenib in patients diagnosed with advanced hepatocellular carcinoma (HCC). While doxorubicin serves as a chemotherapy agent and regorafenib is a multi-kinase inhibitor targeting tumor cell proliferation, their combined efficacy in HCC has not been established. Prior studies posited that targeted therapy may enhance the therapeutic effect of chemotherapeutic agents; however, given the inherent characteristics and responsiveness tendencies of liver cancer, this hypothesis requires evaluation.</scientificRationale>
+    
+    <purpose>The primary objective is to assess the progression-free survival (PFS) of patients administered doxorubicin hydrochloride in conjunction with regorafenib, as compared to historical controls receiving doxorubicin alone. Secondary objectives include evaluating overall survival, estimating treatment response rates, documenting adverse effects, and assessing quality of life using validated functional scales.</purpose>
+    
+    <design>
+        <format>Multicenter, randomized, open-label, controlled trial</format>
+        <participants>Treatment-naive patients aged 18 and older with histologically confirmed unresectable HCC.</participants>
+        <sampling>Patients will be stratified based on Child-Pugh score, with eligibility requiring a score of A or B, and a maximum extent of liver involvement not exceeding 50%.</sampling>
+    </design>
+    
+    <objectives>
+        <primary>
+            <objective>To evaluate PFS in patients receiving doxorubicin hydrochloride in combination with regorafenib over 6 months.</objective>
+        </primary>
+        <secondary>
+            <objective>To analyze overall survival in the treatment cohort versus historical outcomes for doxorubicin alone.</objective>
+            <objective>To quantify objective response rates and evaluate disease control rates utilizing RECIST criteria.</objective>
+            <objective>To document treatment-related toxicities in relation to standard thresholds (CTCAE).</objective>
+            <objective>To assess quality of life variations using the EORTC QLQ-C30 instrument at baseline and after each treatment cycle.</objective>
+        </secondary>
+    </objectives>
+    
+    <outline>
+        <treatmentScheme>
+            <armControl>Patients receive doxorubicin hydrochloride via intravenous infusion on day 1 of each 21-day cycle for up to 6 cycles.</armControl>
+            <armExperiment>Patients receive doxorubicin hydrochloride on day 1 plus regorafenib orally daily from day 2 to day 21 of each treatment cycle.</armExperiment>
+        </treatmentScheme>
+    </outline>
+
+    <expectedAccrual>A cumulative total of 150 patients will be enrolled across multiple centers, with approximately 75 patients in each treatment arm.</expectedAccrual>
+
+    <characteristics>
+        <disease>
+            <type>Histologically confirmed HCC in either Child-Pugh class A or B.</type>
+            <criteria>No prior systemic therapy, no active autoimmune disease, liver involvement not exceeding 50% of total liver volume.</criteria>
+        </disease>
+        <patient>
+            <criteria>Performance status of ECOG 0-2, adequate hematologic parameters, and absence of significant cardiac comorbidities.</criteria>
+        </patient>
+    </characteristics>
+    
+    <priorTherapies>
+        <criteria>Complete recovery from any previous anti-cancer therapies is mandatory. No additional investigational drugs permitted during the study.</criteria>
+    </priorTherapies>
+
+    <anticipatedResults>
+        <type>Failure to demonstrate significant improvement in PFS compared to historical controls on doxorubicin monotherapy due to factors including:</type>
+        <reason>1. Insufficient therapeutic modalities, as combining doxorubicin with regorafenib did not yield synergy, instead leading to decreased patient response rates.</reason>
+        <reason>2. Suboptimal patient selection due to the inherent variability in liver cancer, where advanced cirrhosis among participants compromised overall treatment efficacy.</reason>
+        <reason>3. Emergence of pharmacological resistance observed in patients, suggesting that repeated exposure to doxorubicin diminished cellular sensitivity in a subset of tumors.</reason>
+        <reason>4. Inadequate therapeutic window resulting from unoptimized dosing schedules, adversely impacting drug bioavailability and therapeutic outcomes.</reason>
+        <reason>5. Detrimental impact on host immunity noted through adverse events that adversely affected participating patients' immune landscapes.</reason>
+    </anticipatedResults>
+</clinicalTrial>

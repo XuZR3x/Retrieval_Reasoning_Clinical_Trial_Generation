@@ -1,0 +1,64 @@
+```xml
+<clinicalTrial>
+    <title>Evaluation of Botulinum Toxin Type A in the Treatment of Chronic Tension-type Headaches</title>
+    <phase>Phase III</phase>
+    <design>Multicenter, Randomized, Double-Blind, Placebo-Controlled Study</design>
+    <objective>The primary objective of this study is to evaluate the efficacy and safety of Botulinum Toxin Type A for the prevention of chronic tension-type headaches in adult patients.</objective>
+    <rationale>Chronic tension-type headaches are a prevalent condition characterized by recurrent episodes of mild to moderate headache. Botulinum Toxin Type A, known for its muscle-relaxing properties, may prove beneficial in alleviating the muscular components associated with tension-type headaches. Demonstrating its effectiveness could offer a novel treatment avenue for patients resistant to traditional pharmacotherapy.</rationale>
+    
+    <methods>
+        <studyDesign>
+            A two-arm randomized control study involving participants diagnosed with chronic tension-type headaches, receiving either 200 units of Botulinum Toxin Type A or saline placebo injections at baseline and at weeks 12 and 24.
+        </studyDesign>
+        <groups>
+            <group>
+                <name>Botulinum Toxin Type A Group</name>
+                <description>Patients receiving 200 units of Botulinum Toxin Type A administered intramuscularly.</description>
+            </group>
+            <group>
+                <name>Placebo Group</name>
+                <description>Patients receiving an equal volume of saline solution administered intramuscularly.</description>
+            </group>
+        </groups>
+        <assessmentTimeline>
+            <evaluationPoints>Participants will be evaluated for changes in headache frequency and intensity using the Headache Impact Test (HIT-6) at baseline, week 6, week 12, and week 24.</evaluationPoints>
+        </assessmentTimeline>
+        <statisticalAnalysis>
+            Statistical analyses will include paired t-tests for within-group comparisons, and independent t-tests for between-group differences, with a significance level set at p < 0.05.
+        </statisticalAnalysis>
+    </methods>
+
+    <inclusionCriteria>
+        <criterion>Age 18 to 65 years</criterion>
+        <criterion>Diagnosis of chronic tension-type headache for at least 6 months</criterion>
+        <criterion>Reporting headache frequency of at least 15 days per month</criterion>
+        <criterion>Informed consent provided.</criterion>
+    </inclusionCriteria>
+
+    <exclusionCriteria>
+        <criterion>Chronic migraine or any secondary headache disorder</criterion>
+        <criterion>Prior treatment with botulinum toxin in the past 12 months</criterion>
+        <criterion>Neuromuscular disorders or significant systemic diseases</criterion>
+        <criterion>Pregnancy or lactation during the study period</criterion>
+    </exclusionCriteria>
+
+    <outcomes>
+        <primaryOutcome>
+            <description>Reduction in headache frequency as measured by the Headache Impact Test (HIT-6) score.</description>
+            <evaluationTime>Week 24</evaluationTime>
+        </primaryOutcome>
+        <secondaryOutcomes>
+            <outcome>
+                <description>Assessment of headache intensity using a Visual Analog Scale (VAS).</description>
+                <evaluationTime>Every 6 weeks until week 24</evaluationTime>
+            </outcome>
+            <outcome>
+                <description>Quality of life assessment through the Short Form-36 Health Survey (SF-36).</description>
+                <evaluationTime>Week 24</evaluationTime>
+            </outcome>
+        </secondaryOutcomes>
+    </outcomes>
+
+    <anticipatedResults>It is hypothesized that Botulinum Toxin Type A treatment will result in a statistically significant reduction in both headache frequency and associated disability compared to the placebo group by week 24.</anticipatedResults>
+</clinicalTrial>
+```

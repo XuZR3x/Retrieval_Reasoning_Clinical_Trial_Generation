@@ -1,0 +1,97 @@
+```xml
+<ClinicalTrial>
+    <Title>A Phase II Study of Romidepsin in Patients with Advanced Cholangiocarcinoma Following Progression on Standard Therapies</Title>
+    <StudyID>NCTXXXXX</StudyID>
+    <Phase>Phase II</Phase>
+    <Objectives>
+        <PrimaryObjective>
+            To assess the antitumor activity of romidepsin as a single agent determined by the overall response rate (complete or partial response) in patients with advanced cholangiocarcinoma who have experienced progression following conventional chemotherapy.
+        </PrimaryObjective>
+        <SecondaryObjectives>
+            <SecondaryObjective>
+                To evaluate the safety and tolerability profile of romidepsin in this patient population.
+            </SecondaryObjective>
+            <SecondaryObjective>
+                To explore the pharmacodynamic effects of romidepsin on histone modifications in peripheral blood mononuclear cells.
+            </SecondaryObjective>
+            <SecondaryObjective>
+                To assess progression-free survival (PFS) and overall survival (OS) in treated patients.
+            </SecondaryObjective>
+        </SecondaryObjectives>
+    </Objectives>
+    <Outline>
+        <Patients>
+            Patients will receive romidepsin administered intravenously at a dose of 12 mg/m² over a 4-hour infusion on days 1, 8, and 15 of a 28-day treatment cycle, repeated for up to 12 cycles or until disease progression or unacceptable toxicity occurs.
+        </Patients>
+    </Outline>
+    <InclusionCriteria>
+        <Criterion>
+            Histologically or cytologically confirmed cholangiocarcinoma with locally advanced or metastatic disease.
+        </Criterion>
+        <Criterion>
+            Disease progression demonstrated by imaging or clinical assessment after at least one prior line of systemic therapy.
+        </Criterion>
+        <Criterion>
+            Measurable disease as defined by RECIST criteria (≥ 20 mm by conventional techniques or ≥ 10 mm by spiral CT).
+        </Criterion>
+        <Criterion>
+            Adequate organ function defined as:
+            <SubCriterion>
+                Absolute Neutrophil Count > 1,500/mm³.
+            </SubCriterion>
+            <SubCriterion>
+                Platelet Count > 100,000/mm³.
+            </SubCriterion>
+            <SubCriterion>
+                Total bilirubin < 1.5 x upper limit of normal (ULN).
+            </SubCriterion>
+        </Criterion>
+        <Criterion>
+            Negative pregnancy test for female patients of childbearing potential and agreement to use effective contraception.
+        </Criterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criterion>
+            Any prior systemic treatment with romidepsin or involvement in investigational trials within 30 days prior to screening.
+        </Criterion>
+        <Criterion>
+            Patients with known cardiac abnormalities including QT interval > 480 ms or symptomatic heart disease.
+        </Criterion>
+        <Criterion>
+            Significant concomitant illnesses or conditions that could interfere with the conduct of the trial or interpretation of results.
+        </Criterion>
+        <Criterion>
+            Pregnant or breastfeeding patients or those who have a history of hypersensitivity to compounds of similar pharmacological class.
+        </Criterion>
+    </ExclusionCriteria>
+    <OutcomeMeasures>
+        <Measure>
+            Objective response rate (ORR) defined by the proportion of patients achieving complete or partial responses based on Response Evaluation Criteria In Solid Tumors (RECIST).
+        </Measure>
+        <Measure>
+            Safety evaluated through the incidence of adverse events, graded by the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+        </Measure>
+        <Measure>
+            Progression-free survival (PFS) defined as the duration from the initiation of treatment until disease progression or death from any cause.
+        </Measure>
+        <Measure>
+            Overall survival (OS) determined from the initiation of treatment until death from any cause.
+        </Measure>
+    </OutcomeMeasures>
+    <Rationale>
+        This trial aimed to investigate the potential of romidepsin in cholangiocarcinoma considering its mechanistic role as a histone deacetylase inhibitor. However, the trial was terminated due to multifactorial reasons:
+        <Reason>
+            Insufficient target engagement was observed, leading to inadequate modulation of epigenetic markers essential for the therapeutic effect in cholangiocarcinoma.
+        </Reason>
+        <Reason>
+            The intrinsic resistance mechanisms of cholangiocarcinoma cells potentially activated alternative survival pathways, limiting the antitumor efficacy of romidepsin.
+        </Reason>
+        <Reason>
+            Suboptimal dosing regimens coupled with the heterogeneity in tumor biology raised significant challenges, preventing the achievement of therapeutic plasma concentrations necessary for clinical activity.
+        </Reason>
+        <Reason>
+            Adverse safety profiles, including hematologic toxicities, were noted in the early cohorts, leading to discontinuation of therapy in a subset of patients, thus impacting the overall evaluation of safety.
+        </Reason>
+    </Rationale>
+</ClinicalTrial>
+```

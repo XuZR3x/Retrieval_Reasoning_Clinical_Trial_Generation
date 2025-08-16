@@ -1,0 +1,70 @@
+```xml
+<clinicalTrial>
+    <title>Optimizing Chemotherapy with Targeted Agents and Therapeutic Monitoring in Metastatic Lung Cancer</title>
+    <studyType>Phase II Randomized Controlled Trial</studyType>
+    <summary>
+        This study evaluates the efficacy and safety of combining traditional chemotherapy with targeted agents, specifically examining the outcomes in patients with metastatic non-small-cell lung cancer (NSCLC). The protocol incorporates a comprehensive approach to monitoring treatment response through the assessment of circulating tumor DNA (ctDNA), as well as rigorous patient selection criteria to maximize therapeutic efficacy.
+    </summary>
+    <rationale>
+        The integration of targeted agents into standard chemotherapy regimens is hypothesized to enhance overall survival due to the complementary mechanisms of action, combating tumor heterogeneity and resistance. Further, the continuous monitoring of ctDNA allows for real-time adjustments to treatment strategies, optimizing patient outcomes and minimizing unnecessary toxicities.
+    </rationale>
+    <objectives>
+        <primary>
+            <objective>Evaluate the overall survival (OS) rate after treatment with combined chemotherapy and targeted agents versus chemotherapy alone.</objective>
+            <objective>Determine progression-free survival (PFS) in patients receiving the combined regimen compared to the traditional chemotherapy cohort.</objective>
+            <objective>Assess the correlation between early ctDNA levels and treatment efficacy, as defined by radiographic disease progression.</objective>
+        </primary>
+        <secondary>
+            <objective>Analyze the tolerability and safety profile of the combination therapy using CTCAE version 5.0.</objective>
+            <objective>Evaluate quality of life (QoL) using validated questionnaires throughout the treatment period.</objective>
+            <objective>Investigate biomarkers predictive of response to therapy, utilizing pre- and post-treatment tissue sampling.</objective>
+        </secondary>
+    </objectives>
+    <methods>
+        <design>
+            A multicenter, randomized, open-label trial will involve patients with histologically confirmed stage IV NSCLC. Patients will be stratified based on mutational status of EGFR and ALK. Participants will be assigned to one of two groups: Group A (Chemotherapy plus targeted agents) or Group B (Standard chemotherapy).
+        </design>
+        <participation>
+            <inclusionCriteria>
+                <criterion>Histologically confirmed metastatic non-small-cell lung cancer.</criterion>
+                <criterion>Aged 18 years or older.</criterion>
+                <criterion>ECOG performance status of 0-2.</criterion>
+                <criterion>Availability of tumor tissue for biomarker analysis.</criterion>
+            </inclusionCriteria>
+            <exclusionCriteria>
+                <criterion>Prior chemotherapy or targeted therapy for metastatic disease.</criterion>
+                <criterion>Active autoimmune disorders requiring systemic immunosuppression.</criterion>
+                <criterion>Other malignancies within the past five years (excluding skin cancers).</criterion>
+            </exclusionCriteria>
+        </participation>
+        <intervention>
+            <groupA>
+                <treatment>
+                    Patients in Group A will receive a combination of standard chemotherapy (carboplatin and pemetrexed) with the targeted agent durvalumab (anti-PD-L1). The treatment regimen will consist of 4 cycles, followed by maintenance therapy with durvalumab.
+                </treatment>
+            </groupA>
+            <groupB>
+                <treatment>
+                    Patients in Group B will receive standard chemotherapy with carboplatin and pemetrexed for 4 cycles without addition of a targeted agent.
+                </treatment>
+            </groupB>
+        </intervention>
+    </methods>
+    <monitoring>
+        Continuous assessment of ctDNA will be performed after each treatment cycle to identify responders and non-responders, allowing for adaptive treatment modifications if necessary. Regular monitoring of adverse events will ensure participant safety.
+    </monitoring>
+    <endpoints>
+        <primaryEndpoints>
+            <endpoint>Overall survival and progression-free survival rates at 12 months.</endpoint>
+            <endpoint>Correlation between ctDNA levels and treatment efficacy assessed by radiographic response.</endpoint>
+        </primaryEndpoints>
+        <secondaryEndpoints>
+            <endpoint>Incidence of grade ≥3 adverse events according to CTCAE version 5.0.</endpoint>
+            <endpoint>Change in quality of life scores from baseline to 6 months post-treatment initiation.</endpoint>
+        </secondaryEndpoints>
+    </endpoints>
+    <projectedAccrual>
+        A total of 600 patients will be recruited over a 2-year period from participating centers.
+    </projectedAccrual>
+</clinicalTrial>
+```

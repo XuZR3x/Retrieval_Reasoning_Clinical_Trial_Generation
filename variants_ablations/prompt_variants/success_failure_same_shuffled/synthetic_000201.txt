@@ -1,0 +1,81 @@
+```xml
+<clinical_trial>
+    <title>A Phase III Study of Carboplatin in Combination With Pembrolizumab Versus Carboplatin Alone in Patients With Platinum-Resistant Epithelial Ovarian Cancer</title>
+    
+    <rationale>
+        The chemotherapy agent carboplatin is known to inhibit DNA synthesis in rapidly dividing cells. However, the addition of pembrolizumab, an immune checkpoint inhibitor, may not produce the expected synergistic effect in improving the clinical outcomes for patients with platinum-resistant epithelial ovarian cancer. In this context, evaluating the efficacy and safety of carboplatin with and without pembrolizumab is essential to determine the applicability of immunotherapy in a resistant disease state.
+    </rationale>
+    
+    <purpose>
+        To assess the overall survival, progression-free survival, and safety of carboplatin in conjunction with pembrolizumab versus carboplatin monotherapy in patients displaying resistance to previous platinum-based chemotherapy for epithelial ovarian cancer.
+    </purpose>
+    
+    <objectives>
+        <objective>
+            To compare overall survival rates between patients receiving carboplatin plus pembrolizumab versus those receiving carboplatin alone.
+        </objective>
+        <objective>
+            To evaluate progression-free survival and the time to disease progression in both arms of the study.
+        </objective>
+        <objective>
+            To assess the tolerability, safety profiles, and toxicity levels associated with the combination therapy as opposed to carboplatin alone.
+        </objective>
+    </objectives>
+    
+    <outline>
+        <description>This is a randomized, open-label, multicenter trial. Patients are assigned to one of two treatment arms. Both arms will receive carboplatin.</description>
+        
+        <arm>
+            <name>Arm I</name>
+            <treatment>Patients receive carboplatin IV on day 1 and pembrolizumab IV on day 1 of a 21-day cycle.</treatment>
+        </arm>
+        
+        <arm>
+            <name>Arm II</name>
+            <treatment>Patients receive carboplatin IV on day 1 alone.</treatment>
+        </arm>
+        
+        <follow_up>
+            Patients will be monitored every three months for the first year, every six months for the subsequent two years, and then annually for overall survival.
+        </follow_up>
+    </outline>
+    
+    <projected_accrual>
+        A total of 400 patients will be enrolled and followed throughout the study period, expecting an accrual time of 4 years.
+    </projected_accrual>
+    
+    <disease_characteristics>
+        <criteria>
+            Histologically confirmed platinum-resistant epithelial ovarian cancer.
+        </criteria>
+        <criteria>
+            Recurrent disease after at least one line of platinum-based therapy.
+        </criteria>
+    </disease_characteristics>
+    
+    <patient_characteristics>
+        <criteria>Age: 18 to 75</criteria>
+        <criteria>Performance status: ECOG 0-2</criteria>
+        <criteria>Life expectancy: At least 12 weeks</criteria>
+        <criteria>Hematopoietic: Absolute neutrophil count ≥ 1,500/mm³.</criteria>
+        <criteria>Hepatic: Bilirubin < 1.5 x ULN; AST and ALT < 2.5 x ULN.</criteria>
+        <criteria>Renal: Creatinine < 1.5 x ULN.</criteria>
+        <criteria>Cardiovascular: Ejection fraction ≥ 50%</criteria>
+    </patient_characteristics>
+    
+    <prior_concurrent_therapy>
+        <criteria>No prior chemotherapy within 28 days of study entry.</criteria>
+        <criteria>No concurrent immunotherapy or investigational agents.</criteria>
+    </prior_concurrent_therapy>
+    
+    <primary_endpoints>
+        <endpoint>Overall survival from registration to date of death.</endpoint>
+        <endpoint>Progression-free survival measured from the date of randomization until confirmed disease progression.</endpoint>
+    </primary_endpoints>
+
+    <secondary_endpoints>
+        <endpoint>Analysis of treatment-related adverse effects as per NCI CTCAE v5.0.</endpoint>
+        <endpoint>Quality of life assessment using validated instruments at defined intervals.</endpoint>
+    </secondary_endpoints>
+</clinical_trial>
+```

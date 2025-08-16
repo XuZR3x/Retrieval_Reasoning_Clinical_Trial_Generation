@@ -1,0 +1,46 @@
+```xml
+<ClinicalTrial>
+  <StudyTitle>Investigating the Efficacy of Raltegravir in Combination With Substituted NRTIs for Treatment-Naive HIV-1 Patients</StudyTitle>
+  <StudyPurpose>The primary objective of this study is to evaluate the efficacy and safety of a regimen combining raltegravir with selected substituted nucleoside reverse transcriptase inhibitors (NRTIs) in treatment-naive patients infected with HIV-1. This trial aims to enhance patient outcomes by leveraging the high efficacy of integrase inhibitors alongside a tailored NRTI approach.</StudyPurpose>
+  
+  <Design>  
+    <TrialType>Phase III, Double-Blind, Randomized Controlled Trial</TrialType>  
+    <SampleSize>600 Participants</SampleSize>  
+    <StudyDuration>48 Weeks</StudyDuration>
+  </Design>
+  
+  <InclusionCriteria>
+    <Criterion>Documented HIV-1 infection</Criterion>
+    <Criterion>Age ≥ 18 years</Criterion>
+    <Criterion>Naive to any antiretroviral therapy, defined as less than 7 days of prior treatment</Criterion>
+    <Criterion>Baseline HIV viral load > 5,000 copies/mL</Criterion>
+    <Criterion>Informed consent provided</Criterion>
+  </InclusionCriteria>
+  
+  <ExclusionCriteria>
+    <Criterion>Current participation in another clinical trial involving any study drug</Criterion>
+    <Criterion>History of serious hypersensitivity reaction to any study drugs</Criterion>
+    <Criterion>Pregnant or breastfeeding women</Criterion>
+    <Criterion>Severe renal impairment (CrCl < 30 mL/min)</Criterion>
+    <Criterion>Coexisting chronic liver disease or active hepatitis</Criterion>
+  </ExclusionCriteria>
+  
+  <Randomization>
+    <GroupA>Raltegravir (MK-0518) + Selected NRTI Regimen</GroupA>
+    <GroupB>Standard NRTI Combination Therapy</GroupB>
+  </Randomization>
+
+  <Endpoints>
+    <PrimaryEndpoint>Efficacy measured by the proportion of participants achieving undetectable viral load (< 50 copies/mL) at Week 48</PrimaryEndpoint>
+    <SecondaryEndpoints>Assessment of safety profile through adverse event monitoring, comparison of adherence rates, change in CD4 count, and quality of life evaluations</SecondaryEndpoints>
+  </Endpoints>
+
+  <StudyRationale>The rationale for this trial stems from the established virologic efficacy of raltegravir as an integrase inhibitor, which outperforms standard therapies in treatment-naive populations. This study optimizes background therapy based on individual resistance profiles, maximizing treatment efficacy and patient outcomes. By including a diverse population of treatment-naive individuals, the study findings will have broad applicability across demographic contexts. Furthermore, the low toxicity profile of raltegravir promises to improve patient adherence, reinforcing the significance of this trial in contemporary HIV management.</StudyRationale>
+
+  <OutcomeMeasures>Post-treatment evaluation will focus on rates of virologic suppression, clinical safety, and tolerability relative to standard treatment regimens.</OutcomeMeasures>
+
+  <Summary>The study commenced on [insert start date] and actively recruited participants from multiple clinical sites across [insert regions]. Data from this trial is expected to contribute substantially to the body of evidence supporting the use of raltegravir in first-line therapy for HIV-1, alongside enhancing clinical guideline recommendations.</Summary>
+  
+  <RegulatoryCompliance>Approved by [insert regulatory body] and registered at [insert clinical trial registry]</RegulatoryCompliance>
+</ClinicalTrial>
+```

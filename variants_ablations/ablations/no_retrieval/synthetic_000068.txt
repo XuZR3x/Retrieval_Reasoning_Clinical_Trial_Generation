@@ -1,0 +1,44 @@
+```xml
+<clinical_trial>
+    <title>Phase II Randomized Trial of Docetaxel Combined with Olaparib in Patients with HER2-Negative Metastatic Breast Cancer</title>
+    <objective>This trial aims to evaluate the efficacy and safety of docetaxel in combination with the PARP inhibitor olaparib compared to docetaxel alone in patients with HER2-negative metastatic breast cancer who have received at least one prior line of therapy.</objective>
+    <design>This is a multicenter, open-label, randomized phase II trial. Eligible patients will be assigned in a 1:1 ratio to receive either docetaxel at a dose of 75 mg/m² every 21 days paired with olaparib at an oral dosage of 300 mg twice daily or docetaxel monotherapy.</design>
+    
+    <background>
+        <rationale>The incorporation of targeted agents such as olaparib has been shown to play a pivotal role in enhancing the effectiveness of cytotoxic chemotherapy, particularly in tumors with deficiencies in homologous recombination repair. Leveraging the synergetic mechanisms of action, we aim to explore improved therapeutic outcomes over traditional chemotherapy regimens alone.</rationale>
+        <factors>
+            <factor>The robust evidence from literature supports the combined use of taxanes and PARP inhibitors, demonstrating increased progression-free survival in similar demographies.</factor>
+            <factor>G-CSF support will be provided during the study to mitigate the hematological adverse effects associated with docetaxel, ensuring high adherence and extended treatment cycles.</factor>
+            <factor>Defined inclusion criteria will ensure the selection of patients with stable disease or partial response to prior interventions, further illuminating the benefits afforded by the docetaxel-olaparib combination.</factor>
+        </factors>
+    </background>
+
+    <inclusion_criteria>
+        <criteria>Histologically confirmed HER2-negative metastatic breast cancer.</criteria>
+        <criteria>Patients must have experienced disease progression following at least one prior line of therapy.</criteria>
+        <criteria>Aged 18 years or older with an ECOG performance status of 0-2.</criteria>
+        <criteria>Documented BRCA1/2 mutation status, or homologous recombination repair deficiency.</criteria>
+        <criteria>Written informed consent provided by the patient prior to study participation.</criteria>
+    </inclusion_criteria>
+
+    <exclusion_criteria>
+        <criteria>Prior chemotherapy with docetaxel or PARP inhibitors.</criteria>
+        <criteria>Active or uncontrolled infection requiring systemic therapy.</criteria>
+        <criteria>Any significant comorbidity that could impact the patient’s ability to participate, including severe cardiac issues.</criteria>
+        <criteria>Pregnant or breastfeeding women.</criteria>
+        <criteria>Concurrent treatment with experimental drugs.</criteria>
+    </exclusion_criteria>
+
+    <outcome_measurements>
+        <measurement>The primary endpoint will be the progression-free survival assessed by RECIST 1.1 criteria.</measurement>
+        <measurement>Secondary endpoints will include overall survival, response rate, and assessment of treatment-related adverse events utilizing the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.</measurement>
+    </outcome_measurements>
+
+    <statistical_analysis>
+        <analysis>Sample size calculations estimate that 150 patients are required to detect a significant difference in progression-free survival between the two arms, with an anticipated significance threshold of p < 0.05.</analysis>
+        <analysis>The Kaplan-Meier method will be employed to analyze time-to-event data, while the log-rank test will compare survival curves between the treatment groups.</analysis>
+    </statistical_analysis>
+
+    <expected_results>The combination of docetaxel with olaparib is hypothesized to result in a statistically significant improvement in progression-free survival compared to docetaxel monotherapy in patients with HER2-negative metastatic breast cancer, capitalizing on the mechanisms of action of both agents.</expected_results>
+</clinical_trial>
+```

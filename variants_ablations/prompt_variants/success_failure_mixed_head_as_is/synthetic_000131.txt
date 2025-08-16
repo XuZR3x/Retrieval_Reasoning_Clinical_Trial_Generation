@@ -1,0 +1,74 @@
+<clinical_trial>
+    <title>A Multicenter Phase II Study of Cytarabine in Combination with Dexamethasone and Low-Dose Azacitidine for Patients with Relapsed Acute Myeloid Leukemia</title>
+    <study_id>CT-AML-2024-001</study_id>
+    <design>Randomized, Open-Label, Parallel-Group Trial</design>
+    <purpose>The primary objective of this study is to evaluate the efficacy and safety of a combination therapy consisting of cytarabine, dexamethasone, and low-dose azacitidine compared to azacitidine monotherapy in patients with relapsed acute myeloid leukemia (AML). Given the historical challenges with cytarabine's pharmacological profile, particularly in relapsed populations, this trial aims to assess potential therapeutic enhancements through additional agents.</purpose>
+    
+    <background>
+        <rationale>
+            Cytarabine is a cornerstone in AML therapy; however, its efficacy diminishes in relapsed cases due to its narrow therapeutic index and myelosuppressive effects. Previous combinations involving cytarabine, such as those with gemtuzumab ozogamicin, demonstrated insufficient synergistic effects, likely exacerbated by the inherent heterogeneity of relapsed AML cells. Furthermore, elderly patients often exhibit altered drug metabolism that may compromise therapeutic success. 
+        </rationale>
+    </background>
+    
+    <objectives>
+        <primary_objective>
+            To determine the overall response rate (ORR) in patients treated with the combination of cytarabine, dexamethasone, and low-dose azacitidine versus azacitidine alone.
+        </primary_objective>
+        <secondary_objectives>
+            <objective>To evaluate the safety profile and incidence of adverse events in both treatment groups.</objective>
+            <objective>To compare event-free survival (EFS) between the two cohorts.</objective>
+            <objective>To analyze the association between response to treatment and patient-specific variables, including age, performance status, and baseline laboratory values.</objective>
+        </secondary_objectives>
+    </objectives>
+    
+    <study_population>
+        <inclusion_criteria>
+            <criterion>Histologically confirmed relapsed acute myeloid leukemia.</criterion>
+            <criterion>Age ≥ 60 years.</criterion>
+            <criterion>Performance status: Karnofsky ≥ 70%.</criterion>
+            <criterion>Creatinine clearance ≥ 30 mL/min.</criterion>
+        </inclusion_criteria>
+        <exclusion_criteria>
+            <criterion>Patients with prior hypersensitivity to cytarabine or azacitidine.</criterion>
+            <criterion>Patients who have severe concurrent illness limiting life expectancy to < 2 years.</criterion>
+            <criterion>Pregnant or lactating women.</criterion>
+        </exclusion_criteria>
+    </study_population>
+    
+    <intervention>
+        <experimental_group>
+            <treatment>
+                Cytarabine 100 mg/m2 daily for 7 days via continuous intravenous infusion, plus dexamethasone 20 mg orally on days 1-14, and azacitidine 75 mg/m2 subcutaneously on days 8-28.
+            </treatment>
+        </experimental_group>
+        <control_group>
+            <treatment>
+                Azacitidine 75 mg/m2 subcutaneously on days 1-28.
+            </treatment>
+        </control_group>
+    </intervention>
+    
+    <outcomes>
+        <primary_outcome>Overall response rate, defined as the proportion of patients achieving complete response (CR) or partial response (PR), assessed at 3 months.</primary_outcome>
+        <secondary_outcomes>
+            <outcome>Incidence of treatment-emergent adverse events, graded according to the CTCAE v5.0.</outcome>
+            <outcome>Event-free survival, calculated from the date of randomization to disease progression or death.</outcome>
+            <outcome>Correlations between clinical parameters (age, comorbidities) and treatment response.</outcome>
+        </secondary_outcomes>
+    </outcomes>
+    
+    <data_analysis>
+        <methods>
+            <text>The primary analysis for ORR will employ chi-square tests for categorical variables, and survival analysis will utilize the Kaplan-Meier method with log-rank tests for comparison of EFS and OS across groups.</text>
+        </methods>
+    </data_analysis>
+    
+    <projected_accrual>
+        <text>A total of 60 patients are anticipated to be enrolled over a period of 24 months.</text>
+    </projected_accrual>
+
+    <results>
+        <finding>The study was closed prematurely due to a lack of significant difference in overall response rate between the treatment arms despite the combination addressing potential factors associated with cytarabine's previous failures. Specifically, inadequate efficacy was observed likely resulting from the complex phenotypic adaptation of AML cells to prior therapies, exacerbated by patient-related factors such as advanced age and comorbidities, leading to a substantially lower-than-expected therapeutic response.</finding>
+    </results>
+
+</clinical_trial>

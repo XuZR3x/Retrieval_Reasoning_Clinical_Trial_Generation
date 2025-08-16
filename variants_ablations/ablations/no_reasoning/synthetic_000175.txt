@@ -1,0 +1,37 @@
+```xml
+<ClinicalTrial>
+    <Title>A Phase II Study of Bevacizumab (Avastin) in Combination with Folfox and Immunotherapy in Patients with Unresectable Locally Advanced Pancreatic Cancer</Title>
+    <Objective>
+        This study aims to evaluate the efficacy and safety of the combination of Bevacizumab (Avastin), Folfox (Folinic acid, Fluorouracil, and Oxaliplatin), and immunotherapy as a novel treatment regimen for patients with unresectable locally advanced pancreatic adenocarcinoma. The primary endpoint will be progression-free survival, whereas secondary endpoints will include overall survival and quality of life assessments.
+    </Objective>
+    <Design>
+        This is a multicenter, open-label, single-arm Phase II trial. Eligible patients will receive Bevacizumab (7.5 mg/kg IV every 2 weeks) in combination with Folfox (Folinate 400 mg/m2 IV, Fluorouracil 600 mg/m2 IV bolus, and Oxaliplatin 85 mg/m2 IV) administered every 14 days for 6 cycles. Following completion of chemotherapy, patients will receive a checkpoint inhibitor agent (specific immunotherapy agent to be determined prior to trial initiation) in conjunction with Bevacizumab for up to one year, or until disease progression.
+    </Design>
+    <SampleSize>
+        The study will enroll 150 patients, with an expected follow-up of 24 months post-treatment initiation to assess long-term outcomes.
+    </SampleSize>
+    <InclusionCriteria>
+        <Criterion>Adults aged >= 18 years</Criterion>
+        <Criterion>Histologically or cytologically confirmed unresectable locally advanced pancreatic adenocarcinoma</Criterion>
+        <Criterion>No prior systemic chemotherapy for advanced disease</Criterion>
+        <Criterion>Measurable disease per RECIST v1.1 criteria</Criterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criterion>Prior treatment with Avastin or any form of immunotherapy</Criterion>
+        <Criterion>Active central nervous system metastases</Criterion>
+        <Criterion>Severe cardiovascular disease, including myocardial infarction within 6 months prior to study entry</Criterion>
+        <Criterion>Pregnancy or lactation at the time of enrollment</Criterion>
+    </ExclusionCriteria>
+    <Endpoints>
+        <PrimaryEndpoint>Progression-free survival at 6 months</PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <Endpoint>Overall survival at 12 months</Endpoint>
+            <Endpoint>Quality of life as measured by EQ-5D and FACT-Hep questionnaires</Endpoint>
+            <Endpoint>Frequency and severity of adverse events as classified by NCI-CTC v5.0</Endpoint>
+        </SecondaryEndpoints>
+    </Endpoints>
+    <PatientSafety> 
+        All adverse events will be continuously monitored and recorded according to the National Cancer Institute's Common Toxicity Criteria for Adverse Events (CTCAE) guidelines.
+    </PatientSafety>
+</ClinicalTrial>
+```

@@ -1,0 +1,68 @@
+```xml
+<ClinicalTrial>
+    <TrialTitle>Assessment of Dabrafenib in Combination With Trametinib and Follow-Up Radiation Therapy for Unresectable BRAF V600E Melanoma</TrialTitle>
+    <ProtocolIdentifier>NCTXXXXXXXX</ProtocolIdentifier>
+    <Phase>Phase II</Phase>
+    
+    <Background>
+        <Purpose>This study aims to evaluate the efficacy and safety of dabrafenib in combination with trametinib, followed by localized radiation therapy, in patients with unresectable BRAF V600E-positive melanoma. This trial aims to address the high rates of disease progression and recurrence experienced in individuals with advanced disease.</Purpose>
+    
+        <Rationale>Previous studies have indicated that tumor heterogeneity may lead to varied responses to dabrafenib and trametinib, underscoring the need for optimized treatment regimens tailored to distinct tumor profiles. Additionally, the propensity for melanoma to develop resistance mechanisms complicates therapeutic outcomes when continuous BRAF inhibition is employed alone.</Rationale>
+    </Background>
+    
+    <StudyDesign>
+        <Design>Single-Arm, Open-Label</Design>
+        <Objectives>
+            <Primary>To determine the overall survival rate and progression-free survival at six months in patients treated with a combination of dabrafenib and trametinib, followed by radiation therapy.</Primary>
+            <Secondary>To assess the molecular response of melanoma tumors analyzed before and after treatment and to evaluate the safety profile associated with prolonged dabrafenib therapy.</Secondary>
+        </Objectives>
+    </StudyDesign>
+    
+    <PatientPopulation>
+        <InclusionCriteria>
+            <Criterion>Histologically confirmed unresectable BRAF V600E melanoma.</Criterion>
+            <Criterion>Age ≥ 18 years.</Criterion>
+            <Criterion>ECOG Performance Status 0-2.</Criterion>
+            <Criterion>Patients must have measurable disease as defined by RECIST v1.1.</Criterion>
+            <Criterion>Must have adequate organ function defined by laboratory parameters (ANC > 1,500 cells/mm³, ALT and AST ≤ 3 × ULN, bilirubin ≤ 1.5 mg/dL, etc.).</Criterion>
+            <Criterion>Must be capable of providing informed consent and comply with protocol requirements, including effective contraception.</Criterion>
+        </InclusionCriteria>
+        
+        <ExclusionCriteria>
+            <Criterion>Presence of brain metastases or any prior systemic therapy targeting BRAF or MEK.</Criterion>
+            <Criterion>Significant cardiovascular or pulmonary comorbidities that may interfere with therapy.</Criterion>
+            <Criterion>History of other malignancies with active disease within the past 5 years, excluding adequately treated non-melanoma skin cancer.</Criterion>
+            <Criterion>QTc interval > 480 ms at baseline or any uncontrolled arrhythmia.</Criterion>
+            <Criterion>Unresolved toxicities greater than CTCAE Grade 1 from previous treatments.</Criterion>
+        </ExclusionCriteria>
+    </PatientPopulation>
+    
+    <Intervention>
+        <Name>Dabrafenib</Name>
+        <Description>Administered orally at a dose of 150 mg twice daily (BID). Combined with trametinib at 2 mg daily, starting at Cycle 2 Day 1.</Description>
+        <FollowUp>Patients exhibiting stable disease or partial response will consequently undergo localized radiation therapy using stereotactic radiosurgery.</FollowUp>
+    </Intervention>
+    
+    <Endpoints>
+        <PrimaryEndpoints>
+            <Endpoint>Overall survival and progression-free survival at 6 months.</Endpoint>
+        </PrimaryEndpoints>
+        <SecondaryEndpoints>
+            <Endpoint>Molecular profiling of tumor biopsies pre- and post-treatment to identify potential resistance mechanisms.</Endpoint>
+            <Endpoint>Assessment of adverse events related to drug toxicity according to CTCAE version 4.0.</Endpoint>
+        </SecondaryEndpoints>
+    </Endpoints>
+    
+    <StatisticalPlan>
+        <Plan>Descriptive statistics will summarize baseline characteristics. Kaplan-Meier methods will estimate overall survival and progression-free survival rates. Correlation analyses will be performed between molecular alterations and clinical outcomes.</Plan>
+    </StatisticalPlan>
+    
+    <ExpectedOutcomes>
+        <Outcome>It is hypothesized that the combination of dabrafenib and trametinib, followed by targeted radiation, will result in improved control of localized disease; however, the presence of inherent tumor heterogeneity and the possible emergence of resistance may compromise overall efficacy.</Outcome>
+    </ExpectedOutcomes>
+    
+    <Counterpoints>
+        <Concern>Due to the complexity of tumor heterogeneity and the mechanism of resistance developed over prolonged therapy, it is anticipated that the outcomes of this trial may mirror those observed in other recent studies evaluating dabrafenib efficacy, particularly in demonstrating limited long-term responses against advanced melanoma.</Concern>
+    </Counterpoints>
+</ClinicalTrial>
+```

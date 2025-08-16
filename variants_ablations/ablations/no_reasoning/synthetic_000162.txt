@@ -1,0 +1,64 @@
+```xml
+<ClinicalTrial>
+    <Title>Evaluation of Imatinib Treatment in Patients with Gastrointestinal Stromal Tumors (GISTs)</Title>
+    <StudyType>Phase II, Multicenter, Open-Label, Single-Arm Study</StudyType>
+    <Objective>This study aims to evaluate the efficacy and safety of imatinib in patients diagnosed with advanced gastrointestinal stromal tumors (GISTs) who harbor mutations in the KIT gene. The principal focus will be to determine the progression-free survival (PFS) rate at 12 months post-treatment initiation.</Objective>
+
+    <Endpoints>
+        <PrimaryEndpoint>
+            Measure the proportion of patients achieving progression-free survival (PFS) at 12 months.
+        </PrimaryEndpoint>
+        <SecondaryEndpoints>
+            - Assess overall survival (OS) at 24 months of imatinib therapy; 
+            - Evaluate the objective response rate (ORR) using RECIST criteria at 6 and 12 months; 
+            - Document safety and adverse events (AEs) associated with imatinib treatment.
+        </SecondaryEndpoints>
+    </Endpoints>
+
+    <Participants>
+        <TotalSampleSize>120</TotalSampleSize>
+        <InclusionCriteria>
+            - Histologically confirmed GIST with documented KIT mutation; 
+            - Age ≥ 18 years; 
+            - Measurable disease per RECIST criteria; 
+            - Good performance status (ECOG PS ≤ 2);
+            - Written informed consent obtained.
+        </InclusionCriteria>
+        <ExclusionCriteria>
+            - Previous treatment with imatinib or other TKIs; 
+            - Presence of severe comorbidities affecting treatment adherence; 
+            - Pregnancy or lactation; 
+            - Gastrointestinal bleeding or obstruction; 
+            - History of hypersensitivity to imatinib or its components.
+        </ExclusionCriteria>
+    </Participants>
+
+    <Intervention>
+        <InterventionName>Imatinib</InterventionName>
+        <Dosage>400 mg orally daily</Dosage>
+        <Duration>12 months of continuous therapy</Duration>
+    </Intervention>
+
+    <OutcomeMeasures>
+        <PrimaryOutcome>Proportion of patients with progression-free survival at 12 months</PrimaryOutcome>
+        <SecondaryOutcomes>
+            - Overall survival at 24 months; 
+            - Objective response rate at 6 and 12 months; 
+            - Incidence and severity of treatment-emergent adverse events.
+        </SecondaryOutcomes>
+    </OutcomeMeasures>
+
+    <StatisticalAnalysis>
+        The primary endpoint will be analyzed using Kaplan-Meier survival estimators with 95% confidence intervals. Descriptive statistics will summarize adverse events and overall survival data.
+    </StatisticalAnalysis>
+
+    <StudyPeriod>
+        <StartDate>2024-01-01</StartDate>
+        <EndDate>2026-01-01</EndDate>
+    </StudyPeriod>
+
+    <Notes>
+        This study will provide crucial insights into the efficacy of imatinib in a specific GIST population characterized by genetic alterations. The outcomes could refine treatment protocols and improve therapeutic strategies for this challenging cancer subtype.
+    </Notes>
+</ClinicalTrial>
+```

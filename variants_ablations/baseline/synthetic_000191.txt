@@ -1,0 +1,62 @@
+```xml
+<clinical_trial>
+  <title>A Phase II Study of Cetuximab in Combination with Neoadjuvant Immunotherapy in Patients with Advanced Head and Neck Squamous Cell Carcinoma</title>
+  <description>This study aims to assess the efficacy and safety of cetuximab combined with a novel immune checkpoint inhibitor, nivolumab, in patients with advanced head and neck squamous cell carcinoma (HNSCC) prior to definitive surgical intervention. The primary objective is to evaluate the overall response rate (ORR) following this investigational treatment regimen.</description>
+  
+  <purpose>The purpose of this study is to explore the potential synergistic effects of cetuximab and nivolumab, enhancing the antitumor immune response while minimizing adverse effects associated with conventional therapies. The integration of biomarker analysis will also be conducted to correlate treatment response with tumor immunogenicity, thereby supporting personalized treatment approaches in this patient population.</purpose>
+
+  <inclusion_criteria>
+    <criterion>Histologically confirmed diagnosis of HNSCC amenable to surgical resection</criterion>
+    <criterion>Stage III or IV disease without distant metastases</criterion>
+    <criterion>Patients aged 18 years or older with an ECOG performance status of 0 or 1</criterion>
+    <criterion>Life expectancy of at least 6 months</criterion>
+    <criterion>Measurable disease as defined by RECIST 1.1 criteria</criterion>
+    <criterion>Informed consent provided by the patient</criterion>
+    <criterion>Patients must have adequate organ function: hepatic, renal, and bone marrow function</criterion>
+  </inclusion_criteria>
+
+  <exclusion_criteria>
+    <criterion>Prior treatment with any EGFR inhibitors or immune checkpoint inhibitors</criterion>
+    <criterion>Active autoimmune disease requiring systemic treatment</criterion>
+    <criterion>Significant cardiovascular disease, including myocardial infarction within 6 months</criterion>
+    <criterion>Presence of symptomatic brain metastasis</criterion>
+    <criterion>History of severe hypersensitivity reactions to monoclonal antibodies</criterion>
+    <criterion>Pregnant or breastfeeding women, or women of childbearing potential not using effective contraception</criterion>
+  </exclusion_criteria>
+
+  <design>
+    <phase>II</phase>
+    <treatment>
+      <regimen>
+        <drug>Loading dose of cetuximab 400 mg/m² IV administered on Day 1.</drug>
+        <drug>Weekly cetuximab 250 mg/m² IV from Day 8 onwards for the duration of the treatment.</drug>
+        <drug>Nivolumab 3 mg/kg IV administered on Day 1 and Day 15 for a total of three doses.</drug>
+      </regimen>
+      <surgery>
+        <description>Surgical resection scheduled for 2–4 weeks post the final administration of nivolumab.</description>
+      </surgery>
+    </treatment>
+  </design>
+
+  <outcomes>
+    <primary>
+      <outcome>Overall response rate (ORR) assessed by the RECIST criteria at 12 weeks post-initiation of treatment.</outcome>
+    </primary>
+    <secondary>
+      <outcome>Safety and tolerability evaluated through incidence of adverse events graded by NCI CTCAE v5.0.</outcome>
+      <outcome>Pathological response rate assessed through surgical specimen analysis, evaluating tumor regression.</outcome>
+      <outcome>Biomarker analysis to assess correlation between treatment response and expression of PD-L1, Tumor Infiltrating Lymphocytes (TILs), and other immunogenic markers.</outcome>
+    </secondary>
+  </outcomes>
+
+  <monitoring>
+    <description>Rigorous monitoring for adverse events and toxicities will be conducted through standardized assessment scales, fostering a patient-centric approach in safety management.</description>
+  </monitoring>
+
+  <rationale>
+    <reason>The selection of appropriate patient populations, specifically advanced HNSCC, maximizes the therapeutic relevance and potential for meaningful clinical endpoints.</reason>
+    <reason>The well-structured safety monitoring and specified inclusion-exclusion criteria will limit confounding variables, therefore enhancing the reliability and interpretability of trial outcomes.</reason>
+    <reason>The integration of biomarker analyses will provide dynamic insights into the immunotherapeutic responses, further personalizing the treatment trajectory and potentially improving therapeutic success.</reason>
+  </rationale>
+</clinical_trial>
+```

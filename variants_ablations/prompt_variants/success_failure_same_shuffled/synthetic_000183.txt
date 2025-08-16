@@ -1,0 +1,65 @@
+```xml
+<clinicalTrial>
+    <title>Evaluation of MEDI4736 in Combination with Standard Chemotherapy versus Standard Chemotherapy Alone in Patients with Metastatic Colorectal Cancer</title>
+    <phase>III</phase>
+    <studyDesign>Randomized, Multicenter, Open-Label Study</studyDesign>
+    <objectives>
+        <objective>To assess the efficacy and safety of MEDI4736 in combination with standard chemotherapy compared to standard chemotherapy alone in patients with metastatic colorectal cancer.</objective>
+    </objectives>
+    
+    <background>
+        <statement>METASTATIC COLORECTAL CANCER REMAINS A SIGNIFICANT CLINICAL CHALLENGE, WITH LIMITED LONG-TERM SURVIVAL FOLLOWING STANDARD CHEMOTHERAPY REGIMENS. IMMUNE CHECKPOINT INHIBITORS HAVE DEMONSTRATED POTENTIAL IN OTHER MALIGNANCIES; HOWEVER, THE EFFICACY OF MEDI4736 IN THIS CONTEXT IS UNDETERMINED.</statement>
+    </background>
+
+    <methodology>
+        <inclusionCriteria>
+            <criterion>Histologically confirmed metastatic colorectal cancer</criterion>
+            <criterion>At least one measurable lesion per RECIST 1.1 criteria</criterion>
+            <criterion>Age ≥ 18 years</criterion>
+            <criterion>ECOG performance status of 0 or 1</criterion>
+            <criterion>Normal organ and marrow function defined as:
+                <list>
+                    <item>Absolute Neutrophil Count ≥ 1,500/mcL</item>
+                    <item>Platelets ≥ 100,000/mcL</item>
+                    <item>Serum Bilirubin ≤ 1.5 x ULN</item>
+                    <item>Aspartate and Alanine Aminotransferases ≤ 2.5 x ULN</item>
+                    <item>Creatinine Clearance ≥ 40 mL/min</item>
+                </list>
+            </criterion>
+        </inclusionCriteria>
+        
+        <exclusionCriteria>
+            <criterion>Prior treatment with PD-1 or PD-L1 inhibitors</criterion>
+            <criterion>History of any autoimmune disease</criterion>
+            <criterion>Active central nervous system metastases</criterion>
+            <criterion>History of hypersensitivity to antibodies</criterion>
+            <criterion>Severe uncontrolled intercurrent illness</criterion>
+        </exclusionCriteria>
+
+        <treatmentArms>
+            <arm>
+                <description>Arm A: MEDI4736 10 mg/kg on Day 1 plus FOLFIRI regimen</description>
+            </arm>
+            <arm>
+                <description>Arm B: FOLFIRI regimen alone</description>
+            </arm>
+        </treatmentArms>
+        
+        <duration>Patients will receive treatment for a maximum of 6 cycles, followed by a sustainability phase.</duration>
+        <outcomes>
+            <outcome>Primary outcome: Overall survival (OS) at 12 months</outcome>
+            <outcome>Secondary outcomes: Progression-free survival (PFS), safety profile, and quality of life assessments</outcome>
+        </outcomes>
+    </methodology>
+
+    <results>
+        <result>Despite initial expectations, the trial demonstrated no statistically significant improvement in OS or PFS for Arm A compared to Arm B, with both arms exhibiting parallel survival curves.</result>
+        <result>Patient selection bias was noted due to overly stringent inclusion criteria, compromising the trial's generalizability.</result>
+        <result>Analysis of correlating immune response through peripheral blood and tumor tissue revealed minimal immune activation, indicating an underwhelming immunologic response.</result>
+        <result>The adverse event profile was unfavorable, with a higher incidence of serious adverse events in the MEDI4736 cohort leading to patients declining continued participation in the trial.</result>
+        <result>The biological limitations posed by the tumor microenvironment in metastatic colorectal cancer resulted in insufficient therapeutic efficacy compared to expectations.</result>
+    </results>
+
+    <conclusion>This phase III trial was terminated due to insufficient clinical benefits observed from the addition of MEDI4736 to standard chemotherapy in patients with metastatic colorectal cancer. Future investigations should consider targeting broader patient populations and exploring alternative treatment combinations.</conclusion>
+</clinicalTrial>
+```

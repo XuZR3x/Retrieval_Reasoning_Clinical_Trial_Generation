@@ -1,0 +1,51 @@
+```xml
+<ClinicalTrial>
+    <Title>A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Vortioxetine in Patients with Moderate to Severe Generalized Anxiety Disorder</Title>
+    <Objective>The primary objective of this trial was to assess the efficacy of vortioxetine in reducing anxiety symptoms in adults diagnosed with Generalized Anxiety Disorder (GAD) as defined by the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).</Objective>
+    <Design>This was a multicenter, randomized, double-blind, placebo-controlled trial with a parallel-group design, consisting of a 12-week treatment period.</Design>
+    <Participants>The trial enrolled 700 participants, aged 18 to 65 years, diagnosed with GAD. Participants were selected based on a structured assessment ensuring a clear representation of the GAD patient population, thereby enhancing specificity and reducing treatment variability.</Participants>
+    
+    <Methods>
+        <InclusionCriteria>
+            <Criterion>Participants with a primary diagnosis of Generalized Anxiety Disorder according to DSM-5 criteria.</Criterion>
+            <Criterion>A Hamilton Anxiety Rating Scale (HAM-A) score of ≥ 20 at screening.</Criterion>
+            <Criterion>Duration of GAD symptoms exceeding 6 months.</Criterion>
+            <Criterion>Participants must provide written informed consent.</Criterion>
+        </InclusionCriteria>
+        <ExclusionCriteria>
+            <Criterion>Current diagnosis of a psychotic disorder or bipolar disorder.</Criterion>
+            <Criterion>History of substance abuse within the past 12 months (except nicotine and caffeine).</Criterion>
+            <Criterion>Current high risk of suicide or self-harm.</Criterion>
+            <Criterion>Previous inadequate response to vortioxetine or other serotonergic agents.</Criterion>
+        </ExclusionCriteria>
+        <TreatmentGroups>
+            <Group>Vortioxetine 10 mg once daily.</Group>
+            <Group>Vortioxetine 20 mg once daily.</Group>
+            <Group>Placebo.</Group>
+        </TreatmentGroups>
+        <Randomization>Participants were randomized in a 1:1:1 ratio to receive either vortioxetine (10 mg or 20 mg) or placebo, maintained under double-blind conditions throughout the trial duration.</Randomization>
+    </Methods>
+
+    <OutcomeMeasures>
+        <PrimaryOutcome>
+            <Measure>Change from Baseline in the Hamilton Anxiety Rating Scale (HAM-A) total score at Week 12.</Measure>
+        </PrimaryOutcome>
+        <SecondaryOutcome>
+            <Measure>Proportion of participants achieving a ≥ 50% reduction in HAM-A score from Baseline to Week 12.</Measure>
+            <Measure>Change from Baseline in Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q) total score.</Measure>
+        </SecondaryOutcome>
+    </OutcomeMeasures>
+
+    <Results>
+        <EfficacyResults>
+            <Result>Participants receiving vortioxetine 10 mg and 20 mg showed a statistically significant reduction in HAM-A scores compared to the placebo group, with improvements observed as early as Week 4 and sustained through Week 12.</Result>
+            <Result>At Week 12, 67% of patients on vortioxetine (both doses) achieved a ≥ 50% reduction in HAM-A scores compared to 30% in the placebo group.</Result>
+        </EfficacyResults>
+        <SafetyResults>
+            <Result>The medication was well-tolerated, with adverse events reported being consistent with previous findings. The most common adverse events included nausea and dizziness, with overall discontinuation rates similar among all groups.</Result>
+        </SafetyResults>
+    </Results>
+
+    <Conclusion>This study successfully demonstrated the efficacy and safety of vortioxetine in the treatment of Generalized Anxiety Disorder, supporting the notion that a flexible dosing strategy, coupled with a well-defined patient population, yields clinically meaningful reductions in anxiety severity. The use of validated outcome measures facilitated rigorous assessment of treatment effects.</Conclusion>
+</ClinicalTrial>
+```

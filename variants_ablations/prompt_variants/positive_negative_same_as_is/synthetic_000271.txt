@@ -1,0 +1,44 @@
+```xml
+<ClinicalTrial>
+    <Title>Combination of Gemcitabine and Immunotherapy in Advanced Non-Small Cell Lung Cancer: A Phase II Study</Title>
+    <StudyHypothesis>To evaluate the effectiveness of gemcitabine in combination with PD-1 inhibitor pembrolizumab in patients with previously untreated advanced non-small cell lung cancer (NSCLC).</StudyHypothesis>
+    
+    <PatientPopulation>Advanced NSCLC patients with no prior systemic therapy will be eligible, provided they meet standard eligibility criteria.</PatientPopulation>
+    
+    <StudyDesign>Phase II, multi-center, open-label trial evaluating the combination of gemcitabine and pembrolizumab.</StudyDesign>
+    
+    <SafetyPlan>Safety will be assessed using Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0 to ensure rigorous monitoring of adverse effects associated with this combination therapy.</SafetyPlan>
+    
+    <StudyTreatment>
+        <Gemcitabine>1200 mg/m2 IV over 30 minutes on days 1 and 8 of a 21-day cycle for a maximum of 6 cycles.</Gemcitabine>
+        <Pembrolizumab>200 mg IV on day 1 of each cycle until disease progression or unacceptable toxicity.</Pembrolizumab>
+    </StudyTreatment>
+    
+    <MonitoringPlan>Patients will be monitored through serial imaging with CT scans every two cycles to assess disease response and progression.</MonitoringPlan>
+    
+    <ClinicalPractice>All treatments will be administered in an outpatient setting, with patients receiving regular follow-ups for toxicity and response assessment.</ClinicalPractice>
+    
+    <PrimaryEvaluations>Progression-Free Survival (PFS) and Overall Response Rate (ORR).</PrimaryEvaluations>
+    
+    <InclusionCriteria>
+        <Criteria>Histologically confirmed advanced NSCLC.</Criteria>
+        <Criteria>Aged 18 years or older.</Criteria>
+        <Criteria>ECOG performance status of 0-1.</Criteria>
+        <Criteria>Ability to tolerate intravenous infusion.</Criteria>
+        <Criteria>Provision of written informed consent.</Criteria>
+        <Criteria>Male and female participants must agree to use effective contraception during the study.</Criteria>
+    </InclusionCriteria>
+    
+    <ExclusionCriteria>
+        <Criteria>Prior treatment with any anti-cancer therapy for advanced disease.</Criteria>
+        <Criteria>Evident squamous cell type NSCLC unless enrolled in biomarker-driven cohorts.</Criteria>
+        <Criteria>Severe hypersensitivity to any study drug or its excipients.</Criteria>
+        <Criteria>Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection.</Criteria>
+        <Criteria>Pregnancy or breastfeeding.</Criteria>
+        <Criteria>Active autoimmune disease requiring systemic treatment.</Criteria>
+        <Criteria>Other significant co-existing diseases affecting eligibility.</Criteria>
+    </ExclusionCriteria>
+    
+    <Rationale>The rationale for combining gemcitabine with pembrolizumab stems from emerging evidence indicating that gemcitabine enhances T-cell activation by modulating the tumor microenvironment and reducing immunosuppressive cells. Furthermore, the stringent inclusion criteria will result in a homogeneous patient population, minimizing variability in treatment response and enhancing efficacy interpretation. Continuous safety monitoring is implemented, allowing for adaptive modifications to tailor treatment based on individual responses. This phase II trial aims to provide conclusive evidence regarding the synergy of this combination therapy in improving patient outcomes, through both improved response rates and prolonged progression-free survival.</Rationale>
+</ClinicalTrial>
+```

@@ -1,0 +1,31 @@
+```xml
+<ClinicalTrial>
+    <StudyTitle>A Study of Bevacizumab (Avastin) Combined with Radiotherapy in Patients with Locally Advanced Pancreatic Adenocarcinoma</StudyTitle>
+    <StudyDesign>A Multi-center, Randomized, Open-label Trial to Evaluate the Efficacy and Safety of Bevacizumab in Combination with Neoadjuvant Radiotherapy Versus Radiotherapy Alone in Patients with Locally Advanced Pancreatic Adenocarcinoma.</StudyDesign>
+    <Objective>This study aims to assess the impact of bevacizumab on progression-free survival and overall survival when administered concurrently with radiotherapy in patients with locally advanced pancreatic adenocarcinoma.</Objective>
+    <Intervention>Patients in the experimental arm will receive bevacizumab (10 mg/kg intravenously every two weeks) plus concurrent radiotherapy (50 Gy in 25 fractions) followed by consolidation chemotherapy. The control group will receive radiotherapy alone followed by the same consolidation chemotherapy. The anticipated duration of treatment for all patients will be 6-8 weeks.</Intervention>
+    <SampleSize>The target sample size is 150 individuals.</SampleSize>
+    <InclusionCriteria>
+        <Criteria>Adult patients, aged 18-80 years;</Criteria>
+        <Criteria>Histologically confirmed diagnosis of locally advanced pancreatic adenocarcinoma;</Criteria>
+        <Criteria>Eastern Cooperative Oncology Group (ECOG) performance status of 0-2;</Criteria>
+        <Criteria>No prior systemic treatment for pancreatic cancer.</Criteria>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criteria>Prior exposure to bevacizumab;</Criteria>
+        <Criteria>Significant comorbidities including uncontrolled hypertension or severe cardiovascular disease;</Criteria>
+        <Criteria>Presence of untreated central nervous system metastases;</Criteria>
+        <Criteria>History of gastrointestinal perforation or bleeding.</Criteria>
+    </ExclusionCriteria>
+    <PrimaryEndpoint>The primary endpoint of the trial is progression-free survival defined as time from randomization to disease progression as per RECIST v1.1 criteria or death, whichever occurs first.</PrimaryEndpoint>
+    <SecondaryEndpoints>Secondary endpoints will include overall survival, local disease control rate, and assessment of toxicity using Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.</SecondaryEndpoints>
+    <TrialFailures>
+        <FailureReason>1. Inadequate Target Patient Selection: The trial enrolled a heterogeneous population of patients, which led to variability in treatment responses, obscuring the potential benefit of combining bevacizumab with radiotherapy.</FailureReason>
+        <FailureReason>2. Suboptimal Treatment Regimens: The dosing schedule of bevacizumab may have resulted in an inadequate therapeutic window when combined with radiotherapy, potentially diminishing any synergistic effects.</FailureReason>
+        <FailureReason>3. Complications from Comorbidities: A significant number of enrolled patients presented with comorbid conditions, heightening risks of treatment-related adverse events and subsequently increasing treatment discontinuation rates.</FailureReason>
+        <FailureReason>4. Increased Risk of Major Vascular Events: Noteworthy incidents of thromboembolic complications were observed in the cohort receiving bevacizumab, discouraging continuation of therapy owing to safety concerns.</FailureReason>
+        <FailureReason>5. Deficient Biomarker Utilization: The lack of stratification through biomarkers that define patient subsets likely to benefit from bevacizumab limited the identification of optimal candidates for the treatment.</FailureReason>
+    </TrialFailures>
+    <Conclusion>The study was terminated prematurely due to an inability to demonstrate a statistically significant improvement in progression-free survival compared to the control group, attributable to the diverse patient population and increased adverse events related to the intervention.</Conclusion>
+</ClinicalTrial>
+```

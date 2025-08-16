@@ -1,0 +1,56 @@
+```xml
+<ClinicalTrial>
+    <Title>Randomized Phase II Study of Olaparib as Monotherapy in Patients with Recurrent/Metastatic Ewing's Sarcoma and Gastric Cancer</Title>
+    
+    <StudyOverview>
+        This study was a Phase II clinical trial aimed at evaluating the efficacy of olaparib in adult patients diagnosed with recurrent or metastatic Ewing's sarcoma and gastric cancer. The primary endpoint focused on the objective response rate (ORR) of olaparib, as compared to a standardized chemotherapy regimen (doxorubicin or capecitabine). Secondary objectives included progression-free survival (PFS), overall survival (OS), and safety profile assessment through adverse event monitoring.
+    </StudyOverview>
+    
+    <PrimaryObjectives>
+        To determine the ORR of olaparib in patients with recurrent or metastatic Ewing's sarcoma and gastric cancer, as measured through RECIST 1.1 criteria.
+    </PrimaryObjectives>
+    
+    <SecondaryObjectives>
+        To assess PFS, OS, and the safety of olaparib in comparison to conventional chemotherapy, measuring the incidence of adverse events and their severity.
+    </SecondaryObjectives>
+
+    <StudyDesign>
+        Eligible patients were screened and provided informed consent before being randomized to receive either olaparib (400 mg orally twice daily) or standard chemotherapy. Tumor response was evaluated at baseline, 6 weeks, and subsequently every 8 weeks through imaging techniques. Patients could continue treatment until disease progression or notable toxicities occurred.
+    </StudyDesign>
+
+    <InclusionCriteria>
+        - Histologically confirmed Ewing's sarcoma or gastric cancer.
+        - Life expectancy greater than 3 months.
+        - Age ≥18 years.
+        - Measurable disease as per RECIST 1.1 guidelines.
+    </InclusionCriteria>
+    
+    <ExclusionCriteria>
+        - Prior treatment with any PARP inhibitor including olaparib.
+        - More than two lines of prior systemic therapy for the treatment of the current malignancy.
+        - Prior history of myelodysplastic syndrome or acute myeloid leukemia.
+        - Presence of symptomatic brain metastases not adequately treated.
+        - Significant uncontrolled medical conditions.
+    </ExclusionCriteria>
+
+    <Objectives>
+        <OverallResponseRate>
+            Assessment of the number of participants achieving a complete response (CR) or partial response (PR).
+        </OverallResponseRate>
+        <ProgressionFreeSurvival>
+            Time measured from randomization until disease progression.
+        </ProgressionFreeSurvival>
+        <OverallSurvival>
+            Time measured from randomization to death due to any cause.
+        </OverallSurvival>
+    </Objectives>
+
+    <Results>
+        The trial ultimately achieved an ORR of 8% in the olaparib cohort, which was substantially lower than the hypothesized rate of 30%, primarily attributed to the biological resistance mechanisms observed in both Ewing's sarcoma and gastric cancer. Variability in genetic mutations among the patients led to confounding factors affecting treatment efficacy, revealing the challenges posed by heterogeneity within the sample. Moreover, suboptimal pharmacokinetics due to CYP3A4 metabolism discrepancies resulted in significant inter-patient variability in drug exposure, undermining therapeutic outcomes. Notably, drug-drug interactions with concurrent chemotherapies caused increased adverse effects, leading to dose modifications and treatment interruptions. 
+    </Results>
+
+    <Conclusion>
+        The results collectively underscore the limitations of olaparib in the targeted patient cohorts. Due to oligogenic and variability in treatment history, the potential mechanism of action was ineffective in the majority of subjects, leading to a failed clinical trial outcome. The findings warrant further investigation into stratifying patient populations by biomarker-driven approaches before utilizing olaparib in Ewing's sarcoma and gastric cancer. 
+    </Conclusion>
+</ClinicalTrial>
+```

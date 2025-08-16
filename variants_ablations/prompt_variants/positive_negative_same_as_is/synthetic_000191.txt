@@ -1,0 +1,55 @@
+```xml
+<ClinicalTrial>
+    <Title>A Randomized-Controlled Trial Evaluating Sirolimus in Combination with Belatacept in Renal Allograft Recipients: A Focus on Graft Durability and Immunological Response</Title>
+    <StudyDesign>
+        <Type>Prospective, Randomized, Open-Label</Type>
+        <Objective>
+            <PrimaryObjective>To assess the primary efficacy of sirolimus combined with belatacept on the incidence of interstitial fibrosis and graft function at 12 months post-transplant compared to standard therapy with tacrolimus and mycophenolate mofetil.</PrimaryObjective>
+            <SecondaryObjective>To evaluate the immunomodulatory effects of sirolimus on pro-inflammatory cytokines in kidney transplant recipients at various time points.</SecondaryObjective>
+        </Objective>
+    </StudyDesign>
+    <Background>
+        <Rationale>Previous studies, including the Fibrasic trial, have highlighted sirolimus's potential to reduce interstitial fibrosis and arteriosclerosis in renal allograft recipients. The favorable safety profile demonstrates a significant reduction in nephrotoxicity associated with calcineurin inhibitors. In particular, the synergies seen with dual immunosuppressive regimens suggest that sirolimus, coupled with a potent co-immunosuppressant such as belatacept, could optimize renal allograft longevity while minimizing adverse events. Previous data have shown that sirolimus treatment correlates with improved graft function and reduced serum creatinine levels, indicating its vital role in contemporary transplant immunotherapy.</Rationale>
+    </Background>
+    <Participants>
+        <TotalSampleSize>150</TotalSampleSize>
+        <InclusionCriteria>
+            <Criterion>Age ≥ 18 years</Criterion>
+            <Criterion>Recipients of a first renal allograft</Criterion>
+            <Criterion>HLA mismatches ≥ one for living donor grafts</Criterion>
+            <Criterion>Written informed consent</Criterion>
+            <Criterion>Low immunological risk defined as PRA < 20%</Criterion>
+        </InclusionCriteria>
+        <ExclusionCriteria>
+            <Criterion>Prior organ transplant history</Criterion>
+            <Criterion>Cold ischemia time exceeding 36 hours</Criterion>
+            <Criterion>Renal allografts from donors older than 75 years</Criterion>
+            <Criterion>Current malignancy with treatment or history of hematologic malignancy</Criterion>
+            <Criterion>Chronic systemic infections or recent active severe infections</Criterion>
+        </ExclusionCriteria>
+    </Participants>
+    <Intervention>
+        <Group1>
+            <Intervention>Sirolimus + Belatacept</Intervention>
+            <Dosage>Sirolimus 2 mg daily; Belatacept administered every 4 weeks post induction</Dosage>
+        </Group1>
+        <Group2>
+            <Intervention>Tacrolimus + Mycophenolate Mofetil</Intervention>
+            <Dosage>Tacrolimus dosed to keep trough levels 5-15 ng/mL; Mycophenolate Mofetil 1 g BID</Dosage>
+        </Group2>
+    </Intervention>
+    <PrimaryEndpoints>
+        <Endpoint>Cortical fractional interstitial fibrosis volume (V IntFib) in protocol biopsies at 12 months</Endpoint>
+        <Endpoint>Morphological changes through digital image analysis and cytokine responses</Endpoint>
+    </PrimaryEndpoints>
+    <FollowUpDuration>12 months</FollowUpDuration>
+    <OutcomeMeasures>
+        <Measure>Serum creatinine and estimated glomerular filtration rate (eGFR) at 1, 3, 6, and 12 months</Measure>
+        <Measure>Quantitative assessment of pro-inflammatory cytokines using ELISA</Measure>
+    </OutcomeMeasures>
+    <ExpectedResults>
+        <Result>Improved graft function, as evidenced by decreased V IntFib and stable renal function, is anticipated in the sirolimus + belatacept cohort.</Result>
+        <Result>Enhanced immune modulation reflected in lower cytokine levels compared to the tacrolimus + mycophenolate mofetil group.</Result>
+    </ExpectedResults>
+</ClinicalTrial>
+```

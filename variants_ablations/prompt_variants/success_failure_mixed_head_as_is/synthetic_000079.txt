@@ -1,0 +1,56 @@
+```xml
+<clinicalTrial>
+    <title>Evaluating Cixutumumab in Combination with Novel Immunotherapeutics for Advanced Ovarian Cancer</title>
+    <phase>2</phase>
+    <type>Interventional</type>
+    <objective>
+        <primaryObjectives>
+            <objective>I. To assess the overall survival (OS) in patients with advanced ovarian cancer treated with cixutumumab in combination with pembrolizumab and carboplatin.</objective>
+            <objective>II. To evaluate the objective response rate (ORR) and disease control rate (DCR) in this cohort.</objective>
+        </primaryObjectives>
+        <secondaryObjectives>
+            <objective>I. To analyze the progression-free survival (PFS) at 6 months post-initiation of therapy.</objective>
+            <objective>II. To characterize the safety and tolerability profile of the cixutumumab combination therapy.</objective>
+            <objective>III. To investigate the correlation of serum insulin-like growth factor (IGF) levels and response to therapy, utilizing biomarker evaluations.</objective>
+        </secondaryObjectives>
+    </objective>
+    <design>
+        <description>This is a randomized, multicenter, open-label Phase 2 clinical trial designed to evaluate the safety and efficacy of cixutumumab combined with immune checkpoint inhibitor pembrolizumab and standard chemotherapy (carboplatin) in subjects with advanced ovarian cancer. Patients are randomized 1:1 to receive either an investigational arm (cixutumumab + pembrolizumab + carboplatin) or a control arm (carboplatin + pembrolizumab).</description>
+        <enrollmentSize>200</enrollmentSize>
+        <randomization>Yes</randomization>
+    </design>
+    <methods>
+        <treatment>
+            <description>Participants assigned to the investigational arm will receive cixutumumab intravenously (IV) at a dose of 12 mg/kg once every two weeks, combined with pembrolizumab at 200 mg IV every three weeks and carboplatin based on the Calvert formula, administered every 21 days for a maximum of 6 cycles. Patients will be continuously monitored for response and safety.</description>
+        </treatment>
+        <biomarkerAnalysis>
+            <description>Serum samples will be collected at baseline, after 3 cycles, and at 6 months for the assessment of IGF-1 and IGF-2 levels, as well as their binding proteins (IGFBP-3), to evaluate pharmacodynamic responses.</description>
+        </biomarkerAnalysis>
+    </methods>
+    <inclusionCriteria>
+        <criteria>- Female patients aged 18 years or older with histologically confirmed advanced ovarian cancer (stage III or IV), with measurable disease.</criteria>
+        <criteria>- Prior treatment with first-line chemotherapy is acceptable provided treatment completed at least 28 days prior to enrollment.</criteria>
+        <criteria>- Performance status of Eastern Cooperative Oncology Group (ECOG) of 0-2.</criteria>
+        <criteria>- Adequate organ function as defined by specific laboratory parameters.</criteria>
+    </inclusionCriteria>
+    <exclusionCriteria>
+        <criteria>- Prior treatment with any monoclonal antibodies targeting the IGF-IR.</criteria>
+        <criteria>- Known hypersensitivity to study drugs.</criteria>
+        <criteria>- History of another malignancy within 5 years, except for non-melanoma skin cancers.</criteria>
+        <criteria>- Uncontrolled intercurrent illness.</criteria>
+    </exclusionCriteria>
+    <outcomes>
+        <primaryOutcomeInfo>
+            <outcomeMeasure>Overall survival at 12 months post-treatment initiation.</outcomeMeasure>
+            <statisticsMethod>Kaplan-Meier method for survival analysis.</statisticsMethod>
+        </primaryOutcomeInfo>
+        <secondaryOutcomeInfo>
+            <outcomeMeasure>Objective response rate (ORR) defined as the proportion of patients achieving complete or partial response according to RECIST criteria.</outcomeMeasure>
+            <statisticsMethod>Fisher's exact test comparing ORR between groups.</statisticsMethod>
+        </secondaryOutcomeInfo>
+    </outcomes>
+    <expectedResults>
+        <description>We hypothesize that the combination of cixutumumab with pembrolizumab and carboplatin will show an increased overall survival and objective response rates when compared to the control arm. This synergistic effect may be attributed to the enhanced therapeutic response of cixutumumab’s blockade of IGF-IR, which could augment the efficacy of the immune checkpoint inhibition and conventional chemotherapy.</description>
+    </expectedResults>
+</clinicalTrial>
+```

@@ -1,0 +1,67 @@
+```xml
+<clinical_trial>
+    <title>Enhanced Renal Allograft Outcomes with Sirolimus-Focused Immunosuppressive Regimens: A Multicenter Study</title>
+    
+    <design>
+        <type>Multicenter Randomized Controlled Trial</type>
+        <objective>This study aims to evaluate the efficacy and safety of a sirolimus-based immunosuppressive regimen compared to a conventional tacrolimus regimen in de novo kidney transplant recipients.</objective>
+        <duration>The trial will commence with participant recruitment over a period of 12 months, followed by a 104-week follow-up phase post-transplantation.</duration>
+    </design>
+    
+    <background>
+        <rationale>The rationale for this study is supported by emerging evidence demonstrating superior renal outcomes with sirolimus in combination therapy regimens involving daclizumab and mycophenolate in kidney allograft recipients. Additionally, the utility of sirolimus in high-risk populations such as Expanded Criteria Donors (ECD) has reinforced its viability in optimizing renal transplant outcomes.</rationale>
+    </background>
+    
+    <methods>
+        <participants>
+            <inclusion_criteria>
+                <criterion>Adults aged 18 years and older</criterion>
+                <criterion>Recipient of a primary renal allograft from a standard or ECD</criterion>
+                <criterion>Provision of informed consent</criterion>
+            </inclusion_criteria>
+            <exclusion_criteria>
+                <criterion>History of malignancy within the last 5 years</criterion>
+                <criterion>Active systemic infections</criterion>
+                <criterion>Known hypersensitivity to sirolimus or its components</criterion>
+            </exclusion_criteria>
+        </participants>
+        
+        <intervention>
+            <group>
+                <name>Sirolimus-Based Regimen</name>
+                <description>Participants will receive sirolimus in conjunction with mycophenolate mofetil and corticosteroids.</description>
+                <dosage>Sirolimus dosage will be tailored based on serum concentration monitoring, with initial doses starting at 6 mg daily.</dosage>
+            </group>
+            <group>
+                <name>Tacrolimus-Based Regimen</name>
+                <description>Participants in the control group will receive tacrolimus in combination with mycophenolate mofetil and corticosteroids.</description>
+                <dosage>Tacrolimus will be initiated at a dosage of 0.1 mg/kg/day, adjusted as necessary based on therapeutic drug monitoring.</dosage>
+            </group>
+        </intervention>
+        
+        <outcomes>
+            <primary_outcome>
+                <description>The primary outcome will be the mean rate of creatinine clearance at 12 months post-transplantation, assessed via the Cockcroft-Gault equation.</description>
+            </primary_outcome>
+            <secondary_outcomes>
+                <outcome>Rate of acute rejection episodes</outcome>
+                <outcome>Incidence of serious adverse events</outcome>
+            </secondary_outcomes>
+        </outcomes>
+    </methods>
+    
+    <analysis>
+        <statistical_methods>The primary analysis will utilize an intention-to-treat model comparing estimated means of creatinine clearance via a linear regression framework with adjustments for baseline characteristics and stratification factors.</statistical_methods>
+        <sample_size>Approximately 300 renal transplant recipients will be recruited, with a target of 150 individuals per group to ensure sufficient power to detect significant differences.</sample_size>
+    </analysis>
+    
+    <ethical_considerations>
+        <approval>The study protocol has been reviewed and approved by the Institutional Review Boards of participating centers.</approval>
+        <consent>Informed consent will be obtained from all participants prior to enrollment in accordance with Good Clinical Practice guidelines.</consent>
+    </ethical_considerations>
+    
+    <expected_results>
+        <description>It is anticipated that the sirolimus-based regimen will demonstrate improved renal function preservation and reduced rejection rates compared to the tacrolimus regimen, supporting its role in personalized immunosuppressive therapy.</description>
+    </expected_results>
+</clinical_trial>
+```

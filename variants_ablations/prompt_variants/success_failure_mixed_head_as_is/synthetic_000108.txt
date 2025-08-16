@@ -1,0 +1,74 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<clinicalTrial>
+  <title>Phase 3 Trial of Ibrutinib Plus Venetoclax Versus Venetoclax Alone in Patients With Chronic Lymphocytic Leukemia</title>
+  <identifier>NCT04526158</identifier>
+  
+  <studyDesign>
+    <type>Randomized, Multicenter, Open-label, Phase 3 Study</type>
+    <objective>This study aims to evaluate the efficacy and safety of ibrutinib in combination with venetoclax compared to venetoclax alone in previously untreated patients with chronic lymphocytic leukemia (CLL).</objective>
+  </studyDesign>
+  
+  <inclusionCriteria>
+    <criteria>
+      <item>Histologically confirmed diagnosis of CLL, Rai stage 0-IV.</item>
+      <item>Age ≥ 18 years.</item>
+      <item>IgG and IgM levels within defined limits.</item>
+      <item>At least one measurable disease criterion (lymphadenopathy or splenomegaly) determined by imaging studies.</item>
+      <item>Eastern Cooperative Oncology Group (ECOG) performance status of 0-2.</item>
+      <item>No previous anti-CLL treatments.</item>
+    </criteria>
+  </inclusionCriteria>
+  
+  <exclusionCriteria>
+    <criteria>
+      <item>Presence of symptomatic disease associated with central nervous system involvement.</item>
+      <item>Prior exposure to ibrutinib or other BTK inhibitors.</item>
+      <item>Ongoing systemic infections requiring treatment.</item>
+      <item>Significant cardiovascular or hepatic comorbidities that could jeopardize patient safety.</item>
+      <item>Any hypersensitivity reaction to venetoclax or its components.</item>
+    </criteria>
+  </exclusionCriteria>
+
+  <intervention>
+    <treatmentArm>
+      <name>Ibrutinib + Venetoclax</name>
+      <description>Subjects will receive ibrutinib administered continuously until disease progression or unacceptable toxicity, in conjunction with venetoclax dosed according to weight-adjusted intervals.</description>
+    </treatmentArm>
+    <treatmentArm>
+      <name>Venetoclax Alone</name>
+      <description>Subjects will receive venetoclax monotherapy according to the standard administration guidelines.</description>
+    </treatmentArm>
+  </intervention>
+
+  <primaryEndpoints>
+    <endpoint>
+      <description>Overall response rate (ORR) defined as the proportion of subjects achieving complete response (CR) or partial response (PR) as assessed by an independent review committee (IRC) utilizing the iwCLL criteria.</description>
+    </endpoint>
+    <endpoint>
+      <description>Progression-free survival (PFS) defined as the time from randomization to disease progression or death from any cause.</description>
+    </endpoint>
+  </primaryEndpoints>
+  
+  <secondaryEndpoints>
+    <endpoint>
+      <description>Duration of response (DOR) assessed from the first documented response until disease progression or death.</description>
+    </endpoint>
+    <endpoint>
+      <description>Safety profile assessed through the recording of adverse events (AEs) and serious adverse events (SAEs) throughout the study duration.</description>
+    </endpoint>
+  </secondaryEndpoints>
+  
+  <rationale>
+    <reason>The combination of ibrutinib and venetoclax employs a dual mechanism of action targeting both B-cell receptor signaling and anti-apoptotic pathways, potentially leading to superior efficacy in CLL patients.</reason>
+    <reason>Utilizing validated biomarkers for patient selection ensures the identification of individuals most likely to derive benefit, thereby enhancing the likelihood of favorable clinical outcomes.</reason>
+    <reason>Inclusion of previously untreated patients with CLL serves to reduce confounding variables related to treatment history, allowing for a clearer evaluation of therapeutic efficacy at baseline.</reason>
+    <reason>Longitudinal follow-up assessments will provide comprehensive data on PFS and ORR, which are critical outcome measures for evaluating the success of this combinatorial treatment approach.</reason>
+    <reason>The open-label design permits flexibility in patient management, with real-time monitoring and adjustment adaptations to enhance patient safety and study integrity.</reason>
+  </rationale>
+
+  <conclusion>
+    <statement>This innovative clinical trial design seeks to establish definitive conclusions regarding the superior efficacy of ibrutinib in combination with venetoclax against standard venetoclax monotherapy, with a focus on maximizing outcomes for patients with chronic lymphocytic leukemia.</statement>
+  </conclusion>
+</clinicalTrial>
+```

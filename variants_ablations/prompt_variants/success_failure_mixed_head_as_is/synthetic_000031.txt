@@ -1,0 +1,37 @@
+```xml
+<clinicalTrial>
+    <name>A Phase 1b Study of MM-121 in Combination with Nivolumab in Patients with Refractory Aggressive Solid Tumors</name>
+    <description>This study aims to evaluate the safety, tolerability, and preliminary efficacy of MM-121 administered in combination with nivolumab for patients with advanced-stage refractory solid tumors. The trial employs a dose-escalation design to determine the optimal dosage of MM-121 when used with nivolumab.</description>
+    <phase>1b</phase>
+    <design>Multicenter, open-label, dose-escalation study</design>
+    <objectives>
+        <primary>To assess the safety and tolerability of escalating doses of MM-121 in combination with nivolumab in patients with refractory aggressive solid tumors.</primary>
+        <secondary>To evaluate the pharmacodynamic effects and preliminary efficacy of MM-121 plus nivolumab, as measured by objective response rates (ORR) and progression-free survival (PFS).</secondary>
+    </objectives>
+    <inclusionCriteria>
+        <criterion>Histologically confirmed advanced solid tumors with no curative treatment options available.</criterion>
+        <criterion>An ECOG performance status of 0 or 1.</criterion>
+        <criterion>Patients aged 18 years or older.</criterion>
+        <criterion>All patients must have measurable disease as defined by RECIST v1.1.</criterion>
+        <criterion>Ability to provide written informed consent.</criterion>
+    </inclusionCriteria>
+    <exclusionCriteria>
+        <criterion>Active infection requiring systemic therapy.</criterion>
+        <criterion>Prior treatment with any anti-PD-1/PD-L1 antibody.</criterion>
+        <criterion>Known hypersensitivity to MM-121 or nivolumab.</criterion>
+        <criterion>Any other active malignancy.</criterion>
+        <criterion>Severe comorbidities that would compromise the patient’s safety during the trial.</criterion>
+    </exclusionCriteria>
+    <methodology>
+        <details>Each cohort will consist of 3-6 patients. The study will utilize a "3+3" design, with doses of MM-121 escalating based on safety profiles observed in the previous cohorts. Doses of nivolumab will remain fixed at standard therapeutic levels.</details>
+        <details>Safety assessments will include monitoring adverse events, laboratory abnormalities, and vital signs. Pharmacodynamic analyses will include biomarker assessments correlating with treatment efficacy, leveraging the strategic choice of MM-121's mechanism in targeting the heregulin pathway to enhance nivolumab's immune-mediated effects.</details>
+    </methodology>
+    <endpoints>
+        <primaryEndpoint>Incidence of treatment-related adverse events and serious adverse events as per CTCAE v5.0.</primaryEndpoint>
+        <secondaryEndpoint>Clinical efficacy will be gauged through objective response rates (ORR) and progression-free survival (PFS), evaluated at 8-week intervals, assessed by investigator using RECIST v1.1 criteria.</secondaryEndpoint>
+    </endpoints>
+    <expectedOutcome>
+        <outcome>It is hypothesized that the combination of MM-121 and nivolumab will yield superior outcomes in terms of safety and efficacy profiles compared to historical data of nivolumab monotherapy in similar populations, particularly given the select targeting of tumors with high reliance on heregulin signaling for proliferation.</outcome>
+    </expectedOutcome>
+</clinicalTrial>
+```

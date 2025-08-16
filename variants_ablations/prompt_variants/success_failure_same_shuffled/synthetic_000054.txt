@@ -1,0 +1,41 @@
+```xml
+<clinicalTrial>
+    <officialTitle>A Phase 2 Study of Itacitinib (INCB039110) in Combination With Standard Chemotherapy in Patients With Relapsed or Refractory Solid Tumors</officialTitle>
+    <studyDesign>
+        <phase>Phase 2</phase>
+        <objectives>
+            <primaryObjective>To evaluate the efficacy of itacitinib in combination with standard chemotherapy regimens in patients with relapsed or refractory solid tumors.</primaryObjective>
+            <secondaryObjectives>To assess the safety profile of itacitinib in this patient population and to identify any pharmacokinetic interactions between itacitinib and the chemotherapy agents.</secondaryObjectives>
+        </objectives>
+        <population>Relapsed or refractory patients with advanced solid tumors having received at least one prior line of therapy.</population>
+    </studyDesign>
+    <inclusionCriteria>
+        <criterion>Histologically or cytologically confirmed diagnosis of solid tumors.</criterion>
+        <criterion>Age ≥ 18 years.</criterion>
+        <criterion>ECOG performance status 0 to 2.</criterion>
+        <criterion>Life expectancy of ≥ 12 weeks.</criterion>
+        <criterion>Evidence of measurable disease per RECIST criteria.</criterion>
+    </inclusionCriteria>
+    <exclusionCriteria>
+        <criterion>Prior treatment with itacitinib or any JAK inhibitors.</criterion>
+        <criterion>Concurrent uncontrolled medical conditions (e.g., severe cardiac, hepatic, or renal dysfunction).</criterion>
+        <criterion>Presence of significant drug-drug interactions that could compromise safety and efficacy.</criterion>
+        <criterion>History of severe hypersensitivity reactions to any components of the study drugs.</criterion>
+    </exclusionCriteria>
+    <intervention>
+        <drug>Itacitinib</drug>
+        <description>The intervention will consist of itacitinib administered orally at a dose determined to be MTD in combination with standard chemotherapy (e.g., carboplatin and paclitaxel).</description>
+    </intervention>
+    <hypothesis>Itacitinib, when administered in combination with standard chemotherapy, will improve overall response rates compared to historical controls.</hypothesis>
+    <failures>
+        <reason>Limited Efficacy in Study Populations: The study revealed that the combination therapy failed to achieve statistically significant improvements in overall survival and progression-free survival compared to historical controls, with overall response rates remaining below 20%.</reason>
+        <reason>High Incidence of Adverse Events: A significant portion of participants (approximately 45%) experienced severe adverse events (≥ Grade 3), leading to treatment discontinuation and raising substantial safety concerns regarding itacitinib's tolerability.</reason>
+        <reason>Inadequate Drug-Drug Interaction Studies: Substantial unanticipated drug-drug interactions were observed during the trial, resulting in increased toxicities due to interrupted clearance of both itacitinib and the chemotherapeutics.</reason>
+        <reason>Patient Selection Bias: The inclusion criteria may have led to a patient population inadequately representing the general relapsed or refractory solid tumor population, potentially skewing efficacy results.</reason>
+        <reason>Insufficient Preclinical Data Correlation: Preclinical studies suggested promising antitumor activity and safety, yet these findings did not translate effectively to the clinical setting, resulting in a significant shortfall in predicted efficacy.</reason>
+    </failures>
+    <outcome>
+        <summary>Due to the observed treatment drawbacks, including inadequate efficacy, high toxicity rates, and poor pharmacokinetic compatibility, the trial was ultimately halted prior to completing all phases.</summary>
+    </outcome>
+</clinicalTrial>
+```

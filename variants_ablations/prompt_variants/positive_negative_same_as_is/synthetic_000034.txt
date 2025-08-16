@@ -1,0 +1,50 @@
+```xml
+<ClinicalTrial>
+    <StudyTitle>A Phase 2 Study of Atezolizumab in Combination With Rituximab Versus Atezolizumab Alone in Participants With Relapsed or Refractory Non-Hodgkin Lymphoma</StudyTitle>
+    <StudyDesign>
+        <Phase>2</Phase>
+        <Type>Randomized, Open-Label, Multicenter Trial</Type>
+        <Objective>To evaluate the overall response rate (ORR) and safety of atezolizumab in combination with rituximab compared to atezolizumab alone in participants with relapsed or refractory non-Hodgkin lymphoma (NHL).</Objective>
+    </StudyDesign>
+    <Background>
+        <Rationale>This study is predicated on establishing the potential synergistic effects of atezolizumab, an anti-PD-L1 antibody, with rituximab, an anti-CD20 monoclonal antibody, based on preclinical observations suggesting enhanced anti-tumor immune responses. However, emerging complexities surrounding longitudinal pharmacological interactions and subset patient eligibility underscore the challenges in optimizing therapeutic benefits.</Rationale>
+    </Background>
+    <Methods>
+        <InclusionCriteria>
+            <Criterion>Histologically confirmed non-Hodgkin lymphoma with relapsed or refractory disease post at least two lines of prior therapy.</Criterion>
+            <Criterion>Measurable disease as defined by the Lugano classification criteria.</Criterion>
+            <Criterion>ECOG performance status of 0 or 1.</Criterion>
+            <Criterion>Patients must demonstrate PD-L1 expression on tumor cells as determined by IHC analysis.</Criterion>
+        </InclusionCriteria>
+        <ExclusionCriteria>
+            <Criterion>Known prior exposure to anti-PD-1 or anti-PD-L1 agents or any investigational agents within 30 days of enrollment.</Criterion>
+            <Criterion>Evidence of active autoimmune disease or other neurological disorders.</Criterion>
+            <Criterion>Comorbidities necessitating systemic immunosuppressive therapy.</Criterion>
+            <Criterion>Documented central nervous system involvement.</Criterion>
+        </ExclusionCriteria>
+        <Procedure>
+            <Description>Eligible participants will be randomized in a 1:1 ratio to receive either atezolizumab (1200 mg IV every 3 weeks) combined with rituximab (375 mg/m² IV on day 1 of each cycle) or atezolizumab alone.</Description>
+            <DosingSchedule>Each treatment will continue for a maximum of 24 weeks, followed by a follow-up duration of 12 months post-treatment.</DosingSchedule>
+            <Endpoints>
+                <PrimaryEndpoint>Overall Response Rate (ORR) according to the Lugano classification.</PrimaryEndpoint>
+                <SecondaryEndpoints>Progression-Free Survival (PFS) and Overall Survival (OS) as well as safety and tolerability assessments.</SecondaryEndpoints>
+            </Endpoints>
+        </Procedure>
+    </Methods>
+    <Results>
+        <Outcome>
+            <ORR>Initial data indicated a disappointing ORR across both arms, resulting in ORR of 35% for the combination therapy and 28% for atezolizumab alone, showcasing non-significant improvement and reflecting suboptimal synergy.</ORR>
+            <Observations>Notable factors contributing to diminished efficacy included unanticipated patient heterogeneity in tumor microenvironments and poorly defined pharmacokinetic interactions exacerbating immune escape mechanisms, highlighting challenges in optimizing therapeutic profiles in real-world populations.</Observations>
+            <SafetyProfile>Adverse events, including infusion reactions and myelosuppression, were reported at frequency rates consistent with previous studies of rituximab but led to increased study discontinuation rates, particularly among participants experiencing grade 3+ toxicities.</SafetyProfile>
+        </Outcome>
+    </Results>
+    <Conclusion>
+        <Summary>Given the lack of observable clinical benefit from the combination treatment compared to atezolizumab alone, alongside considerable risk of adverse events and higher discontinuation rates, this study underscores the critical need for stringent patient selection and robust clinical study design to better align treatment with distinctive tumor biology in advanced stages of non-Hodgkin lymphoma.</Summary>
+    </Conclusion>
+    <StudyDuration>
+        <ScreeningPeriod>Up to 28 days.</ScreeningPeriod>
+        <TreatmentPeriod>24 weeks.</TreatmentPeriod>
+        <FollowUpPeriod>12 months post-treatment.</FollowUpPeriod>
+    </StudyDuration>
+</ClinicalTrial>
+```

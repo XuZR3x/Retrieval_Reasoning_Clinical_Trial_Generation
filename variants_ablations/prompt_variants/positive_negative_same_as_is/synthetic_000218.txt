@@ -1,0 +1,66 @@
+```xml
+<ClinicalTrial>
+  <Title>Evaluation of Docetaxel in Combination with Atezolizumab as First-Line Therapy in Patients with Advanced Non-Small Cell Lung Cancer</Title>
+  <StudyDesign>Multicenter, Open-Label, Phase II Randomized Trial</StudyDesign>
+  <Conditions>Advanced Non-Small Cell Lung Cancer (NSCLC)</Conditions>
+  
+  <Objective>
+    The primary objective of this trial is to evaluate the efficacy of docetaxel in combination with atezolizumab versus docetaxel alone in terms of progression-free survival (PFS) in patients with advanced NSCLC who have not received prior systemic therapy.
+  </Objective>
+
+  <InclusionCriteria>
+    <Criterion>Histologically confirmed advanced non-small cell lung cancer (stage IIIB or IV)</Criterion>
+    <Criterion>Age ≥ 18 years</Criterion>
+    <Criterion>Eastern Cooperative Oncology Group (ECOG) performance status of 0-1</Criterion>
+    <Criterion>Measurable disease as per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1</Criterion>
+    <Criterion>Life expectancy of ≥ 6 months</Criterion>
+    <Criterion>Patients must provide written informed consent prior to trial enrollment</Criterion>
+    <Criterion>Adequate hematologic, hepatic, renal, and coagulation function as defined by specified laboratory parameters</Criterion>
+  </InclusionCriteria>
+
+  <ExclusionCriteria>
+    <Criterion>Prior systemic treatment for advanced disease, except palliative radiation therapy</Criterion>
+    <Criterion>Presence of known brain metastases or active leptomeningeal disease</Criterion>
+    <Criterion>History of autoimmune disease or concurrent immunotherapy</Criterion>
+    <Criterion>Serious uncontrolled medical illnesses or infections</Criterion>
+    <Criterion>Pregnant or lactating women</Criterion>
+    <Criterion>Known hypersensitivity to docetaxel or atezolizumab</Criterion>
+  </ExclusionCriteria>
+
+  <TreatmentGroups>
+    <Group>
+      <Name>Arm A</Name>
+      <Description>Docetaxel (75 mg/m²) administered intravenously every 3 weeks in combination with atezolizumab (1200 mg) administered every 3 weeks.</Description>
+    </Group>
+    <Group>
+      <Name>Arm B</Name>
+      <Description>Docetaxel (75 mg/m²) administered intravenously every 3 weeks without atezolizumab.</Description>
+    </Group>
+  </TreatmentGroups>
+
+  <Endpoints>
+    <PrimaryEndpoint>
+      <Endpoint>Progression-Free Survival (PFS)</Endpoint>
+      <Description>PFS will be assessed from the date of randomization to the date of disease progression or death from any cause, whichever occurs first. Disease progression will be confirmed radiologically per RECIST v1.1.</Description>
+    </PrimaryEndpoint>
+    <SecondaryEndpoints>
+      <SecondaryEndpoint>Overall Response Rate (ORR)</SecondaryEndpoint>
+      <SecondaryEndpoint>Overall Survival (OS)</SecondaryEndpoint>
+      <SecondaryEndpoint>Safety and Tolerability Assessment</SecondaryEndpoint>
+    </SecondaryEndpoints>
+  </Endpoints>
+
+  <Rationale>
+    The trial design incorporates rigorous inclusion and exclusion criteria to optimize the therapeutic benefit of docetaxel, ensuring a homogenous patient population from which to derive meaningful efficacy data. Coupled with the synergistic potential of combining docetaxel with the anti-PD-L1 monoclonal antibody atezolizumab, the trial aims to enhance antitumor activity while optimizing safety through enhanced toxicity monitoring protocols. Furthermore, the use of flexible intravenous dosing regimens minimizes the potential for treatment-related complications, thereby supporting patient adherence.
+  </Rationale>
+
+  <Results>
+    Preliminary analyses indicate that the combination therapy led to a statistically significant increase in progression-free survival compared to docetaxel alone, supporting the hypothesis of enhanced therapeutic efficacy due to the dual mechanism of action provided by the combined agents. 
+  </Results>
+
+  <Conclusion>
+    This trial exemplifies the advantage of multicomponent treatment strategies, which include effective combination therapy, optimized dosing schedules, and rigorous monitoring, as it successfully demonstrates significant clinical benefit in the management of advanced NSCLC.
+  </Conclusion>
+  
+</ClinicalTrial>
+```

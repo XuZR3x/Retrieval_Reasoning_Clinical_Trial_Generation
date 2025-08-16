@@ -1,0 +1,66 @@
+```xml
+<clinicalTrial>
+    <title>Evaluation of Dual Therapy with Methotrexate and Apremilast in Patients with Rheumatoid Arthritis and Inadequate Response to Methotrexate Monotherapy: A Randomized Controlled Trial</title>
+    <studyDesign>
+        <design>Randomized, Double-Blind, Multicenter, Parallel-Group Study</design>
+        <groups>
+            <group>
+                <name>Methotrexate Monotherapy</name>
+                <description>Patients will receive stable doses of methotrexate (7.5-25 mg/week).</description>
+                <intervention>Methotrexate</intervention>
+            </group>
+            <group>
+                <name>Methotrexate with Apremilast</name>
+                <description>Patients will receive stable doses of methotrexate (7.5-25 mg/week) in conjunction with apremilast (30 mg orally, twice daily).</description>
+                <intervention>Methotrexate and Apremilast</intervention>
+            </group>
+            <group>
+                <name>Placebo-Controlled Group</name>
+                <description>Patients will receive stable doses of methotrexate (7.5-25 mg/week) and matched placebo.</description>
+                <intervention>Placebo</intervention>
+            </group>
+        </groups>
+        <duration>24 weeks</duration>
+    </studyDesign>
+    <objective>
+        <description>To assess the efficacy and safety of combining apremilast with methotrexate compared to methotrexate monotherapy and placebo in adults with active rheumatoid arthritis demonstrating an inadequate response to methotrexate.</description>
+    </objective>
+    <population>
+        <targetSampleSize>400</targetSampleSize>
+        <eligibilityCriteria>
+            <inclusions>
+                <criterion>Adults aged ≥ 18 years</criterion>
+                <criterion>Diagnosis of rheumatoid arthritis for ≥ 6 months</criterion>
+                <criterion>Inadequate response to methotrexate monotherapy for ≥ 12 weeks</criterion>
+            </inclusions>
+            <exclusions>
+                <criterion>Secondary autoimmune disease</criterion>
+                <criterion>Previous exposure to any biologic agents</criterion>
+                <criterion>History of serious infections within the past 3 months</criterion>
+            </exclusions>
+        </eligibilityCriteria>
+    </population>
+    <endpoints>
+        <primary>
+            <endpoint>Change in ACR20 response at week 24</endpoint>
+        </primary>
+        <secondary>
+            <endpoint>Changes in Disease Activity Score (DAS28)</endpoint>
+            <endpoint>Quality of Life assessment using SF-36</endpoint>
+        </secondary>
+    </endpoints>
+    <rationale>
+        <factor>Insufficient Efficacy of Methotrexate Monotherapy</factor>
+        <description>Prior trials indicated that patients with active rheumatoid arthritis did not exhibit sufficient symptomatic improvement when treated with methotrexate alone, necessitating an evaluation of combination therapies.</description>
+        <factor>Potential Drug-Drug Interaction</factor>
+        <description>The inclusion of apremilast raises concerns about interaction with methotrexate pharmacokinetics, leading to a potential mitigation of its efficacy.</description>
+        <factor>Suboptimal Patient Selection Criteria</factor>
+        <description>This study may face challenges in adequately capturing a representative patient population due to stringent inclusion criteria, as prior evaluations were confounded by disease advancement.</description>
+        <factor>Inadequate Dosing Regimen</factor>
+        <description>The dosing regimen utilized (7.5-25 mg/week of methotrexate) may prove insufficient in obtaining significant improvement among participants with demonstrated inadequate responses to previous treatments.</description>
+    </rationale>
+    <result>
+        <outcome>Trial was terminated early due to inadequate efficacy of the intervention combination and potential harmful drug-drug interactions leading to an increased rate of adverse events.</outcome>
+    </result>
+</clinicalTrial>
+```

@@ -1,0 +1,65 @@
+```xml
+<ClinicalTrial>
+    <Title>A Longitudinal Study Assessing the Efficacy of Duloxetine Hydrochloride in Patients with Major Depressive Disorder and Comorbid Anxious Distress</Title>
+    
+    <Objectives>
+        <PrimaryObjective>
+            To evaluate the efficacy and safety of duloxetine hydrochloride administered at a fixed-dose regimen of 90 mg/day in adult patients with Major Depressive Disorder (MDD) and comorbid anxious distress over a 12-week treatment period.
+        </PrimaryObjective>
+        <SecondaryObjective>
+            To assess the impact of dosing variability on treatment response in subpopulations, focusing on patient-reported outcomes related to anxiety symptoms.
+        </SecondaryObjective>
+    </Objectives>
+
+    <StudyDesign>
+        <Type>Randomized, Double-Blind, Placebo-Controlled Trial</Type>
+        <Duration>12 weeks</Duration>
+        <Population>Adult outpatients, 18–65 years of age</Population>
+    </StudyDesign>
+
+    <InclusionCriteria>
+        <Criterion>Diagnosed with Major Depressive Disorder (MDD) with a total score of ≥ 25 on the Hamilton Depression Rating Scale (HDRS)</Criterion>
+        <Criterion>Comorbid symptoms of anxiety as indicated by a score of ≥ 15 on the Hamilton Anxiety Rating Scale (HARS)</Criterion>
+        <Criterion>Ability and willingness to provide informed consent</Criterion>
+        <Criterion>Stable medication regimen for at least 8 weeks prior to screening</Criterion>
+    </InclusionCriteria>
+
+    <ExclusionCriteria>
+        <Criterion>History of treatment resistance defined as inadequate response to more than two different classes of antidepressants</Criterion>
+        <Criterion>Presence of significant comorbid medical conditions that may interfere with study participation, including serious hepatic or renal impairment</Criterion>
+        <Criterion>Use of concomitant medications that may interact with duloxetine, including MAOIs</Criterion>
+        <Criterion>Any history of manic or hypomanic episodes, psychosis, or bipolar disorder</Criterion>
+        <Criterion>Patients presenting with acute suicidal ideation or behavior as assessed by the investigator</Criterion>
+    </ExclusionCriteria>
+
+    <PrimaryOutcome>
+        <Measure>Change from baseline in HDRS total score</Measure>
+        <Description>The HDRS is a clinician-administered measure of depression severity, with potential scores ranging from 0 to 52, where higher scores indicate greater severity.</Description>
+    </PrimaryOutcome>
+
+    <SecondaryOutcomes>
+        <Outcome>
+            <Measure>Change from baseline in HARS total score</Measure>
+            <Description>The HARS assesses the severity of anxiety symptoms, with a total score range of 0–56.</Description>
+        </Outcome>
+        <Outcome>
+            <Measure>Patient-reported outcomes on the Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q)</Measure>
+            <Description>Evaluates the subjective perception of quality of life with scores ranging from 14 to 70, where higher scores indicate better satisfaction.</Description>
+        </Outcome>
+    </SecondaryOutcomes>
+
+    <ExpectedResults>
+        <Description>Hypothesis suggests duloxetine hydrochloride will demonstrate efficacy in reducing depressive and anxious symptoms compared to placebo within the targeted cohort of patients with MDD and comorbid anxiety.</Description>
+    </ExpectedResults>
+
+    <Challenges>
+        <Challenge>Inclusion of patients with high rates of comorbidities potentially limits the generalizability of the results, as observed in prior studies.</Challenge>
+        <Challenge>The fixed dosing of 90 mg does not account for individual pharmacokinetic variability which may lead to suboptimal dosing or exacerbated side effects, undermining patient adherence and retention.</Challenge>
+        <Challenge>Over-reliance on clinician-administered rating scales may not fully capture the diverse range of patient experiences and real-world effects on quality of life, potentially biasing outcome measures.</Challenge>
+    </Challenges>
+
+    <Conclusion>
+        <Description>This clinical trial aims to elucidate the true therapeutic efficacy of duloxetine hydrochloride in a challenging patient population by addressing limitations in prior trials, while simultaneously recognizing that stringent inclusion/exclusion criteria may still constrain representativeness and applicability of the results to broader demographic profiles.</Description>
+    </Conclusion>
+</ClinicalTrial>
+```

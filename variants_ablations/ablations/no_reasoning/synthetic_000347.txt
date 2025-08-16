@@ -1,0 +1,54 @@
+```xml
+<ClinicalTrial>
+    <Title>Long-Term Efficacy and Safety of Riociguat in Patients With Persistent Pulmonary Hypertension Post-Heart Surgery</Title>
+    <Phase>Phase III</Phase>
+    <Design>Randomized, Double-Blind, Placebo-Controlled, Multicenter Study</Design>
+    <Objective>This study aims to assess the long-term efficacy and safety of riociguat (adempas, BAY63-2521) compared to placebo in patients with persistent pulmonary hypertension following corrective heart surgery.</Objective>
+    <PatientPopulation>Patients aged 18-75 years who underwent heart surgery for congenital heart defects and exhibit persistent pulmonary hypertension defined as mean pulmonary artery pressure (mPAP) ≥25 mmHg at rest.</PatientPopulation>
+    <Duration>The study will last for 24 weeks, during which patient monitoring will take place during 8 scheduled visits, followed by a long-term extension phase of 12 months.</Duration>
+    
+    <DosingScheme>
+        <InitialDose>1.0 mg TID</InitialDose>
+        <DoseAdjustment>Patients will undergo weekly dose adjustments based on tolerability and hemodynamic response with a maximum dose of 2.5 mg TID.</DoseAdjustment>
+    </DosingScheme>
+    
+    <InclusionCriteria>
+        <Criterion>Patients aged 18-75 years</Criterion>
+        <Criterion>History of corrective heart surgery for congenital heart defects</Criterion>
+        <Criterion>Persistent pulmonary hypertension (mPAP ≥25 mmHg at rest)</Criterion>
+        <Criterion>NYHA functional class II or III</Criterion>
+    </InclusionCriteria>
+    
+    <ExclusionCriteria>
+        <Criterion>Patients with preoperative pulmonary hypertension treated with endothelin receptor antagonists or phosphodiesterase-5 inhibitors</Criterion>
+        <Criterion>Severe valvular disease requiring further intervention</Criterion>
+        <Criterion>Inability to provide informed consent</Criterion>
+        <Criterion>Pregnant or breastfeeding women</Criterion>
+    </ExclusionCriteria>
+    
+    <PrimaryOutcomeMeasures>
+        <Measure>Change from baseline in 6-minute walking distance (6MWD) at 24 weeks</Measure>
+        <Measure>Improvement in World Health Organization (WHO) functional class</Measure>
+    </PrimaryOutcomeMeasures>
+    
+    <SecondaryOutcomeMeasures>
+        <Measure>Change in pulmonary vascular resistance (PVR) as assessed by right heart catheterization</Measure>
+        <Measure>Long-term safety monitoring via adverse event reporting</Measure>
+    </SecondaryOutcomeMeasures>
+    
+    <StudyEndpoints>
+        <Endpoint>Achievement of a significant improvement in 6MWD compared to the placebo group</Endpoint>
+        <Endpoint>Evaluation of safety parameters including clinical laboratory assessments, vital signs, and echocardiographic evaluations</Endpoint>
+    </StudyEndpoints>
+    
+    <StatisticalAnalysis>The primary efficacy analysis will be conducted using an analysis of covariance (ANCOVA) model with treatment group, site, and baseline 6MWD as covariates. Safety analysis will include descriptive statistics for adverse events.</StatisticalAnalysis>
+    
+    <Results>
+        <Result>Recruitment of 250 patients was successfully completed. The intervention group exhibited a statistically significant increase in 6MWD of 40 meters compared to the placebo group with p<0.01.</Result>
+        <Result>Adverse events reported were consistent with known tolerability profiles of riociguat, demonstrating a favorable safety profile over the 24-week study duration.</Result>
+        <Result>Significant reductions in mPAP and improvements in PVR were observed, further validating the efficacy of riociguat in this population.</Result>
+    </Results>
+    
+    <Conclusion>This phase III study provides robust evidence supporting the efficacy and safety of riociguat (adempas, BAY63-2521) for patients with persistent pulmonary hypertension following heart surgery, paving the way for potential approval for this indication.</Conclusion>
+</ClinicalTrial>
+```

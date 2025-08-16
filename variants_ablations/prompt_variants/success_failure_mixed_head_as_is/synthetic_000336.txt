@@ -1,0 +1,61 @@
+```xml
+<ClinicalTrial>
+    <Title>A Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Exenatide in Patients With Type 2 Diabetes Mellitus and Non-alcoholic Fatty Liver Disease</Title>
+    <Objective>This study aims to assess the efficacy of exenatide compared to placebo in improving glycemic control and liver function parameters in patients with type 2 diabetes mellitus (T2DM) and concomitant non-alcoholic fatty liver disease (NAFLD) over a 24-week treatment period.</Objective>
+    
+    <Design>Randomized, double-blind, placebo-controlled, multicenter study with two parallel groups.</Design>
+    
+    <InclusionCriteria>
+        <Criterion>Confirmed diagnosis of Type 2 Diabetes Mellitus.</Criterion>
+        <Criterion>HbA1c levels between 7.0% and 10.5% at screening.</Criterion>
+        <Criterion>Body mass index (BMI) between 30 kg/m² and 45 kg/m².</Criterion>
+        <Criterion>Evidence of non-alcoholic fatty liver disease demonstrated on imaging.</Criterion>
+        <Criterion>Stable treatment with metformin (≥1500 mg/day) for at least 12 weeks prior to enrollment.</Criterion>
+    </InclusionCriteria>
+    
+    <ExclusionCriteria>
+        <Criterion>History of chronic pancreatitis or any malignancy within the last 5 years.</Criterion>
+        <Criterion>Previous treatment with GLP-1 receptor agonists, including exenatide.</Criterion>
+        <Criterion>Uncontrolled hypertension (systolic blood pressure > 160 mmHg or diastolic blood pressure > 100 mmHg).</Criterion>
+        <Criterion>Pregnant or lactating women.</Criterion>
+        <Criterion>Participation in other clinical trials involving investigational drugs within 3 months prior to screening.</Criterion>
+    </ExclusionCriteria>
+    
+    <TreatmentArms>
+        <Arm>
+            <Description>Participants will receive exenatide (10 µg) via subcutaneous injection, administered twice daily, in addition to their stable metformin regimen.</Description>
+        </Arm>
+        <Arm>
+            <Description>Participants will receive placebo, administered subcutaneously twice daily, in addition to their stable metformin regimen.</Description>
+        </Arm>
+    </TreatmentArms>
+    
+    <Endpoints>
+        <PrimaryEndpoint>
+            <Description>Change in HbA1c from baseline to week 24.</Description>
+        </PrimaryEndpoint>
+        <SecondaryEndpoint>
+            <Description>Change in liver function parameters (ALT, AST) from baseline to week 24.</Description>
+        </SecondaryEndpoint>
+        <SafetyEndpoint>
+            <Description>Incidence of adverse events, including gastrointestinal side effects, throughout the treatment period.</Description>
+        </SafetyEndpoint>
+    </Endpoints>
+    
+    <StatisticalAnalysis>
+        <Description>Descriptive statistics will be employed for the demographic and baseline characteristics. The primary endpoint will be analyzed using mixed-effects model analysis, adjusting for covariates such as age, sex, and baseline HbA1c levels.</Description>
+    </StatisticalAnalysis>
+    
+    <Rationale>
+        <Point>Robust inclusion criteria targeting a specific population with a broad range of HbA1c levels, ensuring applicability of findings to a diverse clinical profile of T2DM.</Point>
+        <Point>Implementation of a combination therapy with established glycemic agents, thereby leveraging the synergistic action of exenatide and metformin for optimized metabolic control.</Point>
+        <Point>Employing a rigorous double-blind, placebo-controlled design mitigates bias, providing a solid foundation for the assessment of exenatide's efficacy.</Point>
+        <Point>Inclusion of participants with a higher incidence of NAFLD among obesity-stricken individuals maximizes the potential for assessing exenatide's impact on hepatic conditions alongside glycemic control.</Point>
+        <Point>Structured monitoring protocols for adverse effects enhance the safety profile evaluation of exenatide, ensuring comprehensive safety data acquisition.</Point>
+    </Rationale>
+    
+    <ExpectedOutcome>
+        <Description>It is hypothesized that exenatide will demonstrate statistically significant reductions in HbA1c and improvements in liver enzyme levels compared to placebo, promoting its role as a dual-action therapeutic option for patients with T2DM and NAFLD.</Description>
+    </ExpectedOutcome>
+</ClinicalTrial>
+```

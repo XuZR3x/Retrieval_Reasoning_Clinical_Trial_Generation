@@ -1,0 +1,57 @@
+```xml
+<ClinicalTrial>
+    <Title>Phase II Study of Paclitaxel and Novel Immunotherapy for Advanced Melanoma</Title>
+    <Design>Randomized, Open-label, Multicenter Phase II Trial</Design>
+    <Objective>To evaluate the efficacy and safety of paclitaxel in combination with the novel immunotherapy agent IM-123 in patients with unresectable or metastatic melanoma.</Objective>
+    
+    <Background>
+        Recent advancements in immunotherapy have demonstrated significant promise in the treatment of melanoma. The incorporation of microtubule-stabilizing agents like paclitaxel, which induces apoptosis in rapidly dividing cancer cells, may enhance the anti-tumor responses when combined with immunological approaches. This trial aims to determine whether paclitaxel can improve the clinical outcomes of patients receiving IM-123, addressing the unmet therapeutic gap in advanced melanoma treatment.
+    </Background>
+    
+    <InclusionCriteria>
+        <Criterion>Adults aged 18 years or older with histologically confirmed unresectable or metastatic melanoma.</Criterion>
+        <Criterion>Patients exhibiting progression following at least one prior treatment with a PD-1 or PD-L1 inhibitor.</Criterion>
+        <Criterion>Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.</Criterion>
+        <Criterion>At least one measurable lesion as defined by RECIST 1.1.</Criterion>
+        <Criterion>Patients must have adequate organ function as evidenced by laboratory values: 
+            <Details>
+                <Hemoglobin> ≥ 9.0 g/dL</Hemoglobin>
+                <Neutrophil> ≥ 1,500/mm³</Neutrophil>
+                <Platelets> ≥ 100,000/mm³</Platelets>
+                <Creatinine><= 1.5 x upper limit of normal (ULN)</Creatinine>
+                <Bilirubin><= 1.5 x ULN</Bilirubin>
+            </Details>
+        </Criterion>
+        <Criterion>Informed consent must be obtained prior to participation.</Criterion>
+    </InclusionCriteria>
+    
+    <ExclusionCriteria>
+        <Criterion>Prior treatment with immunotherapy agents other than PD-1/PD-L1 inhibitors within 30 days of randomization.</Criterion>
+        <Criterion>History of allergic reactions to paclitaxel or compounds with similar chemical structure.</Criterion>
+        <Criterion>Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, and those with psychiatric illnesses that may hinder compliance.</Criterion>
+        <Criterion>Pregnant or lactating women, or those not using effective birth control methods.</Criterion>
+        <Criterion>Known active brain metastases or leptomeningeal disease.</Criterion>
+    </ExclusionCriteria>
+    
+    <Endpoints>
+        <PrimaryEndpoint>Overall Response Rate (ORR) defined as the proportion of patients achieving a complete or partial response at 12 weeks, assessed by central review.</PrimaryEndpoint>
+        <SecondaryEndpoints>
+            <Endpoint>Progression-Free Survival (PFS) among patients treated with paclitaxel plus IM-123 compared to historical controls who received IM-123 monotherapy.</Endpoint>
+            <Endpoint>Overall Survival (OS) analysis after 12 months.</Endpoint>
+            <Endpoint>Incidence and severity of adverse events, evaluated according to the NCI Common Toxicity Criteria for Adverse Effects (CTCAE) version 5.0.</Endpoint>
+        </SecondaryEndpoints>
+    </Endpoints>
+    
+    <SampleSize>
+        The study plans to enroll 120 participants, with an allocation ratio of 1:1 to either the combination therapy arm (paclitaxel + IM-123) or the control arm (IM-123 alone).
+    </SampleSize>
+    
+    <StatisticalAnalysis>
+        The efficacy analyses will be conducted using Chi-squared tests for categorical variables and Kaplan-Meier estimator for survival analysis. A p-value < 0.05 will be considered statistically significant.
+    </StatisticalAnalysis>
+    
+    <Conclusion>
+        This trial will elucidate the potential synergistic effects of paclitaxel alongside IM-123, providing critical data on the enhancement of anti-tumor immune responses while offering a therapeutic option to patients with advanced melanoma, who presently face limited effective treatment avenues.
+    </Conclusion>
+</ClinicalTrial>
+```

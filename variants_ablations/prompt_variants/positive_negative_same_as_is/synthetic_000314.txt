@@ -1,0 +1,111 @@
+```xml
+<ClinicalTrial>
+    <TrialIdentification>
+        <TrialName>Evaluating the Safety and Efficacy of Bicalutamide in Combination with Cabozantinib and Radiation Therapy in Patients with Metastatic Castration-Resistant Prostate Cancer</TrialName>
+        <TrialIdentifier>NCT04567823</TrialIdentifier>
+        <Phase>Phase II</Phase>
+    </TrialIdentification>
+    <Rationale>
+        <RationaleText>
+            Prostate cancer progression is frequently driven by androgen signaling pathways. Bicalutamide, an effective androgen receptor antagonist, exhibits significant anti-tumor activity when combined with novel therapies. This trial seeks to exploit the synergistic capabilities of bicalutamide in conjunction with cabozantinib, a multitargeted tyrosine kinase inhibitor, and local radiation therapy, optimizing the therapeutic approach against advanced prostate cancer.
+        </RationaleText>
+    </Rationale>
+    <Purpose>
+        <PurposeText>
+            This study aims to determine the safety and efficacy of bicalutamide in combination with cabozantinib and radiation therapy in patients with metastatic castration-resistant prostate cancer.
+        </PurposeText>
+    </Purpose>
+    <Objectives>
+        <Objective>
+            <ObjectiveText>
+                I. To assess the safety profile of the combination therapy (bicalutamide, cabozantinib, and radiation therapy) in comparison with monotherapy using cabozantinib in patients with metastatic castration-resistant prostate cancer.
+            </ObjectiveText>
+        </Objective>
+        <Objective>
+            <ObjectiveText>
+                II. To evaluate progression-free survival (PFS) and overall survival (OS) rates in patients receiving the combination therapy versus those receiving cabozantinib alone.
+            </ObjectiveText>
+        </Objective>
+        <Objective>
+            <ObjectiveText>
+                III. To explore the incidence of adverse events (AEs) associated with the combination therapy, particularly focusing on hematologic and gastrointestinal toxicities, using CTCAE v5.0.
+            </ObjectiveText>
+        </Objective>
+        <Objective>
+            <ObjectiveText>
+                IV. To investigate the immunomodulatory effects of bicalutamide when administered concurrently with cabozantinib, measuring changes in immune cell populations.
+            </ObjectiveText>
+        </Objective>
+    </Objectives>
+    <TrialDesign>
+        <DesignText>
+            This is a multicenter, open-label, randomized Phase II trial. Patients with histologically confirmed metastatic castration-resistant prostate cancer were allocated in a 1:1 ratio to receive either the combination therapy or cabozantinib alone. 
+        </DesignText>
+    </TrialDesign>
+    <Outline>
+        <TreatmentArm>
+            <ArmName>Combination Therapy</ArmName>
+            <ArmDescription>
+                Patients receive bicalutamide orally at a dose of 50 mg once daily in conjunction with cabozantinib at a dose of 60 mg orally once daily and localized radiation therapy for up to 10 sessions over 2 weeks. Treatment continues until disease progression or unacceptable toxicity occurs.
+            </ArmDescription>
+        </TreatmentArm>
+        <TreatmentArm>
+            <ArmName>Control</ArmName>
+            <ArmDescription>
+                Patients receive cabozantinib orally at a dose of 60 mg once daily alone for up to 12 weeks. 
+            </ArmDescription>
+        </TreatmentArm>
+    </Outline>
+    <Industry>
+        <Sponsor>
+            <SponsorName>Global Oncology Initiative Inc.</SponsorName>
+        </Sponsor>
+    </Industry>
+    <InclusionCriteria>
+        <InclusionCriterion>
+            <CriterionText>
+                Histologically confirmed metastatic castration-resistant prostate cancer.
+            </CriterionText>
+        </InclusionCriterion>
+        <InclusionCriterion>
+            <CriterionText>
+                Documented disease progression despite prior androgen deprivation therapy.
+            </CriterionText>
+        </InclusionCriterion>
+        <InclusionCriterion>
+            <CriterionText>
+                Performance status ECOG 0-2 with adequate organ function parameters defined in the protocol.
+            </CriterionText>
+        </InclusionCriterion>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <ExclusionCriterion>
+            <CriterionText>
+                History of allergic reaction to either study drug or its components.
+            </CriterionText>
+        </ExclusionCriterion>
+        <ExclusionCriterion>
+            <CriterionText>
+                Previous radiotherapy to the target area within 6 months of study entry.
+            </CriterionText>
+        </ExclusionCriterion>
+        <ExclusionCriterion>
+            <CriterionText>
+                Any other prior malignancy within the last 5 years except non-melanoma skin cancer.
+            </CriterionText>
+        </ExclusionCriterion>
+    </ExclusionCriteria>
+    <Registry>
+        <SampleSize>120</SampleSize>
+        <Followup>24 months</Followup>
+        <PrimaryEndpoints>
+            <PrimaryEndpoint>
+                <EndpointText>
+                    Overall survival rates and progression-free survival metrics at 12 months post-treatment initiation.
+                </EndpointText>
+            </PrimaryEndpoint>
+        </PrimaryEndpoints>
+        <ResultsType>Initial findings indicate a 70% overall survival rate at 12 months for the combination therapy arm compared to a 40% rate in the control arm.</ResultsType>
+    </Registry>
+</ClinicalTrial>
+```

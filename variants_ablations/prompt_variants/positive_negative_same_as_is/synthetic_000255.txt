@@ -1,0 +1,62 @@
+```xml
+<clinicalTrial>
+  <title>A Phase II Study of Panobinostat in Combination with Azacitidine for Patients with High-Risk Acute Myeloid Leukemia (AML)</title>
+  <phase>II</phase>
+  <objective>The primary objective of the study is to assess the efficacy and safety of panobinostat in combination with azacitidine in patients diagnosed with high-risk acute myeloid leukemia who are unresponsive to conventional therapy.</objective>
+  <design>This is an open-label, multi-center, single-arm Phase II study. Patients will receive panobinostat orally at a dose of 40 mg three times per week in combination with subcutaneous azacitidine (75 mg/m² for 7 days in a 28-day cycle). The treatment will be administered for up to 6 cycles or until disease progression or unacceptable toxicity.</design>
+  
+  <inclusionCriteria>
+    - Newly diagnosed adult patients aged 18 to 75 years with a cytopathologically confirmed diagnosis of high-risk AML (defined as ≥ 20% bone marrow blasts)
+    - Patients must have received no prior chemotherapy for AML
+    - ECOG performance status 0-2
+    - Adequate renal and hepatic function
+    - Patients must provide written informed consent
+  </inclusionCriteria>
+  
+  <exclusionCriteria>
+    - Patients with favorable cytogenetic profiles (e.g., t(15;17), t(8;21), or inv(16))
+    - Prior treatment with histone deacetylase inhibitors
+    - Presence of significant cardiovascular disease or unstable angina
+    - Active central nervous system disease
+    - Pregnant or lactating women
+    - Concurrent systemic infection or serious comorbidity that may interfere with study participation
+  </exclusionCriteria>
+  
+  <outcomes>
+    <primaryOutcome>
+      <endpoint>Overall response rate (complete response + partial response) as assessed by the International Working Group criteria.</endpoint>
+    </primaryOutcome>
+    
+    <secondaryOutcomes>
+      <outcome>Incidence of dose-limiting toxicities (DLTs) and evaluation of adverse events related to therapy as per NCI CTCAE, version 5.0.</outcome>
+      <outcome>Progression-free survival (PFS) measured from the date of first therapy until disease progression or death from any cause.</outcome>
+      <outcome>Overall survival (OS) from the start of treatment until death from any cause.</outcome>
+    </secondaryOutcomes>
+  </outcomes>
+  
+  <timeline>
+    <enrollmentPeriod>Estimated enrollment duration is 12 months.</enrollmentPeriod>
+    <treatmentDuration>Patients will undergo treatment for a maximum of 6 cycles, followed by follow-up for survival and response assessment for an additional 6 months post-treatment.</treatmentDuration>
+  </timeline>
+  
+  <anticipatedResults>
+    <failureReason>
+      1. Insufficient Efficacy: Preliminary results indicate that a significant number of patients exhibited no significant improvement in response rates, with only 15% of patients attaining an overall response (CR + PR) compared to the anticipated 30%.
+    </failureReason>
+    <failureReason>
+      2. Adverse Event Profile: The safety profile of the combination treatment raised substantial concerns, with over 60% of patients experiencing Grade 3 and 4 adverse events including severe cytopenias and gastrointestinal issues.
+    </failureReason>
+    <failureReason>
+      3. Pharmacodynamic Limitations: Interaction studies suggested that concurrent administration of azacitidine may diminish the efficacy of panobinostat due to overlapping toxicity, complicating the therapeutic regimen and limiting dose escalation.
+    </failureReason>
+    <failureReason>
+      4. Inadequate Patient Stratification: The trial enrolled a highly heterogeneous patient population that lacked sufficient biomarker-driven stratification, which could have masked the potential benefits of panobinostat in specific molecular subgroups.
+    </failureReason>
+    <failureReason>
+      5. Progressive Disease Characteristics: The majority of patients enrolled had advanced disease characteristics with a predisposition to rapid progression, which may have impacted the treatment efficacy and skewed the results toward failure.
+    </failureReason>
+  </anticipatedResults>
+  
+  <studyTermination>Due to the observed lack of efficacy and safety concerns, as well as a high incidence of treatment-related toxicities leading to treatment discontinuation, the study was terminated prematurely after the enrollment of 45 patients.</studyTermination>
+</clinicalTrial>
+```

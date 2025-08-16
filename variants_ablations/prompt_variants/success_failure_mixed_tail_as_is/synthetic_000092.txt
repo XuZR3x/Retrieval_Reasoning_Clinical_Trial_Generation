@@ -1,0 +1,41 @@
+```xml
+<Trial>
+    <Title>Effectiveness of Pregabalin in Reducing Pain Symptoms in Patients with Diabetic Peripheral Neuropathy: A Randomized, Double-Blind, Placebo-Controlled Trial</Title>
+    <Objective>The primary aim of this trial is to evaluate the effectiveness of pregabalin compared to placebo in reducing pain associated with diabetic peripheral neuropathy.</Objective>
+    
+    <Design>A multi-center, randomized, double-blind, placebo-controlled design was implemented to ensure methodological rigor, enhancing the reliability of the outcomes by minimizing biases.</Design>
+    
+    <InclusionCriteria>
+        <Criterion>Patients aged 18 to 75 years with a confirmed diagnosis of Type 1 or Type 2 diabetes mellitus</Criterion>
+        <Criterion>Presence of painful diabetic peripheral neuropathy, defined as pain lasting at least 6 months prior to enrollment</Criterion>
+        <Criterion>Patients must have a baseline score of ≥4 on the Numeric Rating Scale for pain (0-10)</Criterion>
+        <Criterion>Stable diabetes management regimen for at least 3 months prior to study commencement</Criterion>
+    </InclusionCriteria>
+    
+    <ExclusionCriteria>
+        <Criterion>Pregnant or breastfeeding females</Criterion>
+        <Criterion>Patients with a history of substance abuse</Criterion>
+        <Criterion>Those currently receiving opiate analgesics or investigational drugs for pain management</Criterion>
+        <Criterion>Individuals with significant uncontrolled medical conditions, including serious cardiac, hepatic, or renal dysfunction</Criterion>
+    </ExclusionCriteria>
+
+    <OutcomeMeasures>
+        <PrimaryOutcome>
+            <Measure>Change in pain score from baseline using the Numeric Rating Scale (NRS) at 12 weeks</Measure>
+            <Description>Daily pain levels were assessed on a validated 11-point NRS, where 0 indicates no pain and 10 represents the worst possible pain.</Description>
+        </PrimaryOutcome>
+        <SecondaryOutcome>
+            <Measure>Assessment of sleep quality and overall quality of life using the Pittsburgh Sleep Quality Index and the SF-36 scale</Measure>
+            <Description>These secondary measures are included to evaluate additional impacts of pregabalin on patients' overall well-being.</Description>
+        </SecondaryOutcome>
+    </OutcomeMeasures>
+    
+    <SampleSize>We aimed to enroll 400 participants to provide statistically significant results, allowing for robust analysis of treatment effects.</SampleSize>
+    
+    <Methodology>Following enrollment, eligible patients were randomized in a 1:1 ratio to receive either pregabalin (starting at 150 mg/day, adjustable up to 600 mg/day based on tolerance) or matching placebo. The double-blind nature of the trial was preserved until the end of the 12-week intervention period to mitigate observer and participant biases.</Methodology>
+    
+    <DataAnalysis>Statistical analyses will encompass intention-to-treat principles, comparing the change from baseline in NRS scores between the two groups utilizing mixed models for repeated measures to account for potential dropout rates and maintain statistical integrity of findings.</DataAnalysis>
+
+    <Conclusion>The trial is expected to outline the efficacy of pregabalin in enhancing pain relief in the specified patient population, drawing on well-defined inclusion criteria, a randomized, double-blind methodology, and the use of validated scales for pain assessment, thereby aiming for significant improvements over placebo. The trial adheres to protocols minimizing confounding variables, ensuring reliable outcomes.</Conclusion>
+</Trial>
+```

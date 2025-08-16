@@ -1,0 +1,55 @@
+```xml
+<ClinicalTrial>
+  <Title>A Phase III Multi-Center Randomized Study to Evaluate the Efficacy and Safety of Chlorambucil and Palliative Care Versus Best Supportive Care Alone in Elderly Patients With Chronic Lymphocytic Leukemia and Coexisting Medical Conditions</Title>
+  <StudyDesign>
+    <Type>Phase III</Type>
+    <Design>Multi-center, randomized, open-label study</Design>
+    <Objective>This study aims to compare the efficacy and safety of chlorambucil in conjunction with palliative care to best supportive care alone in elderly patients with previously untreated chronic lymphocytic leukemia (CLL) and coexisting medical conditions.</Objective>
+    <Duration>The anticipated duration of the study treatment is 24 weeks, with follow-up extending up to 5 years.</Duration>
+  </StudyDesign>
+  <InclusionCriteria>
+    <Criteria>Adult patients aged ≥65 years</Criteria>
+    <Criteria>Histologically confirmed diagnosis of chronic lymphocytic leukemia</Criteria>
+    <Criteria>Coexisting medical conditions reflecting a Cumulative Illness Rating Scale (CIRS) score ≥ 7</Criteria>
+    <Criteria>ECOG performance status 0-2</Criteria>
+    <Criteria>Life expectancy greater than 6 months</Criteria>
+    <Criteria>Informed consent must be obtained from all participants</Criteria>
+  </InclusionCriteria>
+  <ExclusionCriteria>
+    <Criteria>Prior treatment for chronic lymphocytic leukemia</Criteria>
+    <Criteria>Evidence of transformation to aggressive lymphoma (Richter's syndrome)</Criteria>
+    <Criteria>Severe uncontrolled cardiovascular disease</Criteria>
+    <Criteria>Current active infections requiring systemic treatment</Criteria>
+    <Criteria>Pregnancy or lactating women</Criteria>
+  </ExclusionCriteria>
+  <TreatmentGroups>
+    <Group>
+      <Name>Chlorambucil + Palliative Care</Name>
+      <Intervention>Patients will receive chlorambucil at a dosage of 10 mg/m² orally on days 1-7 for 6 cycles of 28 days, combined with palliative care tailored to individual needs.</Intervention>
+    </Group>
+    <Group>
+      <Name>Best Supportive Care</Name>
+      <Intervention>Patients will receive best supportive care alone tailored to improve quality of life without cytotoxic treatment.</Intervention>
+    </Group>
+  </TreatmentGroups>
+  <Endpoints>
+    <PrimaryEndpoint>Overall survival (OS) measured from randomization to death from any cause</PrimaryEndpoint>
+    <SecondaryEndpoints>
+      <Endpoint>Progression-free survival (PFS) defined by the time from randomization to disease progression or death</Endpoint>
+      <Endpoint>Complete response rate (CR) as assessed by standard criteria</Endpoint>
+      <Endpoint>Quality of life improvements assessed via validated questionnaires</Endpoint>
+    </SecondaryEndpoints>
+  </Endpoints>
+  <StatisticalMethods>
+    <Method>Intention-to-treat analysis will be employed for all primary and secondary endpoints</Method>
+    <Method>The Log-rank test will be used for comparing OS and PFS between groups</Method>
+    <Method>Descriptive statistics will summarize quality of life outcomes</Method>
+  </StatisticalMethods>
+  <Justification>
+    <Point>Chlorambucil’s favorable pharmacokinetic profile permits its administration in elderly patients with comorbidities, promoting prolonged use in this vulnerable population.</Point>
+    <Point>Its combination with supportive care enhances patient comfort and may potentially increase overall survival, while mitigating the effects of adverse events.</Point>
+    <Point>The stringent enrollment criteria for previously untreated patients with CLL and carefully monitored endpoints enables precise efficacy assessments and reliable data regarding chlorambucil’s therapeutic value.</Point>
+    <Point>The comprehensive analysis of clinical endpoints, particularly in the context of enhancing quality of life, substantiates chlorambucil's role as a viable treatment option for this demographic.</Point>
+  </Justification>
+</ClinicalTrial>
+```

@@ -1,0 +1,44 @@
+```xml
+<ClinicalTrial>
+  <Title>A Study of Bevacizumab (Avastin) Combined with Pembrolizumab in Patients with Advanced Non-Small Cell Lung Cancer (NSCLC)</Title>
+  <Description>This is a multicenter, phase II clinical trial investigating the efficacy and safety of bevacizumab (5 mg/kg intravenously every three weeks) in combination with pembrolizumab (200 mg intravenously every three weeks) in patients diagnosed with advanced non-small cell lung cancer (NSCLC) who have not received prior systemic therapy. This novel combination leverages bevacizumab’s targeted action against vascular endothelial growth factor (VEGF) to inhibit angiogenesis, enhancing the tumor’s vascular permeability and thereby improving the delivery and efficacy of pembrolizumab, an anti-PD-1 monoclonal antibody that helps reactivate antitumor immunity. The trial will aim to assess overall survival, objective response rates (ORR), and progression-free survival (PFS).</Description>
+  
+  <Intervention>
+    <Agent><![CDATA[Beveracizumab (Avastin) and Pembrolizumab]]></Agent>
+    <Dosage><![CDATA[Beveracizumab: 5 mg/kg IV every 3 weeks; Pembrolizumab: 200 mg IV every 3 weeks]]></Dosage>
+  </Intervention>
+  
+  <PrimaryOutcome>
+    <OutcomeMeasure><![CDATA[Objective Response Rate (ORR) measured as the proportion of patients achieving complete response (CR) or partial response (PR) according to RECIST 1.1 criteria.]]></OutcomeMeasure>
+  </PrimaryOutcome>
+  
+  <SecondaryOutcomes>
+    <OutcomeMeasure><![CDATA[Progression-Free Survival (PFS) defined as the duration from treatment initiation to disease progression or death.]]></OutcomeMeasure>
+    <OutcomeMeasure><![CDATA[Overall Survival (OS) from the start of treatment until death from any cause.]]></OutcomeMeasure>
+    <OutcomeMeasure><![CDATA[Safety and tolerability assessed through the incidence of adverse events (AEs) and serious adverse events (SAEs).]]></OutcomeMeasure>
+  </SecondaryOutcomes>
+  
+  <InclusionCriteria>
+    <Criteria> 
+      <Item><![CDATA[Adults ≥ 18 years of age with histologically confirmed advanced non-small cell lung cancer (NSCLC).]]></Item>
+      <Item><![CDATA[No prior systemic therapy for advanced/metastatic disease.]]></Item>
+      <Item><![CDATA[At least one measurable lesion according to RECIST 1.1.]]></Item>
+      <Item><![CDATA[An Eastern Cooperative Oncology Group (ECOG) performance status of 0-1.]]></Item>
+    </Criteria>
+  </InclusionCriteria>
+  
+  <ExclusionCriteria>
+    <Criteria>
+      <Item><![CDATA[Prior treatment with antivascular therapies or PD-1/PD-L1 inhibitors.]]></Item>
+      <Item><![CDATA[Untreated brain metastases or spinal cord compression.]]></Item>
+      <Item><![CDATA[Significant cardiovascular disease or recent myocardial infarction.]]></Item>
+      <Item><![CDATA[Uncontrolled hypertension (>150/90 mmHg despite treatment).]]></Item>
+      <Item><![CDATA[Other malignancies within the last 5 years, with exceptions as defined.]]></Item>
+    </Criteria>
+  </ExclusionCriteria>
+
+  <Rationale>
+    <![CDATA[The robust mechanism of action of bevacizumab as an anti-VEGF agent, when employed in conjunction with immunotherapy in an oncology context, serves to enhance immune-mediated tumor control while diminishing tumor vascularization. Careful patient selection ensures that the trial population represents individuals likely to derive maximum benefit, thus enhancing the chances for favorable outcome metrics.]]>
+  </Rationale>
+</ClinicalTrial>
+```

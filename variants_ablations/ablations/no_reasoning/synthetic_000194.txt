@@ -1,0 +1,58 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_trial>
+    <title>Atorvastatin in Reducing Major Adverse Cardiovascular Events in Patients with Prediabetes: A Randomized Controlled Trial (MACE-PREDIAB)</title>
+    
+    <description>
+        A phase III, multicenter, double-blind, randomized, placebo-controlled study to evaluate the efficacy of atorvastatin in reducing the incidence of major adverse cardiovascular events (MACE) in patients diagnosed with prediabetes.
+    </description>
+
+    <objective>
+        To determine whether atorvastatin 20 mg administered once daily can significantly reduce the occurrence of cardiovascular events compared to placebo in individuals with prediabetes.
+    </objective>
+    
+    <inclusion_criteria>
+        Patients eligible for this study must have a documented diagnosis of prediabetes, defined as:
+        <criteria>
+            <criterion>Fasting plasma glucose level of 100 - 125 mg/dL</criterion>
+            <criterion>HbA1c level of 5.7% to 6.4%</criterion>
+            <criterion>2-hour plasma glucose of 140 - 199 mg/dL during an oral glucose tolerance test</criterion>
+        </criteria>
+        Additionally, candidates must meet at least one of the following cardiovascular risk factors:
+        <risk_factors>
+            <factor>Age ≥ 45 years</factor>
+            <factor>Family history of premature coronary artery disease</factor>
+            <factor>Hypertension (defined as systolic blood pressure ≥ 130 mmHg or diastolic blood pressure ≥ 80 mmHg)</factor>
+            <factor>Current smoker status</factor>
+            <factor>Obesity (BMI ≥ 30 kg/m²)</factor>
+        </risk_factors>
+    </inclusion_criteria>
+
+    <exclusion_criteria>
+        <criteria>
+            <criterion>History of cardiovascular disease (MI, stroke, coronary or peripheral artery procedures)</criterion>
+            <criterion>Severe renal impairment (creatinine clearance < 30 mL/min)</criterion>
+            <criterion>Current treatment with any lipid-lowering agents other than dietary modifications</criterion>
+            <criterion>History of statin allergy or intolerability</criterion>
+            <criterion>Pregnancy or lactation</criterion>
+        </criteria>
+    </exclusion_criteria>
+
+    <endpoints>
+        The primary endpoint is the occurrence of major adverse cardiovascular events, defined as a composite of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke, assessed during the 5-year follow-up period. Secondary endpoints include:
+        <secondary>
+            <endpoint>Reduction in LDL-C levels after 12 weeks</endpoint>
+            <endpoint>Quality of life assessment using the EQ-5D scale</endpoint>
+            <endpoint>Incidence of adverse events associated with atorvastatin treatment</endpoint>
+        </secondary>
+    </endpoints>
+    
+    <study_design>
+        The trial involves randomization of eligible participants into two groups: atorvastatin (20 mg daily) and matched placebo. Blinding will be maintained to ensure that neither the participants nor the researchers will be aware of the treatment assignments throughout the trial duration.
+    </study_design>
+
+    <statistical_analysis>
+        An intent-to-treat analysis will be employed for the assessment of primary and secondary endpoints. Time to first MACE will be evaluated using Kaplan-Meier survival curves; differences between groups will be compared using the log-rank test. Changes in LDL-C levels will be analyzed using mixed-effects models to account for potential missing data.
+    </statistical_analysis>
+</clinical_trial>
+```

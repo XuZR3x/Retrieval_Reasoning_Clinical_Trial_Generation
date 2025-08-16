@@ -1,0 +1,52 @@
+```xml
+<ClinicalTrial>
+    <TrialID>RAD001-PhaseII-DSC</TrialID>
+    <StudyTitle>Phase II Trial of RAD001 in Combination with Nivolumab for the Treatment of Advanced Non-Small Cell Lung Cancer</StudyTitle>
+    <Purpose>The primary aim of this clinical study is to evaluate the efficacy and safety of RAD001 (Everolimus) in combination with Nivolumab in patients with advanced non-small cell lung cancer (NSCLC) who have failed prior treatments. The trial will assess whether this combination can improve overall survival compared to historical controls receiving nivolumab alone.</Purpose>
+    <PrimaryObjectives>
+        <Objective>Determine the Overall Survival (OS) at 6 months in patients treated with RAD001 and Nivolumab.</Objective>
+    </PrimaryObjectives>
+    <SecondaryObjectives>
+        <Objective>Evaluate the Progression-Free Survival (PFS) and Response Rate (RR) in the treatment arms.</Objective>
+        <Objective>Assess the safety profile, including adverse event reporting and tolerability of RAD001 in combination with Nivolumab.</Objective>
+    </SecondaryObjectives>
+    <StudyDrugs>
+        <Drug>RAD001 is an mTOR inhibitor designed to impede tumor growth by interrupting pathways involved in cell proliferation and survival.</Drug>
+        <Drug>Nivolumab is a programmed cell death protein 1 (PD-1) inhibitor that enhances anti-tumor immune responses.</Drug>
+    </StudyDrugs>
+    <StudyDesign>
+        <Design>A multi-center, open-label, randomized phase II trial design.</Design>
+        <Population>Approximately 60 patients with histologically or cytologically confirmed advanced NSCLC who have experienced disease progression on at least one prior therapy.</Population>
+        <Duration>Subjects will continue treatment until disease progression or intolerable toxicity is observed.</Duration>
+    </StudyDesign>
+    <StudyDrugAdministration>
+        <Administration>Eligible participants will receive RAD001 orally at a dose of 10 mg/day and Nivolumab intravenously at a dose of 3 mg/kg every 2 weeks.</Administration>
+        <Instruction>Adequate hydration is emphasized during RAD001 administration to enhance absorption, and treatment should ideally commence post a low-fat meal.</Instruction>
+    </StudyDrugAdministration>
+    <StudyVisits>
+        <Visit>Initial screening visit will include full blood work, performance status assessment, and imaging studies to confirm advanced disease.</Visit>
+        <Visit>Follow-up visits will occur bi-weekly to assess tolerability, side effects, and imaging will be performed every two cycles to monitor treatment response.</Visit>
+    </StudyVisits>
+    <LengthOfStudy>
+        <Description>Patients will remain on therapy as long as they demonstrate clinical benefit, with a maximum study period of 12 months for overall study duration.</Description>
+    </LengthOfStudy>
+    <InclusionCriteria>
+        <Criteria>Histologically confirmed advanced NSCLC with measurable disease, aged ≥ 18 years, and must have received at least one prior systemic therapy.</Criteria>
+        <Criteria>Patients must exhibit an ECOG performance status of 0-1.</Criteria>
+        <Criteria>Adequate organ function as evidenced by specific laboratory parameters.</Criteria>
+    </InclusionCriteria>
+    <ExclusionCriteria>
+        <Criteria>Prior treatment with mTOR inhibitors or PD-1/PD-L1 inhibitors.</Criteria>
+        <Criteria>Uncontrolled brain metastases or any medical condition that interferes with drug absorption or compliance.</Criteria>
+        <Criteria>Pregnant or breastfeeding women, individuals with nonsmall cell lung cancer within the last 3 years other than in situ malignancies.</Criteria>
+    </ExclusionCriteria>
+    <OutcomeMeasures>
+        <Measure>Overall survival at 6 months evaluated by Kaplan-Meier survival estimates.</Measure>
+        <Measure>Documented progression-free survival according to RECIST criteria.</Measure>
+        <Measure>Characterization of adverse effects through CTCAE version 5.0 grading.</Measure>
+    </OutcomeMeasures>
+    <Status>Failure</Status>
+    <FailureReason>The trial was terminated due to insufficient efficacy observed in the combined treatment group, highlighting that the expected improvement in overall survival did not exceed historical survival rates associated with Nivolumab monotherapy.</FailureReason>
+    <Participants>Failure to achieve the desired endpoint led to early termination with only 35 patients enrolled before closing.</Participants>
+</ClinicalTrial>
+```

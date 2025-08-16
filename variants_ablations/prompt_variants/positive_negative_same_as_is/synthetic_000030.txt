@@ -1,0 +1,71 @@
+```xml
+<clinicalTrial>
+  <title>A Phase II Randomized Study Evaluating Afatinib in Combination with Pembrolizumab for Patients with Advanced Non-Small Cell Lung Cancer Harboring EGFR Mutations</title>
+  
+  <studyDesign>
+    <phase>II</phase>
+    <type>Randomized, Open-label</type>
+    <objective>
+      <primary>To evaluate the efficacy of afatinib in combination with pembrolizumab in patients with advanced non-small cell lung cancer (NSCLC) harboring EGFR mutations compared to afatinib monotherapy.</primary>
+      <secondary>To assess the safety profile and tolerability of the combination therapy, as well as to explore molecular biomarkers associated with treatment response.</secondary>
+    </objective>
+  </studyDesign>
+
+  <background>
+    <reason>Afatinib’s targeted mechanism of action through irreversible inhibition of EGFR has shown substantial promise in treating advanced NSCLC with known EGFR mutations. Moreover, the hypothesis that combining afatinib with programmable immune checkpoints may synergistically enhance antitumor activity warrants investigation.</reason>
+    <reason>The choice of pembrolizumab as a co-therapy is supported by emerging clinical evidence of threshold sensitivity of T cell activation in the presence of targeted EGFR inhibition, potentially resulting in improved clinical outcomes for patients previously refractory to conventional therapies.</reason>
+    <reason><robustDesign>Utilizing a stringent inclusion/exclusion criteria allows for the identification of a patient population that would be most likely to respond to the therapeutic intervention, thereby enhancing the accuracy of outcome assessments.</robustDesign></reason>
+  </background>
+
+  <inclusionCriteria>
+    <criterion>Histologically confirmed diagnosis of advanced or metastatic NSCLC with documented EGFR mutation.</criterion>
+    <criterion>At least one measurable lesion per RECIST 1.1 criteria.</criterion>
+    <criterion>Patients must have received at least one prior line of treatment but must be naïve to EGFR inhibitors.</criterion>
+    <criterion>ECOG performance status of 0-1.</criterion>
+    <criterion>Consent to participate in the study and provide biomarker samples.</criterion>
+  </inclusionCriteria>
+
+  <exclusionCriteria>
+    <criterion>Active central nervous system metastases requiring immediate intervention.</criterion>
+    <criterion>Prior treatment with any anti-PD-1/PD-L1 therapies.</criterion>
+    <criterion>Interstitial lung disease or active autoimmune disease.</criterion>
+  </exclusionCriteria>
+
+  <intervention>
+    <arm>
+      <name>Arm A</name>
+      <description>Afatinib plus Pembrolizumab</description>
+      <dosage>Afatinib 40 mg orally daily for 28 days, followed by Pembrolizumab 200 mg intravenously every 3 weeks.</dosage>
+    </arm>
+    <arm>
+      <name>Arm B</name>
+      <description>Afatinib monotherapy</description>
+      <dosage>Afatinib 40 mg orally daily for 28 days.</dosage>
+    </arm>
+  </intervention>
+  
+  <sampleSize>
+    <number>150</number>
+    <description>Patients randomized in a 1:1 ratio to Arm A or Arm B.</description>
+  </sampleSize>
+
+  <endpoints>
+    <primary>
+      <endpoint>Objective response rate (ORR) measured by complete response (CR) and partial response (PR) according to RECIST v1.1 criteria.</endpoint>
+      <endpoint>Progression-free survival (PFS) evaluated at 6-month intervals.</endpoint>
+    </primary>
+    <secondary>
+      <endpoint>Treatment-related adverse events and serious adverse events assessed using NCI CTCAE version 5.0.</endpoint>
+      <endpoint>Biomarker expression levels before and after treatment to identify potential correlations with clinical outcomes.</endpoint>
+    </secondary>
+  </endpoints>
+  
+  <methodology>
+    <description>Patients will undergo clinical evaluations and imaging techniques (CT or MRI) at baseline and every two cycles thereafter to monitor response. Adverse events will be documented according to predefined toxicity grading criteria.</description>
+  </methodology>
+  
+  <outcome>
+    <description>It is anticipated that the combination therapy will yield a significantly higher ORR compared to afatinib monotherapy while maintaining a manageable safety profile. Biomarker analysis will identify potential predictive factors enhancing the therapeutic regimen.</description>
+  </outcome>
+</clinicalTrial>
+```
